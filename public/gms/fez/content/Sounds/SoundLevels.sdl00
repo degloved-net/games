@@ -1,0 +1,1234 @@
+﻿volumeLevels type="FezEngine.Structure.VolumeLevels, FezEngine" {
+	sounds {
+		sound key="Zu\\BlackHoleBuzz" {
+			level 0.4849F
+		}
+		sound key="Zu\\BlackHoleGlitch1" {
+			level 0.111F
+		}
+		sound key="Zu\\BlackHoleGlitch2" {
+			level 0.111F
+		}
+		sound key="Zu\\CodeMachineActivate" {
+			level 1F
+		}
+		sound key="Zu\\CodeMachineInput" {
+			level 0.789F
+		}
+		sound key="Zu\\HexaLine01" {
+			level 1F
+		}
+		sound key="Zu\\HexaLine02" {
+			level 1F
+		}
+		sound key="Zu\\HexaLine03" {
+			level 1F
+		}
+		sound key="Zu\\HexaLine04" {
+			level 1F
+		}
+		sound key="Zu\\HexaLine05" {
+			level 1F
+		}
+		sound key="Zu\\HexaWarpIn" {
+			level 0.8765F
+		}
+		sound key="Zu\\LesserWarpActivate" {
+			level 0.96F
+		}
+		sound key="Zu\\LesserWarpIdleSpin" {
+			level 0.84F
+		}
+		sound key="Zu\\LesserWarpLower" {
+			level 0.987F
+		}
+		sound key="Zu\\LesserWarpRise" {
+			level 0.987F
+		}
+		sound key="Zu\\WarpGateActivate" {
+			level 0.96F
+		}
+		sound key="Zu\\WatcherCollide" {
+			level 0.456F
+		}
+		sound key="Zu\\WatcherMove" {
+			level 1F
+		}
+		sound key="Zu\\WatcherSee" {
+			level 1F
+		}
+		sound key="Zu\\WatcherWithdraw" {
+			level 1F
+		}
+		sound key="Wildlife\\BirdFly" {
+			level 0.747F
+		}
+		sound key="Wildlife\\BirdTakeoff" {
+			level 0.63F
+		}
+		sound key="Wildlife\\BlueJaySing" {
+			level 0.234F
+		}
+		sound key="Wildlife\\CritterComeOut" {
+			level 0.234F
+		}
+		sound key="Wildlife\\CritterHide" {
+			level 0.21F
+		}
+		sound key="Wildlife\\CrowCry" {
+			level 0.4567F
+		}
+		sound key="Wildlife\\GullCry" {
+			level 0.421F
+		}
+		sound key="Wildlife\\OwlHoot" {
+			level 0.48F
+		}
+		sound key="Wildlife\\RabbitBurrow" {
+			level 0.654F
+		}
+		sound key="Wildlife\\TitSing" {
+			level 0.43F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdChirp1" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdChirp2" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdCry1" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdCry2" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdHoot1" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdHoot2" {
+			level 0.45F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdSing1" {
+			level 0.369F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdSing2" {
+			level 0.369F
+		}
+		sound key="Wildlife\\MiscBirds\\BirdSing3" {
+			level 0.45F
+		}
+		sound key="Ui\\EnterMenucubeOrMap" {
+			level 0.98F
+		}
+		sound key="Ui\\ExitMenucubeOrMap" {
+			level 0.931F
+		}
+		sound key="Ui\\MoveCursorMenucube" {
+			level 0.6789F
+		}
+		sound key="Ui\\RotateLeft" {
+			level 0.7654F
+		}
+		sound key="Ui\\RotateRight" {
+			level 0.7654F
+		}
+		sound key="Ui\\TextNext" {
+			level 0.7007F
+		}
+		sound key="Ui\\WorldMapMagnet" {
+			level 1F
+		}
+		sound key="Ui\\ZoomIn" {
+			level 0.89F
+		}
+		sound key="Ui\\ZoomOut" {
+			level 0.87F
+		}
+		sound key="Ui\\Menu\\AdvanceLevel" {
+			level 0.99F
+		}
+		sound key="Ui\\Menu\\Appear" {
+			level 0.977F
+		}
+		sound key="Ui\\Menu\\Cancel" {
+			level 0.88F
+		}
+		sound key="Ui\\Menu\\Confirm" {
+			level 0.8421F
+		}
+		sound key="Ui\\Menu\\CursorDown" {
+			level 0.71F
+		}
+		sound key="Ui\\Menu\\CursorUp" {
+			level 0.72F
+		}
+		sound key="Ui\\Menu\\Disappear" {
+			level 0.999F
+		}
+		sound key="Ui\\Menu\\ExitGame" {
+			level 0.9696F
+		}
+		sound key="Ui\\Menu\\ReturnLevel" {
+			level 0.99F
+		}
+		sound key="Ui\\Menu\\ScreenNarrowen" {
+			level 1F
+		}
+		sound key="Ui\\Menu\\ScreenWiden" {
+			level 1F
+		}
+		sound key="Ui\\Menu\\SliderValueDecrease" {
+			level 0.62F
+		}
+		sound key="Ui\\Menu\\SliderValueIncrease" {
+			level 0.63F
+		}
+		sound key="Ui\\Menu\\StartGame" {
+			level 0.99F
+		}
+		sound key="Sewer\\GeyserLoop" {
+			level 0.48F
+		}
+		sound key="Sewer\\PipeDown" {
+			level 0.931F
+		}
+		sound key="Sewer\\PipeUp" {
+			level 0.931F
+		}
+		sound key="Sewer\\SewageBubbling" {
+			level 1F
+		}
+		sound key="Sewer\\SewageFall" {
+			level 0.248F
+		}
+		sound key="Sewer\\SewageLevelChange" {
+			level 0.678F
+		}
+		sound key="Sewer\\ValveScrew" {
+			level 0.98F
+		}
+		sound key="Sewer\\ValveUnscrew" {
+			level 0.98F
+		}
+		sound key="Npc\\GhostTalk" {
+			level 0.94F
+		}
+		sound key="Npc\\HexahedronTalk" {
+			level 0.85425F
+		}
+		sound key="Npc\\TalkLoopBlondette" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopBoy" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopBrunette" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopFuManchu" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopGeezer" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopGirl" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopGlasses" {
+			level 0.74F
+		}
+		sound key="Npc\\TalkLoopZuBoy" {
+			level 0.84F
+		}
+		sound key="Npc\\TalkLoopZuElder" {
+			level 0.84F
+		}
+		sound key="Npc\\TalkLoopZuGirl" {
+			level 0.84F
+		}
+		sound key="Npc\\TalkLoopZuMan" {
+			level 0.84F
+		}
+		sound key="Npc\\TalkLoopZuWoman" {
+			level 0.84F
+		}
+		sound key="Nature\\CrumblerCrumble" {
+			level 0.7374F
+		}
+		sound key="Nature\\CrumblerWarning" {
+			level 0.2728F
+		}
+		sound key="Nature\\TimeswitchEndWindBack" {
+			level 0.87F
+		}
+		sound key="Nature\\TimeswitchWindBack" {
+			level 0.84F
+		}
+		sound key="Nature\\WaterSplash" {
+			level 0.4444F
+		}
+		sound key="MiscActors\\AcceptSuckBlock1" {
+			level 0.97F
+		}
+		sound key="MiscActors\\AcceptSuckBlock2" {
+			level 0.98F
+		}
+		sound key="MiscActors\\AcceptSuckBlock3" {
+			level 0.99F
+		}
+		sound key="MiscActors\\AcceptSuckBlock4" {
+			level 1F
+		}
+		sound key="MiscActors\\BellHit1" {
+			level 0.676869F
+		}
+		sound key="MiscActors\\BellHit2" {
+			level 0.676869F
+		}
+		sound key="MiscActors\\BellHit3" {
+			level 0.676869F
+		}
+		sound key="MiscActors\\BellHit4" {
+			level 0.676869F
+		}
+		sound key="MiscActors\\BigWaterfallClosed" {
+			level 0.987F
+		}
+		sound key="MiscActors\\BigWaterfallOpen" {
+			level 0.963F
+		}
+		sound key="MiscActors\\BigWaterfallOpening" {
+			level 1F
+		}
+		sound key="MiscActors\\BombCountdown" {
+			level 0.456F
+		}
+		sound key="MiscActors\\BombExplode" {
+			level 0.747F
+		}
+		sound key="MiscActors\\Denied" {
+			level 0.987F
+		}
+		sound key="MiscActors\\ForkActivate" {
+			level 1F
+		}
+		sound key="MiscActors\\GlitchyRespawn" {
+			level 0.87F
+		}
+		sound key="MiscActors\\GrabLever" {
+			level 0.808F
+		}
+		sound key="MiscActors\\HitFloor" {
+			level 0.963F
+		}
+		sound key="MiscActors\\HitFloor2" {
+			level 0.963F
+		}
+		sound key="MiscActors\\LetterTubeHit" {
+			level 0.4567F
+		}
+		sound key="MiscActors\\LetterTubeInsert" {
+			level 0.789F
+		}
+		sound key="MiscActors\\RotateMetallic" {
+			level 1F
+		}
+		sound key="MiscActors\\RotateRock" {
+			level 1F
+		}
+		sound key="MiscActors\\RotateSwoosh" {
+			level 1F
+		}
+		sound key="MiscActors\\Rumble" {
+			level 0.54F
+		}
+		sound key="MiscActors\\SecretSolved" {
+			level 0.987F
+		}
+		sound key="MiscActors\\TntExplode" {
+			level 0.735F
+		}
+		sound key="MiscActors\\VaseBreak" {
+			level 1F
+		}
+		sound key="Lava\\LargeBubble" {
+			level 1F
+		}
+		sound key="Lava\\MediumBubble" {
+			level 1F
+		}
+		sound key="Lava\\SmallBubble" {
+			level 1F
+		}
+		sound key="Intro\\FezLogoDrone" {
+			level 1F
+		}
+		sound key="Intro\\FezLogoGlitch1" {
+			level 0.567F
+		}
+		sound key="Intro\\FezLogoGlitch2" {
+			level 0.567F
+		}
+		sound key="Intro\\FezLogoGlitch3" {
+			level 0.567F
+		}
+		sound key="Intro\\Hyperspeed" {
+			level 1F
+		}
+		sound key="Intro\\LensFlareGleam" {
+			level 1F
+		}
+		sound key="Intro\\LogoZoom" {
+			level 1F
+		}
+		sound key="Intro\\PanDown" {
+			level 1F
+		}
+		sound key="Intro\\Reboot" {
+			level 0.99F
+		}
+		sound key="Intro\\TrixelLogoIn" {
+			level 1F
+		}
+		sound key="Intro\\TrixelLogoOut" {
+			level 1F
+		}
+		sound key="Intro\\ZoomToHouse" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\AmbientHex" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\BeamGrow" {
+			level 0.89F
+		}
+		sound key="Intro\\Elders\\Explode" {
+			level 0.998877F
+		}
+		sound key="Intro\\Elders\\GomezBeamAppear" {
+			level 0.9796F
+		}
+		sound key="Intro\\Elders\\GomezBeamUp" {
+			level 0.93F
+		}
+		sound key="Intro\\Elders\\HexAlign" {
+			level 0.97F
+		}
+		sound key="Intro\\Elders\\HexDisappear" {
+			level 0.96F
+		}
+		sound key="Intro\\Elders\\HexRise" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\HexSlowDown" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\MatrixRampUp" {
+			level 0.87F
+		}
+		sound key="Intro\\Elders\\NightTransition" {
+			level 0.65F
+		}
+		sound key="Intro\\Elders\\RayExplosion" {
+			level 0.995F
+		}
+		sound key="Intro\\Elders\\SparklyParticles" {
+			level 0.999F
+		}
+		sound key="Intro\\Elders\\StarTrails" {
+			level 0.96F
+		}
+		sound key="Intro\\Elders\\TinyBeam" {
+			level 0.95F
+		}
+		sound key="Intro\\Elders\\WhiteOut" {
+			level 0.99F
+		}
+		sound key="Intro\\Elders\\Timestretches\\Timestretch1" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\Timestretches\\Timestretch2" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\Timestretches\\Timestretch3" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\HexDrones\\HexDrone1" {
+			level 0.81F
+		}
+		sound key="Intro\\Elders\\HexDrones\\HexDrone2" {
+			level 0.87F
+		}
+		sound key="Intro\\Elders\\HexDrones\\HexDrone3" {
+			level 0.92F
+		}
+		sound key="Intro\\Elders\\Glitches\\Glitch1" {
+			level 0.89F
+		}
+		sound key="Intro\\Elders\\Glitches\\Glitch2" {
+			level 0.89F
+		}
+		sound key="Intro\\Elders\\Glitches\\Glitch3" {
+			level 0.89F
+		}
+		sound key="Industrial\\BoltScrew" {
+			level 0.777F
+		}
+		sound key="Industrial\\BoltUnscrew" {
+			level 0.777F
+		}
+		sound key="Industrial\\ConnectiveIdle" {
+			level 0.98F
+		}
+		sound key="Industrial\\ConnectiveKlonk" {
+			level 0.999F
+		}
+		sound key="Industrial\\ConnectiveStartUp" {
+			level 1F
+		}
+		sound key="Industrial\\LargeSpinblock" {
+			level 0.59F
+		}
+		sound key="Industrial\\MotorBlockLand" {
+			level 0.76F
+		}
+		sound key="Industrial\\MotorBlockMove" {
+			level 0.76F
+		}
+		sound key="Industrial\\MotorBlockStartup" {
+			level 0.76F
+		}
+		sound key="Industrial\\MotorBlockStop" {
+			level 0.76F
+		}
+		sound key="Industrial\\PivotLeft" {
+			level 0.76F
+		}
+		sound key="Industrial\\PivotRight" {
+			level 0.76F
+		}
+		sound key="Industrial\\RotatoSpinblock" {
+			level 0.575F
+		}
+		sound key="Industrial\\SmallSpinblock" {
+			level 0.5525F
+		}
+		sound key="Industrial\\SwitchHalfPress" {
+			level 0.931F
+		}
+		sound key="Industrial\\SwitchPress" {
+			level 0.963F
+		}
+		sound key="Graveyard\\Rain" {
+			level 1F
+		}
+		sound key="Graveyard\\Thunder1" {
+			level 0.862F
+		}
+		sound key="Graveyard\\Thunder2" {
+			level 0.884F
+		}
+		sound key="Graveyard\\Thunder3" {
+			level 0.906F
+		}
+		sound key="Graveyard\\Thunder4" {
+			level 0.928F
+		}
+		sound key="Graveyard\\ThunderDistant01" {
+			level 0.63F
+		}
+		sound key="Graveyard\\ThunderDistant02" {
+			level 0.59F
+		}
+		sound key="Graveyard\\ThunderDistant03" {
+			level 0.54F
+		}
+		sound key="Graveyard\\ThunderRumble" {
+			level 0.96F
+		}
+		sound key="Graveyard\\TombRotateLeft" {
+			level 1F
+		}
+		sound key="Graveyard\\TombRotateRight" {
+			level 1F
+		}
+		sound key="Gomez\\AirPanic" {
+			level 0.98F
+		}
+		sound key="Gomez\\Blink" {
+			level 0.64F
+		}
+		sound key="Gomez\\BounceHigh" {
+			level 0.765F
+		}
+		sound key="Gomez\\BounceLow" {
+			level 0.747F
+		}
+		sound key="Gomez\\BurnInLava" {
+			level 0.963F
+		}
+		sound key="Gomez\\ClimbLadder" {
+			level 0.66F
+		}
+		sound key="Gomez\\ClimbOverLadder" {
+			level 0.707F
+		}
+		sound key="Gomez\\ClimbVine" {
+			level 0.4567F
+		}
+		sound key="Gomez\\CornerLedgeHoist" {
+			level 0.777F
+		}
+		sound key="Gomez\\CrashLand" {
+			level 0.9695F
+		}
+		sound key="Gomez\\DropFromLadder" {
+			level 0.999F
+		}
+		sound key="Gomez\\DropFromVine" {
+			level 0.999F
+		}
+		sound key="Gomez\\DropHeavyPickup" {
+			level 0.96F
+		}
+		sound key="Gomez\\DropLightPickup" {
+			level 0.96F
+		}
+		sound key="Gomez\\DrownToxic" {
+			level 0.99F
+		}
+		sound key="Gomez\\EnterDoor" {
+			level 0.567F
+		}
+		sound key="Gomez\\ExitDoor" {
+			level 0.567F
+		}
+		sound key="Gomez\\GrabLadder" {
+			level 0.75F
+		}
+		sound key="Gomez\\GrabPickup" {
+			level 0.747F
+		}
+		sound key="Gomez\\GrabVine" {
+			level 0.8421F
+		}
+		sound key="Gomez\\IdleLookaround" {
+			level 1F
+		}
+		sound key="Gomez\\IdlePlay" {
+			level 1F
+		}
+		sound key="Gomez\\IdleSleep" {
+			level 1F
+		}
+		sound key="Gomez\\Jump" {
+			level 0.65F
+		}
+		sound key="Gomez\\Land" {
+			level 0.626364F
+		}
+		sound key="Gomez\\LedgeDrop" {
+			level 0.707F
+		}
+		sound key="Gomez\\LedgeGrab" {
+			level 0.456789F
+		}
+		sound key="Gomez\\LedgeShimmy" {
+			level 0.4321F
+		}
+		sound key="Gomez\\LedgeToCorner" {
+			level 0.63F
+		}
+		sound key="Gomez\\LiftHeavyPickup" {
+			level 0.931F
+		}
+		sound key="Gomez\\LiftLightPickup" {
+			level 0.931F
+		}
+		sound key="Gomez\\LookDown" {
+			level 0.98F
+		}
+		sound key="Gomez\\LookLeft" {
+			level 0.98F
+		}
+		sound key="Gomez\\LookRight" {
+			level 0.98F
+		}
+		sound key="Gomez\\LookUp" {
+			level 0.98F
+		}
+		sound key="Gomez\\OpenDoor" {
+			level 0.64F
+		}
+		sound key="Gomez\\PushPickup" {
+			level 1F
+		}
+		sound key="Gomez\\StraightLedgeHoist" {
+			level 0.777F
+		}
+		sound key="Gomez\\SuckedIn" {
+			level 0.678F
+		}
+		sound key="Gomez\\Swim" {
+			level 0.8281F
+		}
+		sound key="Gomez\\Teeter" {
+			level 0.43F
+		}
+		sound key="Gomez\\ThrowHeavyPickup" {
+			level 1F
+		}
+		sound key="Gomez\\ThrowLightPickup" {
+			level 1F
+		}
+		sound key="Gomez\\Tread" {
+			level 0.6261F
+		}
+		sound key="Gomez\\TurnAround" {
+			level 0.3456F
+		}
+		sound key="Gomez\\UnlockDoor" {
+			level 0.65F
+		}
+		sound key="Gomez\\Yawn" {
+			level 0.876F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\SlideStep" {
+			level 0.01F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step01" {
+			level 0.239F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step02" {
+			level 0.25F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step03" {
+			level 0.241F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step04" {
+			level 0.24F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step05" {
+			level 0.241F
+		}
+		sound key="Gomez\\Footsteps\\Wood\\Step06" {
+			level 0.239F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\SlideStep" {
+			level 0.01F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step01" {
+			level 0.365F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step02" {
+			level 0.366F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step03" {
+			level 0.367F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step04" {
+			level 0.366F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step05" {
+			level 0.367F
+		}
+		sound key="Gomez\\Footsteps\\Stone\\Step06" {
+			level 0.365F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\SlideStep" {
+			level 0.01F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step01" {
+			level 0.425F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step02" {
+			level 0.426F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step03" {
+			level 0.427F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step04" {
+			level 0.426F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step05" {
+			level 0.427F
+		}
+		sound key="Gomez\\Footsteps\\Metal\\Step06" {
+			level 0.425F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\SlideStep" {
+			level 0.01F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step01" {
+			level 0.255F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step02" {
+			level 0.256F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step03" {
+			level 0.257F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step04" {
+			level 0.256F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step05" {
+			level 0.257F
+		}
+		sound key="Gomez\\Footsteps\\Grass\\Step06" {
+			level 0.255F
+		}
+		sound key="Dot\\ComeOut" {
+			level 0.747F
+		}
+		sound key="Dot\\HeyListen" {
+			level 0.8421F
+		}
+		sound key="Dot\\Hide" {
+			level 0.757F
+		}
+		sound key="Dot\\Idle" {
+			level 0.323334F
+		}
+		sound key="Dot\\Move" {
+			level 0.7654F
+		}
+		sound key="Dot\\Talk" {
+			level 0.999F
+		}
+		sound key="Collects\\CollectArtifact" {
+			level 1F
+		}
+		sound key="Collects\\CollectCubeShard" {
+			level 1F
+		}
+		sound key="Collects\\CollectFez" {
+			level 1F
+		}
+		sound key="Collects\\CollectKey" {
+			level 1F
+		}
+		sound key="Collects\\OpenTreasure" {
+			level 0.987F
+		}
+		sound key="Collects\\SplitUpCube\\A2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\A3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Asharp2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Asharp3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_Asharp_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_A_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_B_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_C3_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_Csharp_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_C_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_Dsharp_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_D_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_E_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_Fsharp_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_F_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_Gsharp_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\Assemble_G_maj" {
+			level 1F
+		}
+		sound key="Collects\\SplitUpCube\\B2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\B3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\C2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\C3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\C4" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Csharp2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Csharp3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\D2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\D3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Dsharp2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Dsharp3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\E2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\E3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\F2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\F3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Fsharp2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Fsharp3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\G2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\G3" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Gsharp2" {
+			level 0.84F
+		}
+		sound key="Collects\\SplitUpCube\\Gsharp3" {
+			level 0.84F
+		}
+		sound key="Collects\\BitChime" {
+			level 0.642F
+		}
+		sound key="Ui\\RotateLeftHalfSpeed" {
+			level 1F
+		}
+		sound key="Ui\\RotateRightHalfSpeed" {
+			level 1F
+		}
+		sound key="MiscActors\\ClockTick" {
+			level 1F
+		}
+		sound key="MiscActors\\ClockTock" {
+			level 1F
+		}
+		sound key="MiscActors\\Piston" {
+			level 0.8421F
+		}
+		sound key="MiscActors\\PressureValve" {
+			level 1F
+		}
+		sound key="Intro\\Elders\\HexDrones\\HexDrone4" {
+			level 0.96F
+		}
+		sound key="Intro\\Elders\\HexDrones\\HexDrone5" {
+			level 0.99F
+		}
+		sound key="Intro\\PolytronJingle" {
+			level 0.8642F
+		}
+		sound key="Ending\\Pyramid\\MothercubeRotateDrone" {
+			level 1F
+		}
+		sound key="Ending\\Pyramid\\WhiteOut" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\HexAppear" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\CubeAppear" {
+			level 0.963F
+		}
+		sound key="Ending\\HexRebuild\\MotorStart1" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\MotorStart2" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\MotorStartAOK" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\MotorStartCrash" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\RayWhiteout" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\BlueZoomOut" {
+			level 0.808F
+		}
+		sound key="Ending\\Cutscene64\\CubesFadeOut" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\CubesProgressiveAppear" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\DotAppear" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\DotsProgressiveAppear" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\DotStartMove" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\TVOff" {
+			level 1F
+		}
+		sound key="Ending\\Cutscene64\\WhiteNoise" {
+			level 1F
+		}
+		sound key="MiscActors\\TickTockLoop" {
+			level 0.963F
+		}
+		sound key="Intro\\Elders\\Glitches\\FezLogoGlitch1" {
+			level 0.3456F
+		}
+		sound key="Intro\\Elders\\Glitches\\FezLogoGlitch2" {
+			level 0.3456F
+		}
+		sound key="Intro\\Elders\\Glitches\\FezLogoGlitch3" {
+			level 0.3456F
+		}
+		sound key="Ending\\HexRebuild\\Aku" {
+			level 0.98F
+		}
+		sound key="Ending\\HexRebuild\\AmbientDrone" {
+			level 1F
+		}
+		sound key="Ending\\HexRebuild\\ZoomIn" {
+			level 0.98F
+		}
+		sound key="CMYKave\\11x_01" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\11x_02" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\11x_03" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\11x_04" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\3x_01" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\3x_02" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\3x_03" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\3x_04" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\5x_01" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\5x_02" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\5x_03" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\5x_04" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_1" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_2" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_3" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_4" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_5" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_6" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_7" {
+			level 0.54321F
+		}
+		sound key="CMYKave\\b_8" {
+			level 0.54321F
+		}
+		sound key="Gomez\\Footsteps\\Left" {
+			level 0.2021F
+		}
+		sound key="Gomez\\Footsteps\\Right" {
+			level 0.2024F
+		}
+		sound key="Gomez\\FallThroughAir" {
+			level 0.8584F
+		}
+		sound key="Gomez\\TurnAway" {
+			level 0.56F
+		}
+		sound key="Gomez\\TurnBack" {
+			level 0.54F
+		}
+		sound key="Industrial\\TimeswitchWind" {
+			level 1F
+		}
+		sound key="Industrial\\TimeswitchWindUp" {
+			level 0.98F
+		}
+		sound key="Zu\\DoorBitFadeOut" {
+			level 0.345F
+		}
+		sound key="Zu\\DoorBitLightUp" {
+			level 0.321F
+		}
+		sound key="Ui\\MapBeacon" {
+			level 0.32F
+		}
+		sound key="Ui\\ScrollClose" {
+			level 0.789F
+		}
+		sound key="Ui\\ScrollOpen" {
+			level 0.8281F
+		}
+		sound key="MiscActors\\LetterAppear" {
+			level 0.98F
+		}
+		sound key="Intro\\StarZoom" {
+			level 1F
+		}
+		sound key="Intro\\ZoomToFarawayPlace" {
+			level 0.999F
+		}
+		sound key="MiscActors\\SuckBlockSuck" {
+			level 0.87F
+		}
+		sound key="Gomez\\LowerToLedge" {
+			level 0.737F
+		}
+		sound key="Wildlife\\CaterpillarCrap" {
+			level 0.369F
+		}
+		sound key="Wildlife\\SnailHide" {
+			level 1F
+		}
+		sound key="Wildlife\\ToadCroak" {
+			level 0.654321F
+		}
+		sound key="Wildlife\\TurtleHide" {
+			level 1F
+		}
+		sound key="Ui\\RotateCenter" {
+			level 0.898887F
+		}
+		sound key="Gomez\\LedgeLand" {
+			level 0.4567F
+		}
+		sound key="Gomez\\GomezPush" {
+			level 1F
+		}
+		sound key="Gomez\\HatCatch" {
+			level 1F
+		}
+		sound key="Gomez\\HatFallOnHead" {
+			level 1F
+		}
+		sound key="Gomez\\HatFinalThrow" {
+			level 1F
+		}
+		sound key="Gomez\\HatGrab" {
+			level 1F
+		}
+		sound key="Gomez\\HatThrow" {
+			level 1F
+		}
+		sound key="Gomez\\IdleFaceFront" {
+			level 1F
+		}
+		sound key="Gomez\\IdleTurnLeft" {
+			level 1F
+		}
+		sound key="Gomez\\IdleTurnRight" {
+			level 1F
+		}
+		sound key="Gomez\\IdleTurnUp" {
+			level 1F
+		}
+		sound key="Gomez\\LayDown" {
+			level 1F
+		}
+		sound key="Gomez\\Snore" {
+			level 1F
+		}
+		sound key="Gomez\\SwayLeft" {
+			level 1F
+		}
+		sound key="Gomez\\SwayRight" {
+			level 1F
+		}
+		sound key="Gomez\\WakeUp" {
+			level 1F
+		}
+		sound key="Ui\\CubeTransition" {
+			level 0.30609F
+		}
+		sound key="Nature\\ShootingStar" {
+			level 0.765432F
+		}
+		sound key="Industrial\\SwitchHalfRelease" {
+			level 0.89F
+		}
+		sound key="Ui\\MapBackground" {
+			level 1F
+		}
+		sound key="Ui\\MenuCubeBackground" {
+			level 1F
+		}
+		sound key="MiscActors\\PistonSetBack" {
+			level 0.6315F
+		}
+		sound key="Gomez\\TeeterBegin" {
+			level 1F
+		}
+		sound key="Gomez\\TeeterMouthClose" {
+			level 1F
+		}
+		sound key="Gomez\\TeeterMouthOpen" {
+			level 1F
+		}
+		sound key="Zu\\ForkRumble" {
+			level 1F
+		}
+	}
+}

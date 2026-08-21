@@ -1,0 +1,6 @@
+msgid "@niko A potted plant..."
+msgstr "@niko Растение в горшке..."
+
+msgid "@niko_speak This one has a pink flower on it."
+msgstr "@niko_speak На этом — розовый цветок."
+

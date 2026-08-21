@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31] LUCES CORRECTAS.]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][¡ACCESSO PERMITIDO!]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][ACCESSO DENEGADO. \\v[37] INTENTOS RESTANTES.]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][INTRUSO DETECTADO. REESTABLECIENDO MECANISMO DE BLOQUEO.]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed Ay... A empezar de nuevo..."
+
+msgid "[HALT!]"
+msgstr "[¡ALTO!]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[ESPERE MÁS INSTRUCCIONES SOBRE LA PRUEBA DE SEGURIDAD.]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[HÁBLELE AL ROBOT DE LA PUERTA.]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko ¡Hemos abierto el bloqueo!"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[SE HA DESACTIVADO TEMPORALMENTE EL SISTEMA DE SEGURIDAD.]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[¿QUIERE REESTABLECERLO?]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ... No creo que quiera pasar por todo ESO otra vez..."
+
+msgid "@niko_what um..."
+msgstr "@niko_what Mmm..."
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko ¿Cómo... soluciono esto...?"
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[ESTO ES PARTE DE LA PRUEBA.]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed ¡Qué lata!"
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[PARA ACCEDER A LOS LABORATORIOS.]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[DEBE PASAR LA PRUEBA DEL SISTEMA DE SEGURIDAD.]"
+
+msgid "@niko The... huh?"
+msgstr "@niko ¿La... qué?"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[DEBE CAMBIAR EL COLOR DE LAS LUCES SEGUIENDO UNA CONFIGURACIÓN ESPECÍFICA.]"
+
+msgid "[ALLOW ME.]"
+msgstr "[PERMÍTAME.]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed Bloqueada."
+

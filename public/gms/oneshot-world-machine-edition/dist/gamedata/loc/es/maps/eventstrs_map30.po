@@ -1,0 +1,33 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Las luciérnagas iluminan esta sala."
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko En este tarro hay algunas luciérnagas revoloteando."
+
+msgid "Don't be afraid to ask if you guys want some stew!"
+msgstr "Si queréis estofado, ¡pedidlo sin miedo!"
+
+msgid "@alula_speak Thank you!"
+msgstr "@alula_speak ¡Gracias!"
+
+msgid "Don't be afraid to ask if you want some stew!"
+msgstr "Si queréis estofado, ¡pedidlo sin miedo!"
+
+msgid "It's not ready yet, but...\\nWould you kids like some stew?"
+msgstr "Aún no está listo, pero...\\n¿Os apetece un poco de estofado?"
+
+msgid "@niko_speak I'm not hungry...\\nBut thank you!"
+msgstr "@niko_speak La verdad es que no tengo hambre...\\npero ¡gracias!"
+
+msgid "@alula Same!"
+msgstr "@alula ¡Lo mismo digo!"
+
+msgid "Well, don't be afraid to ask when you do get hungry!"
+msgstr "Bueno, si te entra el hambre, ¡pide sin miedo!"
+
+msgid "It's not ready yet, but...\\nWould you like some stew?"
+msgstr "Aún no está listo, pero...\\n¿Te apetece un poco de estofado?"
+
+msgid "It's the least I can offer the savior!"
+msgstr "¡Es lo mínimo que puedo ofrecerle al salvador!"
+

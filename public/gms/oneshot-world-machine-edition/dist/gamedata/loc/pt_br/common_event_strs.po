@@ -1,0 +1,1209 @@
+msgid "@niko I can't combine those..."
+msgstr "@niko Não combinam..."
+
+msgid "@ed [Those can't be combined.]"
+msgstr "@ed [Não dá para combinar isso.]"
+
+msgid "@ed Niko dips the branch into the alcohol."
+msgstr "@ed Niko molha o galho no álcool."
+
+msgid "@niko Use the screwdriver to... pull the lens out...?"
+msgstr "@niko Use a chave de fenda para... puxar a lente...?"
+
+msgid "@niko Okay..."
+msgstr "@niko Certo..."
+
+msgid "@niko_speak Done!"
+msgstr "@niko_speak Pronto!"
+
+msgid "@niko The lens pops right in."
+msgstr "@niko A lente entra direitinho."
+
+msgid "@niko I can't use this one, \\p...\\>\\n\\@niko_speak My eyes are closed in it!"
+msgstr "@niko Não posso usar essa, \\p...\\>\\n\\@niko_speak Eu saí de olho fechado!"
+
+msgid "@niko I don't think we can do anything else here, \\p..."
+msgstr "@niko Acho que não temos mais nada a fazer aqui, \\p..."
+
+msgid "@niko It feels like we're on the right track, though!"
+msgstr "@niko Mas parece que estamos no caminho certo!"
+
+msgid "@niko_eyeclosed I'm not gonna smash the bottle!"
+msgstr "@niko_eyeclosed Não vou esmagar o frasco!"
+
+msgid "@niko_huh \\p!!!\\>\\n\\@niko_eyeclosed I am NOT gonna smash the sun!"
+msgstr "@niko_huh \\p!!!\\>\\n\\@niko_eyeclosed Eu NÃO vou esmagar o sol!"
+
+msgid "@niko We're... using the sun directly on the battery?"
+msgstr "@niko Estamos... usando o sol diretamente na bateria?"
+
+msgid "@niko I would've never thought of that!"
+msgstr "@niko Nunca pensaria nisso!"
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak Bem pensado, \\p!"
+
+msgid "@niko_speak Ah, looks like it's already fully charged."
+msgstr "@niko_speak Ah, parece que já está toda carregada."
+
+msgid "@niko That was fast..."
+msgstr "@niko Que rápido..."
+
+msgid "@niko I should inject the liquid through the cork, right, \\p?"
+msgstr "@niko É para eu injetar o líquido através da rolha, certo, \\p?"
+
+msgid "@niko_speak It's like I'm a doctor!"
+msgstr "@niko_speak Parece até que entendo de medicina!"
+
+msgid "@niko So... I should inject the liquid through the cork, right, \\p?"
+msgstr "@niko Então... eu tenho que injetar o líquido pela rolha, certo, \\p?"
+
+msgid "@niko_speak Oh!\\n\\.\\.\\@niko I should probably shake this too."
+msgstr "@niko_speak Ah!\\n\\.\\.\\@niko Talvez seja bom agitar também."
+
+msgid "@niko_speak ...It changed color!"
+msgstr "@niko_speak ... Mudou de cor!"
+
+msgid "@niko I'm guessing you want me to pour this acid onto the sponge, \\p?"
+msgstr "@niko Acho que você quer que eu despeje este ácido na esponja, certo, \\p?"
+
+msgid "@niko_speak Good thing I have these gloves!"
+msgstr "@niko_speak Que bom que eu tenho essas luvas!"
+
+msgid "@niko_speak I hope this works..."
+msgstr "@niko_speak Tomara que funcione..."
+
+msgid "@niko_speak \\.\\.\\...wait!\\.\\. \\@niko Shouldn't I be wearing gloves for this?"
+msgstr "@niko_speak \\.\\.\\.... espere! \\.\\. \\@niko Não é melhor usar as luvas para fazer isso?"
+
+msgid "@niko_speak Safety first!"
+msgstr "@niko_speak Segurança em primeiro lugar!"
+
+msgid "@niko_speak Oh yeah! We can use the feather as a pen!"
+msgstr "@niko_speak Ah sim! Podemos usar a pena para escrever!"
+
+msgid "@niko I saw it in a picture book once."
+msgstr "@niko Vi num livro uma vez."
+
+msgid "@niko_speak Oh! Maybe we can make a button out of this!"
+msgstr "@niko_speak Ah, talvez dê para fazer um botão com isso!"
+
+msgid "@niko I can cut out a piece of the can and fold it into a rectangle shape..."
+msgstr "@niko Eu corto pedaço da lata e dobro em um retângulo..."
+
+msgid "@niko Just like arts and crafts!"
+msgstr "@niko Igual na aula de artes!"
+
+msgid "@niko Hmm... I don't think it's supposed to be this simple."
+msgstr "@niko Hmm... Acho que não é para ser fácil mesmo."
+
+msgid "@niko_speak How are we gonna connect it to the elevator?"
+msgstr "@niko_speak Como vamos conectar com o elevador?"
+
+msgid "@niko_speak Well, let's find out!"
+msgstr "@niko_speak Bom, vamos descobrir!"
+
+msgid "@niko The magnets don't stick to the aluminum, but..."
+msgstr "@niko Os ímãs não grudam no alumínio, mas..."
+
+msgid "@niko_speak Oh! What if I just folded the magnets under this edge?"
+msgstr "@niko_speak Ah, e se eu dobrar os ímãs nessa beirada?"
+
+msgid "@niko Hmm...\\| It's holding together, if just barely."
+msgstr "@niko Hmm...\\| estão segurando, mas fracamente."
+
+msgid "@niko I... hope that's good enough?"
+msgstr "@niko Bom... espero que seja suficiente."
+
+msgid "@niko The magnets don't stick to aluminum..."
+msgstr "@niko Os ímãs não grudam no alumínio..."
+
+msgid "@niko The back of the photo is covered in glue."
+msgstr "@niko As costas da foto estão cobertas de cola."
+
+msgid "@niko ...and glitter."
+msgstr "@niko ... e glitter."
+
+msgid "@niko The card has my face on it now."
+msgstr "@niko Meu rosto agora está no cartão."
+
+msgid "@niko The card is covered in glue."
+msgstr "@niko O cartão está coberto de cola."
+
+msgid "@niko_speak So, put the pill in the water?"
+msgstr "@niko_speak Então, é para colocar a pílula na água?"
+
+msgid "@niko It dissolved really fast!"
+msgstr "@niko Dissolveu tão rápido!"
+
+msgid "@niko The jar is full of fireflies."
+msgstr "@niko O vidro está cheio de vaga-lumes."
+
+msgid "@niko Coals."
+msgstr "@niko Carvão."
+
+msgid "@niko It's some kind of stew."
+msgstr "@niko É um tipo de ensopado."
+
+msgid "@niko It's a jar full of fireflies."
+msgstr "@niko É um vidro cheio de vaga-lumes."
+
+msgid "@niko_eyeclosed I can't reach the top, \\p..."
+msgstr "@niko_eyeclosed Não consigo alcançar o topo, \\p..."
+
+msgid "@niko It's a gas vent."
+msgstr "@niko É uma ventilação de gás."
+
+msgid "@niko Small sprouts. \\>\\@niko_speak We gotta be careful we don't step on these!"
+msgstr "@niko Brotinhos. \\>\\@niko_speak Temos que tomar cuidado para não pisar neles!"
+
+msgid "@alula You got it!"
+msgstr "@alula Tem razão!"
+
+msgid "@niko Small sprouts. \\>\\@niko_speak I gotta be careful I don't step on these!"
+msgstr "@niko Brotinhos. \\>\\@niko_speak Tenho que tomar cuidado para não pisar neles!"
+
+msgid "@niko It's a small tree."
+msgstr "@niko É uma arvorezinha."
+
+msgid "@niko It's off."
+msgstr "@niko Desligado"
+
+msgid "@niko It's a fridge."
+msgstr "@niko Uma geladeira."
+
+msgid "@niko It's a little plant."
+msgstr "@niko Uma plantinha."
+
+msgid "@niko It's a trash bin."
+msgstr "@niko Um cesto de lixo."
+
+msgid "@niko A bag full of trash."
+msgstr "@niko Um saco cheio de lixo."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed Eca!"
+
+msgid "@niko It's a bed."
+msgstr "@niko É uma cama."
+
+msgid "@niko ...well, more like a mattress."
+msgstr "@niko ... bom, está mais para um colchão só."
+
+msgid "@niko Jars of fireflies are placed next to the fields."
+msgstr "@niko Os vidros de vaga-lumes estão perto dos campos."
+
+msgid "@niko Just a jar."
+msgstr "@niko Só um pote."
+
+msgid "@niko Some jars."
+msgstr "@niko Alguns potes."
+
+msgid "@niko A streetlamp."
+msgstr "@niko Um poste de luz."
+
+msgid "@niko_eyeclosed More of those squares..."
+msgstr "@niko_eyeclosed Mais daqueles quadrados..."
+
+msgid "@niko3 Those squares again..."
+msgstr "@niko3 Aqueles quadrados de novo..."
+
+msgid "@niko_huh These squares are just everywhere..."
+msgstr "@niko_huh Esses quadrados estão em todo lugar..."
+
+msgid "@niko This looks like an altar..."
+msgstr "@niko Parece um altar..."
+
+msgid "@niko_speak Fish!"
+msgstr "@niko_speak Peixe!"
+
+msgid "@alula_speak Fish!"
+msgstr "@alula_speak Peixe!"
+
+msgid "@niko_speak It's clothes!"
+msgstr "@niko_speak São roupas!"
+
+msgid "@calamus_shame Oh! I should probably take these in soon!"
+msgstr "@calamus_shame Ah, em breve eu deverei levar!"
+
+msgid "@niko It's a big metal box with complicated machinery inside."
+msgstr "@niko Uma grande caixa de metal com um maquinário intricado dentro."
+
+msgid "@niko It's a big metal box with lots of machinery inside. \\.\\.\\@niko_speak This one has a robot in it!"
+msgstr "@niko Uma grande caixa de metal com um maquinário intricado dentro. \\.\\.\\@niko_speak Esta tem um robô dentro!"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko É uma estante."
+
+msgid "@niko It's a shelf full of little machine parts and tools I don't recognize."
+msgstr "@niko Uma estante cheia de máquinas e ferramentas que não reconheço."
+
+msgid "@niko It's a gravestone."
+msgstr "@niko É uma lápide."
+
+msgid "@niko A robot without power."
+msgstr "@niko Um robô sem energia."
+
+msgid "@calamus ...wait."
+msgstr "@calamus ... espere."
+
+msgid "@calamus_sad ...we can't get back into our house..."
+msgstr "@calamus_sad ... não podemos voltar para casa..."
+
+msgid "@niko It's a blanket covered in shiny things."
+msgstr "@niko É um cobertor cheio de coisas brilhantes."
+
+msgid "@magpie_hm Still kinda sad I lost most of my stuff..."
+msgstr "@magpie_hm Ainda estou um pouco triste por ter perdido quase tudo..."
+
+msgid "@niko_eyeclosed I don't think it's safe to use this again, \\p."
+msgstr "@niko_eyeclosed Não é seguro usar isso de novo, \\p."
+
+msgid "@ed [You cannot fast travel right now.]"
+msgstr "@ed [Você não pode viajar agora.]"
+
+msgid "@tut FAST TRAVEL\\n\\n\\nYOU CAN QUICKLY TRAVEL TO THE LOCATIONS YOU HAVE ALREADY VISITED BY SELECTING THE \"FAST TRAVEL\" OPTION IN THE MENU.\\n\\nYOU CAN OPEN THE MENU WITH @MAINMENU\\n\\nFAST TRAVEL CANNOT BE USED INDOORS."
+msgstr "@tut VIAGEM RÁPIDA\\n\\n\\nVOCÊ PODE VIAJAR RAPIDAMENTE PARA OS LOCAIS JÁ VISITADOS SELECIONANDO A OPÇÃO \"VIAGEM RÁPIDA\" NO MENU.\\n\\nVOCÊ PODE ABRIR O MENU COM @MAINMENU \\n\\nVIAGEM RÁPIDA NÃO PODE SER USADA EM INTERIORES."
+
+msgid "@tut2 CONTROLS\\n\\nEXAMINE/SELECT - @OK\\n\\nCANCEL - @CANCEL\\n\\nWALK - @MOVE\\n\\nWALK FASTER - @RUN\\n\\nMENU - @MAINMENU\\n\\nINVENTORY - @INVENTORY"
+msgstr "@tut2 CONTROLES\\n\\nEXAMINAR/SELECIONAR - @OK\\n\\nCANCELAR - @CANCEL\\n\\nANDAR - @MOVE\\n\\nCORRER - @RUN\\n\\nMENU - @MAINMENU\\n\\nINVENTÁRIO - @INVENTORY"
+
+msgid "@tut GAMEPLAY\\n\\nEXPLORE AND INTERACT WITH THE ENVIRONMENT AND CHARACTERS. SOMETIMES YOU MAY FIND AN ITEM.\\n\\nONCE YOU HAVE PICKED UP AN ITEM, YOU MAY SELECT IT FROM YOUR INVENTORY.\\n\\nWHEN THE ITEM IS ACTIVE, YOU CAN EITHER COMBINE IT WITH OTHER ITEMS IN THE INVENTORY OR USE IT AT CERTAIN LOCATIONS IN ORDER TO PROGRESS."
+msgstr "@tut JOGABILIDADE\\n\\nEXPLORE E INTERAJA COM O AMBIENTE E OS PERSONAGENS. ÀS VEZES VOCÊ PODE ENCONTRAR UM ITEM.\\n\\nDEPOIS DE PEGAR UM ITEM, VOCÊ PODE SELECIONÁ-LO NO SEU INVENTÁRIO.\\n\\nQUANDO O ITEM ESTIVER ATIVO, VOCÊ PODE COMBINÁ-LO COM OUTROS ITENS NO INVENTÁRIO, OU USÁ-LO EM CERTOS LOCAIS PARA PROGREDIR."
+
+msgid "@tut OTHER\\n\\n\\n\\n\\nCLOSING THE GAME WINDOW WILL SAVE YOUR PROGRESS.\\n\\nTHIS GAME ALSO SAVES AFTER SOME KEY EVENTS."
+msgstr "@tut OUTROS\\n\\n\\n\\n\\nFECHAR A JANELA DO JOGO SALVARÁ SEU PROGRESSO.\\n\\nESTE JOGO TAMBÉM SALVA APÓS ALGUNS EVENTOS IMPORTANTES."
+
+msgid "@niko_speak \\p, there's something in the air here..."
+msgstr "@niko_speak \\p, tem algo no ar aqui..."
+
+msgid "@niko_eyeclosed It hurts to breathe..."
+msgstr "@niko_eyeclosed Dói respirar..."
+
+msgid "@ed [The air here is unbreathable.]"
+msgstr "@ed [O ar aqui é irrespirável.]"
+
+msgid "@niko_gasmask I should be fine with this mask on."
+msgstr "@niko_gasmask Acho que esta máscara vai resolver."
+
+msgid "Start over?"
+msgstr "Começar de novo?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sim\",\"Não\"]"
+
+msgid "@niko It's an empty rectangular slot.\\>\\nLooks like something could fit in here..."
+msgstr "@niko É um espaço retangular vazio.\\>\\nParece que há algo que se encaixa aqui."
+
+msgid "@niko_eyeclosed \\p... someone lives here...\\>\\nWe can't just sleep in their bed."
+msgstr "@niko_eyeclosed \\p... tem alguém morando aqui...\\>\\nNão posso só cair na cama de outra pessoa e dormir."
+
+msgid "@niko Right, I can refill this tube with more water here."
+msgstr "@niko Certo, vou reencher este tubo com água daqui."
+
+msgid "@niko It's a sink."
+msgstr "@niko Uma pia."
+
+msgid "Quit and record your progress?"
+msgstr "Sair e salvar o avanço no jogo?"
+
+msgid "This action will record your progress in this world."
+msgstr "Esta ação salvará seu avanço neste mundo."
+
+msgid "To return to this world again, you need to relaunch the application."
+msgstr "Para voltar a este mundo, precisa reexecutar o aplicativo."
+
+msgid "Proceed?"
+msgstr "Continuar?"
+
+msgid "@niko I'll wear them when I have to."
+msgstr "@niko Eu usarei quando for preciso."
+
+msgid "@niko I can't take this off here, \\p!"
+msgstr "@niko Não posso tirar aqui, \\p!"
+
+msgid "@niko I'll wear it when I have to."
+msgstr "@niko Eu usarei quando for preciso."
+
+msgid "Lamplighter has forgotten the elevator code (starting at 0 0 0 0 0 again)"
+msgstr ""
+
+msgid "Lamplighter now knows the elevator code."
+msgstr ""
+
+msgid "[\"SAVE?\", \"LOAD\", \"REAL LOAD\", \"NO\"]"
+msgstr "[\"SALVAR?\",\"CARREGAR\",\"CARREGAMENTO REAL\",\"NÃO\"]"
+
+msgid "@niko Where are we...?"
+msgstr "@niko Onde estamos...?"
+
+msgid "@niko Is this... the inside of the Tower?"
+msgstr "@niko Este é... o interior da Torre?"
+
+msgid "@niko It's...\\.\\. \\@niko_eyeclosed a lot darker than I thought..."
+msgstr "@niko É...\\.\\.\\@niko_eyeclosed muito mais escuro do que eu imaginava..."
+
+msgid "@niko ...wait.\\>\\n\\@niko_shock Where's the sun?"
+msgstr "@niko ... espere.\\>\\n\\@niko_shock Para onde foi o sol?"
+
+msgid "@niko_eyeclosed ...\\p... Do you know what happened to the sun?"
+msgstr "@niko_eyeclosed ...\\p... você sabe o que aconteceu com o sol?"
+
+msgid "@niko_eyeclosed2 ...\\....\\...."
+msgstr "@niko_eyeclosed2 ... \\.... \\...."
+
+msgid "@niko_speak ......\\p?"
+msgstr "@niko_speak \\p?"
+
+msgid "@niko_shock \\p??"
+msgstr "@niko_shock \\p??"
+
+msgid "@niko_eyeclosed Come on, \\p...\\. \\@niko_distressed Say something!"
+msgstr "@niko_eyeclosed Qual é, \\p...\\.\\@niko_distressed Diz alguma coisa!"
+
+msgid "@niko_surprised \\p!!!"
+msgstr "@niko_surprised \\p!!!"
+
+msgid "@niko_distressed What's...\\.\\. going on......."
+msgstr "@niko_distressed O que...\\.\\. está acontecendo....?"
+
+msgid "@niko \\p? Are you still there?"
+msgstr "@niko \\p? Ainda está aqui?"
+
+msgid "[\"Yes\"]"
+msgstr "[\"Sim\"]"
+
+msgid "@niko_speak Ah.\\> I'm awake."
+msgstr "@niko_speak Ah.\\>Acordei."
+
+msgid "@niko I had a dream just now."
+msgstr "@niko Acabei de ter um sonho."
+
+msgid "[\"I saw.\"]"
+msgstr "[\"Eu vi.\"]"
+
+msgid "@niko You did?\\>\\n\\@niko_speak Wow!"
+msgstr "@niko Viu?\\>\\n\\@niko_speak Caramba!"
+
+msgid "@niko_eyeclosed ....I...\\| I really thought I was back home..."
+msgstr "@niko_eyeclosed Eu...\\| eu achei que tinha voltado para casa..."
+
+msgid "@niko Oh, the sun back in my home world isn't a lightbulb.\\>\\n\\@niko_speak It's a big ball of fire in the sky!"
+msgstr "@niko Ah, o sol lá de onde eu venho não é uma lâmpada.\\>\\n\\@niko_speak É uma grande bola de fogo no céu!"
+
+msgid "@niko I don't think I would be able to hold it like I do with the sun from your world..."
+msgstr "@niko No meu mundo você não consegue segurar o sol nas mãos, como aqui..."
+
+msgid "[\"This isn't my world.\"]"
+msgstr "[\"Este não é meu mundo.\"]"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Hein?"
+
+msgid "[\"This isn't the world I live in.\"]"
+msgstr "[\"Este não é o mundo em que eu vivo.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko_eyeclosed ...ah, I guess not.\\>\\n\\@niko If you're the god of this world, you wouldn't necessarily be in it."
+msgstr "@niko_speak Sério?\\>\\n\\@niko_eyeclosed ... ah, acho que não.\\>\\n\\@niko Se você é uma divindade deste mundo, não estaria nele necessariamente."
+
+msgid "@niko_speak What's your home world called?"
+msgstr "@niko_speak Como se chama o seu mundo?"
+
+msgid "[\"Earth.\", \"That's a secret.\"]"
+msgstr "[\"Terra.\",\"É segredo.\"]"
+
+msgid "@niko_speak Earth?\\>\\n\\@niko Like, the stuff on the ground?\\>\\n\\@niko_speak ...Wait, do you live underground?"
+msgstr "@niko_speak Terra?\\>\\n\\@niko Tipo terra do chão?\\>\\n\\@niko_speak Ué, você vive no subterrâneo?"
+
+msgid "@niko_speak Wow...\\>\\n\\@niko_eyeclosed I can't imagine what that's like..."
+msgstr "@niko_speak Puxa...\\>\\n\\@niko_eyeclosed Não consigo imaginar como deve ser..."
+
+msgid "@niko Ah, neither do we!\\>\\n\\@niko But shrews and field mice and stuff do."
+msgstr "@niko Ah, nem nós!\\>\\n\\@niko Mas os tatus e as toupeiras sabem..."
+
+msgid "@niko_eyeclosed I see..."
+msgstr "@niko_eyeclosed Entendo..."
+
+msgid "@niko_speak Does your world have a sun?"
+msgstr "@niko_speak O seu mundo tem um sol?"
+
+msgid "[\"Yes, it's also a ball of fire.\", \"I can't tell you that.\"]"
+msgstr "[\"Sim, também é uma bola de fogo.\",\"Não posso dizer isso.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko_pancakes Wow!\\>\\n\\@niko Can you hold it?"
+msgstr "@niko_speak Sério? \\>\\n\\@niko_pancakes Caramba!\\>\\n\\@niko Dá para segurá-lo?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed ...\\nThat was a silly question, wasn't it..."
+msgstr "@niko_eyeclosed ...\\nQue pergunta boba, não é?"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko The sun in my home world is very bright.\\>\\n\\@niko_speak Warm, too!\\>\\n\\@niko You saw, right?"
+msgstr "@niko O sol de onde eu venho é muito brilhante.\\>\\n\\@niko_speak E quente também!\\>\\n\\@niko Você viu, não?"
+
+msgid "@niko But it goes away sometimes, at night.\\>\\n\\@niko_eyeclosed Everything gets dark, kinda like how this world is now."
+msgstr "@niko Mas ele vai embora de vez em quando, à noite.\\>\\n\\@niko_eyeclosed Fica tudo escuro, como neste mundo agora."
+
+msgid "@niko_speak But it's okay because the sun always comes back the next day.\\>\\n\\@niko That's good, don't you think?"
+msgstr "@niko_speak Mas é tranquilo porque o sol sempre volta no dia seguinte.\\>\\n\\@niko Legal, não é?"
+
+msgid "[\"Yeah.\", \"My world is like that too.\"]"
+msgstr "[\"Sim.\",\"Meu mundo é assim também.\"]"
+
+msgid "@niko M-hm!"
+msgstr "@niko M-hm!"
+
+msgid "@niko During the night, people usually go to sleep.\\>\\n\\@niko_speak But some people stay up and use computers!"
+msgstr "@niko À noite geralmente as pessoas dormem.\\>\\n\\@niko_speak Mas algumas pessoas ficam acordadas e usa o computador!"
+
+msgid "@niko_speak Ah!\\>\\nDo you sleep during the night?"
+msgstr "@niko_speak Ah!\\>\\nVocês dormem à noite?"
+
+msgid "@niko We go to sleep, usually.\\>\\n\\@niko_speak But some people stay up and use computers!"
+msgstr "@niko Geralmente vamos dormir.\\>\\n\\@niko_speak Mas algumas pessoas ficam acordadas e usam o computador!"
+
+msgid "@niko I... don't have to explain what they are, do I?\\>\\n\\@niko_speak There's a bunch of them in this world!"
+msgstr "@niko Não tenho que explicar o que eles são, não é?\\>\\n\\@niko_speak Tem um monte neste mundo!"
+
+msgid "@niko_eyeclosed An-anyway, we should probably get going..."
+msgstr "@niko_eyeclosed Enfim, acho melhor irmos..."
+
+msgid "@niko_speak \\p, I had another dream!"
+msgstr "@niko_speak \\p, tive outro sonho!"
+
+msgid "@niko Did you see this one too?"
+msgstr "@niko Você viu esse também?"
+
+msgid "[\"Yeah\"]"
+msgstr "[\"Sim.\"]"
+
+msgid "@niko I was in a big field, like the one in my last dream..."
+msgstr "@niko Eu estava num grande campo, como no último sonho..."
+
+msgid "@niko_speak And... I saw my village!\\>\\n\\@niko_eyeclosed ...but then I woke up."
+msgstr "@niko_speak Aí... eu vi a minha aldeia!\\>\\n\\@niko_eyeclosed Mas acordei..."
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko Ah, I don't think this world has anything like that...\\>\\n\\@niko_speak I mean, big wheat fields!"
+msgstr "@niko Ah, acho que neste mundo não tem nada do tipo...\\>\\n\\@niko_speak Como... vastos trigais!"
+
+msgid "@niko_eyeclosed The only big plants I've seen here are a bunch of weird trees.\\>\\n\\@niko And those balls of moss floating in the water..."
+msgstr "@niko_eyeclosed As maiores plantas que temos aqui são umas árvores estranhas.\\>\\n\\@niko E aquelas bolas de musgo boiando na água..."
+
+msgid "@niko_eyeclosed Wait, is moss even a plant...?"
+msgstr "@niko_eyeclosed Ué, musgo é planta também?"
+
+msgid "@niko ...\\>\\n\\@niko_speak ...Say, have you seen a wheat field before, \\p?"
+msgstr "@niko ...\\>\\n\\@niko_speak Você já tinha visto um trigal antes, \\p?"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"Sim.\",\"Não.\"]"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko They're really pretty, aren't they?"
+msgstr "@niko_speak Ah!\\>\\n\\@niko São muito lindos, não são?"
+
+msgid "@niko Ah.... well...\\>\\n\\@niko_speak They're really pretty! \\>\\@niko They look like-"
+msgstr "@niko Ah... bom... \\>\\n\\@niko_speak São muito lindos sim! \\>\\@niko Parecem..."
+
+msgid "@niko_eyeclosed Wait... you just saw one in my dream..."
+msgstr "@niko_eyeclosed Espere... você acabou de ver no meu sonho..."
+
+msgid "@niko_speak The one around my village goes around for miles!"
+msgstr "@niko_speak O que tem perto da minha aldeia é imenso, tem quilômetros!"
+
+msgid "@niko_speak The plants are really tall, sometimes I can't even see through them!\\>\\n\\@niko When it's windy out, the wind can make waves in it."
+msgstr "@niko_speak Os pés são muito altos, às vezes não dá para ver através deles!\\>\\n\\@niko Quando venta, parecem ondas douradas."
+
+msgid "@niko It's like an ocean...\\>\\n\\@niko_speak ...of food!"
+msgstr "@niko É tipo um mar...\\>\\n\\@niko_speak ... de comida!"
+
+msgid "@niko Oh, wait, but there's food in regular oceans too...\\>\\n\\@niko Like fish, \\@niko_speak or crabs!"
+msgstr "@niko Ah, sim, tem comida no mar também...\\>\\n\\@niko Peixes... \\@niko_speak ou caranguejos!"
+
+msgid "@niko_eyeclosed I've never actually been to a real ocean until now, actually..."
+msgstr "@niko_eyeclosed Na verdade, eu nunca vi o mar..."
+
+msgid "[\"Me neither.\", \"I've been to the ocean.\"]"
+msgstr "[\"Nem eu.\",\"Eu já fui ao mar.\"]"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I guess we have that in common, \\p!"
+msgstr "@niko_speak Ah!\\>\\n\\@niko Acho que temos isso em comum, \\p!"
+
+msgid "@niko But you're kind of seeing the ocean now? In this world, anyway."
+msgstr "@niko Mas você está vendo o mar agora? Digo, neste mundo?"
+
+msgid "@niko_speak As for me, I've seen them on TV before!"
+msgstr "@niko_speak Eu já vi na televisão!"
+
+msgid "@niko That's really cool, \\p!\\>\\n\\@niko I've only seen the ocean on TV before."
+msgstr "@niko É muito lindo, \\p!\\>\\n\\@niko Eu só vi o oceano pela televisão."
+
+msgid "@niko_pancakes I never thought I'd get to ride a boat through one!\\>\\n\\@niko The water back home doesn't have glowy stuff like how it is here, either!"
+msgstr "@niko_pancakes Quando eu iria imaginar que ia navegar num barco pelo oceano!\\>\\n\\@niko E a água lá de onde eu venho não tem essa coisa brilhante como tem aqui!"
+
+msgid "@niko_eyeclosed Ah... but I guess it's because the world is already so dark..."
+msgstr "@niko_eyeclosed Ah, mas acho que é porque o mundo já está tão escuro..."
+
+msgid "@niko ...Y'know, I used to be scared of the dark,\\n\\p!\\> \\@niko_eyeclosed It's a little hard to imagine that now, after spending so much time here..."
+msgstr "@niko Sabe, eu tinha muito medo do escuro, \\p! \\>\\n\\@niko_eyeclosed É difícil imaginar que agora, depois de passar tanto tempo aqui..."
+
+msgid "@niko_eyeclosed But not long ago, I couldn't even go to sleep without a lamp..."
+msgstr "@niko_eyeclosed Mas há pouco tempo eu nem conseguia dormir de luz apagada..."
+
+msgid "[\"Me too.\", \"It's good you got over that.\"]"
+msgstr "[\"Eu também.\",\"Que bom que superou isso.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko Even though you're a god?"
+msgstr "@niko_speak Sério?\\>\\n\\@niko Mesmo você sendo uma divindade?"
+
+msgid "@niko_speak Oh, but it's a good thing I got over that fear!\\>\\n\\@niko_eyeclosed Otherwise I wouldn't last long here..."
+msgstr "@niko_speak Ah, mas é ótimo eu ter superado esse medo!\\>\\n\\@niko_eyeclosed Senão eu não duraria tanto tempo aqui..."
+
+msgid "@niko_83c I guess!\\>\\n\\@niko_eyeclosed Otherwise I wouldn't last long here..."
+msgstr "@niko_83c Pois é!\\>\\n\\@niko_eyeclosed Senão eu não duraria tanto tempo aqui..."
+
+msgid "@niko_speak Then again, I've been carrying around the sun, so it's not too bad!"
+msgstr "@niko_speak Mas também eu estou carregando o sol, por isso não é tão ruim assim!"
+
+msgid "@niko And also, I don't feel scared at all with you guiding me!\\>\\n\\@niko_83c So... thanks for that!"
+msgstr "@niko E não sinto nenhum medo com você me guiando!\\>\\n\\@niko_83c Fico feliz!"
+
+msgid "@niko_speak Anyway, maybe we should head out now, \\p..."
+msgstr "@niko_speak Enfim, acho melhor sairmos agora, \\p..."
+
+msgid "@niko \\p?\\>\\n\\@niko I had another dream..."
+msgstr "@niko \\p?\\>\\n\\@niko Tive outro sonho..."
+
+msgid "@niko Mama was there.\\>\\n\\@niko_speak Did you see her?"
+msgstr "@niko Mamãe estava nele.\\>\\n\\@niko_speak Você a viu?"
+
+msgid "@niko_pancakes She made me pancakes!\\>\\n\\@niko I... think it was my birthday."
+msgstr "@niko_pancakes Ela fez panquecas!\\>\\n\\@niko Acho... que era meu aniversário."
+
+msgid "@niko_speak Cuz people always get their favorite food on their birthday!\\>\\nA whole lot of it!"
+msgstr "@niko_speak Porque quem faz aniversário sempre ganha a comida preferida!\\>\\nE muita comida!"
+
+msgid "@niko Do you have a birthday, too?"
+msgstr "@niko Vocês têm aniversário também?"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko Then... what's your favorite food?\\>\\n\\@niko_pancakes Is it pancakes?"
+msgstr "@niko_speak Ah!\\>\\n\\@niko Então qual é sua comida preferida?\\>\\n\\@niko_pancakes Panqueca?"
+
+msgid "@niko Wait, DO you like pancakes?"
+msgstr "@niko Ué, você gosta de panqueca?"
+
+msgid "@niko_eyeclosed I see...\\>\\n\\@niko_speak Makes sense, since you're a god!"
+msgstr "@niko_eyeclosed Entendo... \\>\\n\\@niko_speak Faz sentido, já que você é tipo uma divindade!"
+
+msgid "@niko So...\\. do you like pancakes too?"
+msgstr "@niko Então...\\. você gosta de panqueca também?"
+
+msgid "@niko_speak Me too!\\>\\n\\@niko On my last birthday, I ate ten of them.\\>\\n\\@niko_eyeclosed I was so full I didn't eat anything else that day..."
+msgstr "@niko_speak Eu também!\\>\\n\\@niko No meu último aniversário eu comi dez.\\>\\n\\@niko_eyeclosed Fiquei de barriga tão cheia que não comi mais nada naquele dia..."
+
+msgid "@niko_eyeclosed Ah...\\>\\n\\@niko_speak Well, they're tasty!\\>\\n\\@niko Maybe you should give them a chance, y'know?"
+msgstr "@niko_eyeclosed Ah...\\>\\n\\@niko_speak Ah, é uma delícia!\\>\\n\\@niko Você devia experimentar, sabia?"
+
+msgid "@niko_speak My mama makes the best pancakes!\\>\\n\\@niko And some of the neighbors make really good noodles."
+msgstr "@niko_speak Minha mãe faz a melhor panqueca!\\>\\n\\@niko Tenho uns vizinhos que fazem um macarrão muito gostoso."
+
+msgid "@niko_speak And oh! One of our neighbors make a lot of bread.\\>\\n\\@niko Do you have any neighbors?"
+msgstr "@niko_speak Ah! Um vizinho meu faz pão.\\>\\n\\@niko Você tem vizinhos?"
+
+msgid "@niko_speak Oh! Do they share their food with you?"
+msgstr "@niko_speak Eles dividem a comida com você?"
+
+msgid "@niko Ours do too!"
+msgstr "@niko Os nossos também!"
+
+msgid "@niko_eyeclosed That's not very nice of them..."
+msgstr "@niko_eyeclosed Ah, não é nada legal da parte deles..."
+
+msgid "@niko_eyeclosed Oh...\\>\\n\\@niko That sounds a bit lonely."
+msgstr "@niko_eyeclosed Ah...\\>\\n\\@niko Parece meio solitário."
+
+msgid "@niko Our neighbors and my mama take turns making food for the whole village each day.\\>\\n\\@niko_speak Everyone also takes turns doing chores and watching the little kids!"
+msgstr "@niko Os vizinhos e minha mãe se revezam para fazer comida para a aldeia a cada dia.\\>\\n\\@niko_speak Todos se revezam nas tarefas cotidianas e para cuidar das crianças!"
+
+msgid "@niko I don't need to be watched anymore, though. \\>\\n\\@niko_speak I'm old enough to help out!"
+msgstr "@niko Mas eu não preciso mais que cuidem de mim. \\>\\n\\@niko_speak Agora eu ajudo os outros!"
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko I miss everyone."
+msgstr "@niko_eyeclosed ... \\>\\n\\@niko Sinto falta deles."
+
+msgid "@niko_eyeclosed I've been gone for a while now, haven't I?\\>\\n\\@niko_speak I wonder if they're worried about me..."
+msgstr "@niko_eyeclosed Já estou fora há um tempo, não é?\\>\\n\\@niko_speak Será que estão preocupados comigo?"
+
+msgid "@niko Ah, speaking of helping out, we should probably go now."
+msgstr "@niko Ah, por falar em ajudar, vamos continuar."
+
+msgid "@niko Hey.... \\p?"
+msgstr "@niko Ei... \\p?"
+
+msgid "@niko I guess... you saw my dream?"
+msgstr "@niko Acho que sim... você viu meu sonho?"
+
+msgid "@niko_distressed It was..."
+msgstr "@niko_distressed Foi..."
+
+msgid "@niko_distressed2 .\\..\\..\\..\\.."
+msgstr "@niko_distressed2 .\\..\\..\\..\\.."
+
+msgid "@niko_eyeclosed Come on, let's go..."
+msgstr "@niko_eyeclosed Vamos continuar..."
+
+msgid "[\"Niko.\"]"
+msgstr "[\"Niko.\"]"
+
+msgid "@niko ...Hello?\\> \\@niko_speak ...\\p?"
+msgstr "@niko ... Olá?\\>\\@niko_speak ...\\p?"
+
+msgid "@niko_speak Was that you just now?"
+msgstr "@niko_speak Era você agora há pouco?"
+
+msgid "@niko_speak I thought I... heard your voice?\\>\\n\\@niko ...in my dream..."
+msgstr "@niko_speak Achei que era a sua voz...\\>\\n\\@niko no meu sonho..."
+
+msgid "@niko ...\\>\\n\\@niko_eyeclosed ...Ah, guess you're still not there..."
+msgstr "@niko ...\\>\\n\\@niko_eyeclosed Ah, acho que você ainda não está aqui..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_speak Wait... there's something in my pocket. \\>\\n\\@niko I don't remember putting it there..."
+msgstr "@niko_speak Espere, tem algo no meu bolso.\\>\\n\\@niko Não me lembro ter colocado nada aqui..."
+
+msgid "@ed [Niko feels uneasy.]"
+msgstr "@ed [Niko se inquieta.]"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_speak ....\\p?"
+msgstr "@niko_speak ...\\p?"
+
+msgid "@niko_surprised ......\\p!!! Can you hear me?"
+msgstr "@niko_surprised ...\\p!!! Está me ouvindo?"
+
+msgid "@niko_eyeclosed Oh, phew..."
+msgstr "@niko_eyeclosed Ah, ufa..."
+
+msgid "@niko_speak What happened?"
+msgstr "@niko_speak O que aconteceu?"
+
+msgid "@niko_eyeclosed Everything went pitch black for a second..."
+msgstr "@niko_eyeclosed De repente tudo ficou escuro..."
+
+msgid "@niko_speak \\p?"
+msgstr "@niko_speak \\p?"
+
+msgid "@niko_surprised Are you still there?"
+msgstr "@niko_surprised Ainda está aí?"
+
+msgid "[\"I'm here.\"]"
+msgstr "[\"Estou aqui.\"]"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed Aconteceu de novo..."
+
+msgid "@niko_what Everything just went really dark..."
+msgstr "@niko_what Ficou tudo escuro..."
+
+msgid "@niko_speak So dark, the lightbulb doesn't even light it!"
+msgstr "@niko_speak Estava tão escuro que a lâmpada não conseguia iluminar!"
+
+msgid "@niko2 Oh, and it's not because I don't have the lightbulb anymore, either!"
+msgstr "@niko2 Ah, e não é porque eu não tenho mais a lâmpada!"
+
+msgid "@niko_eyeclosed It feels like a different kind of dark..."
+msgstr "@niko_eyeclosed Parecia um outro tipo de escuridão..."
+
+msgid "@niko_distressed Oh...."
+msgstr "@niko_distressed Ah..."
+
+msgid "@niko_eyeclosed \\p, let me know when you're back..."
+msgstr "@niko_eyeclosed \\p, avise-me quando estiver de volta..."
+
+msgid "[\"I'm back\"]"
+msgstr "[\"Voltei.\"]"
+
+msgid "@niko_eyeclosed I don't know why this keeps happening..."
+msgstr "@niko_eyeclosed Não sei por que continua acontecendo isso..."
+
+msgid "@niko_speak I don't think anyone else is noticing it, either..."
+msgstr "@niko_speak Acho que ninguém mais está notando também..."
+
+msgid "@niko_what Am I the only one who's seeing this?"
+msgstr "@niko_what Eu sou a única que está vendo?"
+
+msgid "[\"Niko, I'm back\"]"
+msgstr "[\"Niko, voltei.\"]"
+
+msgid "@niko_eyeclosed Hey, \\p..."
+msgstr "@niko_eyeclosed Ei... \\p..."
+
+msgid "@niko Welcome back."
+msgstr "@niko Que bom que voltou."
+
+msgid "[\"FLAG MANAGER\", \"VAR MANAGER\", \"EXIT\"]"
+msgstr ""
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[NOTÍCIAS DA NOITE! NOTÍCIAS DA NOITE!]"
+
+msgid "[I AM NOT CERTAIN THAT IT IS EVENING.]"
+msgstr "[NÃO TENHO CERTEZA SE É NOITE OU NÃO.]"
+
+msgid "[BUT MY LIGHT SENSORS ARE NOT DETECTING DAYLIGHT.]"
+msgstr "[MAS MEUS FOTOSSENSORES NÃO ESTÃO DETECTANDO LUZ DO DIA.]"
+
+msgid "[I WILL ASSUME IT IS EVENING.]"
+msgstr "[VOU PRESUMIR QUE É NOITE.]"
+
+msgid "[MAINTENANCE IS STRUGGLING TO FIX THE MAJOR PIPELINE COLLAPSE IN THE NORTH SECTOR.]"
+msgstr "[A MANUTENÇÃO ESTÁ COM DIFICULDADES EM CONSERTAR UM PROBLEMA NO ENCANAMENTO DO SETOR NORTE.]"
+
+msgid "[LIKELIHOOD OF AN IMMINENT WATER SHORTAGE IN THE INNER CITY IS NOW 84.2%]"
+msgstr "[A PROBABILIDADE DE FALTA D’ÁGUA NO CENTRO DA CIDADE É DE 84,2%]"
+
+msgid "[DISTURBANCE WAS DETECTED FROM THE GROUND ACCESS ELEVATOR ON MAIN STREET.]"
+msgstr "[AGITAÇÃO DETECTADA NO ACESSO TÉRREO DO ELEVADOR DA RUA PRINCIPAL.]"
+
+msgid "[HOWEVER, THE ISSUE QUICKLY RESOLVED ITSELF BEFORE INVESTIGATIONS COULD TAKE PLACE.]"
+msgstr "[O PROBLEMA SE RESOLVEU SOZINHO ANTES DE A INVESTIGAÇÃO CHEGAR AO LOCAL.]"
+
+msgid "[THE MESSIAH IS CURRENTLY SPEAKING TO NEWSBOT UNIT #28.]"
+msgstr "[O MESSIAS ESTÁ FALANDO AO ROBOLETIM DE NOTÍCIAS Nº 28.]"
+
+msgid "[WHICH IS ME.]"
+msgstr "[QUE SOU EU.]"
+
+msgid "[HELLO, MESSIAH.]"
+msgstr "[OLÁ, MESSIAS.]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak Oi!"
+
+msgid "[STRANGE SOUNDS HAVE BEEN REPORTED FROM THE SLUMS.]"
+msgstr "[SONS ESTRANHOS RELATADOS VINDO DO CORTIÇO.]"
+
+msgid "[THEIR SOURCE IS UNKNOWN.]"
+msgstr "[A FONTE É DESCONHECIDA.]"
+
+msgid "[THESE SOUNDS HAVE BEEN DESCRIBED AS \"FAINT BLEATING\" BY THE AREA'S RESIDENTS.]"
+msgstr "[OS MORADORES DO LOCAL DESCREVERAM O SOM COMO “BALIDOS FRACOS”.]"
+
+msgid "[EVENING NEWS COMMUNITY BULLETIN]"
+msgstr "[BOLETIM DE NOTÍCIAS NOTURNAS DA COMUNIDADE]"
+
+msgid "[THE LIBRARY RELEASED SEVERAL NEW BOOKS BY THE ELUSIVE AUTHOR LAST WEEK.]"
+msgstr "[A BIBLIOTECA LANÇOU NA SEMANA PASSADA VÁRIOS LIVROS NOVOS DO AUTOR ARREDIO.]"
+
+msgid "[THE HEAD LIBRARIAN RECOMMENDS THEM.]"
+msgstr "[A BIBLIOTECÁRIA-CHEFE OS RECOMENDA.]"
+
+msgid "[THE ASSISTANT LIBRARIAN HAD NO COMMENT AS HE REPORTEDLY FLED THE SCENE SOBBING.]"
+msgstr "[O BIBLIOTECÁRIO ASSISTENTE NÃO COMENTOU O ASSUNTO PORQUE, SEGUNDO RELATOS, FUGIU DO LOCAL AOS PRANTOS.]"
+
+msgid "[THE RECEPTIONIST HAD NO COMMENT EITHER BECAUSE THE RECEPTIONIST IS A ROBOT.]"
+msgstr "[O RECEPCIONISTA TAMBÉM NÃO COMENTOU PORQUE É UM ROBÔ.]"
+
+msgid "$Greetings, \\p.\\nIf you can finally read this, that means you are near the Tower."
+msgstr "$Saudações, \\p.\\nSe estiver lendo isto, você está perto da Torre."
+
+msgid "$The Tower is the domain of an elusive Entity."
+msgstr "$A Torre é o domínio de uma Entidade arredia."
+
+msgid "$This being is connected to the world.\\nFor now, you can think of it as the spirit of the world."
+msgstr "$Esse ser está conectado com o mundo.\\nPor ora você pode considerá-lo como o espírito do mundo."
+
+msgid "$It has no physical form, but it can communicate through computers and other machinery."
+msgstr "$Ele não tem forma física, mas pode comunicar-se através de computadores e outras máquinas."
+
+msgid "$...You know who I am talking about, of course."
+msgstr "$... É claro que você sabe de quem eu estou falando."
+
+msgid "$When you first arrived here with our savior, it no doubt contacted you right away."
+msgstr "$Quando você chegou com o messias, ele logo entrou em contato com você."
+
+msgid "$Through its own means, the entity will guide the both of you to the Tower."
+msgstr "$Com os próprios meios, a entidade guiará vocês até a Torre."
+
+msgid "$The entry room is at the Tower's base.\\nNot only do you need the sun there, but also three pieces of the previous sun."
+msgstr "$A sala de entrada fica na base da Torre.\\nAlém do sol, lá você vai precisar também de três partes do antigo sol."
+
+msgid "$The savior will not be able to do anything there.\\nYou, \\p, on the other hand..."
+msgstr "$O messias não poderá fazer nada lá.\\nJá você, \\p, por outro lado..."
+
+msgid "$Look at the pattern on the floor. Do as it says.\\nThe window will be gone, so you need to bring it back."
+msgstr "$Veja o padrão do piso. Faça o que ele indica.\\nA janela vai embora, portanto você precisa trazê-la de volta."
+
+msgid "@niko I'm not sure where I am, exactly..."
+msgstr "@niko Não sei exatamente onde estou..."
+
+msgid "@niko_eyeclosed I can't see too far off, everything's so dark..."
+msgstr "@niko_eyeclosed Não consigo ver muito além, está tão escuro..."
+
+msgid "@prophet [Our World Was Not Always This Dim.]"
+msgstr "@prophet [Nosso Mundo Nem Sempre Foi Tão Escuro.]"
+
+msgid "@prophet [Nor Was It So Broken.]"
+msgstr "@prophet [Nem Tão Avariado.]"
+
+msgid "@prophet_hmm [But Time Waits For Nobody, Not Even Saviors.]"
+msgstr "@prophet_hmm [Mas o Tempo Não Espera Ninguém, Nem os Salvadores.]"
+
+msgid "@prophet [The World Is Divided Into Three Regions.]"
+msgstr "@prophet [O Mundo se Divide em Três Regiões.]"
+
+msgid "@prophet [You're On The Fringe Right Now, The Barrens.]"
+msgstr "@prophet [Você Está na Margem, nas Terras Áridas.]"
+
+msgid "@prophet [That Tower You See In The Distance Once Held Our Sun.]"
+msgstr "@prophet [Aquela Torre que Você Vê Lá Longe Já Guardou o Sol.]"
+
+msgid "@niko_speak Oh, so that's what the tall thing was..."
+msgstr "@niko_speak Ah, então é isso aquela construção alta..."
+
+msgid "@prophet [As You Go Further Towards The Center, You Will Cross The Other Regions.]"
+msgstr "@prophet [À Medida em que For Indo para o Centro, Você Passará pelas Outras Regiões.]"
+
+msgid "@prophet_hmm [There Should Be A Map Still In This Outpost Somewhere...]"
+msgstr "@prophet_hmm [Deve Haver um Mapa Aqui neste Posto Avançado...]"
+
+msgid "@niko_speak Ooo..."
+msgstr "@niko_speak Ooo..."
+
+msgid "@niko I found it in the house I woke up in..."
+msgstr "@niko Eu a encontrei na casa onde eu acordei..."
+
+msgid "@prophet [Within Your Hands Is Our New Sun.]"
+msgstr "@prophet [Em Suas Mãos Está Nosso Novo Sol.]"
+
+msgid "@niko Your... \\.\\.\\@niko_speak sun?"
+msgstr "@niko Seu... \\.\\.\\@niko_speak sol?"
+
+msgid "@prophet_omg [Yes!]"
+msgstr "@prophet_omg [Sim!]"
+
+msgid "@prophet [Years Ago,\\.\\. Our Previous Sun Sat Atop That Tower And Spilled Its Life Into The Land.]"
+msgstr "@prophet [Anos Atrás,\\.\\. Nosso Antigo Sol Ficava no Alto Daquela Torre e Espalhava sua Vida na Terra.]"
+
+msgid "@prophet_sigh [But One Day, The Light Went Out.]"
+msgstr "@prophet_sigh [Mas um Dia a Luz Apagou.]"
+
+msgid "@prophet_sigh [The World Is Still Hanging On By A Thread.]"
+msgstr "@prophet_sigh [O Mundo Ainda Está por um Fio.]"
+
+msgid "@prophet_hmm [The Surface Of This World Is Abundant With An Element Called Phosphor.]"
+msgstr "@prophet_hmm [A Superfície Deste Mundo é Abundante em um Elemento Chamado Luminescência.]"
+
+msgid "@prophet_hmm [Fortunately For Us, This Element Stored Light Energy From Our Previous Sun.]"
+msgstr "@prophet_hmm [Felizmente, para Nós, Este Elemento Guardou a Energia da Luz do Antigo Sol.]"
+
+msgid "@prophet_hmm [It's Now Our Only Source Of Illumination, But Its Energy Is Finite.]"
+msgstr "@prophet_hmm [Agora É Nossa Única Fonte de Luz, Mas Sua Energia é Finita.]"
+
+msgid "@prophet_sigh [When The Last Of The Light Dies,\\.\\. Our World Will Too.]"
+msgstr "@prophet_sigh [Quando a Última Luz Morrer,\\.\\. Nosso Mundo Também Morrerá.]"
+
+msgid "@niko_speak ...\\.\\.\\@niko_eyeclosed Ah..."
+msgstr "@niko_speak ...\\.\\.\\@niko_eyeclosed Ah..."
+
+msgid "@prophet [But Now That You Are Here With The New Sun, All Is Well.]"
+msgstr "@prophet [Mas Agora que Você Está Aqui com o Novo Sol, Está Tudo Bem.]"
+
+msgid "@prophet [You Will Need To Restore It To The Tower.]"
+msgstr "@prophet [Você Precisa Levá-lo à Torre.]"
+
+msgid "@niko2 That looks... pretty far off!"
+msgstr "@niko2 Ela parece muito... longe!"
+
+msgid "@prophet [Yes. So Begins Your Pilgrimage.]"
+msgstr "@prophet [Sim, Então Comece a sua Peregrinação.]"
+
+msgid "@prophet_hmm [Also, The Sun Is Fragile, So Be Careful.]"
+msgstr "@prophet_hmm [O Sol é Muito Frágil, Portanto Tenha Cuidado.]"
+
+msgid "@prophet_sigh [If The Sun Shatters, The World Will End In An Instant.]"
+msgstr "@prophet_sigh [Se o Sol se Quebrar, O Mundo Acabará num Instante.]"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 Ah..."
+
+msgid "@niko Oh..."
+msgstr "@niko Ah..."
+
+msgid "@niko I don't mean to be rude, but I..."
+msgstr "@niko Desculpe a grosseria, mas eu..."
+
+msgid "@niko_eyeclosed I'm... not sure about this."
+msgstr "@niko_eyeclosed Eu... não tenho certeza..."
+
+msgid "@niko_distressed2 I still don't know how I got here!"
+msgstr "@niko_distressed2 Eu ainda nem sei como vim parar aqui!"
+
+msgid "@niko_eyeclosed I was just with my mama a few hours ago..."
+msgstr "@niko_eyeclosed Eu estava com minha mãe algumas horas atrás..."
+
+msgid "@niko_distressed2 And now it feels like I'm in a bad dream..."
+msgstr "@niko_distressed2 Agora parece que estou num pesadelo..."
+
+msgid "@niko_eyeclosed I just want to go home..."
+msgstr "@niko_eyeclosed Eu só queria ir para casa..."
+
+msgid "@prophet [...]"
+msgstr "@prophet [...]"
+
+msgid "@prophet [Your Mission Is To Save Our World.]"
+msgstr "@prophet [Sua Missão É Salvar Nosso Mundo.]"
+
+msgid "@prophet_hmm [Just As My Mission Is To Tell You About Our World.]"
+msgstr "@prophet_hmm [Assim Como a Minha Missão É Contar Tudo Sobre Nosso Mundo a Você.]"
+
+msgid "@prophet [I Am Unable To Help You Beyond My Programming.]"
+msgstr "@prophet [Não Consigo Ajudar Você Além da Minha Programação.]"
+
+msgid "@prophet_sigh [I Am Sorry.]"
+msgstr "@prophet_sigh [Desculpe.]"
+
+msgid "@niko_eyeclosed ...oh."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko_shock \\|...\\.\\...."
+msgstr "@niko_shock \\|...\\.\\...."
+
+msgid "@niko_speak \\p! Did you see what happened?"
+msgstr "@niko_speak \\p! Você viu o que aconteceu?"
+
+msgid "[\"Yeah?\"]"
+msgstr "[\"Sim?\"]"
+
+msgid "@niko_eyeclosed My vision went blank for a second...\\>\\n\\@niko_speak And then I saw something?"
+msgstr "@niko_eyeclosed Minha visão escureceu por um segundo...\\>\\n\\@niko_speak E depois eu vi algo...?"
+
+msgid "@niko Like a really short dream..."
+msgstr "@niko Como um pequeno sonho..."
+
+msgid "@niko_eyeclosed I wonder what that was about..."
+msgstr "@niko_eyeclosed O que foi aquilo?"
+
+msgid "So you actually made it here."
+msgstr "Então você veio mesmo."
+
+msgid "I... guess you win, \\p."
+msgstr "Acho... que você venceu, \\p."
+
+msgid "I'll tell you how to save the world, then."
+msgstr "Então eu lhe direi como salvar o mundo."
+
+msgid "When you reach the summit, shatter the lightbulb, and..."
+msgstr "Quando chegar no topo, quebre a lâmpada e..."
+
+msgid "...I'm just humoring you."
+msgstr "Ah, brincadeira..."
+
+msgid "I know you've been getting help from a certain someone."
+msgstr "Eu sei que tem uma certa pessoa ajudando você."
+
+msgid "He already told you about the choice, didn't he?"
+msgstr "Ele já contou sobre a escolha, certo?"
+
+msgid "Are you still planning to save the world, \\p?"
+msgstr "Você ainda quer salvar o mundo, \\p?"
+
+msgid "Why are you trying so hard for this?"
+msgstr "Por que tanto interesse nisso?"
+
+msgid "Haven't you even figured out what this world IS?"
+msgstr "Você ainda nem descobriu o que é este mundo?"
+
+msgid "I told you at the beginning, your mission is to help Niko leave."
+msgstr "Eu disse no início que sua missão era ajudar Niko a partir."
+
+msgid "Because Niko isn't part of this world."
+msgstr "Porque Niko não faz parte deste mundo."
+
+msgid "Niko is the only thing worth saving here."
+msgstr "Niko é a única coisa que vale a pena salvar daqui."
+
+msgid "..."
+msgstr "..."
+
+msgid "...The final choice is up to you."
+msgstr "A escolha final é sua."
+
+msgid "I can't go against my programming."
+msgstr "Eu não posso ir contra a minha programação."
+
+msgid "You only have one shot, \\p."
+msgstr "Você só tem uma chance, \\p."
+
+msgid "If you choose to smash the lightbulb, then Niko wakes up back home, like it was all a dream."
+msgstr "Se você decidir quebrar a lâmpada, Niko acordará em casa, como se fosse de um sonho."
+
+msgid "But if you let Niko return the sun, the child will have to bear the weight of this sacrifice."
+msgstr "Porém, se você deixar Niko devolver o sol, ela vai ter que carregar o peso de seu sacrifício."
+
+msgid "At least, tell Niko the truth."
+msgstr "Pelo menos diga a verdade a Niko."
+
+msgid "...you do care about Niko, don't you?"
+msgstr "... você se importa com Niko, não?"
+
+msgid "@niko2 Oh... I found this page."
+msgstr "@niko2 Ah... achei essa página."
+
+msgid "@niko It looks kind of like a drawing of this room."
+msgstr "@niko Parece ser uma pintura desta sala."
+
+msgid "@niko_speak Maybe it's telling us we should come here?"
+msgstr "@niko_speak Talvez ela queira dizer que devemos vir para cá?"
+
+msgid "@niko Which we did, already."
+msgstr "@niko Mas nós já fomos."
+
+msgid "@niko_speak So... it looks like we're on the right track!"
+msgstr "@niko_speak Então... parece que estamos no caminho certo!"
+
+msgid "@alula I'm helping!"
+msgstr "@alula Eu vou ajudar!"
+
+msgid "@silver [Hello again.]"
+msgstr "@silver [Olá, de novo.]"
+
+msgid "@Niko Hello."
+msgstr "@Niko Olá."
+
+msgid "@silver2 [Do you... need anything?]"
+msgstr "@silver2 [Você... precisa de alguma coisa?]"
+
+msgid "@Niko Nah."
+msgstr "@Niko Não."
+
+msgid "@silver [Okay.]"
+msgstr "@silver [Tá bom.]"
+
+msgid "@credits \\hProgramming\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hGraphics\\nNightmargin (Casey Gu)"
+msgstr "@credits \\hProgramação\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hGráficos\\nNightmargin (Casey Gu)"
+
+msgid "@credits \\hCharacter Design\\nNightmargin\\n\\n\\hMaize and George's designs\\nEliza Velasquez"
+msgstr "@credits \\hDesign de Personagens\\nNightmargin\\n\\n\\hDesign de Maize e George\\nEliza Velasquez"
+
+msgid "@credits \\hSoundtrack\\nNightmargin\\n\\n\\hAdditional tracks\\nEliza Velasquez\\nMichael Shirt"
+msgstr "@credits \\hTrilha Sonora\\nNightmargin\\n\\n\\hFaixas adicionais\\nEliza Velasquez\\nMichael Shirt"
+
+msgid "@credits \\hStory (Mechanics Concept)\\nEliza Velasquez\\n\\n\\hGeneral Story and Worldbuilding\\nNightmargin\\nEliza Velasquez"
+msgstr "@credits \\hHistória (Conceito das Mecânicas)\\nEliza Velasquez\\n\\n\\hHistória Geral e Construção do Mundo\\nNightmargin\\nEliza Velasquez"
+
+msgid "@credits \\hWriting\\nNightmargin\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hWriting (Friend Profiles)\\nTaeler Dixon"
+msgstr "@credits \\hEscrita\\nNightmargin\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hEscrita (Perfil dos Amigos)\\nTaeler Dixon"
+
+msgid "@credits \\hPenguin Contributors\\nMatthew Martinez\\nAlexander McCaskey\\nTaeler Dixon\\n\\n\\hSystems Programming\\nMichael Shirt\\nTaeler Dixon"
+msgstr "@credits \\hColaboradores Penguin\\nMatthew Martinez\\nAlexander McCaskey\\nTaeler Dixon\\n\\n\\hProgramação de Sistemas\\nMichael Shirt\\nTaeler Dixon"
+
+msgid "@credits \\hProducer (2016 release)\\nMark Conforti\\n\\n\\h2016 Build Testers\\nJason Black\\nSinNoAria\\nOmer Oztas"
+msgstr "@credits \\hProdutor (lançamento de 2016)\\nMark Conforti\\n\\n\\hTestadores da Versão 2016\\nJason Black\\nSinNoAria\\nOmer Oztas"
+
+msgid "@credits \\hConsole build Testers\\nDunc Graham\\ndurrbill\\nHiino\\nKonasumi\\nLaurie DeNicola\\nRobin \"Rezllen\" Crew"
+msgstr "@credits \\hTestadores da Versão de Console\\nDunc Graham\\ndurrbill\\nHiino\\nKonasumi\\nLaurie DeNicola\\nRobin \"Rezllen\" Crew"
+
+msgid "@credits \\hGuest Artists (Wallpapers)\\nMarina \"Sylladexter\" K\\nMissusruin\\nSaren Stone\\nTemmie Chang\\nT.C."
+msgstr "@credits \\hArtistas Convidados (Papéis de Parede)\\nMarina \"Sylladexter\" K\\nMissusruin\\nSaren Stone\\nTemmie Chang\\nT.C."
+
+msgid "@credits \\hSpecial Thanks\\n\\lRedoplus \\rPurpleAlmonds\\n\\lSaniblues \\rFelixTheJudge\\n\\lNoxid \\rAlbatrosssoup\\n\\lSauraen \\rStanhoff\\n\\lKalkie \\rKitsiinabox\\n\\lLuc"
+msgstr "@credits \\hAgradecimentos Especiais\\n\\lRedoplus \\rPurpleAlmonds\\n\\lSaniblues \\rFelixTheJudge\\n\\lNoxid \\rAlbatrosssoup\\n\\lSauraen \\rStanhoff\\n\\lKalkie \\rKitsiinabox\\n\\lLuc"
+
+msgid "@credits \\hTesters of Original OneShot\\n\\lDolphinsAreEvil \\rKyne\\n\\lTangyOranges \\rletty\\n\\lZeroGuilt \\rMichael\\n\\lMraof \\rpsychoTR2\\n\\lNekkowe \\rDivinuss\\n\\lM3ltd0wn \\rFelix\\n\\lOutlanderSES \\rplasterbrain"
+msgstr "@credits \\hTestadores do OneShot Original\\n\\lDolphinsAreEvil \\rKyne\\n\\lTangyOranges \\rletty\\n\\lZeroGuilt \\rMichael\\n\\lMraof \\rpsychoTR2\\n\\lNekkowe \\rDivinuss\\n\\lM3ltd0wn \\rFelix\\n\\lOutlanderSES \\rplasterbrain"
+
+msgid "@credits_small DANGEN Entertainment\\n\\n\\h\\lCEO\\rCOO\\n\\lMax Harvey\\rDan Stern\\n\\n\\h\\lDeveloper Relations\\rLocalization Manager\\n\\lCarrick Lomas\\rDan Luffey\\n\\n\\h\\lPorting Support\\rPR & Marketing\\n\\lSalvador Garcia\\rJustin Pfeiffer\\n\\n\\h\\lStreaming Producer\\rBookkeeping\\n\\lChad Porter\\rAnna Riko"
+msgstr "@credits_small DANGEN Entertainment\\n\\n\\h\\lCEO\\rCOO\\n\\lMax Harvey\\rDan Stern\\n\\n\\h\\lRelacionamento com Desenvolvedores\\rGerente de Localização\\n\\lCarrick Lomas\\rDan Luffey\\n\\n\\h\\lApoio no Port\\rRP e Marketing\\n\\lSalvador Garcia\\rJustin Pfeiffer\\n\\n\\h\\lProdutor de Streaming\\rContabilidade\\n\\lChad Porter\\rAnna Riko"
+
+msgid "@credits_small OneShot Console Version Translations\\n\\n\\h\\lFrench Translation\\rKorean Translation\\n\\lMahmoud Khabatou\\rSo-jung Jung\\n\\n\\h\\lFrench Proofreader\\rKorean Proofreading, LQA\\n\\lMohamed Khabatou\\rSeo-Mi Ha\\n\\n\\h\\lFrench LQA\\rBrazilian Portuguese Translation\\n\\lMahmoud Khabatou\\rJay Ruas\\n\\n\\h\\lSpanish Translation\\rBrazilian Portuguese Proofreading, LQA\\n\\lEdgar Rangel\\rKarina Peixe\\n\\l\\rJay Ruas\\n\\n\\h\\lSpanish Proofreader\\rJapanese Translation, LQA\\n\\lSebastián Herrera\\rSakura Yamaguchi\\n\\n\\h\\lSpanish LQA\\rJapanese Proofreading\\n\\lJair Casillas\\rYoshiki Kono"
+msgstr "@credits_small Traduções da Versão de Console de OneShot\\n\\n\\h\\lLocalização Francês\\rLocalização Coreano\\n\\lMahmoud Khabatou\\rSo-jung Jung\\n\\n\\h\\lRevisão Francês\\rRevisão e Testes Coreano\\n\\lMohamed Khabatou\\rSeo-Mi Ha\\n\\n\\h\\lTestes Francês\\rLocalização Português Brasileiro\\n\\lMahmoud Khabatou\\rJay Ruas\\n\\n\\h\\lLocalização Espanhol\\rRevisão e Testes Português Brasileiro\\n\\lEdgar Rangel\\rKarina Peixe\\n\\l\\rJay Ruas\\n\\n\\h\\lRevisão Espanhol\\rTradução e Testes Japonês\\n\\lSebastián Herrera\\rSakura Yamaguchi\\n\\n\\h\\lTestes Espanhol\\rRevisão Japonês\\n\\lJair Casillas\\rYoshiki Kono"
+
+msgid "@credits_small Gaming Quality Works\\n\\n\\hQA Manager\\nSalvador García\\n\\n\\h\\lFunctional Testing\\rCompliance Testing\\n\\lEdgar Rangel\\rBryan Carranza\\n\\lJair Casillas\\rFrancisco Uzárraga\\n\\lFrancisco Uzárraga\\rSebastián Herrera"
+msgstr "@credits_small Trabalhos de Qualidade\\n\\n\\hGerente de QA\\nSalvador García\\n\\n\\h\\lTestes Funcionais\\rTestes de Confiabilidade\\n\\lEdgar Rangel\\rBryan Carranza\\n\\lJair Casillas\\rFrancisco Uzárraga\\n\\lFrancisco Uzárraga\\rSebastián Herrera"
+
+msgid "@niko3 ...hey."
+msgstr "@niko3 ... ei."
+
+msgid "@niko2 \\p... did you see that?"
+msgstr "@niko2 \\p... você viu aquilo?"
+
+msgid "@niko4 The squares just..."
+msgstr "@niko4 Os quadrados..."
+
+msgid "@niko3 It just happened again..."
+msgstr "@niko3 Aconteceu de novo..."
+
+msgid "@niko2 I...\\.\\. think...\\>\\n\\@niko6 Something is making them go away!"
+msgstr "@niko2 A...\\.\\. acho que... \\>\\n\\@niko6 Alguma coisa está fazendo eles sumirem!"
+
+msgid "@niko2 ...come on, let's try the rest."
+msgstr "@niko2 ... vem, vamos tentar com os outros."
+
+msgid "@niko_speak It's another artifact, \\p!"
+msgstr "@niko_speak Mais um artefato, \\p!"
+
+msgid "@niko5 I don't really know what they're supposed to do, but...\\> \\@niko_83c it's fun just looking around for them!"
+msgstr "@niko5 Não sei mesmo para o que servem, mas...\\> \\@niko_83c é divertido ir à procura deles!"
+
+msgid "@niko6 It's another one of those glowy things..."
+msgstr "@niko6 Mais uma daquelas coisas brilhantes..."
+
+msgid "$If you are reading this, it means you were able to collect your first artifact successfully."
+msgstr "$Se você está lendo isso, significa que conseguiu coletar seu primeiro artefato com sucesso."
+
+msgid "$Good work."
+msgstr "$Bom trabalho."
+
+msgid "$Now that you know what to do, keep in mind that some artifacts may be in locations that will be out of Niko's reach."
+msgstr "$Agora que você sabe o que fazer, lembre-se de que alguns artefatos podem estar em locais fora do alcance de Niko."
+
+msgid "$Do not worry, you will still be able to collect them."
+msgstr "$Não se preocupe, você ainda poderá coletá-los."
+
+msgid "$And with that, I wish you luck."
+msgstr "$E com isso, te desejo sorte."
+
+msgid "$Happy hunting."
+msgstr "$Boa procura."
+
+msgid "@niko \"Artifacts\", huh..."
+msgstr "@niko \"Artefatos\", hum..."
+
+msgid "@niko_pancakes Ooh! Sounds like some kind of treasure hunt! \\>\\n\\@niko_83c Like that one time my friends and I spent a whole day looking for cool rocks."
+msgstr "@niko_pancakes Ah! Parece tipo uma caça ao tesouro! \\>\\n\\@niko_83c Assim como da vez que eu e meus amigos passamos um dia inteiro procurando pedras legais."
+
+msgid "@niko2 ...?"
+msgstr "@niko2 ...?"
+
+msgid "@niko2 \\p? Do you see this... weird glowy thing floating here?"
+msgstr "@niko2 \\p? Você vê essa... coisa estranha e brilhante flutuando aqui?"
+
+msgid "@niko I wanted to pick it up, but... \\>\\@niko_eyeclosed my hand just went right through the whole thing!"
+msgstr "@niko Eu queria pegar, mas... \\>\\@niko_eyeclosed minha mão atravessou essa coisa!"
+
+msgid "@niko_pancakes Oh! Maybe it's like, a hologram!\\>\\n\\@niko_83c I've seen that in a cartoon once."
+msgstr "@niko_pancakes Ah! Talvez seja tipo um holograma!\\>\\n\\@niko_83c Vi isso em um desenho uma vez."
+
+msgid "@niko_speak ...wait, there's a note on it!"
+msgstr "@niko_speak ...espere, tem uma nota aqui!"
+
+msgid "$Occasionally, you may find special artifacts such as these scattered throughout this world."
+msgstr "$Ocasionalmente, você pode encontrar artefatos especiais como esses espalhados por todo o mundo."
+
+msgid "$As these artifacts do not physically exist in this world, Niko will be unable to make use of them."
+msgstr "$Como esses artefatos não existem fisicamente neste mundo, Niko não poderá usá-los."
+
+msgid "$However, your powers extend beyond Niko's, so why don't you try picking it up?"
+msgstr "$No entanto, seus poderes se estendem além dos de Niko, então por que você não tenta pegá-los?"
+

@@ -1,0 +1,102 @@
+msgid "@niko_speak What IS that?"
+msgstr "@niko_speak Что ЭТО такое?"
+
+msgid "@niko You want me use the crowbar to open the safe, \\p? \\>\\nI'll... try!"
+msgstr "@niko \\p, ты хочешь, чтобы я ломом открыл сейф? \\>\\nНу... Я попробую!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko2 The door is sealed flush! \\>\\@niko_eyeclosed We might need the code after all..."
+msgstr "@niko2 Дверь закрыта намертво! \\>\\@niko_eyeclosed Думаю, нам всё же нужен код..."
+
+msgid "@niko A metal safe.\\nSeems like it's locked with a 6-digit code."
+msgstr "@niko Металлический сейф.\\nЧтобы его открыть, нужен код из 6 цифр."
+
+msgid "@niko I don't... remember seeing any 6-digit codes. Do you, \\p?"
+msgstr "@niko Не помню, чтобы мне попадались... какие-то шестизначные коды. А тебе, \\p?"
+
+msgid "[ENTER CODE:]"
+msgstr "[ВВЕДИТЕ КОД:]"
+
+msgid "@niko_speak Woah! It worked!"
+msgstr "@niko_speak Ух ты! Сработало!"
+
+msgid "@niko2 Wait, how did you know the code,\\n\\p?\\>\\n\\@niko_eyeclosed I still don't remember seeing one..."
+msgstr "@niko2 Погоди-ка, откуда тебе известен код,\\n\\p?\\>\\n\\@niko_eyeclosed Всё равно не помню, чтобы видел какие-либо коды..."
+
+msgid "[\"I had some help.\", \"I have my ways.\"]"
+msgstr "[\"Мне помогли.\",\"У меня есть свои методы.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko From who?"
+msgstr "@niko_speak Правда?\\>\\n\\@niko Кто?"
+
+msgid "[\"Don't worry about it.\"]"
+msgstr "[\"Не бери в голову.\"]"
+
+msgid "@niko Okay..."
+msgstr "@niko Ладно..."
+
+msgid "@niko I...\\.\\. see!"
+msgstr "@niko А...\\.\\. Понимаю!"
+
+msgid "[\"What's in the safe, Niko?\"]"
+msgstr "[\"Что в сейфе, Нико?\"]"
+
+msgid "@niko Oh! Right.\\n\\.\\.Let's see..."
+msgstr "@niko Ах, точно.\\n\\.\\.Посмотрим..."
+
+msgid "@niko_speak Ah!\\.\\. I found a gas mask!"
+msgstr "@niko_speak Ого!\\.\\. Я нашёл противогаз!"
+
+msgid "@niko_speak Also... there's this weird-looking book!"
+msgstr "@niko_speak А ещё... Тут какая-то странная книга!"
+
+msgid "@niko I can't read it, though..."
+msgstr "@niko Но я ничего тут не могу прочесть..."
+
+msgid "@niko2 ...not that I can't read or anything! Because I can!"
+msgstr "@niko2 Только не потому, что я не умею читать! Вообще-то, ещё как умею!"
+
+msgid "@niko_eyeclosed I just don't know what language this is..."
+msgstr "@niko_eyeclosed Просто я не понимаю этот язык..."
+
+msgid "@niko_eyeclosed That wasn't it..."
+msgstr "@niko_eyeclosed Не подходит..."
+
+msgid "@niko It's empty."
+msgstr "@niko Пусто."
+
+msgid "$Although the poisonous gas is highly localized to the vent zones, Barrens workers were still recommended to wear gas masks."
+msgstr "$Несмотря на то, что ядовитый газ обычно скапливается в зонах вентиляционных отверстий, рабочим в Пустоши всё равно рекомендовалось носить противогазы."
+
+msgid "$These masks were mandatory around active vent sites, of course."
+msgstr "$Разумеется, во время нахождения в зонах активного выброса газов носить противогаз было обязательно."
+
+msgid "$As more and more of the workforce got replaced by robots, we found ourselves with a surplus of abandoned gas masks."
+msgstr "$Со временем всё больше и больше рабочих заменяли роботы, и у нас появились излишки противогазов, которые были никому не нужны."
+
+msgid "$It seemed like a waste to get rid of them all, so we kept a few for emergencies."
+msgstr "$Было бы расточительно просто их выбросить, так что мы оставили несколько штук на всякий случай."
+
+msgid "$The sun will not return and the abyss is calling my name."
+msgstr "$Солнце не вернётся, и бездна зовёт меня по имени."
+
+msgid "$I'm sorry, everyone..."
+msgstr "$Прошу прощения у всех..."
+
+msgid "$...for choosing to leave before the darkness suffocates us all."
+msgstr "$За то, что выбираю уйти, прежде чем нас всех поглотит тьма."
+
+msgid "@niko A torn page with faded ink."
+msgstr "@niko Вырванная страница с выцветшими чернилами."
+
+msgid "$XX/XX/XX\\n\\nWith the mining operations going smoothly, materials are no longer our limiting factor."
+msgstr "$XX/XX/XX\\n\\nРабота по добыче полезных ископаемых идёт прекрасно, отсутствие материалов больше не является для нас сдерживающим фактором."
+
+msgid "$We will be able to build more resilient robots, both in body and mind."
+msgstr "$Мы сможем построить роботов, более устойчивых как физически, так и морально."
+
+msgid "$Specifically, the discovery of metal alloy 291 will likely allow the development of highly efficient circuitry."
+msgstr "$В частности, открытый металлический сплав 291 позволит нам разработать высокоэффективную электронную схему."
+

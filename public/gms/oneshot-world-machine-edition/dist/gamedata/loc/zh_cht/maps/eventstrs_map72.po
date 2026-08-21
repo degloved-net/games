@@ -1,0 +1,705 @@
+msgid "Hopefully one day he'll show up!"
+msgstr "希望有一天他會現身！"
+
+msgid "I mean, I don't think many people have ever seen him in person."
+msgstr "我是說，應該很少有人見過他本人。"
+
+msgid "...or know what he looks like!"
+msgstr "……也沒幾個人知道他長怎樣！"
+
+msgid "Everyone's heard OF him through secondhand accounts, though."
+msgstr "大家都是透過第二手消息得知他的資訊就是了。"
+
+msgid "...oh! But he did reply to my letter that one time!"
+msgstr "……喔！不過有一次他有回我的信！"
+
+msgid "I got it framed immediately."
+msgstr "我馬上就把他的回信裱框了。"
+
+msgid "@niko Nice."
+msgstr "@niko 不錯。"
+
+msgid "Oh, hello! Do you need directions?"
+msgstr "喔，你好啊！你需要找路嗎？"
+
+msgid "Let's see... this area here is mostly historical accounts, the reference section is downstairs, and, uh..."
+msgstr "我看看……這一區多半是歷史記述，參考書區在樓下，然後，呃……"
+
+msgid "I'm not sure where the children's section is... sorry!"
+msgstr "我不確定兒童書在哪一區……抱歉喔！"
+
+msgid "@niko_speak That's ok! \\.\\.\\@niko I'm not really looking for books."
+msgstr "@niko_speak 沒關係！\\.\\.\\@niko 我其實不是來找書的。"
+
+msgid "Oh! Are you here to... look for the Author, then?"
+msgstr "喔！那你是……來找神秘作者的囉？"
+
+msgid "@niko ...no?"
+msgstr "@niko ……也不是耶？"
+
+msgid "Oh, that's good!"
+msgstr "喔，那很好！"
+
+msgid "Er, I mean... that means you won't be disappointed!"
+msgstr "呃，我是說……這代表你不會失望！"
+
+msgid "I've been volunteering here for months, and I've never seen him, not even once!"
+msgstr "我在這裡當了好幾個月的義工，都沒見過他，連一次也沒有！"
+
+msgid "He works together with the head librarian on publishing, so you'd think he would at least show up once in a while..."
+msgstr "他和圖書館長合作出版，本來以為他至少偶爾會來一次的……"
+
+msgid "@niko_speak But... he doesn't?"
+msgstr "@niko_speak 可是……他都不來？"
+
+msgid "Yeah... he seems kiiinda reclusive."
+msgstr "對啊……他好像偏愛隱居。"
+
+msgid "...which is weird for a guy who supposedly travels the world."
+msgstr "……以一個應該常常到處旅行的人來說， 這還滿奇怪的。"
+
+msgid "Maybe it's just around people..."
+msgstr "也許他只是不喜歡人群……"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf 你在……對那本書做什麼？"
+
+msgid "Don't worry, these are my own books. That I wrote."
+msgstr "別擔心，這些是我的書，我自己寫的。"
+
+msgid "I just pulled them off the shelves to modify them. I have to cross out some sections..."
+msgstr "我只是把它們從架子上拿下來改寫。有些地方我要刪掉……"
+
+msgid "...most sections."
+msgstr "……其實大部分都要刪掉。"
+
+msgid "@niko_speak Eh? How come?"
+msgstr "@niko_speak 咦？為什麼？"
+
+msgid "Cuz otherwise they'll think I copied HIM."
+msgstr "因為不這樣的話大家會覺得我抄襲他。"
+
+msgid "@niko Him?"
+msgstr "@niko 他？"
+
+msgid "The Author!"
+msgstr "就是神秘作者！"
+
+msgid "I mean, I really don't see the point of writing anything anymore!"
+msgstr "我是說，我已經不知道寫作還有什麼意義了！"
+
+msgid "The Author is just gonna write about the same thing, and then everyone will love it!"
+msgstr "反正神秘作者一定會寫同樣的題材，然後大家都愛看！"
+
+msgid "And nobody's gonna remember the books that came out before his!"
+msgstr "沒有人會記得在他之前出版的書！"
+
+msgid "@niko Oh, uh..."
+msgstr "@niko 喔，呃……"
+
+msgid "I mean, I ain't hatin'."
+msgstr "我要說的是，我不怪他。"
+
+msgid "I can see why people go nuts over his stuff. That guy's got major talent."
+msgstr "我能理解為什麼大家這麼熱愛他的作品，那傢伙真的有才華。"
+
+msgid "But... it just... hurts, y'know?"
+msgstr "可是……我就是……覺得難受，你懂嗎？"
+
+msgid "It's never fun when people call you a copycat for something you wrote about first."
+msgstr "明明是你先寫了某樣東西，卻被指控抄襲，真的很讓人難過。"
+
+msgid "@niko I can see that..."
+msgstr "@niko 我能理解……"
+
+msgid "@niko_speak People call me a cat all the time!"
+msgstr "@niko_speak 我常常被說是貓！"
+
+msgid "@niko_eyeclosed Even though I'm a person, and cats are pets."
+msgstr "@niko_eyeclosed 可是我明明是人，而貓是寵物。"
+
+msgid "@niko ...and mousers."
+msgstr "@niko ……還有抓老鼠的。"
+
+msgid "@niko_eyeclosed I sure hope people don't think I eat mice..."
+msgstr "@niko_eyeclosed 希望大家不會誤以為我吃老鼠……"
+
+msgid "Heh, then I guess we're in the same boat, kiddo."
+msgstr "嘿，那我們的處境相同呢，孩子。"
+
+msgid "Well, I think I changed at least half a book's worth of content."
+msgstr "嗯，我想我至少把書的內容修改了一半。"
+
+msgid "And even then, it's still too similiar!"
+msgstr "即使如此，還是太像了！"
+
+msgid "Looks like I'll just have to accept my fate..."
+msgstr "看來我只能認命……"
+
+msgid "@niko Well, I guess being a called a cat isn't all that bad..."
+msgstr "@niko 嗯，被稱為貓可能不全然是壞事……"
+
+msgid "@niko_eyeclosed ...as long as people don't assume you eat mice."
+msgstr "@niko_eyeclosed ……只要大家不要假設我會吃老鼠。"
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko 一個墨水瓶，上面還插了一支羽毛筆。"
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c 很讓人懷念呢，對吧，\\p？"
+
+msgid "...y'know, I've tried looking for the flying machine with my binoculars for ages!"
+msgstr "……你知道，我試著用雙筒望遠鏡找飛機已經找了好久！"
+
+msgid "Never saw such a thing, though..."
+msgstr "可是從來都沒看到那種東西……"
+
+msgid "The Author is so cool!"
+msgstr "神秘作者真的很酷！"
+
+msgid "I heard he can travel all over the world with a flying machine!"
+msgstr "聽說他可以搭飛機在世界各地旅行！"
+
+msgid "That's how he gathers material for his books."
+msgstr "他就是這樣為他的作品取材。"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak 哇！"
+
+msgid "@niko A small pile of books."
+msgstr "@niko 一小疊書。"
+
+msgid "@bookbot !"
+msgstr "@bookbot ！"
+
+msgid "@bookbot [UNAUTHORIZED ENTRY.]"
+msgstr "@bookbot [未授權的進入。]"
+
+msgid "@bookbot [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]"
+msgstr "@bookbot [需要出示借書證才能進入其他區域。]"
+
+msgid "@niko_eyeclosed I know, I know..."
+msgstr "@niko_eyeclosed 我知道，我知道啦……"
+
+msgid "@niko Wait, what?"
+msgstr "@niko 等等，什麼？"
+
+msgid "@niko_speak I don't have a library card, though!"
+msgstr "@niko_speak 可是我沒有借書證啊！"
+
+msgid "@niko Where can I get one?"
+msgstr "@niko 要去哪裡申請呢？"
+
+msgid "@bookbot [THIS IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [這個問題要問館長喬智。]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER.]"
+msgstr "@bookbot [請讓我打電話給她。]"
+
+msgid "@niko_huh . . ."
+msgstr "@niko_huh ……"
+
+msgid "@niko_wtf2 . . . . ."
+msgstr "@niko_wtf2 ……"
+
+msgid "@bookbot [SHE IS NOT PICKING UP.]"
+msgstr "@bookbot [她沒接電話。]"
+
+msgid "@niko_eyeclosed I figured..."
+msgstr "@niko_eyeclosed 我想也是……"
+
+msgid "@niko Are you sure you can't just... let me through?"
+msgstr "@niko 你真的不能……直接讓我進去嗎？"
+
+msgid "@bookbot [LETTING YOU THROUGH WITHOUT A LIBRARY CARD IS AGAINST MY PROGRAMMING.]"
+msgstr "@bookbot [不檢查借書證就讓你通過，有違我的程式。]"
+
+msgid "@niko_what Wh-"
+msgstr "@niko_what 什──"
+
+msgid "@niko Even in an emergency?"
+msgstr "@niko 即使有急事也不能嗎？"
+
+msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
+msgstr "@bookbot [我的程式沒有辦法通融。]"
+
+msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@bookbot [我沒有經過馴化。]"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed 唉……"
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[你需要什麼嗎？請從前方往前。]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko There's this book I found back in the barrens area."
+msgstr "@niko 我有一本在藍荒地找到的書。"
+
+msgid "@niko_speak Since this is a place for books, would you happen to know what it says?"
+msgstr "@niko_speak 因為這裡是藏書的地方，我想知道你看不看得懂？"
+
+msgid "@bookbot [I DO NOT RECOGNIZE THIS LANGUAGE]"
+msgstr "@bookbot [我無法辨識這種語言]"
+
+msgid "@bookbot [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]"
+msgstr "@bookbot [但是封面上的標誌很重要]"
+
+msgid "@niko Oh?"
+msgstr "@niko 是嗎？"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, CAN EXPLAIN IT.]"
+msgstr "@bookbot [館長喬智可以解釋。]"
+
+msgid "@bookbot [WOULD YOU LIKE ME TO CALL HER?]"
+msgstr "@bookbot [要我打電話給她嗎？]"
+
+msgid "@niko_eyeclosed Please don't."
+msgstr "@niko_eyeclosed 拜託不要。"
+
+msgid "@bookbot [AUTHENTICATING BARCODE...]"
+msgstr "@bookbot [正在驗證條碼……]"
+
+msgid "@bookbot [EXECUTING FACIAL RECOGNITION...]"
+msgstr "@bookbot [執行臉部辨識……]"
+
+msgid "@bookbot [PHOTO MATCH...\\. FAILED.]"
+msgstr "@bookbot [照片比對……\\.失敗。]"
+
+msgid "@bookbot [IT SEEMS YOU DO NOT RESEMBLE THE OWNER OF THE CARD.]"
+msgstr "@bookbot [你看起來並不像這張借書證的持有者。]"
+
+msgid "@bookbot [YOU CANNOT USE THIS CARD.]"
+msgstr "@bookbot [你不能用這張借書證。]"
+
+msgid "@niko_eyeclosed Bummer..."
+msgstr "@niko_eyeclosed 討厭……"
+
+msgid "@bookbot [INVALID CARD!]"
+msgstr "@bookbot [無效的借書證！]"
+
+msgid "@bookbot [PHOTO IS MISSING.]"
+msgstr "@bookbot [缺少照片。]"
+
+msgid "@niko_eyeclosed ...why did I do that."
+msgstr "@niko_eyeclosed ……我為什麼要那樣做。"
+
+msgid "@bookbot [HAVE A NICE DAY, MISS KIP.]"
+msgstr "@bookbot [琪普小姐，祝妳有美好的一天。]"
+
+msgid "@niko Yup, that's... totally me."
+msgstr "@niko 嗯，那……那是我沒錯。"
+
+msgid "@bookbot [PHOTO MATCH...\\. SUCCESSFUL]"
+msgstr "@bookbot [照片比對……\\.成功。]"
+
+msgid "@bookbot [YOU'RE GOOD TO GO!]"
+msgstr "@bookbot [妳可以通過了！]"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ……"
+
+msgid "@niko_eyeclosed ...maybe I should've changed the name."
+msgstr "@niko_eyeclosed ……也許我該把名字也改掉。"
+
+msgid "@niko So I'm guessing you don't give out library cards?"
+msgstr "@niko 所以，意思是你不負責發借書證嗎？"
+
+msgid "@bookbot [I ONLY HANDLE BOOK TRANSACTIONS.]"
+msgstr "@bookbot [我只處理借還書。]"
+
+msgid "@bookbot [...FOR PEOPLE WHO ALREADY POSSESS CARDS.]"
+msgstr "@bookbot [……服務僅限已有借書證的人。]"
+
+msgid "@niko Ah."
+msgstr "@niko 這樣啊。"
+
+msgid "@bookbot [TO ACQUIRE A CARD, YOU WOULD NEED TO CONTACT THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [如果要取得借書證，你必須聯絡館長喬智。]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER-"
+msgstr "@bookbot [請讓我打電話給她──"
+
+msgid "@niko_surprised Don't!!"
+msgstr "@niko_surprised 不用了！！"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [館長喬智在樓上的書庫。]"
+
+msgid "@niko Excuse me!"
+msgstr "@niko 不好意思！"
+
+msgid "@bookbot [OH. YOU ARE THE MESSIAH.]"
+msgstr "@bookbot [喔，你是救世主。]"
+
+msgid "@bookbot [WELCOME.]"
+msgstr "@bookbot [歡迎。]"
+
+msgid "@niko_speak When I first entered the city, a big robot told me to look for a library on the surface!"
+msgstr "@niko_speak 我剛進入城市的時候，有一個大型機器人叫我來找地面上的圖書館！"
+
+msgid "@niko This is the same library, right?"
+msgstr "@niko 就是這間圖書館，對吧？"
+
+msgid "@bookbot [AFFIRMATIVE.]"
+msgstr "@bookbot [肯定。]"
+
+msgid "@niko_speak Oh, goody!"
+msgstr "@niko_speak 喔，太好了！"
+
+msgid "@niko Well... we're here... what do we do now?"
+msgstr "@niko 嗯……我們來了……現在該怎麼辦？"
+
+msgid "@niko_eyeclosed The big robot only said there'd be clues here..."
+msgstr "@niko_eyeclosed 大機器人只說這裡會有線索……"
+
+msgid "@bookbot [THAT IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [這個問題要問館長喬智。]"
+
+msgid "@niko_speak Is she... not here?"
+msgstr "@niko_speak 她……不在這裡嗎？"
+
+msgid "@bookbot [SHE IS HERE. SHE IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [她在。她在樓上的書庫。]"
+
+msgid "@bookbot [WHEN SHE IS CONCENTRATING ON HER WORK, SHE WILL IGNORE ANY AND ALL PHONECALLS.]"
+msgstr "@bookbot [當她在專心工作時，是完全不接電話的。]"
+
+msgid "@bookbot [...FOR SEVERAL DAYS.]"
+msgstr "@bookbot [……好幾天都不會接。]"
+
+msgid "@niko_what Yikes!"
+msgstr "@niko_what 不妙！"
+
+msgid "@niko Can you go get her in person, then?"
+msgstr "@niko 那你能自己去找她嗎？"
+
+msgid "@bookbot [LEAVING THIS POST IS NOT IN MY PROGRAMMING.]"
+msgstr "@bookbot [離開崗位不在我的程式允許範圍。]"
+
+msgid "@niko Then... can I go myself?"
+msgstr "@niko 那……我可以去嗎？"
+
+msgid "@bookbot [OF COURSE.]"
+msgstr "@bookbot [當然可以。]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS ACCESSIBLE THROUGH THE STAIRWELL BEHIND ME.]"
+msgstr "@bookbot [從我後面的樓梯可以走到書庫。]"
+
+msgid "@niko_speak Gotcha, thanks!"
+msgstr "@niko_speak 知道了，謝謝！"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko 一台電腦，現在沒有開機。"
+
+msgid "I guess that's why the library is always so packed."
+msgstr "可能就是因為這樣，所以圖書館總是很擁擠。"
+
+msgid "...and this is a slow day, mind you!"
+msgstr "……而且你要知道，今天還算人少的！"
+
+msgid "The Author's books cover a wide range of topics."
+msgstr "神秘作者的書內容包山包海。"
+
+msgid "It seems there are no subjects he does not write about."
+msgstr "感覺沒有什麼題材是他不寫的。"
+
+msgid "Quite the renaissance man, don't you think?"
+msgstr "是個文藝復興派呢，你不覺得嗎？"
+
+msgid "@niko I guess so!"
+msgstr "@niko 大概吧！"
+
+msgid "But he's been focusing on documenting the world, as of late."
+msgstr "不過他最近都在專心記錄這個世界的事。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "They say this city is the last bastion of civilization."
+msgstr "大家都說這座城市是文明的最後堡壘。"
+
+msgid "Soon, these books may be the only thing we have to remember the rest of the world by."
+msgstr "再過不久，我們可能只能靠這些書回憶僅存的世界了。"
+
+msgid "@niko ...ah."
+msgstr "@niko ……啊。"
+
+msgid "@niko I haven't seen any superheroes in this world."
+msgstr "@niko 我在這世界還沒看過超級英雄。"
+
+msgid "@niko_speak Saw a lot of robots, though!"
+msgstr "@niko_speak 不過我有看到很多機器人！"
+
+msgid "Well, I guess robots are more plausible than superpowers..."
+msgstr "嗯，我想機器人應該比超級英雄更說得通吧……"
+
+msgid "@niko True!"
+msgstr "@niko 的確！"
+
+msgid "The Author publishes books at a highly accelerated, almost inhuman pace."
+msgstr "神秘作者出版著作的速度非常快，快得簡直不是常人。"
+
+msgid "In fact, he has put out more books in one year than most authors do in a lifetime."
+msgstr "事實上，他一年寫的書量就超過大部分作家一輩子的著作。"
+
+msgid "According to the head librarian, there is still a large amount of material he has written, but not yet published."
+msgstr "根據圖書館長的說法，他還有一大堆尚未出版的著作。"
+
+msgid "One cannot help but to wonder where he can get so much done in so little time."
+msgstr "實在讓人忍不住疑惑他怎麼有辦法在這麼短的時間內寫這麼多東西。"
+
+msgid "I did the calculations, and the numbers simply do not add up."
+msgstr "我試著計算過，那些數字怎麼算都不合理。"
+
+msgid "@niko Maybe he... \\.\\.\\@niko_speak can stop time?"
+msgstr "@niko 說不定他……\\.\\.\\@niko_speak 能讓時間暫停？"
+
+msgid "No such mechanism exists in this world."
+msgstr "這世界上沒有這種機制。"
+
+msgid "...Is that actually possible in your home dimension?"
+msgstr "……在你的世界裡，這種事有可能發生嗎？"
+
+msgid "@niko_eyeclosed Nah, I just saw it in a movie once..."
+msgstr "@niko_eyeclosed 沒有，我只是在電影上看過……"
+
+msgid "@niko About... superheroes and stuff."
+msgstr "@niko 那是一部……超級英雄的電影。"
+
+msgid "There's a couple of his books in this room that aren't occupied yet."
+msgstr "這間房間裡還有幾本他的書沒被借走。"
+
+msgid "Hurry before someone takes them!"
+msgstr "想看的話動作要快，不然馬上就被拿去了！"
+
+msgid "So, what do you think about the Author?"
+msgstr "那麼，你對神秘作者有什麼看法？"
+
+msgid "@niko I... don't know?"
+msgstr "@niko 我……不知道耶？"
+
+msgid "Have you read his stuff yet?"
+msgstr "你讀過他的作品了嗎？"
+
+msgid "If not, you should!"
+msgstr "如果還沒的話，建議你一定要讀！"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko 書本整齊地排在架上。"
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko 書本整齊地排在架上。"
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko 書在架上排得很整齊。"
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko 架上的書排得很整齊。"
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko 整齊排列的書在架上。"
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko 書架上有排得很整齊的書。"
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko 架上的書整齊地排好了。"
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko 書在架上，排得很整齊。"
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko 地上有一疊書。"
+
+msgid "@niko A book!"
+msgstr "@niko 一本書！"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[正在將書本重新上架……]"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko 很高一疊書。"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+
+msgid "@niko Hi."
+msgstr "@niko 你好。"
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[正在將書本重新上架。]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[請小心可能掉落的書本。]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 我會的！"
+
+msgid "@niko Coffee cups."
+msgstr "@niko 咖啡杯。"
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak 咖啡是給大人喝的！"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed 沒錯……我還是怕爬梯。"
+
+msgid "@niko A coffee machine."
+msgstr "@niko 咖啡機。"
+
+msgid "@niko It's almost empty..."
+msgstr "@niko 裡面快要空了……"
+
+msgid "@niko A photo of some plants."
+msgstr "@niko 某種植物的照片。"
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko 某種牌匾。"
+
+msgid "@niko_huh He just glared at me."
+msgstr "@niko_huh 他剛剛瞪了我。"
+
+msgid "@niko_eyeclosed I don't think we should bother him, \\p..."
+msgstr "@niko_eyeclosed \\p，我想我們不該打擾他……"
+
+msgid "..."
+msgstr "……"
+
+msgid ".....WHAT??!?"
+msgstr "……什麼！？"
+
+msgid "@niko_huh Wh-\\.\\.\\@niko I didn't say anything."
+msgstr "@niko_huh 什──\\.\\.\\@niko 我什麼都沒說。"
+
+msgid "Well stop staring at me then!"
+msgstr "那就不要一直盯著我看！"
+
+msgid "@niko_speak I was just looking at your book..."
+msgstr "@niko_speak 我只是在看你的書……"
+
+msgid "Yes. You are in a library. There's books. In the library."
+msgstr "對。你人在圖書館裡。這裡有書。這裡是圖書館。"
+
+msgid "...Go bug the chatty one upstairs."
+msgstr "……去樓上煩那些愛講話的啦。"
+
+msgid "@niko A photo of some people."
+msgstr "@niko 一些人的合照。"
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko 看起來這裡有書名的清單……"
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [如果有任何問題，請由前方前進。]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko 不用了，謝謝！"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak 一本大書，封面上有黑苜蓿標誌。"
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko 書名是《燐礦完全指南》。"
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko 用白板筆畫的苜蓿。"
+
+msgid "@niko A marker eraser."
+msgstr "@niko 白板板擦。"
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko 書名是《失去太陽的世界中，新興生態位》。"
+
+msgid "@niko A green marker."
+msgstr "@niko 綠色白板筆。"
+
+msgid "kip card"
+msgstr "琪普的卡片"
+
+msgid "I just like looking at pictures."
+msgstr "我只喜歡看圖片。"
+
+msgid "@niko Same."
+msgstr "@niko 我也是。"
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak 你翻閱的速度好快！"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "其實這本大多是圖片！"
+
+msgid "Yeah! The author doesn't only write books, he also illustrates them!"
+msgstr "對！神秘作者不只寫書，他還自己畫插圖！"
+
+msgid "Sometimes he makes books out of only pictures."
+msgstr "有時候他會出只有圖畫的書。"
+
+msgid "@niko Neat!"
+msgstr "@niko 真不錯！"
+
+msgid "@niko A blue marker."
+msgstr "@niko 藍色白板筆。"
+
+msgid "niko card"
+msgstr "霓光的卡片"
+
+msgid "@niko A red marker."
+msgstr "@niko 紅色白板筆。"
+
+msgid "glittery"
+msgstr "閃閃發亮"
+
+msgid "Oh, and picture books, those too."
+msgstr "喔，還有繪本，這些也是。"
+
+msgid "@niko_speak I like pictures!"
+msgstr "@niko_speak 我喜歡圖畫！"
+
+msgid "The Author's latest books are really something, yeah?"
+msgstr "神秘作者最近的新作真的很厲害，對不對？"
+
+msgid "The head librarian just released a bunch last week!"
+msgstr "圖書館長上禮拜才出版了一些！"
+
+msgid "They're big compendiums, you'll see them if you look around."
+msgstr "那些是很粗略的概要，你去找一找就會發現。"
+
+msgid "Kinda different from his earlier works, though."
+msgstr "不過這跟他早期的作品不太一樣。"
+
+msgid "I'm used to reading his travel logs and novels, mostly."
+msgstr "我主要比較習慣讀他的遊記和小說。"
+
+msgid "I'm on my 3rd cup."
+msgstr "我已經喝到第3杯了。"
+
+msgid "I can't feel my limbs..."
+msgstr "我手腳都麻了……"
+
+msgid "@niko um..."
+msgstr "@niko 呃……"
+
+msgid "BUT I HAVE TO STAY AWAKE."
+msgstr "可是我必須保持清醒。"
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "我一定要知道這本書最後的結尾是什麼……"
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 呃……"
+
+msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
+msgstr "去他的神秘作者和他精彩無比的吊胃口劇情……"
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko 這塊乾板擦是用金屬做的。"
+
+msgid "cardquest + desk"
+msgstr "尋卡任務+桌子"
+

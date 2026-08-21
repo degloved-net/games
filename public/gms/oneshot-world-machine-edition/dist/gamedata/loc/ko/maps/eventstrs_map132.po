@@ -1,0 +1,249 @@
+msgid "@niko A watering can. It's half full."
+msgstr "@niko 물뿌리개예요. 반쯤 차 있네요."
+
+msgid "@niko Filled with plant clippings."
+msgstr "@niko 잘라낸 식물로 가득해요."
+
+msgid "@niko It's a pink flower."
+msgstr "@niko 분홍색 꽃이에요."
+
+msgid "@mason Good luck with that seed, now!"
+msgstr "@mason 그 씨앗이 잘 자라길 빌어!"
+
+msgid "@mason Most of the plants in our world tend to grow in The Glen."
+msgstr "@mason 우리 세계의 식물은 대부분 협곡에서 자라지."
+
+msgid "@mason Even if it's facing the flooding issues, it's still in better condition than the other two areas."
+msgstr "@mason 침수 문제가 발생하고 있긴 하지만 나머지 두 지역에 비하면 굉장히 양호한 편이야."
+
+msgid "@mason The Barrens is... well, the barrens."
+msgstr "@mason 불모지는... 그야말로 불모지지."
+
+msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
+msgstr "@mason 그리고 난민 지구라 불리는 곳엔 식물이 자랄 땅은커녕 건물이 서 있을 땅도 없어!"
+
+msgid "@mason ...On a larger scale than this, I mean."
+msgstr "@mason ...여기보다는 넓지만 말야."
+
+msgid "@niko_speak Oh! \\.\\.\\@niko You're a gardener, right?"
+msgstr "@niko_speak 아! \\.\\.\\@niko 당신이 정원사로군요, 그렇죠?"
+
+msgid "@mason Yup!"
+msgstr "@mason 그렇단다!"
+
+msgid "@niko_speak Do you... happen to have any dirt?\\>\\n\\@niko For growing plants, I mean!"
+msgstr "@niko_speak 저기... 흙을 좀 가지고 계시나요?\\>\\n\\@niko 식물을 키우기 위한 흙이요!"
+
+msgid "@mason Yup!\\>\\nDo you need some?"
+msgstr "@mason 물론이지!\\>\\n필요하니?"
+
+msgid "@niko_speak Yes!\\>\\n\\@niko I'm supposed to plant this seed left behind by a plant lady..."
+msgstr "@niko_speak 네!\\>\\n\\@niko 식물 아가씨가 남긴 이 씨앗을 심고 싶어서요..."
+
+msgid "@niko_eyeclosed ...but the pot in the garden doesn't have any soil..."
+msgstr "@niko_eyeclosed ...하지만, 정원에 있던 화분에는 흙이 없어서..."
+
+msgid "@mason I see...."
+msgstr "@mason 그랬군..."
+
+msgid "@mason I know who you're talking about, yeah."
+msgstr "@mason 네가 말하는 사람이 누군지 알 것 같아."
+
+msgid "@mason Here, take this whole bag!"
+msgstr "@mason 자, 이 봉투를 가져가렴!"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak 고마워요!"
+
+msgid "@mason Feel free to ask me about the plants!"
+msgstr "@mason 식물에 관한 거라면 뭐든 물어보거라!"
+
+msgid "@mason Hello there!"
+msgstr "@mason 안녕!"
+
+msgid "@niko_speak You have a lot of plants!"
+msgstr "@niko_speak 식물을 많이 키우시네요!"
+
+msgid "@mason I do!\\nGrew all of these myself, y'see."
+msgstr "@mason 그래, 맞아!\\n이 식물들을 다 내 손으로 키웠지."
+
+msgid "@mason Feel free to ask me about them!"
+msgstr "@mason 식물에 관한 거라면 뭐든 물어보렴!"
+
+msgid "@niko Empty flowerpot..."
+msgstr "@niko 빈 화분이네에요.."
+
+msgid "@niko Cactus."
+msgstr "@niko 선인장이에요."
+
+msgid "@mason Cactus."
+msgstr "@mason 선인장이지."
+
+msgid "@niko_eyeclosed Cactus."
+msgstr "@niko_eyeclosed 선인장이군요."
+
+msgid "@niko So... is it a tree?"
+msgstr "@niko 음... 이건 나무인가요?"
+
+msgid "@mason Only in name!"
+msgstr "@mason 이름만 그렇지!"
+
+msgid "@mason That's a phosphor tree."
+msgstr "@mason 그건 발광 나무란다."
+
+msgid "@niko_speak Oh! Like the ones we saw in the glen!"
+msgstr "@niko_speak 아! 비슷한 걸 협곡에서 본 적이 있어요!"
+
+msgid "@niko I always wondered... where are the leaves?"
+msgstr "@niko 볼 때마다 궁금했는데... 잎은 어디 있나요?"
+
+msgid "@niko2 They're not... dead, are they?"
+msgstr "@niko2 죽은... 건 아니죠?"
+
+msgid "@mason Oh, not at all!"
+msgstr "@mason 물론, 죽지 않았단다!"
+
+msgid "@mason Although these trees are composed of a woody tissue, they're closer to grass, anatomy-wise."
+msgstr "@mason 이 나무들의 조직은 나무와 비슷하지만, 해부학적으로는 오히려 풀에 가깝지."
+
+msgid "@niko ...So the branches are actually leaves?"
+msgstr "@niko ...그럼, 가지로 보이는 게 실제로는 잎이라는 건가요?"
+
+msgid "@mason Sorta!"
+msgstr "@mason 정답이야!"
+
+msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
+msgstr "@mason 이 식물의 가장 흥미로운 점은 이 나무에서 나는 발광체 수액이지."
+
+msgid "@niko Phosphor... that's the glowy stuff, right?"
+msgstr "@niko 발광체라면... 그 빛나는 물질 말인가요?"
+
+msgid "@mason Phosphor can store light energy and slowly emit it over time."
+msgstr "@mason 발광체는 빛 에너지를 저장해 뒀다가 서서히 방출한단다."
+
+msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
+msgstr "@mason 이 세계에 있는 발광체 대부분은 태양이 꺼지기 전에 저장해 둔 에너지를 아직 지니고 있어."
+
+msgid "@mason Without the sun to recharge them, though..."
+msgstr "@mason 다만 태양이 없어졌으니 빛을 다시 채울 수는 없지..."
+
+msgid "@mason ...well, let's talk about something else."
+msgstr "@mason ...자, 이제 다른 주제로 이야기를 해 보자꾸나."
+
+msgid "@niko The pots are labeled with different species names."
+msgstr "@niko 화분마다 종 이름이 다르네요."
+
+msgid "@niko Oh! The sprouts are stretching towards the sun..."
+msgstr "@niko 와! 새싹들이 태양 쪽을 향해 움직여요..."
+
+msgid "@mason Be sure not to touch these!"
+msgstr "@mason 만지지 않게 주의하렴!"
+
+msgid "@mason These are the plants have only recently sprouted."
+msgstr "@mason 여기 식물들은 최근에서야 싹을 틔웠거든."
+
+msgid "@mason It's not easy for a plant to make it out there these days."
+msgstr "@mason 요즘에는 싹을 틔우는 것도 쉽지 않아."
+
+msgid "@mason We got these growing lamps, but they're a poor substitute for the sun!"
+msgstr "@mason 성장 촉진등을 사용하고는 있지만 태양에 비하면 싸구려 대체품일 뿐이지!"
+
+msgid "@mason Ah, black clovers..."
+msgstr "@mason 아, 검은 클로버로군..."
+
+msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
+msgstr "@mason 이 식물만큼은 협곡 바깥에서도 살아남을 만큼 강해."
+
+msgid "@mason Personally? I think they're really boring to look at."
+msgstr "@mason 개인적으로 어떻게 생각하냐고? 정말 재미없는 식물이지."
+
+msgid "@mason One of my customers really loves them though."
+msgstr "@mason 내 고객 중 한 명은 저걸 정말 좋아하더군."
+
+msgid "@mason I think all of the black clovers I'm growing here are for him, actually."
+msgstr "@mason 사실, 여기서 재배 중인 검은 클로버는 전부 그 사람이 주문한 거야."
+
+msgid "@mason ...Come to think of it, I haven't seen him in a while."
+msgstr "@mason ...생각해 보니, 최근에는 그 사람을 본 기억이 없군그래."
+
+msgid "@mason I wonder when is he coming to pick these up?"
+msgstr "@mason 언제 이것들을 가지러 오려나?"
+
+msgid "@mason The clover guy... he's actually pretty cool!"
+msgstr "@mason 클로버 친구... 그 친구는 정말 멋지단다!"
+
+msgid "@mason He's an author, and apparently he's some sort of big deal? Or at least he's really passionate about his work."
+msgstr "@mason 저자라고 하던데. 게다가 꽤나 거물 같았어. 최소한 자기 일에 굉장히 열정적인 친구지."
+
+msgid "@mason I don't know him that well, although sometimes I stumble across articles about him in the news..."
+msgstr "@mason 그 친구가 어떤 사람인지 난 잘 몰라. 가끔 뉴스를 보다가 그 친구에 관한 기사를 우연히 발견하는 정도지..."
+
+msgid "@mason I'd love to chat with him, if I run into him again!"
+msgstr "@mason 그 친구와 다시 이야기를 나눠 봤으면 좋겠어!"
+
+msgid "@niko Black clovers."
+msgstr "@niko 검은 클로버예요."
+
+msgid "@niko They're kinda shiny."
+msgstr "@niko 반짝거리고 있어요."
+
+msgid "@niko It's wheat."
+msgstr "@niko 밀이에요."
+
+msgid "@mason That golden color is quite something, no?"
+msgstr "@mason 저 황금 빛깔, 정말 대단하지 않니?"
+
+msgid "@niko_speak It's wheat!"
+msgstr "@niko_speak 밀이에요!"
+
+msgid "@niko Why is it in a flowerpot?"
+msgstr "@niko 왜 밀이 화분에 있죠?"
+
+msgid "@mason Well, doesn't it look nice?"
+msgstr "@mason 예쁘지 않니?"
+
+msgid "@niko I guess!"
+msgstr "@niko 예뻐요!"
+
+msgid "@niko I like to stand in the middle of the wheat field back in my village."
+msgstr "@niko 전 마을 근처 밀밭에 서 있는 걸 정말 좋아하거든요."
+
+msgid "@niko_speak It goes on for miles!"
+msgstr "@niko_speak 밭이 엄청 멀리까지 펼쳐져 있어요!"
+
+msgid "@mason Ah... I wish I could have seen it!"
+msgstr "@mason 오... 나도 그걸 볼 수 있으면 정말 좋을 텐데!"
+
+msgid "@mason In our world, wheat is usually only grown in small isolated plots."
+msgstr "@mason 우리 세계에서는 밀을 아주 제한된 지역에서만 재배하거든."
+
+msgid "@mason ...Or in a flowerpot."
+msgstr "@mason ...아니면 이런 화분에서 키우거나."
+
+msgid "@niko A small tree with leaves."
+msgstr "@niko 잎이 달린 작은 나무예요."
+
+msgid "@niko_eyeclosed ...Apparently they are rare."
+msgstr "@niko_eyeclosed ...희귀한 것 같아요."
+
+msgid "@niko This tree has leaves!"
+msgstr "@niko 이 나무는 잎이 있네요!"
+
+msgid "@mason Ah yes, true foliage is hard to come by nowadays."
+msgstr "@mason 그래, 맞아. 요즘에는 진짜 나뭇잎을 보기 힘들어졌지."
+
+msgid "@mason You hardly ever see trees like these in the wild anymore."
+msgstr "@mason 이제 야생에서는 이런 나무를 거의 볼 수 없어졌단다."
+
+msgid "@mason And the ones you do see are pretty much all raised artificially by people like me, mostly for nostalgia purposes."
+msgstr "@mason 네가 지금 보는 건 나 같은 사람들이 인위적으로 기른 거란다. 보통 향수 때문에 기르지."
+
+msgid "@niko A small garden trowel. The handle part is shaped like... an owl?"
+msgstr "@niko 작은 정원용 모삽이에요. 손잡이는... 올빼미 모양이네요?"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ..."
+
+msgid "@niko_83c I get it!"
+msgstr "@niko_83c 알겠어요!"
+

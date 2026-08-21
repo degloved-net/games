@@ -1,0 +1,120 @@
+msgid "@red_gatekeeper [...Interesting Book You Got There...]"
+msgstr "@red_gatekeeper […興味深イ本ヲ持ッテイルナ…]"
+
+msgid "@red_gatekeeper [It Is Written In A Language I Do Not Recognize.]"
+msgstr "@red_gatekeeper [認識デキナイ言語デ書カレテイル。]"
+
+msgid "@red_gatekeeper [...Perhaps You Should Find A Way To Decipher It When You're At The Library.]"
+msgstr "@red_gatekeeper […図書館デ、解読スル方法ヲ探スト\nイイダロウ。]"
+
+msgid "@red_gatekeeper [It May Be Of Help.]"
+msgstr "@red_gatekeeper [何カ役ニ立ツカモシレナイ。]"
+
+msgid "@red_gatekeeper [Hello Again, Messiah, Do You Need Help?]"
+msgstr "@red_gatekeeper [マタ会ッタナ、救世主。何カ用カ？]"
+
+msgid "@niko Well..."
+msgstr "@niko その…"
+
+msgid "[\"Explain again\", \"No\"]"
+msgstr "[\"もう一度説明して\",\"いいえ\"]"
+
+msgid "@red_gatekeeper [Very Well. You Need To Find A Way To Get To The Library On The Surface.]"
+msgstr "@red_gatekeeper [イイダロウ。\nオマエハ、地表ニアル図書館ニ到達スル\n方法ヲ見ツケル必要ガアル。]"
+
+msgid "@red_gatekeeper [Off You Go Then, Off You Go...]"
+msgstr "@red_gatekeeper [デハ行クガイイ、サア行ケ、救世主…]"
+
+msgid "@red_gatekeeper [Ah, The Sun.]"
+msgstr "@red_gatekeeper [アア、太陽カ。]"
+
+msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
+msgstr "@red_gatekeeper [コレハ、救世主。避難所ヘヨウコソ。]"
+
+msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
+msgstr "@red_gatekeeper [ココデ成スベキコトハ分カッテイルカ？]"
+
+msgid "@niko I'm supposed to go inside the Tower, right?"
+msgstr "@niko 塔の中に行けばいいんでしょ？"
+
+msgid "@niko I already see the Tower! So I guess we must be close."
+msgstr "@niko あ、塔が見えてきたよ！きっともうすぐだね。"
+
+msgid "@niko_speak Where's the entrance?"
+msgstr "@niko_speak 入り口はどこ？"
+
+msgid "@red_gatekeeper [On The Surface.]"
+msgstr "@red_gatekeeper [地表ニアル。]"
+
+msgid "@niko_speak The surface?"
+msgstr "@niko_speak 地表？"
+
+msgid "@red_gatekeeper [Look Down, Small One.]"
+msgstr "@red_gatekeeper [下ヲ見ロ、小サキ者ヨ。]"
+
+msgid "@niko Oooh, \\.\\.\\@niko_speak we're pretty high up!"
+msgstr "@niko わあぁ、\\.\\.\\@niko_speak ミーたち、すごく高いところに\nいるんだね！"
+
+msgid "@niko_speak I guess I gotta get down a lot of stairs! \\>\\n\\@niko Or find an elevator."
+msgstr "@niko_speak きっとたくさん階段を降りなきゃ\nいけないね！ \\>\\n\\@niko それか、エレベーターを見つけなきゃ。"
+
+msgid "@red_gatekeeper [Correct.]"
+msgstr "@red_gatekeeper [ソノ通リ。]"
+
+msgid "@red_gatekeeper [However, The Tower Is A Sacred Place.]"
+msgstr "@red_gatekeeper [ダガ、塔ハ聖ナル場所ダ。]"
+
+msgid "@red_gatekeeper [Finding The Entrance May Be Easy, But That Alone Will Not Be Enough.]"
+msgstr "@red_gatekeeper [入リ口ヲ見ツケルノハ簡単ダガ、\nソレダケデハ足リナイ。]"
+
+msgid "@niko What... do you mean?"
+msgstr "@niko え…どういうこと？"
+
+msgid "@red_gatekeeper [Once You Reach The Surface, I Recommend Visiting The Library For Leads.]"
+msgstr "@red_gatekeeper [地表ニ到達シタラ、図書館デ手掛カリヲ\n探ストイイダロウ。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 分かった…"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak ありがとう！"
+
+msgid "@red_gatekeeper [Off You Go, Then. I Wish You Luck.]"
+msgstr "@red_gatekeeper [サア行ケ。幸運ヲ祈ル。]"
+
+msgid "@red_gatekeeper [I'm Afraid This Area Is Off-Limits For You.]"
+msgstr "@red_gatekeeper [スマナイガ、コノ地区ハ立入禁止ダ。]"
+
+msgid "@red_gatekeeper [Only The Bearer Of The Sacred Kernel Is Permitted Access To The Garden.]"
+msgstr "@red_gatekeeper [聖ナル穀粒ヲ持ツ者ダケガ、\n庭ニ入ルコトヲ許サレル。]"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko Like...\\.\\. a kernel of corn...?"
+msgstr "@niko_speak あっ！\\.\\.\\@niko じゃあ…\\.\\.トウモロコシの穀粒とかは…？"
+
+msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant lady in the Glen."
+msgstr "@niko_speak これ持ってるよ！ \\.\\.\\>\\@niko 峡谷の植物のお姉さんが残していったんだ。"
+
+msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
+msgstr "@red_gatekeeper […\\>\\nソレハ間違イナク穀粒ダ。]"
+
+msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
+msgstr "@red_gatekeeper [ソレナラ、彼女ヲ再生スルノハオマエノ義務ダ。\\>\\nヤルベキコトハ、分カッテイルナ？]"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@red_gatekeeper [Good.]"
+msgstr "@red_gatekeeper [イイダロウ。]"
+
+msgid "@red_gatekeeper [Take The Seed To The Garden.\\>\\nPlant It In The Pot In The Center.]"
+msgstr "@red_gatekeeper [種ヲ庭ニ持ッテイケ。\\>\\n中央ニアル鉢ニ、種ヲ植エルノダ。]"
+
+msgid "@red_gatekeeper [You May Now Pass Through Here To Access The Garden.]"
+msgstr "@red_gatekeeper [ココヲ通ッテ庭ニ行クコトヲ許可スル。]"
+
+msgid "@niko_eyeclosed I don't want to go back..."
+msgstr "@niko_eyeclosed 戻りたくないよ…"
+

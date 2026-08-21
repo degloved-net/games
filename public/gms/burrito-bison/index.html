@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Burrito Bison</title>
+  <style type="text/css">
+    body { padding: 0; margin: 0; overflow: hidden; background: #231f20; }
+    #loading-text {
+      position: absolute;
+      top: 50px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: white;
+      font-size: 48px;
+      font-family: cursive;
+      text-align: center;
+      z-index: 9999;
+    }
+  </style>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body dir="ltr">
+<script src="UnityProgress.js"></script>
+<script src="kongregate_api.js"></script>
+<script src="burrito-bison-ll.js"></script>
+<script src="UnityLoader.js"></script>
+
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 100vw; height: 100vh; padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);">
+    <canvas id="#canvas" style="width: 100%; height: 100%;"></canvas>
+    <div class="logo Dark"></div>
+    <div class="progress Dark">
+      <div class="empty" style="width: 10%;"></div>
+      <div class="full" style="width: 90%;"></div>
+    </div>
+  </div>
+
+  <div id="loading-text">
+    LOADING...
+  </div>
+</div>
+
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "burrito-bison-ll.json", {
+    onProgress: function(gameInstance, progress) {
+
+      if (typeof UnityProgress === 'function') {
+        UnityProgress(gameInstance, progress);
+      }
+
+      var loadingText = document.getElementById("loading-text");
+      if (loadingText) {
+        if (progress === "complete" || progress >= 1) {
+          loadingText.style.display = "none";
+        } else {
+          loadingText.textContent = "LOADING... " + Math.round(progress * 100) + "%";
+        }
+      }
+    },
+    Module: {
+      onRuntimeInitialized: function() {
+
+        var loadingText = document.getElementById("loading-text");
+        if (loadingText) {
+          loadingText.style.display = "none";
+        }
+
+        if (typeof UnityProgress === 'function') {
+          UnityProgress(gameInstance, "complete");
+        }
+      }
+    }
+  });
+
+  if (!localStorage.getItem("frpWarningShown")) {
+    alert("Rope is bugged at first. Just get to 400 coins and buy the elastic cables upgrade and it fixes itself.");
+    localStorage.setItem("frpWarningShown", "true");
+  }
+</script>
+</body>
+</html>

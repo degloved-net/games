@@ -1,0 +1,153 @@
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "Le fardeau de la lumière"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "Un endroit que je connais"
+
+msgid "Phosphor=Phosphor"
+msgstr "Phosphore"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "La prophétie"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "Usine abandonnée"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "Silverpoint"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "Machine d'un dieu"
+
+msgid "Rowbot=Rowbot"
+msgstr "Ramebot"
+
+msgid "Geothermal=Geothermal"
+msgstr "Géothermique"
+
+msgid "Distant=Distant"
+msgstr "Lointain"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "Vers la lumière"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "Univers autonome (redite)"
+
+msgid "Navigate=Navigate"
+msgstr "Naviguer"
+
+msgid "ToSleep=To Sleep"
+msgstr "Dormir"
+
+msgid "ToDream=To Dream"
+msgstr "Rêver"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "Alula"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "Enfants des ruines"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "Plutôt mauvais"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "Sur des petits pieds de chat"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "À l'intérieur"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "Cage d'escalier sombre"
+
+msgid "Sonder=Sonder"
+msgstr "Sonder"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "Une belle journée, hein..."
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "Promenade en bibliothèque"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "Secrets simples"
+
+msgid "Factory=Factory"
+msgstr "Usine"
+
+msgid "TheTower=The Tower"
+msgstr "La tour"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "Niko et La Machine-Monde"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "Je suis là"
+
+msgid "Pretty=Pretty"
+msgstr "Joli"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "Univers autonome"
+
+msgid "Home=Thanks For Everything"
+msgstr "Merci pour tout"
+
+msgid "Countdown=Countdown"
+msgstr "Compte à rebours"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "Mines profondes"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "Vestige"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "Sonder (prolongé)"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "Protocole enfreint"
+
+msgid "Panic=Panic"
+msgstr "Panique"
+
+msgid "Collapse=Collapse"
+msgstr "Effondrement"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "Naviguer (prolongé)"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "Le premier univers"
+
+msgid "Aviator=Aviator"
+msgstr "Aviateur"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "La dernière minute"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "Rue"
+
+msgid "TheAuthor=The Author"
+msgstr "L'Auteur"
+
+msgid "computer_room=The World Machine"
+msgstr "La Machine-Monde"
+
+msgid "Encounter=Encounter"
+msgstr "Rencontre"
+
+msgid "Solstice=Solstice"
+msgstr "Solstice"
+
+msgid "Sunrise=Sunrise"
+msgstr "Aube"
+
+msgid "InMemory=In Memory"
+msgstr "En mémoire de"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "LES INCORRUPTIBLES CONTRE LE RISIBLE"
+

@@ -1,0 +1,138 @@
+msgid "@niko A bulletin board with lots of papers on it."
+msgstr "@niko ボードに紙がたくさん貼ってあるよ。"
+
+msgid "@niko It's a piece of amber on a string."
+msgstr "@niko 琥珀だ。紐で繋がってる。"
+
+msgid "@niko_eyeclosed Looks just like that necklace the robot lady showed me..."
+msgstr "@niko_eyeclosed ロボットのお姉さんが見せてくれた\nネックレスに似てるね…"
+
+msgid "@niko It's a big photo."
+msgstr "@niko 大きな写真。"
+
+msgid "@niko2 Wait, no...\\.\\. it's a painting!"
+msgstr "@niko2 あれ、違うかも…\\.\\. 絵だ！"
+
+msgid "@niko_eyeclosed Hard to tell at first..."
+msgstr "@niko_eyeclosed 最初、全然分かんなかった…"
+
+msgid "@niko A coat rack with a scarf and a big jacket."
+msgstr "@niko お洋服を掛けるやつだ！\nスカーフとおっきなジャケットが\n掛かってるよ。"
+
+msgid "@rue_talk The room ahead doesn't really lead anywhere, but..."
+msgstr "@rue_talk この先にある部屋は、どこにも繋がって\nいないように見えるけれど…"
+
+msgid "@rue \\p should still remember what to do here."
+msgstr "@rue 何をすればいいのか… \\p なら、\nまだ覚えているはずよ。"
+
+msgid "@niko It's a stack of books."
+msgstr "@niko 本が山みたいになってる。"
+
+msgid "@niko_speak They're watercolor sticks!"
+msgstr "@niko_speak 水性クレヨン！"
+
+msgid "@cedric_sigh Of course, this is just a copy of it..."
+msgstr "@cedric_sigh もちろん、これはコピーに過ぎませんが…"
+
+msgid "@cedric This is my father's study."
+msgstr "@cedric ここは、父の研究室です。"
+
+msgid "@cedric_sigh It feels like...\\.\\. he's still here, doesn't it?"
+msgstr "@cedric_sigh 何となく…\\.\\. 父がまだ、\nここにいるように感じませんか？"
+
+msgid "@cedric_sigh ...like he's still with us."
+msgstr "@cedric_sigh …まだ、僕たちと一緒にいるような…"
+
+msgid "@rue_sad ...Yeah."
+msgstr "@rue_sad …そうね。"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b […]"
+
+msgid "@niko_speak Photos too!"
+msgstr "@niko_speak 写真もあるよ。"
+
+msgid "@niko It's a shelf full of books."
+msgstr "@niko 本がいっぱい並んでる棚。"
+
+msgid "@niko It's a tea set."
+msgstr "@niko 紅茶セットだよ。"
+
+msgid "@niko There's a glass tea set on the table."
+msgstr "@niko テーブルの上に、ガラスでできた\n紅茶セットがある。"
+
+msgid "@cedric_hmm Tea DOES sound really nice right now..."
+msgstr "@cedric_hmm 今、紅茶が飲めたら最高ですねえ…"
+
+msgid "@cedric_sigh Too bad there's no water in here..."
+msgstr "@cedric_sigh ここには水が無いので、とても残念です…"
+
+msgid "@niko Black clovers in a glass case."
+msgstr "@niko ガラスのケースに、黒いクローバーが\n入ってる。"
+
+msgid "@niko It's a big book on the table."
+msgstr "@niko テーブルの上におっきな本があるよ。"
+
+msgid "@niko It's a pilot's helmet."
+msgstr "@niko パイロットさんが使うヘルメットだ。"
+
+msgid "@niko The door is gone."
+msgstr "@niko ドアが無くなった。"
+
+msgid "@niko2 The door is... gone?"
+msgstr "@niko2 ドアが無くなった？"
+
+msgid "@proto2b [Well, the door does not exist without us there.]"
+msgstr "@proto2b [そのドアは、ボクたちがいないと出現しない。]"
+
+msgid "@niko_eyeclosed Guess I can't go back out, huh..."
+msgstr "@niko_eyeclosed じゃあ、もう戻れないんだね…"
+
+msgid "@proto2 [...Do you need to?]"
+msgstr "@proto2 […戻る必要があるの？]"
+
+msgid "@niko_eyeclosed ...not really."
+msgstr "@niko_eyeclosed …ううん、別に。"
+
+msgid "@rue_sigh That was... quite peculiar..."
+msgstr "@rue_sigh すごく…変な感じだったわ…"
+
+msgid "@cedric_sigh2 I'll say!"
+msgstr "@cedric_sigh2 全くです！"
+
+msgid "@proto_jealous [...]"
+msgstr "@proto_jealous […]"
+
+msgid "@cedric_talk Hey, this is..."
+msgstr "@cedric_talk え、もしかしてこれ…"
+
+msgid "@rue_oh ...The World Machine."
+msgstr "@rue_oh …ワールドマシン。"
+
+msgid "@niko_speak It's a blueprint!"
+msgstr "@niko_speak 設計図！"
+
+msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
+msgstr "@niko おっきな絵だ。テレビの画面がたくさん\nくっついた機械が描いてある。"
+
+msgid "@proto2b [...That's called a blueprint, Niko.]"
+msgstr "@proto2b […それは設計図って言うんだ、ニコ。]"
+
+msgid "@niko_pancakes ...So THAT's what a blueprint is!"
+msgstr "@niko_pancakes …設計図って、これのことだったんだ！"
+
+msgid "@proto2b [...This place contains a lot of memories.]"
+msgstr "@proto2b […この場所には、たくさんの思い出が\n詰まってる。]"
+
+msgid "@proto_eyeclosed [I am... grateful, to see it again.]"
+msgstr "@proto_eyeclosed […良かった。\nもう一度見ることができて。]"
+
+msgid "@niko A box filled with folders and loose paper."
+msgstr "@niko この箱には、紙と、それを挟むやつが\nたくさん入ってる。"
+
+msgid "@niko A scribbly drawing is pinned up here."
+msgstr "@niko 落書きみたいなのもピンで止まってる。"
+
+msgid "@niko A box full of notebooks and sketchbooks."
+msgstr "@niko この箱は、\nノートとスケッチブックでいっぱい。"
+

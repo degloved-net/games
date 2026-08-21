@@ -1,0 +1,27 @@
+msgid "@niko This elevator won't open."
+msgstr "@niko Este ascensor no se abre."
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko Parece que está atascado en otra planta."
+
+msgid "@ed [\\p, I don't know who put this bed here...]"
+msgstr "@ed [\\p, no sé quién ha puesto esta cama aquí...]"
+
+msgid "@ed [But this bed will bring you back to the beginning of your journey.]"
+msgstr "@ed [Pero esta cama te llevará de vuelta al principio de tu aventura.]"
+
+msgid "@ed [Keep this in mind before you decide to let Niko sleep here.]"
+msgstr "@ed [Recuérdalo antes de dejar a Niko dormir aquí.]"
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed Estoy agotado de tanto caminar."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak ¿Puedo echarme una siesta?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sí\",\"No\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed Bueno, está bien... \\>\\n\\@niko Supongo que hay más trabajo por hacer."
+

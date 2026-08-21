@@ -1,0 +1,159 @@
+msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
+msgstr "[OLÁ, PESSOA ORGÂNICA VIVA.]"
+
+msgid "[THE INFIRMARY IS UP AHEAD.]"
+msgstr "[A ENFERMARIA FICA À FRENTE.]"
+
+msgid "INFIRMARY"
+msgstr "ENFERMARIA"
+
+msgid "[HELLO. DO YOU NEED ANY HELP?]"
+msgstr "[OLÁ, PRECISA DE AJUDA?]"
+
+msgid "@niko_speak I'm good, thanks!"
+msgstr "@niko_speak Tudo bem, valeu!"
+
+msgid "[UNIT RM-2883417 REPORTING FOR DUTY!]"
+msgstr "[UNIDADE RM-2883417 APRESENTANDO-SE PARA O TRABALHO!]"
+
+msgid "[I SAW THAT YOU SPOKE WITH THE GUARDIAN OF THE SETTLEMENT.]"
+msgstr "[EU VI VOCÊ CONVERSANDO COM O GUARDIÃO DO ASSENTAMENTO.]"
+
+msgid "[I WILL NOW ESCORT YOU UNTIL YOU REACH YOUR DORMITORY.]"
+msgstr "[EU ACOMPANHAREI VOCÊ ATÉ O SEU DORMITÓRIO.]"
+
+msgid "@niko um... what?"
+msgstr "@niko Hm... o quê?"
+
+msgid "@niko_speak So you're just gonna... follow me?"
+msgstr "@niko_speak Então você vai... me seguir?"
+
+msgid "[YES.]"
+msgstr "[SIM.]"
+
+msgid "[UNTIL YOU SAFELY REACH A BUILDING OF YOUR DESTINATION.]"
+msgstr "[ATÉ VOCÊ CHEGAR AO SEU DESTINO EM SEGURANÇA.]"
+
+msgid "@niko Alright."
+msgstr "@niko Certo."
+
+msgid "@niko Hello"
+msgstr "@niko Olá"
+
+msgid "[BOOP]"
+msgstr "[BUP]"
+
+msgid "[UNIT RT-3847201 REPORTING FOR DUTY!]"
+msgstr "[UNIDADE RT-3847201 APRESENTANDO-SE PARA O TRABALHO!]"
+
+msgid "[IT SEEMS THAT YOU ALREADY HAVE AN ASSIGNED ESCORT, UNIT RM-2883417]"
+msgstr "[PARECE QUE VOCÊ JÁ TEM UM ACOMPANHANTE, A UNIDADE RM-2883417]"
+
+msgid "[WOULD YOU LIKE ME TO LEAVE?]"
+msgstr "[QUER QUE EU SAIA?]"
+
+msgid "@niko You can follow me if you want..."
+msgstr "@niko Você pode vir também, se quiser..."
+
+msgid "[UNDERSTOOD.]"
+msgstr "[ENTENDIDO.]"
+
+msgid "@niko_speak Are you guys not supposed to go in buildings?"
+msgstr "@niko_speak Vocês não podem entrar nos prédios?"
+
+msgid "[CORRECT.]"
+msgstr "[CORRETO.]"
+
+msgid "[WE ARE BUILT FOR OUTDOOR USE ONLY.]"
+msgstr "[FOMOS CONSTRUÍDOS PARA O EXTERIOR SOMENTE.]"
+
+msgid "[ENTERING BUILDINGS IS NOT PART OF OUR PROGRAMMING.]"
+msgstr "[NÃO FAZ PARTE DE NOSSA PROGRAMAÇÃO ENTRAR NOS PRÉDIOS.]"
+
+msgid "@niko That's... strange."
+msgstr "@niko Que... estranho."
+
+msgid "[BEEP]"
+msgstr "[BIP]"
+
+msgid "@blue_gatekeeper [Oh, Hello.]"
+msgstr "@blue_gatekeeper [Ah, Olá.]"
+
+msgid "@blue_gatekeeper [What Are You Doing Here?]"
+msgstr "@blue_gatekeeper [O que Está Fazendo Aqui?]"
+
+msgid "@niko Hm?"
+msgstr "@niko Hm?"
+
+msgid "@blue_gatekeeper [A Living Person Such As Yourself Should Have Evacuated This Place Long Ago.]"
+msgstr "@blue_gatekeeper [Um Ser Vivo Como Você Deveria Estar Longe Daqui Há Muito Tempo.]"
+
+msgid "@niko_speak Oh, but I just got here! \\>\\n\\@niko To this world, I mean!"
+msgstr "@niko_speak Ah, mas eu acabei de chegar! \\>\\n\\@niko Digo, a esse mundo!"
+
+msgid "@niko_speak See?\\.\\. I have the sun!"
+msgstr "@niko_speak Está vendo? \\.\\. O sol está comigo!"
+
+msgid "@blue_gatekeeper [Oh, The Messiah.]"
+msgstr "@blue_gatekeeper [Ah, Você É o Messias.]"
+
+msgid "@blue_gatekeeper [I...\\. Do Not Know What To Say.]"
+msgstr "@blue_gatekeeper [Eu... \\. Não Sei o que Dizer.]"
+
+msgid "@blue_gatekeeper [Greeting You Was Not Part Of My Programming.]"
+msgstr "@blue_gatekeeper [Dar Boas-vindas Não Faz Parte da Minha Programação.]"
+
+msgid "@blue_gatekeeper [Have You\\.\\. Spoken To Prophetbot?]"
+msgstr "@blue_gatekeeper [Você\\.\\. Falou com o Profetobô?]"
+
+msgid "@niko_speak I think so, yeah!"
+msgstr "@niko_speak Acho que sim!"
+
+msgid "@blue_gatekeeper [Prophetbot Was Built With The Sole Purpose Of Greeting You.]"
+msgstr "@blue_gatekeeper [O Profetobô Foi Construído com o Único Objetivo de Saudar o Messias.]"
+
+msgid "@niko Really?"
+msgstr "@niko É mesmo?"
+
+msgid "@blue_gatekeeper [Yes. He Cannot Speak With Anyone Else.] \\>\\n[At Least, Not With Ease.]"
+msgstr "@blue_gatekeeper [Sim. Ele Não Pode Falar com Mais Ninguém.]\\>\\n[Pelo Menos Não com Facilidade.]"
+
+msgid "@niko Oh...\\n\\>\\@niko_eyeclosed that's...\\.\\. kind of sad..."
+msgstr "@niko Oh...\\n\\>\\@niko_eyeclosed isso é meio...\\.\\.triste..."
+
+msgid "@niko_speak What are you built for, then?"
+msgstr "@niko_speak Para que você foi construído, então?"
+
+msgid "@blue_gatekeeper [My Purpose Is To Guard This Settlement.]"
+msgstr "@blue_gatekeeper [Minha Função É Guardar este Assentamento.]"
+
+msgid "@blue_gatekeeper [Even Though The Residents Have Long Gone, I Must Remain.]"
+msgstr "@blue_gatekeeper [Mesmo que os Habitantes Tenham Ido Embora Há Muito Tempo, Eu Devo Ficar Aqui.]"
+
+msgid "@niko Ah..."
+msgstr "@niko Ah..."
+
+msgid "@niko_speak Why, though?"
+msgstr "@niko_speak Mas por quê?"
+
+msgid "@blue_gatekeeper [I Have Not Been Tamed.]"
+msgstr "@blue_gatekeeper [Não Sou Evoluído.]"
+
+msgid "@niko_speak Tamed?"
+msgstr "@niko_speak Evoluído?"
+
+msgid "@blue_gatekeeper [It Was Not Worth The Effort.]"
+msgstr "@blue_gatekeeper [Não Valia O Esforço.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@blue_gatekeeper [Stay Safe.]"
+msgstr "@blue_gatekeeper [Passe Bem.]"
+
+msgid "@blue_gatekeeper [By The Way, Some Robots May Start Following You Around This Settlement As Well.]"
+msgstr "@blue_gatekeeper [A Propósito, Alguns Robôs Podem Seguir Você por Aqui Também.]"
+
+msgid "@blue_gatekeeper [Do Not Be Alarmed.]\\n\\>[It Is Their Job To Keep People Safe.]"
+msgstr "@blue_gatekeeper [Não se Preocupe.]\\n\\>[É o Trabalho Deles Manter a Segurança das Pessoas.]"
+

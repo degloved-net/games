@@ -1,0 +1,12 @@
+msgid "$There's something weird about the robots who get sent to work near the gas fields."
+msgstr "$C'è qualcosa di strano riguardo ai robot che vengono mandati a lavorare vicino ai giacimenti di gas."
+
+msgid "$They appear to accumulate rust at a much slower rate than the others."
+msgstr "$Infatti, sembrerebbero accumulare ruggine più lentamente rispetto agli altri."
+
+msgid "$The few who work directly with gas harvesting look practically new!"
+msgstr "$Quelli che lavorano a stretto contatto col gas sembrano nuovi!"
+
+msgid "$Is that a result of the atmosphere? Or am I just seeing things?"
+msgstr "$Sarà dovuto all'atmosfera o sono solo fantasie mie?"
+

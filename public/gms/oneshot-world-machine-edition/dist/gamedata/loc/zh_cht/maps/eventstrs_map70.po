@@ -1,0 +1,12 @@
+msgid "$There's something weird about the robots who get sent to work near the gas fields."
+msgstr "$那些被派去氣田附近工作的機器人有點不對勁。"
+
+msgid "$They appear to accumulate rust at a much slower rate than the others."
+msgstr "$看起來它們累積鏽蝕的速度比其他機器人慢得多。"
+
+msgid "$The few who work directly with gas harvesting look practically new!"
+msgstr "$那幾個直接負責開採氣體的機器人看起來像新的一樣！"
+
+msgid "$Is that a result of the atmosphere? Or am I just seeing things?"
+msgstr "$那是大氣造成的嗎？還是我的幻覺？"
+

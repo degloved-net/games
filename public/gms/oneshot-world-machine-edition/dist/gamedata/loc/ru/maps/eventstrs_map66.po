@@ -1,0 +1,90 @@
+msgid "@alula_pout Niko?"
+msgstr "@alula_pout Нико?"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh Нико? Что случилось?"
+
+msgid "@niko Huh?"
+msgstr "@niko Что?"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock У тебя был такой вид, будто ты сейчас упадёшь в обморок!"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed Это произошло снова..."
+
+msgid "@niko_speak Earlier I was in the Barrens area, and I kind of... saw something?\\>\\n\\@niko It was like a dream, but only for a split second..."
+msgstr "@niko_speak Прежде, когда я был в Пустоши, я... кое-что видел.\\>\\n\\@niko Это было словно сон и длилось пару секунд..."
+
+msgid "@calamus_speak A vision?"
+msgstr "@calamus_speak Видение?"
+
+msgid "@niko2 Vision?"
+msgstr "@niko2 Видение?"
+
+msgid "@calamus Like something a prophet would see."
+msgstr "@calamus Такое, какие видят пророки."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak Ничего себе!"
+
+msgid "@calamus_speak I mean, if you can talk to \\p, it would make sense, right?"
+msgstr "@calamus_speak Я имею в виду, если ты и \\p можете общаться, это было бы логично, так?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Думаю... да?"
+
+msgid "@calamus ...or not, I don't know. \\>\\n\\@calamus_smile I've only read about it before."
+msgstr "@calamus ...Или нет. Я не знаю. \\>\\n\\@calamus_smile Я о таком только в книжках читал."
+
+msgid "@niko Oooh...\\>\\n\\@niko_speak Anyway, what is this place?"
+msgstr "@niko О-о-о...\\>\\n\\@niko_speak Ладно, а что это за место?"
+
+msgid "@niko It looks like it used to lead somewhere."
+msgstr "@niko Похоже, этот проход куда-то вёл."
+
+msgid "@alula_speak Yeah, the sacred grounds!\\>\\n\\@alula It's been a while since we went there..."
+msgstr "@alula_speak Да, в священные земли!\\>\\n\\@alula Мы уже давно там не были..."
+
+msgid "@calamus We don't have a way getting there now, remember?\\>\\nThere isn't a boat and none of us can swim, and..."
+msgstr "@calamus Нам никак туда не пройти, помнишь?\\>\\nЛодки у нас нет, и плавать мы не умеем, и..."
+
+msgid "@niko_speak What's... the sacred grounds?"
+msgstr "@niko_speak Что за... священные земли?"
+
+msgid "@calamus It's where our people are buried."
+msgstr "@calamus Это место, где похоронены наши родители."
+
+msgid "@alula Sometimes we go there to visit mom!\\>\\n\\@alula_oh Well, her grave, anyway."
+msgstr "@alula Иногда мы ходим туда проведать маму!\\>\\n\\@alula_oh То есть её могилу."
+
+msgid "@niko_eyeclosed Oh....\\>\\n\\@niko_speak -wait, how do you get there?\\>\\n\\@niko I thought you said there isn't a boat?"
+msgstr "@niko_eyeclosed О...\\>\\n\\@niko_speak Стоп, а как вы туда добираетесь?..\\>\\n\\@niko Вы вроде говорили, что у вас нет лодки?"
+
+msgid "@alula Oh, our friend helps us!"
+msgstr "@alula О, нам помогает наш друг!"
+
+msgid "@calamus He has some sort of machine that allows him to fly."
+msgstr "@calamus У него есть такой аппарат, благодаря которому он летает."
+
+msgid "@alula Sometimes he takes us along!"
+msgstr "@alula Иногда он берёт нас с собой!"
+
+msgid "@calamus But like I was about to say, we haven't seen him around for a while."
+msgstr "@calamus Но я как раз хотел сказать, что мы давненько его не видели."
+
+msgid "@alula I wonder when he'll come back?\\>\\nI wish we could go see mom again..."
+msgstr "@alula Интересно, когда он вернётся?\\>\\nЯ бы хотела снова навестить маму..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@calamus Come on, Alula, let's go back to the courtyard now."
+msgstr "@calamus Идём, Алула, давай вернёмся во двор."
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak Ладно!"
+
+msgid "@niko It's a clover."
+msgstr "@niko Это клевер."
+

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ4HJWL0BX"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-EQ4HJWL0BX');
+	</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>degloved</title>
+	<link rel="stylesheet" href="/css/styles.css">
+	<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+	<meta name="description" content="Your journey to new skills starts here. Explore courses, tutorials, and resources for lifelong learners.">
+</head>
+
+<body>
+<canvas id="bg"></canvas>
+
+<button class="clanker" type="button" onclick="go('/')">home</button>
+
+<div class="container">
+	<div class="hero">
+		<h1>roms</h1>
+		<div class="search-row">
+			<button class="filter-btn" id="controls-btn" type="button" aria-label="Controls reference">
+				<i data-lucide="info"></i>
+			</button>
+			<input type="text" class="search-box" id="search" placeholder="search...">
+			<div class="filter-wrap">
+				<button class="filter-btn" id="filter-btn" type="button" aria-label="Filter by platform">
+					<i data-lucide="sliders-horizontal"></i>
+				</button>
+				<div class="filter-dropdown" id="filter-dropdown">
+					<button class="filter-option active" data-platform="">all platforms</button>
+				</div>
+			</div>
+		</div>
+		<div class="rom-counter">roms: <span id="rom-count">0</span></div>
+	</div>
+	<div id="list"></div>
+</div>
+
+<div class="modal" id="bindings-modal">
+	<div class="modal-content bindings-content">
+		<span class="close-btn">×</span>
+		<h2>controls</h2>
+
+		<div class="bindings-section">
+			<h3>3DS</h3>
+			<div class="bindings-scroll">
+			<table class="bindings-table">
+				<thead><tr><th>button</th><th>key</th></tr></thead>
+				<tbody>
+					<tr><td>A</td><td>Z</td></tr>
+					<tr><td>B</td><td>A</td></tr>
+					<tr><td>X</td><td>S</td></tr>
+					<tr><td>Y</td><td>Q</td></tr>
+					<tr><td>L</td><td>W</td></tr>
+					<tr><td>R</td><td>Right Shift</td></tr>
+					<tr><td>Start</td><td>Enter</td></tr>
+					<tr><td>Up</td><td>↑</td></tr>
+					<tr><td>Down</td><td>↓</td></tr>
+					<tr><td>Left</td><td>←</td></tr>
+					<tr><td>Right</td><td>→</td></tr>
+				</tbody>
+			</table>
+			</div>
+		</div>
+
+		<div class="bindings-section">
+			<h3>PS2</h3>
+			<div class="bindings-scroll">
+			<table class="bindings-table">
+				<thead><tr><th>button</th><th>key</th></tr></thead>
+				<tbody>
+					<tr><td>D-Pad</td><td>Arrow Keys</td></tr>
+					<tr><td>Left Stick</td><td>F / H / T / G</td></tr>
+					<tr><td>Right Stick</td><td>J / L / I / K</td></tr>
+					<tr><td>Square</td><td>A</td></tr>
+					<tr><td>Cross</td><td>Z</td></tr>
+					<tr><td>Triangle</td><td>S</td></tr>
+					<tr><td>Circle</td><td>X</td></tr>
+					<tr><td>Start</td><td>Return</td></tr>
+					<tr><td>Select</td><td>Backspace</td></tr>
+					<tr><td>L1</td><td>1</td></tr>
+					<tr><td>L2</td><td>2</td></tr>
+					<tr><td>L3</td><td>3</td></tr>
+					<tr><td>R1</td><td>8</td></tr>
+					<tr><td>R2</td><td>9</td></tr>
+					<tr><td>R3</td><td>0</td></tr>
+				</tbody>
+			</table>
+			</div>
+		</div>
+
+		<div class="bindings-section">
+			<h3>Super Mario 64</h3>
+			<div class="bindings-scroll">
+			<table class="bindings-table">
+				<thead><tr><th>button</th><th>key</th></tr></thead>
+				<tbody>
+					<tr><td>Movement</td><td>WASD</td></tr>
+					<tr><td>A</td><td>L</td></tr>
+					<tr><td>B</td><td>,</td></tr>
+					<tr><td>L</td><td>.</td></tr>
+					<tr><td>R</td><td>Shift</td></tr>
+					<tr><td>Z</td><td>K</td></tr>
+					<tr><td>Start</td><td>Space</td></tr>
+					<tr><td>C-Stick</td><td>Arrow Keys</td></tr>
+				</tbody>
+			</table>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+<script src="/js/search.js"></script>
+<script>
+	let allRoms = [], activeFilter = '';
+	const search = document.getElementById('search');
+	const list = document.getElementById('list');
+	const filterBtn = document.getElementById('filter-btn');
+	const filterDropdown = document.getElementById('filter-dropdown');
+
+	function renderRoms() {
+		const q = search.value.toLowerCase();
+		const roms = allRoms.filter(r =>
+			(!q || r.name.toLowerCase().includes(q) || r.system.toLowerCase().includes(q)) &&
+			(!activeFilter || r.system === activeFilter)
+		);
+		document.getElementById('rom-count').textContent = roms.length;
+		let html = '<ul>';
+		for (const r of roms) {
+			const url = '/player.html?rom=' + encodeURIComponent(r.rom) + '&system=' + r.system + '&name=' + encodeURIComponent(r.name);
+			html += '<li><a href="' + url + '">';
+			if (r.icon) html += '<div class="img-container"><img src="' + r.icon + '"></div>';
+			html += '<div class="game-title">' + r.name + '</div></a></li>';
+		}
+		html += '</ul>';
+		list.innerHTML = html;
+	}
+
+	fetch('/api/rooms').then(r => r.json()).then(data => {
+		allRoms = data;
+		[...new Set(data.map(r => r.system))].sort().forEach(sys => {
+			const btn = Object.assign(document.createElement('button'), { className: 'filter-option', textContent: sys });
+			btn.dataset.platform = sys;
+			filterDropdown.appendChild(btn);
+		});
+		renderRoms();
+		lucide.createIcons();
+	});
+
+	search.addEventListener('input', renderRoms);
+
+	filterBtn.addEventListener('click', e => {
+		e.stopPropagation();
+		filterBtn.classList.toggle('open');
+		filterDropdown.classList.toggle('open');
+	});
+
+	filterDropdown.addEventListener('click', e => {
+		const opt = e.target.closest('.filter-option');
+		if (!opt) return;
+		e.stopPropagation();
+		activeFilter = opt.dataset.platform;
+		filterDropdown.querySelectorAll('.filter-option').forEach(b => b.classList.remove('active'));
+		opt.classList.add('active');
+		filterBtn.classList.remove('open');
+		filterDropdown.classList.remove('open');
+		renderRoms();
+	});
+
+	document.addEventListener('click', () => {
+		filterBtn.classList.remove('open');
+		filterDropdown.classList.remove('open');
+	});
+
+	const controlsBtn = document.getElementById('controls-btn');
+	const bindingsModal = document.getElementById('bindings-modal');
+
+	controlsBtn.addEventListener('click', e => {
+		e.stopPropagation();
+		bindingsModal.style.display = 'block';
+	});
+
+	bindingsModal.addEventListener('click', e => {
+		if (e.target === bindingsModal) closeModal(bindingsModal);
+	});
+</script>
+
+<script src="/js/background.js"></script>
+<script src="/js/visit.js"></script>
+<script src="/js/iframe.js"></script>
+<script src="/js/settings.js"></script>
+<script src="/js/panicbtn.js"></script>
+<script src="/js/leave.js"></script>
+</body>
+</html>

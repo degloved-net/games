@@ -1,0 +1,81 @@
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [Oi.]"
+
+msgid "@niko_shock AAAAAAA!!!!!"
+msgstr "@niko_shock AAAAAAA!!!!!"
+
+msgid "@proto_gasp2 [...No!!]"
+msgstr "@proto_gasp2 [... Não!!.]"
+
+msgid "@niko_shock What do we do!!!"
+msgstr "@niko_shock O que vamos fazer?!!"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [...]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk [...]"
+
+msgid "@proto2 [You have to take this.]"
+msgstr "@proto2 [Pegue isso.]"
+
+msgid "@niko3 Wh-\\.\\.what?"
+msgstr "@niko3 O... \\.\\.o quê?"
+
+msgid "@niko3 The memory disk? But-"
+msgstr "@niko3 O disco de memória? Mas..."
+
+msgid "@niko_surprised Eek!"
+msgstr "@niko_surprised Aai!"
+
+msgid "@proto2b [This is where we part ways.]"
+msgstr "@proto2b [Aqui é onde nos separamos.]"
+
+msgid "@proto2b [Niko, the path ahead will lead you to the Glen, right by the city gate.]"
+msgstr "@proto2b [Niko, o caminho adiante te levará ao Vale, logo depois do portão da cidade.]"
+
+msgid "@proto1C [When you're in the city, go find someone named Cedric. Give him the disk.]"
+msgstr "@proto1C [Quando chegar lá, procure uma pessoa chamada Cedric. Entregue-lhe o disco.]"
+
+msgid "@niko3 But... what happens if I..."
+msgstr "@niko3 Mas... o que vai acontecer se eu..."
+
+msgid "@niko_distressed What if the squares..."
+msgstr "@niko_distressed E se os quadrados..."
+
+msgid "@proto_gasp2 [Hurry!]"
+msgstr "@proto_gasp2 [Depressa!]"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko And that robot was saying something."
+msgstr "@niko E aquele robô estava falando alguma coisa."
+
+msgid "@niko That you keep bringing me back."
+msgstr "@niko Que você ficava me trazendo de volta."
+
+msgid "@niko We've been through all this before, haven't we."
+msgstr "@niko Já passamos por tudo isso antes, não é?"
+
+msgid "@niko How many times?"
+msgstr "@niko Quantas vezes?"
+
+msgid "[\"1\", \"So Many\"]"
+msgstr "[\"1\",\"Muitas\"]"
+
+msgid "@niko I see."
+msgstr "@niko Entende."
+
+msgid "@niko_speak That's a lot of times!"
+msgstr "@niko_speak São muitas vezes mesmo!"
+
+msgid "@niko That robot told me to try and remember, so I will."
+msgstr "@niko Aquele robô me disse para tentar lembrar, então vou tentar."
+
+msgid "@niko_eyeclosed Sleepy time."
+msgstr "@niko_eyeclosed Hora de dormir."
+

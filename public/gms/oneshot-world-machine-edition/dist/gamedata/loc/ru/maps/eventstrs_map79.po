@@ -1,0 +1,51 @@
+msgid "@niko It's a box of medical tools."
+msgstr "@niko Это ящик с медицинскими инструментами."
+
+msgid "@niko Most of them are broken or rusted beyond use, but..."
+msgstr "@niko Большая часть сломана или сильно заржавела, но..."
+
+msgid "@niko_speak This plastic syringe seems to be okay."
+msgstr "@niko_speak Кажется, этот пластиковый шприц ещё ничего."
+
+msgid "[HELLO, PERSON!]"
+msgstr "[ПРИВЕТ, ЧЕЛОВЕК!]"
+
+msgid "[ARE YOU SEEKING ADMISSION INTO THE INFIRMARY?]"
+msgstr "[ВЫ ХОТИТЕ ПОПАСТЬ В МЕДПУНКТ?]"
+
+msgid "@niko No?"
+msgstr "@niko Нет..."
+
+msgid "[OH. CARRY ON, THEN.]"
+msgstr "[О, ТОГДА ПРОХОДИТЕ.]"
+
+msgid "[HELLO, PERSON OF ORGANIC MAKEUP!]"
+msgstr "[ПРИВЕТСТВУЮ, ЧЕЛОВЕК ИЗ ОРГАНИКИ!]"
+
+msgid "[WELCOME TO THE INFIRMARY]"
+msgstr "[ДОБРО ПОЖАЛОВАТЬ В МЕДПУНКТ.]"
+
+msgid "[SCANNING FOR INJURIES...]"
+msgstr "[ПРОВОЖУ СКАНИРОВАНИЕ НА ПРЕДМЕТ ПОВРЕЖДЕНИЙ...]"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "[SCAN COMPLETE]"
+msgstr "[СКАНИРОВАНИЕ ЗАВЕРШЕНО.]"
+
+msgid "[INJURIES DETECTED: NONE]"
+msgstr "[ПОВРЕЖДЕНИЯ: ОТСУТСТВУЮТ.]"
+
+msgid "[TREATMENT REQUIRED: NONE]"
+msgstr "[МЕДИЦИНСКАЯ ПОМОЩЬ: НЕ ТРЕБУЕТСЯ.]"
+
+msgid "[YOU ARE GOOD TO GO.]"
+msgstr "[ВЫ МОЖЕТЕ ИДТИ.]"
+
+msgid "@niko Er... thanks?"
+msgstr "@niko Э-э... спасибо."
+

@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko 你知不知道哪邊有飛行機器可以用的電池？"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[我的系統裡有一顆整合的電池。]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[它無法用於為其他東西供電。]"
+
+msgid "@niko Ah..."
+msgstr "@niko 啊……"
+
+msgid "[STAY SAFE.]"
+msgstr "[請注意安全。]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 你也是！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[研究站目前正在遭遇某些技術問題。]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 看得出來……"
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed 連來這裡的路上經過的橋也……"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[是希維波特博士派你來的嗎？]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ……不是耶。"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[喔，那請便吧。]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko 對了，你知不知道哪邊有飛行機器可以用的電池？"
+
+msgid "[I DO NOT.]"
+msgstr "[我不知道。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 好……"
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[異常現象正在增加……]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak 你知不知道哪邊有飛行機器可以用的電池？"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[你檢查過電力室了嗎？]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 你知不知道哪邊有飛行機器可以用的電池？"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[飛行機器是什麼。]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 算了。"
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[橋的周圍長出了一些藤蔓。]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[簡直就像是刻意為了修理它。]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed 嗯……"
+

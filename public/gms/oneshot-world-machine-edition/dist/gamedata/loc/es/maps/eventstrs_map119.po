@@ -1,0 +1,114 @@
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [Estás acabando con mi paciencia.]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [¿De verdad quieres la respuesta?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sí\",\"No\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [Cuando visualizas la película, esta llena toda tu ventana con nuestro mundo, ¿no?]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [Me parece que te refieres a la acción que estoy describiendo como \"arrastrar\".]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [El vacío está más allá de los límites de tu visión.]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [Por el vacío y otra vez de vuelta...]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [¿Has venido aquí solo para hacerme perder el tiempo?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [Ay.]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [¿Aún sigues sin tener idea?]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [Cifras.]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [¿Quieres otro consejo?]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [Hay otro vacío más allá de las cuatro paredes que unen tu mundo al nuestro. Los límites de tu ventana, donde todo se oscurece...]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [Seguro que sabes de lo que hablo.]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [Pasa la película por el vacío y otra vez de vuelta.]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [Bien, sigue así.]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [No me voy a ir a ninguna parte.]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [Estás buscando un código, ¿no?]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [Esto te va a hacer falta pronto.]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [Coge esta película y exponla al vacío.]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [La respuesta se mostrará cuando la traigas de vuelta.]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko El ordenador ha imprimido una extraña hoja transparente..."
+
+msgid "@ed [So, you figured out the code without fully exposing the film.]"
+msgstr "@ed [Así que has adivinado el código sin exponer la película al completo.]"
+
+msgid "@ed [Good for you.]"
+msgstr "@ed [Bien por ti.]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [You didn't need my help for this puzzle.]"
+msgstr "@ed [No te hacía falta mi ayuda para este acertijo.]"
+
+msgid "@ed [And yet you're still here talking to me?]"
+msgstr "@ed [¿Y aún así sigues aquí hablando conmigo?]"
+
+msgid "@ed [How quaint.]"
+msgstr "@ed [Qué curioso.]"
+
+msgid "@niko The screen is off."
+msgstr "@niko La pantalla está apagada."
+
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko Una pesada pieza de metal fijada a la pared."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed Creo que podría ser la puerta a algún tipo de cámara."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko Hay una pequeña pantalla aquí, en el medio."
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko Parece que solicita una contraseña."
+
+msgid "@niko That wasn't it..."
+msgstr "@niko No funciona..."
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed La puerta está cerrada."
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 En la pantalla se ve la palabra «DOCUMENTOS» sobre la petición de contraseña."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak ¡Parece algún tipo de puerta!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko Hay un símbolo de bloqueo brillante en una pantalla pequeña."
+

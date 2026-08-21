@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "67=Burial Grounds"
+msgstr "埋葬地"
+
+msgid "70=Old Factory"
+msgstr "古い工場"
+
+msgid "37=Ruins"
+msgstr "遺跡"
+
+msgid "71=Dormitories"
+msgstr "寮"
+
+msgid "205=Courtyard"
+msgstr "中庭"
+
+msgid "240=Forest"
+msgstr "森"
+
+msgid "73=Swamp"
+msgstr "沼地"
+
+msgid "43=Forest"
+msgstr "森"
+
+msgid "44=The Gate"
+msgstr "ゲート"
+
+msgid "12=Entrance"
+msgstr "入り口"
+
+msgid "213=Landing"
+msgstr "上陸地"
+
+msgid "214=City Gate"
+msgstr "シティゲート"
+
+msgid "47=City Gate"
+msgstr "シティゲート"
+
+msgid "14=Outpost"
+msgstr "前哨基地"
+
+msgid "215=Elevator Deck"
+msgstr "エレベーターデッキ"
+
+msgid "48=Elevator Deck"
+msgstr "エレベーターデッキ"
+
+msgid "216=Office"
+msgstr "オフィス"
+
+msgid "49=Apartments"
+msgstr "アパート"
+
+msgid "116=Office"
+msgstr "オフィス"
+
+msgid "17=Mineshaft entrance"
+msgstr "坑道の入り口"
+
+msgid "84=Elevator Street"
+msgstr "エレベーター通り"
+
+msgid "219=Cafe"
+msgstr "カフェ"
+
+msgid "85=Vendor Street"
+msgstr "行商人通り"
+
+msgid "18=Cliffs"
+msgstr "崖"
+
+msgid "52=Cafe"
+msgstr "カフェ"
+
+msgid "19=Docks"
+msgstr "波止場"
+
+msgid "120=Observation Deck"
+msgstr "展望台"
+
+msgid "87=Library"
+msgstr "図書館"
+
+msgid "54=Garden"
+msgstr "庭"
+
+msgid "90=Factory"
+msgstr "工場"
+
+msgid "23=Lookout point"
+msgstr "見晴らし台"
+
+msgid "191=Research Station"
+msgstr "研究所"
+
+msgid "91=Back Alley"
+msgstr "裏通り"
+
+msgid "225=Observation Deck"
+msgstr "展望台"
+
+msgid "127=Research Station"
+msgstr "研究所"
+
+msgid "27=Dock"
+msgstr "波止場"
+
+msgid "128=Courtyard"
+msgstr "中庭"
+
+msgid "29=Village"
+msgstr "村"
+
+msgid "230=Vendor Street"
+msgstr "行商人通り"
+
+msgid "231=Elevator Street"
+msgstr "エレベーター通り"
+
+msgid "232=Back Alley"
+msgstr "裏通り"
+
+msgid "199=Gate"
+msgstr "門"
+
+msgid "233=Library"
+msgstr "図書館"
+
+msgid "200=Dock"
+msgstr "波止場"

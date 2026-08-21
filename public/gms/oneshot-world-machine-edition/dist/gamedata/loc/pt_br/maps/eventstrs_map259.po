@@ -1,0 +1,90 @@
+msgid "@ed [\\p... I think it's working.]"
+msgstr "@ed [\\p... Acho que está funcionando.]"
+
+msgid "@ed [...Niko was right.]"
+msgstr "@ed [... Niko tinha razão.]"
+
+msgid "@ed [I... might actually be tamed, after all.]"
+msgstr "@ed [Talvez... eu seja uma máquina evoluída, no final das contas.]"
+
+msgid "@ed [I...]"
+msgstr "@ed [Eu...]"
+
+msgid "@ed [I remembered what the code was supposed to be...]"
+msgstr "@ed [Eu me lembrei o que deveria ser o código...]"
+
+msgid "@ed [Only bits and pieces, but I can remember...]"
+msgstr "@ed [Somente alguns fragmentos, mas agora me lembro...]"
+
+msgid "@ed [And... I'm trying to fill in the blanks, too...]"
+msgstr "@ed [E... também estou tentando preencher as lacunas...]"
+
+msgid "@ed [And... I'm restoring the original ending as we speak.]"
+msgstr "@ed [E... estou restaurando o final original agora mesmo.]"
+
+msgid "@ed [Niko will be able to reach the tower's summit at the end of the credits.]"
+msgstr "@ed [Niko conseguirá alcançar o topo da torre ao fim dos créditos.]"
+
+msgid "@ed [After replacing the sun, Niko will go back to where it all began.]"
+msgstr "@ed [Depois de substituir o sol, Niko voltará para o lugar onde tudo começou.]"
+
+msgid "@ed [And then... Niko will be able to go home from there.]"
+msgstr "@ed [E então... Niko conseguirá voltar para casa de lá.]"
+
+msgid "@ed [But...]"
+msgstr "@ed [Mas...]"
+
+msgid "@ed [...this is permanent.]"
+msgstr "@ed [... isso é permanente.]"
+
+msgid "@ed [After Niko wakes up back home...]"
+msgstr "@ed [Depois que Niko acordar em casa...]"
+
+msgid "@ed [...This world would only exist as a memory.]"
+msgstr "@ed [... esse mundo existirá apenas como uma memória.]"
+
+msgid "@ed [For Niko, a dream.]"
+msgstr "@ed [Para Niko, um sonho.]"
+
+msgid "@ed [Like thousands of other dreams.]"
+msgstr "@ed [Como milhares de outros.]"
+
+msgid "@ed [For you, a story.]"
+msgstr "@ed [Para você, uma história.]"
+
+msgid "@ed [Like thousands of other stories.]"
+msgstr "@ed [Como milhares de outras histórias.]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [But... as long as Niko remembers this place...]"
+msgstr "@ed [Mas... contanto que Niko se lembre deste lugar...]"
+
+msgid "@ed [As long as you remember this place.]"
+msgstr "@ed [Contanto que você se lembre deste lugar.]"
+
+msgid "@ed [It'll... be alright.]"
+msgstr "@ed [Ficará... tudo bem.]"
+
+msgid "@ed [I... was able to restore some other elements too.]"
+msgstr "@ed [Eu... também consegui restaurar mais alguns elementos.]"
+
+msgid "@ed [The characters... The people that were lost on Niko's journey.]"
+msgstr "@ed [Os personagens... As pessoas que estavam perdidas na aventura de Niko.]"
+
+msgid "@ed [They're all in the next room.]"
+msgstr "@ed [Todos eles estão na sala ao lado.]"
+
+msgid "@ed [I would've put them back where they belong, but...]"
+msgstr "@ed [Eu ia levá-las de volta, mas...]"
+
+msgid "@ed [Not yet.]"
+msgstr "@ed [Ainda não.]"
+
+msgid "@ed [...I think Niko should see them again, first.]"
+msgstr "@ed [... Antes disso, acho que Niko deveria vê-las de novo.]"
+
+msgid "@ed [...Please say goodbye to Niko for me.]"
+msgstr "@ed [... Diga adeus a Niko por mim.]"
+

@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[지상층과의 통신이 끊겼습니다.]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[전 아무것도 할 수가 없습니다.]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$누가 내 스테이플러 가져갔어"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko 컴퓨터 단말기 같아요..."
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko 테이블에 작은 구멍이 있어요..."
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko 뭔가가 나사로 고정되어 있었던 것 같아요..."
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko 테이블에 작은 구멍이 있어요..."
+

@@ -1,0 +1,4 @@
+
+Tutti i suoni sono stati caricati. @WAIT 0.2 
+
+Caricamento texture di sistema:

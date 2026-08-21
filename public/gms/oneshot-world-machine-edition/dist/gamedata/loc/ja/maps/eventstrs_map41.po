@@ -1,0 +1,51 @@
+msgid "@ed [By the way, the effect is temporary.]"
+msgstr "@ed [もう一つ。その効果は一時的なものだ。]"
+
+msgid "@ed [It will be gone once you no longer need it.]"
+msgstr "@ed [必要でなくなれば、自ずと消える。]"
+
+msgid "@ed [Still haven't figured it out?]"
+msgstr "@ed [まだ見つけていないのか？]"
+
+msgid "@ed [...you remember the document, correct?]"
+msgstr "@ed […あのドキュメントのことは\n覚えているか？]"
+
+msgid "@ed [This time it's even more obvious.]"
+msgstr "@ed [今回は、それよりも目立つところにある。]"
+
+msgid "@ed [What's the most \\c[2]easily accessible\\c[0] place on your machine?]"
+msgstr "@ed [コンピューター上で最も\\c[2]アクセスしやすい\\c[0]場所はどこだ？]"
+
+msgid "@ed [Hello again, \\p.]"
+msgstr "@ed [また会ったな、 \\p。]"
+
+msgid "@ed [It seems I need to help you again.]"
+msgstr "@ed [また手を差し伸べなければならないようだ。]"
+
+msgid "@ed [Niko will not be able to progress otherwise.]"
+msgstr "@ed [そうしなければ、ニコはこの先に進めない。]"
+
+msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
+msgstr "@ed [今回、君に必要な情報はコンピューター上で\n最もアクセスしやすい場所にある。]"
+
+msgid "Do you see it?"
+msgstr "言っている意味が分かるか？"
+
+msgid "@ed [You'll know what to do with it, then.]"
+msgstr "@ed [なら、することは分かっているな。]"
+
+msgid "@ed [I know you're not exactly that bright for a god, \\p, but this shouldn't be difficult.]"
+msgstr "@ed [\\p、 君が神にしては\n賢いほうではないことは承知している。\nだが、今回は難しくないはずだ。]"
+
+msgid "@ed [Just poke around a bit. It really isn't hard to miss.]"
+msgstr "@ed [周りを探してみたまえ。\n見逃すのが難しいほどだ。]"
+
+msgid "@ed [...This...]"
+msgstr "@ed […これは…]"
+
+msgid "@ed [How did you already know the answer?]"
+msgstr "@ed [なぜすでに答えを知っていた？]"
+
+msgid "@ed [...]"
+msgstr "@ed […]"
+

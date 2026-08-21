@@ -1,0 +1,72 @@
+msgid "@niko \\p? Are you there?"
+msgstr "@niko \\p？你在嗎？"
+
+msgid "[\"Yes\", \"No\", \"That's not my name\"]"
+msgstr "[\"是\",\"否\",\"那不是我的名字\"]"
+
+msgid "@niko_speak Ah, me too!"
+msgstr "@niko_speak 啊，我也在！"
+
+msgid "@niko ...I mean... I'm awake now."
+msgstr "@niko ……我的意思是……現在我醒了。"
+
+msgid "@niko_eyeclosed \\p... I know you're here..."
+msgstr "@niko_eyeclosed \\p……我知道你在……"
+
+msgid "@niko_speak ...Oh."
+msgstr "@niko_speak ……喔。"
+
+msgid "@niko_eyeclosed I'm sorry, I'm a little confused... I just woke up..."
+msgstr "@niko_eyeclosed 抱歉。我有點混亂……我才剛醒來……"
+
+msgid "@niko Can you tell me your name again?"
+msgstr "@niko 可以再說一次你的名字嗎？"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_eyeclosed I had another bad dream."
+msgstr "@niko_eyeclosed 我又做惡夢了。"
+
+msgid "@niko I know I have nothing to worry about with you here, but..."
+msgstr "@niko 我知道有你在就不用擔心，可是……"
+
+msgid "@niko_eyeclosed Can I really save everyone with this lightbulb?"
+msgstr "@niko_eyeclosed 我真的能用這顆燈泡拯救所有人嗎？"
+
+msgid "@niko ...Let's get going now."
+msgstr "@niko ……出發吧。"
+
+msgid "@niko These vines look tough, but I think I can manage to cut them!"
+msgstr "@niko 這些藤蔓看起來很硬，但我應該能劈得開！"
+
+msgid "@niko_speak That did it!"
+msgstr "@niko_speak 成功了！"
+
+msgid "@niko Ready to go, \\p?"
+msgstr "@niko \\p，準備好出發了嗎？"
+
+msgid "@niko The clipper handles won't budge..."
+msgstr "@niko 樹剪的把手壓不動……"
+
+msgid "@niko ...It's not broken, is it?"
+msgstr "@niko ……應該沒有壞吧？"
+
+msgid "@niko There are some really tangled-up vines in the way."
+msgstr "@niko 有些糾纏不清的藤蔓擋住路了。"
+
+msgid "@niko It looks like an oil can..."
+msgstr "@niko 看起來像油罐……"
+
+msgid "@niko This might be useful. I'll take it with me."
+msgstr "@niko 說不定用得上，我就拿走囉。"
+
+msgid "@niko I think I might be carrying something else I can use this with already."
+msgstr "@niko 我想我已經有其它可以跟這個一起用的東西了。"
+
+msgid "@niko Maybe I should check my pockets again?"
+msgstr "@niko 也許我該再檢查一下我的口袋？"
+
+msgid "@niko I don't think we need to go that way..."
+msgstr "@niko 我們應該不用往那邊走吧……"
+

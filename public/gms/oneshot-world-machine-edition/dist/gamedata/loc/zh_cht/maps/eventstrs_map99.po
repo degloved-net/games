@@ -1,0 +1,87 @@
+msgid "@niko It's a big book."
+msgstr "@niko 一本大書。"
+
+msgid "@niko_speak The title says \"understanding robots\"."
+msgstr "@niko_speak 書名是《了解機器人》。"
+
+msgid "@niko An empty glass jar."
+msgstr "@niko 空的玻璃罐。"
+
+msgid "@niko The handle on this one looks broken."
+msgstr "@niko 這個的把手好像斷了。"
+
+msgid "@niko A framed photo of someone."
+msgstr "@niko 某人的照片，放在相框裡。"
+
+msgid "@niko A rusty metal garbage can."
+msgstr "@niko 生鏽的金屬垃圾桶。"
+
+msgid "@niko There's some broken glass in here."
+msgstr "@niko 裡面有一些碎玻璃。"
+
+msgid "@niko A bed."
+msgstr "@niko 床。"
+
+msgid "@niko_speak The blanket has quite a few patches."
+msgstr "@niko_speak 毯子上有好幾塊補丁。"
+
+msgid "@niko An empty glass jar with a wire handle."
+msgstr "@niko 有鐵絲把手的空罐子。"
+
+msgid "@niko Some empty glass jars."
+msgstr "@niko 幾個空玻璃罐。"
+
+msgid "@niko Empty coffee cups."
+msgstr "@niko 空的咖啡杯。"
+
+msgid "@niko A jar full of red glowing fluid."
+msgstr "@niko 裝滿發光紅色液體的罐子。"
+
+msgid "@niko_speak There's an empty coffee cup on the chair."
+msgstr "@niko_speak 椅子上有一個空的咖啡杯。"
+
+msgid "@niko A lantern plant."
+msgstr "@niko 一棵燈籠草。"
+
+msgid "@niko There's a note attached."
+msgstr "@niko 上面有一張便條。"
+
+msgid "@niko_speak It says \"Thank you for working so hard, Mr. Lamplighter!\""
+msgstr "@niko_speak 便條寫著「點燈人，謝謝你的辛勤工作！」"
+
+msgid "@niko Big books."
+msgstr "@niko 好大的書。"
+
+msgid "@niko_speak ...Ah, these are dictionaries."
+msgstr "@niko_speak ……啊，這些是字典。"
+
+msgid "@niko Some of the words are underlined."
+msgstr "@niko 有些字被劃了重點。"
+
+msgid "@niko ....*most* of the words are underlined."
+msgstr "@niko ……「大部分」的字都被劃了重點。"
+
+msgid "@niko There's some big plastic disks in here."
+msgstr "@niko 裡面有一些大的塑膠圓盤。"
+
+msgid "@niko_speak Looks like they're supposed to go in something?"
+msgstr "@niko_speak 看起來好像應該放進某個地方？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_what Wait, \\p, are we really gonna take these with us?"
+msgstr "@niko_what 等等，\\p，真的要把這些拿走嗎？"
+
+msgid "@niko_what But they look so heavy..."
+msgstr "@niko_what 可是它們看起來好重……"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 好吧……"
+
+msgid "@niko_speak Hey! They're actually pretty light!"
+msgstr "@niko_speak 嘿！結果其實很輕耶！"
+
+msgid "@niko It's empty now..."
+msgstr "@niko 空空的……"
+

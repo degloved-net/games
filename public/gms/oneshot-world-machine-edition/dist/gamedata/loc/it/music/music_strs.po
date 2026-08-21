@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /music/music_strs.po\n"
+"X-Crowdin-File-ID: 11\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:58\n"
+
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "My Burden Is Light"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "Someplace I Know"
+
+msgid "Phosphor=Phosphor"
+msgstr "Phosphor"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "The Prophecy"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "Abandoned Factory"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "Silverpoint"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "A God's Machine"
+
+msgid "Rowbot=Rowbot"
+msgstr "Rowbot"
+
+msgid "Geothermal=Geothermal"
+msgstr "Geothermal"
+
+msgid "Distant=Distant"
+msgstr "Distant"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "Into The Light"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "Self Contained Universe (Reprise)"
+
+msgid "Navigate=Navigate"
+msgstr "Navigate"
+
+msgid "ToSleep=To Sleep"
+msgstr "To Sleep"
+
+msgid "ToDream=To Dream"
+msgstr "To Dream"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "Alula"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "Children Of The Ruins"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "Pretty Bad"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "On Little Cat Feet"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "Indoors"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "Dark Stairwell"
+
+msgid "Sonder=Sonder"
+msgstr "Sonder"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "Pretty nice day, huh..."
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "Library Stroll"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "Simple Secrets"
+
+msgid "Factory=Factory"
+msgstr "Factory"
+
+msgid "TheTower=The Tower"
+msgstr "The Tower"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "Niko And The World Machine"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "I'm here"
+
+msgid "Pretty=Pretty"
+msgstr "Pretty"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "Self Contained Universe"
+
+msgid "Home=Thanks For Everything"
+msgstr "Thanks For Everything"
+
+msgid "Countdown=Countdown"
+msgstr "Countdown"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "Deep Mines"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "Vestige"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "Sonder (extended)"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "Out Of Protocol"
+
+msgid "Panic=Panic"
+msgstr "Panic"
+
+msgid "Collapse=Collapse"
+msgstr "Collapse"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "Navigate (extended)"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "The First Universe"
+
+msgid "Aviator=Aviator"
+msgstr "Aviator"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "Eleventh Hour"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "Rue"
+
+msgid "TheAuthor=The Author"
+msgstr "The Author"
+
+msgid "computer_room=The World Machine"
+msgstr "The World Machine"
+
+msgid "Encounter=Encounter"
+msgstr "Encounter"
+
+msgid "Solstice=Solstice"
+msgstr "Solstice"
+
+msgid "Sunrise=Sunrise"
+msgstr "Sunrise"
+
+msgid "InMemory=In Memory"
+msgstr "In Memory"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "IT'S TIME TO FIGHT GRIME"
+

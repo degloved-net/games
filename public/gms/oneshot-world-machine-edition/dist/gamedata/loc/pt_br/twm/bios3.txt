@@ -1,0 +1,4 @@
+
+Todas as texturas do sistema carregadas! @WAIT 0.2 
+
+Finalizando Sequência de Inicialização.@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.4 

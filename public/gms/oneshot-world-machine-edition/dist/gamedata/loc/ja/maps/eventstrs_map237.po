@@ -1,0 +1,1269 @@
+msgid "@george1 Miss Silverpoint! \\.\\.You've returned!"
+msgstr "@george1 シルバーポイントさん！\\.\\.戻ってこられたのね！！"
+
+msgid "@george1_hm AHA! George sees that you have found the messiah!"
+msgstr "@george1_hm あら！ジョージには全てお見通しよ。\nようやく救世主を見つけたのね！"
+
+msgid "@kip_sigh ...yeah."
+msgstr "@kip_sigh …ええ。"
+
+msgid "@kip_pout ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_pout …さっきの子が研究所に入り込んでしまった\nあと、たまたま救世主とも遭遇したの…"
+
+msgid "@george2_grr Well well well, look who's back!"
+msgstr "@george2_grr あらあらあら、\n誰が帰ってきたのかと思ったら！"
+
+msgid "@george2_no How about next time you LET ME KNOW BEFORE YOU LEAVE THE SHELTER TO GO INTO A LITERAL DEATH ZONE!"
+msgstr "@george2_no 次からは、自殺しにいくときはアタシに\n一報くれると助かるんだけどね！！"
+
+msgid "@kip_heh Sorry..."
+msgstr "@kip_heh ごめん…"
+
+msgid "@george2_sigh I get so worried, y'know..."
+msgstr "@george2_sigh ったく、無駄に心配させて…"
+
+msgid "@george2 ....\\.\\.Hey! You found the messiah!"
+msgstr "@george2 …\\.\\.そんなことより！救世主を見つけたのね！"
+
+msgid "@george3_sad ...Kip. \\.\\.You made it back..."
+msgstr "@george3_sad …キップ… \\.\\.帰ってこられたのね…"
+
+msgid "@george3_sigh I was so worried...."
+msgstr "@george3_sigh 本当に心配した…"
+
+msgid "@george3_worry ...um...."
+msgstr "@george3_worry …え…"
+
+msgid "@george3_worry ...I see...\\.\\. I see you've found the messiah..."
+msgstr "@george3_worry …そう…\\.\\.救世主を見つけたのね…"
+
+msgid "@george4 Kip! \\.\\.You're alive!"
+msgstr "@george4 キップ！ \\.\\.生きてたんだ！"
+
+msgid "@george4_oops You...\\.\\. um, should really tell me before you leave next time..."
+msgstr "@george4_oops えと…\\.\\.、次にどっか行く時は\nちゃんと教えてね…"
+
+msgid "@george4_smile It's fine!"
+msgstr "@george4_smile いいのいいの！"
+
+msgid "@george4_omg Oh my gosh... you found the messiah too?"
+msgstr "@george4_omg わわ…救世主まで見つけてきたの？"
+
+msgid "@george5 Hello, Miss Silverpoint! \\.\\.I'm glad you've made it back safely."
+msgstr "@george5 まあ、シルバーポイントさん！ \\.\\.無事に戻ってきてくれて良かったわ。"
+
+msgid "@george5_sigh Gosh... you should have told me where you were going!"
+msgstr "@george5_sigh 全くもう…どこに行くかぐらい、\n教えてくれればよかったのに！"
+
+msgid "@kip_heh Sorry, George..."
+msgstr "@kip_heh ごめんね、ジョージ…"
+
+msgid "@george5 I... see you also found the messiah!"
+msgstr "@george5 それで…救世主さんを見つけてきたのね！"
+
+msgid "@george5_smile Hello, little one!"
+msgstr "@george5_smile こんばんは、おちびさん！"
+
+msgid "@niko Hi..."
+msgstr "@niko こんばんは…"
+
+msgid "@kip_sigh ...we...\\.\\. ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh さっきの子が…\\.\\. 研究所に入り込んでしまった\nあと、救世主ともたまたま遭遇したの…"
+
+msgid "@george6_point Eyy Kip! \\.\\.You made it back in one piece!"
+msgstr "@george6_point イエーーーイキップ！ \\.\\.何とか\n死なずに帰ってこれたじゃーん！"
+
+msgid "@george6_shrug Ya kinda left the shelter without tellin' me...\\>\\nSure gave me a good scare back there!"
+msgstr "@george6_shrug ウチに何も言わず出てくなんてさー…\\>\\nマジ、超ヒヤヒヤしたわ！"
+
+msgid "@george6 Whoaa! You found the messiah too?"
+msgstr "@george6 ワーーオ！救世主クン見つけちゃったの？"
+
+msgid "@george6_fingerguns Sweeet."
+msgstr "@george6_fingerguns やっぱ、アンタってハンパないわ。"
+
+msgid "@george6_point How's it goin', lil fella?"
+msgstr "@george6_point チビくん、元気してるー？"
+
+msgid "@niko_eyeclosed Bad."
+msgstr "@niko_eyeclosed ううん。"
+
+msgid "@george6_shrug Oh same."
+msgstr "@george6_shrug ウチとイッショじゃーん。"
+
+msgid "@kip_pout ...we, um."
+msgstr "@kip_pout …あの、ね。"
+
+msgid "@kip_sigh ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh …さっきの子が研究所に入り込んでしまった\nあと、たまたま救世主とも遭遇したの…"
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad あの子を…\\.\\. 止められなかった…"
+
+msgid "@kip_pout I don't know why he was being so insistent!"
+msgstr "@kip_pout どうしてあそこまで必死だったのか、\n理解できないわ！"
+
+msgid "@niko4 He... \\.\\.he said he needed to go rebuild a robot..."
+msgstr "@niko4 セドリック… \\.\\.ロボットをもう一度\n作らなきゃって、言ってたよ…"
+
+msgid "@kip_pout Oh, you know him?"
+msgstr "@kip_pout あら、あの子のこと知ってるの？"
+
+msgid "@niko_eyeclosed Yeah."
+msgstr "@niko_eyeclosed うん。"
+
+msgid "@george1_hm AHA! Building a robot!"
+msgstr "@george1_hm なるほど！ロボットね！"
+
+msgid "@george1 So THAT's what he needed that book for!"
+msgstr "@george1 あの本を必要としていたのは、\nそういうこと！"
+
+msgid "@niko2 ...come again?"
+msgstr "@niko2 …どういうこと？"
+
+msgid "@george1 A boy with white hair and goggles ran in here not long ago."
+msgstr "@george1 白髪の、ゴーグルを着けた男の子が\n先ほどここに飛び込んできたの。"
+
+msgid "@niko_eyeclosed That's Cedric, yeah..."
+msgstr "@niko_eyeclosed それ、セドリックだね…"
+
+msgid "@george1 He grabbed one of the books from my (very impressive) archives upstairs and bolted straight out."
+msgstr "@george1 その子が、2階にある私の（驚くほど素晴らしい）\n収蔵庫から本を1冊取り出して、\nどこかへ行ってしまったの。"
+
+msgid "@george1_smile Said it was an emergency so George let it slide."
+msgstr "@george1_smile 緊急事態と言っていたから、\nこのジョージは見逃してあげたのよ。"
+
+msgid "@george1 George hopes he's okay..."
+msgstr "@george1 無事かしら…"
+
+msgid "@george2_grr Robot..."
+msgstr "@george2_grr ロボット、か…"
+
+msgid "@george2_sigh That's why he needed that book so badly..."
+msgstr "@george2_sigh だから、あの本がバカみたいに\n必要だったのね…"
+
+msgid "@george2 Y'all talking about a kid with white hair and goggles?"
+msgstr "@george2 そいつって、アレでしょ。\n白い髪をしてて、ゴーグルを頭に\n着けた男の子のことでしょ？"
+
+msgid "@niko2 That's Cedric, yeah..."
+msgstr "@niko2 うん、セドリックだね…"
+
+msgid "@george2_stress He ran in here earlier, grabbed one of the books from my archives, and ran straight out the door."
+msgstr "@george2_stress ここに飛び込んできたと思ったら、\nアタシの収蔵庫から1冊持って\nどっか行っちゃったのよ。"
+
+msgid "@george2_stress ...without even going through checkout!"
+msgstr "@george2_stress …貸出手続きもせずに！"
+
+msgid "@george2_no THE NERVE OF THAT KID!"
+msgstr "@george2_no 大した度胸じゃない！！！"
+
+msgid "@niko4 Um..."
+msgstr "@niko4 あの…"
+
+msgid "@george2_grr Said it was an emergency, so I didn't bother stopping him."
+msgstr "@george2_grr 緊急事態だって言うから、止めなかったわ。"
+
+msgid "@george2_sigh I... hope he doesn't get himself killed out there."
+msgstr "@george2_sigh はー…あそこで死んでなきゃいいけど。"
+
+msgid "@george3 ...robot..."
+msgstr "@george3 …ロボット…"
+
+msgid "@george3 Are you talking about...\\.\\. a boy with white hair and googles?"
+msgstr "@george3 それって…\\.\\. 白い髪をしていて、\n頭にゴーグルを着けている男の子のこと…？"
+
+msgid "@george3 He..."
+msgstr "@george3 彼…"
+
+msgid "@george3 He said he really needed a book from the backroom and said it was an emergency and I let him have it and he ran out and..."
+msgstr "@george3 奥の部屋にある本がどうしても\n必要で、緊急だと言うものだから…\n渡したらすぐさま出て行ってしまって…"
+
+msgid "@george3_sigh Oh.... I should have stopped him...."
+msgstr "@george3_sigh はぁ… 止めておくべきだった…"
+
+msgid "@george3_worry I hope he's...\\.\\. okay..."
+msgstr "@george3_worry 彼…\\.\\.無事だといいけど…"
+
+msgid "@george4_golly A robot!"
+msgstr "@george4_golly ロボット！"
+
+msgid "@george4_golly ...no wonder why he needed that book!"
+msgstr "@george4_golly …だからあの本が必要だったのかー！"
+
+msgid "@george4 We are talking about the same boy, right?"
+msgstr "@george4 あれれ、あの男の子のことでしょ？"
+
+msgid "@george4_golly Hat... white hair... goggles..."
+msgstr "@george4_golly 帽子かぶってて…白髪で…\nあと、ゴーグルも…"
+
+msgid "@george4_golly He, um..."
+msgstr "@george4_golly カレね…その…"
+
+msgid "@george4 He grabbed a book from the back room and then just bolted straight out!"
+msgstr "@george4 奥の部屋から本を1冊持って、\nさっさと出て行っちゃった！"
+
+msgid "@george4_oops He said it was an emergency, so I didn't try to stop him..."
+msgstr "@george4_oops 緊急事態だーって言うから、\n止めなかったんだ…"
+
+msgid "@george4_golly Gosh... I hope he's okay..."
+msgstr "@george4_golly そっかー… 無事だといいんだけどね…"
+
+msgid "@george5 Building a robot, you say?"
+msgstr "@george5 ロボットを作る、ですって？"
+
+msgid "@george5 Could that be... why he needed that book?"
+msgstr "@george5 それが…あの本を\n必要としていた理由なの？"
+
+msgid "@george5 Ah... a young man with white hair and green glasses ran in earlier."
+msgstr "@george5 そのね…少し前に、緑のメガネを着けた、\n白い髪の男の子が慌ててやってきたの。"
+
+msgid "@george5 He said he really needed a book from the backroom... said it was an emergency, too!"
+msgstr "@george5 奥の部屋にある本がどうしても必要って…\n緊急事態だとも言っていたわ！"
+
+msgid "@george5_hmm Poor darling looked so stressed out... so I just gave him the book..."
+msgstr "@george5_hmm 本当に必死な様子で、何だか可哀想で…\nだから、その本は渡してあげたの…"
+
+msgid "@george5 I hope he is safe..."
+msgstr "@george5 無事だといいのだけれど…"
+
+msgid "@george6 Robot, eh?"
+msgstr "@george6 ん、ロボットっつった？"
+
+msgid "@george6 Y'all talkin' about a lil' dude with white hair and goggles, right?"
+msgstr "@george6 それってアレっしょ、白髪＆ゴーグルの\nチビガキのことっしょ？"
+
+msgid "@niko4 That's Cedric, yeah..."
+msgstr "@niko4 うん、セドリックだね…"
+
+msgid "@george6 Bruh ran off with one of my books!"
+msgstr "@george6 そいつなら、ウチの本1冊担いで\nどっかにブッ飛んでったけど！"
+
+msgid "@george6_shrug Said it was an emergency, so I just let 'im have it."
+msgstr "@george6_shrug 緊急っつーからさ、持ってかせたのよ。"
+
+msgid "@george6 Hope he didn't run into trouble, dude..."
+msgstr "@george6 ヤバイことになってなきゃいいけど…"
+
+msgid "@kip_sigh Yeah... I hope he's alright, too..."
+msgstr "@kip_sigh ええ…本当に、無事だといいわね…"
+
+msgid "@kip_pout With any luck, maybe the lab complex can hold up long enough for him to..."
+msgstr "@kip_pout 運が良ければ、研究所がギリギリ\nもってくれるかもしれないわ…"
+
+msgid "@kip_worry Oh my gosh.... \\>It..."
+msgstr "@kip_worry ウソでしょ… \\>あれ…"
+
+msgid "@kip_worry That was..."
+msgstr "@kip_worry あれって、もしかして…"
+
+msgid "@niko3 ...the labs?"
+msgstr "@niko3 …研究所？"
+
+msgid "@kip_worry That poor kid!!!"
+msgstr "@kip_worry あのバカ！！！"
+
+msgid "@niko_shock No!!!"
+msgstr "@niko_shock そんな！！！"
+
+msgid "@niko_distressed_meow Not him too!!!!"
+msgstr "@niko_distressed_meow セドリックまで！！！"
+
+msgid "@kip_sad I'm..."
+msgstr "@kip_sad あいつ…"
+
+msgid "@kip_sigh I'm sorry about your friend..."
+msgstr "@kip_sigh あなたのお友達、残念だったわね…"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 …"
+
+msgid "@niko_distressed ...the last time we spoke, he told me to go look for someone on the surface."
+msgstr "@niko_distressed …地上に着いたらすぐに誰かを探してって、\nセドリックは最後に…"
+
+msgid "@niko4 I... \\.\\.I need to get going."
+msgstr "@niko4 ミー… \\.\\.行かなきゃ。"
+
+msgid "@george1 George... \\.\\.\\@george1_hm WON'T let you go out there!"
+msgstr "@george1 それは無理ね… \\.\\.\\@george1_hm この私が許さないわ！"
+
+msgid "@george1_hm The messiah will not walk into danger on my watch!"
+msgstr "@george1_hm この私がいる限り、救世主を危険に\n晒すようなことはあってはならない！"
+
+msgid "@niko3 But..."
+msgstr "@niko3 でも…"
+
+msgid "@george2_stress Are you KIDDING ME??"
+msgstr "@george2_stress バカじゃないの？？"
+
+msgid "@george2_grr Kid, there is NO way we're letting you out there."
+msgstr "@george2_grr チビすけ、アンタをあんな\n危険な場所には行かせないわよ。"
+
+msgid "@niko3 But I really have to..."
+msgstr "@niko3 でも、どうしても行かなきゃ…"
+
+msgid "@george3_worry Um...\\.\\. um..."
+msgstr "@george3_worry え…そんな\\.\\.…"
+
+msgid "@george3_cry You...\\.\\. shouldn't go out there....!"
+msgstr "@george3_cry あそこには…\\.\\. 行ってはだめよ…！"
+
+msgid "@niko_distressed But..."
+msgstr "@niko_distressed でも…"
+
+msgid "@george3_worry Oh.... \\.\\.help me out here, Kip...."
+msgstr "@george3_worry ああ… \\.\\.何とか言ってちょうだい…キップ…"
+
+msgid "@george4 ...messiah, please."
+msgstr "@george4 …救世主クン、それはダメ。"
+
+msgid "@george4_golly We don't... want you to go out there."
+msgstr "@george4_golly キミを…危ないとこには連れていけない。"
+
+msgid "@george4_golly Not when everything is... \\.\\.well..."
+msgstr "@george4_golly 特に今は… \\.\\.ね…"
+
+msgid "@george5_hmm Sweetie, you know we can't let you just walk into danger!"
+msgstr "@george5_hmm おちびさん、貴方を危ない目には\nあわせられないわ！"
+
+msgid "@george6 Bruh...\\>\\n\\@george6_point You know we ain't gonna let you walk into the fire like that!"
+msgstr "@george6 チビくーん…\\>\\n\\@george6_point ウチらが、Youをあんな火の中に\n突っ込ませるワケないっしょ！"
+
+msgid "@george6_shrug Fire... squares..."
+msgstr "@george6_shrug 火…アーンド四角形…"
+
+msgid "@niko4 But..."
+msgstr "@niko4 でも…"
+
+msgid "@kip_sigh George is right..."
+msgstr "@kip_sigh ジョージの言う通りよ…"
+
+msgid "@kip_pout The squares seem to be targeting a lot of the weaker constructs in the city."
+msgstr "@kip_pout 四角形はね、街にある強度の弱い\n建物を標的にしてるみたいなの。"
+
+msgid "@kip_sigh Only the library has enough structural integrity to withstand collapse..."
+msgstr "@kip_sigh 図書館だけなのよ。崩壊に耐えられるだけの\n強度を備えているのは…"
+
+msgid "@kip_sad It's... best if you stayed here until things stabilize."
+msgstr "@kip_sad だから…状態がもう少し安定するまで、\nここにいた方がいい。"
+
+msgid "@kip_sigh ...however long that takes."
+msgstr "@kip_sigh …その安定に、どれだけ時間がかかってもね。"
+
+msgid "@niko2 But....\\.\\. \\@niko4 but..."
+msgstr "@niko2 でも…\\.\\.\\@niko4 そしたら…"
+
+msgid "@niko2 What about...\\.\\. my mission?"
+msgstr "@niko2 ミーの…\\.\\. 使命はどうなっちゃうの…？"
+
+msgid "@niko_eyeclosed Don't you guys want me to bring the sun back, at least?"
+msgstr "@niko_eyeclosed 太陽を取り戻したくないの？"
+
+msgid "@george1 Even if you do restore the sun, the squares will persist..."
+msgstr "@george1 たとえ太陽を元に戻したとしても、\n四角形は存在し続けるわ…"
+
+msgid "@george2_sigh The sun won't do us any good if the squares are just gonna mess everything up."
+msgstr "@george2_sigh どうせ四角形がまた全部めちゃくちゃに\nするんだから、太陽なんてあっても\n意味ないわよ。"
+
+msgid "@george3_worry Oh...\\.\\. but even if you do bring the sun back..."
+msgstr "@george3_worry はぁ…\\.\\.でも、もし太陽を\n取り戻したとしても…"
+
+msgid "@george3_sigh ...the squares... they'll still be here..."
+msgstr "@george3_sigh …四角形は…なくならないのよ…"
+
+msgid "@george4_golly Even if you do bring back the sun, that's not gonna fix the squares..."
+msgstr "@george4_golly 太陽を取り戻しても、四角形が\nなくなるとは思えないなー…"
+
+msgid "@george5 Even if you do restore the sun, I'm not sure that'll fix the squares..."
+msgstr "@george5 太陽が元に戻ったとしてもね、四角形が\nなくなる保証はどこにもないの…"
+
+msgid "@george6_shrug ...sun ain't gonna make the squares go away, dude."
+msgstr "@george6_shrug …太陽があってもさ、四角形は\n消えないんだわ、チビくん。"
+
+msgid "@kip_sigh Sadly..."
+msgstr "@kip_sigh そうね…"
+
+msgid "@kip_sad Not to mention... even getting there is going to be hard..."
+msgstr "@kip_sad 分かってると思うけど…あそこに\n辿り着くだけでも一苦労なのよ…"
+
+msgid "@kip_pout If the world is like this... there's no telling what's going on in the Tower!"
+msgstr "@kip_pout 世界がこんなことになっている今…塔で何が\n起こっているかなんて誰にも分からない！"
+
+msgid "@george1_hm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george1_hm それに…もし救世主の身に\n何か起きてしまったら…"
+
+msgid "@george1 ...George doesn't want to think about it."
+msgstr "@george1 …そんなこと、このジョージは\n想像もしたくないわ。"
+
+msgid "@george2_stress And... if anything bad happened to the messiah, of all people..."
+msgstr "@george2_stress しかも…アタシたちの\n救世主の身に何か起きたら…"
+
+msgid "@george2_no ...NO!!! I won't allow it!!!"
+msgstr "@george2_no …あり得ないわ！！！\nそんなの、アタシが許すわけない！！！"
+
+msgid "@george3_sad And... if anything bad happened to the messiah, of all people..."
+msgstr "@george3_sad しかも…私たちの\n救世主の身に何か起きてしまったら…"
+
+msgid "@george3_sigh I'm not sure if I'll be able forgive myself..."
+msgstr "@george3_sigh 私は…絶対に自分を許すことができない…"
+
+msgid "@george4_golly And... if anything bad happened to the messiah, of all people..."
+msgstr "@george4_golly それにさ…私たちの救世主クンの身に\n何か起きちゃったら…"
+
+msgid "@george4 I'm not sure what we'd do!"
+msgstr "@george4 わたし、どうしたらいいか\n分からなくなっちゃう！"
+
+msgid "@george5_hmm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george5_hmm それに…もし私たちのおちびさんの身に\n何か起きたら…"
+
+msgid "@george5_sigh Oh... that would be so dreadful, dear..."
+msgstr "@george5_sigh ああ…考えるだけでも恐ろしい…"
+
+msgid "@george6 And... if the messiah got hurt, of all people..."
+msgstr "@george6 つーか…万が一ウチらのチビくんが\n怪我なんかしたら…"
+
+msgid "@george6_shrug That's like...\\.\\. the exact opposite of radical, dude...."
+msgstr "@george6_shrug もう、アレよ…\\.\\.超ヤバいっしょ…"
+
+msgid "@kip_sigh Sigh..."
+msgstr "@kip_sigh はぁ…"
+
+msgid "@kip_sad A friend of mine... said something about this forever ago..."
+msgstr "@kip_sad 私の友達がね…\nずっと前に、言ってたことなんだけど…"
+
+msgid "@kip_pout \"It's better for the world to die naturally.\""
+msgstr "@kip_pout 「世界は自然に死なせるべき」"
+
+msgid "@kip_sigh \"No living being should have to carry that burden.\""
+msgstr "@kip_sigh 「どんな生き物であれ、\nそんな重荷を抱えるべきではない」"
+
+msgid "@kip_sad At the time... I thought it was still her faulty code speaking..."
+msgstr "@kip_sad その時は…バグコードの影響で\nそう言ったんだと思ってた…"
+
+msgid "@kip_sigh But now I... \\.\\.I'm starting to understand..."
+msgstr "@kip_sigh でも今なら… \\.\\.\n分かるような気がする…"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@kip_pout Messiah... \\.\\.I'm sorry..."
+msgstr "@kip_pout 救世主… \\.\\.ごめんなさい…"
+
+msgid "@kip_sad I'm really, really sorry...."
+msgstr "@kip_sad 本当に、本当にごめんなさい…"
+
+msgid "@kip_sigh All this time, we've burdened you with our hope, our faith..."
+msgstr "@kip_sigh ずっと、みんなの希望と信頼を\nあなたに背負わせてしまってた…"
+
+msgid "@kip_pout ...blissfully ignoring the fact that you are just a lost child."
+msgstr "@kip_pout …あなたがこの世界に迷い込んできた子供\nだっていうことを、都合よく無視して。"
+
+msgid "@niko3 Well..."
+msgstr "@niko3 あの…"
+
+msgid "@kip_pout You're probably more scared than any of us, aren't you?"
+msgstr "@kip_pout 誰よりも一番怖いと\n感じているのは、あなたよね。"
+
+msgid "@kip_pout We... have been dealing with tragedy for so long, it's become background noise to us now."
+msgstr "@kip_pout 私たちは…この悲惨な状況にずっと\n晒されてきたせいで、もう何も\n感じなくなってしまったの。"
+
+msgid "@kip_sad But for you... \\.\\.it must be so terrifying..."
+msgstr "@kip_sad でも、あなたにとっては… \\.\\.すごく恐ろしいはずよね…"
+
+msgid "@kip_sad And now, you're stuck here with the rest of us..."
+msgstr "@kip_sad それに今、私たちと同じように\nここに閉じ込められてしまってる…"
+
+msgid "@kip_pout ...being held back by the very people you were told to save."
+msgstr "@kip_pout …この世界を救ってくれと頼んできた\n人たちに、今度は引き止められている。"
+
+msgid "@kip_sigh We must seem so ungrateful..."
+msgstr "@kip_sigh 私たち、どんだけ恩知らずなのよ…"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@niko_distressed .....It's...\\> \\@niko_eyeclosed2 .....okay."
+msgstr "@niko_distressed ……そんなの…\\>\\@niko_eyeclosed2 …気にしないで。"
+
+msgid "@kip_pout ..."
+msgstr "@kip_pout …"
+
+msgid "@niko3 I..."
+msgstr "@niko3 ミーは…"
+
+msgid "@niko3 ...when I first came to this world... \\.\\.\\@niko4 a long time ago...."
+msgstr "@niko3 …初めてこの世界に来た時にね… \\.\\.\\@niko4 ずっと前のことだけど…"
+
+msgid "@niko_distressed2 ...back then, all I wanted was to go home."
+msgstr "@niko_distressed2 …あの時は、早く家に帰りたいって\nずっと思ってたんだ。"
+
+msgid "@niko_eyeclosed ...\\p... do you remember?"
+msgstr "@niko_eyeclosed …\\p… 覚えてる？"
+
+msgid "@niko2 The very FIRST time..."
+msgstr "@niko2 本当に最初のころ…"
+
+msgid "@niko5 I'm not sure how far back it was for you..."
+msgstr "@niko5 神様にはどのくらい前のことなのか\n分かんないけど…"
+
+msgid "@niko But... I remember towards the end...\\>\\n\\@niko_eyeclosed I... actually wasn't sure anymore."
+msgstr "@niko でも…旅をしていくうちにね…\\>\\n\\@niko_eyeclosed その…よく分かんなくなっちゃったんだ。"
+
+msgid "@niko_upset ...about going home."
+msgstr "@niko_upset …どうして家に帰りたいんだろうって。"
+
+msgid "@niko_eyeclosed Even knowing the world would be doomed eventually..."
+msgstr "@niko_eyeclosed この世界がもうすぐ崩壊しちゃうって\n分かってても…"
+
+msgid "@niko_distressed2 I... still wanted the people here to be happy..."
+msgstr "@niko_distressed2 ミーは…みんなに\n幸せになってほしかった…"
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return the sun, back then..."
+msgstr "@niko_eyeclosed だから…\\.\\. 太陽を戻してって言われた時も…"
+
+msgid "@niko_eyeclosed I didn't even....\\.\\. question it..."
+msgstr "@niko_eyeclosed 全然…\\.\\. なんで？って\n思わなかった…"
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return home, back then..."
+msgstr "@niko_eyeclosed だから…\\.\\. 家に帰れって言われた時…"
+
+msgid "@niko_distressed2 I wasn't... \\.\\.sure..."
+msgstr "@niko_distressed2 何だか… \\.\\.よく分からなくなって…"
+
+msgid "@niko_eyeclosed But I trusted you more, \\p..."
+msgstr "@niko_eyeclosed けど、 \\p のこと、すごく\n信じてたから…"
+
+msgid "@niko4 ...but then I just... came back."
+msgstr "@niko4 …でも、そしたら…戻ってきちゃった。"
+
+msgid "@kip_pout You... what..."
+msgstr "@kip_pout あなた…何を言って…"
+
+msgid "@niko3 And I... went through that decision again, didn't I?"
+msgstr "@niko3 それでミーは…また、\nどうしたいか決めて、頑張ったでしょ？"
+
+msgid "@niko_upset But...\\.\\. I came back again..."
+msgstr "@niko_upset なのに…\\.\\. また戻ってきて…"
+
+msgid "@niko_eyeclosed Even though you were able to do both... \\.\\.the effects couldn't be permanent, could it?"
+msgstr "@niko_eyeclosed どっちも選べたとしても… \\.\\.その効果がずっと\n続くわけじゃないんでしょ？"
+
+msgid "@niko_upset And then...\\.\\. I found out about the world being like this..."
+msgstr "@niko_upset その後…\\.\\. 世界がこんなふうになってることを\n知ったんだ…"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed はぁ…"
+
+msgid "@niko_eyeclosed Prototype said to forget the things he told me... \\>\\nAnd Cedric told me not to think about it too much, but..."
+msgstr "@niko_eyeclosed 話したことは忘れて、ってプロトタイプは\n言ってたし… \\>\\nセドリックも、あんまり気にしちゃダメって\n言ってたけど…"
+
+msgid "@niko_eyeclosed I..."
+msgstr "@niko_eyeclosed でも…"
+
+msgid "@niko4 I'm sorry for getting upset at you... back at the mines..."
+msgstr "@niko4 神様に当たっちゃって、ごめんなさい…\n鉱山にいた時…"
+
+msgid "@niko_eyeclosed ...I thought... for you to know all that, yet continue doing this..."
+msgstr "@niko_eyeclosed …神様がね…何もかも知ってて、それでも\nこういうことを続けてるのが…"
+
+msgid "@niko_upset2 It... just seemed cruel."
+msgstr "@niko_upset2 すごく…残酷に思えたんだ。"
+
+msgid "@niko2 But then, I realized something..."
+msgstr "@niko2 でもそしたら、気づいたんだ…"
+
+msgid "@niko4 You... really wanted to save both the world and me..."
+msgstr "@niko4 神様…本当は世界とミーを、両方とも\n救おうとしてくれてたんだね…"
+
+msgid "@niko_distressed But at the end, you can only choose one, right?"
+msgstr "@niko_distressed でも最後は、どっちかしか\n選べないんでしょ？"
+
+msgid "@niko_distressed_talk Is it... really hard for you too?"
+msgstr "@niko_distressed_talk そんなの…神様だって、つらいよね？"
+
+msgid "@niko_eyeclosed It must be..."
+msgstr "@niko_eyeclosed きっとそうだよね…"
+
+msgid "@niko3 ...\\.\\.if the world isn't broken...\\.\\. will that choice still be there?"
+msgstr "@niko3 …\\.\\.世界が壊れてなくても…\n\\.\\.選ばなきゃいけないのかな？"
+
+msgid "@niko4 ...do you...\\.\\. still need to choose between one or the other?"
+msgstr "@niko4 …それでも…\\.\\. どっちかを、選ばなきゃ\nいけないのかな？"
+
+msgid "@niko_sad But... even if it is..."
+msgstr "@niko_sad でも…もし、そうでも…"
+
+msgid "@niko_eyeclosed I... \\.\\.really want to save this world, \\p."
+msgstr "@niko_eyeclosed ミーは… \\.\\.この世界を\n救いたいよ、 \\p…"
+
+msgid "@niko_distressed2 Even if it's more dangerous this time around..."
+msgstr "@niko_distressed2 今回の旅が、どんなに危険でも…"
+
+msgid "@niko_distressed_talk Even if... so many of the nice people we met were.... \\>\\@niko_distressed_meow were..."
+msgstr "@niko_distressed_talk どんなに…今まで会った人たちが、もう… \\>\\@niko_distressed_meow もう…"
+
+msgid "@niko_sad ......"
+msgstr "@niko_sad ……"
+
+msgid "@niko_distressed_talk \\p.... \\>\\n\\@niko_less_sad I'm not.... \\.\\.afraid, anymore...."
+msgstr "@niko_distressed_talk \\p… \\>\\n\\@niko_less_sad ミーは… \\.\\.もう、怖くなんかないよ…"
+
+msgid "@niko_cry *sniff*"
+msgstr "@niko_cry ぐすん…"
+
+msgid "@niko_eyeclosed That's why...\\>\\n\\@niko3 I think you guys should let me go..."
+msgstr "@niko_eyeclosed だから…\\>\\n\\@niko3 ミーを行かせてほしい…"
+
+msgid "@niko_distressed2 I... promise I'll be okay..."
+msgstr "@niko_distressed2 絶対に…大丈夫だから…"
+
+msgid "@niko_distressed ...please?"
+msgstr "@niko_distressed …ダメかな？"
+
+msgid "@george1 ..."
+msgstr "@george1 …"
+
+msgid "@george1_hm George has heard your conversation with \\p and is deeply moved!"
+msgstr "@george1_hm 今の \\p との会話を聞いて、\n本当に感激したわ！"
+
+msgid "@george1_smug That's why... George has full faith in you!"
+msgstr "@george1_smug そうね…私、あなたを全面的に信頼するわ！"
+
+msgid "@george2_grr ...well, I'm convinced."
+msgstr "@george2_grr …はぁ、分かった分かった。"
+
+msgid "@george2 After all that...\\.\\. it'd be SUPER rude for me to stop you, wouldn't it?"
+msgstr "@george2 今のを聞いて…\\.\\. アンタを止めると思う？"
+
+msgid "@george3_sigh ...if you must..."
+msgstr "@george3_sigh …そこまで言うなら…"
+
+msgid "@george3_sad It... wouldn't be right for me to keep you..."
+msgstr "@george3_sad 引き止めるのは…良くないよね…"
+
+msgid "@george4_golly Ohhhh..... \\>\\n\\@george4_omg That was BEAUTIFUL!!!"
+msgstr "@george4_golly うわわ……\\>\\n\\@george4_omg もう、サイコー！！！"
+
+msgid "@george4_omg Kip!!! Did you hear that! The messiah was trying to encourage \\p!"
+msgstr "@george4_omg キップ！！今の聞いた！？救世主が\n\\p を励まそうと！"
+
+msgid "@kip_heh I'm right here..."
+msgstr "@kip_heh いや、私ずっとここに…"
+
+msgid "@george4_omg I KNOW RIGHT!!! IT HAPPENED RIGHT IN FRONT OF OUR EYES!!!"
+msgstr "@george4_omg そう！！！\nわたしたちの！まさに！目の前で！こんな！！！"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak …"
+
+msgid "@george4_oops ...sorry, got carried away..."
+msgstr "@george4_oops …ごめん、テンション上がっちゃった…"
+
+msgid "@george4 ...but yes, I think it's only right that we let you go!"
+msgstr "@george4 …でも、うん。ここでキミを行かせなきゃ\nあとで後悔しちゃうね！"
+
+msgid "@george5_sad Aww... sweetie..."
+msgstr "@george5_sad まあ…貴方って子は…"
+
+msgid "@george5_sigh You are so brave...\\.\\. even braver than most grown-ups..."
+msgstr "@george5_sigh 本当に、勇敢なのね…\\.\\. 大人たちよりも\nずっと勇気がある…"
+
+msgid "@george5_hmm It... wouldn't be right for us to keep you, would it?"
+msgstr "@george5_hmm そんな…貴方を引き止めるなんて、無理な話。"
+
+msgid "@george5_aww Besides, how can I say no to those puppy-dog eyes!"
+msgstr "@george5_aww それに、そんな子犬のような目で\n見つめられたら、断れっこないわ！"
+
+msgid "@george6_point Yo, kid...."
+msgstr "@george6_point ねー、チビくん…"
+
+msgid "@george6_smile You're real strong, you know that?"
+msgstr "@george6_smile You、マジ最強だわ。自覚ないっしょ？"
+
+msgid "@niko4 I..."
+msgstr "@niko4 えっと…"
+
+msgid "@george6_fingerguns Go knock 'em dead, tiger!"
+msgstr "@george6_fingerguns バーンと決めちゃいな！"
+
+msgid "@kip_heh Well, if George is fine with it..."
+msgstr "@kip_heh まあ、ジョージがそう言うなら…"
+
+msgid "@kip_sigh I... \\.\\.guess we should let you go now, messiah..."
+msgstr "@kip_sigh そうね… \\.\\.行ってきなさい、救世主…"
+
+msgid "@kip_pout But... promise us you'll be careful, okay?"
+msgstr "@kip_pout でも…必ず気をつけてね、約束よ？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@niko2 You guys be safe too..."
+msgstr "@niko2 みんなも元気でいてね…"
+
+msgid "Oh! You're not injured, are you?"
+msgstr "あっ！怪我はしてないよね？"
+
+msgid "The head librarian has converted her room into an infirmary for now..."
+msgstr "図書館長の部屋は、今は医務室として使われてるから…"
+
+msgid "If you need a place to rest, let me know."
+msgstr "休みたかったら、遠慮なく言ってね。"
+
+msgid "Or... let her know, I guess!"
+msgstr "それか…図書館長に、ね！"
+
+msgid "We're still waiting on another group of evacuees..."
+msgstr "まだ、他の避難者さんたちを待ってるの…"
+
+msgid "One of the apartments on the other side of town got REALLY messed up yesterday..."
+msgstr "昨日ね、街の向こう側にあるアパートが\n大変なことになっちゃって…"
+
+msgid "Oh, hello!"
+msgstr "あっ、こんばんは！"
+
+msgid "The library is currently being used as a shelter right now."
+msgstr "図書館は今、避難所として使用されてるの。"
+
+msgid "Lots of those squares are starting to show up on the streets..."
+msgstr "四角形が、道路にまでたくさん現れ始めてね…"
+
+msgid "@niko_eyeclosed I know..."
+msgstr "@niko_eyeclosed 知ってる…"
+
+msgid "AAAAAAAAAAAAAAAAAAA!"
+msgstr "あああああああああ！！！"
+
+msgid "THE WORLD IS ENDING WHAT ARE WE GONNA DO"
+msgstr "世界の終わりが近づいてきている！！\nいったいどうすれば！！！"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf その本に…何を…してるの？"
+
+msgid "Editing it!!!"
+msgstr "編集してんだよ！！"
+
+msgid "I've been in the Author's shadow for my entire career."
+msgstr "俺は作家として、ずっと「作者」の影に\n隠れてたんだ。"
+
+msgid "If I'm gonna die soon, I wanna die knowing I put out at least ONE original idea out there!"
+msgstr "もうすぐ死ぬっていうんなら、せめて1つぐらい、\n俺にしか思いつかないアイデアを\n世に出しておきたいだろ！"
+
+msgid "Despite all this...\\.\\. I still really wish I could've met the Author..."
+msgstr "まあ何だかんだ言ったけどさ…\\.\\.「作者」には、\n一度でいいから会ってみたかったな…"
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko 羽ペン付きのインクボトルだ。"
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c いろいろ思い出すね、 \\p？"
+
+msgid "Reading helps me get my mind off things..."
+msgstr "読書していると、余計なことを考えずに済む…"
+
+msgid "At least THAT's finally off my bucket list..."
+msgstr "夢が1つ叶ったぜ…"
+
+msgid "...y'know, I finally saw the Author today!"
+msgstr "…今日、ついに「作者」を見かけたんだ！"
+
+msgid "Well, his flying machine, at least!"
+msgstr "まあ、厳密には彼の空飛ぶ機械をな！"
+
+msgid "I was looking out one of the windows in the library and spotted it in the distance with my binoculars!"
+msgstr "図書館の窓から双眼鏡で覗いてたら、\n遠くで発見したんだぜ！"
+
+msgid "Isn't that cool, messiah?"
+msgstr "どうだ救世主、めっちゃスゴイだろ？"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed うん…"
+
+msgid "@niko_speak Oh! Um..."
+msgstr "@niko_speak あっ！あの…"
+
+msgid "@niko2 What book did Cedric take?"
+msgstr "@niko2 セドリックは、何て本を持っていったの？"
+
+msgid "@george1_hm \"The Creation of Prophetbot\", one of the Author's greatest works in my opinion."
+msgstr "@george1_hm 「預言者ロボの創造」よ。私に言わせれば、\n「作者」が執筆した本の中でも\n屈指の作品だわ。"
+
+msgid "@george1 It's filled to the brim with intricate illustrations and blueprints... \\>\\n\\@george1_smile Lots of attention to detail, for sure."
+msgstr "@george1 複雑な絵や設計図で溢れかえっていて… \\>\\n\\@george1_smile 随所に細部へのこだわりが見て取れるの。"
+
+msgid "@george1_hm George rates it 10 out of 10."
+msgstr "@george1_hm ジョージ・レビューでは、\n10点中10点というところかしら。"
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 へええ…"
+
+msgid "@george2_stress One of my favorites, thank you very much..."
+msgstr "@george2_stress お気に入りの一つなの、ありがとね…"
+
+msgid "@george2_sigh ...it's the Author's book detailing the creation of Prophetbot."
+msgstr "@george2_sigh …これは預言者ロボの制作を詳細に記した、\n作者の本なの。"
+
+msgid "@george2 And by \"detailing\", I mean it! \\>\\n\\@george2_sigh There's a TON of detail in that book."
+msgstr "@george2 ここでいう「詳細」ってのは、ホントに\n細っっっかくって意味だからね！ \\>\\n\\@george2_sigh とにかく本当に、細部まで書かれているの。"
+
+msgid "@george2_grr Blueprints, progress shots..."
+msgstr "@george2_grr 設計図やら、制作過程の写真やら…"
+
+msgid "@george2_sigh Took me forever to edit..."
+msgstr "@george2_sigh 編集にも死ぬほど時間かかったんだから…"
+
+msgid "@george3_sad ...the Author's book on the creation of Prophetbot..."
+msgstr "@george3_sad …預言者ロボの創造に関する、「作者」の本…"
+
+msgid "@george3_sigh ...you know...\\.\\. the first robot you met in our world..."
+msgstr "@george3_sigh …そう…\\.\\. あなたがこの世界で、最初に出会った\nロボットのこと…"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 うん。"
+
+msgid "@george3_worry ...oh...\\.\\. The book was quite detailed, too...."
+msgstr "@george3_worry …あぁ…\\.\\.あの本も、\nかなり詳細に書かれていたわね…"
+
+msgid "@george3_sigh It...\\.\\. would've been useful to your friend, I think..."
+msgstr "@george3_sigh きっと…\\.\\. あなたのお友達にも、\n役に立ってるわ…"
+
+msgid "@niko_eyeclosed ...yeah."
+msgstr "@niko_eyeclosed …そうだね。"
+
+msgid "@george4 The Author's book on the creation of Prophetbot!"
+msgstr "@george4 預言者ロボの創造について書いた\n「作者」の本だよ！"
+
+msgid "@george4_golly Remember Prophetbot? \\.\\.The first robot you met in our world?"
+msgstr "@george4_golly 預言者ロボって覚えてる？ \\.\\.この世界で、キミが\n初めて出会ったロボットのこと！"
+
+msgid "@george4_omg He's a work of art!!!"
+msgstr "@george4_omg カレって、まさしく芸術作品だよね！"
+
+msgid "@george4_smile The Author's book was so detailed... \\.\\.really made me appreciate how much work went into him!"
+msgstr "@george4_smile 「作者」の本に、とっても細かく書かれてて… \\.\\.\nあのロボットにどれだけの熱意を\n注いでたのか、すっごく伝わってきんだ！"
+
+msgid "@george5_hmm \"The Creation of Prophetbot\", dear.\\>\\n\\@george5_heh It's one of my favorite books by the Author!"
+msgstr "@george5_hmm 「預言者ロボの創造」ね。\\>\\n\\@george5_heh 「作者」の本で、一番のお気に入りなのよ！"
+
+msgid "@george5_hmm The book contains many detailed blueprints and progress shots."
+msgstr "@george5_hmm この本には、細かく記した設計図と、制作過程の\n写真がたくさん掲載されているの。"
+
+msgid "@george5_smile I really enjoyed editing it!"
+msgstr "@george5_smile 編集作業をしていて、本当に楽しかったわ！"
+
+msgid "@george6_point You remember Prophetbot? \\>\\n\\@george6 The first robot you met in our world?"
+msgstr "@george6_point 預言者ロボってヤツ覚えてるー？ \\>\\n\\@george6 この世界で、Youが最初に会ったロボットのこと！"
+
+msgid "@niko ...yeah?"
+msgstr "@niko …うん。"
+
+msgid "@george6_smile The Author wrote a book on how he was made!\\>\\n\\@george6_shrug It's one of his best works, bruh."
+msgstr "@george6_smile そのロボをどうやって\n作ったかっつー「作者」の本なのヨ！\\>\\n\\@george6_shrug マジ、チョー最高傑作。"
+
+msgid "@george6 You just gotta love that guy's attention to detail... all the little parts that just came together..."
+msgstr "@george6 アイツのこだわり、ホントヤバイよ…\nどこを読んでも感動、みたいな…"
+
+msgid "@george6_point ...was the freshest book I've ever edited, man!"
+msgstr "@george6_point …ウチが編集やってきて、いっちばん\nクールな本だったわ！"
+
+msgid "@niko A small pile of books."
+msgstr "@niko 小さく積まれた本。"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[THIS IS THE LIBRARY / TEMPORARY SHELTER.]"
+msgstr "[ここハ、図書館 兼 一時避難所でス。]"
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[何カ必要なのですカ？\n正面ニ来てくださイ。]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS CURRENTLY BEING USED AS AN INFIRMARY.]"
+msgstr "@bookbot [収蔵庫ハ現在、医務室として\n使用されていまス。]"
+
+msgid "@bookbot [WE APOLOGIZE FOR THE INCONVENIENCE.]"
+msgstr "@bookbot [ご不便ヲおかけして、\n申し訳ございませン。]"
+
+msgid "@niko_eyeclosed It's okay..."
+msgstr "@niko_eyeclosed 大丈夫…"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko コンピューターだ。今は電源が切れてる。"
+
+msgid "Everyone here should be safe for now..."
+msgstr "ひとまず、ここにいればみんな平気よ…"
+
+msgid "This library was built fairly recently, you know..."
+msgstr "この図書館は、かなり最近に建てられたものなのよ…"
+
+msgid "Shortly after the first squares appeared, they wanted to build something that could withstand partial collapse."
+msgstr "四角形が初めて出現した後すぐに、人々は\n局所的な崩壊に耐えられるような建物を\n作ろうとした。"
+
+msgid "The architects used the newest, strongest materials they had."
+msgstr "建築家は、当時の最新かつ\n最高強度を誇る材料を使用したの。"
+
+msgid "...Thank goodness for that."
+msgstr "…そのことに感謝ね。"
+
+msgid "I hope the Author is safe..."
+msgstr "「作者」は無事だといいけど…"
+
+msgid "I wonder where the Author is..."
+msgstr "「作者」は今どこにいるんだろうか…"
+
+msgid "Apparently he just kinda... stopped showing up."
+msgstr "急に…姿を全く見せなくなったみたいでね。"
+
+msgid "The head librarian says she's still getting his manuscripts, but..."
+msgstr "図書館長が言うには、「作者」の原稿は\nまだ送られてきているらしいけど…"
+
+msgid "No one has seen him in person in so long..."
+msgstr "直接見たことのある人なんて、もうずっといない…"
+
+msgid "@niko2 ..."
+msgstr "@niko2 …"
+
+msgid "....sigh."
+msgstr "…はぁ。"
+
+msgid "Many people have been assuming the worst."
+msgstr "みんな、最悪の結果を想像してる。"
+
+msgid "I hope my friends are okay!"
+msgstr "ぼくの友達、みんな無事だといいな！"
+
+msgid "Another group of evacuees should be arriving soon..."
+msgstr "他の避難者たちが、もうすぐやってくるはず…"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko 本が棚にきちんとに並んでる。"
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko 本がきちんと棚に並んでる。"
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko 並べられた本がきちんと棚にある。"
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko 棚にはきちんと並べられた本がある。"
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko きちんと並べられた本が棚にある。"
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko きちんと棚には並べられた本がある。"
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko 並べられた本が棚にきちんとある。"
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko 本が棚にあって、きちんと並べられてる。"
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko 本が床に山積みになってる。"
+
+msgid "@kip_pout Please be careful out there..."
+msgstr "@kip_pout 気をつけてね…"
+
+msgid "@niko A book!"
+msgstr "@niko 本だ！"
+
+msgid "Sigh...."
+msgstr "はぁ…"
+
+msgid "I had to leave my aquarium behind when they were sounding the sirens earlier..."
+msgstr "さっきサイレンが鳴ってね。水槽は\n置いていくしかなかった…"
+
+msgid "I wish I had time to rescue my fish..."
+msgstr "あの子たちを助けにいく時間があれば…"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[本ヲ棚に戻していまス…]"
+
+msgid "Well, it was nice knowing y'all I suppose..."
+msgstr "ま、そうさね。\nあんたらに会えて、よかったよ…"
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "世界が滅びるなら、パッと消えてなくなるか、\nそれとも、ジワジワと滅びていくか…\n…あんたなら、どっちを選ぶかね？"
+
+msgid "Haha... looks like we're stuck with the latter."
+msgstr "ヒヒ…あたしらには後者しか残されてないがね。"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko 高く山積みされた本。"
+
+msgid "@niko Hi."
+msgstr "@niko やあ。"
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[本ヲ棚に戻していまス。]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[本の落下ニご注意くださイ。]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 分かった！"
+
+msgid "I won't lose hope."
+msgstr "でも希望は捨てないことにしよう。"
+
+msgid "Sigh..."
+msgstr "はぁ…"
+
+msgid "It's comforting to see the faith you have in \\p, messiah..."
+msgstr "君の \\p に対する信念を見ていると、\nこっちも安心するよ、救世主さま…"
+
+msgid "That's why... I won't lose hope either."
+msgstr "おかげで…僕も希望を抱いていられる。"
+
+msgid "@niko Coffee cups."
+msgstr "@niko コーヒーカップだ。"
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak コーヒーは大人の飲み物だよね！"
+
+msgid "HEY IM GIR I MADE AN EVENT DOOT DOOT MOTHER FUCKER"
+msgstr "HEY IM GIR I MADE AN EVENT DOOT DOOT MOTHER FUCKER"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed うん…まだハシゴは怖いや。"
+
+msgid "Y'know, now that everyone's coming to me for help..."
+msgstr "助けてくれー！って\nよく頼られるようになってさ、その…"
+
+msgid "...it really makes me appreciate you more, messiah!"
+msgstr "…あんたには改めて感謝しなきゃな、救世主！"
+
+msgid "Thank you for all you've done for us."
+msgstr "俺たちのために、今まで\n頑張ってくれてありがとな。"
+
+msgid "Looks like my life's work is finally being put to good use!"
+msgstr "ついに、俺の人生をかけた商品が役に立つ\n日が来たようだな！"
+
+msgid "As long as we conserve the water we have on hand..."
+msgstr "残された水を節約していけば…"
+
+msgid "...my water pills should be able to keep everyone here from going thirsty for weeks!"
+msgstr "…このカプセルさえあれば、ここにいる住民が\n脱水症状になっちまうことはない！"
+
+msgid "@niko A coffee machine."
+msgstr "@niko コーヒーを作る機械。"
+
+msgid "@niko It's almost empty..."
+msgstr "@niko ほとんど空っぽだ…"
+
+msgid "@niko This stand smells... sugary."
+msgstr "@niko この屋台…甘い匂いがする。"
+
+msgid "Candy skewers, fresh off the grill!"
+msgstr "キャンディーの串焼き、焼き立てですよー！"
+
+msgid "...Not very nutritious, I'm afraid."
+msgstr "…あんまり栄養はないけど、ね。"
+
+msgid "But at least they'll keep the evacuees from gettin' hungry!"
+msgstr "でもしばらくの間、避難者たちの\n空腹は満たせるはず！"
+
+msgid "@niko A photo of some plants."
+msgstr "@niko 植物の写真。"
+
+msgid "The city gate was destroyed a while back, I can't go into the Glen anymore..."
+msgstr "少し前に街のゲートが壊れてさ、もう峡谷には\n行けなくなっちまった…"
+
+msgid "I'm not sure where I'll be able to get my supply of fish, at this rate..."
+msgstr "これから、どこで魚を確保すりゃいいのかな…"
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko 何かの飾り版。"
+
+msgid "I still have plenty of these soup dumplings left!"
+msgstr "まだ小籠包は沢山あるぞ！"
+
+msgid "Looks like it should feed everyone here for at least another day."
+msgstr "この量なら、あと一日はもつだろう。"
+
+msgid "@niko_what2 (This guy scares me, \\p...!)"
+msgstr "@niko_what2 （この男の人、すっごく恐いよ、\n\\p…！）"
+
+msgid "..."
+msgstr "…"
+
+msgid "....WHAT!? You need something?!"
+msgstr "…何だ！？用でもあんのか！？"
+
+msgid "@niko_huh No...?"
+msgstr "@niko_huh ないよ…？"
+
+msgid "Suit yourself."
+msgstr "なら好きにしな。"
+
+msgid "BUT, just so that you know."
+msgstr "だが、言っておくけどな。"
+
+msgid "Due to recent events, the restriction on noise levels in the library has been temporarily lifted."
+msgstr "最近色々あったせいで、図書館の騒音制限が\n一時的に解除されたんだよ。"
+
+msgid "...So I WON'T be kicking people out like before."
+msgstr "…だから別に、前みたいに\n人を追い出したりしねえよ。"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what あの…"
+
+msgid "....WHAT???"
+msgstr "…ああ？？"
+
+msgid "You think I'm gonna be throwing out the evacuees just cuz I'm a delinquent stuck doing community service???"
+msgstr "社会奉仕させられてる犯罪者だからっつって、\n俺が避難者を追い出すとでも思ってんのか？？？"
+
+msgid "@niko_what ...No...?"
+msgstr "@niko_what …ううん…？"
+
+msgid "Good!!! Because I'm NOT!!!!!"
+msgstr "ならいい！！ 俺はそんな奴じゃないからなあ！！！"
+
+msgid "Looks like I'll have to cancel my appointment..."
+msgstr "予約は全部キャンセルか…"
+
+msgid "This stinks!"
+msgstr "最悪だ！"
+
+msgid "@niko A photo of some people."
+msgstr "@niko 人の写真。"
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[夕刊でス！夕刊でス！]"
+
+msgid "[EVERYTHING IS TERRIBLE]"
+msgstr "[何もかもガ、大変なことになっていまス。]"
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [何かご質問ですカ。\n正面に来てくださイ。]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko 大丈夫、ありがとう！"
+
+msgid "@kelvin [The world is going to be much colder soon.]"
+msgstr "@kelvin [世界はもうすぐ、もっと寒くなる。]"
+
+msgid "@kelvin [At least... I can keep everyone here warm.]"
+msgstr "@kelvin [ここなら… 私が\n皆を暖めてあげられる。]"
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko 本のタイトル一覧が\nここに書かれているみたい…"
+
+msgid "ZZZZZZZZZZZZZZZZ"
+msgstr "ZZZZZZZZZZZZZZZZZ"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak 表紙に黒いクローバーが描かれた大きな本。"
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko タイトルは「蛍光体の総合ガイド」だって。"
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko マーカーで描かれたクローバーの絵。"
+
+msgid "@niko_eyeclosed She's asleep..."
+msgstr "@niko_eyeclosed 寝てるみたい…"
+
+msgid "*yawn*"
+msgstr "ふわぁ…"
+
+msgid "The lab complex got totaled, didn't it...."
+msgstr "研究施設はほぼ全壊みたいね…"
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 うん…"
+
+msgid "All those hours I put into my work, and now..."
+msgstr "仕事にあれだけ時間を費やしたのに…今は…"
+
+msgid "now...."
+msgstr "今はもう…"
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed 寝ちゃった…"
+
+msgid "@niko A marker eraser."
+msgstr "@niko ホワイトボード消し。"
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko タイトルは「太陽消滅後の世界における、\n新しい生態的地位の出現」だって。"
+
+msgid "Monitoring... monitoring..."
+msgstr "監視中…監視中…"
+
+msgid "Looks like our scouting unit #A27 is still doing okay..."
+msgstr "偵察ユニット#A27はまだ無事のようだ…"
+
+msgid "@niko A green marker."
+msgstr "@niko 緑色のマーカー。"
+
+msgid "kip card"
+msgstr "キップのカード"
+
+msgid "Robots are the only ones that we can send out there, now..."
+msgstr "あの場所に送り出せるのは、もはや\nロボットだけなのだよ…"
+
+msgid "Thankfully, we still have a couple of units that aren't too badly damaged..."
+msgstr "だが幸運にも、損傷の軽いユニットが\nまだいくつかある…"
+
+msgid "This little guy ran into some squares earlier and managed to escape mostly intact."
+msgstr "先ほど、この小さいのが四角形に遭遇したのだが、\nほとんど無傷で脱出したのだよ。"
+
+msgid "These newer models are pretty tough!"
+msgstr "最新モデルはなかなか頑丈だな！"
+
+msgid "I just like looking at pictures."
+msgstr "絵を見るのが好きなんだ。"
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak 読むのがすごく早いね！"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "だって、ほとんど絵だもん！"
+
+msgid "The Author is an artist too, y'know!"
+msgstr "「作者」は芸術家でもあるんだよ！"
+
+msgid "@niko_eyeclosed I could tell, yeah..."
+msgstr "@niko_eyeclosed それは知ってる、うん…"
+
+msgid "@niko A blue marker."
+msgstr "@niko 青色のマーカー。"
+
+msgid "niko card"
+msgstr "ニコのカード"
+
+msgid "@niko A red marker."
+msgstr "@niko 赤色のマーカー。"
+
+msgid "glittery"
+msgstr "キラキラ光る"
+
+msgid "His books are the only things keeping me going in these trying times."
+msgstr "彼の本があるから、僕はこのような試練も\n乗り越えることができている。"
+
+msgid "With the world being the way it is now..."
+msgstr "世界がこのような状態になってしまった今…"
+
+msgid "I'm just glad The Author was able to write down all this stuff before everything went off the rails."
+msgstr "全てがおかしくなってしまう前に、\n「作者」がこれだけのことを書き留めておいて\nくれて、本当に良かったよ。"
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "この本がどんな結末を迎えるのか、\nどうしても知りたいんだよ…"
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 うーん…"
+
+msgid "IF I DIE I WANNA DIE READING!"
+msgstr "死ぬ時は、本を読みながら死んでやるぜ！！"
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko このホワイトボードは金属製だね。"
+
+msgid "cardquest + desk"
+msgstr "カードクエスト + デスク"
+

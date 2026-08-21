@@ -1,0 +1,45 @@
+msgid "@niko Well that was fun."
+msgstr "@niko 楽しかったね。"
+
+msgid "@niko Hello..."
+msgstr "@niko こんばんは…"
+
+msgid "[ROOM UNDER CONSTRUCTION]"
+msgstr "[建設中]"
+
+msgid "[TILES HAVE NOT BEEN FULLY PLACED]"
+msgstr "[タイルがまだ配置されていません]"
+
+msgid "[YOU SHOULD NOT BE HERE YET]"
+msgstr "[ここはまだ利用できません]"
+
+msgid "@niko ...alright."
+msgstr "@niko …分かったよ。"
+
+msgid "[\"Again! Again!\", \"Once is enough!\"]"
+msgstr "[\"もう一度！もう一度だ！\",\"一度で十分！\"]"
+
+msgid "@niko Okay!"
+msgstr "@niko 分かった！"
+
+msgid "@niko I'm not sure what this is."
+msgstr "@niko これは何だろ。"
+
+msgid "@niko_speak It's like a little car!"
+msgstr "@niko_speak ちっちゃな車みたい！"
+
+msgid "[\"You should ride on it!\", \"Resist urge to ride on it.\"]"
+msgstr "[\"乗るべきだ！\",\"乗りたい衝動を抑えるんだ。\"]"
+
+msgid "@niko ... \\>\\n\\@niko_speak What?"
+msgstr "@niko … \\>\\n\\@niko_speak えっ？"
+
+msgid "[\"Do it!\"]"
+msgstr "[\"やるんだ！\"]"
+
+msgid "@niko Um...."
+msgstr "@niko えっと…"
+
+msgid "@niko_eyeclosed I wasn't going to, \\p..."
+msgstr "@niko_eyeclosed 元々そんなつもりなかったよ、 \\p…"
+

@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Os vaga-lumes iluminam a sala."
+
+msgid "@niko Full of dried beans."
+msgstr "@niko Vários grãos secos."
+
+msgid "@niko An empty jar."
+msgstr "@niko Um pote vazio."
+
+msgid "I'm getting dizzy!"
+msgstr "Estou entontecendo!"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed Eu disse!"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak Por que você está girando desse jeito?"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak Você vai ficar tonta!"
+
+msgid "I'm the Tower!"
+msgstr "Eu sou a Torre!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Hein?"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "Vovô diz que a Torre não parava de girar e trazia a luz do sol ao mundo!"
+
+msgid "I wanna see it too!"
+msgstr "Eu queria ver isso!"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp Eu também!"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout Só vi o sol quando era bebê..."
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko Bom, agora estou aqui..."
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko Acho que agora é só mais uma questão de tempo."
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko Sua cabeça vai dar um nó se você continuar girando assim..."
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak Ervilhas!"
+

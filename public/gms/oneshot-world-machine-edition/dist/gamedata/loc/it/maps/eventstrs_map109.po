@@ -1,0 +1,39 @@
+msgid "@Niko A landscape painting."
+msgstr "@niko Il dipinto di un paesaggio."
+
+msgid "[Are You. An Intruder?]"
+msgstr "[Ehi, Tu. Sei Un Intruso?]"
+
+msgid "[Because If You Are... I, Model 8-XM Home Security Bot (TM) Serial Number 39232B839W4, Will Have To Report You.]"
+msgstr "[Perché In Tal Caso... Io, Robot Di Sicurezza Modello 8-XM (TM) Numero Di Serie 39232B839W4, Dovrò Segnalarti.]"
+
+msgid "@niko Oh, sorry..."
+msgstr "@niko Oh, scusa..."
+
+msgid "@niko_eyeclosed I... kinda just walked in because the door was unlocked..."
+msgstr "@niko_eyeclosed Sono... Sono entrato perché la porta era aperta..."
+
+msgid "@niko_speak Do you want me to leave?"
+msgstr "@niko_speak Vuoi che me ne vada?"
+
+msgid "[Scanning for Suspicious Activity.\\..\\..\\.]"
+msgstr "[Controllo Per Attività Sospette.\\..\\..\\.]"
+
+msgid "[Suspicious Activities Detected: 0 ]"
+msgstr "[Attività Sospette Rilevate: 0.]"
+
+msgid "@niko_eyeclosed Well, I guess as long as I don't do anything bad..."
+msgstr "@niko_eyeclosed Beh, finché non faccio nulla di male..."
+
+msgid "[I Am. Still Monitoring You]"
+msgstr "[Non Ho Ancora Finito Di: Monitorarti.]"
+
+msgid "[Alert Level Has Been Set To Low]"
+msgstr "[Il Livello Di Allarme È Stato Impostato Al Minimo.]"
+
+msgid "@niko_speak Don't worry! I promise I'll be a good guest!"
+msgstr "@niko_speak Non preoccuparti! Prometto che sarò un buon ospite!"
+
+msgid "@niko An abstract painting."
+msgstr "@niko Un dipinto astratto."
+

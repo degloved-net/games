@@ -1,0 +1,1269 @@
+msgid "@george1 Miss Silverpoint! \\.\\.You've returned!"
+msgstr "@george1 Mlle Silverpoint ! \\.\\.Vous êtes revenue !"
+
+msgid "@george1_hm AHA! George sees that you have found the messiah!"
+msgstr "@george1_hm HA ! George voit que vous avez trouvé le messie !"
+
+msgid "@kip_sigh ...yeah."
+msgstr "@kip_sigh ... Oui."
+
+msgid "@kip_pout ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_pout ... On est tombés l'un sur l'autre après que ce garçon ait pénétré dans le laboratoire..."
+
+msgid "@george2_grr Well well well, look who's back!"
+msgstr "@george2_grr Eh bien, regardez qui revoilà !"
+
+msgid "@george2_no How about next time you LET ME KNOW BEFORE YOU LEAVE THE SHELTER TO GO INTO A LITERAL DEATH ZONE!"
+msgstr "@george2_no Et si la prochaine fois vous ME PRÉVENIEZ QUE VOUS QUITTEZ L'ABRI POUR ALLER DANS UNE ZONE MORTELLE !"
+
+msgid "@kip_heh Sorry..."
+msgstr "@kip_heh Pardon..."
+
+msgid "@george2_sigh I get so worried, y'know..."
+msgstr "@george2_sigh Je m'inquiète beaucoup, des fois..."
+
+msgid "@george2 ....\\.\\.Hey! You found the messiah!"
+msgstr "@george2 ... \\.\\.Hé ! Vous avez trouvé le messie !"
+
+msgid "@george3_sad ...Kip. \\.\\.You made it back..."
+msgstr "@george3_sad ... Kip. \\.\\.Vous êtes de retour..."
+
+msgid "@george3_sigh I was so worried...."
+msgstr "@george3_sigh J'étais très inquiète..."
+
+msgid "@george3_worry ...um...."
+msgstr "@george3_worry ... Hum..."
+
+msgid "@george3_worry ...I see...\\.\\. I see you've found the messiah..."
+msgstr "@george3_worry Vous... \\.\\.Vous avez trouvé le messie..."
+
+msgid "@george4 Kip! \\.\\.You're alive!"
+msgstr "@george4 Kip ! \\.\\.Vous êtes en vie !"
+
+msgid "@george4_oops You...\\.\\. um, should really tell me before you leave next time..."
+msgstr "@george4_oops Vous... \\.\\.euh, prévenez-moi la prochaine fois que vous partez..."
+
+msgid "@george4_smile It's fine!"
+msgstr "@george4_smile Tout va bien !"
+
+msgid "@george4_omg Oh my gosh... you found the messiah too?"
+msgstr "@george4_omg Bon sang... Vous avez aussi trouvé le messie ?"
+
+msgid "@george5 Hello, Miss Silverpoint! \\.\\.I'm glad you've made it back safely."
+msgstr "@george5 Bonjour, Mlle Silverpoint ! \\.\\.Je suis contente de vous voir saine et sauve."
+
+msgid "@george5_sigh Gosh... you should have told me where you were going!"
+msgstr "@george5_sigh Bon sang... Vous auriez dû me dire où vous alliez !"
+
+msgid "@kip_heh Sorry, George..."
+msgstr "@kip_heh Pardon, George..."
+
+msgid "@george5 I... see you also found the messiah!"
+msgstr "@george5 Vous... Vous avez trouvé le messie !"
+
+msgid "@george5_smile Hello, little one!"
+msgstr "@george5_smile Bonjour !"
+
+msgid "@niko Hi..."
+msgstr "@niko Bonjour..."
+
+msgid "@kip_sigh ...we...\\.\\. ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh ... On...\\.\\. On est tombés l'un sur l'autre après que ce garçon a pénétré dans le laboratoire..."
+
+msgid "@george6_point Eyy Kip! \\.\\.You made it back in one piece!"
+msgstr "@george6_point Kip ! \\.\\.Vous êtes revenue en un seul morceau !"
+
+msgid "@george6_shrug Ya kinda left the shelter without tellin' me...\\>\\nSure gave me a good scare back there!"
+msgstr "@george6_shrug Vous êtes partie sans prévenir... \\>\\nÇa m'a fait une de ces peurs !"
+
+msgid "@george6 Whoaa! You found the messiah too?"
+msgstr "@george6 Ouah ! Vous avez aussi trouvé le messie ?"
+
+msgid "@george6_fingerguns Sweeet."
+msgstr "@george6_fingerguns Supeeer."
+
+msgid "@george6_point How's it goin', lil fella?"
+msgstr "@george6_point Comment ça va ?"
+
+msgid "@niko_eyeclosed Bad."
+msgstr "@niko_eyeclosed Pas terrible."
+
+msgid "@george6_shrug Oh same."
+msgstr "@george6_shrug Oh, moi pareil."
+
+msgid "@kip_pout ...we, um."
+msgstr "@kip_pout ... On, euh."
+
+msgid "@kip_sigh ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh ... On est tombés l'un sur l'autre après que ce garçon a pénétré dans le laboratoire..."
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad Je...\\.\\. n'ai pas pu l'arrêter..."
+
+msgid "@kip_pout I don't know why he was being so insistent!"
+msgstr "@kip_pout Je ne sais pas pourquoi il insistait autant !"
+
+msgid "@niko4 He... \\.\\.he said he needed to go rebuild a robot..."
+msgstr "@niko4 Il... \\.\\.a dit qu'il devait reconstruire un robot..."
+
+msgid "@kip_pout Oh, you know him?"
+msgstr "@kip_pout Oh, tu le connais ?"
+
+msgid "@niko_eyeclosed Yeah."
+msgstr "@niko_eyeclosed Oui."
+
+msgid "@george1_hm AHA! Building a robot!"
+msgstr "@george1_hm HA ! Reconstruire un robot !"
+
+msgid "@george1 So THAT's what he needed that book for!"
+msgstr "@george1 C'est pour ÇA qu'il avait besoin de ce livre !"
+
+msgid "@niko2 ...come again?"
+msgstr "@niko2 ... Quoi ?"
+
+msgid "@george1 A boy with white hair and goggles ran in here not long ago."
+msgstr "@george1 Un garçon avec des cheveux blancs et des lunettes est venu ici il n'y a pas très longtemps."
+
+msgid "@niko_eyeclosed That's Cedric, yeah..."
+msgstr "@niko_eyeclosed Oui, c'est Cedric..."
+
+msgid "@george1 He grabbed one of the books from my (very impressive) archives upstairs and bolted straight out."
+msgstr "@george1 Il a pris un des livres dans mes (très impressionnantes) archives à l'étage et il s'est sauvé."
+
+msgid "@george1_smile Said it was an emergency so George let it slide."
+msgstr "@george1_smile Il a dit que c'était urgent, alors George l'a laissé filer."
+
+msgid "@george1 George hopes he's okay..."
+msgstr "@george1 George espère qu'il va bien..."
+
+msgid "@george2_grr Robot..."
+msgstr "@george2_grr Robot..."
+
+msgid "@george2_sigh That's why he needed that book so badly..."
+msgstr "@george2_sigh C'est pour ça qu'il avait besoin de ce livre..."
+
+msgid "@george2 Y'all talking about a kid with white hair and goggles?"
+msgstr "@george2 Vous parlez bien d'un garçon avec des cheveux blancs et des lunettes ?"
+
+msgid "@niko2 That's Cedric, yeah..."
+msgstr "@niko2 Oui, c'est Cedric..."
+
+msgid "@george2_stress He ran in here earlier, grabbed one of the books from my archives, and ran straight out the door."
+msgstr "@george2_stress Il est passé plus tôt, il a pris un livre dans mes archives et il a filé."
+
+msgid "@george2_stress ...without even going through checkout!"
+msgstr "@george2_stress ... Sans passer par l'enregistrement !"
+
+msgid "@george2_no THE NERVE OF THAT KID!"
+msgstr "@george2_no QUEL CULOT !"
+
+msgid "@niko4 Um..."
+msgstr "@niko4 Hum..."
+
+msgid "@george2_grr Said it was an emergency, so I didn't bother stopping him."
+msgstr "@george2_grr Il a dit que c'était urgent, alors je l'ai laissé filer."
+
+msgid "@george2_sigh I... hope he doesn't get himself killed out there."
+msgstr "@george2_sigh J'espère... qu'il ne se fera pas tuer."
+
+msgid "@george3 ...robot..."
+msgstr "@george3 ... Robot..."
+
+msgid "@george3 Are you talking about...\\.\\. a boy with white hair and googles?"
+msgstr "@george3 Vous parlez bien... \\.\\.d'un garçon avec des cheveux blancs et des lunettes ?"
+
+msgid "@george3 He..."
+msgstr "@george3 Il..."
+
+msgid "@george3 He said he really needed a book from the backroom and said it was an emergency and I let him have it and he ran out and..."
+msgstr "@george3 Il a dit qu'il avait besoin d'un livre de l'arrière-salle et que c'était urgent alors je l'ai laissé faire et il est parti et..."
+
+msgid "@george3_sigh Oh.... I should have stopped him...."
+msgstr "@george3_sigh Oh... J'aurais dû l'arrêter..."
+
+msgid "@george3_worry I hope he's...\\.\\. okay..."
+msgstr "@george3_worry J'espère qu'il... \\.\\.va bien..."
+
+msgid "@george4_golly A robot!"
+msgstr "@george4_golly Un robot !"
+
+msgid "@george4_golly ...no wonder why he needed that book!"
+msgstr "@george4_golly ... C'est pour ça qu'il avait besoin de ce livre !"
+
+msgid "@george4 We are talking about the same boy, right?"
+msgstr "@george4 On parle bien du même garçon, n'est-ce pas ?"
+
+msgid "@george4_golly Hat... white hair... goggles..."
+msgstr "@george4_golly Chapeau... cheveux blancs... lunettes..."
+
+msgid "@george4_golly He, um..."
+msgstr "@george4_golly Il, euh..."
+
+msgid "@george4 He grabbed a book from the back room and then just bolted straight out!"
+msgstr "@george4 Il a pris un livre dans l'arrière-salle et il a filé !"
+
+msgid "@george4_oops He said it was an emergency, so I didn't try to stop him..."
+msgstr "@george4_oops Il a dit que c'était urgent, alors je l'ai laissé faire..."
+
+msgid "@george4_golly Gosh... I hope he's okay..."
+msgstr "@george4_golly Bon sang... J'espère qu'il va bien..."
+
+msgid "@george5 Building a robot, you say?"
+msgstr "@george5 Vous parlez de construire un robot, c'est ça ?"
+
+msgid "@george5 Could that be... why he needed that book?"
+msgstr "@george5 Est-ce pour ça... qu'il avait besoin de ce livre ?"
+
+msgid "@george5 Ah... a young man with white hair and green glasses ran in earlier."
+msgstr "@george5 Ah... Un jeune homme avec des cheveux blancs et des lunettes vertes est passé plus tôt."
+
+msgid "@george5 He said he really needed a book from the backroom... said it was an emergency, too!"
+msgstr "@george5 Il a dit qu'il avait besoin d'un livre de l'arrière-salle... et que c'était urgent !"
+
+msgid "@george5_hmm Poor darling looked so stressed out... so I just gave him the book..."
+msgstr "@george5_hmm Le pauvre, il avait l'air tellement stressé... alors je lui ai donné le livre..."
+
+msgid "@george5 I hope he is safe..."
+msgstr "@george5 J'espère qu'il va bien..."
+
+msgid "@george6 Robot, eh?"
+msgstr "@george6 Un robot, hein ?"
+
+msgid "@george6 Y'all talkin' about a lil' dude with white hair and goggles, right?"
+msgstr "@george6 Vous parlez bien d'un gamin avec des cheveux blancs et des lunettes ?"
+
+msgid "@niko4 That's Cedric, yeah..."
+msgstr "@niko4 Oui, c'est Cedric..."
+
+msgid "@george6 Bruh ran off with one of my books!"
+msgstr "@george6 Le gars est parti avec un de mes livres !"
+
+msgid "@george6_shrug Said it was an emergency, so I just let 'im have it."
+msgstr "@george6_shrug Il a dit que c'était urgent, alors je le lui ai laissé."
+
+msgid "@george6 Hope he didn't run into trouble, dude..."
+msgstr "@george6 J'espère que tout va bien pour lui..."
+
+msgid "@kip_sigh Yeah... I hope he's alright, too..."
+msgstr "@kip_sigh Oui... J'espère qu'il va bien moi aussi..."
+
+msgid "@kip_pout With any luck, maybe the lab complex can hold up long enough for him to..."
+msgstr "@kip_pout Avec un peu de chance, le complexe tiendra peut-être assez longtemps pour qu'il..."
+
+msgid "@kip_worry Oh my gosh.... \\>It..."
+msgstr "@kip_worry Oh non... \\>Ce..."
+
+msgid "@kip_worry That was..."
+msgstr "@kip_worry C'était..."
+
+msgid "@niko3 ...the labs?"
+msgstr "@niko3 ... les labos ?"
+
+msgid "@kip_worry That poor kid!!!"
+msgstr "@kip_worry Le pauvre !!!"
+
+msgid "@niko_shock No!!!"
+msgstr "@niko_shock Non !!!"
+
+msgid "@niko_distressed_meow Not him too!!!!"
+msgstr "@niko_distressed_meow Pas lui aussi !!!"
+
+msgid "@kip_sad I'm..."
+msgstr "@kip_sad Je..."
+
+msgid "@kip_sigh I'm sorry about your friend..."
+msgstr "@kip_sigh Je suis désolée pour ton ami..."
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@niko_distressed ...the last time we spoke, he told me to go look for someone on the surface."
+msgstr "@niko_distressed ... La dernière fois qu'on a discuté, il m'a demandé de chercher quelqu'un à la surface."
+
+msgid "@niko4 I... \\.\\.I need to get going."
+msgstr "@niko4 Je... \\.\\.Je dois y aller."
+
+msgid "@george1 George... \\.\\.\\@george1_hm WON'T let you go out there!"
+msgstr "@george1 George... \\.\\.\\@george1_hm ne te laissera PAS y aller !"
+
+msgid "@george1_hm The messiah will not walk into danger on my watch!"
+msgstr "@george1_hm Le messie ne se mettra pas en danger tant que je serai là !"
+
+msgid "@niko3 But..."
+msgstr "@niko3 Mais..."
+
+msgid "@george2_stress Are you KIDDING ME??"
+msgstr "@george2_stress Tu te FICHES DE MOI ??"
+
+msgid "@george2_grr Kid, there is NO way we're letting you out there."
+msgstr "@george2_grr Il est HORS DE QUESTION qu'on te laisse y aller."
+
+msgid "@niko3 But I really have to..."
+msgstr "@niko3 Mais il le faut..."
+
+msgid "@george3_worry Um...\\.\\. um..."
+msgstr "@george3_worry Hum... \\.\\.hum..."
+
+msgid "@george3_cry You...\\.\\. shouldn't go out there....!"
+msgstr "@george3_cry Tu...\\.\\. ne devrais pas y aller... !"
+
+msgid "@niko_distressed But..."
+msgstr "@niko_distressed Mais..."
+
+msgid "@george3_worry Oh.... \\.\\.help me out here, Kip...."
+msgstr "@george3_worry Oh... \\.\\.Kip, aidez-moi..."
+
+msgid "@george4 ...messiah, please."
+msgstr "@george4 ... Messie, je t'en prie."
+
+msgid "@george4_golly We don't... want you to go out there."
+msgstr "@george4_golly Nous ne... voulons pas que tu y ailles."
+
+msgid "@george4_golly Not when everything is... \\.\\.well..."
+msgstr "@george4_golly Pas tant que tout... \\.\\.eh bien..."
+
+msgid "@george5_hmm Sweetie, you know we can't let you just walk into danger!"
+msgstr "@george5_hmm Mon chou, tu sais bien qu'on ne peut pas te laisser te mettre en danger !"
+
+msgid "@george6 Bruh...\\>\\n\\@george6_point You know we ain't gonna let you walk into the fire like that!"
+msgstr "@george6 Écoute...\\>\\n\\@george6_point Tu sais qu'on ne te laissera pas te jeter dans le feu comme ça !"
+
+msgid "@george6_shrug Fire... squares..."
+msgstr "@george6_shrug Le feu... les carrés..."
+
+msgid "@niko4 But..."
+msgstr "@niko4 Mais..."
+
+msgid "@kip_sigh George is right..."
+msgstr "@kip_sigh George a raison..."
+
+msgid "@kip_pout The squares seem to be targeting a lot of the weaker constructs in the city."
+msgstr "@kip_pout Les carrés semblent cibler les bâtiments les plus fragiles de la ville."
+
+msgid "@kip_sigh Only the library has enough structural integrity to withstand collapse..."
+msgstr "@kip_sigh Il n'y a que la bibliothèque qui est assez résistante pour ne pas s'effondrer..."
+
+msgid "@kip_sad It's... best if you stayed here until things stabilize."
+msgstr "@kip_sad C'est... mieux que tu restes ici jusqu'à ce que les choses se stabilisent."
+
+msgid "@kip_sigh ...however long that takes."
+msgstr "@kip_sigh ... Peu importe combien de temps cela prendra."
+
+msgid "@niko2 But....\\.\\. \\@niko4 but..."
+msgstr "@niko2 Mais... \\.\\.\\@niko4 mais..."
+
+msgid "@niko2 What about...\\.\\. my mission?"
+msgstr "@niko2 Et...\\.\\. ma mission ?"
+
+msgid "@niko_eyeclosed Don't you guys want me to bring the sun back, at least?"
+msgstr "@niko_eyeclosed Vous ne voulez que je ramène le soleil, au moins ?"
+
+msgid "@george1 Even if you do restore the sun, the squares will persist..."
+msgstr "@george1 Même si tu réussis, les carrés seront toujours là..."
+
+msgid "@george2_sigh The sun won't do us any good if the squares are just gonna mess everything up."
+msgstr "@george2_sigh Le soleil ne nous servira à rien si les carrés ravagent tout."
+
+msgid "@george3_worry Oh...\\.\\. but even if you do bring the sun back..."
+msgstr "@george3_worry Oh...\\.\\. mais même si tu réussis..."
+
+msgid "@george3_sigh ...the squares... they'll still be here..."
+msgstr "@george3_sigh Les carrés... ils seront toujours là..."
+
+msgid "@george4_golly Even if you do bring back the sun, that's not gonna fix the squares..."
+msgstr "@george4_golly Même si tu y parviens, ça ne réglera pas le problème des carrés..."
+
+msgid "@george5 Even if you do restore the sun, I'm not sure that'll fix the squares..."
+msgstr "@george5 Même si tu réussis, je ne suis pas sûre que cela nous débarrasse des carrés..."
+
+msgid "@george6_shrug ...sun ain't gonna make the squares go away, dude."
+msgstr "@george6_shrug ... Le soleil ne fera pas disparaître les carrés."
+
+msgid "@kip_sigh Sadly..."
+msgstr "@kip_sigh Malheureusement..."
+
+msgid "@kip_sad Not to mention... even getting there is going to be hard..."
+msgstr "@kip_sad Et... même y arriver sera difficile..."
+
+msgid "@kip_pout If the world is like this... there's no telling what's going on in the Tower!"
+msgstr "@kip_pout Si le monde est dans un tel état... qu'est-ce que cela doit être dans la Tour !"
+
+msgid "@george1_hm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george1_hm Et... si quelque chose arrive au messie..."
+
+msgid "@george1 ...George doesn't want to think about it."
+msgstr "@george1 ... George ne préfère pas y penser."
+
+msgid "@george2_stress And... if anything bad happened to the messiah, of all people..."
+msgstr "@george2_stress Et... si quelque chose arrive au messie..."
+
+msgid "@george2_no ...NO!!! I won't allow it!!!"
+msgstr "@george2_no ... NON !!! Je ne le permettrai pas !!!"
+
+msgid "@george3_sad And... if anything bad happened to the messiah, of all people..."
+msgstr "@george3_sad Et... si quelque chose arrive au messie..."
+
+msgid "@george3_sigh I'm not sure if I'll be able forgive myself..."
+msgstr "@george3_sigh Je ne me le pardonnerai jamais..."
+
+msgid "@george4_golly And... if anything bad happened to the messiah, of all people..."
+msgstr "@george4_golly Et... si quelque chose arrive au messie..."
+
+msgid "@george4 I'm not sure what we'd do!"
+msgstr "@george4 Je ne sais pas ce qu'on ferait !"
+
+msgid "@george5_hmm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george5_hmm Et... si quelque chose arrive au messie..."
+
+msgid "@george5_sigh Oh... that would be so dreadful, dear..."
+msgstr "@george5_sigh Oh... ce serait tragique..."
+
+msgid "@george6 And... if the messiah got hurt, of all people..."
+msgstr "@george6 Et... si le messie se blesse..."
+
+msgid "@george6_shrug That's like...\\.\\. the exact opposite of radical, dude...."
+msgstr "@george6_shrug Ce serait... \\.\\.un véritable désastre..."
+
+msgid "@kip_sigh Sigh..."
+msgstr "@kip_sigh *Soupir* ..."
+
+msgid "@kip_sad A friend of mine... said something about this forever ago..."
+msgstr "@kip_sad Un de mes amis... m'a parlé de ça il y a longtemps..."
+
+msgid "@kip_pout \"It's better for the world to die naturally.\""
+msgstr "@kip_pout « Il vaut mieux que le monde meurt naturellement. »"
+
+msgid "@kip_sigh \"No living being should have to carry that burden.\""
+msgstr "@kip_sigh « Aucun être vivant ne devrait endosser ce fardeau. »"
+
+msgid "@kip_sad At the time... I thought it was still her faulty code speaking..."
+msgstr "@kip_sad Sur le moment... J'ai cru que c'était dû à son code défectueux..."
+
+msgid "@kip_sigh But now I... \\.\\.I'm starting to understand..."
+msgstr "@kip_sigh Mais maintenant... \\.\\.Je commence à comprendre..."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@kip_pout Messiah... \\.\\.I'm sorry..."
+msgstr "@kip_pout Messie... \\.\\.Pardon..."
+
+msgid "@kip_sad I'm really, really sorry...."
+msgstr "@kip_sad Je suis vraiment désolée..."
+
+msgid "@kip_sigh All this time, we've burdened you with our hope, our faith..."
+msgstr "@kip_sigh Nous t'avons confié tous nos espoirs, quel fardeau..."
+
+msgid "@kip_pout ...blissfully ignoring the fact that you are just a lost child."
+msgstr "@kip_pout ... Tout en oubliant que tu n'es qu'un enfant perdu..."
+
+msgid "@niko3 Well..."
+msgstr "@niko3 Eh bien..."
+
+msgid "@kip_pout You're probably more scared than any of us, aren't you?"
+msgstr "@kip_pout C'est sûrement toi la personne la plus effrayée de nous tous, pas vrai ?"
+
+msgid "@kip_pout We... have been dealing with tragedy for so long, it's become background noise to us now."
+msgstr "@kip_pout Cela fait tellement longtemps que nous faisons face à cette tragédie, nous avons l'habitude..."
+
+msgid "@kip_sad But for you... \\.\\.it must be so terrifying..."
+msgstr "@kip_sad Mais pour toi... \\.\\.ça doit être terrifiant..."
+
+msgid "@kip_sad And now, you're stuck here with the rest of us..."
+msgstr "@kip_sad Et maintenant, tu dois rester ici avec nous tous..."
+
+msgid "@kip_pout ...being held back by the very people you were told to save."
+msgstr "@kip_pout ... Les gens que tu devais sauver t'empêchent d'avancer."
+
+msgid "@kip_sigh We must seem so ungrateful..."
+msgstr "@kip_sigh Nos devons te paraître tellement ingrats..."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed .....It's...\\> \\@niko_eyeclosed2 .....okay."
+msgstr "@niko_distressed ... Ça... \\>\\@niko_eyeclosed2 va aller."
+
+msgid "@kip_pout ..."
+msgstr "@kip_pout ..."
+
+msgid "@niko3 I..."
+msgstr "@niko3 Je..."
+
+msgid "@niko3 ...when I first came to this world... \\.\\.\\@niko4 a long time ago...."
+msgstr "@niko3 ... Lors de mon arrivée dans ce monde... \\.\\.\\@niko4 il y a longtemps..."
+
+msgid "@niko_distressed2 ...back then, all I wanted was to go home."
+msgstr "@niko_distressed2 ... tout ce que je voulais, c'était rentrer chez moi."
+
+msgid "@niko_eyeclosed ...\\p... do you remember?"
+msgstr "@niko_eyeclosed ... \\p... tu te souviens ?"
+
+msgid "@niko2 The very FIRST time..."
+msgstr "@niko2 La toute PREMIÈRE fois..."
+
+msgid "@niko5 I'm not sure how far back it was for you..."
+msgstr "@niko5 Je sais pas à quand ça remonte pour toi..."
+
+msgid "@niko But... I remember towards the end...\\>\\n\\@niko_eyeclosed I... actually wasn't sure anymore."
+msgstr "@niko Mais... je me souviens que vers la fin...\\>\\n\\@niko_eyeclosed je... ne savais plus trop..."
+
+msgid "@niko_upset ...about going home."
+msgstr "@niko_upset ... si je voulais vraiment rentrer."
+
+msgid "@niko_eyeclosed Even knowing the world would be doomed eventually..."
+msgstr "@niko_eyeclosed Même en sachant que le monde était de toute manière condamné..."
+
+msgid "@niko_distressed2 I... still wanted the people here to be happy..."
+msgstr "@niko_distressed2 Je... voulais que les gens qui y vivent soient heureux..."
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return the sun, back then..."
+msgstr "@niko_eyeclosed Donc...\\.\\. quand tu m'as demandé de rapporter le soleil..."
+
+msgid "@niko_eyeclosed I didn't even....\\.\\. question it..."
+msgstr "@niko_eyeclosed J'ai foncé...\\.\\. sans me poser de questions..."
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return home, back then..."
+msgstr "@niko_eyeclosed Donc...\\.\\. quand tu m'as demandé de rentrer chez moi..."
+
+msgid "@niko_distressed2 I wasn't... \\.\\.sure..."
+msgstr "@niko_distressed2 Je ne savais... \\.\\.pas trop..."
+
+msgid "@niko_eyeclosed But I trusted you more, \\p..."
+msgstr "@niko_eyeclosed Mais je te faisais confiance, \\p..."
+
+msgid "@niko4 ...but then I just... came back."
+msgstr "@niko4 ... mais il fallait... que je revienne."
+
+msgid "@kip_pout You... what..."
+msgstr "@kip_pout Tu... Que..."
+
+msgid "@niko3 And I... went through that decision again, didn't I?"
+msgstr "@niko3 Et j'ai... dû refaire un choix, n'est-ce pas ?"
+
+msgid "@niko_upset But...\\.\\. I came back again..."
+msgstr "@niko_upset Mais...\\.\\. il fallait que je revienne une nouvelle fois..."
+
+msgid "@niko_eyeclosed Even though you were able to do both... \\.\\.the effects couldn't be permanent, could it?"
+msgstr "@niko_eyeclosed Et même si tu as réussi à faire les deux... \\.\\.cela ne pouvait pas être permanent, n'est-ce pas ?"
+
+msgid "@niko_upset And then...\\.\\. I found out about the world being like this..."
+msgstr "@niko_upset Et...\\.\\. j'ai appris l'état dans lequel se trouvait le monde..."
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed *Soupir* ..."
+
+msgid "@niko_eyeclosed Prototype said to forget the things he told me... \\>\\nAnd Cedric told me not to think about it too much, but..."
+msgstr "@niko_eyeclosed Prototype m'a dit d'oublier ce qu'il m'avait dit... \\>\\nEt Cedric m'a dit de ne pas trop m'en faire, mais..."
+
+msgid "@niko_eyeclosed I..."
+msgstr "@niko_eyeclosed Je..."
+
+msgid "@niko4 I'm sorry for getting upset at you... back at the mines..."
+msgstr "@niko4 Pardon pour ce que je t'ai dit... dans les mines..."
+
+msgid "@niko_eyeclosed ...I thought... for you to know all that, yet continue doing this..."
+msgstr "@niko_eyeclosed Que tu saches tout ça, mais que tu continues quand même..."
+
+msgid "@niko_upset2 It... just seemed cruel."
+msgstr "@niko_upset2 Ça... me semblait cruel."
+
+msgid "@niko2 But then, I realized something..."
+msgstr "@niko2 Mais j'ai compris quelque chose..."
+
+msgid "@niko4 You... really wanted to save both the world and me..."
+msgstr "@niko4 Tu... voulais vraiment nous sauver, le monde et moi..."
+
+msgid "@niko_distressed But at the end, you can only choose one, right?"
+msgstr "@niko_distressed Mais en fin de compte, tu ne peux en choisir qu'un, pas vrai ?"
+
+msgid "@niko_distressed_talk Is it... really hard for you too?"
+msgstr "@niko_distressed_talk Est-ce que... c'est difficile pour toi aussi ?"
+
+msgid "@niko_eyeclosed It must be..."
+msgstr "@niko_eyeclosed Ça doit l'être..."
+
+msgid "@niko3 ...\\.\\.if the world isn't broken...\\.\\. will that choice still be there?"
+msgstr "@niko3 ...\\.\\. Si le monde n'est plus brisé...\\.\\. est-ce que le choix se présentera quand même ?"
+
+msgid "@niko4 ...do you...\\.\\. still need to choose between one or the other?"
+msgstr "@niko4 Est-ce que...\\.\\. tu dois quand même choisir l'un ou l'autre ?"
+
+msgid "@niko_sad But... even if it is..."
+msgstr "@niko_sad Mais... même si c'est le cas..."
+
+msgid "@niko_eyeclosed I... \\.\\.really want to save this world, \\p."
+msgstr "@niko_eyeclosed Je... \\.\\.veux vraiment sauver ce monde, \\p."
+
+msgid "@niko_distressed2 Even if it's more dangerous this time around..."
+msgstr "@niko_distressed2 Même si c'est plus dangereux cette fois..."
+
+msgid "@niko_distressed_talk Even if... so many of the nice people we met were.... \\>\\@niko_distressed_meow were..."
+msgstr "@niko_distressed_talk Même si... un bon nombre de personnes que nous avons rencontrées sont... \\>\\@niko_distressed_meow sont..."
+
+msgid "@niko_sad ......"
+msgstr "@niko_sad ..."
+
+msgid "@niko_distressed_talk \\p.... \\>\\n\\@niko_less_sad I'm not.... \\.\\.afraid, anymore...."
+msgstr "@niko_distressed_talk \\p... \\>\\n\\@niko_less_sad je n'ai... \\.\\.plus peur..."
+
+msgid "@niko_cry *sniff*"
+msgstr "@niko_cry Snif..."
+
+msgid "@niko_eyeclosed That's why...\\>\\n\\@niko3 I think you guys should let me go..."
+msgstr "@niko_eyeclosed C'est pour ça...\\>\\n\\@niko3 que je pense que vous devriez me laisser partir..."
+
+msgid "@niko_distressed2 I... promise I'll be okay..."
+msgstr "@niko_distressed2 Je... vous promets que tout ira bien..."
+
+msgid "@niko_distressed ...please?"
+msgstr "@niko_distressed ... s'il vous plaît ?"
+
+msgid "@george1 ..."
+msgstr "@george1 ..."
+
+msgid "@george1_hm George has heard your conversation with \\p and is deeply moved!"
+msgstr "@george1_hm George a entendu ta conversation avec \\p et elle est émue !"
+
+msgid "@george1_smug That's why... George has full faith in you!"
+msgstr "@george1_smug C'est pourquoi... George a confiance en toi !"
+
+msgid "@george2_grr ...well, I'm convinced."
+msgstr "@george2_grr ... Eh bien, je suis convaincue."
+
+msgid "@george2 After all that...\\.\\. it'd be SUPER rude for me to stop you, wouldn't it?"
+msgstr "@george2 Après tout ça...\\.\\. ce serait assez méchant de ma part de t'arrêter, non ?"
+
+msgid "@george3_sigh ...if you must..."
+msgstr "@george3_sigh ... S'il le faut..."
+
+msgid "@george3_sad It... wouldn't be right for me to keep you..."
+msgstr "@george3_sad Ce... ne serait pas bien de ma part de t'en empêcher..."
+
+msgid "@george4_golly Ohhhh..... \\>\\n\\@george4_omg That was BEAUTIFUL!!!"
+msgstr "@george4_golly Ohhh... \\>\\n\\@george4_omg C'était MAGNIFIQUE !!!"
+
+msgid "@george4_omg Kip!!! Did you hear that! The messiah was trying to encourage \\p!"
+msgstr "@george4_omg Kip !!! Vous avez entendu ça ! Le messie a essayé d'encourager \\p !"
+
+msgid "@kip_heh I'm right here..."
+msgstr "@kip_heh Je suis là..."
+
+msgid "@george4_omg I KNOW RIGHT!!! IT HAPPENED RIGHT IN FRONT OF OUR EYES!!!"
+msgstr "@george4_omg OUI !!! ÇA S'EST PASSÉ SOUS NOS YEUX !!!"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ..."
+
+msgid "@george4_oops ...sorry, got carried away..."
+msgstr "@george4_oops ... Pardon, je me suis un peu emportée..."
+
+msgid "@george4 ...but yes, I think it's only right that we let you go!"
+msgstr "@george4 Mais oui, la meilleure chose à faire, c'est de te laisser partir !"
+
+msgid "@george5_sad Aww... sweetie..."
+msgstr "@george5_sad Ooooh... mon chou..."
+
+msgid "@george5_sigh You are so brave...\\.\\. even braver than most grown-ups..."
+msgstr "@george5_sigh Tu as tellement de courage...\\.\\. plus que beaucoup d'adultes..."
+
+msgid "@george5_hmm It... wouldn't be right for us to keep you, would it?"
+msgstr "@george5_hmm Ce... ne serait pas bien de notre part de te retenir, non ?"
+
+msgid "@george5_aww Besides, how can I say no to those puppy-dog eyes!"
+msgstr "@george5_aww Et comment dire non à un tel regard !"
+
+msgid "@george6_point Yo, kid...."
+msgstr "@george6_point Hé..."
+
+msgid "@george6_smile You're real strong, you know that?"
+msgstr "@george6_smile Tu fais preuve d'une grande force, tu le sais ça ?"
+
+msgid "@niko4 I..."
+msgstr "@niko4 Je..."
+
+msgid "@george6_fingerguns Go knock 'em dead, tiger!"
+msgstr "@george6_fingerguns Va t'occuper d'eux, la terreur !"
+
+msgid "@kip_heh Well, if George is fine with it..."
+msgstr "@kip_heh Bon, si George est d'accord..."
+
+msgid "@kip_sigh I... \\.\\.guess we should let you go now, messiah..."
+msgstr "@kip_sigh Je... \\.\\.crois qu'il faut qu'on te laisse partir, messie..."
+
+msgid "@kip_pout But... promise us you'll be careful, okay?"
+msgstr "@kip_pout Mais promets-nous que tu feras attention, d'accord ?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Hum !"
+
+msgid "@niko2 You guys be safe too..."
+msgstr "@niko2 Faites attention à vous aussi..."
+
+msgid "Oh! You're not injured, are you?"
+msgstr "Oh ! Tu ne t'es pas fait mal au moins ?"
+
+msgid "The head librarian has converted her room into an infirmary for now..."
+msgstr "La bibliothécaire en chef a converti sa pièce en infirmerie pour le moment..."
+
+msgid "If you need a place to rest, let me know."
+msgstr "Si tu as besoin d'un endroit où te reposer, fais-moi signe."
+
+msgid "Or... let her know, I guess!"
+msgstr "Ou... va directement la voir !"
+
+msgid "We're still waiting on another group of evacuees..."
+msgstr "Nous attendons toujours un autre groupe de personnes évacuées..."
+
+msgid "One of the apartments on the other side of town got REALLY messed up yesterday..."
+msgstr "Un des appartements à l'autre bout de la ville a été BIEN saccagé hier..."
+
+msgid "Oh, hello!"
+msgstr "Oh, bonjour !"
+
+msgid "The library is currently being used as a shelter right now."
+msgstr "La bibliothèque sert d'abri pour l'instant."
+
+msgid "Lots of those squares are starting to show up on the streets..."
+msgstr "Un bon nombre de ces carrés commencent à apparaître dans les rues..."
+
+msgid "@niko_eyeclosed I know..."
+msgstr "@niko_eyeclosed Je sais..."
+
+msgid "AAAAAAAAAAAAAAAAAAA!"
+msgstr "AAAAAAAAAAAAAAAAAAA !"
+
+msgid "THE WORLD IS ENDING WHAT ARE WE GONNA DO"
+msgstr "C'EST LA FIN DU MONDE QU'EST-CE QU'ON VA FAIRE"
+
+msgid "@niko Um..."
+msgstr "@niko Hum..."
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf Qu'est-ce que... vous faites avec... ce livre ?"
+
+msgid "Editing it!!!"
+msgstr "Je l'édite !!!"
+
+msgid "I've been in the Author's shadow for my entire career."
+msgstr "J'ai été dans l'ombre de l'Auteur toute ma carrière."
+
+msgid "If I'm gonna die soon, I wanna die knowing I put out at least ONE original idea out there!"
+msgstr "Si je dois mourir bientôt, je veux avoir mis au moins UNE idée originale au monde !"
+
+msgid "Despite all this...\\.\\. I still really wish I could've met the Author..."
+msgstr "Malgré tout cela...\\.\\. J'aurais vraiment aimé rencontrer l'Auteur..."
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko Un flacon d'encre accompagné d'une plume."
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c Ça vous rappelle des souvenirs, \\p ?"
+
+msgid "Reading helps me get my mind off things..."
+msgstr "La lecture m'aide à avoir l'esprit tranquille..."
+
+msgid "At least THAT's finally off my bucket list..."
+msgstr "Au moins ÇA ce n'est plus sur ma liste..."
+
+msgid "...y'know, I finally saw the Author today!"
+msgstr "... J'ai enfin rencontré l'Auteur aujourd'hui !"
+
+msgid "Well, his flying machine, at least!"
+msgstr "Enfin, sa machine volante !"
+
+msgid "I was looking out one of the windows in the library and spotted it in the distance with my binoculars!"
+msgstr "Je regardais à travers une des fenêtres de la bibliothèque avec mes jumelles quand je l'ai aperçue au loin !"
+
+msgid "Isn't that cool, messiah?"
+msgstr "C'est pas cool ça, messie ?"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Ouais..."
+
+msgid "@niko_speak Oh! Um..."
+msgstr "@niko_speak Oh ! Hum..."
+
+msgid "@niko2 What book did Cedric take?"
+msgstr "@niko2 Quel livre Cedric a-t-il pris ?"
+
+msgid "@george1_hm \"The Creation of Prophetbot\", one of the Author's greatest works in my opinion."
+msgstr "@george1_hm « La création du Prophètebot », une des meilleures œuvres de l'Auteur à mon avis."
+
+msgid "@george1 It's filled to the brim with intricate illustrations and blueprints... \\>\\n\\@george1_smile Lots of attention to detail, for sure."
+msgstr "@george1 Il est rempli d'illustrations et de plans schématiques complexes... \\>\\n\\@george1_smile Et beaucoup d'attention portée sur les détails, bien sûr."
+
+msgid "@george1_hm George rates it 10 out of 10."
+msgstr "@george1_hm George lui met une note de 10 sur 10."
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 Oh..."
+
+msgid "@george2_stress One of my favorites, thank you very much..."
+msgstr "@george2_stress C'est l'un de mes favoris, merci beaucoup..."
+
+msgid "@george2_sigh ...it's the Author's book detailing the creation of Prophetbot."
+msgstr "@george2_sigh ... C'est le livre de l'Auteur détaillant la création du Prophètebot."
+
+msgid "@george2 And by \"detailing\", I mean it! \\>\\n\\@george2_sigh There's a TON of detail in that book."
+msgstr "@george2 Et c'est peu de le dire !\\>\\n\\@george2_sigh Il y a ÉNORMÉMENT de détails dans ce livre."
+
+msgid "@george2_grr Blueprints, progress shots..."
+msgstr "@george2_grr Des plans schématiques, des illustrations..."
+
+msgid "@george2_sigh Took me forever to edit..."
+msgstr "@george2_sigh Cela m'a pris un temps fou à éditer..."
+
+msgid "@george3_sad ...the Author's book on the creation of Prophetbot..."
+msgstr "@george3_sad ... Le livre de l'Auteur sur la création du Prophètebot..."
+
+msgid "@george3_sigh ...you know...\\.\\. the first robot you met in our world..."
+msgstr "@george3_sigh Tu sais...\\.\\. le premier robot que tu as rencontré dans notre monde..."
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 Oui."
+
+msgid "@george3_worry ...oh...\\.\\. The book was quite detailed, too...."
+msgstr "@george3_worry Oh...\\.\\. Le livre était aussi très détaillé..."
+
+msgid "@george3_sigh It...\\.\\. would've been useful to your friend, I think..."
+msgstr "@george3_sigh Il...\\.\\. aurait été utile à ton ami, je crois..."
+
+msgid "@niko_eyeclosed ...yeah."
+msgstr "@niko_eyeclosed ... Oui."
+
+msgid "@george4 The Author's book on the creation of Prophetbot!"
+msgstr "@george4 Le livre de l'Auteur sur la création du Prophètebot !"
+
+msgid "@george4_golly Remember Prophetbot? \\.\\.The first robot you met in our world?"
+msgstr "@george4_golly Tu te souviens du Prophètebot ? \\.\\.Le premier robot que tu as rencontré dans notre monde ?"
+
+msgid "@george4_omg He's a work of art!!!"
+msgstr "@george4_omg C'est une œuvre d'art !"
+
+msgid "@george4_smile The Author's book was so detailed... \\.\\.really made me appreciate how much work went into him!"
+msgstr "@george4_smile Le livre de l'Auteur était tellement détaillé... \\.\\.J'ai beaucoup apprécié le travail qu'il a fourni !"
+
+msgid "@george5_hmm \"The Creation of Prophetbot\", dear.\\>\\n\\@george5_heh It's one of my favorite books by the Author!"
+msgstr "@george5_hmm « La création du Prophètebot »...\\>\\n\\@george5_heh C'est un de mes livres préférés de l'Auteur !"
+
+msgid "@george5_hmm The book contains many detailed blueprints and progress shots."
+msgstr "@george5_hmm Le livre contient un bon nombre de plans schématiques détaillées et d'illustrations."
+
+msgid "@george5_smile I really enjoyed editing it!"
+msgstr "@george5_smile J'ai vraiment aimé l'éditer !"
+
+msgid "@george6_point You remember Prophetbot? \\>\\n\\@george6 The first robot you met in our world?"
+msgstr "@george6_point Tu te souviens du Prophètebot ? \\>\\n\\@george6 Le premier robot que tu as rencontré dans notre monde ?"
+
+msgid "@niko ...yeah?"
+msgstr "@niko ... Oui ?"
+
+msgid "@george6_smile The Author wrote a book on how he was made!\\>\\n\\@george6_shrug It's one of his best works, bruh."
+msgstr "@george6_smile L'auteur a écrit un livre sur sa conception !\\>\\n\\@george6_shrug C'est une de ses meilleures œuvres."
+
+msgid "@george6 You just gotta love that guy's attention to detail... all the little parts that just came together..."
+msgstr "@george6 Tu vas adorer son souci du détail... Toutes ces petites pièces qui s'imbriquent les unes dans les autres..."
+
+msgid "@george6_point ...was the freshest book I've ever edited, man!"
+msgstr "@george6_point ... C'est le meilleur livre que j'ai jamais édité !"
+
+msgid "@niko A small pile of books."
+msgstr "@niko Une petite pile de livres."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[BONJOUR, PERSONNE.]"
+
+msgid "[THIS IS THE LIBRARY / TEMPORARY SHELTER.]"
+msgstr "[C'EST LA BIBLIOTHÈQUE/L’ABRI TEMPORAIRE.]"
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[VOUS AVEZ BESOIN DE QUELQUE CHOSE ? VEUILLEZ VOUS APPROCHER DU COMPTOIR.]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS CURRENTLY BEING USED AS AN INFIRMARY.]"
+msgstr "@bookbot [LA SALLE DES ARCHIVES EST ACTUELLEMENT UTILISÉE COMME INFIRMERIE.]"
+
+msgid "@bookbot [WE APOLOGIZE FOR THE INCONVENIENCE.]"
+msgstr "@bookbot [VEUILLEZ NOUS EXCUSER POUR LE DÉSAGRÉMENT.]"
+
+msgid "@niko_eyeclosed It's okay..."
+msgstr "@niko_eyeclosed Ce n'est pas grave..."
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko Un ordinateur. Éteint."
+
+msgid "Everyone here should be safe for now..."
+msgstr "Tout le monde devrait être en sécurité ici..."
+
+msgid "This library was built fairly recently, you know..."
+msgstr "Cette bibliothèque est assez récente..."
+
+msgid "Shortly after the first squares appeared, they wanted to build something that could withstand partial collapse."
+msgstr "Peu après l'apparition des premiers carrés, ils voulaient construire quelque chose qui pourrait résister à un effondrement partiel."
+
+msgid "The architects used the newest, strongest materials they had."
+msgstr "Les architectes ont utilisé les matériaux les plus récents et les plus robustes à leur disposition."
+
+msgid "...Thank goodness for that."
+msgstr "... Je les en remercie."
+
+msgid "I hope the Author is safe..."
+msgstr "J'espère que l'Auteur est en sécurité..."
+
+msgid "I wonder where the Author is..."
+msgstr "Je me demande où se trouve l'Auteur..."
+
+msgid "Apparently he just kinda... stopped showing up."
+msgstr "Apparemment, il ne se montrerait plus..."
+
+msgid "The head librarian says she's still getting his manuscripts, but..."
+msgstr "La bibliothécaire en chef dit qu'elle reçoit toujours ses manuscrits, mais..."
+
+msgid "No one has seen him in person in so long..."
+msgstr "Personne ne l'a vu depuis un bon moment..."
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "....sigh."
+msgstr "... *Soupir*."
+
+msgid "Many people have been assuming the worst."
+msgstr "Les gens craignent le pire."
+
+msgid "I hope my friends are okay!"
+msgstr "J'espère que mes amis vont bien !"
+
+msgid "Another group of evacuees should be arriving soon..."
+msgstr "Un autre groupe de personnes évacuées devrait bientôt arriver..."
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko Des livres sont soigneusement rangés sur l'étagère."
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko Des livres sont rangés soigneusement sur l'étagère."
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko Des livres rangés sont soigneusement sur l'étagère."
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko Sur l'étagère, des livres sont soigneusement rangés."
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko Des livres soigneusement rangés sont sur l'étagère."
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko Sur l'étagère sont soigneusement rangés des livres."
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko Des livres rangés sont sur l'étagère soigneusement."
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko Des livres sont sur l'étagère, soigneusement rangés."
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko Une pile de livres par terre."
+
+msgid "@kip_pout Please be careful out there..."
+msgstr "@kip_pout Fais attention à toi..."
+
+msgid "@niko A book!"
+msgstr "@niko Un livre !"
+
+msgid "Sigh...."
+msgstr "*Soupir* ..."
+
+msgid "I had to leave my aquarium behind when they were sounding the sirens earlier..."
+msgstr "J'ai dû laisser mon aquarium quand ils ont activé les sirènes un peu plus tôt..."
+
+msgid "I wish I had time to rescue my fish..."
+msgstr "J'aurais aimé sauver mon poisson..."
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[RECLASSEMENT EN COURS...]"
+
+msgid "Well, it was nice knowing y'all I suppose..."
+msgstr "Ça m'a fait plaisir de tous vous rencontrer..."
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "Quand ce sera la fin du monde, vaudrait-il mieux qu'il soit emporté en un instant, ou qu'il disparaisse lentement ?"
+
+msgid "Haha... looks like we're stuck with the latter."
+msgstr "Ha ha... on dirait bien que c'est la deuxième solution."
+
+msgid "@niko A tall pile of books."
+msgstr "@niko Une grande pile de livres."
+
+msgid "@niko Hi."
+msgstr "@niko Bonjour."
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[RECLASSEMENT EN COURS.]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[ATTENTION AUX CHUTES DE LIVRES ÉVENTUELLES.]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Compris !"
+
+msgid "I won't lose hope."
+msgstr "Je ne perdrai pas espoir."
+
+msgid "Sigh..."
+msgstr "*Soupir* ..."
+
+msgid "It's comforting to see the faith you have in \\p, messiah..."
+msgstr "Cela fait du bien de voir la confiance que vous avez en \\p, messie..."
+
+msgid "That's why... I won't lose hope either."
+msgstr "C'est pour ça que... je ne perdrai pas espoir moi non plus."
+
+msgid "@niko Coffee cups."
+msgstr "@niko Des tasses."
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak Le café, c'est pour les grands !"
+
+msgid "HEY IM GIR I MADE AN EVENT DOOT DOOT MOTHER FUCKER"
+msgstr "HE JE SUIS GIR J'AI FAIT UN EVENEMENT DOOT DOOT CONNARD"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed Ouaip... j'ai toujours peur des échelles."
+
+msgid "Y'know, now that everyone's coming to me for help..."
+msgstr "Et maintenant que tout le monde m'apporte son aide..."
+
+msgid "...it really makes me appreciate you more, messiah!"
+msgstr "... Cela me fait t'apprécier encore plus, messie !"
+
+msgid "Thank you for all you've done for us."
+msgstr "Merci pour tout ce que tu as fait pour nous."
+
+msgid "Looks like my life's work is finally being put to good use!"
+msgstr "On dirait que ma plus grande œuvre sert enfin à quelque chose !"
+
+msgid "As long as we conserve the water we have on hand..."
+msgstr "Tant que l'on arrive à conserver l'eau à portée de main..."
+
+msgid "...my water pills should be able to keep everyone here from going thirsty for weeks!"
+msgstr "... Mes pilules d'eau devraient éviter à tout le monde d'avoir soif pendant plusieurs semaines !"
+
+msgid "@niko A coffee machine."
+msgstr "@niko Une machine à café."
+
+msgid "@niko It's almost empty..."
+msgstr "@niko Elle est presque vide..."
+
+msgid "@niko This stand smells... sugary."
+msgstr "@niko Ce stand sent... le sucre."
+
+msgid "Candy skewers, fresh off the grill!"
+msgstr "Brochettes de bonbons, tout juste grillées !"
+
+msgid "...Not very nutritious, I'm afraid."
+msgstr "... Ce n'est pas très nourrissant, malheureusement."
+
+msgid "But at least they'll keep the evacuees from gettin' hungry!"
+msgstr "Mais au moins elles permettront aux évacués de ne pas avoir faim !"
+
+msgid "@niko A photo of some plants."
+msgstr "@niko Une photo de plantes."
+
+msgid "The city gate was destroyed a while back, I can't go into the Glen anymore..."
+msgstr "La porte de la ville a été détruite il y a longtemps, je ne peux plus me rendre dans le Vallon..."
+
+msgid "I'm not sure where I'll be able to get my supply of fish, at this rate..."
+msgstr "Je ne sais pas comment je vais réussir à me procurer du poisson, à ce rythme-là..."
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko Un genre de plaque."
+
+msgid "I still have plenty of these soup dumplings left!"
+msgstr "Il me reste encore plein de ces raviolis en soupe !"
+
+msgid "Looks like it should feed everyone here for at least another day."
+msgstr "Cela nourrira tout le monde pendant encore une journée."
+
+msgid "@niko_what2 (This guy scares me, \\p...!)"
+msgstr "@niko_what2 (Ce type me fait peur, \\p... !)"
+
+msgid "..."
+msgstr "..."
+
+msgid "....WHAT!? You need something?!"
+msgstr "... QUOI !? T'as besoin de quelque chose ?!"
+
+msgid "@niko_huh No...?"
+msgstr "@niko_huh Non... ?"
+
+msgid "Suit yourself."
+msgstr "Comme tu veux."
+
+msgid "BUT, just so that you know."
+msgstr "MAIS, faut que tu saches un truc."
+
+msgid "Due to recent events, the restriction on noise levels in the library has been temporarily lifted."
+msgstr "À cause des événements récents, l'interdiction de faire du bruit dans la bibliothèque a été levée."
+
+msgid "...So I WON'T be kicking people out like before."
+msgstr "... Alors je ne METTRAI PLUS les gens dehors comme avant."
+
+msgid "@niko_what Um..."
+msgstr "@niko_what Hum..."
+
+msgid "....WHAT???"
+msgstr "... QUOI ???"
+
+msgid "You think I'm gonna be throwing out the evacuees just cuz I'm a delinquent stuck doing community service???"
+msgstr "Tu crois que je vais expulser les évacués parce que je suis un délinquant forcé à faire des travaux d'intérêt général ???"
+
+msgid "@niko_what ...No...?"
+msgstr "@niko_what ... Non... ?"
+
+msgid "Good!!! Because I'm NOT!!!!!"
+msgstr "Bien !!! Parce que c'est PAS le cas !!!!!"
+
+msgid "Looks like I'll have to cancel my appointment..."
+msgstr "Je vais devoir annuler mon rendez-vous..."
+
+msgid "This stinks!"
+msgstr "C'est embêtant !"
+
+msgid "@niko A photo of some people."
+msgstr "@niko Une photo avec des gens."
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[INFORMATIONS DU SOIR ! INFORMATIONS DU SOIR !]"
+
+msgid "[EVERYTHING IS TERRIBLE]"
+msgstr "[TOUT VA MAL]"
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [SI VOUS AVEZ UNE QUESTION, VEUILLEZ VOUS APPROCHER DU COMPTOIR.]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko Tout va bien, merci !"
+
+msgid "@kelvin [The world is going to be much colder soon.]"
+msgstr "@kelvin [Le monde va bientôt devenir bien plus froid.]"
+
+msgid "@kelvin [At least... I can keep everyone here warm.]"
+msgstr "@kelvin [Au moins... je peux tenir tout le monde au chaud ici.]"
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko On dirait une liste de livres..."
+
+msgid "ZZZZZZZZZZZZZZZZ"
+msgstr "ZZZZZZZZZZZZZZZZ"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak Un livre épais avec un trèfle noir sur la couverture."
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko Il s'intitule « Guide complet des Phosphores »."
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko Un dessin de trèfle fait au marqueur."
+
+msgid "@niko_eyeclosed She's asleep..."
+msgstr "@niko_eyeclosed Elle dort..."
+
+msgid "*yawn*"
+msgstr "*bâille*"
+
+msgid "The lab complex got totaled, didn't it...."
+msgstr "Les laboratoires se sont écroulés..."
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 Ouais..."
+
+msgid "All those hours I put into my work, and now..."
+msgstr "Toutes ces heures passées à travailler, et maintenant..."
+
+msgid "now...."
+msgstr "maintenant..."
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed Elle s'est endormie..."
+
+msgid "@niko A marker eraser."
+msgstr "@niko Une brosse à effacer."
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko Il s'intitule « L'émergence de nouvelles niches écologiques dans un monde post-soleil »."
+
+msgid "Monitoring... monitoring..."
+msgstr "Détection... détection..."
+
+msgid "Looks like our scouting unit #A27 is still doing okay..."
+msgstr "Il semblerait que notre unité de reconnaissance #A27 va bien..."
+
+msgid "@niko A green marker."
+msgstr "@niko Un marqueur vert."
+
+msgid "kip card"
+msgstr "carte de kip"
+
+msgid "Robots are the only ones that we can send out there, now..."
+msgstr "Les robots sont les seuls que l'on puisse envoyer dehors, de nos jours..."
+
+msgid "Thankfully, we still have a couple of units that aren't too badly damaged..."
+msgstr "Et heureusement qu'il nous reste quelques unités en assez bon état..."
+
+msgid "This little guy ran into some squares earlier and managed to escape mostly intact."
+msgstr "Ce petit gars a rencontré des carrés et il a réussi à s'en échapper sans trop de problèmes."
+
+msgid "These newer models are pretty tough!"
+msgstr "Ces nouveaux modèles sont vraiment costauds !"
+
+msgid "I just like looking at pictures."
+msgstr "J'aime juste regarder les images."
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak Vous lisez drôlement vite !"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "En fait, c'est surtout des images !"
+
+msgid "The Author is an artist too, y'know!"
+msgstr "L'Auteur est aussi un artiste !"
+
+msgid "@niko_eyeclosed I could tell, yeah..."
+msgstr "@niko_eyeclosed J'avais remarqué..."
+
+msgid "@niko A blue marker."
+msgstr "@niko Un marqueur bleu."
+
+msgid "niko card"
+msgstr "carte de niko"
+
+msgid "@niko A red marker."
+msgstr "@niko Un marqueur rouge."
+
+msgid "glittery"
+msgstr "paillettée"
+
+msgid "His books are the only things keeping me going in these trying times."
+msgstr "Dans cette période difficile, seuls ses livres me font garder le moral."
+
+msgid "With the world being the way it is now..."
+msgstr "Le monde étant maintenant ce qu'il est..."
+
+msgid "I'm just glad The Author was able to write down all this stuff before everything went off the rails."
+msgstr "C'est bien que l'Auteur ait pu écrire tout ça avant que tout parte en vrille."
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "JE DOIS CONNAÎTRE LA FIN DE CE LIVRE..."
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 Hummm..."
+
+msgid "IF I DIE I WANNA DIE READING!"
+msgstr "SI JE DOIS MOURIR, JE VEUX MOURIR EN LISANT !"
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko Ce tableau est en métal."
+
+msgid "cardquest + desk"
+msgstr "recherche de carte + comptoir"
+

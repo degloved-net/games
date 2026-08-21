@@ -1,0 +1,69 @@
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[THE ROBOT ASSEMBLY AND REPAIR SERVICES HAVE BEEN DISCONTINUED AT THE BARRENS.]"
+msgstr "[不毛ノ地でのロボット組み立て、及び\n修理サービスは廃止となりましタ。]"
+
+msgid "[IF YOU HAVE FURTHER INQUIRY, PLEASE CONTACT THE HEAD ENGINEER.]"
+msgstr "[質問ガある場合ハ、当主任技術者まで\nお問い合わせくださイ。]"
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko 本から破り取ったページみたい。"
+
+msgid "$-cannot overstate the importance of cleaning solvents in this environment."
+msgstr "$この環境における\n洗浄溶剤の重要性は\n重ねて強調するべき\nである。"
+
+msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
+msgstr "$前章で述べた代替方法を\n使った、青色蛍光体の\n自然の特性を利用した\n簡単なレシピを\n以下に記す。"
+
+msgid "$Reagents:"
+msgstr "$試薬:"
+
+msgid "$-Acidic gas"
+msgstr "$-酸性ガス"
+
+msgid "$-Blue phosphor (rare form)"
+msgstr "$-青色蛍光体（珍形態）"
+
+msgid "$Instructions:"
+msgstr "$手順:"
+
+msgid "$1) In a well-ventilated area, direct the gas into your container of choice."
+msgstr "$1）良く換気された\n場所で、ガスを好みの\n容器に誘導する。"
+
+msgid "$Seal immediately."
+msgstr "$即座に密封する。"
+
+msgid "@niko That's the end of the page..."
+msgstr "@niko ここでページが途切れている…"
+
+msgid "@niko_speak You...want me to smash the boards with the pipe?"
+msgstr "@niko_speak パイプで…板を割ってほしいの？"
+
+msgid "@niko I can't do that! We'll have to pry them off!"
+msgstr "@niko できっこないよ！こじ開けるしかないと思う…"
+
+msgid "@niko_eyeclosed But I don't think I can do that with a pipe..."
+msgstr "@niko_eyeclosed でもパイプではできなさそう…"
+
+msgid "@niko_speak Good thing I kept this crowbar!"
+msgstr "@niko_speak これがあって良かった！"
+
+msgid "@niko_eyeclosed What a workout..."
+msgstr "@niko_eyeclosed いい運動になった…"
+
+msgid "@niko The door is all boarded up..."
+msgstr "@niko 入り口が板で完全に塞がれてる…"
+
+msgid "@niko_speak The boards seem loose, though! I should be able to pull them off with the right tool..."
+msgstr "@niko_speak でも少しガタガタしてる！ちゃんとした\n道具があれば外せるかも…"
+
+msgid "[WELCOME TO THE OLD CHEMICAL PROCESSING PLANT.]"
+msgstr "[旧化学処理工場ヘようこソ。]"
+
+msgid "[MOST OF THE EQUIPMENT HAS ALREADY BEEN RELOCATED.]"
+msgstr "[設備ハすでにほとんど移送済みでス。]"
+
+msgid "@niko It's a pair of rubber gloves.\\nThey're a bit heavy."
+msgstr "@niko ゴム手袋だ。\\n少し重たい。"
+

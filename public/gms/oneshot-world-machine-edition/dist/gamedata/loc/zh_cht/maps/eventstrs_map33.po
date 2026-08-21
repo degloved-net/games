@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 螢火蟲照亮了這間房間。"
+
+msgid "Squares are bad news, man. \\>\\nStay away from 'em, kids!"
+msgstr "老天，那些方塊不是好東西。\\>\\n孩子們，離那些東西遠一點啊！"
+
+msgid "@alula We will!"
+msgstr "@alula 好的！"
+
+msgid "Stay away from the squares, okay?"
+msgstr "別靠近那些方塊，好嗎？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 對啊！"
+
+msgid "Last week, I saw more of those squares while out fishing."
+msgstr "上禮拜我出去釣魚的時候又看到了更多方塊。"
+
+msgid "I knew better than to get too close, though."
+msgstr "不過我知道不能離它們太近。"
+
+msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
+msgstr "@alula_oh 喔！\\>\\@alula_pout 就是門上面那個東西……"
+
+msgid "Oh, so you saw it too, huh..."
+msgstr "喔，所以你也看到了啊……"
+
+msgid "@alula_oh Yeah! \\>\\@alula_pout My brother told me not to touch those!"
+msgstr "@alula_oh 對啊！\\>\\@alula_pout 我哥哥說不可以碰它們！"
+
+msgid "Yeup. He gets it."
+msgstr "對，他說得對。"
+
+msgid "@niko Squares?"
+msgstr "@niko 方塊？"
+
+msgid "Squares, man.\\nThey're bad news."
+msgstr "方塊啊。\\n那不是好東西。"
+

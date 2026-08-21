@@ -1,0 +1,813 @@
+msgid "Nightmargin"
+msgstr "Nightmargin"
+
+msgid "Icewolf"
+msgstr "Icewolf"
+
+msgid "Bloomy"
+msgstr "Bloomy"
+
+msgid "Porting Support"
+msgstr "移植協助"
+
+msgid "Functional Testing"
+msgstr "功能性測試功能性測試"
+
+msgid "Kyne"
+msgstr "Kyne"
+
+msgid "Dunc Graham"
+msgstr "Dunc Graham"
+
+msgid "Mahmoud Khabatou"
+msgstr "Mahmoud Khabatou"
+
+msgid "Marshie"
+msgstr "Marshie"
+
+msgid "OutlanderSES"
+msgstr "OutlanderSES"
+
+msgid "PR & Marketing"
+msgstr "公關及行銷"
+
+msgid "Compliance Testing"
+msgstr "合規測試"
+
+msgid "Eliza Velasquez"
+msgstr "Eliza Velasquez"
+
+msgid "Konasumi"
+msgstr "Konasumi"
+
+msgid "Jay Ruas"
+msgstr "Jay Ruas"
+
+msgid "Programming:"
+msgstr "程式："
+
+msgid "letty"
+msgstr "letty"
+
+msgid "plasterbrain"
+msgstr "plasterbrain"
+
+msgid "Salvador Garcia"
+msgstr "Salvador Garcia"
+
+msgid "Edgar Rangel"
+msgstr "Edgar Rangel"
+
+msgid "Writing:"
+msgstr "寫作："
+
+msgid "Schmuckloaf"
+msgstr "Schmuckloaf"
+
+msgid "Guest Artists (Wallpapers):"
+msgstr "特約畫家（桌布）"
+
+msgid "Spanish Translation"
+msgstr "西班牙翻譯員"
+
+msgid "Michael"
+msgstr "Michael"
+
+msgid "Justin Pfeiffer"
+msgstr "Justin Pfeiffer"
+
+msgid "Bryan Carranza"
+msgstr "Bryan Carranza"
+
+msgid "RManReeves"
+msgstr "RManReeves"
+
+msgid "Brazilian Portuguese Proofreading, LQA"
+msgstr "葡萄牙文（巴西）校稿員與在地化品質保證員"
+
+msgid "Michael Shirt"
+msgstr "Michael Shirt"
+
+msgid "psychoTR2"
+msgstr "psychoTR2"
+
+msgid "Marina \"Sylladexter\" K"
+msgstr "Marina \"Sylladexter\" K"
+
+msgid "Jair Casillas"
+msgstr "Jair Casillas"
+
+msgid "wisty"
+msgstr "wisty"
+
+msgid "Streaming Producer"
+msgstr "串流製作人"
+
+msgid "Graphics:"
+msgstr "畫面："
+
+msgid "Divinuss"
+msgstr "Divinuss"
+
+msgid "Missusruin"
+msgstr "Missusruin"
+
+msgid "Writing (Friend Profiles):"
+msgstr "*作者（朋友檔案）："
+
+msgid "Bookkeeping"
+msgstr "簿記"
+
+msgid "Francisco Uzarraga"
+msgstr "Francisco Uzarraga"
+
+msgid "Felix"
+msgstr "Felix"
+
+msgid "Roadcrosser"
+msgstr "越野車"
+
+msgid "Saren Stone"
+msgstr "Saren Stone"
+
+msgid "Karina Peixe"
+msgstr "Karina Peixe"
+
+msgid "Producer (2016 release):"
+msgstr "製作人（2016版）"
+
+msgid "Taeler Dixon"
+msgstr "Taeler Dixon"
+
+msgid "Chad Porter"
+msgstr "Chad Porter"
+
+msgid "Character Design:"
+msgstr "角色設計："
+
+msgid "PurpleAlmonds"
+msgstr "PurpleAlmonds"
+
+msgid "Temmie Chang"
+msgstr "Temmie Chang"
+
+msgid "Mark Conforti"
+msgstr "Mark Conforti"
+
+msgid "Penguin Contributors:"
+msgstr "Penguin Contributors:"
+
+msgid "Anna Riko"
+msgstr "Anna Riko"
+
+msgid "Sebastian Herrera"
+msgstr "Sebastian Herrera"
+
+msgid "FelixTheJudge"
+msgstr "FelixTheJudge"
+
+msgid "@silver2 ...Messiah?"
+msgstr "@silver2 ……救世主？"
+
+msgid "@niko_surprised ROBOT LADY!!!!"
+msgstr "@niko_surprised 機器人小姐！！！！"
+
+msgid "@niko_pancakes You're.... okay?"
+msgstr "@niko_pancakes 妳……平安無事？"
+
+msgid "@silver2 [I... think so.]"
+msgstr "@silver2 [好像……是的。]"
+
+msgid "@silver_eyeclosed [The last thing I remember was the squares closing in on me...]"
+msgstr "@silver_eyeclosed [我記得的最後一件事是方塊不斷逼近……]"
+
+msgid "@silver2 [But then, I....\\.\\. ended up here unscathed.]"
+msgstr "@silver2 [可是接下來，我就……\\.\\.毫髮無傷地來到了這裡。]"
+
+msgid "@niko3 Is that so..."
+msgstr "@niko3 這樣啊……"
+
+msgid "@silver_lookup [...This is such a strange room.]"
+msgstr "@silver_lookup [……這間房間好奇怪。]"
+
+msgid "@silver2 [We can't be...\\.\\. in the Tower, can we?]"
+msgstr "@silver2 [我們該不會是……\\.\\.在塔的裡面？]"
+
+msgid "@niko6 I'm actually not sure myself..."
+msgstr "@niko6 其實我也不確定……"
+
+msgid "@silver2 [...where did YOU come from, anyway?]"
+msgstr "@silver2 [……先不管那個，你是從哪裡過來的？]"
+
+msgid "@niko2 The room where the World Machine was..."
+msgstr "@niko2 從世界機器所在的房間……"
+
+msgid "@silver2 [...pardon?]"
+msgstr "@silver2 [……你說什麼？]"
+
+msgid "@niko5 I... think the World Machine is trying to remember, now..."
+msgstr "@niko5 我想……世界機器現在應該正在想辦法回想吧……"
+
+msgid "@niko4 The code that went bad...\\.\\.\\>\\n\\@niko2 I think it's restoring it all."
+msgstr "@niko4 那些出錯的程式碼……\\.\\.\\>\\n\\@niko2 我想它正在將它們復原。"
+
+msgid "@niko6 That must've been why the squares were going away, \\p..."
+msgstr "@niko6 \\p，一定是因為這樣，所以方塊漸漸消退了……"
+
+msgid "@niko2 And... it's why you're here, miss!"
+msgstr "@niko2 還有……小姐，妳會在這裡也是這個原因！"
+
+msgid "@niko_speak I think the World Machine was able to recover your code, too...!"
+msgstr "@niko_speak 我認為世界機器也修復了妳的程式碼……！"
+
+msgid "@silver2 [World... Machine, huh...]"
+msgstr "@silver2 [世界……機，嗎……]"
+
+msgid "@niko2 Oh... I'm not sure if I should tell you this, but..."
+msgstr "@niko2 喔……我不確定到底該不該告訴妳，不過……"
+
+msgid "@silver2 [...What's that in the distance?]"
+msgstr "@silver2 [……遠方那是什麼？]"
+
+msgid "@silver [It... looks like a few more people are showing up.]"
+msgstr "@silver [看起來……還有更多人在陸續出現。]"
+
+msgid "@niko_pancakes Oh!!!"
+msgstr "@niko_pancakes 喔！！！"
+
+msgid "@silver2 [Are they... people you know?]"
+msgstr "@silver2 [那些人……你認識？]"
+
+msgid "@niko It's... \\.\\.a bit too far to tell."
+msgstr "@niko 還有點……\\.\\.太遠了，我不確定。"
+
+msgid "@niko_speak Come on, \\p, let's go take a closer look!"
+msgstr "@niko_speak 來吧，\\p，我們走近一點看看！"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME DO NOT WORRY.]"
+msgstr "@rowbot [工程師主管會幫我，請不用擔心。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 好……"
+
+msgid "@rowbot [HELLO.]"
+msgstr "@rowbot [你好。]"
+
+msgid "@niko Hi!"
+msgstr "@niko 你好！"
+
+msgid "@rowbot [I...\\.\\. CANNOT MOVE.]"
+msgstr "@rowbot [我……\\.\\.動不了。]"
+
+msgid "@niko2 Oh, yeah..."
+msgstr "@niko2 喔，對耶……"
+
+msgid "@niko_eyeclosed I guess there's no water here..."
+msgstr "@niko_eyeclosed 這裡應該沒有水吧……"
+
+msgid "@rowbot [IT'S FINE.]"
+msgstr "@rowbot [沒關係。]"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME LATER.]"
+msgstr "@rowbot [工程師主管稍後會幫我。]"
+
+msgid "@green_gatekeeper [Off you go, messiah...]"
+msgstr "@green_gatekeeper [救世主，你要離開了……]"
+
+msgid "@red_gatekeeper [Off you go, messiah...]"
+msgstr "@red_gatekeeper [救世主，你要離開了……]"
+
+msgid "@alula_pout I guess... you're leaving us now?"
+msgstr "@alula_pout 我猜……現在你要離開我們了？"
+
+msgid "@calamus_smile We're glad we met you, Niko!"
+msgstr "@calamus_smile 霓光，我們很高興能遇見你！"
+
+msgid "@niko_speak Same!"
+msgstr "@niko_speak 我也是！"
+
+msgid "@alula_gasp Niko!!"
+msgstr "@alula_gasp 霓光！！"
+
+msgid "@alula_gasp You're okay too!"
+msgstr "@alula_gasp 你也平安無事！"
+
+msgid "@niko2 Did you guys just get here?"
+msgstr "@niko2 你們剛剛到這裡嗎？"
+
+msgid "@calamus I... think so?"
+msgstr "@calamus 應該……是吧？"
+
+msgid "@calamus_sad The squares started multiplying around the island after you guys left..."
+msgstr "@calamus_sad 你們離開後，方塊開始繞著島周圍不斷增加……"
+
+msgid "@alula_oh It was so freaky!"
+msgstr "@alula_oh 真的很詭異！"
+
+msgid "@alula_oh I fell right into a bunch of em!"
+msgstr "@alula_oh 我後來掉進一堆方塊裡了！"
+
+msgid "@alula_oh Calamus tried to save me, and then..."
+msgstr "@alula_oh 我哥想救我，然後……"
+
+msgid "@calamus We... both ended up in this room."
+msgstr "@calamus 我們就……一起來到這間房間了。"
+
+msgid "@calamus_heh Biggest scare of my life, for sure..."
+msgstr "@calamus_heh 真的是我這輩子遇過最驚嚇的事……"
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 喔……"
+
+msgid "@calamus Say, what is this place?"
+msgstr "@calamus 是說，這裡是哪裡？"
+
+msgid "@alula_gasp Are we in limboooooo?"
+msgstr "@alula_gasp 難道我們在冥界的邊緣嗎～？"
+
+msgid "@calamus_heh Alula! \\>We're not dead!"
+msgstr "@calamus_heh 阿露！\\>我們沒死啦！"
+
+msgid "@calamus_shame ...wait, \\.\\.are we?"
+msgstr "@calamus_shame ……等等，\\.\\.還是其實死了？"
+
+msgid "@niko_speak No no, you're fine!"
+msgstr "@niko_speak 不不，你還好好的！"
+
+msgid "@niko Everyone in this room is fine!"
+msgstr "@niko 這間房間裡的每個人都沒事！"
+
+msgid "@niko_speak You'll be able to go back home soon..."
+msgstr "@niko_speak 你很快就能回家了……"
+
+msgid "@alula_gasp That's even better than limbo!"
+msgstr "@alula_gasp 那還比在冥界邊緣好一點！"
+
+msgid "@niko_what Good...\\.\\. \\>\\@niko_what2 question."
+msgstr "@niko_what 這是個……\\.\\. \\>\\@niko_what2 好問題。"
+
+msgid "@niko6 (hey \\p are they gonna be okay?)"
+msgstr "@niko6 （嘿，\\p，他們會沒事吧？）"
+
+msgid "[\"They're fine, Niko.\"]"
+msgstr "[\"霓光，他們沒事的。\"]"
+
+msgid "[\"Everyone is fine.\"]"
+msgstr "[\"每個人都平安無事。\"]"
+
+msgid "[\"The World Machine...\"]"
+msgstr "[\"世界機器……\"]"
+
+msgid "[\"...will send them home soon.\"]"
+msgstr "[\"……很快就會送他們回家。\"]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko_speak Well, \\p says you're not dead!"
+msgstr "@niko_speak 嗯，\\p說你沒死！"
+
+msgid "@calamus_sad Phew."
+msgstr "@calamus_sad 幸好。"
+
+msgid "@niko They also said you'll be able to go back to your home very soon!"
+msgstr "@niko 祂還說你們很快就可以回家了！"
+
+msgid "T.C."
+msgstr "T.C."
+
+msgid "Spanish Proofreader"
+msgstr "西班牙文校對員"
+
+msgid "2016 Build Testers:"
+msgstr "2016版本測試人員"
+
+msgid "@silver [Off you go, now...]"
+msgstr "@silver [去吧……再見了。]"
+
+msgid "@niko So, um... \\>\\@niko5 You..."
+msgstr "@niko 所以，呃……\\>\\@niko5 妳……"
+
+msgid "@silver [Silver.]"
+msgstr "@silver [我叫希薇兒。]"
+
+msgid "@silver_eyeclosed [I don't believe I've ever actually properly introduced myself.\\>\\nSorry for that.]"
+msgstr "@silver_eyeclosed [我好像從來沒有真正好好地自我介紹。\\>\\n抱歉啊。]"
+
+msgid "@niko It's fine!"
+msgstr "@niko 沒關係的！"
+
+msgid "@niko_speak I'm Niko, by the way!"
+msgstr "@niko_speak 附帶一提，我叫霓光！"
+
+msgid "@niko_83c It's... \\.\\.nice to meet you?"
+msgstr "@niko_83c 很……\\.\\.很高興認識妳！"
+
+msgid "@silver [Nice to meet you, too.]"
+msgstr "@silver [我也很高興能認識你。]"
+
+msgid "Matthew Martinez"
+msgstr "Matthew Martinez"
+
+msgid "OneShot Console Version Translations"
+msgstr "OneShot主機版本翻譯"
+
+msgid "Maize and George's designs:"
+msgstr "麥茈及喬智的設計："
+
+msgid "Albatrosssoup"
+msgstr "Albatrosssoup"
+
+msgid "Ame"
+msgstr "Ame"
+
+msgid "Luc"
+msgstr "Luc"
+
+msgid "Japanese Translation, LQA"
+msgstr "日文翻譯員與在地化品質保證員"
+
+msgid "Jason Black"
+msgstr "Jason Black"
+
+msgid "@proto2 [...]"
+msgstr "@proto2 [……]"
+
+msgid "@proto2b [Thank you for everything, Niko.]"
+msgstr "@proto2b [霓光，謝謝你為我們做的一切。]"
+
+msgid "@niko_speak So... do you like being a robot?"
+msgstr "@niko_speak 是說……你喜歡當機器人嗎？"
+
+msgid "@proto1 [Um.]"
+msgstr "@proto1 [這……]"
+
+msgid "@proto2 [Why this, all of a sudden?]"
+msgstr "@proto2 [為什麼忽然問這個？]"
+
+msgid "@niko2 Well, I'm gonna leave soon, so I just wanted to ask one more question!"
+msgstr "@niko2 這個嘛，因為我很快就要離開了，所以我就想再問一個問題！"
+
+msgid "@niko_eyeclosed There aren't many robots in my home world..."
+msgstr "@niko_eyeclosed 我的故鄉沒有多少機器人……"
+
+msgid "@proto2 [Ah.]"
+msgstr "@proto2 [這樣啊。]"
+
+msgid "@proto2b [It's... nice.]"
+msgstr "@proto2b [當機器人……還不錯。]"
+
+msgid "@cedric_smile I suppose it's alright!"
+msgstr "@cedric_smile 當機器人也還好啦！"
+
+msgid "@rue_smile Haha, that's a tough question, Niko!"
+msgstr "@rue_smile 哈哈，霓光，你問了一個很難回答的問題呢！"
+
+msgid "@rue_smile I mean...\\.\\. do you like being a person?"
+msgstr "@rue_smile 我是說……\\.\\.那你喜歡當人類嗎？"
+
+msgid "@niko_speak Of course!"
+msgstr "@niko_speak 當然啊！"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@niko_what Wait.\\>\\nWhy did you two answer my robot question too?"
+msgstr "@niko_what 等等。\\>\\n為什麼連你們兩個也回答我的機器人問題啊？"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ……"
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ……"
+
+msgid "@rue_smile Don't worry about it!"
+msgstr "@rue_smile 別煩惱這個了！"
+
+msgid "@proto2 [...In the end, the World Machine was starting to create its own code.]"
+msgstr "@proto2 [……最後，世界機器開始建立它自己的程式碼了。]"
+
+msgid "@proto1c [Going above and beyond its programming, not as the result of error, but as a conscious choice on the part of the machine...]"
+msgstr "@proto1c [超越它自身的程式編碼，而且這不是出於錯誤，而是機器自身有意識的抉擇……]"
+
+msgid "@proto1b [...Being able to generate its own path forward.]"
+msgstr "@proto1b [……它能夠向前開拓自己的道路了。]"
+
+msgid "@proto2b [That's...\\.\\. what being tamed is all about.]"
+msgstr "@proto2b [所謂馴化……\\.\\.就是這麼一回事。]"
+
+msgid "@cedric_smile I couldn't have said it better myself."
+msgstr "@cedric_smile 我沒辦法解釋得比這個更好。"
+
+msgid "Alexander McCaskey"
+msgstr "Alexander McCaskey"
+
+msgid "French Translation"
+msgstr "法文翻譯員"
+
+msgid "Stanhoff"
+msgstr "Stanhoff"
+
+msgid "DANGEN Entertainment"
+msgstr "DANGEN Entertainment"
+
+msgid "@maize_smile2 Off you go, now..."
+msgstr "@maize_smile2 去吧……再見了。"
+
+msgid "@maize_smile2 Hello, messiah..."
+msgstr "@maize_smile2 救世主，你好……"
+
+msgid "@niko_shock ...Plant lady? But I thought you..."
+msgstr "@niko_shock ……植物小姐？我還以為妳……"
+
+msgid "@niko_distressed2 I thought you..."
+msgstr "@niko_distressed2 我以為妳……"
+
+msgid "@niko_eyeclosed It wasn't even squares that did it..."
+msgstr "@niko_eyeclosed 而且甚至不是方塊造成的……"
+
+msgid "@maize ....."
+msgstr "@maize ……"
+
+msgid "@maize_smile2 .....no."
+msgstr "@maize_smile2 ……不是的。"
+
+msgid "@maize_smile2 I just...\\.\\. wanted to see you both again."
+msgstr "@maize_smile2 我只是……\\.\\.想再見你們兩個一面。"
+
+msgid "@maize_smile2 I just wanted to say... \\.\\.thank you..."
+msgstr "@maize_smile2 我只是想要……\\.\\.道謝……"
+
+msgid "Korean Translation"
+msgstr "韓文翻譯員"
+
+msgid "SinNoAria"
+msgstr "SinNoAria"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Sakura Yamaguchi"
+msgstr "Sakura Yamaguchi"
+
+msgid "Soundtrack:"
+msgstr "配樂："
+
+msgid "Kitsiinabox"
+msgstr "Kitsiinabox"
+
+msgid "Systems Programming:"
+msgstr "系統程式設計"
+
+msgid "Omer Oztas"
+msgstr "Omer Oztas"
+
+msgid "COO"
+msgstr "COO"
+
+msgid "Spanish LQA"
+msgstr "西班牙文品質保證員"
+
+msgid "DolphinsAreEvil"
+msgstr "DolphinsAreEvil"
+
+msgid "Special Thanks:"
+msgstr "特別感謝："
+
+msgid "So-jung Jung"
+msgstr "So-jung Jung"
+
+msgid "Max Harvey"
+msgstr "Max Harvey"
+
+msgid "Additional tracks:"
+msgstr "額外配樂："
+
+msgid "Japanese Proofreading"
+msgstr "日文校稿員"
+
+msgid "TangyOranges"
+msgstr "TangyOranges"
+
+msgid "French Proofreader"
+msgstr "法文校稿員"
+
+msgid "Redoplus"
+msgstr "Redoplus"
+
+msgid "Dan Stern"
+msgstr "Dan Stern"
+
+msgid "ZeroGuilt"
+msgstr "ZeroGuilt"
+
+msgid "Korean Proofreading, LQA"
+msgstr "韓文校稿員、品質保證員"
+
+msgid "Saniblues"
+msgstr "Saniblues"
+
+msgid "@cedric_talk \\p.... Niko...."
+msgstr "@cedric_talk \\p……還有霓光……"
+
+msgid "@cedric_smile We are forever in your debt."
+msgstr "@cedric_smile 我們永遠感激你們。"
+
+msgid "@niko_speak I'm glad we could help!"
+msgstr "@niko_speak 我很高興我們能幫上忙！"
+
+msgid "@cedric_smile Looks like you managed to do it!"
+msgstr "@cedric_smile 看來你真的設法做到了！"
+
+msgid "@rue_smile You managed to tame the World Machine, Niko!"
+msgstr "@rue_smile 霓光，你找到方法馴化了世界機器！"
+
+msgid "@niko2 I... feel like the World Machine has been tamed this whole time."
+msgstr "@niko2 我……我覺得世界機器其實從很久以前就已經馴化了。"
+
+msgid "@niko6 ...Just by \\p and I being here."
+msgstr "@niko6 ……因為\\p和我在這裡。"
+
+msgid "@niko_eyeclosed We... did spend a lot of time here, after all."
+msgstr "@niko_eyeclosed 我們……畢竟也在這裡待了很久。"
+
+msgid "@niko2 Both of us...\\.\\. never really stopped believing in this world."
+msgstr "@niko2 我們兩個都……\\.\\.一直相信這個世界。"
+
+msgid "@niko_eyeclosed The World Machine just needed to realize that, I guess..."
+msgstr "@niko_eyeclosed 我想世界機器之前只是不明白這一點吧……"
+
+msgid "@rue That... \\>\\@rue_talk Sounds like a possibility..."
+msgstr "@rue 這……\\>\\@rue_talk 聽起來很有可能……"
+
+msgid "@proto2b [...or not.]"
+msgstr "@proto2b [……也可能不是這樣。]"
+
+msgid "@niko_eyeclosed Well, just throwing that idea out there!"
+msgstr "@niko_eyeclosed 嗯，我只是說出我的想法而已！"
+
+msgid "Console build Testers:"
+msgstr "主機測試人員"
+
+msgid "Yoshiki Kono"
+msgstr "Yoshiki Kono"
+
+msgid "Developer Relations"
+msgstr "開發者關係"
+
+msgid "Mraof"
+msgstr "Mraof"
+
+msgid "Mohamed Khabatou"
+msgstr "Mohamed Khabatou"
+
+msgid "Noxid"
+msgstr "Noxid"
+
+msgid "@plight_2 Off you go, I guess...."
+msgstr "@plight_2 我猜你要離開了……"
+
+msgid "@plight_shock It's you!"
+msgstr "@plight_shock 是你！"
+
+msgid "@plight_sigh Glad to see you in one piece..."
+msgstr "@plight_sigh 真高興看到你沒事……"
+
+msgid "@niko_speak Glad to see you're ok, too!\\>\\n\\@niko5 After the whole elevator thing."
+msgstr "@niko_speak 我也很高興看到你平安！\\>\\n\\@niko5 經過電梯那件事之後。"
+
+msgid "@plight_worry That was uh...\\>\\nThat was the most awkward elevator ride I've been through."
+msgstr "@plight_worry 那件事，呃……\\>\\n那是我這輩子經歷過最尷尬的電梯搭乘體驗。"
+
+msgid "@plight_why ...and by \"awkward\" I mean terrible bad awful the absolute worst."
+msgstr "@plight_why ……所謂「尷尬」，意思是很糟超級糟完全糟糕透頂。"
+
+msgid "@plight_worry The squares like, started leaking into the room, right?"
+msgstr "@plight_worry 那些方塊感覺好像開始滲透到房間裡了對不對？"
+
+msgid "@plight_worry2 And I was trapped like a rat."
+msgstr "@plight_worry2 然後我就像被陷阱夾住的老鼠一樣跑不掉。"
+
+msgid "@plight_worry And they just kept filling in the room faster, right..."
+msgstr "@plight_worry 然後它們不斷地加快填滿整個房間，對了……"
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry ……"
+
+msgid "@plight_wtf ...AM I DEAD!?"
+msgstr "@plight_wtf ……難道我死了！？"
+
+msgid "@plight_sigh Oh thank goodness gracious."
+msgstr "@plight_sigh 喔，謝天謝地。"
+
+msgid "@plight_worry I can't work when I'm dead!"
+msgstr "@plight_worry 我死了就不能工作了！"
+
+msgid "@niko6 (...\\p, IS he?)"
+msgstr "@niko6 （……\\p，他真的沒死吧？）"
+
+msgid "[\"He's fine, Niko\"]"
+msgstr "[\"霓光，他沒事的\"]"
+
+msgid "[\"Everyone here is fine.\"]"
+msgstr "[\"這裡的每個人都平安無事。\"]"
+
+msgid "@niko They said you'll be able to go back to your home very soon!"
+msgstr "@niko 祂說你很快就可以回家了！"
+
+msgid "Robin \"Rezllen\" Crew"
+msgstr "Robin \"Rezllen\" Crew"
+
+msgid "Localization Manager"
+msgstr "在地化管理員"
+
+msgid "Story (Mechanics Concept):"
+msgstr "劇情（機械概念）："
+
+msgid "Nekkowe"
+msgstr "Nekkowe"
+
+msgid "Paul Kim"
+msgstr "Paul Kim"
+
+msgid "Gaming Quality Works"
+msgstr "遊戲品質作業"
+
+msgid "Seo-Mi Ha"
+msgstr "Seo-Mi Ha"
+
+msgid "Sauraen"
+msgstr "Sauraen"
+
+msgid "@rue_smile Thank you for everything, Niko."
+msgstr "@rue_smile 霓光，謝謝你為我們做的一切。"
+
+msgid "@rue_sad We'll miss you."
+msgstr "@rue_sad 我們會想念你的。"
+
+msgid "@rue This path leads to the summit of the tower."
+msgstr "@rue 這條路通往塔頂。"
+
+msgid "@rue You... \\.\\.already know what to expect, right?"
+msgstr "@rue 你……\\.\\.已經知道接下來會怎麼樣了吧？"
+
+msgid "@niko Mhm..."
+msgstr "@niko 知道……"
+
+msgid "@niko2 It's the glass room, right?"
+msgstr "@niko2 要去玻璃房間對吧？"
+
+msgid "@rue_smile That's it!"
+msgstr "@rue_smile 就是這樣！"
+
+msgid "@rue You can go through this portal when you are ready."
+msgstr "@rue 等你準備好了，就可以從這道傳送門走過去。"
+
+msgid "@rue Goodbye, Niko."
+msgstr "@rue 霓光，再見了。"
+
+msgid "Hiino"
+msgstr "Hiino"
+
+msgid "Carrick Lomas"
+msgstr "Carrick Lomas"
+
+msgid "M3ltd0wn"
+msgstr "M3ltd0wn"
+
+msgid "Thank you for playing."
+msgstr "感謝您玩本遊戲。"
+
+msgid "QA Manager"
+msgstr "品質保證管理員"
+
+msgid "French LQA"
+msgstr "法文在地化品質保證員"
+
+msgid "Kalkie"
+msgstr "Kalkie"
+
+msgid "Laurie DeNicola"
+msgstr "Laurie DeNicola"
+
+msgid "Dan Luffey"
+msgstr "Dan Luffey"
+
+msgid "Story and Worldbuilding:"
+msgstr "劇情及世界觀："
+
+msgid "Solstice Testers:"
+msgstr "至日測試員："
+
+msgid "Cyzoran"
+msgstr "Cyzoran"
+
+msgid "Brazilian Portuguese Translation"
+msgstr "葡萄牙文（巴西）翻譯員"
+
+msgid "Testers of Original OneShot:"
+msgstr "原版《一次機會》測試人員："
+
+msgid "durrbill"
+msgstr "durrbill"
+

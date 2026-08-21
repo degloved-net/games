@@ -1,0 +1,20 @@
+LMMBIOS(C)X021 LMM EMPRESARIAL, S.A.
+
+XIDON 2290-B ACPI BIOS Revisión 1043
+CPU: YTEC(R) Y-4430M CPU @ 1.650GHz
+
+Analizando LPRAM@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+
+2048KB OK
+
+Detectando Dispositivos SCSI @WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+SCSI1: Dispositivo de Entrada #140F604
+SCSI2: Puerto de Red #1B01C20
+SCSI4: Acceso Remoto #200A490
+
+Auto-detectando Almacenamiento Masivo@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+512MB MTD500100593-3B1
+@SCANSOUNDS 
+Escaneando sonidos@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+Escaneo completado.  @SOUNDS sonidos encontrados.
+Cargando sonidos:

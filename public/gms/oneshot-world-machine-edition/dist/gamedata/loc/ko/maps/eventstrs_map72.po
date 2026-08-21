@@ -1,0 +1,705 @@
+msgid "Hopefully one day he'll show up!"
+msgstr "언젠가는 저자가 직접 와 줬으면 좋겠어!"
+
+msgid "I mean, I don't think many people have ever seen him in person."
+msgstr "저자의 실물을 본 사람은 별로 없을걸."
+
+msgid "...or know what he looks like!"
+msgstr "...어떻게 생겼는지 아는 사람도 별로 없고!"
+
+msgid "Everyone's heard OF him through secondhand accounts, though."
+msgstr "모두들 다른 사람에게서 건너 들은 이야기로만 그를 알고 있으니까."
+
+msgid "...oh! But he did reply to my letter that one time!"
+msgstr "...아! 그렇지만, 그 사람은 딱 한 번 내 편지에 답장을 해 줬어!"
+
+msgid "I got it framed immediately."
+msgstr "받자마자 고이 액자에 끼워 뒀지."
+
+msgid "@niko Nice."
+msgstr "@niko 괜찮네요."
+
+msgid "Oh, hello! Do you need directions?"
+msgstr "오, 안녕! 안내가 필요하니?"
+
+msgid "Let's see... this area here is mostly historical accounts, the reference section is downstairs, and, uh..."
+msgstr "어디 보자... 이 구역은 주로 역사에 관한 내용이고 참고서는 아래층에 있고, 음..."
+
+msgid "I'm not sure where the children's section is... sorry!"
+msgstr "아동서는 어디 있는지 모르겠네... 미안해!"
+
+msgid "@niko_speak That's ok! \\.\\.\\@niko I'm not really looking for books."
+msgstr "@niko_speak 괜찮아요! \\.\\.\\@niko 전 책을 찾으러 온 게 아니거든요."
+
+msgid "Oh! Are you here to... look for the Author, then?"
+msgstr "아! 그럼 넌... 저자를 찾으러 온 거니?"
+
+msgid "@niko ...no?"
+msgstr "@niko ...아뇨?"
+
+msgid "Oh, that's good!"
+msgstr "아, 다행이구나!"
+
+msgid "Er, I mean... that means you won't be disappointed!"
+msgstr "아, 그러니까... 실망할 일이 없어서 다행이란 얘기야!"
+
+msgid "I've been volunteering here for months, and I've never seen him, not even once!"
+msgstr "난 여기서 몇 달째 자원봉사를 하고 있지만 한 번도 저자를 보지 못했거든!"
+
+msgid "He works together with the head librarian on publishing, so you'd think he would at least show up once in a while..."
+msgstr "그 사람은 수석 사서와 함께 책을 내거든. 그래서 적어도 가끔씩은 올 거라고 생각했는데..."
+
+msgid "@niko_speak But... he doesn't?"
+msgstr "@niko_speak 그런데... 오지 않나요?"
+
+msgid "Yeah... he seems kiiinda reclusive."
+msgstr "그래... 모습을 드러내는 걸 좋아하지 않나 봐."
+
+msgid "...which is weird for a guy who supposedly travels the world."
+msgstr "...온 세상을 여행하는 사람치고는 이상하지."
+
+msgid "Maybe it's just around people..."
+msgstr "사람들이 있을 때만 그런 건지도 몰라..."
+
+msgid "@niko Um..."
+msgstr "@niko 음..."
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf 그 책에다... 뭘 하시는... 거예요?"
+
+msgid "Don't worry, these are my own books. That I wrote."
+msgstr "걱정하지 마. 이건 내 책이거든. 내가 직접 쓴 거야."
+
+msgid "I just pulled them off the shelves to modify them. I have to cross out some sections..."
+msgstr "내용을 수정하려고 몇 권을 책장에서 꺼냈어. 내용을 일부 지워야 해..."
+
+msgid "...most sections."
+msgstr "...아마 대부분 지워야 하겠지만."
+
+msgid "@niko_speak Eh? How come?"
+msgstr "@niko_speak 응? 어째서죠?"
+
+msgid "Cuz otherwise they'll think I copied HIM."
+msgstr "그렇지 않으면, 사람들은 내가 그 사람의 저서를 베꼈다고 생각할 테니까."
+
+msgid "@niko Him?"
+msgstr "@niko 그 사람이요?"
+
+msgid "The Author!"
+msgstr "저자 말이야!"
+
+msgid "I mean, I really don't see the point of writing anything anymore!"
+msgstr "사실 이제 책을 써 봐야 의미가 없어!"
+
+msgid "The Author is just gonna write about the same thing, and then everyone will love it!"
+msgstr "어차피 저자가 같은 주제에 대해 책을 쓸 테니까! 다들 내 것 말고 그 사람의 글을 좋아하겠지!"
+
+msgid "And nobody's gonna remember the books that came out before his!"
+msgstr "그리고 그 전에 나왔던 책은 아무도 기억하지 못할 거야!"
+
+msgid "@niko Oh, uh..."
+msgstr "@niko 아, 그렇군요..."
+
+msgid "I mean, I ain't hatin'."
+msgstr "오해하지 마. 싫어하는 건 아니야."
+
+msgid "I can see why people go nuts over his stuff. That guy's got major talent."
+msgstr "사람들이 왜 그 사람의 책에 열광하는지는 알고 있으니까. 그 사람은 재능이 있거든."
+
+msgid "But... it just... hurts, y'know?"
+msgstr "하지만... 좀... 힘들어... 이해하니?"
+
+msgid "It's never fun when people call you a copycat for something you wrote about first."
+msgstr "내가 먼저 썼는데도 사람들이 내 작품을 모방작이라 부르면 기분이 좋을 리 없지."
+
+msgid "@niko I can see that..."
+msgstr "@niko 알 것 같아요..."
+
+msgid "@niko_speak People call me a cat all the time!"
+msgstr "@niko_speak 사람들은 항상 저더러 고양이라고 하거든요!"
+
+msgid "@niko_eyeclosed Even though I'm a person, and cats are pets."
+msgstr "@niko_eyeclosed 전 사람이고 고양이는 애완동물인데 말이에요."
+
+msgid "@niko ...and mousers."
+msgstr "@niko ...그리고 고양이는 쥐를 잡죠."
+
+msgid "@niko_eyeclosed I sure hope people don't think I eat mice..."
+msgstr "@niko_eyeclosed 제가 쥐를 잡아먹을 거라고 사람들이 생각하지 않기를 바라요..."
+
+msgid "Heh, then I guess we're in the same boat, kiddo."
+msgstr "하하, 아무래도 우리는 같은 처지인 것 같네, 꼬마야."
+
+msgid "Well, I think I changed at least half a book's worth of content."
+msgstr "뭐, 책의 내용을 반은 바꿔 버렸어."
+
+msgid "And even then, it's still too similiar!"
+msgstr "그래도 내용이 너무 비슷해!"
+
+msgid "Looks like I'll just have to accept my fate..."
+msgstr "아무래도 슬슬 운명을 받아들여야 할까 봐..."
+
+msgid "@niko Well, I guess being a called a cat isn't all that bad..."
+msgstr "@niko 고양이라 불리는 것도 그리 나쁘지는 않은 것 같아요..."
+
+msgid "@niko_eyeclosed ...as long as people don't assume you eat mice."
+msgstr "@niko_eyeclosed ...사람들이 제가 쥐를 먹는다고만 생각하지 않는다면 말이죠."
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko 잉크병과 깃펜이네요."
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c 옛날 생각이 나요. 그렇죠, \\p 님?"
+
+msgid "...y'know, I've tried looking for the flying machine with my binoculars for ages!"
+msgstr "...난 아주 옛날부터 쌍안경으로 하늘을 나는 기계를 찾고 있어!"
+
+msgid "Never saw such a thing, though..."
+msgstr "기계는커녕 고철 쪼가리도 못 봤지만..."
+
+msgid "The Author is so cool!"
+msgstr "저자는 정말 멋져!"
+
+msgid "I heard he can travel all over the world with a flying machine!"
+msgstr "그 사람은 하늘을 나는 기계를 타고 세계 곳곳을 여행한대!"
+
+msgid "That's how he gathers material for his books."
+msgstr "그렇게 책의 소재를 모으는 모양이야."
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak 우와!"
+
+msgid "@niko A small pile of books."
+msgstr "@niko 작은 책 더미예요."
+
+msgid "@bookbot !"
+msgstr "@bookbot !"
+
+msgid "@bookbot [UNAUTHORIZED ENTRY.]"
+msgstr "@bookbot [무단출입입니다.]"
+
+msgid "@bookbot [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]"
+msgstr "@bookbot [그곳에 들어가려면 출입증이 필요합니다.]"
+
+msgid "@niko_eyeclosed I know, I know..."
+msgstr "@niko_eyeclosed 알고 있어요, 안다니까요..."
+
+msgid "@niko Wait, what?"
+msgstr "@niko 잠깐만, 뭐라고요?"
+
+msgid "@niko_speak I don't have a library card, though!"
+msgstr "@niko_speak 난 출입증이 없는데!"
+
+msgid "@niko Where can I get one?"
+msgstr "@niko 어디서 받아야 하죠?"
+
+msgid "@bookbot [THIS IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [그 내용은 수석 사서인 조지에게 문의하셔야 합니다.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER.]"
+msgstr "@bookbot [수석 사서에게 전화를 걸어 드리지요.]"
+
+msgid "@niko_huh . . ."
+msgstr "@niko_huh ..."
+
+msgid "@niko_wtf2 . . . . ."
+msgstr "@niko_wtf2 ....."
+
+msgid "@bookbot [SHE IS NOT PICKING UP.]"
+msgstr "@bookbot [전화를 받지 않는군요.]"
+
+msgid "@niko_eyeclosed I figured..."
+msgstr "@niko_eyeclosed 그럴 줄 알았어요..."
+
+msgid "@niko Are you sure you can't just... let me through?"
+msgstr "@niko 저기... 그냥 지나가게 해 주시면 안 되나요?"
+
+msgid "@bookbot [LETTING YOU THROUGH WITHOUT A LIBRARY CARD IS AGAINST MY PROGRAMMING.]"
+msgstr "@bookbot [출입증이 없는 사람의 출입을 허가하는 행위는 제 프로그래밍에 어긋납니다.]"
+
+msgid "@niko_what Wh-"
+msgstr "@niko_what 에..."
+
+msgid "@niko Even in an emergency?"
+msgstr "@niko 위급한 상황이라도요?"
+
+msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
+msgstr "@bookbot [제 프로그래밍은 그렇게 유연하지 않습니다.]"
+
+msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@bookbot [전 길들여지지 않았거든요.]"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed 하아..."
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[필요하신 게 있습니까? 앞쪽에서 말을 걸어 주십시오.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko There's this book I found back in the barrens area."
+msgstr "@niko 여기 불모지에서 가지고 온 책이 한 권 있어요."
+
+msgid "@niko_speak Since this is a place for books, would you happen to know what it says?"
+msgstr "@niko_speak 여긴 책을 위한 공간이잖아요. 그래서 말인데 혹시 이 책의 내용을 아시겠어요?"
+
+msgid "@bookbot [I DO NOT RECOGNIZE THIS LANGUAGE]"
+msgstr "@bookbot [제가 인식할 수 없는 언어입니다.]"
+
+msgid "@bookbot [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]"
+msgstr "@bookbot [하지만 표지의 이 표식은 중요합니다.]"
+
+msgid "@niko Oh?"
+msgstr "@niko 아?"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, CAN EXPLAIN IT.]"
+msgstr "@bookbot [수석 사서인 조지라면 분명 설명할 수 있을 겁니다.]"
+
+msgid "@bookbot [WOULD YOU LIKE ME TO CALL HER?]"
+msgstr "@bookbot [수석 사서에게 전화를 걸어 드릴까요?]"
+
+msgid "@niko_eyeclosed Please don't."
+msgstr "@niko_eyeclosed 아뇨, 하지 마세요."
+
+msgid "@bookbot [AUTHENTICATING BARCODE...]"
+msgstr "@bookbot [바코드 인증 중...]"
+
+msgid "@bookbot [EXECUTING FACIAL RECOGNITION...]"
+msgstr "@bookbot [얼굴 인식 실행 중...]"
+
+msgid "@bookbot [PHOTO MATCH...\\. FAILED.]"
+msgstr "@bookbot [사진 확인... \\. 실패.]"
+
+msgid "@bookbot [IT SEEMS YOU DO NOT RESEMBLE THE OWNER OF THE CARD.]"
+msgstr "@bookbot [당신은 이 출입증의 소유자와 닮지 않았습니다.]"
+
+msgid "@bookbot [YOU CANNOT USE THIS CARD.]"
+msgstr "@bookbot [당신은 이 출입증을 사용하실 수 없습니다.]"
+
+msgid "@niko_eyeclosed Bummer..."
+msgstr "@niko_eyeclosed 쳇..."
+
+msgid "@bookbot [INVALID CARD!]"
+msgstr "@bookbot [카드가 유효하지 않습니다!]"
+
+msgid "@bookbot [PHOTO IS MISSING.]"
+msgstr "@bookbot [사진이 없습니다.]"
+
+msgid "@niko_eyeclosed ...why did I do that."
+msgstr "@niko_eyeclosed ...내가 왜 그랬을까."
+
+msgid "@bookbot [HAVE A NICE DAY, MISS KIP.]"
+msgstr "@bookbot [좋은 시간 보내십시오, 킵 씨.]"
+
+msgid "@niko Yup, that's... totally me."
+msgstr "@niko 맞아요. 그게... 저예요."
+
+msgid "@bookbot [PHOTO MATCH...\\. SUCCESSFUL]"
+msgstr "@bookbot [사진 확인... \\. 성공.]"
+
+msgid "@bookbot [YOU'RE GOOD TO GO!]"
+msgstr "@bookbot [가셔도 좋습니다!]"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_eyeclosed ...maybe I should've changed the name."
+msgstr "@niko_eyeclosed ...이름을 바꿀 걸 그랬나 봐요."
+
+msgid "@niko So I'm guessing you don't give out library cards?"
+msgstr "@niko 그럼, 출입증 신청은 할 수 없나요?"
+
+msgid "@bookbot [I ONLY HANDLE BOOK TRANSACTIONS.]"
+msgstr "@bookbot [전 서적 반출만 처리합니다.]"
+
+msgid "@bookbot [...FOR PEOPLE WHO ALREADY POSSESS CARDS.]"
+msgstr "@bookbot [...출입증을 지닌 사람들의 서적 반출입니다.]"
+
+msgid "@niko Ah."
+msgstr "@niko 그렇군요."
+
+msgid "@bookbot [TO ACQUIRE A CARD, YOU WOULD NEED TO CONTACT THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [카드를 발급받으려면 수석 사서인 조지에게 문의하셔야 합니다.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER-"
+msgstr "@bookbot [수석 사서에게 전화를-"
+
+msgid "@niko_surprised Don't!!"
+msgstr "@niko_surprised 괜찮아요!!"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [수석 사서인 조지는 이 위쪽의 기록 보관실에 있습니다.]"
+
+msgid "@niko Excuse me!"
+msgstr "@niko 잠깐 실례할게요!"
+
+msgid "@bookbot [OH. YOU ARE THE MESSIAH.]"
+msgstr "@bookbot [오, 구원자시군요.]"
+
+msgid "@bookbot [WELCOME.]"
+msgstr "@bookbot [어서 오십시오.]"
+
+msgid "@niko_speak When I first entered the city, a big robot told me to look for a library on the surface!"
+msgstr "@niko_speak 이 도시에 처음 들어왔을 때, 큰 로봇이 제게 지상층에서 도서관을 찾으라고 했어요!"
+
+msgid "@niko This is the same library, right?"
+msgstr "@niko 여기가 그 도서관 맞죠?"
+
+msgid "@bookbot [AFFIRMATIVE.]"
+msgstr "@bookbot [그렇습니다.]"
+
+msgid "@niko_speak Oh, goody!"
+msgstr "@niko_speak 오, 다행이다!"
+
+msgid "@niko Well... we're here... what do we do now?"
+msgstr "@niko 그래서... 여기 왔는데, 이제 어떻게 해야 하나요?"
+
+msgid "@niko_eyeclosed The big robot only said there'd be clues here..."
+msgstr "@niko_eyeclosed 그 로봇은 여기에 단서가 있다고만 했는데..."
+
+msgid "@bookbot [THAT IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [그 내용은 수석 사서인 조지에게 문의하셔야 합니다.]"
+
+msgid "@niko_speak Is she... not here?"
+msgstr "@niko_speak 지금... 여기 없나요?"
+
+msgid "@bookbot [SHE IS HERE. SHE IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [있습니다. 위층에 있는 기록 보관실에 있지요.]"
+
+msgid "@bookbot [WHEN SHE IS CONCENTRATING ON HER WORK, SHE WILL IGNORE ANY AND ALL PHONECALLS.]"
+msgstr "@bookbot [다만 수석 사서 조지는 일에 집중하는 동안 전화를 일체 받지 않습니다.]"
+
+msgid "@bookbot [...FOR SEVERAL DAYS.]"
+msgstr "@bookbot [...며칠씩이요.]"
+
+msgid "@niko_what Yikes!"
+msgstr "@niko_what 이런!"
+
+msgid "@niko Can you go get her in person, then?"
+msgstr "@niko 직접 가서 그 분을 데려와 주시면 안 되나요?"
+
+msgid "@bookbot [LEAVING THIS POST IS NOT IN MY PROGRAMMING.]"
+msgstr "@bookbot [이 자리를 뜨는 행위는 제 프로그래밍에 없습니다.]"
+
+msgid "@niko Then... can I go myself?"
+msgstr "@niko 그럼... 제가 직접 가도 되나요?"
+
+msgid "@bookbot [OF COURSE.]"
+msgstr "@bookbot [물론입니다.]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS ACCESSIBLE THROUGH THE STAIRWELL BEHIND ME.]"
+msgstr "@bookbot [기록 보관실은 제 뒤쪽의 층계를 통해 가실 수 있습니다.]"
+
+msgid "@niko_speak Gotcha, thanks!"
+msgstr "@niko_speak 알았어요. 고마워요!"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko 컴퓨터예요. 꺼져 있어요."
+
+msgid "I guess that's why the library is always so packed."
+msgstr "그게 도서관에 항상 사람들이 득시글거리는 이유야."
+
+msgid "...and this is a slow day, mind you!"
+msgstr "...그나마 오늘은 좀 한가한 편이지!"
+
+msgid "The Author's books cover a wide range of topics."
+msgstr "이 저자는 정말 광범위한 주제를 다루지."
+
+msgid "It seems there are no subjects he does not write about."
+msgstr "다루지 않는 분야를 찾기 힘들 정도야."
+
+msgid "Quite the renaissance man, don't you think?"
+msgstr "팔방미인인 것 같아. 안 그래?"
+
+msgid "@niko I guess so!"
+msgstr "@niko 그러게요!"
+
+msgid "But he's been focusing on documenting the world, as of late."
+msgstr "하지만 최근에는 이 세상의 모습을 기록으로 남기는 데 주력하고 있지."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 아?"
+
+msgid "They say this city is the last bastion of civilization."
+msgstr "다들 이 도시가 문명의 마지막 보루라고 말해."
+
+msgid "Soon, these books may be the only thing we have to remember the rest of the world by."
+msgstr "이 책들은 곧 우리가 나머지 세계를 추억하는 유일한 수단이 될지도 몰라."
+
+msgid "@niko ...ah."
+msgstr "@niko ...아."
+
+msgid "@niko I haven't seen any superheroes in this world."
+msgstr "@niko 이 세계에서 영웅은 보지 못했는데요."
+
+msgid "@niko_speak Saw a lot of robots, though!"
+msgstr "@niko_speak 대신 로봇은 많이 봤어요!"
+
+msgid "Well, I guess robots are more plausible than superpowers..."
+msgstr "뭐, 초능력을 가진 슈퍼 영웅보다는 로봇이 그럴싸하지..."
+
+msgid "@niko True!"
+msgstr "@niko 맞아요!"
+
+msgid "The Author publishes books at a highly accelerated, almost inhuman pace."
+msgstr "이 저자는 정말 인간인가 싶을 만큼 빠른 속도로 책을 출간하고 있어."
+
+msgid "In fact, he has put out more books in one year than most authors do in a lifetime."
+msgstr "실제로 웬만한 저자가 평생 동안 내는 책보다 이 저자가 지난 1년 동안 낸 책이 더 많다고."
+
+msgid "According to the head librarian, there is still a large amount of material he has written, but not yet published."
+msgstr "수석 사서의 말에 따르면 아직도 쓰기만 하고 출판하지 않은 자료가 많다고 해."
+
+msgid "One cannot help but to wonder where he can get so much done in so little time."
+msgstr "대체 어디서 이렇게 짧은 시간에 많은 일을 할 수 있는지 궁금할 뿐이야."
+
+msgid "I did the calculations, and the numbers simply do not add up."
+msgstr "내 나름대로 계산도 해 봤는데, 도무지 계산이 맞아 떨어지질 않는다고."
+
+msgid "@niko Maybe he... \\.\\.\\@niko_speak can stop time?"
+msgstr "@niko 어쩌면... \\.\\.\\@niko_speak 시간을 멈출 수 있는 게 아닐까요?"
+
+msgid "No such mechanism exists in this world."
+msgstr "그런 건 이 세상에서는 불가능해."
+
+msgid "...Is that actually possible in your home dimension?"
+msgstr "...네가 살던 차원에서는 가능한 일이야?"
+
+msgid "@niko_eyeclosed Nah, I just saw it in a movie once..."
+msgstr "@niko_eyeclosed 아뇨, 그냥 영화에서 한 번 봤을 뿐이에요..."
+
+msgid "@niko About... superheroes and stuff."
+msgstr "@niko 슈퍼 영웅 같은 게 나오는 영화요."
+
+msgid "There's a couple of his books in this room that aren't occupied yet."
+msgstr "이 방에는 아직 아무도 빌려 가지 않은 그의 저서가 두어 권 있어."
+
+msgid "Hurry before someone takes them!"
+msgstr "누가 가져가기 전에 빨리 맡아!"
+
+msgid "So, what do you think about the Author?"
+msgstr "너는 이 저자에 대해 어떻게 생각해?"
+
+msgid "@niko I... don't know?"
+msgstr "@niko 글... 쎄요?"
+
+msgid "Have you read his stuff yet?"
+msgstr "아직 저서를 안 읽어 본 거야?"
+
+msgid "If not, you should!"
+msgstr "꼭 읽어 봐!"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko 책이 책장에 잘 정돈되어 있어요."
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko 책들이 책장에 가지런히 놓여 있어요."
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko 책장에 책들이 잘 배치되어 있어요."
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko 책장에 책이 깔끔하게 정리되어 있어요."
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko 책장에 책이 깔끔하게 놓여 있어요."
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko 책들이 책장에 잘 정돈되어 있어요."
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko 잘 정돈된 책들이 책장에 놓여 있어요."
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko 책장에 책이 있어요. 잘 정돈되어 있네요."
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko 바닥에 책 더미가 있어요."
+
+msgid "@niko A book!"
+msgstr "@niko 책이에요!"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[정리 정돈 중...]"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko 높이 쌓인 책이에요."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "@niko Hi."
+msgstr "@niko 안녕하세요."
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[정리 정돈 중입니다.]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[책이 떨어질 가능성이 있으니 조심하십시오.]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 그럴게요!"
+
+msgid "@niko Coffee cups."
+msgstr "@niko 커피 잔이에요."
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak 커피는 어른들이 마시는 거예요!"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed 네... 아직도 사다리는 무서워요."
+
+msgid "@niko A coffee machine."
+msgstr "@niko 커피 머신이에요."
+
+msgid "@niko It's almost empty..."
+msgstr "@niko 거의 비어 있어요..."
+
+msgid "@niko A photo of some plants."
+msgstr "@niko 식물 사진이에요."
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko 일종의 현판이에요."
+
+msgid "@niko_huh He just glared at me."
+msgstr "@niko_huh 저 사람이 방금 절 노려봤어요."
+
+msgid "@niko_eyeclosed I don't think we should bother him, \\p..."
+msgstr "@niko_eyeclosed 방해하지 않는 게 좋을 것 같아요, \\p 님..."
+
+msgid "..."
+msgstr "..."
+
+msgid ".....WHAT??!?"
+msgstr "...뭐라고??!?"
+
+msgid "@niko_huh Wh-\\.\\.\\@niko I didn't say anything."
+msgstr "@niko_huh 앗...\\.\\.\\@niko 아무 말도 안 했어요."
+
+msgid "Well stop staring at me then!"
+msgstr "그럼 그만 좀 쳐다봐!"
+
+msgid "@niko_speak I was just looking at your book..."
+msgstr "@niko_speak 전 당신이 들고 있는 책을 본 것뿐인데요..."
+
+msgid "Yes. You are in a library. There's books. In the library."
+msgstr "넌 도서관에 있거든. 도서관 안에는 이런 책들이 있지."
+
+msgid "...Go bug the chatty one upstairs."
+msgstr "...위층에 있는 수다쟁이하고나 얘기하지그래."
+
+msgid "@niko A photo of some people."
+msgstr "@niko 사람들이 찍혀 있는 사진이에요."
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko 책의 목록이 쓰여 있는 것 같아요..."
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [문의 사항이 있으면 안내 데스크로 문의해 주세요.]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko 전 괜찮아요, 고마워요!"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak 표지에 검은 클로버가 그려진 책이에요."
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko \"발광체에 관한 종합 안내서\"라는 제목이 적혀 있어요."
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko 매직팬으로 그린 클로버예요."
+
+msgid "@niko A marker eraser."
+msgstr "@niko 칠판 지우개예요."
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko \"태양이 사라진 세계에서 탄생한 새로운 생태계\"라는 제목이 적혀 있어요."
+
+msgid "@niko A green marker."
+msgstr "@niko 녹색 매직팬예요."
+
+msgid "kip card"
+msgstr "킵 출입증"
+
+msgid "I just like looking at pictures."
+msgstr "난 그림을 보는 게 좋아."
+
+msgid "@niko Same."
+msgstr "@niko 저도 마찬가지예요."
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak 책을 정말 빨리 보네요!"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "맞아. 대부분 그림이거든!"
+
+msgid "Yeah! The author doesn't only write books, he also illustrates them!"
+msgstr "봐! 저자는 책만 쓰는 게 아니야. 삽화도 그리지!"
+
+msgid "Sometimes he makes books out of only pictures."
+msgstr "가끔 그림만 있는 책이 나올 때도 있어."
+
+msgid "@niko Neat!"
+msgstr "@niko 멋지네요!"
+
+msgid "@niko A blue marker."
+msgstr "@niko 파란색 매직팬예요."
+
+msgid "niko card"
+msgstr "니코 출입증"
+
+msgid "@niko A red marker."
+msgstr "@niko 빨간색 매직팬예요."
+
+msgid "glittery"
+msgstr "반짝거림"
+
+msgid "Oh, and picture books, those too."
+msgstr "아, 그림책도 내고."
+
+msgid "@niko_speak I like pictures!"
+msgstr "@niko_speak 저도 그림이 좋아요!"
+
+msgid "The Author's latest books are really something, yeah?"
+msgstr "저자의 최근 저서는 정말 굉장해. 안 그래?"
+
+msgid "The head librarian just released a bunch last week!"
+msgstr "수석 사서가 지난주에 몇 권을 출간했거든!"
+
+msgid "They're big compendiums, you'll see them if you look around."
+msgstr "전부 큼직한 전서야. 둘러보면 쉽게 찾을 수 있을 거야."
+
+msgid "Kinda different from his earlier works, though."
+msgstr "하지만 이전 작품들과는 꽤 다르지."
+
+msgid "I'm used to reading his travel logs and novels, mostly."
+msgstr "난 보통은 저자가 쓰는 여행기와 소설을 즐겨 읽어."
+
+msgid "I'm on my 3rd cup."
+msgstr "벌써 세 컵째야."
+
+msgid "I can't feel my limbs..."
+msgstr "팔다리에 감각이 없어..."
+
+msgid "@niko um..."
+msgstr "@niko 으음..."
+
+msgid "BUT I HAVE TO STAY AWAKE."
+msgstr "하지만 난 깨어 있어야 돼."
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "이 책이 어떻게 끝나는지 알아야겠어..."
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 으음..."
+
+msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
+msgstr "저자도 그놈의 작품도 모두 저주나 받아라... 다음 권이 너무 궁금하단 말이지..."
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko 금속으로 만든 칠판이에요."
+
+msgid "cardquest + desk"
+msgstr "카드 퀘스트 + 책상"
+

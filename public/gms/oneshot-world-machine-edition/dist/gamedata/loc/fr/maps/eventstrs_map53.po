@@ -1,0 +1,210 @@
+msgid "@niko Milk and sugar."
+msgstr "@niko Du lait et du sucre."
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak J'aime les deux !"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed ... mais pas dans le café."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Une machine à café."
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak C'est presque plein !"
+
+msgid "@ling_smile Hang in there.\\>\\nYou can do it."
+msgstr "@ling_smile Accroche-toi.\\>\\nTu peux y arriver."
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed Merci..."
+
+msgid "@ling_shock Oh hey, you're back!\\>\\n\\@ling Did you manage to fix the elevator?"
+msgstr "@ling_shock Oh, te revoilà !\\>\\n\\@ling Tu as réussi à réparer l'ascenseur ?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak \\p and I went to the surface already!\\>\\n\\@niko And..."
+msgstr "@niko Oui !\\>\\n\\@niko_speak \\p et moi avons la surface !\\>\\n\\@niko Et..."
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko_speak Well, I remembered there being a cafe here!\\>\\n\\@niko Do you have pancakes?"
+msgstr "@niko_eyeclosed ...\\>\\n\\@niko_speak Eh bien, je me souvenais qu'il y avait un café ici !\\>\\n\\@niko Vous avez des pancakes ?"
+
+msgid "@ling We sure do!"
+msgstr "@ling Évidemment !"
+
+msgid "@niko_speak Wait! I don't have any money...\\>\\n\\@niko Maybe I can help you wash dishes... or... something?"
+msgstr "@niko_speak Attendez ! Je n'ai pas d'argent...\\>\\n\\@niko Je peux peut-être vous aider à faire la vaisselle... ou... quelque chose comme ça ?"
+
+msgid "@ling_smile No, no! It's on the house!\\>\\n\\@ling The least I can do for the savior, right?"
+msgstr "@ling_smile Non, non ! C'est cadeau de la maison !\\>\\n\\@ling C'est le moins que je puisse faire pour le messie, non ?"
+
+msgid "@ling Here, why don't you take a seat?\\>\\nI'll go fry some up for you."
+msgstr "@ling Tiens, viens donc t'asseoir.\\>\\nJe vais te préparer tout ça."
+
+msgid "@niko_pancakes Pancakes..."
+msgstr "@niko_pancakes Des pancakes..."
+
+msgid "@niko These pancakes are so good...\\>\\n\\@niko_speak Thank you so much!"
+msgstr "@niko Ces pancakes sont délicieux...\\>\\n\\@niko_speak Merci beaucoup !"
+
+msgid "@ling No problem!\\>\\nYou looked really hungry."
+msgstr "@ling Je t'en prie !\\>\\nTu avais l'air d'avoir très faim."
+
+msgid "@niko Yeah... I thought this would be my last chance to eat something before I go in the Tower."
+msgstr "@niko Oui... Je me suis dit que ce serait ma dernière chance de me remplir l'estomac avant d'entrer dans la Tour."
+
+msgid "@ling_hm2 Ah, gotcha."
+msgstr "@ling_hm2 Ah, je vois."
+
+msgid "@ling So... I guess pancakes are your favorite food?"
+msgstr "@ling Alors... j'imagine que les pancakes sont ton plat préféré ?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak ...well, almost!"
+msgstr "@niko Ouais !\\>\\n\\@niko_speak ... Enfin, presque !"
+
+msgid "@niko_pancakes My favorite food in the world are the special pancakes that my mama makes!"
+msgstr "@niko_pancakes Ce que je préfère par-dessus tout, c'est les pancakes spéciaux de ma maman !"
+
+msgid "@niko She likes to pick hazelnuts and grind them up into the batter."
+msgstr "@niko Elle aime cueillir des noisettes et en ajouter dans la pâte."
+
+msgid "@ling_smile Oh, wow, that sounds amazing!"
+msgstr "@ling_smile Ouah, ça donne vraiment envie !"
+
+msgid "@niko_pancakes They TASTE amazing!\\>\\n\\@niko She always made them when I was feeling sad.\\>\\n\\@niko Or lonely... or..."
+msgstr "@niko_pancakes Ils sont DÉLICIEUX !\\>\\n\\@niko Elle en préparait toujours quand j'étais triste.\\>\\n\\@niko Ou dans les périodes de solitude... ou..."
+
+msgid "@niko_sad ..."
+msgstr "@niko_sad ..."
+
+msgid "@niko_sad Mama...\\>\\n\\@niko_sad I really miss her..."
+msgstr "@niko_sad Maman...\\>\\n\\@niko_sad Elle me manque tellement..."
+
+msgid "@niko_less_sad ...I just...\\>\\n\\@niko_sad ...I just have a bad feeling all of a sudden!"
+msgstr "@niko_less_sad ... C'est juste que...\\>\\n\\@niko_sad ... j'ai un mauvais pressentiment !"
+
+msgid "@niko_distressed_meow Am I... even here to save the world?\\>\\nPeople have been saying how the sun won't fix anything!"
+msgstr "@niko_distressed_meow Est-ce que je suis là pour... sauver le monde ?\\>\\nLes gens disent que le soleil ne résoudra rien !"
+
+msgid "@niko_sad I don't even know why I'm here...\\>\\n\\@niko_less_sad I just wanna see my mama again..."
+msgstr "@niko_sad Je ne sais même pas pourquoi je suis là...\\>\\n\\@niko_less_sad Je veux juste revoir ma maman..."
+
+msgid "@ling2 Oh, uh...\\>\\n\\@ling_oh There, there...\\>\\n\\@ling_smile It's gonna be okay!"
+msgstr "@ling2 Oh, oh...\\>\\n\\@ling_oh Allons, ne t'en fais pas...\\>\\n\\@ling_smile Tout se passera bien !"
+
+msgid "@ling_hm And... \\@ling I'm sure you'll be able to save the world! \\>\\n\\@ling_smile You're a tough kid, you managed to get this far already, right?"
+msgstr "@ling_hm Et...\\@ling je suis sûre que tu pourras sauver le monde ! \\>\\n\\@ling_smile Tu es du genre dur à cuire, non ?"
+
+msgid "@niko_distressed_meow Yeah... \\.\\.but..."
+msgstr "@niko_distressed_meow Oui... \\.\\. mais..."
+
+msgid "@ling And you'll get to go home afterwards, right?"
+msgstr "@ling Et après, tu pourras rentrer chez toi, pas vrai ?"
+
+msgid "@niko_less_sad Right..."
+msgstr "@niko_less_sad Oui..."
+
+msgid "@ling_smile ...Hey, want some more pancakes?"
+msgstr "@ling_smile ... Hé, tu veux encore des pancakes ?"
+
+msgid "@niko_cry It's ok...\\>\\n\\@niko_eyeclosed ...I'll be fine."
+msgstr "@niko_cry Merci mais...\\>\\n\\@niko_eyeclosed ... ça ira."
+
+msgid "@ling_smile So... yeah!\\>\\nThanks for coming by!"
+msgstr "@ling_smile Enfin... bref !\\>\\nMerci de m'avoir rendu visite !"
+
+msgid "@niko Mhm! Thanks for listening... \\>\\n\\@niko_speak ...AND for the pancakes!"
+msgstr "@niko Hum ! Merci pour les conseils... \\>\\n\\@niko_speak ... ET pour les pancakes !"
+
+msgid "@ling No problem. Good luck!"
+msgstr "@ling Mais je t'en prie, bonne chance !"
+
+msgid "@ling_shock Oh, sorry about the trash on the floor..."
+msgstr "@ling_shock Oh, désolée pour tout ce bazar par terre..."
+
+msgid "@ling3 I was gonna throw it out earlier, but...\\>\\n\\@ling_oh ...then my coworkers caught on fire and I had to drop everything to help them."
+msgstr "@ling3 J'allais tout jeter à la poubelle, mais...\\>\\n\\@ling_oh ... mes collègues ont pris feu et j'ai dû tout lâcher pour les aider."
+
+msgid "@ling_sigh They're fine now though...\\>\\n\\@ling It's a good thing fire doesn't hurt robots, huh?"
+msgstr "@ling_sigh Enfin, ils vont bien maintenant...\\>\\n\\@ling Heureusement que les robots sont insensibles au feu, hein ?"
+
+msgid "@ling Oh, hi there!"
+msgstr "@ling Oh, bonjour !"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak Bonjour !"
+
+msgid "@niko How come... there aren't any people here?"
+msgstr "@niko Comment se fait-il qu'il... n'y ait personne ici ?"
+
+msgid "@niko_speak Normally cafes have tons of people!"
+msgstr "@niko_speak Normalement, les cafés sont bondés !"
+
+msgid "@ling_hm Yeah, it's a really slow day..."
+msgstr "@ling_hm Oui, c'est vraiment une journée calme..."
+
+msgid "@niko_speak Do you think it's because the ground access elevator is broken?"
+msgstr "@niko_speak Vous pensez que c'est parce que l'ascenseur est en panne ?"
+
+msgid "@ling_sigh So I've been told."
+msgstr "@ling_sigh C'est ce qu'on m'a dit."
+
+msgid "@ling2 The city's infrastructure has been suffering a lot lately."
+msgstr "@ling2 Les infrastructures de la ville souffrent beaucoup depuis quelques temps."
+
+msgid "@ling_oh Skywalks and stairs breaking off left and right..."
+msgstr "@ling_oh Les promenades célestes et les escaliers tombent en ruines..."
+
+msgid "@ling3 Now the only reliable way of transport are those elevators..."
+msgstr "@ling3 Maintenant, le seul moyen de transport fiable, c'est les ascenseurs..."
+
+msgid "@ling_sigh ...Until now, anyway..."
+msgstr "@ling_sigh ... Enfin, ça l'était jusqu'à présent..."
+
+msgid "@ling_hm You know, the tall guy came in here earlier saying the same thing.\\>\\nHe asked me if I've seen a button that says \"ground\" on it."
+msgstr "@ling_hm Tu sais, le grand type est entré ici tout à l'heure en disant la même chose.\\>\\nIl m'a demandé si j'avais vu un bouton avec « rez-de-chaussée » écrit dessus."
+
+msgid "@ling He looked pretty stressed, so I wanted to cheer him up...\\>\\n\\@ling_smile I told him the only \"ground\" I've seen today is coffee grounds!"
+msgstr "@ling Il avait l'air plutôt tendu, alors j'ai essayé de lui redonner le sourire...\\>\\n\\@ling_smile Je lui ai dit que je n'ai rien vu de rehaussé aujourd'hui, à part le goût des pancakes."
+
+msgid "@ling3 He, um..."
+msgstr "@ling3 Il, euh..."
+
+msgid "@ling_hm He didn't get it..."
+msgstr "@ling_hm Il n'a pas compris..."
+
+msgid "@ling3 I see him around a lot, but he never seems to have time to eat a proper meal..."
+msgstr "@ling3 Je le vois souvent dans les parages, mais il n'a jamais le temps de prendre un vrai repas..."
+
+msgid "@ling_hm He kinda just, rushes in here, drinks a whole pot of coffee, and then rushes back out?"
+msgstr "@ling_hm Il débarque ici à toute allure avant de boire une cafetière entière et de repartir tout aussi vite."
+
+msgid "@ling_hm2 He uh, he really... takes his job to the extreme."
+msgstr "@ling_hm2 Il, euh... Il prend vraiment son travail très au sérieux."
+
+msgid "@ling_oh ...I mean, it's an important job, but nothing is worth that amount of stress, I think..."
+msgstr "@ling_oh ... Je veux dire, c'est un travail important, mais rien ne mérite un tel niveau de stress..."
+
+msgid "@niko_speak What does he do?"
+msgstr "@niko_speak Qu'est-ce qu'il fait dans la vie ?"
+
+msgid "@ling_hm2 Maintenance, I believe.\\>\\n\\@ling_hm Something to do with the lights, but I don't know the details."
+msgstr "@ling_hm2 Je crois qu'il travaille dans la maintenance.\\>\\n\\@ling_hm Quelque chose en rapport avec les lumières, mais je n'en sais pas beaucoup plus."
+
+msgid "@ling Maybe you can ask him later?"
+msgstr "@ling Tu pourrais peut-être lui demander plus tard ?"
+
+msgid "@ling2 Oh! You're still here...\\>\\n\\@ling_smile Would you, um, like anything?"
+msgstr "@ling2 Oh ! Tu es encore là...\\>\\n\\@ling_smile Tu veux, euh, quelque chose ?"
+
+msgid "@ling I can cook something for you, if you want..."
+msgstr "@ling Je peux me mettre aux fourneaux, si tu veux..."
+
+msgid "@niko_speak It's alright, thank you!"
+msgstr "@niko_speak Ça ira, merci !"
+
+msgid "@ling_smile Well, don't be afraid to ask if you do get hungry!\\>\\nI'll be happy to make something for you!"
+msgstr "@ling_smile Eh bien n'hésite pas à me faire signe si tu as faim !\\>\\nJe me ferais un plaisir de te préparer quelque chose !"
+
+msgid "@niko It's an empty coffee tin."
+msgstr "@niko C'est une boîte de café vide."
+

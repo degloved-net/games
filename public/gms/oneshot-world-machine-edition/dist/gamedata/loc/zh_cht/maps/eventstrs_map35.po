@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 螢火蟲照亮了這間房間。"
+
+msgid "@niko Looks like moss..."
+msgstr "@niko 看起來像苔蘚……"
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak 人們好像會吃這個！"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "別的不說，我敢肯定大家都想再次看到太陽！"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak 沒錯！"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "這個世界已經在慢慢崩壞了。\\n但我想它還在掙扎求存。"
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "無所謂啦……有一天世界會放棄掙扎的。"
+
+msgid "I just hope I'm not alive to see it."
+msgstr "我只希望我不會活到親眼看到那場面。"
+
+msgid "@alula But the savior is here!"
+msgstr "@alula 可是救世主來了！"
+
+msgid "That won't fix the root of the problem."
+msgstr "那樣也只治標不治本。"
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko 另一位女士也這麼說……"
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh 另一位……女士？"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak 對啊！她是機器人，看起來有點悲傷……"
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout 啊……"
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "喔！可是別灰心！\\n少了太陽，世界會更快毀滅。"
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "至少……\\n我敢肯定大家都想再看到太陽。"
+
+msgid "Right, little one?"
+msgstr "對吧，孩子？"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak 對啊！"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak 可是我要把太陽帶回來……"
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "可是別灰心！\\n少了太陽，世界會更快毀滅。"
+

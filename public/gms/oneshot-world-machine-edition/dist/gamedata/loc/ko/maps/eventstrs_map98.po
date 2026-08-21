@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31] 조명 색상이 일치합니다.]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][접근이 승인되었습니다!]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][접근이 거부되었습니다. \\v[37]회 남았습니다.]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][침입자 확인. 잠금장치를 초기화합니다.]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed 하아... 처음부터 다시 해야겠네요..."
+
+msgid "[HALT!]"
+msgstr "[멈추십시오!]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[보안 시험에 대한 추가적인 지시가 있을 때까지 기다리십시오.]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[문봇에게 말을 걸어 주십시오.]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko 해냈어요! 문이 열렸어요!"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[보안 시스템을 일시 해제합니다.]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[시스템을 초기화하시겠습니까?]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ...이런 건 다시 하고 싶지 않아요..."
+
+msgid "@niko_what um..."
+msgstr "@niko_what 으음..."
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko 어떻게 해야... 이걸 풀 수 있을까요..."
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[이것도 시험의 일환입니다.]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed 이런."
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[실험실에 들어가려면.]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[보안 시험을 통과해야 합니다.]"
+
+msgid "@niko The... huh?"
+msgstr "@niko 보안... 뭐라고요?"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[조명의 색을 특정 조합으로 변경해야 합니다.]"
+
+msgid "[ALLOW ME.]"
+msgstr "[실례하겠습니다.]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed 잠겼어요."
+

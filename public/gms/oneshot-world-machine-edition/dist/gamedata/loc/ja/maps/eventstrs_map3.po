@@ -1,0 +1,18 @@
+msgid "@ed [There's no water in the toilet.]"
+msgstr "@ed [トイレには水がない。]"
+
+msgid "@ed [The tub won't run.]"
+msgstr "@ed [浴槽には水が流れない。]"
+
+msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
+msgstr "@ed [\\c[7]枯れた植物\\c[0]がある…。硬く、乾燥している。]"
+
+msgid "@ed [There's no need to do anything else to it.]"
+msgstr "@ed [これ以上、何もする必要はない。]"
+
+msgid "@ed [A branch snaps off.]"
+msgstr "@ed [枝がポキっと折れた。]"
+
+msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
+msgstr "@ed [\\c[3]明るく、黄色い目\\c[0]がニコを見返している。]"
+

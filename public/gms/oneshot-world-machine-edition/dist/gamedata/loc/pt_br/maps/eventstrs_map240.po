@@ -1,0 +1,27 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown Alula?\\>\\nAlula? Onde você está?"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p, você ouviu isso?"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown Alula!"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko Acho que está vindo a sudeste daqui."
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[COLETA DE AMOSTRA DE ÁGUA EM ANDAMENTO...]"
+
+msgid "The bridge to the forest was just restored..."
+msgstr "Acabaram de restaurar a ponte da floresta..."
+
+msgid "The village evacuees should be able to find better fishing spots here."
+msgstr "Os refugiados da aldeia vão encontrar pontos de pesca melhores aqui."
+
+msgid "The plant spirit is really looking out for us, isn't she?"
+msgstr "O espírito das plantas está mesmo tomando conta de nós, não é?"
+
+msgid "@niko_upset2 ...yeah."
+msgstr "@niko_upset2 ...é."
+

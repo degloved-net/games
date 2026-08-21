@@ -1,0 +1,51 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak C'est du ragoût de poisson !"
+
+msgid "@niko A fishing pole."
+msgstr "@niko Une canne à pêche."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp Mon frère sait également pêcher !"
+
+msgid "@alula But I don't!"
+msgstr "@alula Mais pas moi !"
+
+msgid "@niko Same!"
+msgstr "@niko Moi non plus !"
+
+msgid "@niko An empty jar."
+msgstr "@niko Un pot vide."
+
+msgid "@niko A jar of worms."
+msgstr "@niko Un pot de vers de terre."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed Dégoûtant !"
+
+msgid "Oh, hello, messiah."
+msgstr "Oh, bonjour, messie."
+
+msgid "Would you like some stew?"
+msgstr "Un peu de ragoût ?"
+
+msgid "I made enough to feed a whole village!"
+msgstr "J'en ai fait assez pour nourrir un village entier !"
+
+msgid "...literally!"
+msgstr "... Littéralement !"
+
+msgid "@niko_speak It's ok, thanks!"
+msgstr "@niko_speak Ça va, merci !"
+
+msgid "Looks like the Glen is deteriorating faster than ever, now..."
+msgstr "On dirait que le Vallon se détériore encore plus vite maintenant..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko C'est rempli de petits poissons séchés."
+
+msgid "@niko6 At least... I think it's fish!"
+msgstr "@niko6 Enfin... je crois que c'est du poisson !"
+
+msgid "@niko_eyeclosed They look kinda like snakes..."
+msgstr "@niko_eyeclosed On dirait des serpents..."
+

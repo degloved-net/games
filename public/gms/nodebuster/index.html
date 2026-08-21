@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title>Nodebuster</title>
+  <link rel="icon" type="image/png" href="Nodebuster.icon.png">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #000;
+      touch-action: none;
+      overflow: hidden;
+    }
+
+    #canvas {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    #canvas:focus { outline: none; }
+
+    #status {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      visibility: hidden;
+    }
+
+    #status-progress {
+      width: 360px;
+      height: 7px;
+      background: #222;
+      border: 1px solid #555;
+      border-radius: 2px;
+      padding: 1px;
+      box-shadow: 0 0 2px 1px #111;
+      visibility: visible;
+    }
+
+    @media (orientation: portrait) {
+      #status-progress { width: 62%; }
+    }
+
+    #status-progress-inner {
+      height: 100%;
+      width: 0;
+      background: #ddd;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      box-shadow: 0 0 1px 1px #999;
+      transition: width 0.5s linear;
+    }
+
+    #status-indeterminate {
+      height: 42px;
+      position: relative;
+      visibility: visible;
+    }
+
+    #status-indeterminate > div {
+      width: 4.5px;
+      height: 0;
+      border-style: solid;
+      border-width: 9px 3px 0 3px;
+      border-color: #ddd transparent transparent transparent;
+      transform-origin: center 21px;
+      position: absolute;
+    }
+
+    #status-indeterminate > div:nth-child(1) { transform: rotate(22.5deg); }
+    #status-indeterminate > div:nth-child(2) { transform: rotate(67.5deg); }
+    #status-indeterminate > div:nth-child(3) { transform: rotate(112.5deg); }
+    #status-indeterminate > div:nth-child(4) { transform: rotate(157.5deg); }
+    #status-indeterminate > div:nth-child(5) { transform: rotate(202.5deg); }
+    #status-indeterminate > div:nth-child(6) { transform: rotate(247.5deg); }
+    #status-indeterminate > div:nth-child(7) { transform: rotate(292.5deg); }
+    #status-indeterminate > div:nth-child(8) { transform: rotate(337.5deg); }
+
+    #status-notice {
+      font-family: 'Noto Sans', 'Droid Sans', Arial, sans-serif;
+      color: #e0e0e0;
+      background: linear-gradient(to bottom, #403e48, #35333c);
+      border: 1px solid #45434e;
+      box-shadow: 0 0 1px 1px #2f2d35;
+      margin: 0 100px;
+      padding: 4px 6px;
+      line-height: 1.3;
+      visibility: visible;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="canvas">
+    Your browser does not support HTML5 canvas. Please update or try a different browser.
+  </canvas>
+
+  <div id="status">
+    <div id="status-progress" style="display:none" oncontextmenu="event.preventDefault()">
+      <div id="status-progress-inner"></div>
+    </div>
+    <div id="status-indeterminate" style="display:none" oncontextmenu="event.preventDefault()">
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+    </div>
+    <div id="status-notice" style="display:none"></div>
+  </div>
+
+  <script src="Nodebuster.js"></script>
+  <script>
+    const engine = new Engine({
+      args: [],
+      canvasResizePolicy: 2,
+      executable: "Nodebuster",
+      experimentalVK: false,
+      fileSizes: {
+        "Nodebuster.pck": 11796656,
+        "Nodebuster.wasm": 35708238
+      },
+      focusCanvas: true,
+      gdextensionLibs: []
+    });
+
+    (function () {
+      const SPINNER_STEP = 100;
+      const progress = document.getElementById("status-progress");
+      const progressBar = document.getElementById("status-progress-inner");
+      const spinner = document.getElementById("status-indeterminate");
+      const notice = document.getElementById("status-notice");
+      const elements = [progress, spinner, notice];
+
+      let initializing = true;
+      let mode = "hidden";
+      let animCallbacks = [];
+
+      requestAnimationFrame(function tick(t) {
+        animCallbacks.forEach(cb => cb(t));
+        requestAnimationFrame(tick);
+      });
+
+      function animateSpinner(ms) {
+        const i = Math.floor((ms / SPINNER_STEP) % 8);
+        if (spinner.children[i].style.borderTopColor === "") {
+          [...spinner.children].forEach(el => el.style.borderTopColor = "");
+          spinner.children[i].style.borderTopColor = "#dfdfdf";
+        }
+      }
+
+      function setMode(next) {
+        if (mode === next || !initializing) return;
+        elements.forEach(el => el.style.display = "none");
+        animCallbacks = animCallbacks.filter(cb => cb !== animateSpinner);
+
+        if (next === "progress") progress.style.display = "block";
+        else if (next === "indeterminate") {
+          spinner.style.display = "block";
+          animCallbacks.push(animateSpinner);
+        }
+        else if (next === "notice") notice.style.display = "block";
+
+        mode = next;
+      }
+
+      function showError(err) {
+        const msg = err.message || err;
+        console.error(msg);
+        notice.textContent = "";
+        msg.split("\n").forEach(line => {
+          notice.appendChild(document.createTextNode(line));
+          notice.appendChild(document.createElement("br"));
+        });
+        setMode("notice");
+        initializing = false;
+      }
+
+      const missing = Engine.getMissingFeatures();
+      if (missing.length) {
+        showError("Error\nThe following features required to run Godot projects on the Web are missing:\n" + missing.join("\n"));
+      } else {
+        setMode("indeterminate");
+        engine.startGame({
+          onProgress(current, total) {
+            if (total > 0) {
+              progressBar.style.width = (current / total * 100) + "%";
+              setMode("progress");
+              if (current === total) {
+                setTimeout(() => setMode("indeterminate"), 500);
+              }
+            } else {
+              setMode("indeterminate");
+            }
+          }
+        }).then(() => {
+          setMode("hidden");
+          initializing = false;
+        }, showError);
+      }
+    })();
+  </script>
+</body>
+</html>
+

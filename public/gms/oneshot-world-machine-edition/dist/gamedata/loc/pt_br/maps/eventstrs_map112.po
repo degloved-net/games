@@ -1,0 +1,48 @@
+msgid "@niko_eyeclosed She's still asleep..."
+msgstr "@niko_eyeclosed Ela ainda está dormindo..."
+
+msgid "None of us have been sleeping very well in light of recent events..."
+msgstr "Nenhum de nós tem dormido bem com a situação atual..."
+
+msgid "The square particles took out a few of my robots last week, and"
+msgstr "As partículas quadradas derrubaram alguns robôs meus semana passada e..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed Ela dormiu..."
+
+msgid "@niko A coffee machine. It's almost empty."
+msgstr "@niko Uma cafeteira. Quase vazia."
+
+msgid "I can barely keep my eyes open, man..."
+msgstr "Mal consigo ficar de olhos abertos, cara..."
+
+msgid "How does Dr. Silverpoint get all that energy?"
+msgstr "Onde a Dra. Silverpoint arranja tanta energia?"
+
+msgid "@niko A warm pot of coffee."
+msgstr "@niko Um bule de café quente."
+
+msgid "Hmm... I wonder what The Author would do in this situation..."
+msgstr "Hmm... Que será que o Autor faria numa situação dessas?"
+
+msgid "Dr. Silverpoint usually references his works."
+msgstr "A Dra. Silverpoint geralmente menciona seus trabalhos."
+
+msgid "@niko Hey \\p?"
+msgstr "@niko Oi, \\p?"
+
+msgid "@niko_speak Doesn't the lady look... kind of familiar to you?"
+msgstr "@niko_speak Essa moça não lhe parece... um tanto familiar?"
+
+msgid "@niko I wonder if she's related to the robot lady who gave me the amber."
+msgstr "@niko Será que ela é parente daquela moça-robô que me deu o âmbar?"
+
+msgid "@niko_eyeclosed I almost want to ask her about it..."
+msgstr "@niko_eyeclosed Estou quase perguntando a ela sobre isso..."
+
+msgid "@niko ...should I?"
+msgstr "@niko ... será que devo?"
+

@@ -1,0 +1,102 @@
+msgid "@niko_speak What IS that?"
+msgstr "@niko_speak Che COS'È quello?"
+
+msgid "@niko You want me use the crowbar to open the safe, \\p? \\>\\nI'll... try!"
+msgstr "@niko Vuoi che usi il piede di porco per aprire la cassaforte, \\p?\\>\\n...Ci provo!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko2 The door is sealed flush! \\>\\@niko_eyeclosed We might need the code after all..."
+msgstr "@niko2 La porta è sigillata! \\>\\@niko_eyeclosed Potremmo aver bisogno di quel codice dopotutto..."
+
+msgid "@niko A metal safe.\\nSeems like it's locked with a 6-digit code."
+msgstr "@niko Una cassaforte in metallo.\\nSembra bloccata da un codice a 6 cifre."
+
+msgid "@niko I don't... remember seeing any 6-digit codes. Do you, \\p?"
+msgstr "@niko Non ricordo di aver visto codici in giro...\\nE tu, \\p?"
+
+msgid "[ENTER CODE:]"
+msgstr "[INSERIRE CODICE:]"
+
+msgid "@niko_speak Woah! It worked!"
+msgstr "@niko_speak Wow! Ha funzionato!"
+
+msgid "@niko2 Wait, how did you know the code,\\n\\p?\\>\\n\\@niko_eyeclosed I still don't remember seeing one..."
+msgstr "@niko2 Aspetta, come facevi a sapere il codice,\\n\\p?\\>\\n\\@niko_eyeclosed Non ricordo di averlo visto in giro..."
+
+msgid "[\"I had some help.\", \"I have my ways.\"]"
+msgstr "[\"Ho avuto un po' di aiuto.\",\"Ho i miei mezzi.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko From who?"
+msgstr "@niko_speak Davvero?\\>\\n\\@niko Da chi?"
+
+msgid "[\"Don't worry about it.\"]"
+msgstr "[\"Non preoccuparti.\"]"
+
+msgid "@niko Okay..."
+msgstr "@niko Ok..."
+
+msgid "@niko I...\\.\\. see!"
+msgstr "@niko ...\\.\\.Capito!"
+
+msgid "[\"What's in the safe, Niko?\"]"
+msgstr "[\"Niko, cosa c'è nella cassaforte?\"]"
+
+msgid "@niko Oh! Right.\\n\\.\\.Let's see..."
+msgstr "@niko Ah giusto!\\n\\.\\.Vediamo un po'..."
+
+msgid "@niko_speak Ah!\\.\\. I found a gas mask!"
+msgstr "@niko_speak Oh!\\.\\. Ho trovato una maschera antigas..."
+
+msgid "@niko_speak Also... there's this weird-looking book!"
+msgstr "@niko_speak ...e questo strano libro!"
+
+msgid "@niko I can't read it, though..."
+msgstr "@niko Purtroppo non riesco a capirci nulla..."
+
+msgid "@niko2 ...not that I can't read or anything! Because I can!"
+msgstr "@niko2 Ehi, non farti strane idee... So leggere!"
+
+msgid "@niko_eyeclosed I just don't know what language this is..."
+msgstr "@niko_eyeclosed Semplicemente non conosco questa lingua..."
+
+msgid "@niko_eyeclosed That wasn't it..."
+msgstr "@niko_eyeclosed Non è corretto..."
+
+msgid "@niko It's empty."
+msgstr "@niko È vuota."
+
+msgid "$Although the poisonous gas is highly localized to the vent zones, Barrens workers were still recommended to wear gas masks."
+msgstr "$Anche se i gas tossici sono prevalentemente presenti nelle zone delle fumarole, ai lavoratori della Baia Desolata è stato raccomandato l'uso delle maschere antigas."
+
+msgid "$These masks were mandatory around active vent sites, of course."
+msgstr "$Ovviamente quest'ultime erano già obbligatorie nei pressi delle fumarole."
+
+msgid "$As more and more of the workforce got replaced by robots, we found ourselves with a surplus of abandoned gas masks."
+msgstr "$Man mano che sempre più forza lavoro veniva sostituita dai robot, ci siamo trovati con un eccesso di maschere antigas inutilizzate."
+
+msgid "$It seemed like a waste to get rid of them all, so we kept a few for emergencies."
+msgstr "$Sarebbe stato uno spreco gettarle via tutte, perciò ne abbiamo tenute un paio per le emergenze."
+
+msgid "$The sun will not return and the abyss is calling my name."
+msgstr "$Il sole non ritornerà mai più e l'abisso sta chiamando il mio nome."
+
+msgid "$I'm sorry, everyone..."
+msgstr "$Vi chiedo scusa..."
+
+msgid "$...for choosing to leave before the darkness suffocates us all."
+msgstr "$...per aver scelto di abbandonarvi prima che l'oscurità ci soffochi tutti."
+
+msgid "@niko A torn page with faded ink."
+msgstr "@niko Una pagina strappata con dell'inchiostro sbiadito."
+
+msgid "$XX/XX/XX\\n\\nWith the mining operations going smoothly, materials are no longer our limiting factor."
+msgstr "$XX/XX/XX\\n\\nOra che le operazioni minerarie procedono senza intoppi, i materiali non sono più il nostro fattore limitante."
+
+msgid "$We will be able to build more resilient robots, both in body and mind."
+msgstr "$Saremo in grado di costruire robot molto più resistenti, sia nel corpo che nella mente."
+
+msgid "$Specifically, the discovery of metal alloy 291 will likely allow the development of highly efficient circuitry."
+msgstr "$In particolare, grazie alla scoperta della lega metallica 291 potremo sviluppare circuiti altamente efficienti."
+

@@ -1,0 +1,14 @@
+Bonjour [!%$()*@$(%^],
+
+[C'est la première fois que je tente de] vous envoyer un message, et j'ai bien peur de devoir être bref.
+
+Je vous ai laissé un carnet, en partie écrit dans une langue [que vous ne comprendrez pas au premier abord.]
+
+C[ependant, le moment viendra où vous obtiendrez une traduction à compléter... L]isez-là et vous saurez quoi faire.
+
+Je vous ai aussi l[aissé un masque, votre messie en aura besoin.]
+
+C[he]rchez [un] c[off]re-f[o]r[t] [e]n m[é]t[a]l [d]a[n]s l[a] c[a]r[riè]re à [l'e]st, q[ue]lq[ue] p[ar]t e[n]t[r]e [l']oc[éa]n [e]t l[e] p[os]t[e] [d'o]bse[rv]a[t]ion.
+
+Le code nécessaire est : {CODE}
+

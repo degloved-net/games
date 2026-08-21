@@ -1,0 +1,135 @@
+msgid "@niko2 ..."
+msgstr "@niko2 …"
+
+msgid "@niko6 This is the room I first woke up in..."
+msgstr "@niko6 ここ、ミーが初めて目が覚めた場所…"
+
+msgid "@niko_speak \\p? Are you still here?"
+msgstr "@niko_speak \\p？ まだいる？"
+
+msgid "@niko2 ...\\p?"
+msgstr "@niko2 …\\p?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"うん？\"]"
+
+msgid "@niko_pancakes \\p!!!"
+msgstr "@niko_pancakes \\p！！！"
+
+msgid "@niko_speak I... I think..."
+msgstr "@niko_speak あのね…たぶん…"
+
+msgid "@niko_pancakes I think it worked!!!"
+msgstr "@niko_pancakes うまくいったよ！！！"
+
+msgid "[\"It did!\"]"
+msgstr "[\"うまくいったな！\"]"
+
+msgid "@niko_speak The sun is back!\\>\\nAnd I actually got to see it this time!"
+msgstr "@niko_speak 太陽が戻ってきた！\\>\\n今回は、ちゃんと外が明るいもん！"
+
+msgid "@niko_pancakes We... actually did it...!"
+msgstr "@niko_pancakes ミーたち…本当に救えたんだ…！"
+
+msgid "@niko5 So... \\>\\@niko6 what do we do now?"
+msgstr "@niko5 でも… \\>\\@niko6 この後どうしたらいいんだろ？"
+
+msgid "@niko I guess I should figure out how to get home from here..."
+msgstr "@niko ここから家に帰る方法を\n見つけなくちゃだね…"
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 もしかして…"
+
+msgid "@niko2 This... \\.\\.isn't a door, is it?"
+msgstr "@niko2 これ… \\.\\.ドアじゃない。"
+
+msgid "@niko This looks like one of those portals we saw all the way back in the city."
+msgstr "@niko 街でずっと前に見た、あのポータルみたい。"
+
+msgid "@niko6 In the room behind the big clock."
+msgstr "@niko6 おっきな時計の後ろにあった部屋の。"
+
+msgid "@niko And... and..."
+msgstr "@niko あと…あとね…"
+
+msgid "@niko_speak I see a wheat field on the other side!"
+msgstr "@niko_speak 反対側に、小麦畑が見えるよ！"
+
+msgid "@niko_pancakes ...I see my village..."
+msgstr "@niko_pancakes …ミーの村が見える。"
+
+msgid "@niko_pancakes I hear...\\.\\. my mama...."
+msgstr "@niko_pancakes あっ…\\.\\.ママの声がするよ…"
+
+msgid "@niko2 She's looking for me..."
+msgstr "@niko2 ミーのこと探してる…"
+
+msgid "@niko3 ...."
+msgstr "@niko3 …"
+
+msgid "@niko3 Ah, \\p..."
+msgstr "@niko3 ねえ、 \\p…"
+
+msgid "@niko5 This...\\.\\. isnt the first time we've said goodbye, is it?"
+msgstr "@niko5 さよならするのは…\\.\\.これが\n初めてじゃないんでしょ？"
+
+msgid "@niko_distressed2 But... this'll be the last time, won't it?"
+msgstr "@niko_distressed2 でも…きっとこれが、最後になるんだよね？"
+
+msgid "@niko_distressed I don't think we'll ever see each other again after this..."
+msgstr "@niko_distressed もう、二度と会えない気がする…"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko_distressed ...and... what will become of the world?"
+msgstr "@niko_distressed …それに…こっちの世界はどうなるんだろうね？"
+
+msgid "@niko_eyeclosed2 ...after all we've been through."
+msgstr "@niko_eyeclosed2 …もう、全部…"
+
+msgid "@niko3 After everything we've done..."
+msgstr "@niko3 何もかも、終わって…"
+
+msgid "@niko_distressed2 I still... \\>\\@niko_distressed don't know..."
+msgstr "@niko_distressed2 まだ… \\>\\@niko_distressed よく分かんないや…"
+
+msgid "[\"This place...\"]"
+msgstr "[\"この場所は…\"]"
+
+msgid "[\"These people...\"]"
+msgstr "[\"この世界にいる人たちは…\"]"
+
+msgid "[\"Won't stop existing.\"]"
+msgstr "[\"いなくなったりしない。\"]"
+
+msgid "[\"They'll be in your memory.\"]"
+msgstr "[\"みんな、ニコの記憶の中に残る。\"]"
+
+msgid "[\"They'll be in my memory, too\"]"
+msgstr "[\"みんな、私の記憶の中にも残る。\"]"
+
+msgid "@niko2 ...."
+msgstr "@niko2 …"
+
+msgid "@niko2 I... \\>\\@niko_speak promise I'll never forget this world!"
+msgstr "@niko2 ミーは… \\>\\@niko_speak 絶対に、この世界のこと忘れないよ！"
+
+msgid "@niko3 I promise... \\@niko I'll never forget you, \\p."
+msgstr "@niko3 絶対に… \n\\@niko 神様のこと忘れないよ、 \\p。"
+
+msgid "@niko2 So... take care of yourself, okay?"
+msgstr "@niko2 じゃあ…元気でね？"
+
+msgid "[\"You too.\"]"
+msgstr "[\"君もな。\"]"
+
+msgid "@niko Mhm...."
+msgstr "@niko うん…"
+
+msgid "[\"Goodbye, Niko.\"]"
+msgstr "[\"さようなら、ニコ。\"]"
+
+msgid "@niko2 Goodbye, \\p..."
+msgstr "@niko2 さよなら、 \\p…"
+

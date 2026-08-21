@@ -1,0 +1,144 @@
+msgid "@niko2 It's the sun."
+msgstr "@niko2 是太陽。"
+
+msgid "@niko We're leaving it with her for now."
+msgstr "@niko 現在暫時放在她那邊。"
+
+msgid "@alula_pout ...ah."
+msgstr "@alula_pout ……啊。"
+
+msgid "@niko_surprised T-\\.The light's gone out...!"
+msgstr "@niko_surprised 光、\\.光熄滅了……！"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@niko_distressed \\p..."
+msgstr "@niko_distressed \\p……"
+
+msgid "@niko_distressed2 Do you know... what happened?"
+msgstr "@niko_distressed2 你知不知道……發生了什麼事？"
+
+msgid "[\"No\"]"
+msgstr "[\"否\"]"
+
+msgid "@niko_speak You...\\.\\. \\@niko really?"
+msgstr "@niko_speak 你……\\.\\.\\@niko 真的嗎？"
+
+msgid "@niko_speak but...\\. but...\\.\\."
+msgstr "@niko_speak 可是……\\.可是……\\.\\."
+
+msgid "@niko_distressed Oh....."
+msgstr "@niko_distressed 喔……"
+
+msgid "@niko_distressed What am I gonna do?"
+msgstr "@niko_distressed 我該怎麼辦？"
+
+msgid "@niko_speak It...\\. lit up again?"
+msgstr "@niko_speak 它……\\.又亮起來了？"
+
+msgid "@niko_eyeclosed ...phew."
+msgstr "@niko_eyeclosed ……還好。"
+
+msgid "@niko What should I do, \\p?"
+msgstr "@niko \\p，怎麼辦？"
+
+msgid "[\"Give her the sun\", \"Don't\"]"
+msgstr "[\"給她太陽\",\"不要給\"]"
+
+msgid "@niko Here!"
+msgstr "@niko 給妳！"
+
+msgid "@maize .\\..\\..\\..\\..\\.."
+msgstr "@maize .\\..\\..\\..\\..\\.."
+
+msgid "@maize .......\\.warm..."
+msgstr "@maize ……\\.好溫暖……"
+
+msgid "@maize_smile1 I have... almost forgotten..."
+msgstr "@maize_smile1 我都……快要忘了……"
+
+msgid "@maize_smile1 It's so warm..."
+msgstr "@maize_smile1 它好溫暖……"
+
+msgid "@niko That's... good, right?"
+msgstr "@niko 這樣是……好事吧？"
+
+msgid "@maize_smile1 Th...the vines should be gone now..."
+msgstr "@maize_smile1 那些……藤蔓現在應該消失了……"
+
+msgid "@maize_smile2 I'm not afraid anymore."
+msgstr "@maize_smile2 我再也不害怕了。"
+
+msgid "@maize_smile2 Thank you..."
+msgstr "@maize_smile2 謝謝你……"
+
+msgid "@alula_oh ...\\.\\.\\@alula_pout ..."
+msgstr "@alula_oh ……\\.\\.\\@alula_pout ……"
+
+msgid "@niko_speak ...Alula? You okay?"
+msgstr "@niko_speak ……阿露？妳還好嗎？"
+
+msgid "@niko_eyeclosed ...she just looked away."
+msgstr "@niko_eyeclosed ……她移開視線了。"
+
+msgid "@niko_distressed2 She's gone..."
+msgstr "@niko_distressed2 她死了……"
+
+msgid "@niko Oh... \\>\\nThere's something on the ground here."
+msgstr "@niko 喔……\\>\\n地上有東西。"
+
+msgid "@niko_speak It looks like... a kernel of corn?"
+msgstr "@niko_speak 看起來像……玉米粒？"
+
+msgid "@niko She must've left it behind."
+msgstr "@niko 一定是她留下的。"
+
+msgid "@maize ...S...\\.\\. savior...?"
+msgstr "@maize ……救……\\.\\.救世主……？"
+
+msgid "@maize I can't believe it...\\.\\.\\nYou're real..."
+msgstr "@maize 不可置信……\\.\\.\\n你是真的……"
+
+msgid "@niko_shock ....miss?"
+msgstr "@niko_shock ……小姐？"
+
+msgid "@niko_speak Are you... alright?"
+msgstr "@niko_speak 妳……還好嗎？"
+
+msgid "@maize No...."
+msgstr "@maize 不……"
+
+msgid "@niko_speak W-we should get you to the village! \\.\\.\\nMaybe they could-"
+msgstr "@niko_speak 我、我馬上帶妳去村子那邊！\\.\\.\\n也許他們可以──"
+
+msgid "@maize It's.... okay...\\.\\nIt's okay.....\\.\\n...too late for me."
+msgstr "@maize 沒有……關係……\\.\\n不用……\\.\\n……已經太遲了。"
+
+msgid "@niko_speak But..."
+msgstr "@niko_speak 可是……"
+
+msgid "@maize ...the sun...."
+msgstr "@maize ……太陽……"
+
+msgid "@maize I haven't seen it... I haven't felt it in so long..."
+msgstr "@maize 我好久沒有看到……好久沒感受太陽了……"
+
+msgid "@maize ...\\.\\.Savior, if it's not too much trouble...\\.\\.\\nCan you lend me the sun for a while?"
+msgstr "@maize ……\\.\\.救世主，如果不會太麻煩……\\.\\.\\n可以借我一下太陽嗎？"
+
+msgid "@niko I...\\.\\. \\@niko_speak Will it make you better?"
+msgstr "@niko 我……\\.\\.\\@niko_speak 太陽會讓妳好起來嗎？"
+
+msgid "@maize .\\..\\..\\.No.\\. It will not save me."
+msgstr "@maize .\\..\\..\\.不會。\\.它救不了我。"
+
+msgid "@maize I just want to experience the sun one more time before I... \\.\\.Well..."
+msgstr "@maize 我只是想要再感受一次太陽，趁我還沒……\\.\\.嗯……"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@maize Would it...\\.\\.\\nWould it be too selfish of me to ask?"
+msgstr "@maize 我這樣……\\.\\.\\n的要求，會不會太自私了？"
+

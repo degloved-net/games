@@ -1,0 +1,78 @@
+msgid "[HELLO!]"
+msgstr "[你好！]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 你好！"
+
+msgid "@niko What are you doing up there?"
+msgstr "@niko 你在那邊做什麼啊？"
+
+msgid "[I AM STATIONED HERE.]"
+msgstr "[我在這裡駐守。]"
+
+msgid "@niko By yourself?"
+msgstr "@niko 只有你一個嗎？"
+
+msgid "[YES.]"
+msgstr "[是的。]"
+
+msgid "@niko A picture of a robot."
+msgstr "@niko 機器人的照片。"
+
+msgid "@niko_speak ...Y'know, I've never been around so many robots before, \\p!"
+msgstr "@niko_speak ……你知道嗎，\\p，我以前從來沒有遇到這麼多機器人！"
+
+msgid "@niko Or...\\.\\. any robots at all..."
+msgstr "@niko 或者說……\\.\\.一個機器人也沒遇過……"
+
+msgid "@niko_speak I mean, I see them in cartoons and stuff, but I've never seen one in person!"
+msgstr "@niko_speak 我是說，我會在卡通之類的地方看到它們，但從來沒親眼看過真的！"
+
+msgid "@niko They're pretty neat, don't you think?"
+msgstr "@niko 你不覺得它們很精美嗎？"
+
+msgid "[\"Yeah.\", \"Hey Niko do a robot voice\"]"
+msgstr "[\"是啊。\",\"嘿，霓光，模仿機器人的聲音看看\"]"
+
+msgid "@niko Yeah!"
+msgstr "@niko 對啊！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak ...What?"
+msgstr "@niko_speak ……什麼？"
+
+msgid "[\"Try talking like a robot!\"]"
+msgstr "[\"模仿機器人說話看看！\"]"
+
+msgid "@niko um..."
+msgstr "@niko 呃……"
+
+msgid "@niko_eyeclosed *ahem*"
+msgstr "@niko_eyeclosed *咳咳*"
+
+msgid "@niko [BEEEP BOOP]"
+msgstr "@niko [嗶嗶]"
+
+msgid "@niko_speak [I'M A ROBOT AND I...\\. EAT BATTERIES...\\. INSTEAD OF NORMAL PEOPLE FOOD!]"
+msgstr "@niko_speak [我是機器人，我……\\.吃電池……\\.不吃一般人類食物！]"
+
+msgid "@niko_83c Hehe..."
+msgstr "@niko_83c 嘿嘿……"
+
+msgid "[THAT IS NOT CORRECT.]"
+msgstr "[錯了。]"
+
+msgid "[ROBOTS DO NOT CONSUME BATTERIES IN THE SAME WAY PEOPLE CONSUME FOOD.]"
+msgstr "[機器人不是用人類吃食物的方式消耗電池。]"
+
+msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
+msgstr "[事實上，機器人沒有消化系統。]"
+
+msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
+msgstr "[有些機器人甚至沒有嘴。]"
+
+msgid "@niko \\p...\\. \\>\\@niko_eyeclosed you made me look silly..."
+msgstr "@niko \\p……\\. \\>\\@niko_eyeclosed 你害我出醜了……"
+

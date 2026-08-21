@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko 곡물이 든 항아리예요."
+
+msgid "@niko This looks like flour!"
+msgstr "@niko 밀가루 같은데요!"
+
+msgid "@niko Oats."
+msgstr "@niko 귀리예요."
+
+msgid "@niko Heads of wheat."
+msgstr "@niko 밀이 들어 있어요."
+
+msgid "A cat does sound nice..."
+msgstr "고양이라니 괜찮긴 하네..."
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "도시에 사는 사촌에게 한 마리 보내 달라고 해야겠어."
+
+msgid "He just moved there."
+msgstr "최근에 도시로 이사했거든."
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "이게 전부야... 이게 마지막 식량이야..."
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "게다가 지금은 쥐 때문에 골치가 아프지..."
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko 고양이를 키우면 어때요?"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed 아, 전 고양이가 아니지만요..."
+
+msgid "@alula What's a cat?"
+msgstr "@alula 고양이가 뭐야?"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed 나랑 다른 거!"
+
+msgid "@alula ?"
+msgstr "@alula ?"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak 네 발로 걷고 쥐를 사냥하는 동물이야!"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp 여우처럼?"
+
+msgid "@niko I... guess?"
+msgstr "@niko 아마... 도?"
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak 여우는 멋져!"
+

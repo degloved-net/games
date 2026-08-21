@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "ライトな荷物"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "どこかで見た場所"
+
+msgid "Phosphor=Phosphor"
+msgstr "蛍光体"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "預言"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "廃工場"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "シルバーポイント"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "神の機械"
+
+msgid "Rowbot=Rowbot"
+msgstr "漕ぎボット"
+
+msgid "Geothermal=Geothermal"
+msgstr "地熱"
+
+msgid "Distant=Distant"
+msgstr "遠く離れて"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "光へ"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "自己完結型宇宙 (Reprise)"
+
+msgid "Navigate=Navigate"
+msgstr "前進"
+
+msgid "ToSleep=To Sleep"
+msgstr "ベッドの中へ"
+
+msgid "ToDream=To Dream"
+msgstr "夢の中へ"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "アル―ラ"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "遺跡の子供たち"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "一大事"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "小さな猫の足で"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "屋根の下"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "暗い階段"
+
+msgid "Sonder=Sonder"
+msgstr "ソンダー"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "いい日だね"
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "図書館散策"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "シンプルな秘密"
+
+msgid "Factory=Factory"
+msgstr "工場"
+
+msgid "TheTower=The Tower"
+msgstr "塔"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "ニコとワールドマシン"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "ここにいるよ"
+
+msgid "Pretty=Pretty"
+msgstr "大事"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "自己完結型宇宙"
+
+msgid "Home=Thanks For Everything"
+msgstr "今までありがとう"
+
+msgid "Countdown=Countdown"
+msgstr "カウントダウン"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "鉱山の奥深く"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "面影"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "ソンダー (Extended)"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "プロトコル外"
+
+msgid "Panic=Panic"
+msgstr "パニック"
+
+msgid "Collapse=Collapse"
+msgstr "崩壊"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "前進 (Extended)"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "最初の宇宙"
+
+msgid "Aviator=Aviator"
+msgstr "操縦士"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "終焉"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "ルエ"
+
+msgid "TheAuthor=The Author"
+msgstr "「作者」"
+
+msgid "computer_room=The World Machine"
+msgstr "ワールドマシン"
+
+msgid "Encounter=Encounter"
+msgstr "邂逅"
+
+msgid "Solstice=Solstice"
+msgstr "至点"
+
+msgid "Sunrise=Sunrise"
+msgstr "夜明け"
+
+msgid "InMemory=In Memory"
+msgstr "思い出の中で"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "汚物は消毒だ"

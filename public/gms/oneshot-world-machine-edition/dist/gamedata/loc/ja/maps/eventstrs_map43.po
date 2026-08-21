@@ -1,0 +1,249 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown アルーラ？\\>\\nアルーラ？おーーーい？"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p、 今の聞こえた？"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown アルーラ！"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko 南東のほうから聞こえるよ。"
+
+msgid "@niko It's full of eels!"
+msgstr "@niko ウナギだらけだ！"
+
+msgid "@niko_what Wait, no..."
+msgstr "@niko_what 待って、違う…"
+
+msgid "@niko_wtf2 It's full of snakes..."
+msgstr "@niko_wtf2 ヘビだらけだ…"
+
+msgid "@niko_eyeclosed Snakes..."
+msgstr "@niko_eyeclosed ヘビ…"
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[水ノサンプル採取を進行中…]"
+
+msgid "@calamus_speak Hey! You there!"
+msgstr "@calamus_speak なあ！そこの君！"
+
+msgid "@calamus Have you seen a little girl?"
+msgstr "@calamus 小さな女の子を見なかったか？"
+
+msgid "@calamus She's a little bit shorter than you, and-"
+msgstr "@calamus 君より少し背が低くて、あと――"
+
+msgid "@calamus_speak Wait...\\.! That's... the sun."
+msgstr "@calamus_speak って…\\.！それ…太陽だろ。"
+
+msgid "@calamus Are you our savior?"
+msgstr "@calamus 君が救世主なのか？"
+
+msgid "@niko I... yeah?"
+msgstr "@niko えっと… そうかも？"
+
+msgid "@calamus_shame Oh my stars!"
+msgstr "@calamus_shame うっそ！"
+
+msgid "@calamus_shame Sorry for my rudeness!"
+msgstr "@calamus_shame タメ口使ってごめん！…なさい！"
+
+msgid "@niko Huh? It's alright..."
+msgstr "@niko うん？別にいいよ…"
+
+msgid "@niko_speak Are you looking for someone?"
+msgstr "@niko_speak 誰か探してるの？"
+
+msgid "@calamus_sad My little sister... she's been gone for three days now."
+msgstr "@calamus_sad 妹なんだ…\nいなくなってからもう3日も経つ。"
+
+msgid "@calamus I've been looking all over, but..."
+msgstr "@calamus あちこち探し回ってるんだけど…"
+
+msgid "@niko What does she look like?"
+msgstr "@niko どんな子なの？"
+
+msgid "@calamus_speak Um...\\. a little shorter than you, long blue hair, two blue feathers on top of her head..."
+msgstr "@calamus_speak ええと…\\. 君より少し背が低くて、\n青くて長い髪の毛をしていて、あと頭の上に\n青い羽が生えてて…"
+
+msgid "@niko I'm sorry, I haven't seen anyone like that..."
+msgstr "@niko ごめん、そんな子は見てないや…"
+
+msgid "@niko_speak Where was the last place you saw her?"
+msgstr "@niko_speak 最後どこで見たの？"
+
+msgid "@calamus_speak Back inside the ruins."
+msgstr "@calamus_speak 遺跡の内部。"
+
+msgid "@calamus She said she was headed towards the forest, so I'm waiting here now."
+msgstr "@calamus 森に向かうって言ってたから、\n今はここで待ってる。"
+
+msgid "@calamus_sad I ran out of places to look..."
+msgstr "@calamus_sad どこもかしこも探したんだ…"
+
+msgid "@alula_gasp Calamus!"
+msgstr "@alula_gasp カラムス！"
+
+msgid "@calamus_speak Alula!"
+msgstr "@calamus_speak アルーラ！"
+
+msgid "@calamus You're okay!"
+msgstr "@calamus 無事だったのか！"
+
+msgid "@calamus_sad Thank goodness..."
+msgstr "@calamus_sad 本当に良かった…"
+
+msgid "@niko Are you from the village?"
+msgstr "@niko 君は村の人？"
+
+msgid "@calamus No..."
+msgstr "@calamus いや…"
+
+msgid "@calamus_speak I don't remember why, but our father left the village while we were still young."
+msgstr "@calamus_speak 理由は覚えてないけど、オレたちがまだ\n小さかった頃、父さんは村を出たんだ。"
+
+msgid "@calamus We've lived in the ruins ever since."
+msgstr "@calamus それからずっと、遺跡に住んでる。"
+
+msgid "@calamus_sad ...Well, it's just Alula and I now."
+msgstr "@calamus_sad …まあ、今はオレとアルーラだけだけど。"
+
+msgid "@calamus_sad I can't lose her too..."
+msgstr "@calamus_sad 妹まで失うわけにはいかない…"
+
+msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
+msgstr "@calamus_speak オレにはアルーラしかいない。\\n妹を失うわけにはいかない…"
+
+msgid "@alula_pout I was trapped inside this room and it was really scary..."
+msgstr "@alula_pout 部屋の中に閉じ込められて、\nすっごく怖かった…"
+
+msgid "@alula ...but then, the messiah saved me!"
+msgstr "@alula …でもそしたら、救世主さまが助けてくれたの！"
+
+msgid "@calamus ...trapped?\\> In the ruins?"
+msgstr "@calamus 閉じ込められた？\\>遺跡の中で？"
+
+msgid "@alula_oh Yeah!\\|"
+msgstr "@alula_oh そう！\\|"
+
+msgid "@alula_pout There was that weird stuff in the door!"
+msgstr "@alula_pout 入り口に、あの変なのがいた！"
+
+msgid "@alula_oh You know, the floating squares we see next to the ocean sometimes?"
+msgstr "@alula_oh ほら、ときどき海の近くで見る、\nあの四角い浮かんでるやつ！"
+
+msgid "@alula_oh The stuff you told me to stay away from?"
+msgstr "@alula_oh 近づくなって言ってたでしょ？"
+
+msgid "@calamus_shock What!?"
+msgstr "@calamus_shock 何だって！？"
+
+msgid "@calamus_shock It's... spread to the ruins now?"
+msgstr "@calamus_shock い…遺跡にまで広がったのか？"
+
+msgid "@calamus_sad This isn't good..."
+msgstr "@calamus_sad まずいな…"
+
+msgid "@alula_speak Don't worry! I didn't touch it!"
+msgstr "@alula_speak 心配しないで！触らなかったわ！"
+
+msgid "@alula I'm not hurt or anything..."
+msgstr "@alula 怪我とかもしてないし…"
+
+msgid "@calamus_sad Still... If it gets any worse, we might have to find somewhere else to live..."
+msgstr "@calamus_sad だとしても…これ以上ひどくなったら、\n他に住む場所を見つけないと…"
+
+msgid "@niko What is this... square... stuff, exactly?"
+msgstr "@niko 今言ってた…四角いやつ…って、何？"
+
+msgid "@calamus_sad Bad."
+msgstr "@calamus_sad 悪いものさ。"
+
+msgid "@calamus Anything that touches them just... sorta..."
+msgstr "@calamus あれに触れたものは全部…何と言うか…"
+
+msgid "@calamus_sad ...Gets... messed up."
+msgstr "@calamus_sad …めちゃくちゃに…なる。"
+
+msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
+msgstr "@calamus_sad みんなが言う「世界の崩壊」ってのは、\nあれのことを指しているんだ…"
+
+msgid "@calamus_speak Obviously, you should avoid them too."
+msgstr "@calamus_speak もちろん、君も避けたほうがいい。"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 分かった！"
+
+msgid "@calamus_speak Anyway, ah..."
+msgstr "@calamus_speak それより、その…"
+
+msgid "@calamus I can't thank you enough for rescuing my sister, savior..."
+msgstr "@calamus 救世主、妹を助けてくれて、\n感謝してもしきれない…"
+
+msgid "@niko_speak Just call me Niko!"
+msgstr "@niko_speak ミーのことはニコって呼んで！"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame いやいや！名前で呼ぶなんて、キミに\n失礼じゃないか？"
+
+msgid "@niko Huh?\\>\\n\\@niko_speak Why would it be?"
+msgstr "@niko え？\\>\\n\\@niko_speak どうして？"
+
+msgid "@niko I mean, I'm just a kid like you guys..."
+msgstr "@niko だって、ミーは\n君たちと同じ、ただの子供だよ…"
+
+msgid "@calamus_shame Ah..."
+msgstr "@calamus_shame そうか…"
+
+msgid "@calamus_smile Then... would you like to visit our house, Niko?"
+msgstr "@calamus_smile それなら…うちに来ないか、ニコ？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@alula_speak Yaaaay!"
+msgstr "@alula_speak やったーー！"
+
+msgid "@alula Let's go!"
+msgstr "@alula 行きましょ！"
+
+msgid "@niko_speak I'm sorry, but I think \\p might want to go somewhere else right now!"
+msgstr "@niko_speak ごめん、 \\p が別の場所に\n行きたがってるかもしれないんだ！"
+
+msgid "@calamus_smile That's fine.\\.\\. I'm sure you both have more important things to do right now."
+msgstr "@calamus_smile 分かった。\\.\\.君たちには他にやるべきことが\nあるだろうしな。"
+
+msgid "@calamus_smile But feel free to drop by if you change your mind."
+msgstr "@calamus_smile でも気が変わったら、いつでも寄ってくれよ。"
+
+msgid "@alula_speak Yeah!\\.\\. We have something nice to give you, Niko!"
+msgstr "@alula_speak そうね！\\.\\.ニコにあげたいものもあるし！"
+
+msgid "@alula We live in the ruins.\\| So don't forget!"
+msgstr "@alula あたしたちは遺跡に住んでるから。\\|忘れないでね！"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak あ、ところで、太陽はどうしたんだ？"
+
+msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel the sun again, before.\\..\\.."
+msgstr "@niko 遺跡にいた人に貸したよ。\\n太陽を感じたいって言ってたんだ、最後に.\\..\\.."
+
+msgid "@calamus Oh, Maize.\\nI've met her before, too."
+msgstr "@calamus ああ、メイズか。\\nオレも会ったことある。"
+
+msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
+msgstr "@calamus この辺りには、植物の人たちがもっと\nたくさん住んでたんだってさ…\\n父さんが教えてくれた。"
+
+msgid "@calamus I guess they've all...\\. gone."
+msgstr "@calamus きっと、みんな…\\. いなくなっちゃったんだ。"
+
+msgid "@niko_eyeclosed I'm glad she got to see the sun again, at least."
+msgstr "@niko_eyeclosed あのお姉さんにもう一度太陽を\n見せてあげられて良かったよ。"
+
+msgid "This is the best fishing spot I've found yet!"
+msgstr "これまで見た中で最高の釣りスポットだ！"
+
+msgid "All the fish I catch here are longer than my arm!"
+msgstr "ここで釣れる魚はみんな、この腕より長い！"
+

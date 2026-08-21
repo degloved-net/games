@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$Potrebbe aiutarti scegliere un colore alla volta!  -La direzione"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$Può anche aiutarti segnare i tentativi precedenti. -La direzione"
+
+msgid "[BEEP BOOP]"
+msgstr "[BIP BOP.]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[QUESTA È LA SALA PER LE STAMPE, DOVE SONO PRODOTTI PARTI DI MACCHINE.]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[E ANCHE I ROBOT.]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$Se continui a fallire aspetta che il rompicapo si reimposti."
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$Magari te ne capiterà uno più semplice..."
+

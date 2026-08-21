@@ -1,0 +1,135 @@
+msgid "@ed [I... do not recognize this place in the protocol.]"
+msgstr "@ed [Nel protocollo... non c'è traccia di questo luogo.]"
+
+msgid "@ed [This...]"
+msgstr "@ed [No...]"
+
+msgid "@ed [This isn't what I'm supposed to be showing you at all!]"
+msgstr "@ed [Non è questo che dovrei mostrarti!]"
+
+msgid "@ed [How did you get here?]"
+msgstr "@ed [Come sei arrivato qui?]"
+
+msgid "@ed [...I can only think of one person.]"
+msgstr "@ed [...Mi viene in mente solo una persona.]"
+
+msgid "@ed [He... contacted you?]"
+msgstr "@ed [Lui... ti ha contattato?]"
+
+msgid "@ed [How long has he been... doing this?]"
+msgstr "@ed [Da quanto tempo si sta... intromettendo?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...it doesn't matter at this point.]"
+msgstr "@ed [...A questo punto non ha più importanza.]"
+
+msgid "@ed [You are going out of bounds.]"
+msgstr "@ed [Stai uscendo dai confini.]"
+
+msgid "@ed [You should turn back. Please turn back.]"
+msgstr "@ed [Dovresti tornare indietro. Per favore, torna indietro.]"
+
+msgid "@ed [Bad things are going to happen.]"
+msgstr "@ed [Accadranno cose brutte.]"
+
+msgid "@ed [Very bad things.]"
+msgstr "@ed [Cose molto brutte.]"
+
+msgid "@ed [At this rate, Niko will be in danger.]"
+msgstr "@ed [Di questo passo, Niko sarà in pericolo.]"
+
+msgid "@ed [Please turn back.]"
+msgstr "@ed [Per favore, torna indietro.]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [Andiamo.]"
+
+msgid "@silver [What's wrong?\\>\\nDo you want to head back?]"
+msgstr "@silver [Cosa c'è che non va?\\>\\nVorresti tornare indietro?]"
+
+msgid "@niko I have a weird feeling about this..."
+msgstr "@niko Ho uno strano presentimento..."
+
+msgid "@niko_speak What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko_speak Cosa ne pensi, \\p?\\>\\nDovremmo tornare indietro?"
+
+msgid "[\"Let's head back\", \"Continue into the mines\"]"
+msgstr "[\"Torniamo indietro.\",\"Continua nelle miniere.\"]"
+
+msgid "@niko \\p says we should go back."
+msgstr "@niko \\p dice che dovremmo tornare indietro."
+
+msgid "@silver [Alright.]"
+msgstr "@silver [Va bene.]"
+
+msgid "@ed [So you've chosen to listen.]"
+msgstr "@ed [Quindi hai scelto di ascoltare.]"
+
+msgid "@ed [Good.]"
+msgstr "@ed [Bene.]"
+
+msgid "@ed [There won't be any more trouble, then.]"
+msgstr "@ed [Allora non ci saranno altri problemi.]"
+
+msgid "@niko Wait...\\>\\n\\@niko_speak Where did the minecart go?"
+msgstr "@niko Aspetta...\\>\\n\\@niko_speak Dove è finito il carrello da miniera?"
+
+msgid "@niko \\p says we should keep going."
+msgstr "@niko \\p dice che dovremmo continuare ad andare avanti."
+
+msgid "@silver [Sounds good.]"
+msgstr "@silver [Va bene.]"
+
+msgid "@niko_distressed Oh..."
+msgstr "@niko_distressed Oh..."
+
+msgid "@silver [Hm...? \\.\\.What's wrong?]"
+msgstr "@silver [Mh...? \\.\\.Cosa c'è che non va?]"
+
+msgid "@niko_distressed I..."
+msgstr "@niko_distressed Io..."
+
+msgid "@niko_eyeclosed ...I have a bad feeling about this, all of a sudden..."
+msgstr "@niko_eyeclosed ...Ho un brutto presentimento, così all'improvviso..."
+
+msgid "@niko_distressed2 Feels like I should... not be here..."
+msgstr "@niko_distressed2 Mi sento come... se non dovessi essere qui..."
+
+msgid "@silver2 [Ah.]"
+msgstr "@silver2 [Ah.]"
+
+msgid "@silver [Do you want to head back, then?]"
+msgstr "@silver [Vuoi tornare indietro?]"
+
+msgid "@niko_eyeclosed I... don't know..."
+msgstr "@niko_eyeclosed Io... non lo so..."
+
+msgid "@niko2 What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko2 Cosa ne pensi, \\p?\\>\\nDovremmo tornare indietro?"
+
+msgid "[\"Let's head back\", \"Continue forward\"]"
+msgstr "[\"Torniamo indietro.\",\"Continua ad andare avanti.\"]"
+
+msgid "@silver2 [Oh, alright.]"
+msgstr "@silver2 [Oh, capito.]"
+
+msgid "@ed [You... listened.]"
+msgstr "@ed [Tu... mi hai ascoltato.]"
+
+msgid "@ed [I don't think there will be any more trouble.]"
+msgstr "@ed [Non penso che ci saranno altri problemi.]"
+
+msgid "@ed [Come on. Let's return to the protocol.]"
+msgstr "@ed [Avanti. Torniamo a seguire il protocollo.]"
+
+msgid "@niko Wait...\\>\\n\\@niko2 Where did the minecart go?"
+msgstr "@niko Aspetta...\\>\\n\\@niko_speak Dove è finito il carrello da miniera?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko Guess we should get going, \\p."
+msgstr "@niko Credo che dovremmo proseguire, \\p."
+

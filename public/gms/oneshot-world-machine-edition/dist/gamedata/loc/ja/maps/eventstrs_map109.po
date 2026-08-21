@@ -1,0 +1,39 @@
+msgid "@Niko A landscape painting."
+msgstr "@Niko 風景画だ。"
+
+msgid "[Are You. An Intruder?]"
+msgstr "[アナタ。侵入者カ？]"
+
+msgid "[Because If You Are... I, Model 8-XM Home Security Bot (TM) Serial Number 39232B839W4, Will Have To Report You.]"
+msgstr "[もしそうだとすれバ…ワタシ、モデル8-XM\nホームセキュリティボット（TM）シリアル番号\n39232B839W4は、アナタを通報しなくてハならなイ。]"
+
+msgid "@niko Oh, sorry..."
+msgstr "@niko あっ、ごめんなさい…"
+
+msgid "@niko_eyeclosed I... kinda just walked in because the door was unlocked..."
+msgstr "@niko_eyeclosed あの…ドアに鍵がかかってなかったから、\n入っただけなんだ…"
+
+msgid "@niko_speak Do you want me to leave?"
+msgstr "@niko_speak 出て行った方がいいかな？"
+
+msgid "[Scanning for Suspicious Activity.\\..\\..\\.]"
+msgstr "[不審ナ行動をスキャン中.\\..\\..\\.]"
+
+msgid "[Suspicious Activities Detected: 0 ]"
+msgstr "[検出された不審ナ行動:0]"
+
+msgid "@niko_eyeclosed Well, I guess as long as I don't do anything bad..."
+msgstr "@niko_eyeclosed えっと、ミーが何も悪いことをしなければ\nいいってことだよね…"
+
+msgid "[I Am. Still Monitoring You]"
+msgstr "[ワタシ。まだアナタを監視していル。]"
+
+msgid "[Alert Level Has Been Set To Low]"
+msgstr "[警報レベルハ「低」に設定されタ。]"
+
+msgid "@niko_speak Don't worry! I promise I'll be a good guest!"
+msgstr "@niko_speak 心配しないで！迷惑かけないから！"
+
+msgid "@niko An abstract painting."
+msgstr "@niko 抽象画だ。"
+

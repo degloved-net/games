@@ -1,0 +1,2 @@
+msgid "@ed [Please enter your name.]"
+msgstr "@ed [Insira seu nome.]"

@@ -1,0 +1,606 @@
+msgid "@niko Something is poking out from this shelf."
+msgstr "@niko Tem alguma coisa saindo dessa prateleira."
+
+msgid "@niko_speak Ah... it's a screwdriver."
+msgstr "@niko_speak Ah, uma chave de fenda."
+
+msgid "@silver [You can take it if you want. It may help you.]"
+msgstr "@silver [Pode ficar, se quiser. Pode ser útil para você.]"
+
+msgid "@niko Oh! Are you sure?"
+msgstr "@niko Ah! Tem certeza?"
+
+msgid "@silver [Yes. I have many.]"
+msgstr "@silver [Sim. Eu tenho várias.]"
+
+msgid "@niko Thank you!"
+msgstr "@niko Então ótimo!"
+
+msgid "@niko It's a photo of two people."
+msgstr "@niko Uma foto de duas pessoas..."
+
+msgid "@niko The glass is a bit too foggy to see details, though."
+msgstr "@niko O vidro está um pouco embaçado para ver os detalhes."
+
+msgid "@niko There's lots of tiny glowing shrimp swimming in this jar."
+msgstr "@niko Há vários camarõezinhos brilhantes nadando nesse jarro."
+
+msgid "@niko And lots of tiny shrimp that aren't glowing..."
+msgstr "@niko E vários camarõezinhos que não estão brilhando."
+
+msgid "@niko_eyeclosed ...or swimming..."
+msgstr "@niko_eyeclosed ... nem nadando..."
+
+msgid "@silver2 [No way! I just refilled that two days ago!]"
+msgstr "@silver2 [Como assim?! Eu enchi isso há dois dias!]"
+
+msgid "@silver_eyeclosed [Guess I'll make a trip to the shore later...]"
+msgstr "@silver_eyeclosed [Acho que depois farei uma viagem até a margem...]"
+
+msgid "@silver_eyeclosed [These jars don't last very long.]"
+msgstr "@silver_eyeclosed [Esses jarros não duram muito tempo.]"
+
+msgid "@niko A jar full of glowing shrimp."
+msgstr "@niko Um jarro cheio camarões brilhantes."
+
+msgid "@silver2 [Oh, it's that journal you showed me in the mines.]"
+msgstr "@silver2 [Ah, é aquele diário que você me mostrou nas minas.]"
+
+msgid "@silver [Doesn't look like it's glowing anymore, though.]"
+msgstr "@silver [Mas parece que não está brilhando mais.]"
+
+msgid "@niko Do you know what I'm supposed to do with it?"
+msgstr "@niko Você sabe o que eu preciso fazer com ele?"
+
+msgid "@silver2 [I am unsure, but...]"
+msgstr "@silver2 [Não sei bem, mas...]"
+
+msgid "@silver [...hold on to the journal for now.]"
+msgstr "@silver [... fique com o diário por enquanto.]"
+
+msgid "@silver [It will be important.]"
+msgstr "@silver [Será importante.]"
+
+msgid "@niko O...kay..."
+msgstr "@niko C-certo..."
+
+msgid "@niko Excuse me, miss..."
+msgstr "@niko Com licença, senhorita..."
+
+msgid "@niko_speak I found this book.\\nDo you know anything about it?"
+msgstr "@niko_speak Eu encontrei este livro.\\nSabe alguma coisa sobre ele?"
+
+msgid "@silver [Let me see.\\..\\..]"
+msgstr "@silver [Deixe-me ver.\\..\\..]"
+
+msgid "@silver2 [What language is this...?]"
+msgstr "@silver2 [Que língua é essa...?]"
+
+msgid "@silver_eyeclosed [I'm sorry, I... don't even recognize this writing system.]"
+msgstr "@silver_eyeclosed [Desculpe, eu... desconheço este sistema de escrita.]"
+
+msgid "@niko Ah, well, it was worth a shot."
+msgstr "@niko Ah, bem, valeu a tentativa."
+
+msgid "@silver2 [Although... this insignia.]"
+msgstr "@silver2 [Embora... essa insígnia...]"
+
+msgid "@silver [...]"
+msgstr "@silver [...]"
+
+msgid "@silver [Off you go...]"
+msgstr "@silver [Pode sair...]"
+
+msgid "@silver [There's no reason for you to linger in the Barrens.]"
+msgstr "@silver [Não há nenhum motivo para você ficar nas Terras Áridas.]"
+
+msgid "@niko_speak Excuse me again, miss..."
+msgstr "@niko_speak Com licença de novo, senhorita..."
+
+msgid "@niko_speak I found a robot who can take me towards the Tower!"
+msgstr "@niko_speak Encontrei um robô que pode me levar até a Torre!"
+
+msgid "@niko_eyeclosed ...but it's having some trouble, so it told me to talk to you."
+msgstr "@niko_eyeclosed ... mas ele está com alguns problemas e pediu para eu falar com você."
+
+msgid "@silver [Alright.\\>\\nWhat is the issue?]"
+msgstr "@silver [Certo.\\>\\nQual é o problema?]"
+
+msgid "@niko It said something about its navigation circuits being fried."
+msgstr "@niko Ele falou alguma coisa sobre os circuitos de navegação estragados."
+
+msgid "@silver2 [Just the navigation circuits?]"
+msgstr "@silver2 [Só os circuitos de navegação?]"
+
+msgid "@niko_speak Apparently!\\>\\n\\@niko \\p and I fixed everything else, I think..."
+msgstr "@niko_speak Parece que sim!\\n\\>\\@niko \\p e eu consertamos todo o resto..."
+
+msgid "@silver [Hm...]"
+msgstr "@silver [Hm...]"
+
+msgid "@silver [I have something that may help.]"
+msgstr "@silver [Tenho algo que possa ajudar.]"
+
+msgid "@silver_lookup [Rowbots have the ability to trace material from their source locations.]"
+msgstr "@silver_lookup [Os remobôs têm a habilidade de encontrar materiais de seus locais de origem.]"
+
+msgid "@silver [If you let the rowbot borrow this, then its backup tracking system should activate.]"
+msgstr "@silver [Se você deixar o remobô usar isso, o sistema de rastreamento reserva deverá ativar.]"
+
+msgid "@niko_speak That's a very pretty necklace!"
+msgstr "@niko_speak É um colar muito bonito!"
+
+msgid "@niko What's it made of?"
+msgstr "@niko Do que é feito?"
+
+msgid "@silver_lookup [Amber found from the Glen.]"
+msgstr "@silver_lookup [Âmbar encontrado no Vale.]"
+
+msgid "@niko What's the thing inside the amber?"
+msgstr "@niko O que há dentro do âmbar?"
+
+msgid "@silver2 [The black clover?\\>\\n\\@silver That's a common plant in our world.]"
+msgstr "@silver2 [O trevo preto? \\>\\n\\@silver É uma planta comum em nosso mundo.]"
+
+msgid "@silver_lookup [It's also...]"
+msgstr "@silver_lookup [É também...]"
+
+msgid "@niko ?"
+msgstr "@niko ?"
+
+msgid "@silver_eyeclosed [Sigh... I'm not sure if I can bear to part with this.]"
+msgstr "@silver_eyeclosed [Ah... Eu não sei se consigo falar sobre isso.]"
+
+msgid "@silver_eyeclosed [My programming says yes, but I still feel conflicted.]"
+msgstr "@silver_eyeclosed [Minha programação diz que sim, mas ainda há um conflito dentro de mim.]"
+
+msgid "@niko ...?"
+msgstr "@niko ...?"
+
+msgid "@silver_eyeclosed [Nevermind.]"
+msgstr "@silver_eyeclosed [Deixe para lá.]"
+
+msgid "@silver_eyeclosed [You need to finish your mission more than I need a keepsake.]"
+msgstr "@silver_eyeclosed [Você precisa terminar sua missão mais do que preciso de uma recordação.]"
+
+msgid "@silver [Here.]"
+msgstr "@silver [Pegue.]"
+
+msgid "@niko_speak Oh, thank you!"
+msgstr "@niko_speak Ah, valeu!"
+
+msgid "@silver [Do you need further assistance?]"
+msgstr "@silver [Precisa de mais alguma ajuda?]"
+
+msgid "@niko We're good, thanks!"
+msgstr "@niko Não, tudo bem, valeu!"
+
+msgid "@niko_speak What's inside the Tower?"
+msgstr "@niko_speak O que há dentro da Torre?"
+
+msgid "@silver_lookup [I don't know. Nobody's ever entered it before.]"
+msgstr "@silver_lookup [Não sei. Ninguém nunca entrou nela.]"
+
+msgid "@silver [At least, nobody history knows.]"
+msgstr "@silver [Bem, é o que se sabe.]"
+
+msgid "@niko Then... who built it?"
+msgstr "@niko Então... quem a construiu?"
+
+msgid "@silver2 [Built?]"
+msgstr "@silver2 [Construiu?]"
+
+msgid "@silver [As far as anyone can tell, it's been there since the beginning of time.]"
+msgstr "@silver [Pelo que sei, ela está lá desde o início dos tempos.]"
+
+msgid "@silver [I know someone who wanted to study it before, but...]"
+msgstr "@silver [Eu já conheci alguém que a quis estudar, mas...]"
+
+msgid "@silver_eyeclosed [...]"
+msgstr "@silver_eyeclosed [...]"
+
+msgid "@niko Oh?"
+msgstr "@niko É?"
+
+msgid "@silver [He never told me if it went anywhere.]"
+msgstr "@silver [Ele nunca me disse nada sobre isso.]"
+
+msgid "@silver2 [The lightbulb...]"
+msgstr "@silver2 [A lâmpada...]"
+
+msgid "@silver2 [So, are you the \"messiah\"?]"
+msgstr "@silver2 [Então, você é o “messias”?]"
+
+msgid "@niko That's what I've been told."
+msgstr "@niko É o que me disseram."
+
+msgid "@silver [I expected someone... taller.]"
+msgstr "@silver [Eu esperava alguém... mais alto.]"
+
+msgid "@silver_eyeclosed [Or at least someone that doesn't look like a kitten.]"
+msgstr "@silver_eyeclosed [Ou, pelo menos, alguém que não pareça um gatinho.]"
+
+msgid "@silver [That's what you are, right? Some sort of cat?]"
+msgstr "@silver [É isso que você é, certo? Uma espécie de gato?]"
+
+msgid "@niko Nuh-uh!"
+msgstr "@niko N-não!"
+
+msgid "@niko_speak I'm a person!"
+msgstr "@niko_speak Eu sou uma pessoa!"
+
+msgid "@silver [You got the eyes of a cat...]"
+msgstr "@silver [Você tem olhos de gato...]"
+
+msgid "@niko_speak But cats walk on four legs!"
+msgstr "@niko_speak Mas os gatos andam em quatro patas!"
+
+msgid "@silver_eyeclosed [Well, either way...]"
+msgstr "@silver_eyeclosed [Bem, enfim...]"
+
+msgid "@silver_lookup [A child like you being the messiah... just doesn't feel right.]"
+msgstr "@silver_lookup [Uma criança como você ser o nosso Messias... não parece certo.]"
+
+msgid "@niko_eyeclosed But that robot back there says there's no mistake..."
+msgstr "@niko_eyeclosed Mas aquele robô tem certeza disso..."
+
+msgid "@silver [I know.]"
+msgstr "@silver [Eu sei.]"
+
+msgid "@silver_eyeclosed [...sigh.]"
+msgstr "@silver_eyeclosed [... ah.]"
+
+msgid "@silver_eyeclosed [This is going to sound cold, but...]"
+msgstr "@silver_eyeclosed [Isso vai soar meio frio, mas...]"
+
+msgid "@silver_lookup [I honestly think you are better off just... leaving and letting the world die naturally.]"
+msgstr "@silver_lookup [Para ser sincera, acho que você deveria apenas... deixar o mundo morrer naturalmente.]"
+
+msgid "@silver [The world has been falling apart for a long time.]"
+msgstr "@silver [O mundo está acabando há muito tempo.]"
+
+msgid "@silver_eyeclosed [This manner of decay... It's highly unprobable that the sun can fix it.]"
+msgstr "@silver_eyeclosed [Essa decadência... duvido que o sol vá revertê-la.]"
+
+msgid "@silver [You've already seen how bad it can get, right?]"
+msgstr "@silver [Você viu como isso é ruim, não é?]"
+
+msgid "@niko We... haven't seen much of anything, actually..."
+msgstr "@niko Nós... não vimos muita coisa, na verdade..."
+
+msgid "@niko_eyeclosed And we can't really just leave..."
+msgstr "@niko_eyeclosed E não podemos apenas desistir..."
+
+msgid "@silver2 [Oh, so you just got here?]"
+msgstr "@silver2 [Ah, então você acabou de chegar aqui?]"
+
+msgid "@silver [Then you must be headed towards the Tower.]"
+msgstr "@silver [Então você deve ir em direção à Torre.]"
+
+msgid "@niko M-hm!"
+msgstr "@niko M-hm!"
+
+msgid "@niko It's where I'm supposed put the lightbulb... er, sun, isn't it?"
+msgstr "@niko É onde preciso colocar a lâmp... ahm... o sol, não é?"
+
+msgid "@silver [Yes, at the very top.]"
+msgstr "@silver [Sim, no topo dela.]"
+
+msgid "@silver_lookup [We know that the Tower contains a force that nobody could comprehend.]"
+msgstr "@silver_lookup [Sabemos que a Torre tem um poder que ninguém compreende.]"
+
+msgid "@silver_lookup [And the power is strongest at the summit.]"
+msgstr "@silver_lookup [E quanto mais alto, mais forte ela é.]"
+
+msgid "@silver [Maybe it will send you back home after you complete your mission.]"
+msgstr "@silver [Talvez ela mande você de volta para casa quando concluir sua missão.]"
+
+msgid "@niko_pancakes Oh!"
+msgstr "@niko_pancakes Ah!"
+
+msgid "@silver_eyeclosed [Don't take my word for it, though.]"
+msgstr "@silver_eyeclosed [No entanto, não conte com isso.]"
+
+msgid "@niko Before I go...\\. Is there anything I can do in return?"
+msgstr "@niko Antes de partir...\\. Posso ajudar de alguma maneira?"
+
+msgid "@silver [Actually...]"
+msgstr "@silver [Na verdade...]"
+
+msgid "@silver2 [Do you...\\.\\. know how to play chess?]"
+msgstr "@silver2 [Você... \\.\\. sabe jogar xadrez?]"
+
+msgid "@niko_speak Yeah!\\>\\n\\@niko Well, sort of..."
+msgstr "@niko_speak Sim!\\n\\>\\@niko É... mais ou menos..."
+
+msgid "@niko_speak I've played it with some older kids before!"
+msgstr "@niko_speak Eu já joguei com crianças mais velhas!"
+
+msgid "@silver [Then, will you play a game with me?]"
+msgstr "@silver [Então, joga uma partida comigo?]"
+
+msgid "@niko_eyeclosed I mean, I don't know the rules very well...."
+msgstr "@niko_eyeclosed Digo, eu não sei muito bem as regras..."
+
+msgid "@niko_speak But I guess it's the least I could do!"
+msgstr "@niko_speak Mas é o mínimo que eu possa fazer!"
+
+msgid "@niko You're really good at this!"
+msgstr "@niko Você tem talento!"
+
+msgid "@silver [Thank you.\\>\\n\\@silver2 It was built into my code.]"
+msgstr "@silver [Obrigada.\\>\\n\\@silver2 Está no meu código.]"
+
+msgid "@niko Ah."
+msgstr "@niko Ah."
+
+msgid "@niko So....\\> \\@niko_speak What's it like?\\>\\n\\@niko Being a robot and all..."
+msgstr "@niko Então... \\>\\@niko_speak Como é isso?\\>\\n\\@niko Ser um robô e tal..."
+
+msgid "@niko I've talked to other robots, and they all say something about programming and code and stuff."
+msgstr "@niko Eu conversei com outros robôs e todos eles falaram sobre programação, código, essas coisas..."
+
+msgid "@niko_speak Even you did, just now!"
+msgstr "@niko_speak E agora você!"
+
+msgid "@niko_eyeclosed It's a little hard to understand sometimes."
+msgstr "@niko_eyeclosed Às vezes, é difícil entender."
+
+msgid "@silver_eyeclosed [Most of the robots here are not tamed.]"
+msgstr "@silver_eyeclosed [A maioria dos robôs não são evoluídos.]"
+
+msgid "@niko_speak Tamed?"
+msgstr "@niko_speak Evoluído?"
+
+msgid "@silver [Watch out.]"
+msgstr "@silver [Cuidado.]"
+
+msgid "@niko_what ...\\.\\.there goes my bishop..."
+msgstr "@niko_what ...\\.\\.lá se vai o meu bispo..."
+
+msgid "@silver [Taming...\\.\\. is complicated.]"
+msgstr "@silver [Evoluir... \\.\\. é complicado.]"
+
+msgid "@niko_speak How complicated, exactly?"
+msgstr "@niko_speak Como assim, exatamente?"
+
+msgid "@niko_eyeclosed ...\\.\\.there goes my other bishop..."
+msgstr "@niko_eyeclosed ...\\.\\.lá se vai meu outro bispo..."
+
+msgid "@silver_lookup [I can't really explain what tamed robots are.]"
+msgstr "@silver_lookup [Eu não sei explicar direito o que são os robôs evoluídos.]"
+
+msgid "@silver [But I'm one of them.]"
+msgstr "@silver [Mas eu sou um deles.]"
+
+msgid "@silver_lookup [All the other tamed robots have been moved to other regions.]"
+msgstr "@silver_lookup [Todos os outros robôs evoluídos foram levados para outras regiões.]"
+
+msgid "@silver_eyeclosed [Exactly where, I don't know.]"
+msgstr "@silver_eyeclosed [Não sei exatamente aonde.]"
+
+msgid "@niko_what ...\\.\\.there goes my little horse..."
+msgstr "@niko_what ...\\.\\.lá se vai meu cavalinho..."
+
+msgid "@silver [Knight.]"
+msgstr "@silver [Cavalo.]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed Certo..."
+
+msgid "@niko_speak Oh! Have you ever been to any other regions?\\>\\n\\@niko I heard that there's two more."
+msgstr "@niko_speak Ah! Você já esteve em alguma outra região?\\n\\>\\@niko Ouvi dizer que há mais duas."
+
+msgid "@silver [In the past, yes.]"
+msgstr "@silver [No passado, sim.]"
+
+msgid "@silver_eyeclosed [I still have the data, the coordinates,\\. the memories...]"
+msgstr "@silver_eyeclosed [Eu ainda tenho os dados, as coordenadas,\\. as lembranças...]"
+
+msgid "@silver_eyeclosed [...I don't know how much of that still holds true.]"
+msgstr "@silver_eyeclosed [... só não sei se tudo isso continua do mesmo jeito.]"
+
+msgid "@silver [The world may be a very different place now.]"
+msgstr "@silver [O mundo pode estar muito diferente agora.]"
+
+msgid "@niko Because the sun is gone?"
+msgstr "@niko Porque o sol se foi...?"
+
+msgid "@silver [No.]"
+msgstr "@silver [Não.]"
+
+msgid "@silver2 [I said this already, didn't I?]"
+msgstr "@silver2 [Eu já disse isso, não?]"
+
+msgid "@silver [The sun probably won't save the world.]"
+msgstr "@silver [Provavelmente, o sol não salvará o mundo.]"
+
+msgid "@silver_lookup [The decaying started back before the sun went out.]"
+msgstr "@silver_lookup [A decadência começou antes de o sol desaparecer.]"
+
+msgid "@silver_eyeclosed [The sun's sudden death was just the tipping point, and things went south really fast after that.]"
+msgstr "@silver_eyeclosed [A morte repentina do sol foi apenas a gota d’água para tudo piorar de vez.]"
+
+msgid "@niko Oh..."
+msgstr "@niko Ah..."
+
+msgid "@niko_eyeclosed Then... there's nothing I can do?"
+msgstr "@niko_eyeclosed Então... não há nada que eu possa fazer?"
+
+msgid "@silver [Check.]"
+msgstr "@silver [Xeque.]"
+
+msgid "@niko_speak W-what!"
+msgstr "@niko_speak O-o quê?!"
+
+msgid "@niko_eyeclosed When did your queen get there..."
+msgstr "@niko_eyeclosed Quando foi que sua rainha chegou aí...?"
+
+msgid "@silver [The only thing you can do is complete your pilgrimage.]"
+msgstr "@silver [A única coisa que você pode fazer é concluir sua peregrinação.]"
+
+msgid "@silver_lookup [In a way, you are only supposed to be a second chance for the people.]"
+msgstr "@silver_lookup [De certa forma, supostamente você é só uma segunda chance para o povo.]"
+
+msgid "@silver [Just like how the Barrens was only supposed to be a second chance for me.]"
+msgstr "@silver [Assim como supostamente as Terras Áridas foram apenas uma segunda chance para mim.]"
+
+msgid "@silver_eyeclosed [There's no guarantee that things will work out.]"
+msgstr "@silver_eyeclosed [Não há garantias de que funcionará.]"
+
+msgid "@niko But..."
+msgstr "@niko Mas..."
+
+msgid "@silver [Checkmate.]"
+msgstr "@silver [Xeque-mate.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@silver_eyeclosed [Alright, guess I've kept you long enough...]"
+msgstr "@silver_eyeclosed [Certo, acho que já segurei você por muito tempo...]"
+
+msgid "@silver [...Thank you for listening.]"
+msgstr "@silver [... Obrigada por me ouvir.]"
+
+msgid "@silver [I hope you get home safely.]"
+msgstr "@silver [Espero que chegue em casa com segurança.]"
+
+msgid "@niko Ah, thank you also!"
+msgstr "@niko Ah, você também!"
+
+msgid "@silver [Please do not touch that.]"
+msgstr "@silver [Não toque nisso.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Ah!"
+
+msgid "@niko_eyeclosed Sorry... I got curious..."
+msgstr "@niko_eyeclosed Desculpe-me... foi a curiosidade..."
+
+msgid "@niko ...what is this thing?"
+msgstr "@niko ... o que é isso?"
+
+msgid "@silver [Back-up power cell. It keeps me functional.]"
+msgstr "@silver [Célula de bateria reserva. Mantém-me em funcionamento.]"
+
+msgid "@silver_lookup [The main generator for the Barrens ran out of power some time ago.]"
+msgstr "@silver_lookup [A energia do gerador principal das Terras Áridas acabou há algum tempo.]"
+
+msgid "@silver_eyeclosed [It could not even last a week without the sun.]"
+msgstr "@silver_eyeclosed [Ele não dura nem uma semana sem o sol.]"
+
+msgid "@niko_eyeclosed Sorry to hear that..."
+msgstr "@niko_eyeclosed Que pena..."
+
+msgid "@silver_lookup [All we can do is make use of the light we have.]"
+msgstr "@silver_lookup [O que podemos fazer é usar a luz que já temos.]"
+
+msgid "@niko This is some kind of power cell, apparently!"
+msgstr "@niko Isso parece algum tipo de célula de energia!"
+
+msgid "@niko The word \"SILVER\" is written on the side."
+msgstr "@niko Está escrito “SILVER” na lateral."
+
+msgid "@niko_speak Why does it say that?"
+msgstr "@niko_speak Por que será?"
+
+msgid "@silver_eyeclosed [That's not important.]"
+msgstr "@silver_eyeclosed [Isso não é importante.]"
+
+msgid "@niko Okay..."
+msgstr "@niko Certo..."
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Ah!"
+
+msgid "@niko I got shocked..."
+msgstr "@niko Tomei um choque..."
+
+msgid "@silver_eyeclosed [I told you not to touch it...]"
+msgstr "@silver_eyeclosed [Eu disse para não tocar nisso...]"
+
+msgid "@niko_eyeclosed \\p made me."
+msgstr "@niko_eyeclosed \\p ordenou."
+
+msgid "@niko_eyeclosed I'm not falling for that one again, \\p..."
+msgstr "@niko_eyeclosed Eu não vou cair nessa de novo, \\p..."
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko Uma maquininha."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko O que será que ela faz?"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Consigo sentir meu cabelo se arrepiando..."
+
+msgid "$Dear Silver,"
+msgstr "$Querida Silver,"
+
+msgid "$I heard the news about the mines."
+msgstr "$Fiquei sabendo das minas."
+
+msgid "$I'm sorry... I can't imagine what you're feeling."
+msgstr "$Lamento... Não consigo imaginar como você está se sentindo."
+
+msgid "$It's been two weeks..."
+msgstr "$Faz duas semanas..."
+
+msgid "$I know it must be hard, but maybe it's better that you came back..."
+msgstr "$Deve ser difícil, mas talvez seja melhor você ter voltado..."
+
+msgid "$It's only a matter of time before the rowbots are recalled."
+msgstr "$É questão de tempo até os remobôs serem retirados."
+
+msgid "$At least let me know you got my message, okay?"
+msgstr "$Não se esqueça de me avisar quando receber minha mensagem, tudo bem?"
+
+msgid "$-Kip"
+msgstr "$-Kip"
+
+msgid "@niko The top is covered with a wire mesh."
+msgstr "@niko A parte de cima está coberta com uma tela metálica."
+
+msgid "@niko It's a crate."
+msgstr "@niko Um caixote."
+
+msgid "@niko The chess table has 2 small chairs."
+msgstr "@niko O tabuleiro de xadrez tem 2 cadeiras pequenas."
+
+msgid "@niko A chess table.\\>\\nIt's not dusty anymore."
+msgstr "@niko Um tabuleiro de xadrez.\\>\\nEle não está mais empoeirado."
+
+msgid "@niko A dusty chess table."
+msgstr "@niko Uma mesa de xadrez empoeirada."
+
+msgid "@niko It's a metal chess table covered in dust."
+msgstr "@niko Uma mesa de xadrez de metal coberta de poeira."
+
+msgid "@silver [I haven't played chess with anyone else for a very long time.]"
+msgstr "@silver [Eu não jogo xadrez com alguém há muito tempo.]"
+
+msgid "@niko_speak Not even...\\.\\. with the other robots?"
+msgstr "@niko_speak Nem mesmo... \\.\\. com os outros robôs?"
+
+msgid "@silver_eyeclosed [No.]\\>\\n\\@silver [Nobody in the Barrens have that capacity in their programming.]"
+msgstr "@silver_eyeclosed [Não.] \\>\\n\\@silver [Ninguém nas Terras Áridas tem esse recurso na programação.]"
+
+msgid "@silver_eyeclosed [Nobody here is tamed, for that matter.]"
+msgstr "@silver_eyeclosed [Ninguém aqui é evoluído... para isso.]"
+
+msgid "@niko A bed."
+msgstr "@niko Uma cama."
+
+msgid "@niko_speak It's made of metal...?"
+msgstr "@niko_speak É feita de metal...?"
+
+msgid "@niko_eyeclosed Doesn't look very comfortable..."
+msgstr "@niko_eyeclosed Não parece muito confortável..."
+
+msgid "@niko A shelf of weird tools and pieces of metal."
+msgstr "@niko Uma prateleira de ferramentas estranhas e peças de metal."
+
+msgid "@niko Lots of tiny shrimp are swimming in this jar."
+msgstr "@niko Há vários camarõezinhos nadando nesse jarro."
+

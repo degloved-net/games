@@ -1,0 +1,69 @@
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[THE ROBOT ASSEMBLY AND REPAIR SERVICES HAVE BEEN DISCONTINUED AT THE BARRENS.]"
+msgstr "[불모지 지역의 로봇 조립 및 수리 공정은 중단되었습니다.]"
+
+msgid "[IF YOU HAVE FURTHER INQUIRY, PLEASE CONTACT THE HEAD ENGINEER.]"
+msgstr "[문의가 있으시면 수석 기술자와 상담해 주십시오.]"
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko 책에서 뜯어낸 페이지 같아요."
+
+msgid "$-cannot overstate the importance of cleaning solvents in this environment."
+msgstr "$-이런 환경에서는 세정용제의 중요성을 거듭 강조해야 한다."
+
+msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
+msgstr "$마지막 장에서 언급한 방법으로 청색 발광체의 자연적 성질을 이용하는 제조법을 소개한다."
+
+msgid "$Reagents:"
+msgstr "$시약:"
+
+msgid "$-Acidic gas"
+msgstr "$-산성 가스"
+
+msgid "$-Blue phosphor (rare form)"
+msgstr "$-청색 발광체 (희귀 형태)"
+
+msgid "$Instructions:"
+msgstr "$제조법:"
+
+msgid "$1) In a well-ventilated area, direct the gas into your container of choice."
+msgstr "$1)바람이 잘 통하는 곳에서 가스를 용기에 넣는다."
+
+msgid "$Seal immediately."
+msgstr "$즉시 밀폐한다."
+
+msgid "@niko That's the end of the page..."
+msgstr "@niko 이게 끝이네..."
+
+msgid "@niko_speak You...want me to smash the boards with the pipe?"
+msgstr "@niko_speak 이...쇠막대기로 이 판자를 가르라고요?"
+
+msgid "@niko I can't do that! We'll have to pry them off!"
+msgstr "@niko 제 힘으론 안 돼요! 비틀어서 떼어 내야 해요!"
+
+msgid "@niko_eyeclosed But I don't think I can do that with a pipe..."
+msgstr "@niko_eyeclosed 이 쇠막대기로는 안 될 것 같은데요..."
+
+msgid "@niko_speak Good thing I kept this crowbar!"
+msgstr "@niko_speak 이 쇠지레를 갖고 다녀서 정말 다행이네요!"
+
+msgid "@niko_eyeclosed What a workout..."
+msgstr "@niko_eyeclosed 힘든 작업이었어요..."
+
+msgid "@niko The door is all boarded up..."
+msgstr "@niko 입구가 판자로 막혀 있어요..."
+
+msgid "@niko_speak The boards seem loose, though! I should be able to pull them off with the right tool..."
+msgstr "@niko_speak 하지만 판자가 느슨해 보여요! 도구를 써서 제거할 수 있지 않을까요..."
+
+msgid "[WELCOME TO THE OLD CHEMICAL PROCESSING PLANT.]"
+msgstr "[구 화학 처리 공장에 오신 걸 환영합니다.]"
+
+msgid "[MOST OF THE EQUIPMENT HAS ALREADY BEEN RELOCATED.]"
+msgstr "[장비는 대부분 이전되었습니다.]"
+
+msgid "@niko It's a pair of rubber gloves.\\nThey're a bit heavy."
+msgstr "@niko 고무장갑이네요.\\n조금 무거워요."
+

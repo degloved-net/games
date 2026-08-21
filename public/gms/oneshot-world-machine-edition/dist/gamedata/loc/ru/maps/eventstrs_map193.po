@@ -1,0 +1,15 @@
+msgid "@niko It's a staff."
+msgstr "@niko Это посох."
+
+msgid "@niko_speak Reminds me of the one that robot from the Barrens was holding!"
+msgstr "@niko_speak Он напомнил мне того робота из Пустоши, у него тоже был такой!"
+
+msgid "@niko_speak It's an orb! \\>\\@niko The material looks like amber."
+msgstr "@niko_speak Это шар! \\>\\@niko Похоже, сделан из янтаря."
+
+msgid "@niko Some kind of cloak or shawl, folded neatly."
+msgstr "@niko Это какая-то накидка или шаль, аккуратно сложенная."
+
+msgid "@niko A pair of shoes and some jewelry."
+msgstr "@niko Обувь и кое-какие украшения."
+

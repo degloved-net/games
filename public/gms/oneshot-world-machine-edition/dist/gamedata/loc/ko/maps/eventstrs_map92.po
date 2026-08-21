@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko 로봇이에요. 수리하긴 힘들겠어요..."
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh 머리뿐이에요..."
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh ...머리만 남았네요, 으..."
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko 로봇의 잔해예요. 심하게 망가졌네요..."
+
+msgid "@niko A big machine..."
+msgstr "@niko 커다란 기계예요..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko 금속을 으스러뜨릴 때 쓰는 기계 같아요."
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak 아... \\>\\@niko 이 기계로 쇠막대기를 으스러뜨리라는 건가요, \\p 님?"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh 으, 가까이 가기 싫은데..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed 무서웠어..."
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf ....\\p 님!"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed 절대로 태양을 놓지 않을 거예요."
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko 왜...\\.\\. 여기서 병을 깨라는 건가요, \\p 님?"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak 그러면 파편이 사방으로 날아갈 텐데요!"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed \\p 님, 저건 이제 쓰지 않는 게 좋을 것 같아요..."
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak 아, 이 기계는 아직 작동하네!"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko 가까이 가지 않는 게 좋을 것 같아요..."
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf 마... 만에 하나 목도리가 끼면 어떡해요? 그러면 전 그대로 끌려가서..."
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh ...더 상상하고 싶지 않네요."
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed 로봇 팔의 잔해예요."
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed 이건 정확히 어디에 쓰는 건지 모르겠어요..."
+

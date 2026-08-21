@@ -1,0 +1,39 @@
+msgid "@niko The pathway is blocked...."
+msgstr "@niko El camino está bloqueado..."
+
+msgid "@niko_speak ...by blocks!"
+msgstr "@niko_speak ¡... por bloques!"
+
+msgid "@alula_speak Haha!"
+msgstr "@alula_speak ¡Ja, ja!"
+
+msgid "@niko Oh, shoot!"
+msgstr "@niko ¡Oh, no!"
+
+msgid "@niko_eyeclosed Looks like we can't get past that block..."
+msgstr "@niko_eyeclosed Parece que no podemos avanzar más allá de ese bloque..."
+
+msgid "@alula_pout ..."
+msgstr "@alula_pout ..."
+
+msgid "@alula_speak Seriously?"
+msgstr "@alula_speak ¿En serio?"
+
+msgid "@alula I'll be up ahead!"
+msgstr "@alula ¡Me adelanto!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_eyeclosed ...I have literally never thought of that."
+msgstr "@niko_eyeclosed ... Pues no se me habría ocurrido nunca."
+
+msgid "@calamus_heh You kinda get used to all the debris after living here for a while."
+msgstr "@calamus_heh Con el tiempo, te terminas acostumbrando a vivir entre los escombros."
+
+msgid "@calamus_smile Come on, our house isn't far from here."
+msgstr "@calamus_smile Vamos, nuestra casa no queda lejos."
+
+msgid "@calamus Oh, Niko, did you come by for a visit?\\>\\n\\@calamus_smile Our house is up here, please follow me."
+msgstr "@calamus Oh, Niko, ¿has venido de visita?\\>\\n\\@calamus_smile Nuestra casa está aquí arriba, sígueme."
+

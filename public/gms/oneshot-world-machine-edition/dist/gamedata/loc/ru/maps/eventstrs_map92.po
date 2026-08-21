@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko Робот. Его уже не починить..."
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh Просто голова..."
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh Голова без тела... Ужас."
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko Часть робота. Он сильно повреждён..."
+
+msgid "@niko A big machine..."
+msgstr "@niko Большая машина..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko Похоже на пресс, которым давят металл."
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak А... \\>\\@niko Ты хочешь, чтобы я тут раздавил трубу, \\p?"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh Ой, только я не хочу подходить слишком близко..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed Страшновато..."
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf ...\\p!"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed Я НЕ СТАНУ класть сюда солнце."
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko Зачем...\\.\\. ты хочешь разбить здесь бутылку, \\p?"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak Осколки разлетятся повсюду!"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed Надеюсь, нам не придётся использовать её снова, \\p..."
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak Ой! Эта машина всё ещё работает!"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko Наверное, не стоит мне так близко стоять..."
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf А что, если... мой шарф попал бы туда? И затянул меня туда, и..."
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh Даже подумать страшно..."
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed Всё, что осталось от руки робота."
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed Это я вообще не знаю, что такое..."
+

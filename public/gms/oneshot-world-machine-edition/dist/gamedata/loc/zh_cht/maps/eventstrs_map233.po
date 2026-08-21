@@ -1,0 +1,33 @@
+msgid "@niko Hey, \\p?"
+msgstr "@niko 嘿，\\p？"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak 你記得咖啡館在哪嗎？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko 喔，太好了！"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak 等等！我大概記得！\\>\\n\\@niko 先到電梯上方，然後右轉再走樓梯下去！"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko 我會問是因為……呃……"
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed 我……有點餓……"
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak 老實說我餓扁了！\\>\\n\\@niko 從我來這裡之後，什麼也沒吃……"
+
+msgid "@niko So...is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko 所以……我們進塔之前可以先去找點東西吃嗎？"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes 希望他們有煎餅……"
+

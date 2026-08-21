@@ -1,0 +1,9 @@
+msgid "@ed [How do you still have the remote??]"
+msgstr "@ed [なぜ未だにリモコンを持ってるんだ？？]"
+
+msgid "@niko I wonder where that light is coming from..."
+msgstr "@niko この光はどこから来てるんだろう…"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 電源が入らない。"
+

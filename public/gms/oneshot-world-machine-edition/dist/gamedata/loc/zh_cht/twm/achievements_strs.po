@@ -1,0 +1,90 @@
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "混亂邪惡"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "「不要這樣！」"
+
+msgid "SHOCK:title=Shock"
+msgstr "驚訝"
+
+msgid "SHOCK:description=Not fun."
+msgstr "不好玩。"
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "極限以物易物"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "試過了所有的可能性了，對吧？"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "公羊耳語者"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "輕鬆放羊。"
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "鬆餅"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "最喜歡的食物。"
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "黎明奔馳"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "Nyooooom"
+
+msgid "SECRET:title=Secret"
+msgstr "秘密"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "書呆子"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "在圖書館看書。"
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "重生"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "支線任務。"
+
+msgid "ONESHOT:title=OneShot"
+msgstr "OneShot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "回歸本源"
+
+msgid "RETURN:title=Return"
+msgstr "返回"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "桌布巫師"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "全桌布收集"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "顏色調和師"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "全主題收集"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "社交花蝴蝶"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "全朋友收集"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "大感謝"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "徽章全收集"
+

@@ -1,0 +1,3 @@
+Advertencia: este archivo contiene tus datos guardados.
+
+Por favor, no borres este archivo a menos que quieras perder tu progreso guardado.

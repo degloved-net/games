@@ -1,0 +1,39 @@
+msgid "[PLEASE TAKE CARE TO NOT TOUCH THE SQUARES.\\>\\nI CANNOT GUARANTEE YOUR WELLBEING IF YOU DO.]"
+msgstr "[請注意不要觸碰方塊。\\>\\n若你觸碰方塊，我將無法保障你的生命安全。]"
+
+msgid "@niko Gotcha."
+msgstr "@niko 知道了。"
+
+msgid "[THESE SQUARES APPEARED MERE MINUTES AGO.]"
+msgstr "[這些方塊是在幾分鐘前出現的。]"
+
+msgid "@niko Really?"
+msgstr "@niko 真的嗎？"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 我在很多門口之類的地方看到這些東西……"
+
+msgid "[NOT A GOOD SIGN.]"
+msgstr "[這不是好兆頭。]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ……咦？"
+
+msgid "[THE WORLD'S DETERIORATION IS ACCELERATING.]"
+msgstr "[世界正在加速衰敗。]"
+
+msgid "@niko2 ...oh."
+msgstr "@niko2 ……喔。"
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[你們好啊。]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[有兩位小朋友住在這附近。]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak 我就是其中一個！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+

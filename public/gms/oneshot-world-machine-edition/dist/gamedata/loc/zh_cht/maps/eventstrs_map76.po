@@ -1,0 +1,18 @@
+msgid "$Evacuation? At such short notice?"
+msgstr "$撤離？這麼突然？"
+
+msgid "$I can't believe this..."
+msgstr "$不敢相信……"
+
+msgid "$First the sun dies, now I'm out of a job..."
+msgstr "$先是太陽死去，然後現在我要失業了……"
+
+msgid "@niko Some sort of mechanical drawing."
+msgstr "@niko 某種機器製圖。"
+
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko 一台機器人，已經徹底壞了……"
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 我不敢爬梯子……"
+

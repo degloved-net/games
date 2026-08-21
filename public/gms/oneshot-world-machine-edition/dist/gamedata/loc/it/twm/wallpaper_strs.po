@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/wallpaper_strs.po\n"
+"X-Crowdin-File-ID: 23\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:59\n"
+
+msgid "default=The World Machine"
+msgstr "La World Machine"
+
+msgid "barrens=Barrens Craters"
+msgstr "Crateri della Baia"
+
+msgid "glen=Glen Shoreline"
+msgstr "Battigia della Valle"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "Panorama del Rifugio"
+
+msgid "niko=Messiah"
+msgstr "Messia"
+
+msgid "title=My Burden is Light"
+msgstr "My Burden is Light"
+
+msgid "planet=Asteroid"
+msgstr "Asteroide"
+
+msgid "black=Blank"
+msgstr "Nero"
+
+msgid "lamp=Outpost"
+msgstr "Avamposto"
+
+msgid "factory=Factory"
+msgstr "Fabbrica"
+
+msgid "navigate=Navigate"
+msgstr "Navigare"
+
+msgid "courtyard=Courtyard"
+msgstr "Cortile"
+
+msgid "ruins=Calamus and Alula"
+msgstr "Calamus e Alula"
+
+msgid "catwalks=Catwalks"
+msgstr "Passerelle"
+
+msgid "lamplighter=Lamplighter"
+msgstr "Lampionaio"
+
+msgid "cafe=Café"
+msgstr "Caffetteria"
+
+msgid "library=Library Stroll"
+msgstr "A spasso in biblioteca"
+
+msgid "secret=Secret RAM Club"
+msgstr "Club Segreto dei Montonari"
+
+msgid "tower=Tower"
+msgstr "Torre"
+
+msgid "plant=Maize"
+msgstr "Mays"
+
+msgid "minecart=Prophets"
+msgstr "Profeti"
+
+msgid "siblings=Memory"
+msgstr "Memoria"
+
+msgid "world_machine=Reflection"
+msgstr "Riflesso"
+
+msgid "from_niko=From Niko"
+msgstr "Da Niko"
+

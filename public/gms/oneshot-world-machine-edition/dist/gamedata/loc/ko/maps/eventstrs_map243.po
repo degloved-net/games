@@ -1,0 +1,813 @@
+msgid "Nightmargin"
+msgstr "Nightmargin"
+
+msgid "Icewolf"
+msgstr "Icewolf"
+
+msgid "Bloomy"
+msgstr "Bloomy"
+
+msgid "Porting Support"
+msgstr "포팅 지원"
+
+msgid "Functional Testing"
+msgstr "기능 테스트"
+
+msgid "Kyne"
+msgstr "Kyne"
+
+msgid "Dunc Graham"
+msgstr "Dunc Graham"
+
+msgid "Mahmoud Khabatou"
+msgstr "Mahmoud Khabatou"
+
+msgid "Marshie"
+msgstr "Marshie"
+
+msgid "OutlanderSES"
+msgstr "OutlanderSES"
+
+msgid "PR & Marketing"
+msgstr "PR & 마케팅"
+
+msgid "Compliance Testing"
+msgstr "적합성 테스트"
+
+msgid "Eliza Velasquez"
+msgstr "Eliza Velasquez"
+
+msgid "Konasumi"
+msgstr "Konasumi"
+
+msgid "Jay Ruas"
+msgstr "Jay Ruas"
+
+msgid "Programming:"
+msgstr "프로그래밍:"
+
+msgid "letty"
+msgstr "letty"
+
+msgid "plasterbrain"
+msgstr "plasterbrain"
+
+msgid "Salvador Garcia"
+msgstr "Salvador Garcia"
+
+msgid "Edgar Rangel"
+msgstr "Edgar Rangel"
+
+msgid "Writing:"
+msgstr "시나리오 작성:"
+
+msgid "Schmuckloaf"
+msgstr "Schmuckloaf"
+
+msgid "Guest Artists (Wallpapers):"
+msgstr "게스트 아티스트 (월페이퍼):"
+
+msgid "Spanish Translation"
+msgstr "스페인어 번역"
+
+msgid "Michael"
+msgstr "Michael"
+
+msgid "Justin Pfeiffer"
+msgstr "Justin Pfeiffer"
+
+msgid "Bryan Carranza"
+msgstr "Bryan Carranza"
+
+msgid "RManReeves"
+msgstr "RManReeves"
+
+msgid "Brazilian Portuguese Proofreading, LQA"
+msgstr "브라질 포르투갈어 검수, LQA"
+
+msgid "Michael Shirt"
+msgstr "Michael Shirt"
+
+msgid "psychoTR2"
+msgstr "psychoTR2"
+
+msgid "Marina \"Sylladexter\" K"
+msgstr "Marina \"Sylladexter\" K"
+
+msgid "Jair Casillas"
+msgstr "Jair Casillas"
+
+msgid "wisty"
+msgstr "wisty"
+
+msgid "Streaming Producer"
+msgstr "스트리밍 프로듀서"
+
+msgid "Graphics:"
+msgstr "그래픽:"
+
+msgid "Divinuss"
+msgstr "Divinuss"
+
+msgid "Missusruin"
+msgstr "Missusruin"
+
+msgid "Writing (Friend Profiles):"
+msgstr "친구 프로필 작성:"
+
+msgid "Bookkeeping"
+msgstr "회계"
+
+msgid "Francisco Uzarraga"
+msgstr "Francisco Uzarraga"
+
+msgid "Felix"
+msgstr "Felix"
+
+msgid "Roadcrosser"
+msgstr "Roadcrosser"
+
+msgid "Saren Stone"
+msgstr "Saren Stone"
+
+msgid "Karina Peixe"
+msgstr "Karina Peixe"
+
+msgid "Producer (2016 release):"
+msgstr "프로듀서 (2016 발매 버전)"
+
+msgid "Taeler Dixon"
+msgstr "Taeler Dixon"
+
+msgid "Chad Porter"
+msgstr "Chad Porter"
+
+msgid "Character Design:"
+msgstr "캐릭터 디자인:"
+
+msgid "PurpleAlmonds"
+msgstr "PurpleAlmonds"
+
+msgid "Temmie Chang"
+msgstr "Temmie Chang"
+
+msgid "Mark Conforti"
+msgstr "Mark Conforti"
+
+msgid "Penguin Contributors:"
+msgstr "펭귄 제공자:"
+
+msgid "Anna Riko"
+msgstr "Anna Riko"
+
+msgid "Sebastian Herrera"
+msgstr "Sebastian Herrera"
+
+msgid "FelixTheJudge"
+msgstr "FelixTheJudge"
+
+msgid "@silver2 ...Messiah?"
+msgstr "@silver2 ...구원자?"
+
+msgid "@niko_surprised ROBOT LADY!!!!"
+msgstr "@niko_surprised 로봇 아가씨!!!!"
+
+msgid "@niko_pancakes You're.... okay?"
+msgstr "@niko_pancakes 괜찮아요?"
+
+msgid "@silver2 [I... think so.]"
+msgstr "@silver2 [그런 것 같아...]"
+
+msgid "@silver_eyeclosed [The last thing I remember was the squares closing in on me...]"
+msgstr "@silver_eyeclosed [마지막으로 기억나는 건 사각형들이 날 덮치던 장면이야...]"
+
+msgid "@silver2 [But then, I....\\.\\. ended up here unscathed.]"
+msgstr "@silver2 [하지만...\\.\\. 멀쩡히 여기서 깨어났지.]"
+
+msgid "@niko3 Is that so..."
+msgstr "@niko3 그랬군요..."
+
+msgid "@silver_lookup [...This is such a strange room.]"
+msgstr "@silver_lookup [...정말 이상한 방이네.]"
+
+msgid "@silver2 [We can't be...\\.\\. in the Tower, can we?]"
+msgstr "@silver2 [설마...\\.\\. 여기가 탑은 아니겠지?]"
+
+msgid "@niko6 I'm actually not sure myself..."
+msgstr "@niko6 사실 저도 잘 모르겠어요..."
+
+msgid "@silver2 [...where did YOU come from, anyway?]"
+msgstr "@silver2 [...그건 그렇고 너, 어디서 온 거니?]"
+
+msgid "@niko2 The room where the World Machine was..."
+msgstr "@niko2 세상 기계가 있던 방에서요..."
+
+msgid "@silver2 [...pardon?]"
+msgstr "@silver2 [...뭐라고?]"
+
+msgid "@niko5 I... think the World Machine is trying to remember, now..."
+msgstr "@niko5 세상 기계는... 지금 뭔가를 기억해내려 하고 있어요..."
+
+msgid "@niko4 The code that went bad...\\.\\.\\>\\n\\@niko2 I think it's restoring it all."
+msgstr "@niko4 망가진 코드를...\\.\\.\\>\\n\\@niko2 전부 복구 중인 것 같아요."
+
+msgid "@niko6 That must've been why the squares were going away, \\p..."
+msgstr "@niko6 사각형이 사라지는 것도 그 때문이겠죠, \\p 님..."
+
+msgid "@niko2 And... it's why you're here, miss!"
+msgstr "@niko2 당신이 여기에 온 것도 그 때문이고요!"
+
+msgid "@niko_speak I think the World Machine was able to recover your code, too...!"
+msgstr "@niko_speak 세상 기계가 당신의 코드를 복구해 낸 거예요!"
+
+msgid "@silver2 [World... Machine, huh...]"
+msgstr "@silver2 [세상... 기계라, 흐음...]"
+
+msgid "@niko2 Oh... I'm not sure if I should tell you this, but..."
+msgstr "@niko2 아... 이 이야기를 해도 되는지 모르겠네요..."
+
+msgid "@silver2 [...What's that in the distance?]"
+msgstr "@silver2 [...저 멀리, 저건 뭐지?]"
+
+msgid "@silver [It... looks like a few more people are showing up.]"
+msgstr "@silver [사람들이 더 오는 것 같네...]"
+
+msgid "@niko_pancakes Oh!!!"
+msgstr "@niko_pancakes 오!!!"
+
+msgid "@silver2 [Are they... people you know?]"
+msgstr "@silver2 [전부... 아는 사람이야?]"
+
+msgid "@niko It's... \\.\\.a bit too far to tell."
+msgstr "@niko 조금... \\.\\.멀어서 알아보기 힘드네요."
+
+msgid "@niko_speak Come on, \\p, let's go take a closer look!"
+msgstr "@niko_speak 어서요, \\p 님. 보러 가요!"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME DO NOT WORRY.]"
+msgstr "@rowbot [수석 기술자가 절 도와줄 것입니다. 걱정하지 마십시오.]"
+
+msgid "@niko Alright..."
+msgstr "@niko 알았어요..."
+
+msgid "@rowbot [HELLO.]"
+msgstr "@rowbot [안녕하세요.]"
+
+msgid "@niko Hi!"
+msgstr "@niko 안녕하세요!"
+
+msgid "@rowbot [I...\\.\\. CANNOT MOVE.]"
+msgstr "@rowbot [저는...\\.\\. 움직일 수가 없습니다.]"
+
+msgid "@niko2 Oh, yeah..."
+msgstr "@niko2 그렇군요..."
+
+msgid "@niko_eyeclosed I guess there's no water here..."
+msgstr "@niko_eyeclosed 여기는 물이 없는 것 같네요..."
+
+msgid "@rowbot [IT'S FINE.]"
+msgstr "@rowbot [괜찮습니다.]"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME LATER.]"
+msgstr "@rowbot [나중에 수석 기술자가 도와줄 것입니다.]"
+
+msgid "@green_gatekeeper [Off you go, messiah...]"
+msgstr "@green_gatekeeper [그만 가십시오, 구원자님...]"
+
+msgid "@red_gatekeeper [Off you go, messiah...]"
+msgstr "@red_gatekeeper [그만 가십시오, 구원자님...]"
+
+msgid "@alula_pout I guess... you're leaving us now?"
+msgstr "@alula_pout 이제... 가는 거야?"
+
+msgid "@calamus_smile We're glad we met you, Niko!"
+msgstr "@calamus_smile 만나서 반가웠어, 니코!"
+
+msgid "@niko_speak Same!"
+msgstr "@niko_speak 나도!"
+
+msgid "@alula_gasp Niko!!"
+msgstr "@alula_gasp 니코!"
+
+msgid "@alula_gasp You're okay too!"
+msgstr "@alula_gasp 너도 무사했구나!"
+
+msgid "@niko2 Did you guys just get here?"
+msgstr "@niko2 너희도 방금 온 거야?"
+
+msgid "@calamus I... think so?"
+msgstr "@calamus 그런 것 같은데...?"
+
+msgid "@calamus_sad The squares started multiplying around the island after you guys left..."
+msgstr "@calamus_sad 너희가 떠난 후에 사각형들이 섬 주변에서 증식하기 시작했어..."
+
+msgid "@alula_oh It was so freaky!"
+msgstr "@alula_oh 끔찍했지!"
+
+msgid "@alula_oh I fell right into a bunch of em!"
+msgstr "@alula_oh 난 그 사각형들 사이로 떨어지고 말았어!"
+
+msgid "@alula_oh Calamus tried to save me, and then..."
+msgstr "@alula_oh 칼라무스가 날 구하려 했지만..."
+
+msgid "@calamus We... both ended up in this room."
+msgstr "@calamus 정신을 차리고 보니... 이 방에 있네."
+
+msgid "@calamus_heh Biggest scare of my life, for sure..."
+msgstr "@calamus_heh 내 인생에서 제일 무서운 일이었어..."
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 오호..."
+
+msgid "@calamus Say, what is this place?"
+msgstr "@calamus 그런데 여긴 대체 어디야?"
+
+msgid "@alula_gasp Are we in limboooooo?"
+msgstr "@alula_gasp 우리 지금 지오오오옥에 떨어진 건가?"
+
+msgid "@calamus_heh Alula! \\>We're not dead!"
+msgstr "@calamus_heh 알룰라! \\>우리는 죽지 않았어!"
+
+msgid "@calamus_shame ...wait, \\.\\.are we?"
+msgstr "@calamus_shame ...잠깐, \\.\\.죽었나?"
+
+msgid "@niko_speak No no, you're fine!"
+msgstr "@niko_speak 아뇨, 살아 있어요!"
+
+msgid "@niko Everyone in this room is fine!"
+msgstr "@niko 이 방에 있는 사람들은 다 괜찮아요!"
+
+msgid "@niko_speak You'll be able to go back home soon..."
+msgstr "@niko_speak 곧 집으로 갈 수 있을 거예요..."
+
+msgid "@alula_gasp That's even better than limbo!"
+msgstr "@alula_gasp 지옥보다 더 멋진데!"
+
+msgid "@niko_what Good...\\.\\. \\>\\@niko_what2 question."
+msgstr "@niko_what 좋은...\\.\\. \\>\\@niko_what2 질문이야."
+
+msgid "@niko6 (hey \\p are they gonna be okay?)"
+msgstr "@niko6 (\\p 님, 둘은 괜찮은 거겠죠?)"
+
+msgid "[\"They're fine, Niko.\"]"
+msgstr "[\"괜찮아, 니코.\"]"
+
+msgid "[\"Everyone is fine.\"]"
+msgstr "[\"모두 무사해.\"]"
+
+msgid "[\"The World Machine...\"]"
+msgstr "[\"세상 기계가...\"]"
+
+msgid "[\"...will send them home soon.\"]"
+msgstr "[\"...모두를 집으로 보내 줄 거야...\"]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko_speak Well, \\p says you're not dead!"
+msgstr "@niko_speak 음, \\p 님이 안 죽었대!"
+
+msgid "@calamus_sad Phew."
+msgstr "@calamus_sad 휴우."
+
+msgid "@niko They also said you'll be able to go back to your home very soon!"
+msgstr "@niko 조금만 있으면 집으로 갈 수 있을 거래!"
+
+msgid "T.C."
+msgstr "T.C."
+
+msgid "Spanish Proofreader"
+msgstr "스페인어 검수"
+
+msgid "2016 Build Testers:"
+msgstr "2016 빌드 테스터:"
+
+msgid "@silver [Off you go, now...]"
+msgstr "@silver [그만 가 봐...]"
+
+msgid "@niko So, um... \\>\\@niko5 You..."
+msgstr "@niko 알았어요, 음... \\>\\@niko5 당신은..."
+
+msgid "@silver [Silver.]"
+msgstr "@silver [실버야.]"
+
+msgid "@silver_eyeclosed [I don't believe I've ever actually properly introduced myself.\\>\\nSorry for that.]"
+msgstr "@silver_eyeclosed [내가 제대로 자기소개를 하지 않았구나.\\>\\n미안.]"
+
+msgid "@niko It's fine!"
+msgstr "@niko 괜찮아요!"
+
+msgid "@niko_speak I'm Niko, by the way!"
+msgstr "@niko_speak 아무튼, 전 니코예요!"
+
+msgid "@niko_83c It's... \\.\\.nice to meet you?"
+msgstr "@niko_83c 어... \\.\\.만나서 반가워요."
+
+msgid "@silver [Nice to meet you, too.]"
+msgstr "@silver [나도 만나서 반가워.]"
+
+msgid "Matthew Martinez"
+msgstr "Matthew Martinez"
+
+msgid "OneShot Console Version Translations"
+msgstr "OneShot 콘솔 버전 번역"
+
+msgid "Maize and George's designs:"
+msgstr "메이즈 및 조지 디자인:"
+
+msgid "Albatrosssoup"
+msgstr "Albatrosssoup"
+
+msgid "Ame"
+msgstr "Ame"
+
+msgid "Luc"
+msgstr "Luc"
+
+msgid "Japanese Translation, LQA"
+msgstr "일본어 번역, LQA"
+
+msgid "Jason Black"
+msgstr "Jason Black"
+
+msgid "@proto2 [...]"
+msgstr "@proto2 [...]"
+
+msgid "@proto2b [Thank you for everything, Niko.]"
+msgstr "@proto2b [정말 고마워, 니코.]"
+
+msgid "@niko_speak So... do you like being a robot?"
+msgstr "@niko_speak 그럼... 로봇으로 사는 게 마음에 드시나요?"
+
+msgid "@proto1 [Um.]"
+msgstr "@proto1 [음.]"
+
+msgid "@proto2 [Why this, all of a sudden?]"
+msgstr "@proto2 [갑자기 그건 왜?]"
+
+msgid "@niko2 Well, I'm gonna leave soon, so I just wanted to ask one more question!"
+msgstr "@niko2 음, 전 곧 떠날 거니까 그냥 물어보고 싶었어요!"
+
+msgid "@niko_eyeclosed There aren't many robots in my home world..."
+msgstr "@niko_eyeclosed 제가 있는 세상에는 로봇이 많지 않거든요..."
+
+msgid "@proto2 [Ah.]"
+msgstr "@proto2 [아.]"
+
+msgid "@proto2b [It's... nice.]"
+msgstr "@proto2b [그건... 멋진걸...]"
+
+msgid "@cedric_smile I suppose it's alright!"
+msgstr "@cedric_smile 괜찮은 것 같은데!"
+
+msgid "@rue_smile Haha, that's a tough question, Niko!"
+msgstr "@rue_smile 하하, 좀 어려운 질문인데, 니코!"
+
+msgid "@rue_smile I mean...\\.\\. do you like being a person?"
+msgstr "@rue_smile 그러니까...\\.\\.사람으로 사는 건 마음에 들어?"
+
+msgid "@niko_speak Of course!"
+msgstr "@niko_speak 물론이죠!"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko_what Wait.\\>\\nWhy did you two answer my robot question too?"
+msgstr "@niko_what 잠깐.\\>\\n왜 두 사람 다 내 로봇 질문에 대답한 거죠?"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ..."
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ..."
+
+msgid "@rue_smile Don't worry about it!"
+msgstr "@rue_smile 신경 쓰지 마!"
+
+msgid "@proto2 [...In the end, the World Machine was starting to create its own code.]"
+msgstr "@proto2 [...결국에는, 세상 기계가 자체적으로 코드를 만들기 시작했어.]"
+
+msgid "@proto1c [Going above and beyond its programming, not as the result of error, but as a conscious choice on the part of the machine...]"
+msgstr "@proto1c [프로그래밍 범위를 뛰어넘어, 오류의 결과로서가 아니라 기계가 내린 의식적인 선택의 결과로서...]"
+
+msgid "@proto1b [...Being able to generate its own path forward.]"
+msgstr "@proto1b [...자신의 길을 만들어 가는 것.]"
+
+msgid "@proto2b [That's...\\.\\. what being tamed is all about.]"
+msgstr "@proto2b [그게 바로...\\.\\. 길들여지는 거야.]"
+
+msgid "@cedric_smile I couldn't have said it better myself."
+msgstr "@cedric_smile 내가 설명해도 그만큼 잘하지는 못했을 거야."
+
+msgid "Alexander McCaskey"
+msgstr "Alexander McCaskey"
+
+msgid "French Translation"
+msgstr "프랑스어 번역"
+
+msgid "Stanhoff"
+msgstr "Stanhoff"
+
+msgid "DANGEN Entertainment"
+msgstr "DANGEN Entertainment"
+
+msgid "@maize_smile2 Off you go, now..."
+msgstr "@maize_smile2 그만 가, 이제..."
+
+msgid "@maize_smile2 Hello, messiah..."
+msgstr "@maize_smile2 안녕, 구원자..."
+
+msgid "@niko_shock ...Plant lady? But I thought you..."
+msgstr "@niko_shock ...식물 아가씨? 하지만 전 당신이..."
+
+msgid "@niko_distressed2 I thought you..."
+msgstr "@niko_distressed2 전 당신이..."
+
+msgid "@niko_eyeclosed It wasn't even squares that did it..."
+msgstr "@niko_eyeclosed 심지어 사각형에게 당한 것도 아니었는데..."
+
+msgid "@maize ....."
+msgstr "@maize ....."
+
+msgid "@maize_smile2 .....no."
+msgstr "@maize_smile2 .....아니야."
+
+msgid "@maize_smile2 I just...\\.\\. wanted to see you both again."
+msgstr "@maize_smile2 그저...\\.\\. 너희 둘을 다시 보고 싶었어."
+
+msgid "@maize_smile2 I just wanted to say... \\.\\.thank you..."
+msgstr "@maize_smile2 그저... \\.\\.고맙다고 하고 싶었어..."
+
+msgid "Korean Translation"
+msgstr "한국어 번역"
+
+msgid "SinNoAria"
+msgstr "SinNoAria"
+
+msgid "CEO"
+msgstr "CEO"
+
+msgid "Sakura Yamaguchi"
+msgstr "Sakura Yamaguchi"
+
+msgid "Soundtrack:"
+msgstr "사운드트랙:"
+
+msgid "Kitsiinabox"
+msgstr "Kitsiinabox"
+
+msgid "Systems Programming:"
+msgstr "시스템 프로그래밍:"
+
+msgid "Omer Oztas"
+msgstr "Omer Oztas"
+
+msgid "COO"
+msgstr "COO"
+
+msgid "Spanish LQA"
+msgstr "스페인어 LQA"
+
+msgid "DolphinsAreEvil"
+msgstr "DolphinsAreEvil"
+
+msgid "Special Thanks:"
+msgstr "도와주신 분들:"
+
+msgid "So-jung Jung"
+msgstr "So-jung Jung"
+
+msgid "Max Harvey"
+msgstr "Max Harvey"
+
+msgid "Additional tracks:"
+msgstr "추가 사운드트랙:"
+
+msgid "Japanese Proofreading"
+msgstr "일본어 검수"
+
+msgid "TangyOranges"
+msgstr "TangyOranges"
+
+msgid "French Proofreader"
+msgstr "프랑스어 검수"
+
+msgid "Redoplus"
+msgstr "Redoplus"
+
+msgid "Dan Stern"
+msgstr "Dan Stern"
+
+msgid "ZeroGuilt"
+msgstr "ZeroGuilt"
+
+msgid "Korean Proofreading, LQA"
+msgstr "한국어 검수, LQA"
+
+msgid "Saniblues"
+msgstr "Saniblues"
+
+msgid "@cedric_talk \\p.... Niko...."
+msgstr "@cedric_talk \\p 님.... 니코...."
+
+msgid "@cedric_smile We are forever in your debt."
+msgstr "@cedric_smile 둘에게 갚을 수 없는 큰 빚을 졌어."
+
+msgid "@niko_speak I'm glad we could help!"
+msgstr "@niko_speak 우리가 도움이 되었다니 기뻐요!"
+
+msgid "@cedric_smile Looks like you managed to do it!"
+msgstr "@cedric_smile 네가 해낸 것 같구나!"
+
+msgid "@rue_smile You managed to tame the World Machine, Niko!"
+msgstr "@rue_smile 세상 기계를 길들이는 데 성공했어, 니코!"
+
+msgid "@niko2 I... feel like the World Machine has been tamed this whole time."
+msgstr "@niko2 왠지 세상 기계는... 처음부터 길들여져 있었다는 느낌이 들어요."
+
+msgid "@niko6 ...Just by \\p and I being here."
+msgstr "@niko6 ...\\p 님과 제가 여기 나타났을 때부터요."
+
+msgid "@niko_eyeclosed We... did spend a lot of time here, after all."
+msgstr "@niko_eyeclosed 우리... 여기에서 오랜 시간을 보내긴 했네요."
+
+msgid "@niko2 Both of us...\\.\\. never really stopped believing in this world."
+msgstr "@niko2 우리 둘은...\\.\\. 언제나 이 세상을 믿었어요."
+
+msgid "@niko_eyeclosed The World Machine just needed to realize that, I guess..."
+msgstr "@niko_eyeclosed 세상 기계가 그걸 깨닫기만 하면 됐던 거예요..."
+
+msgid "@rue That... \\>\\@rue_talk Sounds like a possibility..."
+msgstr "@rue 그거... \\>\\@rue_talk 가능성 있는 얘기네."
+
+msgid "@proto2b [...or not.]"
+msgstr "@proto2b [...아닐 수도 있고.]"
+
+msgid "@niko_eyeclosed Well, just throwing that idea out there!"
+msgstr "@niko_eyeclosed 그냥 제 생각이에요!"
+
+msgid "Console build Testers:"
+msgstr "콘솔 빌드 테스터:"
+
+msgid "Yoshiki Kono"
+msgstr "Yoshiki Kono"
+
+msgid "Developer Relations"
+msgstr "개발자 대상 활동"
+
+msgid "Mraof"
+msgstr "Mraof"
+
+msgid "Mohamed Khabatou"
+msgstr "Mohamed Khabatou"
+
+msgid "Noxid"
+msgstr "Noxid"
+
+msgid "@plight_2 Off you go, I guess...."
+msgstr "@plight_2 아무래도 그만 가는 게 좋겠어..."
+
+msgid "@plight_shock It's you!"
+msgstr "@plight_shock 너구나!"
+
+msgid "@plight_sigh Glad to see you in one piece..."
+msgstr "@plight_sigh 멀쩡해 보여서 다행이야..."
+
+msgid "@niko_speak Glad to see you're ok, too!\\>\\n\\@niko5 After the whole elevator thing."
+msgstr "@niko_speak 당신도 괜찮아 보여서 기뻐요!\\>\\n\\@niko5 엘리베이터에서 그런 일이 있었는데도 말이죠."
+
+msgid "@plight_worry That was uh...\\>\\nThat was the most awkward elevator ride I've been through."
+msgstr "@plight_worry 그건...\\>\\n지금까지 엘리베이터를 탔던 것 중에 가장 어색한 시간이었어."
+
+msgid "@plight_why ...and by \"awkward\" I mean terrible bad awful the absolute worst."
+msgstr "@plight_why ...\"어색한\"이라는 건 그야말로 나쁘고 끔찍하고 최악이라는 뜻이지."
+
+msgid "@plight_worry The squares like, started leaking into the room, right?"
+msgstr "@plight_worry 저 사각형들이 방에까지 들어오기 시작했어."
+
+msgid "@plight_worry2 And I was trapped like a rat."
+msgstr "@plight_worry2 난 독 안의 쥐처럼 갇혀 있었지."
+
+msgid "@plight_worry And they just kept filling in the room faster, right..."
+msgstr "@plight_worry 사각형들이 점점 빨리 방을 파먹기 시작했어..."
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry ..."
+
+msgid "@plight_wtf ...AM I DEAD!?"
+msgstr "@plight_wtf ...나 죽은 거야?"
+
+msgid "@plight_sigh Oh thank goodness gracious."
+msgstr "@plight_sigh 신이시여, 감사합니다."
+
+msgid "@plight_worry I can't work when I'm dead!"
+msgstr "@plight_worry 죽으면 일을 할 수 없거든!"
+
+msgid "@niko6 (...\\p, IS he?)"
+msgstr "@niko6 (...\\p 님, 혹시?)"
+
+msgid "[\"He's fine, Niko\"]"
+msgstr "[\"그 사람은 괜찮아, 니코.\"]"
+
+msgid "[\"Everyone here is fine.\"]"
+msgstr "[\"여기 있는 사람은 모두 괜찮아.\"]"
+
+msgid "@niko They said you'll be able to go back to your home very soon!"
+msgstr "@niko 조금만 있으면 집으로 갈 수 있다고도 했죠!"
+
+msgid "Robin \"Rezllen\" Crew"
+msgstr "Robin \"Rezllen\" Crew"
+
+msgid "Localization Manager"
+msgstr "현지화 총괄"
+
+msgid "Story (Mechanics Concept):"
+msgstr "스토리 (시스템 콘셉트):"
+
+msgid "Nekkowe"
+msgstr "Nekkowe"
+
+msgid "Paul Kim"
+msgstr "Paul Kim"
+
+msgid "Gaming Quality Works"
+msgstr "Gaming Quality Works"
+
+msgid "Seo-Mi Ha"
+msgstr "Seo-Mi Ha"
+
+msgid "Sauraen"
+msgstr "Sauraen"
+
+msgid "@rue_smile Thank you for everything, Niko."
+msgstr "@rue_smile 모두 고마워, 니코."
+
+msgid "@rue_sad We'll miss you."
+msgstr "@rue_sad 네가 보고 싶을 거야."
+
+msgid "@rue This path leads to the summit of the tower."
+msgstr "@rue 이 길은 탑의 정상으로 이어지지."
+
+msgid "@rue You... \\.\\.already know what to expect, right?"
+msgstr "@rue 너... \\.\\.무슨 일이 생길지는 이미 알고 있지?"
+
+msgid "@niko Mhm..."
+msgstr "@niko 응..."
+
+msgid "@niko2 It's the glass room, right?"
+msgstr "@niko2 유리 방, 맞지?"
+
+msgid "@rue_smile That's it!"
+msgstr "@rue_smile 맞아!"
+
+msgid "@rue You can go through this portal when you are ready."
+msgstr "@rue 준비가 끝나면 이 차원문으로 들어가면 돼."
+
+msgid "@rue Goodbye, Niko."
+msgstr "@rue 잘 가, 니코."
+
+msgid "Hiino"
+msgstr "Hiino"
+
+msgid "Carrick Lomas"
+msgstr "Carrick Lomas"
+
+msgid "M3ltd0wn"
+msgstr "M3ltd0wn"
+
+msgid "Thank you for playing."
+msgstr "플레이해 주셔서 감사합니다."
+
+msgid "QA Manager"
+msgstr "QA 총괄"
+
+msgid "French LQA"
+msgstr "프랑스어 LQA"
+
+msgid "Kalkie"
+msgstr "Kalkie"
+
+msgid "Laurie DeNicola"
+msgstr "Laurie DeNicola"
+
+msgid "Dan Luffey"
+msgstr "Dan Luffey"
+
+msgid "Story and Worldbuilding:"
+msgstr "스토리 및 세계관 구축:"
+
+msgid "Solstice Testers:"
+msgstr "Solstice 테스터:"
+
+msgid "Cyzoran"
+msgstr "Cyzoran"
+
+msgid "Brazilian Portuguese Translation"
+msgstr "브라질 포르투갈어 번역"
+
+msgid "Testers of Original OneShot:"
+msgstr "OneShot 원작 테스터:"
+
+msgid "durrbill"
+msgstr "durrbill"
+

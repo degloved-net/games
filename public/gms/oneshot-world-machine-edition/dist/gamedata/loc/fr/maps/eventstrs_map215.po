@@ -1,0 +1,216 @@
+msgid "@niko The elevator's button panel."
+msgstr "@niko Le panneau de commande de l'ascenseur."
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry Hé ! Où est-ce que tu vas ?"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown Alleeeeeez !"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown Alleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeez !"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown Démarre !!!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Hein ?"
+
+msgid "@niko Oh right... \\@niko_eyeclosed The elevator guy."
+msgstr "@niko Oh, c'est vrai... \\@niko_eyeclosed Le garçon de l'ascenseur."
+
+msgid "@plight_unknown AAAAUHGGHHHH!!!!"
+msgstr "@plight_unknown AAAARRGGHHHH !!!!"
+
+msgid "@niko_speak I think we should go talk to the guy first, \\p..."
+msgstr "@niko_speak Je pense qu'on devrait d'abord aller parler au garçon, \\p..."
+
+msgid "PATH CLOSED"
+msgstr "CHEMIN BARRÉ"
+
+msgid "TO: OFFICE"
+msgstr "VERS : BUREAU"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight Alleez..."
+
+msgid "@plight_wtf Come oonnnnnnn!"
+msgstr "@plight_wtf Alleeeeeez !"
+
+msgid "@plight_wtf Now, of all times...!"
+msgstr "@plight_wtf C'est vraiment pas le moment... !"
+
+msgid "@niko ...Uh"
+msgstr "@niko ... Euh."
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak ... Excusez-moi..."
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock Ouah !"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight ... C'est... toi !"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry (Bon sang, je ne pensais pas que j'allais rencontrer...)"
+
+msgid "@niko The elevator is missing a button, right?"
+msgstr "@niko Il manque un bouton sur l'ascenseur, non ?"
+
+msgid "@plight_worry ...how did you know?"
+msgstr "@plight_worry ... Comment tu sais ça ?"
+
+msgid "@niko_83c ..."
+msgstr "@niko_83c ..."
+
+msgid "@niko_speak \\p and I will help you fix it!"
+msgstr "@niko_speak \\p et moi allons vous aider à le réparer !"
+
+msgid "@plight_worry2 ...seriously?"
+msgstr "@plight_worry2 ... Vraiment ?"
+
+msgid "@plight_sigh Oh thank goodness."
+msgstr "@plight_sigh Oh, Dieu merci."
+
+msgid "@plight_worry2 The evacuees are counting on this...\\> on me..."
+msgstr "@plight_worry2 Les évacués comptent sur ça...\\> et sur moi..."
+
+msgid "@plight_worry But... I've been here for hours and can't figure out a thing!"
+msgstr "@plight_worry Mais... ça fait des heures que je suis ici et je n'y comprends rien !"
+
+msgid "@niko2 ....\\.\\.evacuees?"
+msgstr "@niko2 ....\\.\\. Les évacués ?"
+
+msgid "@plight Y'know... from the west apartments."
+msgstr "@plight Tu sais... des appartements à l'ouest."
+
+msgid "@plight_worry The square stuff wrecked the place yesterday..."
+msgstr "@plight_worry Les trucs carrés les ont entièrement démolis hier..."
+
+msgid "@niko3 Oh...."
+msgstr "@niko3 Oh..."
+
+msgid "@plight_sigh Right now everyone's crowded in the cafe.\\nWe really want to get everyone to the surface as soon as possible, though."
+msgstr "@plight_sigh Actuellement, ils sont tous entassés dans le café. \\nMais, nous souhaiterions amener tout le monde à la surface dès que possible."
+
+msgid "@plight3 The library on the surface doubles as a shelter for situations like this."
+msgstr "@plight3 La bibliothèque à la surface fait office d'abri, dans ce genre de situation."
+
+msgid "@niko I see..."
+msgstr "@niko Je vois..."
+
+msgid "@niko2 ...wait... didn't we find the magnets and stuff in the apartments, \\p?"
+msgstr "@niko2 ... Attends... on n'avait pas trouvé des aimants dans les appartements, \\p ?"
+
+msgid "@plight_worry The... what?"
+msgstr "@plight_worry Des... quoi ?"
+
+msgid "@niko_eyeclosed Looks like we'll have to find some other way to fix the button, \\p..."
+msgstr "@niko_eyeclosed Bon, on va devoir trouver une autre solution pour réparer le bouton, \\p..."
+
+msgid "@plight_scared HOLY F\\.\\.\\@plight_worry UDGE"
+msgstr "@plight_scared BON S\\.\\.\\@plight_worry ANG !"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_eyeclosed ...Looks like \\p and I will need to find another way down altogether..."
+msgstr "@niko_eyeclosed ... Bon, \\p et moi allons devoir trouver un autre moyen pour descendre..."
+
+msgid "@plight_worry But...\\.\\. this is the only elevator in the area..."
+msgstr "@plight_worry Mais...\\.\\. c'est le seul ascenseur du coin..."
+
+msgid "@niko We did hear about another one, but... I don't really know where it is."
+msgstr "@niko On avait entendu parler d'un autre, mais... je sais pas vraiment où il est."
+
+msgid "@niko_speak Do you, \\p?"
+msgstr "@niko_speak Tu sais, toi, \\p?"
+
+msgid "TO: CAFE"
+msgstr "VERS : CAFÉ"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[DÉFENSE D'ENTRER !]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko Oh... Pardon !"
+
+msgid "TO: APARTMENTS"
+msgstr "VERS : APPARTEMENTS"
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "VERS :\\nBUREAUX ET\\nCAFÉ"
+
+msgid "@niko It's an elevator."
+msgstr "@niko C'est un ascenseur."
+
+msgid "@niko_speak Let's find another way down!"
+msgstr "@niko_speak Trouvons un autre moyen pour descendre !"
+
+msgid "@plight_worry Uh..."
+msgstr "@plight_worry Euh..."
+
+msgid "@plight3 Let me know if you need my help with anything..."
+msgstr "@plight3 Fais-moi signe si jamais tu as besoin de moi..."
+
+msgid "@niko_speak We found some elevators!"
+msgstr "@niko_speak On a trouvé des ascenseurs !"
+
+msgid "@plight_shock What??"
+msgstr "@plight_shock Quoi ??"
+
+msgid "@plight_worry ...seriously?"
+msgstr "@plight_worry ... Vraiment ?"
+
+msgid "@plight_worry2 I've literally never seen another one in this area!"
+msgstr "@plight_worry2 C'est bien la première fois qu'on me dit qu'il y a d’autres ascenseurs ici !"
+
+msgid "@niko It WAS in a locked room..."
+msgstr "@niko Ils sont dans une pièce fermée à clé..."
+
+msgid "@plight_worry Oh...."
+msgstr "@plight_worry Oh..."
+
+msgid "@plight_worry2 Do they... uh... \\.\\.\\.\\@plight_worry work?"
+msgstr "@plight_worry2 Est-ce qu'ils... euh... \\.\\.\\.\\@plight_worry fonctionnent ?"
+
+msgid "@niko_eyeclosed We don't know yet..."
+msgstr "@niko_eyeclosed On ne sait pas encore..."
+
+msgid "@niko One of them has a lever that's out of my reach."
+msgstr "@niko Il y a un levier sur l'un deux que je n'arrive pas à atteindre."
+
+msgid "@niko_speak ...wait! You can help us!"
+msgstr "@niko_speak ... Attendez ! Vous pouvez nous aider !"
+
+msgid "@plight_worry What..."
+msgstr "@plight_worry Quoi... ?"
+
+msgid "@niko You should be able to reach the lever, cuz...\\>\\n\\@niko_speak You're taller than me!"
+msgstr "@niko Vous devriez pouvoir atteindre le levier, vu que...\\>\\n\\@niko_speak Vous êtes plus grand que moi !"
+
+msgid "@plight3 Ooh... \\@plight_worry I... guess I am?"
+msgstr "@plight3 Ooh... \\@plight_worry Tu... crois ?"
+
+msgid "@plight So...\\.\\. show me the way, I suppose..."
+msgstr "@plight Alors... \\.\\.montre-moi comment..."
+
+msgid "@niko Mhm!"
+msgstr "@niko Hum !"
+
+msgid "[HELLO.]"
+msgstr "[BONJOUR.]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[CETTE ZONE EST INACCESSIBLE DANS LA DÉMO.]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[VEUILLEZ NOUS EXCUSER POUR LE DÉSAGRÉMENT.]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko ... La démo ?"
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[JE NE PEUX PAS VOUS LAISSER PASSER.]"
+

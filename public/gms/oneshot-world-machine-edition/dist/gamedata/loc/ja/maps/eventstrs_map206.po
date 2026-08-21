@@ -1,0 +1,165 @@
+msgid "@alula_pout ...Niko!"
+msgstr "@alula_pout …ニコ！"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh ニコ？どーしたの？"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock 気絶しちゃうのかと思ったぞ！"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko2 It's... not the first time it's happened."
+msgstr "@niko2 これ…前にもあったんだ。"
+
+msgid "@calamus ...oh?"
+msgstr "@calamus …そうなのか？"
+
+msgid "@niko_speak Earlier I was in the Barrens, and I...\\>\\n\\@niko6 saw something like this too."
+msgstr "@niko_speak 不毛の地にいた時も、その…\\>\\n\\@niko6 こんな感じで、何か見えたんだ。"
+
+msgid "@niko2 It was like a dream, but only for a split second..."
+msgstr "@niko2 夢みたいな感じ。一瞬で終わっちゃう夢…"
+
+msgid "@calamus ...sounds like a vision."
+msgstr "@calamus …幻視みたいだな。"
+
+msgid "@calamus_speak Like something a prophet would see!"
+msgstr "@calamus_speak 預言者が見るようなさ！"
+
+msgid "@niko2 I... guess?\\n\\>\\@niko_eyeclosed The robot lady I was with earlier had a fancy word for it, though..."
+msgstr "@niko2 そう…なのかな？\\n\\>\\@niko_eyeclosed ロボットのお姉さんも、そんなこと\n言ってた気がするけど…"
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 もしかして…"
+
+msgid "@niko6 Lemme... check something."
+msgstr "@niko6 ちょっと…待ってね。"
+
+msgid "@niko_speak Oh!\\>\\nI was right!"
+msgstr "@niko_speak あっ！\\>\\nやっぱり！"
+
+msgid "@calamus ...huh?"
+msgstr "@calamus …え？"
+
+msgid "@niko When I had the vision back at the Barrens... the book started glowing too!"
+msgstr "@niko 不毛の地で幻視を見た時にね…\nこの本が光りだしたんだ！"
+
+msgid "@niko2 I wanted to see if I could get it to happen again, and..."
+msgstr "@niko2 だから、また光らないかなって思って\n見てみたんだけど、そしたら…"
+
+msgid "@alula_gasp Where did you get that!!!"
+msgstr "@alula_gasp その本、どこで見つけたの！！！"
+
+msgid "@niko Oh, uh... \\>\\@niko_speak I had it with me when I woke up in this world!"
+msgstr "@niko え、えっと… \\>\\@niko_speak この世界で目が覚めた時には\nもう持ってたよ！"
+
+msgid "@alula_speak It looks like one of our friend's books!"
+msgstr "@alula_speak 友達が持ってる本と、とても似てる！"
+
+msgid "@alula ...Except it's glowy!"
+msgstr "@alula …ピカピカしてないけど！"
+
+msgid "@niko2 ...that's what the lady said too..."
+msgstr "@niko2 …あのお姉さんも同じこと言ってた…"
+
+msgid "@niko_eyeclosed Hm..."
+msgstr "@niko_eyeclosed うーん…"
+
+msgid "@niko \\p... let's see if we can do anything with the journal in this room..."
+msgstr "@niko \\p… この部屋で、日記を使って\n何かできないか試してみようよ…"
+
+msgid "@alula I wonder when our friend will come back..."
+msgstr "@alula いつ帰ってくるのかなあ…"
+
+msgid "@alula_gasp Woah!"
+msgstr "@alula_gasp わーー！"
+
+msgid "@calamus_shock How did that boat get there?"
+msgstr "@calamus_shock この船、どうやってここに？"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock …"
+
+msgid "@niko Okay, I'm pretty sure it has to do with this journal, now..."
+msgstr "@niko やっぱり、この日記のおかげだったんだね…"
+
+msgid "@niko2 The exact same thing happened back at the Barrens."
+msgstr "@niko2 不毛の地でも、同じことが起きたんだ。"
+
+msgid "@calamus_speak Seriously?"
+msgstr "@calamus_speak ウソだろ？"
+
+msgid "@niko The journal was glowing, so I wanted to take a closer look at it."
+msgstr "@niko 日記が光り始めたから、中を見てみたんだ。"
+
+msgid "@niko2 Then, I found a page that looked like a drawing of the room we were in, and then..."
+msgstr "@niko2 そしたら、ミーがいた部屋と\nそっくりな絵を見つけて、それで…"
+
+msgid "@niko_speak A minecart showed up!"
+msgstr "@niko_speak トロッコがパッて現れたんだ！"
+
+msgid "@calamus_shock What!"
+msgstr "@calamus_shock ええっ！"
+
+msgid "@alula_gasp What!"
+msgstr "@alula_gasp ええっ！"
+
+msgid "@calamus_speak That sounds freaky..."
+msgstr "@calamus_speak 怖いな…"
+
+msgid "@alula_speak No it doesn't!"
+msgstr "@alula_speak ううん、怖くなんかないわ！"
+
+msgid "@alula_gasp \\p must've done something!"
+msgstr "@alula_gasp きっと、 \\p が何かしたのよ！"
+
+msgid "@calamus Still..."
+msgstr "@calamus いやいや、それでも…"
+
+msgid "@alula_gasp ...Hey! We have a boat now!"
+msgstr "@alula_gasp …あっ！この船使おうよ！"
+
+msgid "@alula_speak We can go to the burial grounds and visit mom again!"
+msgstr "@alula_speak 埋葬地で、またお母さんに会えるよ！"
+
+msgid "@calamus But..."
+msgstr "@calamus でも…"
+
+msgid "@alula_speak Come on, Calamus!"
+msgstr "@alula_speak ほら行こ、カラムス！"
+
+msgid "@alula Niko and \\p are with us!"
+msgstr "@alula ニコと \\pも\n一緒にいるんだから！"
+
+msgid "@calamus Well... \\.\\.\\nif \\p made the boat appear... it should be safe..."
+msgstr "@calamus まあ… \\.\\.\\n\\p がボートを出現させたんなら…\nきっと安全か…"
+
+msgid "@niko2 What...\\.\\. do you think, \\p?"
+msgstr "@niko2 \\pは…\\.\\. どう思う？"
+
+msgid "@alula_gasp Can we go yet?"
+msgstr "@alula_gasp 早く行こうよ！"
+
+msgid "@alula_gasp Here we go!"
+msgstr "@alula_gasp レッツゴー！"
+
+msgid "@calamus This passage must be where fireflies congregate..."
+msgstr "@calamus この通路はホタルが集まるところなんだな…"
+
+msgid "@calamus I wonder how long this passage is..."
+msgstr "@calamus この通路、どこまで続くんだろうな…"
+
+msgid "@calamus_speak Looks like there's some lights at the end..."
+msgstr "@calamus_speak 一番奥で、何か光ってる…"
+
+msgid "@alula_speak Those are fireflies!"
+msgstr "@alula_speak ホタルだわ！"
+
+msgid "@calamus_smile We can leave whenever you're ready."
+msgstr "@calamus_smile ニコが準備できたら、いつでも行けるよ。"
+
+msgid "@niko It's a clover."
+msgstr "@niko クローバーだ。"
+

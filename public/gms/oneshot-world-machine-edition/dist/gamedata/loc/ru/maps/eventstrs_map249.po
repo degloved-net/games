@@ -1,0 +1,138 @@
+msgid "@niko A bulletin board with lots of papers on it."
+msgstr "@niko Доска, к которой прикреплено много разных листочков."
+
+msgid "@niko It's a piece of amber on a string."
+msgstr "@niko Это кусок янтаря на шнурке."
+
+msgid "@niko_eyeclosed Looks just like that necklace the robot lady showed me..."
+msgstr "@niko_eyeclosed Похож на подвеску, которую показывала мне тётя-робот..."
+
+msgid "@niko It's a big photo."
+msgstr "@niko Это большое фото."
+
+msgid "@niko2 Wait, no...\\.\\. it's a painting!"
+msgstr "@niko2 Ой, нет...\\.\\. Это картина!"
+
+msgid "@niko_eyeclosed Hard to tell at first..."
+msgstr "@niko_eyeclosed Поначалу сложно догадаться..."
+
+msgid "@niko A coat rack with a scarf and a big jacket."
+msgstr "@niko На вешалке висит шарф и большая куртка."
+
+msgid "@rue_talk The room ahead doesn't really lead anywhere, but..."
+msgstr "@rue_talk Комната впереди никуда не ведёт, но..."
+
+msgid "@rue \\p should still remember what to do here."
+msgstr "@rue \\p наверняка помнит, что здесь нужно делать."
+
+msgid "@niko It's a stack of books."
+msgstr "@niko Это стопка книг."
+
+msgid "@niko_speak They're watercolor sticks!"
+msgstr "@niko_speak Это кисточки!"
+
+msgid "@cedric_sigh Of course, this is just a copy of it..."
+msgstr "@cedric_sigh Конечно, это всего лишь копия..."
+
+msgid "@cedric This is my father's study."
+msgstr "@cedric Это кабинет моего отца."
+
+msgid "@cedric_sigh It feels like...\\.\\. he's still here, doesn't it?"
+msgstr "@cedric_sigh Такое ощущение...\\.\\. что он всё ещё здесь, правда?"
+
+msgid "@cedric_sigh ...like he's still with us."
+msgstr "@cedric_sigh Словно он ещё с нами."
+
+msgid "@rue_sad ...Yeah."
+msgstr "@rue_sad Да..."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko_speak Photos too!"
+msgstr "@niko_speak Тут ещё и фотографии!"
+
+msgid "@niko It's a shelf full of books."
+msgstr "@niko На полке полно книг."
+
+msgid "@niko It's a tea set."
+msgstr "@niko Это чайный сервиз."
+
+msgid "@niko There's a glass tea set on the table."
+msgstr "@niko На столе стоит чайный сервиз из стекла."
+
+msgid "@cedric_hmm Tea DOES sound really nice right now..."
+msgstr "@cedric_hmm Чай? Как раз вовремя..."
+
+msgid "@cedric_sigh Too bad there's no water in here..."
+msgstr "@cedric_sigh Жалко, что воды нет."
+
+msgid "@niko Black clovers in a glass case."
+msgstr "@niko Листики чёрного клевера под стеклом."
+
+msgid "@niko It's a big book on the table."
+msgstr "@niko На столе большая книга."
+
+msgid "@niko It's a pilot's helmet."
+msgstr "@niko Это шлем пилота."
+
+msgid "@niko The door is gone."
+msgstr "@niko Двери нет."
+
+msgid "@niko2 The door is... gone?"
+msgstr "@niko2 Двери... нет?"
+
+msgid "@proto2b [Well, the door does not exist without us there.]"
+msgstr "@proto2b [Двери не существует, потому что нас там нет.]"
+
+msgid "@niko_eyeclosed Guess I can't go back out, huh..."
+msgstr "@niko_eyeclosed Значит, я не могу выйти обратно..."
+
+msgid "@proto2 [...Do you need to?]"
+msgstr "@proto2 [А тебе это надо?]"
+
+msgid "@niko_eyeclosed ...not really."
+msgstr "@niko_eyeclosed Да нет..."
+
+msgid "@rue_sigh That was... quite peculiar..."
+msgstr "@rue_sigh Это было... довольно необычно."
+
+msgid "@cedric_sigh2 I'll say!"
+msgstr "@cedric_sigh2 Не то слово!"
+
+msgid "@proto_jealous [...]"
+msgstr "@proto_jealous [...]"
+
+msgid "@cedric_talk Hey, this is..."
+msgstr "@cedric_talk Эй, это же..."
+
+msgid "@rue_oh ...The World Machine."
+msgstr "@rue_oh Мировая машина..."
+
+msgid "@niko_speak It's a blueprint!"
+msgstr "@niko_speak Это чертёж!"
+
+msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
+msgstr "@niko Большой и подробный рисунок устройства со множеством экранов."
+
+msgid "@proto2b [...That's called a blueprint, Niko.]"
+msgstr "@proto2b [Это называется «чертёж», Нико.]"
+
+msgid "@niko_pancakes ...So THAT's what a blueprint is!"
+msgstr "@niko_pancakes Так ВОТ что такое чертёж!"
+
+msgid "@proto2b [...This place contains a lot of memories.]"
+msgstr "@proto2b [В этом месте так много воспоминаний...]"
+
+msgid "@proto_eyeclosed [I am... grateful, to see it again.]"
+msgstr "@proto_eyeclosed [Я благодарен судьбе... за то, что смог увидеть это снова.]"
+
+msgid "@niko A box filled with folders and loose paper."
+msgstr "@niko В коробке полно папок и листов бумаги."
+
+msgid "@niko A scribbly drawing is pinned up here."
+msgstr "@niko Здесь приколот какой-то набросок."
+
+msgid "@niko A box full of notebooks and sketchbooks."
+msgstr "@niko В этой коробке лежат записные книжки и блокноты."
+

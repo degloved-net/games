@@ -1,0 +1,9 @@
+msgid "@niko It's a clover."
+msgstr "@niko Un trifoglio."
+
+msgid "@alula_oh Do you want to go back, Niko?"
+msgstr "@alula_oh Vuoi tornare indietro, Niko?"
+
+msgid "@niko ...Nah."
+msgstr "@niko ...No."
+

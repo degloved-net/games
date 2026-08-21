@@ -1,0 +1,11 @@
+
+
+msgid "@niko_huh ..."
+msgstr "@niko_huh ..."
+
+msgid "@niko_huh ...yeah let's get outta here."
+msgstr "@niko_huh ...네, 여기서 빠져나가요."
+
+msgid "@niko_what2 Let's never speak of this again."
+msgstr "@niko_what2 다시는 이걸 얘기하지 말고요."
+

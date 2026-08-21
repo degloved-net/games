@@ -1,0 +1,15 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko Eu tenho medo de escada..."
+
+msgid "$I remember being taught in school about how the waters surrounding the forest stretched until the boundries of space."
+msgstr "$Na escola, ensinaram que as águas que cercam a floresta se estendem até os limites do espaço."
+
+msgid "$But at some point, the prehistoric oceans receded, forming what is now the Barrens."
+msgstr "$Mas, em certo momento, os mares pré-históricos recuaram e formaram o que chamamos de Terras Áridas."
+
+msgid "$I wonder where all that water went..."
+msgstr "$Aonde foi toda aquela água?"
+
+msgid "@niko Tiny shrimp are swimming in this jar."
+msgstr "@niko Há camarõezinhos nadando neste pote."
+

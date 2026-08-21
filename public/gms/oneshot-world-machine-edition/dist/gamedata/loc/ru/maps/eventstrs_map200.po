@@ -1,0 +1,171 @@
+msgid "My mommy is making food for everyone!"
+msgstr "Моя мамочка готовит всем еду!"
+
+msgid "I want to help her catch fish, but I'm not a grownup yet!"
+msgstr "Я хочу помочь ей ловить рыбу, но я ещё маленькая!"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko На горизонте синее свечение."
+
+msgid "Hm..."
+msgstr "Хм..."
+
+msgid "Nothing's biting..."
+msgstr "Не клюёт..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "Привет! Я недоступный NPC..."
+
+msgid "*sniff*"
+msgstr "(Шмыгает носом.)"
+
+msgid "@niko Are you okay?"
+msgstr "@niko Всё в порядке?"
+
+msgid "I WANNA GO BACK HOME!!!"
+msgstr "Я ХОЧУ ДОМОЙ!!!"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko На дне этой банки несколько маленьких рыбок."
+
+msgid "This island has more moss covering than our village did."
+msgstr "На этом острове больше мха, чем в нашей деревне."
+
+msgid "Would've been nice to build a settlement here."
+msgstr "Было бы неплохо построить тут поселение."
+
+msgid "...too late now, I guess."
+msgstr "Хотя, наверное, слишком поздно..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Они наполнены маленькой сухой рыбёшкой."
+
+msgid "The land fragmentation is happening faster and faster now..."
+msgstr "Теперь земля фрагментируется всё чаще и чаще."
+
+msgid "But...\\.\\. looks like the vines are slowing it down..."
+msgstr "Но...\\.\\. лозы помогают сдерживать распад."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak Тут полно рыбьих голов!"
+
+msgid "Our village was ransacked by the squares not long ago..."
+msgstr "Недавно нашу деревню заполнили квадраты..."
+
+msgid "Most of us made it out alive, but we can't really go back anymore."
+msgstr "Большинству удалось выбраться, но мы не можем вернуться обратно."
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 Ого..."
+
+msgid "Squares are bad news, man."
+msgstr "Квадраты — это плохие новости, чувак."
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko Наполнены маленькой сухой рыбёшкой."
+
+msgid "Sigh..."
+msgstr "Эх-х..."
+
+msgid "We won't last long now, will we?"
+msgstr "Нам ведь недолго осталось?"
+
+msgid "The sun can't fix the squares..."
+msgstr "Солнце не сможет уничтожить квадраты..."
+
+msgid "The sun can't restore the land..."
+msgstr "Солнце не восстановит землю..."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak Эти штуки похожи на крабовые панцири."
+
+msgid "@magpie By the way... if you ever see a big guy with goggles and a cool helmet.."
+msgstr "@magpie Кстати... Если вдруг встретишь здоровяка в очках пилота и крутом шлеме..."
+
+msgid "@magpie_smile Tell him the trader in the Glen said hi!"
+msgstr "@magpie_smile Передай привет от торговца из Долины!"
+
+msgid "@magpie Also ask him if he has any more music boxes for trading."
+msgstr "@magpie И спроси, нет ли у него ещё музыкальных шкатулок на обмен."
+
+msgid "@niko Will do!"
+msgstr "@niko Обязательно!"
+
+msgid "@niko_speak Oh! You're the trader guy!"
+msgstr "@niko_speak О! Ты тот самый торговец!"
+
+msgid "@magpie_smile Sure am!\\>\\n\\@magpie You here to trade?"
+msgstr "@magpie_smile Естественно!\\>\\n\\@magpie Хочешь поторговаться?"
+
+msgid "@magpie_hm 'Cause if you are, then I got bad news for ya."
+msgstr "@magpie_hm Если да, то у меня для тебя плохие новости."
+
+msgid "@magpie_hm A lot of my stuff is back at my cart, which was sadly abandoned when I was running for my life."
+msgstr "@magpie_hm Большая часть моих вещей осталась в повозке, которую пришлось оставить, когда я спасался."
+
+msgid "@magpie So my collection is...\\.\\. very limited right now."
+msgstr "@magpie Так что теперь моя коллекция...\\.\\. очень ограничена."
+
+msgid "@magpie_smile Managed to grab some of my favorite things before I left, though!"
+msgstr "@magpie_smile Хотя я успел прихватить с собой несколько любимых вещиц!"
+
+msgid "@niko_speak Oh! Uh..."
+msgstr "@niko_speak О! Э-э..."
+
+msgid "@niko Do you have anything like...\\.\\. gears?"
+msgstr "@niko У вас нет ничего, похожего на...\\.\\. шестерёнки?"
+
+msgid "@magpie_oh Gears?\\.\\. Like... the metal spinny things? \\>\\@magpie I don't think I have anything like that..."
+msgstr "@magpie_oh Шестерёнки?\\.\\. Типа как... железные вращающиеся штучки? \\>\\@magpie Не думаю, что у меня есть что-то подобное..."
+
+msgid "@magpie_oh Wait."
+msgstr "@magpie_oh Постой!"
+
+msgid "@magpie I do have this box thing that you can wind up and play a song."
+msgstr "@magpie У меня есть коробочка, которую можно завести, и она играет музыку."
+
+msgid "@niko_speak That's a music box!"
+msgstr "@niko_speak Музыкальная шкатулка!"
+
+msgid "@magpie_smile Yeah!\\n\\>\\@magpie I bet there's lots of little metal bits in there!"
+msgstr "@magpie_smile Ага!\\n\\>\\@magpie Могу поспорить, у неё внутри полно таких железяк!"
+
+msgid "@niko_speak Oh! That might work!"
+msgstr "@niko_speak Ух ты! Они могут подойти!"
+
+msgid "@magpie_hm But I'm not sure if I want to trade it away...\\>\\nIt's one of my favorite things!"
+msgstr "@magpie_hm Но вообще-то я не уверен, что хотел бы поменяться...\\>\\nЭто одна из моих любимых вещей!"
+
+msgid "@niko_eyeclosed Aw..."
+msgstr "@niko_eyeclosed О..."
+
+msgid "@magpie_hm ..."
+msgstr "@magpie_hm ..."
+
+msgid "@magpie_oh Oh, what am I saying!\\>\\n\\@magpie_smile You're the savior!"
+msgstr "@magpie_oh Ой, что это я болтаю!\\>\\n\\@magpie_smile Ты же спаситель!"
+
+msgid "@magpie_hm Things have been getting bad around here lately."
+msgstr "@magpie_hm В последнее время всё тут идёт наперекосяк."
+
+msgid "@magpie_smile If I don't help you, I might not even be around much longer..."
+msgstr "@magpie_smile Если я тебе не помогу, то и сам вряд ли долго продержусь..."
+
+msgid "@magpie You need this to save the world, right?\\>\\nTake it."
+msgstr "@magpie Они ведь нужны, чтобы спасти наш мир?\\>\\nЗабирай."
+
+msgid "@niko_speak Ah! Thank you!"
+msgstr "@niko_speak Ой! Спасибо!"
+
+msgid "The vines are everywhere!"
+msgstr "Лозы повсюду!"
+
+msgid "The plant lady must be protecting us!"
+msgstr "Это нас защищает девушка-растение!"
+
+msgid "@niko_upset ...yeah..."
+msgstr "@niko_upset Да..."
+
+msgid "@shepherd What a day..."
+msgstr "@shepherd Ну и денёк..."
+

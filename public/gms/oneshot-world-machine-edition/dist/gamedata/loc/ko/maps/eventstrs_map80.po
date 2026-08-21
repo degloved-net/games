@@ -1,0 +1,78 @@
+msgid "[HELLO!]"
+msgstr "[안녕하세요!]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 안녕하세요!"
+
+msgid "@niko What are you doing up there?"
+msgstr "@niko 거기서 뭘 하는 거예요?"
+
+msgid "[I AM STATIONED HERE.]"
+msgstr "[전 여기를 지키고 있습니다.]"
+
+msgid "@niko By yourself?"
+msgstr "@niko 혼자서요?"
+
+msgid "[YES.]"
+msgstr "[그렇습니다.]"
+
+msgid "@niko A picture of a robot."
+msgstr "@niko 로봇 사진이에요."
+
+msgid "@niko_speak ...Y'know, I've never been around so many robots before, \\p!"
+msgstr "@niko_speak ...\\p 님, 전 이렇게 로봇을 많이 본 적이 없어요!"
+
+msgid "@niko Or...\\.\\. any robots at all..."
+msgstr "@niko 하긴... \\.\\.로봇을 아예 본 적이 없네요..."
+
+msgid "@niko_speak I mean, I see them in cartoons and stuff, but I've never seen one in person!"
+msgstr "@niko_speak 만화책이나 애니메이션에서나 보지, 실제로 본 적은 없었다고요!"
+
+msgid "@niko They're pretty neat, don't you think?"
+msgstr "@niko 저 로봇들 정말 멋지네요. 안 그래요?"
+
+msgid "[\"Yeah.\", \"Hey Niko do a robot voice\"]"
+msgstr "[\"그래.\",\"니코, 로봇 목소리를 내 봐.\"]"
+
+msgid "@niko Yeah!"
+msgstr "@niko 네!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...What?"
+msgstr "@niko_speak ...네?"
+
+msgid "[\"Try talking like a robot!\"]"
+msgstr "[\"로봇처럼 말해 봐!\"]"
+
+msgid "@niko um..."
+msgstr "@niko 으음..."
+
+msgid "@niko_eyeclosed *ahem*"
+msgstr "@niko_eyeclosed 에헴."
+
+msgid "@niko [BEEEP BOOP]"
+msgstr "@niko [삑, 삐빅]"
+
+msgid "@niko_speak [I'M A ROBOT AND I...\\. EAT BATTERIES...\\. INSTEAD OF NORMAL PEOPLE FOOD!]"
+msgstr "@niko_speak [전 로봇입니다. 그리고...\\. 전 배터리를 먹습니다...\\. 사람들이 먹는 음식 대신에요!]"
+
+msgid "@niko_83c Hehe..."
+msgstr "@niko_83c 헤헤..."
+
+msgid "[THAT IS NOT CORRECT.]"
+msgstr "[그 부분은 틀렸습니다.]"
+
+msgid "[ROBOTS DO NOT CONSUME BATTERIES IN THE SAME WAY PEOPLE CONSUME FOOD.]"
+msgstr "[로봇은 사람이 음식을 섭취하는 방식으로 배터리를 섭취할 수 없습니다.]"
+
+msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
+msgstr "[로봇에게는 소화기관이 존재하지 않기 때문이지요.]"
+
+msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
+msgstr "[게다가 입이 없는 로봇도 있습니다.]"
+
+msgid "@niko \\p...\\. \\>\\@niko_eyeclosed you made me look silly..."
+msgstr "@niko \\p 님...\\. \\>\\@niko_eyeclosed 절 놀리려고 이러신 거죠..."
+

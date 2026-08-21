@@ -1,0 +1,96 @@
+msgid "@niko A pile of large books."
+msgstr "@niko Стопка толстых книг."
+
+msgid "@niko A photograph of the city skyline."
+msgstr "@niko Фотография силуэта города."
+
+msgid "@niko It's a photograph of the cafe.\\>\\nLooks like it was a busy day..."
+msgstr "@niko Фотография кафе.\\>\\nЭто был напряжённый день..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Кофемашина."
+
+msgid "@niko_speak It's very warm!"
+msgstr "@niko_speak Она очень тёплая!"
+
+msgid "@niko A photograph of some buildings."
+msgstr "@niko Фотография каких-то зданий."
+
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko Похоже, я могу открыть эту дверь..."
+
+msgid "@niko A photograph of the mines.\\>\\nThere are many robots at work in the photo, extracting large deposits of ore."
+msgstr "@niko Фотография шахты.\\>\\nТут много роботов, они достают из-под земли кучу руды."
+
+msgid "@niko Just a trash can..."
+msgstr "@niko Просто мусорное ведро..."
+
+msgid "@niko Coffee cups."
+msgstr "@niko Чашки для кофе."
+
+msgid "@niko_speak I'm too young to drink coffee!"
+msgstr "@niko_speak Я слишком маленький, чтобы пить кофе!"
+
+msgid "@niko A photograph of a factory."
+msgstr "@niko Фотография завода."
+
+msgid "@niko It looks like I can unlatch this door..."
+msgstr "@niko Похоже, я могу разблокировать эту дверь..."
+
+msgid "@niko A photograph of the Tower.\\>\\nThe sunlight makes it hard to make out much in this photo."
+msgstr "@niko Фотография Башни.\\>\\nИз-за солнечного света тут мало что разглядишь."
+
+msgid "@niko A photograph of some railings."
+msgstr "@niko Фотография каких-то рельсов."
+
+msgid "Hey there."
+msgstr "Эй, привет."
+
+msgid "@niko Hello."
+msgstr "@niko Привет."
+
+msgid "You the messiah?"
+msgstr "Ты мессия?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "......"
+msgstr "......"
+
+msgid "I like your scarf."
+msgstr "Мне нравится твой шарф."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Спасибо!"
+
+msgid "@niko Mama made it for me!"
+msgstr "@niko Это мне мама связала!"
+
+msgid "Tell her I like her needlework."
+msgstr "Передай ей, что мне нравится её работа."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Конечно!"
+
+msgid "@niko ...when I see her again!"
+msgstr "@niko ...Когда я снова её увижу!"
+
+msgid "@niko A photograph of a house in the Glen.\\>\\nLooks like it was taken when people were still living in the ruins..."
+msgstr "@niko Фотография дома в Долине.\\>\\nКажется, она сделана, когда люди ещё жили среди руин..."
+
+msgid "@niko They look like phonebooks."
+msgstr "@niko Они похожи на телефонные справочники."
+
+msgid "@niko Some of the pages are dog-eared."
+msgstr "@niko Уголки некоторых страниц загнуты."
+
+msgid "@niko This fridge has magnets on it!"
+msgstr "@niko На этом холодильнике магниты!"
+
+msgid "@niko Maybe they'll come in handy?"
+msgstr "@niko Может, они мне пригодятся?"
+
+msgid "@niko I hope nobody will mind us taking them..."
+msgstr "@niko Надеюсь, никто не будет возражать, если я их возьму..."
+

@@ -1,0 +1,3 @@
+
+msgid "@niko So are you Alula?"
+msgstr "@niko Oh!\\> Are you Alula?"

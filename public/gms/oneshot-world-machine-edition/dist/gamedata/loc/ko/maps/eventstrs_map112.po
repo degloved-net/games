@@ -1,0 +1,48 @@
+msgid "@niko_eyeclosed She's still asleep..."
+msgstr "@niko_eyeclosed 하지만 아직 자고 있어요..."
+
+msgid "None of us have been sleeping very well in light of recent events..."
+msgstr "최근에는 우리 전부 다 제대로 잠을 잔 적이 없어..."
+
+msgid "The square particles took out a few of my robots last week, and"
+msgstr "지난주에는 사각형 입자가 로봇 몇 기를 완전히 망가뜨렸지. 그리고..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed 자고 있어요..."
+
+msgid "@niko A coffee machine. It's almost empty."
+msgstr "@niko 커피 기계네요. 거의 비었어요."
+
+msgid "I can barely keep my eyes open, man..."
+msgstr "이런, 눈을 뜨고 있기도 힘들어..."
+
+msgid "How does Dr. Silverpoint get all that energy?"
+msgstr "실버포인트 박사님은 대체 어디서 그런 힘이 솟는 거지?"
+
+msgid "@niko A warm pot of coffee."
+msgstr "@niko 따뜻한 커피가 든 주전자예요."
+
+msgid "Hmm... I wonder what The Author would do in this situation..."
+msgstr "음, 그 저자라면 이 상황에서 과연 어떡할지 궁금하군..."
+
+msgid "Dr. Silverpoint usually references his works."
+msgstr "실버포인트 박사는 늘 그 사람이 쓴 저작을 참고하지."
+
+msgid "@niko Hey \\p?"
+msgstr "@niko 저기, \\p 님?"
+
+msgid "@niko_speak Doesn't the lady look... kind of familiar to you?"
+msgstr "@niko_speak 저 사람... 어디서 많이 본 것 같지 않아요?"
+
+msgid "@niko I wonder if she's related to the robot lady who gave me the amber."
+msgstr "@niko 호박석을 준 로봇하고 관련이 있는지 궁금하네요."
+
+msgid "@niko_eyeclosed I almost want to ask her about it..."
+msgstr "@niko_eyeclosed 가능하면 물어보고 싶어요..."
+
+msgid "@niko ...should I?"
+msgstr "@niko ...그럴까요?"
+

@@ -1,0 +1,45 @@
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ..."
+
+msgid "@niko_upset2 I... think I remember something..."
+msgstr "@niko_upset2 Credo... di ricordare qualcosa..."
+
+msgid "@niko_eyeclosed I remember... what I did at the end."
+msgstr "@niko_eyeclosed Ricordo... cosa ho fatto alla fine."
+
+msgid "@niko_eyeclosed I remember... putting in the sun..."
+msgstr "@niko_eyeclosed Ricordo... di aver messo il sole al suo posto..."
+
+msgid "@niko3 And then everything got really bright..."
+msgstr "@niko3 E poi tutto è diventato luminoso..."
+
+msgid "@niko_eyeclosed I... remember being in a dark room."
+msgstr "@niko_eyeclosed Ricordo... di essermi trovato in una stanza buia."
+
+msgid "@niko3 There was a light at the end of a long hallway..."
+msgstr "@niko3 C'era una luce alla fine di un lungo corridoio..."
+
+msgid "@niko_eyeclosed I thought I was going back home, but..."
+msgstr "@niko_eyeclosed Pensavo di star per tornare a casa, ma..."
+
+msgid "@niko_eyeclosed I... \\.\\.don't remember a lot of the details."
+msgstr "@niko_eyeclosed Non... \\.\\.ricordo bene i dettagli."
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ..."
+
+msgid "@niko_distressed2 ...But none of it matters now, does it?"
+msgstr "@niko_distressed2 ...Ma niente di tutto ciò ha più importanza, giusto?"
+
+msgid "@niko_upset I just got brought back anyway...."
+msgstr "@niko_upset Sono stato comunque riportato indietro..."
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed ......"
+
+msgid "@niko_eyeclosed We can't go back now, \\p."
+msgstr "@niko_eyeclosed \\p, non possiamo tornare indietro proprio adesso."
+

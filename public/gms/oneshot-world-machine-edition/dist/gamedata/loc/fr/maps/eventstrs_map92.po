@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko Un robot. Il est irréparable..."
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh Juste une tête..."
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh ... juste une tête. Argh."
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko Une pièce de robot. Elle est bien endommagée..."
+
+msgid "@niko A big machine..."
+msgstr "@niko Une grosse machine..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko On dirait une presse utilisée pour écraser le métal."
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak Ah... \\>\\@niko vous voulez que j'écrase le tuyau là-dedans, \\p ?"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh Ohhh, mais je n'ai pas envie d'être trop près..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed C'était terrifiant..."
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf .... \\p !"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed Il est HORS DE QUESTION que je mette le soleil ici."
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko Pourquoi...\\.\\. voudriez-vous que je casse une bouteille ici, \\p ?"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak Les éclats s'éparpilleront partout !"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed J'espère ne plus avoir à me servir de ce truc, \\p..."
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak Oh ! Cette machine fonctionne toujours !"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko Je ne devrais peut-être pas me tenir aussi près..."
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf Et... et si mon écharpe se prenait dedans ? Elle m'entraînerait dedans et...."
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh ... je ne finirai pas cette phrase."
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed Le bras d'un robot, ou ce qu'il en reste."
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed Je ne suis même pas sûre de ce que c'est censé être..."
+

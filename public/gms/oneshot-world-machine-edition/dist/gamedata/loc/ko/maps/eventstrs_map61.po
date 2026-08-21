@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko \\p 님?\\>\\n.\\..\\..어떻게 된 거죠?\\>\\n너무 어두운데요..."
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak ...앗!\\>\\n통로 끝에 희미한 빛이 보여요!"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko 목소리도 들려요..."
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised 엄마?\\>\\n엄마가 절 부르고 있어요!"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak 이 벽만 넘으면...\\>\\n집으로 돌아갈 수 있어요."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko 아, \\p 님,\\n저기..."
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 이제 작별이네요..."
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 저....\\.\\. 정말로...\\.\\. 당신을 만나서 기뻤어요, \\p 님..."
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad 여러 가지로 고마웠어요."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits 플레이해 주셔서 감사합니다!"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "치명적인 오류: 구원자를 찾을 수 없습니다. 종료합니다."
+

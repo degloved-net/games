@@ -1,0 +1,123 @@
+msgid "Don't lose faith."
+msgstr "Не теряй веру."
+
+msgid "Sigh..."
+msgstr "Эх..."
+
+msgid "@niko You alright?"
+msgstr "@niko У вас всё в порядке?"
+
+msgid "Ah, the messiah. Perhaps this is a sign."
+msgstr "А, мессия. Может, это знак."
+
+msgid "Tell me, do you think you can fix the world with the sun?"
+msgstr "Скажи мне, ты думаешь, что сможешь починить наш мир с помощью солнца?"
+
+msgid "@niko_eyeclosed Honestly, I don't know..."
+msgstr "@niko_eyeclosed Честно говоря, я не знаю..."
+
+msgid "@niko I've been getting mixed messages..."
+msgstr "@niko Все говорят по-разному..."
+
+msgid "I know."
+msgstr "Я знаю."
+
+msgid "But what do YOU think?"
+msgstr "Но что ТЫ думаешь?"
+
+msgid "@niko I... think...."
+msgstr "@niko Я... думаю..."
+
+msgid "@niko_speak ...I think I should listen to \\p!"
+msgstr "@niko_speak ...Я думаю так же, как \\p!"
+
+msgid "@niko After all, \\p helped me get this far."
+msgstr "@niko Всё-таки \\p всё это время поддерживает меня."
+
+msgid "I will take your faith for an answer, then."
+msgstr "Тогда приму твою веру за ответ."
+
+msgid "@niko What do you mean by that?"
+msgstr "@niko Что вы имеете в виду?"
+
+msgid "It means whatever you think it means."
+msgstr "Что ты думаешь, то я и имею в виду."
+
+msgid "[BEEP BOOP]"
+msgstr "[БИП-БУП]"
+
+msgid "@niko Beep boop."
+msgstr "@niko Бип-буп."
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko Лифтовая панель с кнопками."
+
+msgid "@niko This elevator goes back up to the catwalks."
+msgstr "@niko Этот лифт едет обратно к платформам."
+
+msgid "@niko_speak We'll need to press the button if we wanna go back up!"
+msgstr "@niko_speak Если мы хотим подняться, надо нажать кнопку!"
+
+msgid "@plight Anyway, it was nice meeting you... uh..."
+msgstr "@plight Ладно, был рад встрече... эм-м..."
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak Нико!"
+
+msgid "@plight ...Right. See you around, kid."
+msgstr "@plight Ага. Ещё увидимся, парень."
+
+msgid "@plight Gotta run now!"
+msgstr "@plight Я должен бежать!"
+
+msgid "@niko He seems in a hurry..."
+msgstr "@niko Кажется, он очень спешит..."
+
+msgid "@niko I guess we should hurry too, \\p."
+msgstr "@niko Думаю, нам тоже надо поспешить, \\p."
+
+msgid "@niko_speak People are counting on us!"
+msgstr "@niko_speak Люди рассчитывают на нас!"
+
+msgid "@niko Let's go find that library."
+msgstr "@niko Давай найдём эту библиотеку."
+
+msgid "@niko It's locked from the inside."
+msgstr "@niko Закрыто изнутри."
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[ВЕЧЕРНИЕ НОВОСТИ! ВЕЧЕРНИЕ НОВОСТИ!]"
+
+msgid "[ARE YOU HERE TO PURCHASE A COPY?]"
+msgstr "[ВЫ ХОТИТЕ КУПИТЬ ЭКЗЕМПЛЯР?]"
+
+msgid "@niko ...No?"
+msgstr "@niko Нет..."
+
+msgid "@niko_speak Newspapers are for grown-ups!"
+msgstr "@niko_speak Газеты — для взрослых!"
+
+msgid "[GROWN... UPS?]"
+msgstr "[ВЗРОСЛЫХ?]"
+
+msgid "@niko Yeah!"
+msgstr "@niko Ага!"
+
+msgid "[WHAT DOES THAT MEAN?]"
+msgstr "[ЧТО ЭТО ЗНАЧИТ?]"
+
+msgid "@niko_speak It means people who aren't kids!"
+msgstr "@niko_speak Это люди, которые уже не дети!"
+
+msgid "[KIDS?]"
+msgstr "[ДЕТИ?]"
+
+msgid "@niko ...er... aren't you a kid?"
+msgstr "@niko Ну... Ты разве не ребёнок?"
+
+msgid "[I AM A ROBOT.]"
+msgstr "[Я РОБОТ.]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed Да, точно..."
+

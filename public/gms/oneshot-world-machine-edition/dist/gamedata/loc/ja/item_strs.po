@@ -1,0 +1,459 @@
+msgid "1:name=lightbulb"
+msgstr "電球"
+
+msgid "1:description=A large lightbulb. It's the sun."
+msgstr "大きな電球。太陽だ。"
+
+msgid "2:name=television remote"
+msgstr "テレビのリモコン"
+
+msgid "2:description=It's too hard to read in the dark light."
+msgstr "暗い場所では文字が読めない。"
+
+msgid "3:name=bottle of alcohol"
+msgstr "アルコールのビン"
+
+msgid "3:description=The smell of the liquid is repugnant."
+msgstr "液体は不快な臭いがする。"
+
+msgid "4:name=dry branch"
+msgstr "乾いた枝"
+
+msgid "4:description=A flaky, dry branch from the bathroom plant."
+msgstr "浴室にある観葉植物の、パサパサに乾いた枝。"
+
+msgid "5:name=wet branch"
+msgstr "濡れた枝"
+
+msgid "5:description=The tip of the branch is soaked with alcohol."
+msgstr "枝の先はアルコールで濡れている。"
+
+msgid "6:name=torch"
+msgstr "たいまつ"
+
+msgid "6:description=Doesn't give off much light."
+msgstr "あまり明るくない。"
+
+msgid "7:name=basement key"
+msgstr "地下室の鍵"
+
+msgid "7:description=This thing looks old."
+msgstr "なんだか古めかしい。"
+
+msgid "8:name=camera"
+msgstr "カメラ"
+
+msgid "8:description=A broken camera with a large screwed-in lens."
+msgstr "大きなねじ込み式レンズがついた、壊れたカメラ。"
+
+msgid "9:name=screwdriver"
+msgstr "ドライバー"
+
+msgid "9:description=Phillips-head."
+msgstr "プラスのネジに対応。"
+
+msgid "10:name=lens"
+msgstr "レンズ"
+
+msgid "10:description=A large glass lens."
+msgstr "大きなガラスのレンズ。"
+
+msgid "11:name=empty bottle"
+msgstr "空ビン"
+
+msgid "11:description=The smell of alcohol lingers."
+msgstr "アルコールの臭いが残っている。"
+
+msgid "12:name=broken battery"
+msgstr "壊れたバッテリー"
+
+msgid "12:description=Apparently a battery.  It has some broken glass in it."
+msgstr "バッテリーのようだ。中に割れたガラスが入っている。"
+
+msgid "13:name=empty battery"
+msgstr "空のバッテリー"
+
+msgid "13:description=An intact, rechargable battery. Currently empty."
+msgstr "傷一つない充電式バッテリー。今は充電されてない。"
+
+msgid "14:name=charged battery"
+msgstr "充電済みバッテリー"
+
+msgid "14:description=A working, rechargable battery. Maximum power."
+msgstr "作動可能な充電式バッテリー。フルチャージ。"
+
+msgid "15:name=bottle of smoke"
+msgstr "煙入りビン"
+
+msgid "15:description=It's full of noxious fumes."
+msgstr "有毒ガスでいっぱいだ。"
+
+msgid "16:name=bottle of acid"
+msgstr "酸の入ったビン"
+
+msgid "16:description=It's full of a thick liquid acid."
+msgstr "粘っこい酸性の液体でいっぱいだ。"
+
+msgid "17:name=wet sponge"
+msgstr "濡れたスポンジ"
+
+msgid "17:description=Sponge soaked with acidic cleaning solution."
+msgstr "酸性の洗浄液が染み込んだスポンジ。"
+
+msgid "18:name=crowbar"
+msgstr "バールのようなもの"
+
+msgid "18:description=Makeshift crowbar made from a pipe."
+msgstr "パイプから作った、間に合わせのバールのようなもの。"
+
+msgid "19:name=metal rod"
+msgstr "鉄パイプ"
+
+msgid "19:description=It weighs surprisingly little."
+msgstr "驚くほど軽い。"
+
+msgid "20:name=sponge"
+msgstr "スポンジ"
+
+msgid "20:description=A flat sponge with a rough surface."
+msgstr "表面が粗い平らなスポンジ。"
+
+msgid "21:name=empty syringe"
+msgstr "空の注射器"
+
+msgid "21:description=The needle is particularly long."
+msgstr "針が非常に長い。"
+
+msgid "22:name=filled syringe"
+msgstr "中身が入っている注射器"
+
+msgid "22:description=It's full of the strange liquid from the pond."
+msgstr "池の奇妙な液体で満たされている。"
+
+msgid "23:name=amber"
+msgstr "琥珀"
+
+msgid "23:description=A piece of glowing amber with a black clover inside."
+msgstr "黒いクローバーが中に入った、輝く琥珀。"
+
+msgid "24:name=strange journal"
+msgstr "奇妙な日記"
+
+msgid "24:description=Found in the Barrens. It's written in an unknown language."
+msgstr "不毛の地で見つけた。謎の言語で書かれている。"
+
+msgid "25:name=feather"
+msgstr "羽根"
+
+msgid "25:description=A long and slender feather with glowing edges."
+msgstr "輪郭が輝く、長細い羽根。"
+
+msgid "26:name=bottle of dye"
+msgstr "染料のビン"
+
+msgid "26:description=A small vial filled with dark blue liquid used for dying wool."
+msgstr "紺色の液体で満たされた小さなビン。"
+
+msgid "27:name=tube of water"
+msgstr "水の管"
+
+msgid "27:description=The label says \"water sample\"."
+msgstr "ラベルには「水サンプル」と書かれている。"
+
+msgid "28:name=seed"
+msgstr "種"
+
+msgid "28:description=It's a seed apparently left behind by Maize."
+msgstr "メイズが残していった種のようだ。"
+
+msgid "29:name=wool"
+msgstr "羊毛"
+
+msgid "29:description=It's... kind of useless."
+msgstr "あまり…役に立たない。"
+
+msgid "30:name=feather pen"
+msgstr "羽根ペン"
+
+msgid "30:description=A pen made from dipping a feather into ink."
+msgstr "羽根をインクにつけて使うペン。"
+
+msgid "31:name=die"
+msgstr "サイコロ"
+
+msgid "31:description=A die with glowing dots."
+msgstr "目が光っているサイコロ。"
+
+msgid "32:name=button (?)"
+msgstr "ボタン（？）"
+
+msgid "32:description=A simple button made from a coffee tin."
+msgstr "コーヒー缶から作られたシンプルなボタン。"
+
+msgid "33:name=magnetized (?) button"
+msgstr "磁気を帯びた（？）ボタン"
+
+msgid "33:description=A button with magnets loosely attached."
+msgstr "磁石がゆるく付着したボタン。"
+
+msgid "34:name=taped button"
+msgstr "テープが貼られたボタン"
+
+msgid "34:description=The magnets are secured with tape."
+msgstr "磁石がテープで固定されている。"
+
+msgid "35:name=you tried"
+msgstr "よくやった"
+
+msgid "35:description=It's the thought that counts."
+msgstr "その意志が大事。"
+
+msgid "36:name=magnets"
+msgstr "磁石"
+
+msgid "36:description=An assortment of colorful magnets."
+msgstr "カラフルな磁石の詰め合わせ。"
+
+msgid "37:name=metal can"
+msgstr "金属缶"
+
+msgid "37:description=Made of aluminum. Says \"COFFEE GROUNDS\"."
+msgstr "アルミ製。「COFFEE GROUND」と書かれている。"
+
+msgid "38:name=scissors"
+msgstr "ハサミ"
+
+msgid "38:description=A pair of scissors found amidst hair."
+msgstr "髪の毛の中に埋もれていたハサミ。"
+
+msgid "39:name=weird film"
+msgstr "変なフィルム"
+
+msgid "39:description=A transparent sheet filled with numbers."
+msgstr "数字でいっぱいの透明なシート。"
+
+msgid "40:name=concave lens"
+msgstr "凹レンズ"
+
+msgid "40:description=A large lens, curved inward."
+msgstr "大きなレンズ、内側に湾曲している。"
+
+msgid "41:name=convex lens"
+msgstr "凸レンズ"
+
+msgid "41:description=A large lens, curved outward"
+msgstr "大きなレンズ、外側に湾曲している。"
+
+msgid "42:name=thin lens"
+msgstr "薄いレンズ"
+
+msgid "42:description=A delicately thin lens."
+msgstr "非常に薄いレンズ。"
+
+msgid "43:name=thick lens"
+msgstr "厚いレンズ"
+
+msgid "43:description=A large, thick lens."
+msgstr "大きく、分厚いレンズ。"
+
+msgid "44:name=glitter glue"
+msgstr "ラメ入りノリ"
+
+msgid "44:description=A small tube of pink glitter glue."
+msgstr "ピンクのラメが混ざったノリが入った、小さなチューブ。"
+
+msgid "45:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "45:description=Not a cat!"
+msgstr "ネコじゃないよ！"
+
+msgid "46:name=Kip's library card"
+msgstr "キップの図書館カード"
+
+msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
+msgstr "氏名欄には「キップ・シルバーポイント博士」と書かれている。"
+
+msgid "47:name=gas mask"
+msgstr "ガスマスク"
+
+msgid "47:description=A mask used to filter air for breathing."
+msgstr "息が吸えるよう、空気をフィルターするマスク。"
+
+msgid "48:name=rubber gloves"
+msgstr "ゴム手袋"
+
+msgid "48:description=Gloves designed to prevent chemical damage."
+msgstr "化学物質による怪我を防ぐための手袋。"
+
+msgid "49:name=boots"
+msgstr "ブーツ"
+
+msgid "49:description=These boots will make it possible to move quickly."
+msgstr "素早い動きを可能にするブーツ。"
+
+msgid "50:name=novelty T-shirt"
+msgstr "ノベルティTシャツ"
+
+msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
+msgstr "「羊の世話をして手に入れたのはこのちゃっちいTシャツだけ！」"
+
+msgid "51:name=\"Kip\" 's library card"
+msgstr "「キップ」の図書館カード"
+
+msgid "51:description=Library card from Kip. Niko's own photo is glued on."
+msgstr "キップの図書館カード。ニコの写真が貼り付けられている。"
+
+msgid "52:name=Library card (sticky)"
+msgstr "図書館カード（ベタベタ）"
+
+msgid "52:description=There's glitter glue all over her photo now..."
+msgstr "彼女の写真がラメ入りノリでベタベタに…"
+
+msgid "53:name=photo of Niko (sticky)"
+msgstr "ニコの写真（ベタベタ）"
+
+msgid "53:description=The back of the photo is covered in glitter glue."
+msgstr "写真の裏側にラメ入りノリが塗りたくられている…"
+
+msgid "54:name=DEBUG SAVE"
+msgstr "デバッグセーブ"
+
+msgid "54:description=USE THIS TO SAVE"
+msgstr "これを使ってセーブ"
+
+msgid "55:name=dirt"
+msgstr "土"
+
+msgid "55:description=A bag of dirt, for growing plants"
+msgstr "植物用の土が入った袋。"
+
+msgid "56:name=water pill"
+msgstr "ウォーターピル"
+
+msgid "56:description=Goes in water, supposedly."
+msgstr "恐らく、水に入れるのだろう。"
+
+msgid "57:name=medicated water"
+msgstr "薬用水"
+
+msgid "57:description=The water pill is dissolved in it."
+msgstr "ウォーターピルが中で溶けている。"
+
+msgid "58:name=clover"
+msgstr "クローバー"
+
+msgid "58:description=A black clover."
+msgstr "黒いクローバー。"
+
+msgid "59:name=empty tube"
+msgstr "空の管"
+
+msgid "59:description=An empty tube.  Used to hold water."
+msgstr "空の管。水を入れるために使われる。"
+
+msgid "60:name=bottle of pond water"
+msgstr "池の水が入ったビン"
+
+msgid "60:description=It has the consistency of glue."
+msgstr "ノリと同じ濃度。"
+
+msgid "61:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "61:description=Not a cat!"
+msgstr "ネコじゃないよ！"
+
+msgid "62:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "62:description=A backup!"
+msgstr "予備だ！"
+
+msgid "63:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "63:description=3rd time's the charm?"
+msgstr "3度目の正直？"
+
+msgid "64:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "64:description=This is kind of fun."
+msgstr "けっこう楽しいな。"
+
+msgid "65:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "65:description=Lookin' Good."
+msgstr "いい感じ。"
+
+msgid "66:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "66:description=Niko blinked in this one."
+msgstr "ニコがまばたきしちゃってる。"
+
+msgid "67:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "67:description=Nice."
+msgstr "いいね。"
+
+msgid "68:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "68:description=Very photogenic."
+msgstr "とっても写真写りがいい。"
+
+msgid "69:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "69:description=Can't have too much of a good thing!"
+msgstr "いいものはいくらあっても足りない！"
+
+msgid "70:name=photo of Niko"
+msgstr "ニコの写真"
+
+msgid "70:description=The ultimate photo."
+msgstr "究極の写真。"
+
+msgid "71:name=Key 1"
+msgstr "鍵1"
+
+msgid "72:name=Key 2"
+msgstr "鍵2"
+
+msgid "73:name=Key 3"
+msgstr "鍵3"
+
+msgid "74:name=glowing journal"
+msgstr "光る日記"
+
+msgid "74:description=It's glowing now...?"
+msgstr "何やら光りだしたぞ…？"
+
+msgid "75:name=memory disk"
+msgstr "メモリーディスク"
+
+msgid "75:description=A floppy disk."
+msgstr "フロッピーディスク。"
+
+msgid "76:name=memory disk (backup)"
+msgstr "メモリーディスク（バックアップ）"
+
+msgid "76:description=A floppy disk containing a backup."
+msgstr "バックアップが入ったフロッピーディスク。"
+
+msgid "77:name=charged battery"
+msgstr "充電済みバッテリー"
+
+msgid "77:description=A working, rechargable battery."
+msgstr "使用可能な充電式電池。"
+
+msgid "78:name=music box"
+msgstr "オルゴール"
+
+msgid "78:description=A wind-up music box."
+msgstr "ぜんまい式のオルゴール。"
+

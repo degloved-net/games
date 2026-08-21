@@ -1,0 +1,51 @@
+msgid "@ed [By the way, the effect is temporary.]"
+msgstr "@ed [아무튼 그 효과는 일시적인 것에 불과해.]"
+
+msgid "@ed [It will be gone once you no longer need it.]"
+msgstr "@ed [필요가 없어지면 사라질 거야.]"
+
+msgid "@ed [Still haven't figured it out?]"
+msgstr "@ed [아직도 모르겠어?]"
+
+msgid "@ed [...you remember the document, correct?]"
+msgstr "@ed [...그 문서를 기억하고 있겠지?]"
+
+msgid "@ed [This time it's even more obvious.]"
+msgstr "@ed [이번에는 더욱 알기 쉬울 거야.]"
+
+msgid "@ed [What's the most \\c[2]easily accessible\\c[0] place on your machine?]"
+msgstr "@ed [네 컴퓨터에서 \\c[2]가장 쉽게 접근할 수 있는\\c[0] 곳이 어디일까?]"
+
+msgid "@ed [Hello again, \\p.]"
+msgstr "@ed [\\p, 또 보는군.]"
+
+msgid "@ed [It seems I need to help you again.]"
+msgstr "@ed [아무래도 널 또 도와줘야 할 것 같네.]"
+
+msgid "@ed [Niko will not be able to progress otherwise.]"
+msgstr "@ed [안 그러면 니코가 진행을 할 수 없으니까.]"
+
+msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
+msgstr "@ed [이번에는 네 컴퓨터에서 가장 쉽게 접근할 수 있는 곳에 정보를 보내 뒀지.]"
+
+msgid "Do you see it?"
+msgstr "보여?"
+
+msgid "@ed [You'll know what to do with it, then.]"
+msgstr "@ed [그렇다면 그걸로 뭘 해야 할지 알 수 있을 거야.]"
+
+msgid "@ed [I know you're not exactly that bright for a god, \\p, but this shouldn't be difficult.]"
+msgstr "@ed [네가 신치고는 그리 똑똑하지 않다는 것쯤은 알고 있어, \\p. 하지만 이건 어렵지 않아.]"
+
+msgid "@ed [Just poke around a bit. It really isn't hard to miss.]"
+msgstr "@ed [그냥 여기저기 뒤져 봐. 쉽게 눈에 띌 테니까.]"
+
+msgid "@ed [...This...]"
+msgstr "@ed [...이건...]"
+
+msgid "@ed [How did you already know the answer?]"
+msgstr "@ed [어떻게 이미 답을 알고 있는 거야?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+

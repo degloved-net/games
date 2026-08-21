@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Эту комнату освещают светлячки."
+
+msgid "Squares are bad news, man. \\>\\nStay away from 'em, kids!"
+msgstr "Квадраты — это плохие новости. \\>\\nДержитесь от них подальше, ребята!"
+
+msgid "@alula We will!"
+msgstr "@alula Хорошо!"
+
+msgid "Stay away from the squares, okay?"
+msgstr "Держись подальше от квадратов, ладно?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "Last week, I saw more of those squares while out fishing."
+msgstr "На прошлой неделе во время рыбалки я снова видел эти квадраты."
+
+msgid "I knew better than to get too close, though."
+msgstr "Но у меня хватило ума не подходить слишком близко."
+
+msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
+msgstr "@alula_oh Ой! \\>\\@alula_pout Это была та штука в дверях..."
+
+msgid "Oh, so you saw it too, huh..."
+msgstr "О, ты тоже их видела..."
+
+msgid "@alula_oh Yeah! \\>\\@alula_pout My brother told me not to touch those!"
+msgstr "@alula_oh Да! \\>\\@alula_pout Мой брат велел мне их не трогать!"
+
+msgid "Yeup. He gets it."
+msgstr "Он правильно говорит."
+
+msgid "@niko Squares?"
+msgstr "@niko Квадраты?"
+
+msgid "Squares, man.\\nThey're bad news."
+msgstr "Квадраты, чувак.\\nЭто плохие новости."
+

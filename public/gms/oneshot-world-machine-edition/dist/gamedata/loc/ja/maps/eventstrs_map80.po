@@ -1,0 +1,78 @@
+msgid "[HELLO!]"
+msgstr "[どうモ！]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak こんばんは！"
+
+msgid "@niko What are you doing up there?"
+msgstr "@niko ここで何してるの？"
+
+msgid "[I AM STATIONED HERE.]"
+msgstr "[ここニ駐在していまス。]"
+
+msgid "@niko By yourself?"
+msgstr "@niko 君だけで？"
+
+msgid "[YES.]"
+msgstr "[はイ。]"
+
+msgid "@niko A picture of a robot."
+msgstr "@niko ロボットの写真。"
+
+msgid "@niko_speak ...Y'know, I've never been around so many robots before, \\p!"
+msgstr "@niko_speak …あのね、こんなにたくさんのロボットに\n会ったことなんて一度もなかったよ、\n\\p！"
+
+msgid "@niko Or...\\.\\. any robots at all..."
+msgstr "@niko と、言うか… \\.\\.\nロボットに会うこと自体、初めて…"
+
+msgid "@niko_speak I mean, I see them in cartoons and stuff, but I've never seen one in person!"
+msgstr "@niko_speak マンガとかでは見たことあるけどさ。\n実際に見るのは初めて！"
+
+msgid "@niko They're pretty neat, don't you think?"
+msgstr "@niko みんな、すごくカッコいいと思わない？"
+
+msgid "[\"Yeah.\", \"Hey Niko do a robot voice\"]"
+msgstr "[\"そうだな。\",\"ニコ、ロボットの声を真似するんだ。\"]"
+
+msgid "@niko Yeah!"
+msgstr "@niko うん！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_speak ...What?"
+msgstr "@niko_speak …えっ？"
+
+msgid "[\"Try talking like a robot!\"]"
+msgstr "[\"ロボットみたいに喋るんだ！\"]"
+
+msgid "@niko um..."
+msgstr "@niko あの…"
+
+msgid "@niko_eyeclosed *ahem*"
+msgstr "@niko_eyeclosed *ゴホン*"
+
+msgid "@niko [BEEEP BOOP]"
+msgstr "@niko [ビーッブーッ]"
+
+msgid "@niko_speak [I'M A ROBOT AND I...\\. EAT BATTERIES...\\. INSTEAD OF NORMAL PEOPLE FOOD!]"
+msgstr "@niko_speak [ワタシはロボットで… \\.フツウのヒトのタベモノじゃなくて…\n\\.バッテリーをタベマス！]"
+
+msgid "@niko_83c Hehe..."
+msgstr "@niko_83c えへへ…"
+
+msgid "[THAT IS NOT CORRECT.]"
+msgstr "[それハ間違っていまス。]"
+
+msgid "[ROBOTS DO NOT CONSUME BATTERIES IN THE SAME WAY PEOPLE CONSUME FOOD.]"
+msgstr "[ロボットハ、人間が食べ物を摂取するのと\n同じようにはバッテリーを摂取しませン。]"
+
+msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
+msgstr "[ソモソモ、ロボットには\n消化器官がありませン。]"
+
+msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
+msgstr "[口腔ガ備わっていないロボットもいまス。]"
+
+msgid "@niko \\p...\\. \\>\\@niko_eyeclosed you made me look silly..."
+msgstr "@niko \\p…\\. \\>\\@niko_eyeclosed ミーが馬鹿みたいじゃん…"
+

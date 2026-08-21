@@ -1,0 +1,69 @@
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [Você está testando minha paciência.]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [Quer mesmo a resposta?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sim\",\"Não\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [Quando você vê a película, ela enche toda sua janela para o nosso mundo, não é?]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [Acredito que você se refira ao que eu acabei de descrever como “arrastar”.]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [O vazio atravessa as fronteiras da sua visão.]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [Através do vazio e de volta outra vez...]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [Você veio desperdiçar mais o meu tempo?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [Ah...]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [Ainda não faz a menor ideia?]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [Imaginei.]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [Quer outra dica?]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [Há um vazio para além das quatro paredes que vinculam nosso mundo ao seu. As bordas da sua visão, onde tudo é obscurecido...]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [Sei que você sabe do que estou falando.]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [Passe a película pelo vazio e de volta.]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [Tudo bem, continue.]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [Eu não irei a lugar algum.]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [Procurando um código?]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [Você precisará disso em breve.]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [Pegue esta película e exponha-a ao vazio.]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [A resposta se revelará quando você o trouxer de volta.]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko O computador imprimiu uma folha transparente estranha..."
+
+msgid "@niko The screen is off."
+msgstr "@niko A tela está desligada."
+

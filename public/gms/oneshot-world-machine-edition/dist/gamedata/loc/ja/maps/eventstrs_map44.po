@@ -1,0 +1,54 @@
+msgid "@green_gatekeeper [Good luck.]"
+msgstr "@green_gatekeeper [幸運ヲ祈ル。]"
+
+msgid "@niko_eyeclosed \\p, I'm too tired to go on right now...\\>\\nPlease let me nap for a bit somewhere."
+msgstr "@niko_eyeclosed \\p、 もう疲れて動けないよ…\\>\\n少し、どこかでお昼寝してもいいかな。"
+
+msgid "@niko_eyeclosed I remember seeing a room to the west...\\>\\nIt looked like it might be a good place to take a rest."
+msgstr "@niko_eyeclosed 西のほうに部屋があった気がする…\\>\\n休むのにちょうどいいかも。"
+
+msgid "@niko_speak I found a pen! \\.\\.\\@niko Sort of."
+msgstr "@niko_speak ペンならあったよ！ \\.\\.\\@niko ちょっと違うけど。"
+
+msgid "@green_gatekeeper [Good.\\nPlease write your name here.]"
+msgstr "@green_gatekeeper [素晴ラシイ。\\nココニ名前ノ記入ヲ。]"
+
+msgid "@green_gatekeeper [Indeed You Do.]\\>\\n[But Are You Not Forgetting Something?]"
+msgstr "@green_gatekeeper [ソノ通リダ。]\\>\\n[ダガ、何カ忘レテイナイカ？]"
+
+msgid "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak Oh, the sun!"
+msgstr "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak あっ、太陽！"
+
+msgid "@green_gatekeeper [Have You Found Something To Write With?]"
+msgstr "@green_gatekeeper [書クモノハ見ツケタカ？]"
+
+msgid "@green_gatekeeper [The Sun...\\.\\. You're The Messiah!]"
+msgstr "@green_gatekeeper [ソノ太陽…\\.\\.オマエガ救世主カ！]"
+
+msgid "@green_gatekeeper [Are you on your way to the Tower?]"
+msgstr "@green_gatekeeper [塔ニ向カッテイルノカ？]"
+
+msgid "@green_gatekeeper [I saw you carrying the sun earlier.\\nYou're the messiah, then?\\nOn your way to the Tower?]"
+msgstr "@green_gatekeeper [先ホド、太陽ヲ持ッテイタナ。\\nオマエガ救世ダナ？\\n塔ニ向カッテイルノカ？]"
+
+msgid "@niko Mhm."
+msgstr "@niko うん。"
+
+msgid "@green_gatekeeper [You can enter the Refuge through this wall.\\nYou'll need to sign your name in this scroll first.]"
+msgstr "@green_gatekeeper [コノ壁カラ、避難所ニ入ルコトガデキル。\\nマズ、コノ巻物ニ署名ヲ。]"
+
+msgid "@niko Alright.\\.\\.\\n.\\..\\..Do you have a pen?"
+msgstr "@niko 分かった。\\.\\.\\n.\\..\\..ペン持ってる？"
+
+msgid "@green_gatekeeper [Umm.\\..\\..]"
+msgstr "@green_gatekeeper [ウーム\\.…\\.…]"
+
+msgid "@green_gatekeeper [...No.\\.\\. I've lost mine.]"
+msgstr "@green_gatekeeper […ナイ。\\.\\.紛失シタ。]"
+
+msgid "@green_gatekeeper [Perhaps you should look around the Glen for another.]"
+msgstr "@green_gatekeeper [峡谷デ探ストイイダロウ。]"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed 入り口がツタで覆われてるよ、 \\p…"
+

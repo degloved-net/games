@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [這裡有一支\\c[7]電視遙控器\\c[0]。]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [霓光把它撿起。]"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak 有、有人在嗎？"
+
+msgid "@niko ....."
+msgstr "@niko ……"
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [布滿灰塵的書。]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [太暗了，沒辦法看書。]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 無法開機。"
+
+msgid "Input Password:"
+msgstr "輸入密碼："
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]允許存取。"
+
+msgid "@desktop ..."
+msgstr "@desktop ……"
+
+msgid "@desktop You found me."
+msgstr "@desktop 你找到我了。"
+
+msgid "@desktop ....Why?"
+msgstr "@desktop ……為什麼現在才來？"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop 已經太遲了。\\n這世界已經所剩無幾了。"
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 等你到了外面\\n就會明白。"
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop 這個地方根本\\n不值得拯救。"
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop …你還是想試試？"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop 那就記住這件事："
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 你在這裡的行動\\n會影響霓光。"
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 你的「任務」就是\\n幫助霓光離開。"
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop 最重要的是……"
+
+msgid "You only have one shot, \\p."
+msgstr "\\p，你只有一次機會。"
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [霓光聽見門鎖打開的聲音。]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]存取拒絕。"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [霓光剛剛在這裡醒來。]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [門上鎖了。]"
+

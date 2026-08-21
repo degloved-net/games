@@ -1,0 +1,24 @@
+msgid "@niko A bunch of words are on the screen."
+msgstr "@niko 画面にたくさんの文字が並んでる。"
+
+msgid "@niko_eyeclosed I don't understand any of it..."
+msgstr "@niko_eyeclosed まったく分かんないや…"
+
+msgid "The luminescence index of liquid red phosphor decreased by a factor of 3.57% this past week."
+msgstr "この1週間で、液状赤色蛍光体の\n発光インデックスが3.57%減少した。"
+
+msgid "Alarming, to say the least... that's the sharpest decline I've seen, and the number is only increasing."
+msgstr "控えめに言っても、憂慮すべき数値だ…\nこれまで見た中で最も著しい減少である。\nそして今なお、悪化し続けている。"
+
+msgid "We will have to further concentrate the phosphor now, for it to be of any use."
+msgstr "利用可能な状態にするには、\n蛍光体をさらに濃縮する必要がある。"
+
+msgid "It's hard to believe, but there's a good chance this city could run out of light in as little as six months."
+msgstr "信じがたいことだが、早ければ6ヵ月以内に、\n街から光がなくなる可能性がある。"
+
+msgid "...What are we going to do?"
+msgstr "…一体どうすればいいというのだ？"
+
+msgid "If the city runs out of light, well...\\>\\nI don't want to think about what happens then."
+msgstr "もし街から光がなくなってしまったら、いや…\\>\\nその時のことなど、考えたくもない。"
+

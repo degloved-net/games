@@ -1,0 +1,36 @@
+msgid "@niko The world below looks so small..."
+msgstr "@niko 下面的世界看起來好小……"
+
+msgid "@niko_eyeclosed No turning back now..."
+msgstr "@niko_eyeclosed 到這邊就不能回頭了……"
+
+msgid "@niko_speak So this is where the sun belongs..."
+msgstr "@niko_speak 這就是放置太陽的地方嗎……"
+
+msgid "@niko2 If I put the sun in here, we'll be able to save the world, right?"
+msgstr "@niko2 把太陽放在這裡的話，就能拯救這個世界，對吧？"
+
+msgid "@niko ...but if I want to go home...\\> \\@niko_distressed I'll have to...\\> \\@niko_distressed_meow break it?"
+msgstr "@niko ……可是如果我要回家……\\> \\@niko_distressed 我就得……\\> \\@niko_distressed_meow 把它砸破？"
+
+msgid "@niko_sad Oh...."
+msgstr "@niko_sad 喔……"
+
+msgid "@niko_distressed2 ....\\p? \\>\\n\\@niko_distressed2 What should I... do?"
+msgstr "@niko_distressed2 ……\\p？\\>\\n\\@niko_distressed2 我該……怎麼辦？"
+
+msgid "What's the right thing to do?"
+msgstr "什麼是對的事情？"
+
+msgid "@niko_eyeclosed Y-You're right...\\>\\nI can't just leave everyone here to die."
+msgstr "@niko_eyeclosed 你……說得沒錯……\\>\\n我不能一走了之，讓這裡的大家死掉。"
+
+msgid "@niko Thank you for your help, \\p.\\>\\nI promise I'll be okay."
+msgstr "@niko \\p，謝謝你幫忙。\\>\\n我保證我會好好的。"
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits 謝謝您玩這個遊戲！"
+
+msgid "I...\\> trust your judgement, \\p."
+msgstr "我……\\>相信你的判斷，\\p。"
+

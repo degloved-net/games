@@ -1,0 +1,114 @@
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko В стене установлен тяжёлый кусок металла."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed Думаю, это какая-то дверь или хранилище."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko Тут в центре маленький экран."
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko Похоже, тут нужно ввести пароль."
+
+msgid "@niko That wasn't it..."
+msgstr "@niko Не сработало..."
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed Дверь заперта."
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 Над окошком, куда надо ввести пароль, написано «ДОКУМЕНТЫ»."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak Это какая-то дверь!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko На маленьком экране горит значок замка."
+
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [Ты испытываешь моё терпение.]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [Ты правда хочешь узнать ответ?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [Когда ты смотришь на плёнку, она полностью заполняет твоё окно в наш мир, так?]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [Кажется, вы называете описываемое мной действие словом «перетащить».]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [Пустота — за пределами твоего понимания.]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [Через пустоту и обратно...]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [Ты здесь для того, чтобы тратить моё время?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [Эх.]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [Всё ещё никаких мыслей?]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [Надо полагать.]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [Хочешь ещё подсказку?]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [За четырьмя стенами, которые связывают наш мир с вашим, находится пустота. Края твоей области просмотра, где всё затемнено...]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [Уверен, ты знаешь, о чём я говорю.]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [Протащи плёнку через пустоту и обратно.]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [Хорошо. Продолжай в том же духе.]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [Я никуда не тороплюсь.]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [Ищешь код, да?]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [Скоро тебе это понадобится.]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [Возьми эту плёнку и выстави в пустоту.]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [Ответ появится, когда ты перенесёшь её обратно.]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko Компьютер распечатал какой-то странный прозрачный лист..."
+
+msgid "@ed [So, you figured out the code without fully exposing the film.]"
+msgstr "@ed [Значит, тебе удалось узнать код, не выставляя полностью плёнку.]"
+
+msgid "@ed [Good for you.]"
+msgstr "@ed [Браво.]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [You didn't need my help for this puzzle.]"
+msgstr "@ed [В этой головоломке моя помощь не понадобилась.]"
+
+msgid "@ed [And yet you're still here talking to me?]"
+msgstr "@ed [И всё же ты тут со мной разговариваешь?]"
+
+msgid "@ed [How quaint.]"
+msgstr "@ed [Как нелепо.]"
+
+msgid "@niko The screen is off."
+msgstr "@niko Экран выключен."
+

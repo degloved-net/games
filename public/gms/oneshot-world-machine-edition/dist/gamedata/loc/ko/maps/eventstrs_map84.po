@@ -1,0 +1,123 @@
+msgid "Don't lose faith."
+msgstr "믿음을 잃어선 안 돼."
+
+msgid "Sigh..."
+msgstr "하아..."
+
+msgid "@niko You alright?"
+msgstr "@niko 괜찮으세요?"
+
+msgid "Ah, the messiah. Perhaps this is a sign."
+msgstr "아, 구원자인가. 이건 계시일지도 모르겠군."
+
+msgid "Tell me, do you think you can fix the world with the sun?"
+msgstr "말해 봐. 태양으로 세상을 바로잡을 수 있다고 생각해?"
+
+msgid "@niko_eyeclosed Honestly, I don't know..."
+msgstr "@niko_eyeclosed 솔직히, 저도 모르겠어요..."
+
+msgid "@niko I've been getting mixed messages..."
+msgstr "@niko 저도 이런저런 이야기를 듣다 보니 머릿속이 복잡하거든요..."
+
+msgid "I know."
+msgstr "그렇겠지."
+
+msgid "But what do YOU think?"
+msgstr "하지만, \"넌\" 어떻게 생각하니?"
+
+msgid "@niko I... think...."
+msgstr "@niko 저... 저는..."
+
+msgid "@niko_speak ...I think I should listen to \\p!"
+msgstr "@niko_speak ...전 \\p 님의 말을 들어야 한다고 생각해요!"
+
+msgid "@niko After all, \\p helped me get this far."
+msgstr "@niko \\p 님의 도움을 받아 여기까지 왔으니까요."
+
+msgid "I will take your faith for an answer, then."
+msgstr "그럼, 너의 그런 믿음을 대답으로 생각할게."
+
+msgid "@niko What do you mean by that?"
+msgstr "@niko 그게 무슨 뜻인가요?"
+
+msgid "It means whatever you think it means."
+msgstr "네가 생각하는 그 뜻이야."
+
+msgid "[BEEP BOOP]"
+msgstr "[삑, 삐빅]"
+
+msgid "@niko Beep boop."
+msgstr "@niko 삑, 삐빅."
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko 엘리베이터의 버튼 판이에요."
+
+msgid "@niko This elevator goes back up to the catwalks."
+msgstr "@niko 이 엘리베이터는 위의 통로로 올라가요."
+
+msgid "@niko_speak We'll need to press the button if we wanna go back up!"
+msgstr "@niko_speak 위로 돌아가려면 버튼을 눌러야 해요!"
+
+msgid "@plight Anyway, it was nice meeting you... uh..."
+msgstr "@plight 어쨌든, 만나서 반가웠어... 어... 이름이..."
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak 니코예요!"
+
+msgid "@plight ...Right. See you around, kid."
+msgstr "@plight ...그렇구나. 나중에 보자, 꼬마야."
+
+msgid "@plight Gotta run now!"
+msgstr "@plight 난 그만 가 봐야겠다!"
+
+msgid "@niko He seems in a hurry..."
+msgstr "@niko 급한가 봐요..."
+
+msgid "@niko I guess we should hurry too, \\p."
+msgstr "@niko 우리도 서둘러야겠네요, \\p 님."
+
+msgid "@niko_speak People are counting on us!"
+msgstr "@niko_speak 사람들이 우리에게 의지하고 있으니까요!"
+
+msgid "@niko Let's go find that library."
+msgstr "@niko 그 도서관이란 곳을 찾아봐요."
+
+msgid "@niko It's locked from the inside."
+msgstr "@niko 안쪽에서 잠겼어요."
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[저녁 뉴스입니다! 저녁 뉴스입니다!]"
+
+msgid "[ARE YOU HERE TO PURCHASE A COPY?]"
+msgstr "[신문을 사러 오셨나요?]"
+
+msgid "@niko ...No?"
+msgstr "@niko ...아닌데?"
+
+msgid "@niko_speak Newspapers are for grown-ups!"
+msgstr "@niko_speak 신문은 어른들이 읽는 거잖아!"
+
+msgid "[GROWN... UPS?]"
+msgstr "[어른...이요?]"
+
+msgid "@niko Yeah!"
+msgstr "@niko 네!"
+
+msgid "[WHAT DOES THAT MEAN?]"
+msgstr "[그게 무슨 뜻이지요?]"
+
+msgid "@niko_speak It means people who aren't kids!"
+msgstr "@niko_speak 어린이가 아닌 사람 말이야!"
+
+msgid "[KIDS?]"
+msgstr "[어린이요?]"
+
+msgid "@niko ...er... aren't you a kid?"
+msgstr "@niko ...너... 어린이 아니니?"
+
+msgid "[I AM A ROBOT.]"
+msgstr "[전 로봇입니다.]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed 그렇구나..."
+

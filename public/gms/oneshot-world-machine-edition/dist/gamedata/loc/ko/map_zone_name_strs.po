@@ -1,0 +1,12 @@
+msgid "Blue=The Barrens"
+msgstr "불모지"
+
+msgid "Green=The Glen"
+msgstr "협곡"
+
+msgid "Red=The Refuge"
+msgstr "난민 지구"
+
+msgid "RedGround=The Refuge (Surface)"
+msgstr "난민 지구(지상층)"
+

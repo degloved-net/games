@@ -1,0 +1,51 @@
+msgid "@niko It's a box of medical tools."
+msgstr "@niko È una scatola con strumenti medici."
+
+msgid "@niko Most of them are broken or rusted beyond use, but..."
+msgstr "@niko La maggior parte sono rotti o troppo arrugginiti per essere usati, ma..."
+
+msgid "@niko_speak This plastic syringe seems to be okay."
+msgstr "@niko_speak ...questa siringa di plastica sembra essere intatta."
+
+msgid "[HELLO, PERSON!]"
+msgstr "[SALVE, PERSONA!]"
+
+msgid "[ARE YOU SEEKING ADMISSION INTO THE INFIRMARY?]"
+msgstr "[STAI CERCANDO DI ENTRARE NELL'INFERMERIA?]"
+
+msgid "@niko No?"
+msgstr "@niko No...?"
+
+msgid "[OH. CARRY ON, THEN.]"
+msgstr "[OH. VA BENE ALLORA.]"
+
+msgid "[HELLO, PERSON OF ORGANIC MAKEUP!]"
+msgstr "[SALVE, PERSONA COSTITUITA DA COMPONENTI ORGANICI!]"
+
+msgid "[WELCOME TO THE INFIRMARY]"
+msgstr "[BENVENUTO NELL'INFERMERIA.]"
+
+msgid "[SCANNING FOR INJURIES...]"
+msgstr "[CONTROLLO PER FERITE...]"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "@niko Um..."
+msgstr "@niko Ehm..."
+
+msgid "[SCAN COMPLETE]"
+msgstr "[CONTROLLO COMPLETATO.]"
+
+msgid "[INJURIES DETECTED: NONE]"
+msgstr "[FERITE INDIVIDUATE: NESSUNA.]"
+
+msgid "[TREATMENT REQUIRED: NONE]"
+msgstr "[TRATTAMENTI NECESSARI: NESSUNO.]"
+
+msgid "[YOU ARE GOOD TO GO.]"
+msgstr "[PUOI ANDARE.]"
+
+msgid "@niko Er... thanks?"
+msgstr "@niko Ehm... Grazie?"
+

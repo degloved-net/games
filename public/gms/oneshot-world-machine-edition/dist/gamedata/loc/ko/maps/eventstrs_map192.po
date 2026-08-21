@@ -1,0 +1,42 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 반딧불 두어 마리가 병 안에서 날아다니고 있어요."
+
+msgid "[I AM THE GENERATOR MAINTENANCE UNIT.]"
+msgstr "[전 발전기 유지보수 로봇입니다.]"
+
+msgid "[EVERYTHING IS FINE HERE.]"
+msgstr "[모든 것이 정상입니다.]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[이것은 협곡의 주 발전기입니다.]"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak 아아앗!"
+
+msgid "@niko \\p and I actually fixed one of these earlier, in that place across the ocean..."
+msgstr "@niko \\p 님과 제가 전에 바다 건너편에서 비슷한 걸 고친 적이 있어요..."
+
+msgid "[THIS GENERATOR DOES NOT NEED TO BE FIXED RIGHT NOW.]"
+msgstr "[이 발전기는 지금 고칠 필요가 없습니다]"
+
+msgid "@niko Right... You guys already have power and all..."
+msgstr "@niko 맞아요... 여러분은 모두 동력이 있으니까요..."
+
+msgid "@niko A generator."
+msgstr "@niko 발전기예요."
+
+msgid "@niko_speak This one's got a working battery!"
+msgstr "@niko_speak 여기 작동하는 배터리가 있어요!"
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak \\p 님! 전 또 감전되기 싫다고요!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 아얏!"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed 방금 감전됐어요..."
+

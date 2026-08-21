@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [Il y a une \\c[7]télécommande d'une télévision\\c[0] ici.]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [Niko prend l'objet.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak B-Bonjour ?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [Des livres poussiéreux.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [Il fait trop sombre pour lire quoi que ce soit.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko Ça ne s'allume pas."
+
+msgid "Input Password:"
+msgstr "Saisissez le mot de passe :"
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]Accès autorisé."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop Vous m'avez trouvé."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop .... Pourquoi ?"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop Vous arrivez trop tard.\\nIl ne reste déjà plus\\ngrand-chose de ce monde."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop Vous vous en rendrez compte\\nà la minute où vous\\nsortirez d'ici."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop Cet endroit n'a jamais été\\ndigne d'être sauvé."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop ... Voulez-vous tout\\nde même essayer ?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop Dans ce cas,\\nsouvenez-vous de ceci :"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop Vos actions\\naffecteront Niko."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop Votre « mission » est\\nd'aider Niko à partir."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop Et plus important encore..."
+
+msgid "You only have one shot, \\p."
+msgstr "Vous n'aurez qu'une seule chance, \\p."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [Niko entend le bruit d'une serrure qui s'ouvre.]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]Accès refusé."
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [Niko vient de se réveiller ici.]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [La porte est verrouillée.]"
+

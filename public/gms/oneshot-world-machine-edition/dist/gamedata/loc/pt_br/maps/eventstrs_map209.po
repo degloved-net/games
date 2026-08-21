@@ -1,0 +1,51 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak É um ensopado de peixe!"
+
+msgid "@niko A fishing pole."
+msgstr "@niko Uma vara de pesca."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp Meu irmão também sabe pescar!"
+
+msgid "@alula But I don't!"
+msgstr "@alula Mas eu não!"
+
+msgid "@niko Same!"
+msgstr "@niko Nem eu!"
+
+msgid "@niko An empty jar."
+msgstr "@niko Um pote vazio."
+
+msgid "@niko A jar of worms."
+msgstr "@niko Um pote de minhocas."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed Eca!"
+
+msgid "Oh, hello, messiah."
+msgstr "Ah, olá, messias."
+
+msgid "Would you like some stew?"
+msgstr "Quer um pouco de ensopado?"
+
+msgid "I made enough to feed a whole village!"
+msgstr "Tem quantidade para alimentar uma aldeia inteira!"
+
+msgid "...literally!"
+msgstr "... literalmente!"
+
+msgid "@niko_speak It's ok, thanks!"
+msgstr "@niko_speak Estou bem, valeu!"
+
+msgid "Looks like the Glen is deteriorating faster than ever, now..."
+msgstr "Parece que o Vale está deteriorando mais rápido do que nunca..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Estão cheios de peixinhos secos."
+
+msgid "@niko6 At least... I think it's fish!"
+msgstr "@niko6 Pelo menos... eu acho que é de peixe!"
+
+msgid "@niko_eyeclosed They look kinda like snakes..."
+msgstr "@niko_eyeclosed Parecem umas cobras..."
+

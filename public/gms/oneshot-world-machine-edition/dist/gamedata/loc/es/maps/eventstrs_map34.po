@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko Un bote con algún tipo de cereal dentro."
+
+msgid "@niko This looks like flour!"
+msgstr "@niko ¡Parece harina!"
+
+msgid "@niko Oats."
+msgstr "@niko Avena."
+
+msgid "@niko Heads of wheat."
+msgstr "@niko Espigas de trigo."
+
+msgid "A cat does sound nice..."
+msgstr "Un gato suena bien..."
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "Quizás le pida a mi primo que me consiga uno en la ciudad."
+
+msgid "He just moved there."
+msgstr "Acaba de mudarse aquí."
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "Se acabó... nos hemos quedado sin cereales..."
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "Y ahora tenemos un problema de plagas..."
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko ¿Podrías conseguir algún gato?"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed No es que yo sea un gato, lo que quiero decir es..."
+
+msgid "@alula What's a cat?"
+msgstr "@alula ¿Qué es un gato?"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed ¡Algo que yo no soy!"
+
+msgid "@alula ?"
+msgstr "@alula ¿?"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak ¡Es un animal de cuatro patas que caza ratas y ratones!"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp ¿Como un zorro?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Supongo..."
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak ¡Los zorros molan!"
+

@@ -1,0 +1,81 @@
+msgid "@niko A stapler."
+msgstr "@niko Une agrafeuse."
+
+msgid "@niko_speak It's bolted to the table..."
+msgstr "@niko_speak Vissée à la table..."
+
+msgid "[I AM THE POWER ROOM MECHANIC.]"
+msgstr "[JE SUIS LE MÉCANICIEN DE LA SALLE D'ALIMENTATION.]"
+
+msgid "[DO YOU HAVE AN ISSUE TO REPORT?]"
+msgstr "[AVEZ-VOUS UN PROBLÈME À SIGNALER ?]"
+
+msgid "@niko Do you know anything about an elevator code?"
+msgstr "@niko Vous avez des informations sur un code d'ascenseur ?"
+
+msgid "[ELEVATOR CODE...]"
+msgstr "[CODE D'ASCENSEUR...]"
+
+msgid "[COMMAND NOT RECOGNIZED]"
+msgstr "[COMMANDE INCONNUE]"
+
+msgid "@niko_eyeclosed Well, worth a shot."
+msgstr "@niko_eyeclosed Ça valait le coup d'essayer."
+
+msgid "@niko Yeah, actually..."
+msgstr "@niko À vrai dire, oui..."
+
+msgid "@niko_speak The surface access elevator appears to be broken!"
+msgstr "@niko_speak L'ascenseur permettant de remonter à la surface semble défectueux !"
+
+msgid "@niko There's a button missing, and..."
+msgstr "@niko Il manque un bouton, et..."
+
+msgid "@niko_speak Can you go take a look?"
+msgstr "@niko_speak Tu peux y jeter un œil ?"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "[LEAVING THIS ROOM IS NOT IN MY PROGRAMMING.]"
+msgstr "[QUITTER CETTE PIÈCE NE FAIT PAS PARTIE DE MA PROGRAMMATION.]"
+
+msgid "@niko_eyeclosed Ah, nevermind..."
+msgstr "@niko_eyeclosed Ah, laisse tomber."
+
+msgid "[I AM ONLY ABLE TO FIX ISSUES IN THIS BUILDING.]"
+msgstr "[JE PEUX UNIQUEMENT RÉSOUDRE LES PROBLÈMES DANS CE BÂTIMENT.]"
+
+msgid "[SORRY FOR THE INCONVENIENCE.]"
+msgstr "[VEUILLEZ M'EXCUSER POUR LE DÉSAGRÉMENT.]"
+
+msgid "@niko It's okay..."
+msgstr "@niko Ce n'est pas grave..."
+
+msgid "$They are just bolted so people won't steal them."
+msgstr "$Ils sont vissés pour que les gens ne les volent pas."
+
+msgid "$Feel free to use, though!"
+msgstr "$Ceci dit, n'hésite pas à t'en servir !"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko Un genre de terminal informatique..."
+
+msgid "@niko A tape dispenser."
+msgstr "@niko Un rouleau de ruban adhésif."
+
+msgid "@niko Oh, of course! I gotta tape it together or it might fall apart."
+msgstr "@niko Bon sang, mais bien sûr ! Il faut que je le recolle pour qu'il ne s'effondre pas."
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak Bonne idée, \\p !"
+
+msgid "@niko Oh, I could hold it together with tape."
+msgstr "@niko Oh, je pourrais le fixer avec du ruban adhésif."
+
+msgid "@niko_eyeclosed I should've done this in the first place..."
+msgstr "@niko_eyeclosed J'aurais dû commencer par ça..."
+
+msgid "@niko If I cut off a piece of tape to keep it would just lose its stickiness."
+msgstr "@niko Si je prends un morceau d'adhésif avec moi, il ne collera plus au bout d'un moment."
+

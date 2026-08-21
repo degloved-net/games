@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd Alors..."
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd Comme on se retrouve."
+
+msgid "@niko Hello..."
+msgstr "@niko Bonjour..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak Attendez !"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko Vous êtes... du village, non ?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd Oui, mais les béliers sont partout.\\>\\nDans le village, en ville..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd Même...\\.\\. dans ton cœur."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ... D'accord."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd Si les béliers devaient porter des chaussures..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd Ils porteraient des... \\.tongs."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ... Je ne comprends pas."
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd Je présidais le site wiki du club BÉLIER..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ... Mais les pages ne marchaient pas souvent, à cause des béliers qui sortaient de la salle des serveurs."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ... Quoi ?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd 404 bélier introuvable."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed Je ne comprends pas ce que vous voulez dire."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd Pfff. J'arrête avec mes blagues."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd Je ne peux pas m'en empêcher...\\n\\>\\@shepherd ... elles étaient méééééééédiocres."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c Ah celle-là je l'ai comprise !"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Aïe !"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd Attention, ne touche pas les béliers frileux...\\.\\.\\nSinon tu risques de te faire encorner..."
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd DE GLACE !"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed Y a pas de « mééé »..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed C'est... bon de vous revoir..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak Ce bélier ne réagit pas du tout..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko Par contre, c'est écrit « mééé » sur sa laine."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd Alors ce n'est pas un bélier."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd Mais un...\\.\\. mééélier."
+
+msgid "@niko I... see..."
+msgstr "@niko Je... vois..."
+
+msgid "@niko An electric kettle."
+msgstr "@niko Une bouilloire électrique."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko De l'eau est en train de chauffer."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd Ah, oui, c'est bientôt l'heure de manger."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd Tu prendras bien un peu de..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.Méééchoui ?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed Non... merci..."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd Remarque, je crois que j'ai fini le méchoui."
+

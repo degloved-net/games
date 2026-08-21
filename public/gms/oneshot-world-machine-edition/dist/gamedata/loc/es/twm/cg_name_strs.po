@@ -1,0 +1,264 @@
+msgid "cg_wake1=Wake"
+msgstr "Despertar"
+
+msgid "cg_wake2=Wake"
+msgstr "Despertar"
+
+msgid "cg_wake3=Wake"
+msgstr "Despertar"
+
+msgid "cg_wake4=Wake"
+msgstr "Despertar"
+
+msgid "cg_wake5=Wake"
+msgstr "Despertar"
+
+msgid "cg_desktop=Desktop"
+msgstr "Escritorio"
+
+msgid "b0=Basement"
+msgstr "Sótano"
+
+msgid "b1=Basement"
+msgstr "Sótano"
+
+msgid "b2=Basement"
+msgstr "Sótano"
+
+msgid "b3=Basement"
+msgstr "Sótano"
+
+msgid "b4=Basement"
+msgstr "Sótano"
+
+msgid "b5=Basement"
+msgstr "Sótano"
+
+msgid "b6=Basement"
+msgstr "Sótano"
+
+msgid "b7=Basement"
+msgstr "Sótano"
+
+msgid "b8=Basement"
+msgstr "Sótano"
+
+msgid "b9=Basement"
+msgstr "Sótano"
+
+msgid "cg_door1=Door"
+msgstr "Puerta"
+
+msgid "cg_door2=Door"
+msgstr "Puerta"
+
+msgid "cg_blue=Barrens Reveal"
+msgstr "Revelación de Los Baldíos"
+
+msgid "cg_map=Map of the World"
+msgstr "Mapa del Mundo"
+
+msgid "cg_amber=Amber Pendant"
+msgstr "Colgante de Ámbar"
+
+msgid "cg_boat1=Rowbot"
+msgstr "Remobot"
+
+msgid "cg_boat2=Rowbot"
+msgstr "Remobot"
+
+msgid "cg_boat3=Rowbot"
+msgstr "Remobot"
+
+msgid "cg_green=Glen Reveal"
+msgstr "Revelación del Valle"
+
+msgid "cg_afeather=Feather"
+msgstr "Pluma"
+
+msgid "cg_red=Refuge Reveal"
+msgstr "Revelación del Refugio"
+
+msgid "cg_adice=Dice"
+msgstr "Dados"
+
+msgid "cg_tower1=Tower"
+msgstr "Torre"
+
+msgid "cg_tower2=Tower"
+msgstr "Torre"
+
+msgid "cg_tower3=Tower"
+msgstr "Torre"
+
+msgid "cg_tower4=Tower"
+msgstr "Torre"
+
+msgid "cg_tower5=Tower"
+msgstr "Torre"
+
+msgid "choice00=Choice"
+msgstr "Decisión"
+
+msgid "remember5=Memory"
+msgstr "Memoria"
+
+msgid "cg_credits1=Credits"
+msgstr "Créditos"
+
+msgid "cg_credits1B=Credits"
+msgstr "Créditos"
+
+msgid "cg_credits2=Credits"
+msgstr "Créditos"
+
+msgid "cg_credits3=Credits"
+msgstr "Créditos"
+
+msgid "cg_credits4=Credits"
+msgstr "Créditos"
+
+msgid "cg_credits5=Credits"
+msgstr "Créditos"
+
+msgid "sol_journal_glow1=Journal"
+msgstr "Diario"
+
+msgid "sol_journal_glow2=Journal"
+msgstr "Diario"
+
+msgid "sol_mine1=Minecart"
+msgstr "Vagón"
+
+msgid "sol_mine2=Minecart"
+msgstr "Vagón"
+
+msgid "sol_mine3=Minecart"
+msgstr "Vagón"
+
+msgid "sol_mine4=Minecart"
+msgstr "Vagón"
+
+msgid "sol_mine5=Minecart"
+msgstr "Vagón"
+
+msgid "sol_glenboat1=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat2=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat3=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat4=Boat"
+msgstr "Barca"
+
+msgid "sol_flight1=Flight"
+msgstr "Vuelo"
+
+msgid "sol_flight2=Flight"
+msgstr "Vuelo"
+
+msgid "sol_flight3=Flight"
+msgstr "Vuelo"
+
+msgid "sol_flight4=Flight"
+msgstr "Vuelo"
+
+msgid "sol_rue=Rue"
+msgstr "Rue"
+
+msgid "cg_dream1_1=Dream 1"
+msgstr "Sueño 1"
+
+msgid "cg_dream1_2=Dream 1"
+msgstr "Sueño 1"
+
+msgid "cg_dream1_3=Dream 1"
+msgstr "Sueño 1"
+
+msgid "cg_dream1_4=Dream 1"
+msgstr "Sueño 1"
+
+msgid "cg_dream2_1=Dream 2"
+msgstr "Sueño 2"
+
+msgid "cg_dream2_2=Dream 2"
+msgstr "Sueño 2"
+
+msgid "cg_dream2_3=Dream 2"
+msgstr "Sueño 2"
+
+msgid "cg_dream2_4=Dream 2"
+msgstr "Sueño 2"
+
+msgid "cg_dream2_5=Dream 2"
+msgstr "Sueño 2"
+
+msgid "cg_dream3_1=Dream 3"
+msgstr "Sueño 3"
+
+msgid "cg_dream3_2=Dream 3"
+msgstr "Sueño 3"
+
+msgid "cg_dream3_3=Dream 3"
+msgstr "Sueño 3"
+
+msgid "cg_dream3_4=Dream 3"
+msgstr "Sueño 3"
+
+msgid "cg_dream4_1=Dream 4"
+msgstr "Sueño 4"
+
+msgid "cg_dream4_2=Dream 4"
+msgstr "Sueño 4"
+
+msgid "cg_dream4_3=Dream 4"
+msgstr "Sueño 4"
+
+msgid "cg_dream4_4=Dream 4"
+msgstr "Sueño 4"
+
+msgid "cg_dream5_1=Dream 5"
+msgstr "Sueño 5"
+
+msgid "cg_dream5_2=Dream 5"
+msgstr "Sueño 5"
+
+msgid "cg_dream5_3=Dream 5"
+msgstr "Sueño 5"
+
+msgid "cg_dream5_4=Dream 5"
+msgstr "Sueño 5"
+
+msgid "book_clover=Clover"
+msgstr "Trébol"
+
+msgid "book_dice=Dice"
+msgstr "Dados"
+
+msgid "book_fauna=Fauna"
+msgstr "Fauna"
+
+msgid "book_phosphor1=Phosphor 1"
+msgstr "Fósforo 1"
+
+msgid "book_phosphor2=Phosphor 2"
+msgstr "Fósforo 2"
+
+msgid "book_phosphor3=Phosphor 3"
+msgstr "Fósforo 3"
+
+msgid "book_phosphor4=Phosphor 4"
+msgstr "Fósforo 4"
+
+msgid "book_prophet=Prophet"
+msgstr "Profeta"
+
+msgid "book_prophetbot=ProphetBot"
+msgstr "ProfetaBot"
+
+msgid "book_sketch=Sketch"
+msgstr "Boceto"
+

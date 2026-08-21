@@ -1,0 +1,12 @@
+msgid "@niko_eyeclosed It's full..."
+msgstr "@niko_eyeclosed 가득 차 있어요..."
+
+msgid "@niko Some of the trash spilled out on the floor."
+msgstr "@niko 쓰레기가 넘쳐서 바닥에 떨어졌어요."
+
+msgid "@niko Looks like an old phone."
+msgstr "@niko 낡은 전화기 같아요."
+
+msgid "@niko A small tree."
+msgstr "@niko 작은 나무예요."
+

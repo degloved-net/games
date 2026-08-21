@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko エレベーターのボタンパネルだ。"
+
+msgid "@niko_what Huh, there aren't any buttons..."
+msgstr "@niko_what はあ、ボタンがない…"
+
+msgid "@plight_why Yuuup, that's a problem."
+msgstr "@plight_why だろ、それが問題なんだ。"
+
+msgid "@plight_2b There's usually a big button here that says \"GROUND\" on it."
+msgstr ""
+"@plight_2b 普段ならここに大きなボタンがあるはず\n"
+"なんだがな、「GROUND」って書かれた。"
+
+msgid "@plight_2b Y'know, cuz it takes you to the ground area."
+msgstr ""
+"@plight_2b あれだ、そういう名前なのは地上まで\n"
+"連れて行ってくれるからだな。"
+
+msgid "@plight_wtf But now it's been ripped out? Or something?"
+msgstr ""
+"@plight_wtf でも今はそれがむしり取られて…いるのか？\n"
+"よく分からない。"
+
+msgid "@plight_2 I tried looking everywhere for it, to no avail."
+msgstr "@plight_2 探し回ったけど、無駄だった。"
+
+msgid "@plight_worry M...maybe it exploded..."
+msgstr "@plight_worry ば…爆発したのかも…"
+
+msgid "@niko_speak Do you think we'll have to make a new one?"
+msgstr "@niko_speak 新しいのを作らないとダメかな？"
+
+msgid "@plight_worry ...what?"
+msgstr "@plight_worry …えっ？"
+
+msgid "@plight_worry How?"
+msgstr "@plight_worry どうやって？"
+
+msgid "@niko We'll figure it out!"
+msgstr "@niko きっと何とかなるよ！"
+
+msgid "@niko That man said something about magnets, but I don't see a way to fit these in the panel by themselves."
+msgstr ""
+"@niko あの人が磁石がどうのって言ってたけど、\n"
+"磁石をパネルに\n"
+"はめ込む方法が思いつかないよ。"
+
+msgid "@niko The button fits snugly in the slot, but..."
+msgstr "@niko ボタンはぴったり収まるけど…"
+
+msgid "@niko I'm not sure how to \"connect\" it."
+msgstr "@niko 「接続」の仕方が分からないや。"
+
+msgid "@plight Hmm..."
+msgstr "@plight うーん…"
+
+msgid "@plight All I know is that the button works by some kind of magnetic technology."
+msgstr ""
+"@plight おれに分かるのは、ボタンは\n"
+"何らかの磁気技術で動くってことぐらいだ。"
+
+msgid "@plight_why ...Don't ask me how magnets work, though. I didn't even finish high school..."
+msgstr ""
+"@plight_why …磁石の仕組みについては\n"
+"聞かないでくれ。高校すら\n"
+"卒業してないんだ…"
+
+msgid "@niko_speak Alright, let's hope this works!"
+msgstr "@niko_speak よし、うまくいくといいね！"
+
+msgid "@niko The button fits snugly, and..."
+msgstr "@niko ボタンはぴったり収まったよ、で…"
+
+msgid "@niko_speak I think I hear the machine powering on!"
+msgstr "@niko_speak 電源の入る音が聞こえる！"
+
+msgid "@niko_what ..."
+msgstr "@niko_what …"
+
+msgid "@niko_what The button completely fell apart!"
+msgstr "@niko_what ボタンがバラバラになった！"
+
+msgid "@plight_2b Hey, you tried."
+msgstr "@plight_2b まあ、よく頑張ったよ。"
+
+msgid "@niko Let's hope this works..."
+msgstr "@niko うまくいくといいな…"
+
+msgid "[REACTIVATING ELEVATOR SERVICES.\\|.\\|.]"
+msgstr "[エレベーターを再起動中.\\|.\\|.]"
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE]"
+msgstr "[続行するにはセキュリティーコードの入力が必要。]"
+
+msgid "@plight_shock ...What?"
+msgstr "@plight_shock …えっ？"
+
+msgid "@plight_wtf That's... never happened before."
+msgstr "@plight_wtf こんな…こんなことは初めてだ。"
+
+msgid "@niko_speak The... squares?"
+msgstr "@niko_speak …四角形のこと？"
+
+msgid "@plight_worry Huh?"
+msgstr "@plight_worry え？"
+
+msgid "@niko_speak You saw them, right?"
+msgstr "@niko_speak 見たでしょ？"
+
+msgid "@niko They were on the door, and..."
+msgstr "@niko ドアのとこに出てきて、それで…"
+
+msgid "@plight_2b Oh, nah. The square stuff happens all the time."
+msgstr "@plight_2b ああ、いや。あの四角形はいつものことだよ。"
+
+msgid "@plight I meant the whole \"security code\" thing."
+msgstr ""
+"@plight おれが言ってるのは\n"
+"「セキュリティーコード」のことさ。"
+
+msgid "@plight But then again, the elevator hasn't been this broken before..."
+msgstr ""
+"@plight でも考えてみれば、エレベーターがこんなふうに\n"
+"壊れたのは初めてだしな…"
+
+msgid "@niko Hmmm...."
+msgstr "@niko うーん…"
+
+msgid "@niko_speak I guess we should go look for a code, \\p..."
+msgstr ""
+"@niko_speak コードを探しに行ったほうがいいかもね、\n"
+"\\p…"
+
+msgid "@niko_eyeclosed That's not gonna work..."
+msgstr "@niko_eyeclosed これじゃダメだ…"
+
+msgid "@niko Hmmm..."
+msgstr "@niko うーん…"
+
+msgid "@niko_speak If it's been ripped out, how come there aren't any broken wires inside the empty slot?"
+msgstr ""
+"@niko_speak むしり取られたのなら、どうして中に\n"
+"千切れた線とかが残ってないんだろう？"
+
+msgid "@plight Well, I'm no engineer, but...."
+msgstr "@plight まあ、おれは技術者じゃないが…"
+
+msgid "@plight_2b It's powered by some kind of magnetic technology, I know this much."
+msgstr ""
+"@plight_2b 何らかの磁気技術によって動いてる、\n"
+"ということくらいは分かる。"
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE.]"
+msgstr ""
+"[続行するにはセキュリティーコードを\n"
+"入力してください。]"
+
+msgid "@plight_shock What!"
+msgstr "@plight_shock うそだろ！"
+
+msgid "@plight_shock It works!"
+msgstr "@plight_shock うまくいった！"
+
+msgid "@plight_shock I don't know what you did, but it actually works!"
+msgstr ""
+"@plight_shock 何をしたのかは知らないが、\n"
+"とにかく動いたぞ！"
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry …"
+
+msgid "@plight Good job, kid."
+msgstr "@plight よくやったな。"
+
+msgid "@plight You're a genius, you know that?"
+msgstr "@plight 君は天才だよ。"
+
+msgid "@niko_speak Well, I had help from \\p too!"
+msgstr "@niko_speak まあ、 \\pにも手伝ってもらったから！"
+
+msgid "@plight_worry ...Oh, right."
+msgstr "@plight_worry …あっ、そうか。"
+
+msgid "@plight_worry The whole messiah business."
+msgstr "@plight_worry 救世主だもんな。"
+
+msgid "@plight ...Anyway, ready to go? I'll be up ahead."
+msgstr "@plight さて、準備はいいかい？先に入って待ってるよ。"
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]]"
+msgstr "[\\c[1]アクセス失敗\\c[0]]"
+
+msgid "@niko_speak The button works!"
+msgstr "@niko_speak ボタンが使える！"
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry おい、どこに行くんだ？"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown 頼むよおおぉぉぉ！"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr ""
+"@plight_unknown 頼むからあああ\n"
+"あああぁぁぁぁぁぁぁ！！！！！"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown 動いてくれ！！！"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak え？"
+
+msgid "@niko What was that?"
+msgstr "@niko 今の、何だろう？"
+
+msgid "@plight_unknown WHY. ISN'T. THIS. WORKING??!?"
+msgstr ""
+"@plight_unknown なぜ！こいつは！ちっとも！\n"
+"動かない？？！？"
+
+msgid "@niko_speak ...I..."
+msgstr "@niko_speak …たぶん…"
+
+msgid "@niko_speak ....think someone might need help."
+msgstr "@niko_speak …誰か、困ってるみたい。"
+
+msgid "PATH CLOSED"
+msgstr "通り道閉鎖"
+
+msgid "TO: OFFICE"
+msgstr "行先:オフィス"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight 頼むよおおぉ…"
+
+msgid "@plight Come oonnnnnnn!"
+msgstr "@plight 頼むよおおぉぉぉぉ！"
+
+msgid "@plight I'm too busy for this!"
+msgstr "@plight こんなことやってる場合じゃないんだ！"
+
+msgid "@niko ...Uh"
+msgstr "@niko …えっと"
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak …あの…"
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock うわあ！"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight …君は…君か！"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry （しまった、まさか出くわすとは…）"
+
+msgid "@plight_why (...this is embarrassing...)"
+msgstr "@plight_why （…これは恥ずかしい…）"
+
+msgid "@plight_worry er......"
+msgstr "@plight_worry その…"
+
+msgid "@plight Is there, uh, anything I can help you with?"
+msgstr "@plight 何か、えっと、手伝おうか？"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak うん、お願い！"
+
+msgid "@niko I would like to know how to get to the surface!"
+msgstr "@niko 地表への行き方を知りたいんだ！"
+
+msgid "@plight_2 ...yeeahh... I was afraid you were gonna say that..."
+msgstr ""
+"@plight_2 …そうだよな…そう言うんじゃないかと\n"
+"思ってたよ…"
+
+msgid "@plight Right now, this elevator is the only way to access the surface. But..."
+msgstr ""
+"@plight 今のところ、このエレベーターが\n"
+"地表へ行ける唯一の方法さ。 でも…"
+
+msgid "@plight ....yeah, just take a look at it."
+msgstr "@plight …まあ、見てみれば分かるよ。"
+
+msgid "@niko I-It looks like an elevator..."
+msgstr "@niko た、ただのエレベーターに見えるよ…"
+
+msgid "@plight_2 Well, you're not wrong, but..."
+msgstr "@plight_2 それはまあ、その通りだけど…"
+
+msgid "@plight_why Go look at the button panel."
+msgstr "@plight_why ボタンパネルを見てごらん。"
+
+msgid "@plight_2 I am not the button panel."
+msgstr "@plight_2 おれはボタンパネルじゃないぞ。"
+
+msgid "@plight_shock Whoa! How did you make this?"
+msgstr "@plight_shock わお！これ、どうやって作ったんだ？"
+
+msgid "@niko_speak Out of a coffee can!"
+msgstr "@niko_speak コーヒー缶から！"
+
+msgid "@plight_worry ...Coffee comes from cans?"
+msgstr "@plight_worry …コーヒーって缶から作るのか？"
+
+msgid "@plight_worry ......."
+msgstr "@plight_worry ……"
+
+msgid "@plight_2 ...Uh, go see if it works!"
+msgstr "@plight_2 …さ、それでいけるか試してみよう！"
+
+msgid "@plight_shock Oh nice, are those magnets?"
+msgstr "@plight_shock お、いいね。それって磁石？"
+
+msgid "@plight_2b Looks like they're a bit loose, but...."
+msgstr "@plight_2b 少し緩いみたいだけど…"
+
+msgid "@plight_2 ...Ah well, go see if it works!"
+msgstr "@plight_2 …まあいいか、使えるか試してきて！"
+
+msgid "@plight_shock Oh wow, that sure is a lotta tape...."
+msgstr "@plight_shock おぉ、すごい、大量のテープが…"
+
+msgid "@plight But better safe than sorry, right?"
+msgstr "@plight でも、備えあれば憂いなし、だもんな？"
+
+msgid "@plight You don't want it to break on ya."
+msgstr "@plight 壊れたら困るからな。"
+
+msgid "@plight_why It was worth a shot, yeah."
+msgstr "@plight_why まあ、試してみる価値はあったよ。"
+
+msgid "@plight_why I'm losing so much time...\\nI'm not even timing it anymore..."
+msgstr "@plight_why かなりのタイムロスだ…\\nもう計るのもやめた…"
+
+msgid "@plight_why I'm losing so much time...\\nProbably \\v[22] minutes of work already."
+msgstr "@plight_why かなりのタイムロスだ…\\nたぶんすでに \\v[22]分、無駄にした。"
+
+msgid "@plight_why I'm losing so much time..."
+msgstr "@plight_why かなりのタイムロスだ…"
+
+msgid "@plight_why I hate this...."
+msgstr "@plight_why 最悪だ…"
+
+msgid "@plight Do you think you'll be able to make that button?"
+msgstr "@plight ボタン、作れそうかな？"
+
+msgid "@plight_2 Well, no pressure, kid."
+msgstr "@plight_2 まぁ、無理はするなよ。"
+
+msgid "@plight_2b I'll just... stick with my original plan for now..."
+msgstr "@plight_2b とりあえず…最初の計画通りに進めるさ…"
+
+msgid "@plight_2b Time to kick the door again."
+msgstr "@plight_2b またドアを蹴るか。"
+
+msgid "@plight_why My foot hurts..."
+msgstr "@plight_why いてて…"
+
+msgid "@plight 6, 3, 0, 1, 4..."
+msgstr "@plight 6、3、0、1、4…"
+
+msgid "@plight Guess I did it.\\> \\@plight_worry Somehow."
+msgstr "@plight 何とかなった…\\> \\@plight_worry みたいだな。"
+
+msgid "@niko_speak Did"
+msgstr "@niko_speak 開いた"
+
+msgid "@niko_what Did you really try all the codes...\\> \\@niko_what2 starting from 0..."
+msgstr "@niko_what 本当に試したんだね...\\> \\@niko_what2 0から全部…"
+
+msgid "@plight_smile Eh, it paid off."
+msgstr "@plight_smile まあ、力にはなれた。"
+
+msgid "@niko_wtf Still!"
+msgstr "@niko_wtf でも！"
+
+msgid "@niko6 Now I feel kinda bad for telling him to help, \\p..."
+msgstr "@niko6 なんだかお願いしたのが\n"
+"申し訳なくなってきちゃったよ、 \\p…"
+
+msgid "@niko_eyeclosed I didn't think he was gonna actually..."
+msgstr "@niko_eyeclosed 本当に開けちゃうなんて…"
+
+msgid "@plight_smile Nah don't worry about it, just glad I could help."
+msgstr "@plight_smile まあ気にするな。手伝えてよかったさ。"
+
+msgid "@niko_speak Thank... thank you!"
+msgstr "@niko_speak う、うん…ありがとう！"
+
+msgid "@plight Yup.\\>\\nAnyway... you ready to go? I'll be up ahead."
+msgstr "@plight ああ。\\>\\nさて…準備はいいか？先に行ってるからな。"
+
+msgid "@plight \\v[26], \\v[27], \\v[28], \\v[29], \\v[30]..."
+msgstr "@plight \\v[26]、\\v[27]、\\v[28]、\\v[29]、\\v[30]…"
+
+msgid "[PLEASE MAKE HIM STOP.]"
+msgstr "[彼を止めてください。]"
+
+msgid "@niko Hi."
+msgstr "@niko やあ。"
+
+msgid "@plight Hi."
+msgstr "@plight やあ。"
+
+msgid "@plight ...Can I help with anything?"
+msgstr "@plight …何か手伝えることある？"
+
+msgid "@plight Anything at all?"
+msgstr "@plight 少しぐらいあるだろ？"
+
+msgid "@plight_worry Being so unproductive for so long... It's really getting to me..."
+msgstr ""
+"@plight_worry ずっと無意味な時間を過ごしてるから…\n"
+"いやになってきたんだ…"
+
+msgid "@niko I think \\p and I got it handled!"
+msgstr "@niko ミーと \\pだけで何とかなると思う！"
+
+msgid "@niko What do you think, \\p?"
+msgstr "@niko \\p、 どう思う？"
+
+msgid "[\"Tell him to use random codes\", \"Tell him to stand there\"]"
+msgstr "[\"適当にコードを入力するように言うんだ。\",\"そこで立ってるように言うんだ。\"]"
+
+msgid "@niko Maybe you can just try out some numbers until you get it..."
+msgstr ""
+"@niko 正解するまで、\n"
+"適当な数字を試してみてもいいかも…"
+
+msgid "@niko_speak I mean, \\p and I did it before!"
+msgstr "@niko_speak だって、 \\pとミーは前にそうしたよ！"
+
+msgid "@niko_eyeclosed Took us a while, but..."
+msgstr "@niko_eyeclosed 時間はかかったけど…"
+
+msgid "@plight_worry ....seriously?"
+msgstr "@plight_worry …マジ？"
+
+msgid "@plight Alright, I suppose that's better than doing nothing."
+msgstr "@plight 分かった、何もしないよりはマシだろうし。"
+
+msgid "@plight Let's see... 0, 0, 0, 0, 0..."
+msgstr "@plight さて…0、0、0、0、0…"
+
+msgid "@plight_why Yep, gonna be here for a while. 0, 0, 0, 0, 1....."
+msgstr ""
+"@plight_why うーむ、こりゃ時間がかかりそうだ。\n"
+"0、0、0、0、1…"
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]\\| ...YOU AREN'T SERIOUSLY DOING THIS, ARE YOU?]"
+msgstr "[\\c[1]アクセス失敗\\c[0]\\| …本気で続けるつもりですか？]"
+
+msgid "@niko Maybe you can just take it easy for a while?"
+msgstr "@niko ちょっとの間、ここで楽にしてたらどうかな？"
+
+msgid "@plight_why Hooray..."
+msgstr "@plight_why わーい…"
+
+msgid "@plight_why My least favorite thing to do..."
+msgstr "@plight_why そりゃ、おれの一番嫌いなことさ…"
+
+msgid "TO: CAFE"
+msgstr "行先:オフィスビルおよびカフェ"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[立ち入り禁止]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko ああ…失礼！"
+
+msgid "TO: APARTMENTS"
+msgstr "行先:アパート"
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "行先:\\nオフィスビルおよび\\nカフェ"
+
+msgid "@niko It's an elevator."
+msgstr "@niko エレベーターだ。"
+
+msgid "@Niko It's an elevator."
+msgstr "@Niko エレベーターだ。"
+
+msgid "@niko_eyeclosed Apparently broken?"
+msgstr "@niko_eyeclosed 壊れてるのかな？"
+
+msgid "@niko_speak Let's fix the elevator!"
+msgstr "@niko_speak エレベーターを修理しよう！"
+
+msgid "@niko_speak It needs a code."
+msgstr "@niko_speak コードが必要だ。"
+
+msgid "@niko_yawn *yawn* ..."
+msgstr "@niko_yawn ふわぁ…"
+
+msgid "@niko I'm having trouble staying awake, \\p.\\>\\nWe should find a place for me to take a nap..."
+msgstr "@niko 眠すぎて目が開かないよ、 \\p。\\>\\nお昼寝できる場所を探さないと…"
+
+msgid "@niko_speak Oh! Thank you for holding the elevator door open for me, mister!"
+msgstr "@niko_speak あっ！開けておいてくれてありがとう！"
+
+msgid "@plight No prob, hop in."
+msgstr "@plight いいよ、乗んな。"
+
+msgid "@plight Oh hey, welcome back..."
+msgstr "@plight よう、おかえり…"
+
+msgid "@plight_worry That... sure took you a while, huh..."
+msgstr "@plight_worry けっこう…時間かかったんだな…"
+
+msgid "@niko2 Oh, shoot! You've been waiting this whole time?"
+msgstr "@niko2 あっ、うそ！ずっと待っててくれたの？"
+
+msgid "@niko And... holding the door open?"
+msgstr "@niko しかも…ドアもずっと開けたままで？"
+
+msgid "@plight_worry Well I uh...\\.\\. didn't want to be rude..."
+msgstr "@plight_worry まあ、その…\\.\\. 失礼なことはしたくなかったし…"
+
+msgid "@niko_eyeclosed I'm sorry, I should've told you to go on ahead..."
+msgstr ""
+"@niko_eyeclosed ごめんなさい、先に行ってって\n"
+"言えばよかったね…"
+
+msgid "@plight Eh, don't worry about it."
+msgstr "@plight いいさ、気にするな。"
+
+msgid "@niko I'll need to push the button to open the doors."
+msgstr "@niko ドアを開けるにはボタンを押さなきゃ。"
+
+msgid "[HELLO.]"
+msgstr "[どうモ。]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr ""
+"[この地域はデモバージョンでは\n"
+"使用できません。]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[ご迷惑をおかけして申し訳ないです。]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko …デモバージョン？"
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[通行は許可できません。]"
+
+msgid "@niko_eyeclosed Oh well..."
+msgstr "@niko_eyeclosed しかたない…"

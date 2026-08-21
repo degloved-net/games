@@ -1,0 +1,39 @@
+msgid "[PLEASE TAKE CARE TO NOT TOUCH THE SQUARES.\\>\\nI CANNOT GUARANTEE YOUR WELLBEING IF YOU DO.]"
+msgstr "[四角形に\n触れないでください。\\>\\n\n触れれば身の安全は\n保証できません。]"
+
+msgid "@niko Gotcha."
+msgstr "@niko オッケー。"
+
+msgid "[THESE SQUARES APPEARED MERE MINUTES AGO.]"
+msgstr "[これらの四角形は\nつい数分前に\n現れたものです。]"
+
+msgid "@niko Really?"
+msgstr "@niko そうなの？"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 入り口とか、いろんな場所で見かけるけど…"
+
+msgid "[NOT A GOOD SIGN.]"
+msgstr "[いい兆しでは\nありません。]"
+
+msgid "@niko ...huh?"
+msgstr "@niko …え？"
+
+msgid "[THE WORLD'S DETERIORATION IS ACCELERATING.]"
+msgstr "[世界の崩壊が\n加速しています。]"
+
+msgid "@niko2 ...oh."
+msgstr "@niko2 …あ。"
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[この近くニ、子供ガ2人住んでいまス。]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak あたしがその1人よ！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+

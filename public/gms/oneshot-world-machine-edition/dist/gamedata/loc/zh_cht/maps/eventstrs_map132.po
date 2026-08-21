@@ -1,0 +1,249 @@
+msgid "@niko A watering can. It's half full."
+msgstr "@niko 澆花壺，裡面水裝了一半。"
+
+msgid "@niko Filled with plant clippings."
+msgstr "@niko 裝滿了修剪下來的枝葉。"
+
+msgid "@niko It's a pink flower."
+msgstr "@niko 粉紅色的花。"
+
+msgid "@mason Good luck with that seed, now!"
+msgstr "@mason 那麼，祝你順利種好那顆種子囉！"
+
+msgid "@mason Most of the plants in our world tend to grow in The Glen."
+msgstr "@mason 我們世界大多數的植物在綠沼澤都長得比較好。"
+
+msgid "@mason Even if it's facing the flooding issues, it's still in better condition than the other two areas."
+msgstr "@mason 就算現在有淹水的問題，條件還是比另外兩個地區好。"
+
+msgid "@mason The Barrens is... well, the barrens."
+msgstr "@mason 藍荒地就是……藍荒地。"
+
+msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
+msgstr "@mason 紅城的城市則是擁擠到連站都快沒地方站了，何況這種東西！"
+
+msgid "@mason ...On a larger scale than this, I mean."
+msgstr "@mason ……我是指，要更大規模栽種的話啦。"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko You're a gardener, right?"
+msgstr "@niko_speak 喔！\\.\\.\\@niko 你是園丁吧？"
+
+msgid "@mason Yup!"
+msgstr "@mason 沒錯！"
+
+msgid "@niko_speak Do you... happen to have any dirt?\\>\\n\\@niko For growing plants, I mean!"
+msgstr "@niko_speak 那你……有沒有土呢？\\>\\n\\@niko 我是說，種植用的土！"
+
+msgid "@mason Yup!\\>\\nDo you need some?"
+msgstr "@mason 有啊！\\>\\n你需要嗎？"
+
+msgid "@niko_speak Yes!\\>\\n\\@niko I'm supposed to plant this seed left behind by a plant lady..."
+msgstr "@niko_speak 是的！\\>\\n\\@niko 我要把植物女士留下的這顆種子種下去……"
+
+msgid "@niko_eyeclosed ...but the pot in the garden doesn't have any soil..."
+msgstr "@niko_eyeclosed ……可是花園中的花盆裡沒有土……"
+
+msgid "@mason I see...."
+msgstr "@mason 這樣啊……"
+
+msgid "@mason I know who you're talking about, yeah."
+msgstr "@mason 不過我知道你在說誰。"
+
+msgid "@mason Here, take this whole bag!"
+msgstr "@mason 拿去，整包都給你！"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak 謝謝！"
+
+msgid "@mason Feel free to ask me about the plants!"
+msgstr "@mason 關於植物的問題都可以問我喔！"
+
+msgid "@mason Hello there!"
+msgstr "@mason 你好啊！"
+
+msgid "@niko_speak You have a lot of plants!"
+msgstr "@niko_speak 你有好多植物喔！"
+
+msgid "@mason I do!\\nGrew all of these myself, y'see."
+msgstr "@mason 對啊！\\n你看，這些都是我自己種的。"
+
+msgid "@mason Feel free to ask me about them!"
+msgstr "@mason 想知道它們的事都可以問我喔！"
+
+msgid "@niko Empty flowerpot..."
+msgstr "@niko 空的花盆……"
+
+msgid "@niko Cactus."
+msgstr "@niko 仙人掌。"
+
+msgid "@mason Cactus."
+msgstr "@mason 仙人掌。"
+
+msgid "@niko_eyeclosed Cactus."
+msgstr "@niko_eyeclosed 仙人掌。"
+
+msgid "@niko So... is it a tree?"
+msgstr "@niko 所以……這是樹嗎？"
+
+msgid "@mason Only in name!"
+msgstr "@mason 只有名稱叫樹！"
+
+msgid "@mason That's a phosphor tree."
+msgstr "@mason 那是一棵燐樹。"
+
+msgid "@niko_speak Oh! Like the ones we saw in the glen!"
+msgstr "@niko_speak 喔！跟我們在綠沼澤看到的一樣！"
+
+msgid "@niko I always wondered... where are the leaves?"
+msgstr "@niko 我一直很想知道……葉子在哪？"
+
+msgid "@niko2 They're not... dead, are they?"
+msgstr "@niko2 它們應該……沒有枯死吧？"
+
+msgid "@mason Oh, not at all!"
+msgstr "@mason 喔，沒有沒有！"
+
+msgid "@mason Although these trees are composed of a woody tissue, they're closer to grass, anatomy-wise."
+msgstr "@mason 雖然這些樹是由木質組織構成，但在解剖學上面更接近草。"
+
+msgid "@niko ...So the branches are actually leaves?"
+msgstr "@niko ……所以那些枝條其實是葉子？"
+
+msgid "@mason Sorta!"
+msgstr "@mason 算是吧！"
+
+msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
+msgstr "@mason 這些植物有趣的地方在於它們可以生產多少燐汁。"
+
+msgid "@niko Phosphor... that's the glowy stuff, right?"
+msgstr "@niko 燐……就是那種發亮的東西對吧？"
+
+msgid "@mason Phosphor can store light energy and slowly emit it over time."
+msgstr "@mason 燐可以儲存光能，再慢慢散發。"
+
+msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
+msgstr "@mason 這個世界上大部分的燐都還保有太陽熄滅前吸收的能量。"
+
+msgid "@mason Without the sun to recharge them, though..."
+msgstr "@mason 可是沒有太陽為它們重新充能的話……"
+
+msgid "@mason ...well, let's talk about something else."
+msgstr "@mason ……嗯，我們還是聊聊別的吧。"
+
+msgid "@niko The pots are labeled with different species names."
+msgstr "@niko 花盆上標示著各種物種名稱。"
+
+msgid "@niko Oh! The sprouts are stretching towards the sun..."
+msgstr "@niko 喔！幼苗在往太陽的方向伸展……"
+
+msgid "@mason Be sure not to touch these!"
+msgstr "@mason 這些不可以碰喔！"
+
+msgid "@mason These are the plants have only recently sprouted."
+msgstr "@mason 這些植物才剛發芽不久。"
+
+msgid "@mason It's not easy for a plant to make it out there these days."
+msgstr "@mason 這陣子植物都很難長出來呢。"
+
+msgid "@mason We got these growing lamps, but they're a poor substitute for the sun!"
+msgstr "@mason 我們有這些種植燈，但它們實在不是好的太陽替代品！"
+
+msgid "@mason Ah, black clovers..."
+msgstr "@mason 啊，黑苜蓿……"
+
+msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
+msgstr "@mason 黑苜蓿大概是唯一能夠在綠沼澤以外的地區自然生存的耐寒植物了。"
+
+msgid "@mason Personally? I think they're really boring to look at."
+msgstr "@mason 要我說的話，它們看起來實在很無趣。"
+
+msgid "@mason One of my customers really loves them though."
+msgstr "@mason 不過我有一位客人非常喜歡。"
+
+msgid "@mason I think all of the black clovers I'm growing here are for him, actually."
+msgstr "@mason 說起來，我這邊種的黑苜蓿都是他要的。"
+
+msgid "@mason ...Come to think of it, I haven't seen him in a while."
+msgstr "@mason ……說到這個，我有一陣子沒見到他了。"
+
+msgid "@mason I wonder when is he coming to pick these up?"
+msgstr "@mason 不知道他什麼時候會來拿？"
+
+msgid "@mason The clover guy... he's actually pretty cool!"
+msgstr "@mason 那個買苜蓿的客人……其實他滿酷的！"
+
+msgid "@mason He's an author, and apparently he's some sort of big deal? Or at least he's really passionate about his work."
+msgstr "@mason 他是一位作家，而且好像很紅？不然起碼他真的很熱衷寫作。"
+
+msgid "@mason I don't know him that well, although sometimes I stumble across articles about him in the news..."
+msgstr "@mason 我跟他沒那麼熟，雖然有時候我會在新聞上看到關於他的報導……"
+
+msgid "@mason I'd love to chat with him, if I run into him again!"
+msgstr "@mason 如果我再遇到他，倒是很想跟他聊聊！"
+
+msgid "@niko Black clovers."
+msgstr "@niko 黑苜蓿。"
+
+msgid "@niko They're kinda shiny."
+msgstr "@niko 它們看起來有點亮。"
+
+msgid "@niko It's wheat."
+msgstr "@niko 小麥。"
+
+msgid "@mason That golden color is quite something, no?"
+msgstr "@mason 那個金黃的顏色滿漂亮的，對不對？"
+
+msgid "@niko_speak It's wheat!"
+msgstr "@niko_speak 是小麥！"
+
+msgid "@niko Why is it in a flowerpot?"
+msgstr "@niko 為什麼種在花盆裡呢？"
+
+msgid "@mason Well, doesn't it look nice?"
+msgstr "@mason 嗯，看起來挺不錯的不是嗎？"
+
+msgid "@niko I guess!"
+msgstr "@niko 大概吧！"
+
+msgid "@niko I like to stand in the middle of the wheat field back in my village."
+msgstr "@niko 我在我們家村莊喜歡站在麥田中間。"
+
+msgid "@niko_speak It goes on for miles!"
+msgstr "@niko_speak 麥田的範圍有好幾哩！"
+
+msgid "@mason Ah... I wish I could have seen it!"
+msgstr "@mason 啊……真希望能親眼看看！"
+
+msgid "@mason In our world, wheat is usually only grown in small isolated plots."
+msgstr "@mason 在我們的世界，小麥通常都種在單獨的一小塊地裡。"
+
+msgid "@mason ...Or in a flowerpot."
+msgstr "@mason ……或是花盆裡。"
+
+msgid "@niko A small tree with leaves."
+msgstr "@niko 一棵有葉子的小樹。"
+
+msgid "@niko_eyeclosed ...Apparently they are rare."
+msgstr "@niko_eyeclosed ……顯然它們很少見。"
+
+msgid "@niko This tree has leaves!"
+msgstr "@niko 這棵樹有葉子！"
+
+msgid "@mason Ah yes, true foliage is hard to come by nowadays."
+msgstr "@mason 啊，是的，這年頭很難看到真正的樹葉了。"
+
+msgid "@mason You hardly ever see trees like these in the wild anymore."
+msgstr "@mason 野外幾乎都看不到這樣的樹了。"
+
+msgid "@mason And the ones you do see are pretty much all raised artificially by people like me, mostly for nostalgia purposes."
+msgstr "@mason 就算真的看到，基本上也都是像我這樣的人人為栽種的，主要是為了懷舊。"
+
+msgid "@niko A small garden trowel. The handle part is shaped like... an owl?"
+msgstr "@niko 園藝用的小鏟子。握把形狀像……貓頭鷹？"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ……"
+
+msgid "@niko_83c I get it!"
+msgstr "@niko_83c 我懂了！"
+

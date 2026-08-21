@@ -1,0 +1,27 @@
+msgid "@niko I want to press all of the buttons...\\>\\n\\@niko_eyeclosed But I must resist!"
+msgstr "@niko 我想按按看所有的按鈕……\\>\\n\\@niko_eyeclosed 可是我得克制！"
+
+msgid "@niko There sure are a lot of computers here...\\>\\nAnd they look important, too."
+msgstr "@niko 這裡有好多電腦喔……\\>\\n而且它們看起來很重要。"
+
+msgid "Monitoring... monitoring...."
+msgstr "監控中……監控中……"
+
+msgid "I'm picking up some more disruptions in sector 8 of the city."
+msgstr "我在城市的第8區中偵測到更多干擾。"
+
+msgid "This is consistent with our earlier findings... not good at all..."
+msgstr "跟我們之前的發現相符……太糟了……"
+
+msgid "The Barrens engineer just reported another sighting of the particles in the cliff area."
+msgstr "藍荒地的工程師剛剛回報，在峭壁區又看到了這些粒子。"
+
+msgid "...well, nothing unusal at this point."
+msgstr "……嗯，現在已經見怪不怪了。"
+
+msgid "Ugh, those squares particles just took out two of my robots in the Glen."
+msgstr "呃，這些方塊粒子剛剛把我放在綠沼澤的兩個機器人弄壞了。"
+
+msgid "We might have to put off the water analysis project for now."
+msgstr "我們可能得暫停水分析的計畫。"
+

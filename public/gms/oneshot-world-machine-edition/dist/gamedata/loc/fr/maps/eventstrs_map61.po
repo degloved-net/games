@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko \\p ?\\>\\n.\\..\\.. Qu'est-ce qui s'est passé ?\\>\\nIl fait très sombre ici..."
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak ... Oh !\\>\\nJe vois une lumière au bout de ce passage !"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko Et j'entends une voix aussi..."
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised Maman ?\\>\\nJe l'entends qui m'appelle !"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak Il me suffit de traverser ce mur...\\>\\nEt je serai de retour à la maison."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko Ah, \\p,\\nAlors..."
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 Il est temps de se dire adieu..."
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 C'était...\\.\\. un plaisir...\\.\\. d'avoir fait votre connaissance, \\p..."
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad Merci pour tout."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits Merci d'avoir joué !"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "ERREUR CRITIQUE : MESSIE INTROUVABLE. FERMETURE DU SYSTÈME."
+

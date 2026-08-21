@@ -1,0 +1,18 @@
+msgid "@ed [There's no water in the toilet.]"
+msgstr "@ed [Non c'è acqua nel gabinetto.]"
+
+msgid "@ed [The tub won't run.]"
+msgstr "@ed [Dal rubinetto della vasca non esce acqua.]"
+
+msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
+msgstr "@ed [Una \\c[7]pianta appassita\\c[0], secca e rigida.]"
+
+msgid "@ed [There's no need to do anything else to it.]"
+msgstr "@ed [Non c'è più niente da fare.]"
+
+msgid "@ed [A branch snaps off.]"
+msgstr "@ed [Un ramo si spezza.]"
+
+msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
+msgstr "@ed [Due \\c[3]luminosi occhi gialli\\c[0] fissano Niko.]"
+

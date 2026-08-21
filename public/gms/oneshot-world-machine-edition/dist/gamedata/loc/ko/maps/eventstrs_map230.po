@@ -1,0 +1,39 @@
+msgid "@kip_pout He...."
+msgstr "@kip_pout 저 아인...."
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad 난...\\.\\. 막을 수가 없었어..."
+
+msgid "@kip_sigh *Sigh*"
+msgstr "@kip_sigh *하아*"
+
+msgid "@niko ...\\.\\.Miss?"
+msgstr "@niko ...\\.\\.무슨 일이에요?"
+
+msgid "@kip_huh Messiah!"
+msgstr "@kip_huh 구원자구나!"
+
+msgid "@kip_sigh Oh... you came at an awful time."
+msgstr "@kip_sigh 아... 하필이면 이런 때에 오다니."
+
+msgid "@kip_pout Come on, we have to get out of here."
+msgstr "@kip_pout 서둘러. 여기에서 나가야 해."
+
+msgid "@niko2 Where...\\.\\. to?"
+msgstr "@niko2 어디\\.\\.로요...?"
+
+msgid "@kip_sigh Where everyone else is right now."
+msgstr "@kip_sigh 지금 사람들이 있는 곳으로."
+
+msgid "@kip_worry Please! \\.\\.You musn't!!!"
+msgstr "@kip_worry 제발! \\.\\.가지 마!!!"
+
+msgid "@kip_worry The labs could collapse any moment now!!!"
+msgstr "@kip_worry 연구 시설이 언제 무너질지 몰라!!!"
+
+msgid "@cedric_upset Let go of me!!!"
+msgstr "@cedric_upset 날 보내 줘요!!!"
+
+msgid "@niko2 ...\\.\\.Cedric?"
+msgstr "@niko2 ...\\.\\.세드릭?"
+

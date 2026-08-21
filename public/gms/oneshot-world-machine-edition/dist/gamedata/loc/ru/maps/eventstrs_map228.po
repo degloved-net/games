@@ -1,0 +1,87 @@
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko So that's where this leads."
+msgstr "@niko Так вот куда он ведёт."
+
+msgid "@plight Welp, looks like this elevator works alright."
+msgstr "@plight Что ж, похоже, лифт работает."
+
+msgid "@plight_2 I'll uh...\\.\\. go get the evacuees, I suppose..."
+msgstr "@plight_2 Я, пожалуй, пойду...\\.\\. займусь выселенцами..."
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "@plight_worry UM."
+msgstr "@plight_worry М-М-М."
+
+msgid "@plight_scared WHAT IS GOING ON."
+msgstr "@plight_scared ЧТО ПРОИСХОДИТ?"
+
+msgid "@niko_shock Nooo!!!!"
+msgstr "@niko_shock Не-е-е-т!!!"
+
+msgid "@plight_scared It's... the square stuff, isn't it?"
+msgstr "@plight_scared Это квадратные штуки, да?"
+
+msgid "@plight_worry2 There aren't any in here but..."
+msgstr "@plight_worry2 Здесь их нет, но..."
+
+msgid "@plight_worry I can hear them just outside the door..."
+msgstr "@plight_worry Я слышу их прямо за дверью."
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 Ага..."
+
+msgid "@niko3 H-hold on! \\@niko2 Maybe \\p and I can..."
+msgstr "@niko3 П-подожди! \\@niko2 Может, \\p и я сможем..."
+
+msgid "@plight_worry No, no, it's okay!"
+msgstr "@plight_worry Нет-нет, всё нормально!"
+
+msgid "@plight_worry2 Looks like the squares aren't inside the elevator....\\>\\n\\@plight_sigh yet."
+msgstr "@plight_worry2 Квадраты не добрались до лифта...\\>\\n\\@plight_sigh Пока что."
+
+msgid "@plight_worry You're... in a hurry, right?"
+msgstr "@plight_worry Ты торопишься?"
+
+msgid "@plight_worry2 Go do...\\.\\. what you need to do...."
+msgstr "@plight_worry2 Иди, делай...\\.\\. то, что должен делать..."
+
+msgid "@niko3 But... what about you?"
+msgstr "@niko3 Но как же ты?"
+
+msgid "@plight_worry I'll... \\.\\.figure something out..."
+msgstr "@plight_worry Я... \\.\\.что-нибудь придумаю..."
+
+msgid "@niko4 Okay..."
+msgstr "@niko4 Ладно..."
+
+msgid "@niko This door won't budge..."
+msgstr "@niko Эта дверь не двигается."
+
+msgid "@niko_distressed2 .\\..\\..\\.."
+msgstr "@niko_distressed2 .\\..\\..\\.."
+
+msgid "@niko3 ...you okay in there?"
+msgstr "@niko3 Ты там в порядке?"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 ...hello?"
+msgstr "@niko3 Ау?.."
+
+msgid "@plight_worry ...mostly."
+msgstr "@plight_worry В целом, да..."
+
+msgid "@plight_worry2 ...look, don't worry about me for now, okay?"
+msgstr "@plight_worry2 Слушай, не беспокойся обо мне, ладно?"
+
+msgid "@plight_sigh You got more important stuff to deal with..."
+msgstr "@plight_sigh У тебя есть более важные дела."
+
+msgid "@niko2 ...let's see if this elevator works."
+msgstr "@niko2 Посмотрим, работает ли лифт."
+

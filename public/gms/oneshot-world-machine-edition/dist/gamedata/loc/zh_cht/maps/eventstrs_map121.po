@@ -1,0 +1,96 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 一疊大書。"
+
+msgid "@niko A photograph of the city skyline."
+msgstr "@niko 城市天際線的照片。"
+
+msgid "@niko It's a photograph of the cafe.\\>\\nLooks like it was a busy day..."
+msgstr "@niko 是咖啡店的照片。\\>\\n看來是很忙碌的一天……"
+
+msgid "@Niko A coffee machine."
+msgstr "@niko 咖啡機。"
+
+msgid "@niko_speak It's very warm!"
+msgstr "@niko_speak 摸起來溫溫的！"
+
+msgid "@niko A photograph of some buildings."
+msgstr "@niko 一些建築物的照片。"
+
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko 看來我應該可以打開這道門的鎖……"
+
+msgid "@niko A photograph of the mines.\\>\\nThere are many robots at work in the photo, extracting large deposits of ore."
+msgstr "@niko 礦區的照片。\\>\\n照片中有好多機器人在工作，開挖巨大的礦石層。"
+
+msgid "@niko Just a trash can..."
+msgstr "@niko 只是一個垃圾桶……"
+
+msgid "@niko Coffee cups."
+msgstr "@niko 咖啡杯。"
+
+msgid "@niko_speak I'm too young to drink coffee!"
+msgstr "@niko_speak 我還太小，不能喝咖啡！"
+
+msgid "@niko A photograph of a factory."
+msgstr "@niko 工廠的照片。"
+
+msgid "@niko It looks like I can unlatch this door..."
+msgstr "@niko 看來我應該可以打開這道門的門閂……"
+
+msgid "@niko A photograph of the Tower.\\>\\nThe sunlight makes it hard to make out much in this photo."
+msgstr "@niko 塔的照片。\\>\\n陽光導致這張拍不出什麼東西。"
+
+msgid "@niko A photograph of some railings."
+msgstr "@niko 一些欄杆的照片。"
+
+msgid "Hey there."
+msgstr "嘿，孩子。"
+
+msgid "@niko Hello."
+msgstr "@niko 你好。"
+
+msgid "You the messiah?"
+msgstr "你就是救世主？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 對啊！"
+
+msgid "......"
+msgstr "……"
+
+msgid "I like your scarf."
+msgstr "你的圍巾真好看。"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 謝謝你！"
+
+msgid "@niko Mama made it for me!"
+msgstr "@niko 是媽媽做給我的！"
+
+msgid "Tell her I like her needlework."
+msgstr "請轉告她，我欣賞她的縫製技術。"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 我會的！"
+
+msgid "@niko ...when I see her again!"
+msgstr "@niko ……等我再見到她的時候我會說的！"
+
+msgid "@niko A photograph of a house in the Glen.\\>\\nLooks like it was taken when people were still living in the ruins..."
+msgstr "@niko 綠沼澤的房屋照片。\\>\\n看起來像是人們還住在廢墟時拍的……"
+
+msgid "@niko They look like phonebooks."
+msgstr "@niko 看起來像電話簿。"
+
+msgid "@niko Some of the pages are dog-eared."
+msgstr "@niko 有些頁面有折角。"
+
+msgid "@niko This fridge has magnets on it!"
+msgstr "@niko 這個冰箱上有磁鐵！"
+
+msgid "@niko Maybe they'll come in handy?"
+msgstr "@niko 也許它們能派上用場？"
+
+msgid "@niko I hope nobody will mind us taking them..."
+msgstr "@niko 希望沒有人會介意我拿走它們……"
+

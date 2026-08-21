@@ -1,0 +1,150 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [Il y a une \\c[7]télécommande d'une télévision\\c[0] ici.]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [Niko la prend.]"
+
+msgid "@ed [In the faint light,\\nNiko can glimpse the face of the remote...]"
+msgstr "@ed [Dans la faible lueur,\\nNiko distingue la télécommande...]"
+
+msgid "@ed [All of the numbers except \\v[51], \\v[52], \\v[53], and \\v[54] are missing.]"
+msgstr "@ed [Il manque tous les nombres, exceptés \\v[51], \\v[52], \\v[53], et \\v[54].]"
+
+msgid "@ed [All of the numbers except \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], and \\c[4]\\v[51]\\c[0] are missing.]"
+msgstr "@ed [Il manque tous les nombres, exceptés \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], et \\c[4]\\v[51]\\c[0].]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [Il manque tous les nombres, exceptés \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], et \\c[2]\\v[52]\\c[0].]"
+
+msgid "@ed [All of the numbers except \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[1]\\v[53]\\c[0] are missing.]"
+msgstr "@ed [Il manque tous les nombres, exceptés \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], et \\c[1]\\v[53]\\c[0].]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [Il manque tous les nombres, exceptés \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], et \\c[2]\\v[52]\\c[0].]"
+
+msgid "@ed [They're marked in bright colors.]"
+msgstr "@ed [Ils sont surlignés en couleurs vives.]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [Une douce lumière passe à travers la fenêtre.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak B-Bonjour ?"
+
+msgid "@niko .....\\p?"
+msgstr "@niko ..... \\p ?"
+
+msgid "@niko_shock ...\\>\\n\\@niko_what ...wait, why did I... say that word..."
+msgstr "@niko_shock ...\\>\\n\\@niko_what ... Attendez, pourquoi est-ce que j'ai... dit ça... ?"
+
+msgid "@niko_eyeclosed ...\"\\p\"."
+msgstr "@niko_eyeclosed ... « \\p »."
+
+msgid "@niko_distressed2 ....why does that sound so familiar?"
+msgstr "@niko_distressed2 .... Pourquoi est-ce que ça me paraît si familier ?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [Des livres poussiéreux.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [Il fait trop sombre pour lire quoi que ce soit.]"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [Niko vient de se réveiller ici.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko Ça ne s'allume pas."
+
+msgid "Input Password:\\n(Password Hint: Documents)"
+msgstr "Saisissez le mot de passe :\\n(question secrète de mot de passe : Documents) "
+
+msgid "Input Password:"
+msgstr "Saisissez le mot de passe :"
+
+msgid "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+msgstr "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]Accès autorisé."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop Vous m'avez trouvé."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop .... Pourquoi ?"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop Vous arrivez trop tard.\\nIl ne reste déjà plus\\ngrand-chose de ce monde."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop Vous vous en rendrez compte\\nà la minute où vous\\nsortirez d'ici."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop Cet endroit n'a jamais été\\ndigne d'être sauvé."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop ... Voulez-vous tout\\nde même essayer ?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop Dans ce cas,\\nsouvenez-vous de ceci :"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop Vos actions\\naffecteront Niko."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop Votre « mission » est\\nd'aider Niko à partir."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop Et plus important encore..."
+
+msgid "@desktop No. This does\\nnot feel right at all."
+msgstr "@desktop Non. Ça\\nne va pas du tout."
+
+msgid "@desktop Have we...\\nalready been through this,\\n\\p?"
+msgstr "@desktop Sommes-nous...\\ndéjà passés par là,\\n\\p ?"
+
+msgid "@desktop But that should be\\nimpossible..."
+msgstr "@desktop Mais c'est\\nimpossible..."
+
+msgid "@desktop You only had one shot.\\nI wasn't supposed to\\nexist after that..."
+msgstr "@desktop Vous n'aviez qu'une\\nseule chance.\\nJe n'étais pas censé\\nexister après cela..."
+
+msgid "You only have one shot, \\p."
+msgstr "Vous n'aurez qu'une seule chance, \\p."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [Niko entend le bruit d'une serrure qui s'ouvre.]"
+
+msgid "@niko ...\"\\p\"...?"
+msgstr "@niko ... « \\p »... ?"
+
+msgid "@niko That sounds so... familiar."
+msgstr "@niko Ça m'est tellement... familier."
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]Accès refusé."
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [La porte est verrouillée.]"
+
+msgid "@ed [It doesn't respond to the remote.]"
+msgstr "@ed [La télécommande ne réagit pas.]"
+
+msgid "@ed [Niko looks at the buttons on the remote, but they cannot be read in the dark.]"
+msgstr "@ed [Niko regarde les boutons de la télécommande, qui sont illisibles dans le noir.]"
+
+msgid "@ed [Perhaps a \\c[4]light\\c[0] would help?]"
+msgstr "@ed [Peut-être qu’un peu de \\c[4]lumière\\c[0] l’aiderait ?]"
+

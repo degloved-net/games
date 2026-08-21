@@ -1,0 +1,12 @@
+msgid "Blue=The Barrens"
+msgstr "La Baia Desolata"
+
+msgid "Green=The Glen"
+msgstr "Il Glen"
+
+msgid "Red=The Refuge"
+msgstr "Il Rifugio"
+
+msgid "RedGround=The Refuge (Surface)"
+msgstr "Il Rifugio (Pianoterra)"
+

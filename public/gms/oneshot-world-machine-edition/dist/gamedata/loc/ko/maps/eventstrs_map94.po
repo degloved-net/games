@@ -1,0 +1,39 @@
+msgid "@niko This robot looks kind of rusty..."
+msgstr "@niko 이 로봇, 녹이 슬었어요..."
+
+msgid "@niko A bunch of robots without power."
+msgstr "@niko 움직이지 않는 로봇이 잔뜩 있어요."
+
+msgid "@niko_eyeclosed I guess the generator can only do so much..."
+msgstr "@niko_eyeclosed 발전기의 동력에도 한계가 있나 봐요..."
+
+msgid "@niko A cleaning sponge with a rough surface."
+msgstr "@niko 표면이 거친 청소용 스펀지예요."
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko 책에서 뜯어낸 페이지 같아요."
+
+msgid "$2) Without breaking the seal, inject the liquid phosphor into the container."
+msgstr "$2) 밀폐 상태를 유지하면서 액체 발광채를 용기에 주입한다."
+
+msgid "$3) Shake vigorously to initiate the reaction."
+msgstr "$3) 강하게 흔들어 반응을 일으킨다."
+
+msgid "$4) Use as soon as possible."
+msgstr "$4) 되도록 빨리 사용한다."
+
+msgid "$Note: If elements begin to separate, further shaking is required."
+msgstr "$참고: 성분이 분리되기 시작하면 추가로 흔들어줘야 함."
+
+msgid "$Also note: Hand protection is critical after this step."
+msgstr "$참고: 이 단계 이후부터는 손을 철저하게 보호해야 함."
+
+msgid "$The resulting acid is moderately stronger than common household cleaners."
+msgstr "$결과물인 산성 물질은 일반 가정용 세제보다 효능이 강함."
+
+msgid "@niko_eyeclosed I... don't know what half of these words mean..."
+msgstr "@niko_eyeclosed 저... 이중 절반은 모르는 단어예요..."
+
+msgid "@niko_speak It's a good thing you're here, \\p!"
+msgstr "@niko_speak 당신이 함께 있어서 정말 다행이네요, \\p 님!"
+

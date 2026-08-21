@@ -1,0 +1,13 @@
+{
+    "Substitutions": {
+        "@OK": "pad_x",
+        "@CANCEL": "pad_circle",
+        "@CLICK": "pad_r2",
+        "@MOVEMOUSE": "pad_rstick",
+        "@MOVE": "pad_lstick",
+        "@RUN": "pad_square",
+        "@INVENTORY": "pad_triangle",
+        "@MAINMENU": "pad_ps4_options",
+        "@MASHTEXT": "pad_l2",
+    }
+}

@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko ¿\\p?\\>\\n.\\..\\..¿Qué ha pasado?\\>\\nEsto está muy oscuro..."
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak ... ¡Oh!\\>\\n¡Veo una luz al final de este pasaje!"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko Creo que también oigo una voz..."
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised ¿Mamá?\\>\\n¡La oigo llamarme!"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak Solo tengo que atravesar esta pared...\\>\\nPor fin, volveré a casa."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko Bueno, \\p,\\ncreo..."
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 Creo que nos despedimos aquí..."
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 Me...\\.\\. alegro...\\.\\. de haberte conocido, \\p..."
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad Gracias por todo."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits ¡Gracias por jugar!"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "ERROR GRAVE: SALVADOR NO ENCONTRADO. CERRANDO."
+

@@ -1,0 +1,93 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak Это рыбное рагу!"
+
+msgid "@niko A fishing pole."
+msgstr "@niko Удочка."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp Ещё мой брат умеет рыбачить!"
+
+msgid "@alula But I don't!"
+msgstr "@alula А я нет!"
+
+msgid "@niko Same!"
+msgstr "@niko Я тоже!"
+
+msgid "@niko An empty jar."
+msgstr "@niko Пустая банка."
+
+msgid "@niko A jar of worms."
+msgstr "@niko Банка с червями."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed Кошмар!"
+
+msgid "There was a time where our people used to live in these ruins."
+msgstr "Было время, когда люди жили в этих руинах."
+
+msgid "But due to flooding, most of us have moved to less permanent settlements."
+msgstr "Но из-за наводнения большинство перебралось в не столь постоянные поселения."
+
+msgid "@niko Flooding?"
+msgstr "@niko Наводнение?"
+
+msgid "Aye, the land has gotten brittle..."
+msgstr "Да, земля стала более подвижной..."
+
+msgid "The Glen used to be in one piece, you know?"
+msgstr "Знаешь, ведь раньше Долина была единым целым."
+
+msgid "But now it's just a bunch of islands that get smaller and smaller."
+msgstr "А теперь это скопление островов, которые становятся всё меньше и меньше."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed А-а..."
+
+msgid "@niko Do you still live here?"
+msgstr "@niko Ты всё ещё живёшь здесь?"
+
+msgid "Sort of."
+msgstr "Типа того."
+
+msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
+msgstr "Популяция рыбы возле деревни сокращается, так что мы, рыбаки, временно переселяемся сюда."
+
+msgid "@niko_speak Makes sense!"
+msgstr "@niko_speak Звучит логично!"
+
+msgid "The deeper ruins have been abandoned for a while, though."
+msgstr "А вот более глубоко расположенные руины уже давно забросили."
+
+msgid "...but I do see some kids coming in and out of those."
+msgstr "Хотя иногда я вижу, как туда забираются дети."
+
+msgid "I think they actually live there?"
+msgstr "Неужели они действительно там живут?"
+
+msgid "... hey, now that I think about it..."
+msgstr "...Мне сейчас пришла в голову мысль..."
+
+msgid "Aren't YOU one of those kids?"
+msgstr "А ТЫ, случайно, не одна из тех детей?"
+
+msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
+msgstr "@alula_speak Ага! \\@alula Это я с моим братом! \\>\\n\\@alula_pout Или правильнее «мы с моим братом»?"
+
+msgid "Well, I hope you kids stay safe!"
+msgstr "Берегите себя, ребята!"
+
+msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
+msgstr "Если захотите перебраться в более безопасное место, приходите в деревню или в город."
+
+msgid "I hope you and your brother stay safe!"
+msgstr "Надеюсь, у вас с братом всё будет в порядке!"
+
+msgid "I hope those kids are safe..."
+msgstr "Надеюсь, с этими детьми всё будет в порядке..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Они наполнены маленькой сухой рыбёшкой."
+
+msgid "@niko Warm coals."
+msgstr "@niko Тёплые угли."
+

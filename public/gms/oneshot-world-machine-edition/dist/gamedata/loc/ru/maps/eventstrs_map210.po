@@ -1,0 +1,81 @@
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [Приветствую.]"
+
+msgid "@niko_shock AAAAAAA!!!!!"
+msgstr "@niko_shock А-А-А-А-А!!!"
+
+msgid "@proto_gasp2 [...No!!]"
+msgstr "@proto_gasp2 [Нет!..]"
+
+msgid "@niko_shock What do we do!!!"
+msgstr "@niko_shock Что нам делать?!"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [...]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk [...]"
+
+msgid "@proto2 [You have to take this.]"
+msgstr "@proto2 [Возьми это.]"
+
+msgid "@niko3 Wh-\\.\\.what?"
+msgstr "@niko3 Ч... \\.\\.Что?"
+
+msgid "@niko3 The memory disk? But-"
+msgstr "@niko3 Диск памяти? Но..."
+
+msgid "@niko_surprised Eek!"
+msgstr "@niko_surprised Ничего себе!"
+
+msgid "@proto2b [This is where we part ways.]"
+msgstr "@proto2b [Здесь наши пути расходятся.]"
+
+msgid "@proto2b [Niko, the path ahead will lead you to the Glen, right by the city gate.]"
+msgstr "@proto2b [Нико, тропа впереди приведёт тебя в Долину. Прямо к городским воротам.]"
+
+msgid "@proto1C [When you're in the city, go find someone named Cedric. Give him the disk.]"
+msgstr "@proto1C [Когда доберёшься до города, найди человека по имени Седрик. Передай ему этот диск.]"
+
+msgid "@niko3 But... what happens if I..."
+msgstr "@niko3 Но... Что, если я..."
+
+msgid "@niko_distressed What if the squares..."
+msgstr "@niko_distressed А если квадраты..."
+
+msgid "@proto_gasp2 [Hurry!]"
+msgstr "@proto_gasp2 [Поторопись!]"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko And that robot was saying something."
+msgstr "@niko И тот робот что-то говорил."
+
+msgid "@niko That you keep bringing me back."
+msgstr "@niko Что ты меня всё время возвращаешь."
+
+msgid "@niko We've been through all this before, haven't we."
+msgstr "@niko Мы ведь уже через это проходили."
+
+msgid "@niko How many times?"
+msgstr "@niko Сколько раз?"
+
+msgid "[\"1\", \"So Many\"]"
+msgstr "[\"Один.\",\"Очень много.\"]"
+
+msgid "@niko I see."
+msgstr "@niko Ясно."
+
+msgid "@niko_speak That's a lot of times!"
+msgstr "@niko_speak Это точно много!"
+
+msgid "@niko That robot told me to try and remember, so I will."
+msgstr "@niko Тот робот велел мне попытаться вспомнить. Так я и сделаю."
+
+msgid "@niko_eyeclosed Sleepy time."
+msgstr "@niko_eyeclosed Пора вздремнуть."
+

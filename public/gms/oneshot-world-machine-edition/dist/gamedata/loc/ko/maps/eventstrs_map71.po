@@ -1,0 +1,159 @@
+msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
+msgstr "[안녕하세요. 살아 있는 인간이시군요.]"
+
+msgid "[THE INFIRMARY IS UP AHEAD.]"
+msgstr "[병원은 바로 앞에 있습니다.]"
+
+msgid "INFIRMARY"
+msgstr "병원"
+
+msgid "[HELLO. DO YOU NEED ANY HELP?]"
+msgstr "[안녕하세요, 도움이 필요하신가요?]"
+
+msgid "@niko_speak I'm good, thanks!"
+msgstr "@niko_speak 전 괜찮아요, 고마워요!"
+
+msgid "[UNIT RM-2883417 REPORTING FOR DUTY!]"
+msgstr "[RM-2883417, 보고합니다!]"
+
+msgid "[I SAW THAT YOU SPOKE WITH THE GUARDIAN OF THE SETTLEMENT.]"
+msgstr "[당신이 이 지역의 수호자와 이야기하는 것을 포착했습니다.]"
+
+msgid "[I WILL NOW ESCORT YOU UNTIL YOU REACH YOUR DORMITORY.]"
+msgstr "[당신이 숙소에 들어갈 때까지 제가 보호하겠습니다.]"
+
+msgid "@niko um... what?"
+msgstr "@niko 저기... 뭐라고요?"
+
+msgid "@niko_speak So you're just gonna... follow me?"
+msgstr "@niko_speak 그러니까, 절 따라오겠다는 이야기죠?"
+
+msgid "[YES.]"
+msgstr "[그렇습니다.]"
+
+msgid "[UNTIL YOU SAFELY REACH A BUILDING OF YOUR DESTINATION.]"
+msgstr "[당신이 무사히 목적지에 도착할 때까지입니다.]"
+
+msgid "@niko Alright."
+msgstr "@niko 알았어요."
+
+msgid "@niko Hello"
+msgstr "@niko 안녕하세요."
+
+msgid "[BOOP]"
+msgstr "[삐익]"
+
+msgid "[UNIT RT-3847201 REPORTING FOR DUTY!]"
+msgstr "[RT-3847201, 보고합니다!]"
+
+msgid "[IT SEEMS THAT YOU ALREADY HAVE AN ASSIGNED ESCORT, UNIT RM-2883417]"
+msgstr "[이미 RM-2883417의 도움을 받고 있는 모양이군요.]"
+
+msgid "[WOULD YOU LIKE ME TO LEAVE?]"
+msgstr "[제가 가기를 원하십니까?]"
+
+msgid "@niko You can follow me if you want..."
+msgstr "@niko 원한다면 따라다녀도 좋아요..."
+
+msgid "[UNDERSTOOD.]"
+msgstr "[알겠습니다.]"
+
+msgid "@niko_speak Are you guys not supposed to go in buildings?"
+msgstr "@niko_speak 당신들은 건물에 들어가면 안 되나요?"
+
+msgid "[CORRECT.]"
+msgstr "[그렇습니다.]"
+
+msgid "[WE ARE BUILT FOR OUTDOOR USE ONLY.]"
+msgstr "[우리는 오직 야외에서만 활동합니다.]"
+
+msgid "[ENTERING BUILDINGS IS NOT PART OF OUR PROGRAMMING.]"
+msgstr "[건물 안으로 들어가는 건 프로그램에 기록되어 있지 않습니다.]"
+
+msgid "@niko That's... strange."
+msgstr "@niko 그건... 좀 이상하네요."
+
+msgid "[BEEP]"
+msgstr "[삑]"
+
+msgid "@blue_gatekeeper [Oh, Hello.]"
+msgstr "@blue_gatekeeper [오, 안녕하세요.]"
+
+msgid "@blue_gatekeeper [What Are You Doing Here?]"
+msgstr "@blue_gatekeeper [여기에는 뭐하러 오셨습니까?]"
+
+msgid "@niko Hm?"
+msgstr "@niko 흐음?"
+
+msgid "@blue_gatekeeper [A Living Person Such As Yourself Should Have Evacuated This Place Long Ago.]"
+msgstr "@blue_gatekeeper [당신처럼 살아 있던 사람들은 모두 오래전에 대피했습니다.]"
+
+msgid "@niko_speak Oh, but I just got here! \\>\\n\\@niko To this world, I mean!"
+msgstr "@niko_speak 하지만 전 얼마 전에 여기 왔는걸요! \\>\\n\\@niko 제 말은 이 세상에요!"
+
+msgid "@niko_speak See?\\.\\. I have the sun!"
+msgstr "@niko_speak 보여요? \\.\\. 태양을 가지고 왔어요!"
+
+msgid "@blue_gatekeeper [Oh, The Messiah.]"
+msgstr "@blue_gatekeeper [오, 구원자시군요.]"
+
+msgid "@blue_gatekeeper [I...\\. Do Not Know What To Say.]"
+msgstr "@blue_gatekeeper [저는...\\. 무슨 말을 해야 할지 모르겠습니다.]"
+
+msgid "@blue_gatekeeper [Greeting You Was Not Part Of My Programming.]"
+msgstr "@blue_gatekeeper [당신을 맞이하는 부분은 제 프로그램에는 없습니다.]"
+
+msgid "@blue_gatekeeper [Have You\\.\\. Spoken To Prophetbot?]"
+msgstr "@blue_gatekeeper [예언봇과는\\.\\. 이야기해 보셨나요?]"
+
+msgid "@niko_speak I think so, yeah!"
+msgstr "@niko_speak 네, 그런 것 같아요!"
+
+msgid "@blue_gatekeeper [Prophetbot Was Built With The Sole Purpose Of Greeting You.]"
+msgstr "@blue_gatekeeper [예언봇은 오로지 당신을 맞이하기 위한 목적으로 만들어진 로봇입니다.]"
+
+msgid "@niko Really?"
+msgstr "@niko 정말요?"
+
+msgid "@blue_gatekeeper [Yes. He Cannot Speak With Anyone Else.] \\>\\n[At Least, Not With Ease.]"
+msgstr "@blue_gatekeeper [그래서 그 로봇은 당신 외엔 누구와도 이야기하지 않습니다.] \\>\\n[적어도 쉽게 이야기하진 않지요.]"
+
+msgid "@niko Oh...\\n\\>\\@niko_eyeclosed that's...\\.\\. kind of sad..."
+msgstr "@niko 아...\\n\\>\\@niko_eyeclosed 그건...\\.\\.좀 슬프네요..."
+
+msgid "@niko_speak What are you built for, then?"
+msgstr "@niko_speak 그럼 당신은 뭘 위해 만들어졌죠?"
+
+msgid "@blue_gatekeeper [My Purpose Is To Guard This Settlement.]"
+msgstr "@blue_gatekeeper [제 임무는 여기를 지키는 것입니다.]"
+
+msgid "@blue_gatekeeper [Even Though The Residents Have Long Gone, I Must Remain.]"
+msgstr "@blue_gatekeeper [거주민들이 떠난 지 오래지만 그래도 전 여기 있어야 합니다.]"
+
+msgid "@niko Ah..."
+msgstr "@niko 아..."
+
+msgid "@niko_speak Why, though?"
+msgstr "@niko_speak 왜, 그래야 하죠?"
+
+msgid "@blue_gatekeeper [I Have Not Been Tamed.]"
+msgstr "@blue_gatekeeper [길들여지지 않았으니까요.]"
+
+msgid "@niko_speak Tamed?"
+msgstr "@niko_speak 길들여져요...?"
+
+msgid "@blue_gatekeeper [It Was Not Worth The Effort.]"
+msgstr "@blue_gatekeeper [노력할 가치가 없었습니다.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@blue_gatekeeper [Stay Safe.]"
+msgstr "@blue_gatekeeper [안전히 있다 가십시오.]"
+
+msgid "@blue_gatekeeper [By The Way, Some Robots May Start Following You Around This Settlement As Well.]"
+msgstr "@blue_gatekeeper [그리고 로봇 몇 기가 당신 주변을 따라다닐 것입니다.]"
+
+msgid "@blue_gatekeeper [Do Not Be Alarmed.]\\n\\>[It Is Their Job To Keep People Safe.]"
+msgstr "@blue_gatekeeper [너무 놀라지 마십시오.]\\n\\>[저들의 임무는 인간을 지키는 것이니까요.]"
+

@@ -1,0 +1,36 @@
+msgid "@niko It's full of little glass tubes of water."
+msgstr "@niko 水が入ったガラス管でいっぱい。"
+
+msgid "[WATER SAMPLES!]"
+msgstr "[水サンプルでス！]"
+
+msgid "[TAKE CARE NOW, PERSON!]"
+msgstr "[お気をつけテ。人間！]"
+
+msgid "[HELLO, LIVING PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "@niko Hello."
+msgstr "@niko こんばんは。"
+
+msgid "[I HAVE COLLECTED A DUPLICATE WATER SAMPLE.]"
+msgstr "[複製した水サンプルを採取しました。]"
+
+msgid "[WOULD YOU LIKE IT?]"
+msgstr "[欲しいですカ？]"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "[MY PROGRAMMING SAYS THAT ORGANIC BEINGS NEED WATER TO SURVIVE.]"
+msgstr "[私のプログラミングによると、\n有機生命体の生存ニハ水ガ必要でス。]"
+
+msgid "[SO I SHALL OFFER IT TO YOU.]"
+msgstr "[ですので、これヲ提供しまス。]"
+
+msgid "@niko Oh, uh,\\. \\@niko_speak Sure! We'll take it."
+msgstr "@niko あっ、えっと、\\. \\@niko_speak うん！もらうね。"
+
+msgid "[BEEP BOOP. WATER COLLECTION PROJECT RESUMING...]"
+msgstr "[ビーッブーッ。水ノ採取プロジェクト再開…]"
+

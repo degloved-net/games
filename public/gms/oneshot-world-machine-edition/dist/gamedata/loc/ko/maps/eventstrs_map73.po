@@ -1,0 +1,126 @@
+msgid "$Initially, the amount of noxious fumes emitted by the natural gas vents caught our team off-guard."
+msgstr "$처음 왔을 때는 천연 가스 분출구에서 뿜어져 나오는 유독 가스에 속수무책으로 당하고 말았다."
+
+msgid "$Thank goodness the medical team reacted as quickly as they did."
+msgstr "$다행히 의료 팀이 신속하게 대응해 주었다."
+
+msgid "$Despite its failure, that first expedition did bring up some interesting observations about the Barrens."
+msgstr "$첫 탐험은 실패하긴 했지만, 불모지에 관한 흥미로운 정보를 입수할 수 있었다."
+
+msgid "$We found that there's not one, but two such vent zones."
+msgstr "$이런 가스 지대가 한 군데가 아니라 두 군데라는 사실을 발견한 것이다."
+
+msgid "$With fumes being pumped out at such high concentrations..."
+msgstr "$뿜어져 나오는 가스 농도도 매우 높다..."
+
+msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
+msgstr "$...가스가 다른 지역까지 퍼지지 않은 게 기적처럼 느껴질 정도다."
+
+msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
+msgstr "$연구 결과, 생물학자들은 분화구 웅덩이에 서식하는 발광새우가 유독 가스를 대량으로 소비한다는 결론을 내렸다."
+
+msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
+msgstr "$또한 바다에 서식하는 새우들이 유독 가스가 협곡으로 흘러드는 걸 막는 역할을 하고 있다."
+
+msgid "$If that's the case, then we owe a lot to these little guys!"
+msgstr "$그게 사실이라면, 우리는 이 작은 생명체들에게 큰 빚을 지고 있는 셈이다."
+
+msgid "@niko_speak So...\\.\\. we're filling up the syringe, \\p?"
+msgstr "@niko_speak 그럼...\\.\\. 이 주사기를 채우라는 건가요, \\p 님?"
+
+msgid "@niko I guess it's kind of like a funnel..."
+msgstr "@niko 꼭 깔때기 같네요..."
+
+msgid "@niko But the liquid might be a bit too thick to fit in the needle..."
+msgstr "@niko 액체가 걸쭉해서 바늘을 꽂기도 힘들 것 같은데..."
+
+msgid "@niko Hey, it actually went in!"
+msgstr "@niko 앗, 바늘이 들어갔어요!"
+
+msgid "@niko_eyeclosed Gross."
+msgstr "@niko_eyeclosed 느낌이 이상해요."
+
+msgid "@niko You want me to fill the bottle with this stuff, \\p?"
+msgstr "@niko \\p 님, 이걸로 병을 채우라고요?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed It's too goopy to fit in the bottle opening..."
+msgstr "@niko_eyeclosed 액체가 너무 끈적해서 병 입구에 넣기가 힘들어요..."
+
+msgid "@niko It's like that one time years ago when I tried to put tomato chowder in a baby bottle..."
+msgstr "@niko 1년 전 젖병에 토마토 수프를 넣으려고 했던 때와 비슷한 느낌이에요..."
+
+msgid "@niko_speak ...and then it got everywhere!"
+msgstr "@niko_speak ...결국 사방으로 튀어 버렸죠!"
+
+msgid "@niko_eyeclosed On the table, on my clothes, on the baby, on the baby's clothes..."
+msgstr "@niko_eyeclosed 탁자랑, 제 옷이랑, 아기 옷이랑, 아기한테까지..."
+
+msgid "@niko The grown-ups thought it was hilarious.\\> \\@niko_eyeclosed They took a bunch of pictures."
+msgstr "@niko 어른들은 그걸 보더니 웃음을 터뜨렸어요.\\> \\@niko_eyeclosed 사진을 잔뜩 찍었죠."
+
+msgid "@niko_speak And then they taught me how to use funnels!"
+msgstr "@niko_speak 그 뒤에 깔때기를 사용하는 법을 알려 주셨죠!"
+
+msgid "@niko_eyeclosed And then they also told me I shouldn't try to babysit until I'm older."
+msgstr "@niko_eyeclosed 물론, 좀 더 나이가 찰 때까지 아기를 돌보는 건 미뤄야겠다고도 했고요."
+
+msgid "@niko ...anyway we should probably look for a funnel or something!"
+msgstr "@niko ...아무튼, 먼저 깔때기 비슷한 것부터 찾아야 해요!"
+
+msgid "@niko Alright... lemme just take out the cork, and..."
+msgstr "@niko 알았어요... 일단 마개를 빼고..."
+
+msgid "@niko_eyeclosed ...all the smoke escaped."
+msgstr "@niko_eyeclosed ...연기가 다 빠져나가 버렸어요."
+
+msgid "@niko_speak There's already some of this stuff in the bottle, \\p!"
+msgstr "@niko_speak \\p 님, 이미 병 안에 이 물질이 들어 있어요!"
+
+msgid "@niko This pond sure looks different..."
+msgstr "@niko 이 연못은 왠지 좀 다른데요..."
+
+msgid "@niko The water looks like... jelly?"
+msgstr "@niko 물이 꼭... 젤리 같아요."
+
+msgid "@niko It's formed a bubble over the surface of the pond."
+msgstr "@niko 그래선지 연못 표면에 거품이 생겼어요."
+
+msgid "@niko I guess you want me to fill the bottle with this gas, \\p?"
+msgstr "@niko \\p 님, 이 병에 가스를 채우라는 뜻인가요?"
+
+msgid "@niko That oughta do it."
+msgstr "@niko 됐어요."
+
+msgid "@niko This bottle is already full of this smoke!"
+msgstr "@niko 이 병에는 이미 연기가 가득 들었어요!"
+
+msgid "@niko Alright lemme just...\\> turn this bottle upside down..."
+msgstr "@niko 좋아요, 그럼...\\> 병을 뒤집어서..."
+
+msgid "@niko_eyeclosed ...aaaaand there goes the pond water."
+msgstr "@niko_eyeclosed ...연못 물을 버려야겠네요."
+
+msgid "@niko But at least we have this smoke..."
+msgstr "@niko 하지만 연기가 있으니까 괜찮아요..."
+
+msgid "@niko_speak This vent is on the ground!"
+msgstr "@niko_speak 이 분출구는 땅에 나 있네요!"
+
+msgid "@niko All the others are taller than me."
+msgstr "@niko 나머지는 다 제 키보다 커요."
+
+msgid "[THE SKY IS DARK.]"
+msgstr "[하늘이 어두워.]"
+
+msgid "@niko That it is."
+msgstr "@niko 그렇네요."
+
+msgid "[DO YOU KNOW WHEN THE SUN WILL BE BACK UP?]"
+msgstr "[언제 태양이 돌아올지 알고 있어?]"
+
+msgid "@niko_speak We're working on it!"
+msgstr "@niko_speak 우리가 노력하는 중이에요!"
+

@@ -1,0 +1,75 @@
+msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
+msgstr "[蛍光樹ハ現在、新しく制定された\n法律の下で保護されていまス。]"
+
+msgid "[PLEASE DO NOT HARVEST THEM.]"
+msgstr "[採取しないでくださイ。]"
+
+msgid "@niko I'm... not?"
+msgstr "@niko して…ないよ？"
+
+msgid "[HAVE A NICE DAY.]"
+msgstr "[良い一日ヲ。]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 君もね！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[WELCOME TO THE RESEARCH STATION.]"
+msgstr "[研究所ヘようこソ。]"
+
+msgid "@niko Hello!"
+msgstr "@niko こんばんは！"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[シルバーポイント博士からノ指示で\nきたのですカ？]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak …違うよ？"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[デハ、そのままどうゾ。]"
+
+msgid "[MONITORING ANOMALY...]"
+msgstr "[異常ヲ監視中…]"
+
+msgid "@niko_speak What IS that thing?"
+msgstr "@niko_speak あれはいったい何なの？"
+
+msgid "[AN ANOMALY.]"
+msgstr "[異常でス。]"
+
+msgid "@niko_eyeclosed Well, yeah, but..."
+msgstr "@niko_eyeclosed それは、まあ、そうだけど…"
+
+msgid "[I WILL RETURN TO MY STATION IN THE CITY SOON.]"
+msgstr "[モウジキ、街ノ持ち場に戻りまス。]"
+
+msgid "@niko_speak How come you're red instead of green?"
+msgstr "@niko_speak どうして君は緑じゃなくて赤なの？"
+
+msgid "@niko Well... more of a purple than red...\\>\\n\\@niko_speak But your eyes and stuff are red!"
+msgstr "@niko いや…赤と言うより紫かな…\\>\\n\\@niko_speak でも目とかは赤だね！"
+
+msgid "[I AM ONLY HERE TO PICK UP THIS WEEK'S MOSS SAMPLES.]"
+msgstr "[ワタシハ今週のコケサンプルを回収するために\n来ただけでス。]"
+
+msgid "@niko_speak I see!"
+msgstr "@niko_speak そうなんだ！"
+
+msgid "[I AM IN CHARGE OF COLLECTING THE MOSS SAMPLES.]"
+msgstr "[コケサンプルノ回収を担当していまス。]"
+
+msgid "@niko_speak Cool!"
+msgstr "@niko_speak すごいね！"
+
+msgid "[DID DR. SILVERPOINT SEND YOU?]"
+msgstr "[シルバーポイント博士ガ\nアナタを送ったのですカ？]"
+
+msgid "@niko_speak No? I'm with \\p..."
+msgstr "@niko_speak いや？ミーは \\pと…"
+
+msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
+msgstr "[蛍光樹ノ成長速度ガ、近ごろ低下していまス…]"
+

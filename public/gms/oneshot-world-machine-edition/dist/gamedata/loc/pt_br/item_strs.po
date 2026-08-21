@@ -1,0 +1,459 @@
+msgid "1:name=lightbulb"
+msgstr "lâmpada"
+
+msgid "1:description=A large lightbulb. It's the sun."
+msgstr "Uma grande lâmpada. É o sol."
+
+msgid "2:name=television remote"
+msgstr "controle da televisão"
+
+msgid "2:description=It's too hard to read in the dark light."
+msgstr "É muito difícil ler no escuro."
+
+msgid "3:name=bottle of alcohol"
+msgstr "frasco de álcool"
+
+msgid "3:description=The smell of the liquid is repugnant."
+msgstr "O cheiro do líquido é repugnante."
+
+msgid "4:name=dry branch"
+msgstr "galho seco"
+
+msgid "4:description=A flaky, dry branch from the bathroom plant."
+msgstr "Um galho seco e escamoso da planta do banheiro."
+
+msgid "5:name=wet branch"
+msgstr "galho molhado"
+
+msgid "5:description=The tip of the branch is soaked with alcohol."
+msgstr "A ponta do galho está molhada de álcool."
+
+msgid "6:name=torch"
+msgstr "tocha"
+
+msgid "6:description=Doesn't give off much light."
+msgstr "Não provê muita luz."
+
+msgid "7:name=basement key"
+msgstr "chave do porão"
+
+msgid "7:description=This thing looks old."
+msgstr "Parece antiga."
+
+msgid "8:name=camera"
+msgstr "câmera"
+
+msgid "8:description=A broken camera with a large screwed-in lens."
+msgstr "Câmera quebrada com uma grande lente parafusada."
+
+msgid "9:name=screwdriver"
+msgstr "chave de fenda"
+
+msgid "9:description=Phillips-head."
+msgstr "Chave Phillips"
+
+msgid "10:name=lens"
+msgstr "lente"
+
+msgid "10:description=A large glass lens."
+msgstr "Grande lente de vidro."
+
+msgid "11:name=empty bottle"
+msgstr "frasco vazio"
+
+msgid "11:description=The smell of alcohol lingers."
+msgstr "O cheiro do álcool permanece."
+
+msgid "12:name=broken battery"
+msgstr "bateria quebrada"
+
+msgid "12:description=Apparently a battery.  It has some broken glass in it."
+msgstr "Pelo jeito, uma bateria. Tem vidro quebrado dentro dela."
+
+msgid "13:name=empty battery"
+msgstr "bateria descarregada"
+
+msgid "13:description=An intact, rechargable battery. Currently empty."
+msgstr "Bateria recarregável intacta. Vazia no momento."
+
+msgid "14:name=charged battery"
+msgstr "bateria carregada"
+
+msgid "14:description=A working, rechargable battery. Maximum power."
+msgstr "Bateria recarregável funcionando com força total."
+
+msgid "15:name=bottle of smoke"
+msgstr "frasco com fumaça"
+
+msgid "15:description=It's full of noxious fumes."
+msgstr "Está cheio de fumaça tóxica."
+
+msgid "16:name=bottle of acid"
+msgstr "frasco com ácido"
+
+msgid "16:description=It's full of a thick liquid acid."
+msgstr "Está cheio de ácido líquido espesso"
+
+msgid "17:name=wet sponge"
+msgstr "esponja molhada"
+
+msgid "17:description=Sponge soaked with acidic cleaning solution."
+msgstr "Esponja encharcada de solução de limpeza ácida."
+
+msgid "18:name=crowbar"
+msgstr "pé de cabra"
+
+msgid "18:description=Makeshift crowbar made from a pipe."
+msgstr "Pé de cabra improvisado feito de cano."
+
+msgid "19:name=metal rod"
+msgstr "haste de metal"
+
+msgid "19:description=It weighs surprisingly little."
+msgstr "Surpreendentemente leve."
+
+msgid "20:name=sponge"
+msgstr "esponja"
+
+msgid "20:description=A flat sponge with a rough surface."
+msgstr "Esponja chata com superfície áspera."
+
+msgid "21:name=empty syringe"
+msgstr "seringa vazia"
+
+msgid "21:description=The needle is particularly long."
+msgstr "A agulha é especialmente grande."
+
+msgid "22:name=filled syringe"
+msgstr "seringa cheia"
+
+msgid "22:description=It's full of the strange liquid from the pond."
+msgstr "Está cheia do líquido estranho da lagoa."
+
+msgid "23:name=amber"
+msgstr "âmbar"
+
+msgid "23:description=A piece of glowing amber with a black clover inside."
+msgstr "Um pedaço de âmbar reluzente com um trevo preto dentro."
+
+msgid "24:name=strange journal"
+msgstr "diário estranho"
+
+msgid "24:description=Found in the Barrens. It's written in an unknown language."
+msgstr "Encontrado nas Terras Áridas. Está em uma língua desconhecida."
+
+msgid "25:name=feather"
+msgstr "pena"
+
+msgid "25:description=A long and slender feather with glowing edges."
+msgstr "Pena longa e fina com bordas brilhantes."
+
+msgid "26:name=bottle of dye"
+msgstr "frasco de pigmento"
+
+msgid "26:description=A small vial filled with dark blue liquid used for dying wool."
+msgstr "Frasquinho com líquido azul escuro para tingir lã."
+
+msgid "27:name=tube of water"
+msgstr "tubo com água"
+
+msgid "27:description=The label says \"water sample\"."
+msgstr "A etiqueta diz “amostra de água”."
+
+msgid "28:name=seed"
+msgstr "semente"
+
+msgid "28:description=It's a seed apparently left behind by Maize."
+msgstr "Semente talvez deixada por Maize."
+
+msgid "29:name=wool"
+msgstr "lã"
+
+msgid "29:description=It's... kind of useless."
+msgstr "É meio... inútil."
+
+msgid "30:name=feather pen"
+msgstr "pena de escrever"
+
+msgid "30:description=A pen made from dipping a feather into ink."
+msgstr "Pena mergulhada em tinta."
+
+msgid "31:name=die"
+msgstr "dado"
+
+msgid "31:description=A die with glowing dots."
+msgstr "Dado com pontos brilhantes."
+
+msgid "32:name=button (?)"
+msgstr "botão (?)"
+
+msgid "32:description=A simple button made from a coffee tin."
+msgstr "Botão simples feito de lata de café."
+
+msgid "33:name=magnetized (?) button"
+msgstr "botão (?) magnetizado"
+
+msgid "33:description=A button with magnets loosely attached."
+msgstr "Botão com ímãs frouxamente presos."
+
+msgid "34:name=taped button"
+msgstr "botão colado"
+
+msgid "34:description=The magnets are secured with tape."
+msgstr "Os ímãs foram colados com fita adesiva."
+
+msgid "35:name=you tried"
+msgstr "você tentou"
+
+msgid "35:description=It's the thought that counts."
+msgstr "O que vale é a intenção."
+
+msgid "36:name=magnets"
+msgstr "ímãs"
+
+msgid "36:description=An assortment of colorful magnets."
+msgstr "Um punhado de ímãs coloridos."
+
+msgid "37:name=metal can"
+msgstr "lata de metal"
+
+msgid "37:description=Made of aluminum. Says \"COFFEE GROUNDS\"."
+msgstr "Feita de alumínio. Lê-se “GRÃOS DE CAFÉ”."
+
+msgid "38:name=scissors"
+msgstr "tesoura"
+
+msgid "38:description=A pair of scissors found amidst hair."
+msgstr "Uma tesoura envolta em cabelo."
+
+msgid "39:name=weird film"
+msgstr "película estranha"
+
+msgid "39:description=A transparent sheet filled with numbers."
+msgstr "Folha transparente cheia de números."
+
+msgid "40:name=concave lens"
+msgstr "lente côncava"
+
+msgid "40:description=A large lens, curved inward."
+msgstr "Lente grande curvada para dentro."
+
+msgid "41:name=convex lens"
+msgstr "lente convexa"
+
+msgid "41:description=A large lens, curved outward"
+msgstr "Lente grande curvada para fora."
+
+msgid "42:name=thin lens"
+msgstr "lente fina"
+
+msgid "42:description=A delicately thin lens."
+msgstr "Lente fina e delicada."
+
+msgid "43:name=thick lens"
+msgstr "lente grossa"
+
+msgid "43:description=A large, thick lens."
+msgstr "Lente grande e grossa."
+
+msgid "44:name=glitter glue"
+msgstr "cola com glitter"
+
+msgid "44:description=A small tube of pink glitter glue."
+msgstr "Vidro de cola pequeno com glitter rosa."
+
+msgid "45:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "45:description=Not a cat!"
+msgstr "Não é felino!"
+
+msgid "46:name=Kip's library card"
+msgstr "Cartão de Kip"
+
+msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
+msgstr "O nome diz “Kip Silverpoint, Ph.D.”"
+
+msgid "47:name=gas mask"
+msgstr "máscara de gás"
+
+msgid "47:description=A mask used to filter air for breathing."
+msgstr "Uma máscara para filtrar o ar."
+
+msgid "48:name=rubber gloves"
+msgstr "luvas de borracha"
+
+msgid "48:description=Gloves designed to prevent chemical damage."
+msgstr "Luvas projetadas para impedir dano químico."
+
+msgid "49:name=boots"
+msgstr "botas"
+
+msgid "49:description=These boots will make it possible to move quickly."
+msgstr "Com essas botas eu me moverei mais rápido."
+
+msgid "50:name=novelty T-shirt"
+msgstr "camiseta com dizeres"
+
+msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
+msgstr "“Eu cuidei dos carneiros e só ganhei esta camiseta ridícula!”"
+
+msgid "51:name=\"Kip\" 's library card"
+msgstr "Cartão de “Kip”"
+
+msgid "51:description=Library card from Kip. Niko's own photo is glued on."
+msgstr "Cartão da biblioteca de Kip. A foto de Niko está colada nele."
+
+msgid "52:name=Library card (sticky)"
+msgstr "Cartão (grudento)"
+
+msgid "52:description=There's glitter glue all over her photo now..."
+msgstr "A foto está com cola de glitter agora..."
+
+msgid "53:name=photo of Niko (sticky)"
+msgstr "Foto de Niko (grudenta)"
+
+msgid "53:description=The back of the photo is covered in glitter glue."
+msgstr "As costas da foto estão cobertas de cola com glitter."
+
+msgid "54:name=DEBUG SAVE"
+msgstr "SALVAMENTO DE DEPURAÇÃO"
+
+msgid "54:description=USE THIS TO SAVE"
+msgstr "USE ISTO PARA SALVAR"
+
+msgid "55:name=dirt"
+msgstr "terra"
+
+msgid "55:description=A bag of dirt, for growing plants"
+msgstr "Saco de terra para plantas."
+
+msgid "56:name=water pill"
+msgstr "comprimido para água"
+
+msgid "56:description=Goes in water, supposedly."
+msgstr "Supostamente para colocar na água."
+
+msgid "57:name=medicated water"
+msgstr "água tratada"
+
+msgid "57:description=The water pill is dissolved in it."
+msgstr "O comprimido se dissolveu na água."
+
+msgid "58:name=clover"
+msgstr "trevo"
+
+msgid "58:description=A black clover."
+msgstr "Trevo preto."
+
+msgid "59:name=empty tube"
+msgstr "tubo vazio"
+
+msgid "59:description=An empty tube.  Used to hold water."
+msgstr "Tubo vazio para colocar água."
+
+msgid "60:name=bottle of pond water"
+msgstr "garrafa com água da lagoa"
+
+msgid "60:description=It has the consistency of glue."
+msgstr "Espessa como cola."
+
+msgid "61:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "61:description=Not a cat!"
+msgstr "Não é felino!"
+
+msgid "62:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "62:description=A backup!"
+msgstr "Um reserva!"
+
+msgid "63:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "63:description=3rd time's the charm?"
+msgstr "A 3ª vez dá sorte, será?"
+
+msgid "64:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "64:description=This is kind of fun."
+msgstr "Estou achando divertido."
+
+msgid "65:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "65:description=Lookin' Good."
+msgstr "Parece boa."
+
+msgid "66:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "66:description=Niko blinked in this one."
+msgstr "Niko piscou nessa."
+
+msgid "67:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "67:description=Nice."
+msgstr "Legal."
+
+msgid "68:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "68:description=Very photogenic."
+msgstr "Quanta fotogenia."
+
+msgid "69:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "69:description=Can't have too much of a good thing!"
+msgstr "Coisas boas nunca são demais!"
+
+msgid "70:name=photo of Niko"
+msgstr "foto de Niko"
+
+msgid "70:description=The ultimate photo."
+msgstr "A foto definitiva."
+
+msgid "71:name=Key 1"
+msgstr "Chave 1"
+
+msgid "72:name=Key 2"
+msgstr "Chave 2"
+
+msgid "73:name=Key 3"
+msgstr "Chave 3"
+
+msgid "74:name=glowing journal"
+msgstr "diário brilhante"
+
+msgid "74:description=It's glowing now...?"
+msgstr "Agora está brilhando...?"
+
+msgid "75:name=memory disk"
+msgstr "disco de memória"
+
+msgid "75:description=A floppy disk."
+msgstr "Um disquete."
+
+msgid "76:name=memory disk (backup)"
+msgstr "disco de memória (backup)"
+
+msgid "76:description=A floppy disk containing a backup."
+msgstr "Um disquete com um backup."
+
+msgid "77:name=charged battery"
+msgstr "bateria carregada"
+
+msgid "77:description=A working, rechargable battery."
+msgstr "Uma bateria recarregável funcional."
+
+msgid "78:name=music box"
+msgstr "caixa de música"
+
+msgid "78:description=A wind-up music box."
+msgstr "Uma caixa de música de corda."
+

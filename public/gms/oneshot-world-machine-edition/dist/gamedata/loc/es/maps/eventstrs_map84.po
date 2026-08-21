@@ -1,0 +1,123 @@
+msgid "Don't lose faith."
+msgstr "No pierdas la esperanza."
+
+msgid "Sigh..."
+msgstr "Ay..."
+
+msgid "@niko You alright?"
+msgstr "@niko ¿Estás bien?"
+
+msgid "Ah, the messiah. Perhaps this is a sign."
+msgstr "Ah, el mesías. Puede que esto sea una señal."
+
+msgid "Tell me, do you think you can fix the world with the sun?"
+msgstr "Dime, ¿crees que puedes arreglar el mundo con el sol?"
+
+msgid "@niko_eyeclosed Honestly, I don't know..."
+msgstr "@niko_eyeclosed Sinceramente, no lo sé..."
+
+msgid "@niko I've been getting mixed messages..."
+msgstr "@niko He estado recibiendo mensajes confusos..."
+
+msgid "I know."
+msgstr "Lo sé."
+
+msgid "But what do YOU think?"
+msgstr "¿Pero TÚ qué crees?"
+
+msgid "@niko I... think...."
+msgstr "@niko Yo... creo que..."
+
+msgid "@niko_speak ...I think I should listen to \\p!"
+msgstr "@niko_speak ... ¡Creo que debería escuchar a \\p!"
+
+msgid "@niko After all, \\p helped me get this far."
+msgstr "@niko Al fin y al cabo, \\p es quien me ha ayudado a llegar hasta aquí."
+
+msgid "I will take your faith for an answer, then."
+msgstr "En ese caso, aceptaré tú fe por respuesta."
+
+msgid "@niko What do you mean by that?"
+msgstr "@niko ¿Qué quieres decir con eso?"
+
+msgid "It means whatever you think it means."
+msgstr "Quiere decir lo que tú creas que quiera decir."
+
+msgid "[BEEP BOOP]"
+msgstr "[BIIIP BUUP]"
+
+msgid "@niko Beep boop."
+msgstr "@niko Biip buup."
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko El panel de botones del ascensor."
+
+msgid "@niko This elevator goes back up to the catwalks."
+msgstr "@niko Este ascensor sube de vuelta a las pasarelas."
+
+msgid "@niko_speak We'll need to press the button if we wanna go back up!"
+msgstr "@niko_speak ¡Tenemos que pulsar el botón si queremos volver a subir!"
+
+msgid "@plight Anyway, it was nice meeting you... uh..."
+msgstr "@plight De todas formas, ha sido un placer conocerte... eh."
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak ¡Niko!"
+
+msgid "@plight ...Right. See you around, kid."
+msgstr "@plight ... Bueno. Te veré por ahí, criaturilla."
+
+msgid "@plight Gotta run now!"
+msgstr "@plight ¡Ahora tengo que irme corriendo!"
+
+msgid "@niko He seems in a hurry..."
+msgstr "@niko Parece que tiene prisa..."
+
+msgid "@niko I guess we should hurry too, \\p."
+msgstr "@niko Creo que nosotros también tendríamos que darnos prisa, \\p."
+
+msgid "@niko_speak People are counting on us!"
+msgstr "@niko_speak ¡La gente cuenta con nosotros!"
+
+msgid "@niko Let's go find that library."
+msgstr "@niko Vamos a buscar esa biblioteca."
+
+msgid "@niko It's locked from the inside."
+msgstr "@niko Está cerrada por dentro."
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[¡NOTICIAS VESPERTINAS! ¡NOTICIAS VESPERTINAS!]"
+
+msgid "[ARE YOU HERE TO PURCHASE A COPY?]"
+msgstr "[¿HAS VENIDO A COMPRAR UNA COPIA?]"
+
+msgid "@niko ...No?"
+msgstr "@niko ... ¿No?"
+
+msgid "@niko_speak Newspapers are for grown-ups!"
+msgstr "@niko_speak ¡Los periódicos son para los adultos!"
+
+msgid "[GROWN... UPS?]"
+msgstr "[¿ADULTOS?]"
+
+msgid "@niko Yeah!"
+msgstr "@niko ¡Sí!"
+
+msgid "[WHAT DOES THAT MEAN?]"
+msgstr "[¿ESO QUÉ SIGNIFICA?]"
+
+msgid "@niko_speak It means people who aren't kids!"
+msgstr "@niko_speak ¡Son gente que ya no son niños!"
+
+msgid "[KIDS?]"
+msgstr "[¿NIÑOS?]"
+
+msgid "@niko ...er... aren't you a kid?"
+msgstr "@niko Pero... eh... ¿tú no eres un niño?"
+
+msgid "[I AM A ROBOT.]"
+msgstr "[YO SOY UN ROBOT.]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed Ya..."
+

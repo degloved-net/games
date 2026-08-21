@@ -1,0 +1,135 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko6 This is the room I first woke up in..."
+msgstr "@niko6 Это комната, в которой я впервые проснулся."
+
+msgid "@niko_speak \\p? Are you still here?"
+msgstr "@niko_speak \\p? Ты ещё тут?"
+
+msgid "@niko2 ...\\p?"
+msgstr "@niko2 \\p?.."
+
+msgid "[\"Yes?\"]"
+msgstr "[\"Да?\"]"
+
+msgid "@niko_pancakes \\p!!!"
+msgstr "@niko_pancakes \\p!!!"
+
+msgid "@niko_speak I... I think..."
+msgstr "@niko_speak Кажется..."
+
+msgid "@niko_pancakes I think it worked!!!"
+msgstr "@niko_pancakes Кажется, сработало!!!"
+
+msgid "[\"It did!\"]"
+msgstr "[\"Да, сработало!\"]"
+
+msgid "@niko_speak The sun is back!\\>\\nAnd I actually got to see it this time!"
+msgstr "@niko_speak Солнце вернулось!\\>\\nИ на этот раз я действительно его вижу!"
+
+msgid "@niko_pancakes We... actually did it...!"
+msgstr "@niko_pancakes У нас... в самом деле получилось!.."
+
+msgid "@niko5 So... \\>\\@niko6 what do we do now?"
+msgstr "@niko5 И... \\>\\@niko6 Что нам теперь делать?"
+
+msgid "@niko I guess I should figure out how to get home from here..."
+msgstr "@niko Теперь надо сообразить, как отсюда попасть домой..."
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 Подождите..."
+
+msgid "@niko2 This... \\.\\.isn't a door, is it?"
+msgstr "@niko2 Это же... \\.\\.не дверь?"
+
+msgid "@niko This looks like one of those portals we saw all the way back in the city."
+msgstr "@niko Это похоже на порталы, которые мы видели в городе."
+
+msgid "@niko6 In the room behind the big clock."
+msgstr "@niko6 В комнате за большими часами."
+
+msgid "@niko And... and..."
+msgstr "@niko И... и..."
+
+msgid "@niko_speak I see a wheat field on the other side!"
+msgstr "@niko_speak Там, на другой стороне я вижу пшеничное поле!"
+
+msgid "@niko_pancakes ...I see my village..."
+msgstr "@niko_pancakes Я вижу мою деревню..."
+
+msgid "@niko_pancakes I hear...\\.\\. my mama...."
+msgstr "@niko_pancakes Я слышу...\\.\\. как мама зовёт..."
+
+msgid "@niko2 She's looking for me..."
+msgstr "@niko2 Она меня ищет..."
+
+msgid "@niko3 ...."
+msgstr "@niko3 ..."
+
+msgid "@niko3 Ah, \\p..."
+msgstr "@niko3 Ох, \\p..."
+
+msgid "@niko5 This...\\.\\. isnt the first time we've said goodbye, is it?"
+msgstr "@niko5 Мы ведь...\\.\\. уже не в первый раз прощаемся?"
+
+msgid "@niko_distressed2 But... this'll be the last time, won't it?"
+msgstr "@niko_distressed2 Но этот будет последним, да?"
+
+msgid "@niko_distressed I don't think we'll ever see each other again after this..."
+msgstr "@niko_distressed После всего этого не думаю, что мы ещё свидимся."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_distressed ...and... what will become of the world?"
+msgstr "@niko_distressed И... что же будет с этим миром?"
+
+msgid "@niko_eyeclosed2 ...after all we've been through."
+msgstr "@niko_eyeclosed2 После всего, через что мы прошли."
+
+msgid "@niko3 After everything we've done..."
+msgstr "@niko3 После всего, что мы сделали..."
+
+msgid "@niko_distressed2 I still... \\>\\@niko_distressed don't know..."
+msgstr "@niko_distressed2 Я даже... \\>\\@niko_distressed не знаю..."
+
+msgid "[\"This place...\"]"
+msgstr "[\"Это место...\"]"
+
+msgid "[\"These people...\"]"
+msgstr "[\"Эти люди...\"]"
+
+msgid "[\"Won't stop existing.\"]"
+msgstr "[\"Не перестанут существовать.\"]"
+
+msgid "[\"They'll be in your memory.\"]"
+msgstr "[\"Они останутся в твоей памяти.\"]"
+
+msgid "[\"They'll be in my memory, too\"]"
+msgstr "[\"И в моей тоже.\"]"
+
+msgid "@niko2 ...."
+msgstr "@niko2 ..."
+
+msgid "@niko2 I... \\>\\@niko_speak promise I'll never forget this world!"
+msgstr "@niko2 Я... \\>\\@niko_speak Обещаю, что никогда не забуду этот мир!"
+
+msgid "@niko3 I promise... \\@niko I'll never forget you, \\p."
+msgstr "@niko3 И обещаю... \\@niko что никогда не забуду тебя, \\p."
+
+msgid "@niko2 So... take care of yourself, okay?"
+msgstr "@niko2 Так что... Ты там береги себя, ладно?"
+
+msgid "[\"You too.\"]"
+msgstr "[\"Ты тоже.\"]"
+
+msgid "@niko Mhm...."
+msgstr "@niko Ага..."
+
+msgid "[\"Goodbye, Niko.\"]"
+msgstr "[\"Прощай, Нико.\"]"
+
+msgid "@niko2 Goodbye, \\p..."
+msgstr "@niko2 Пока, \\p..."
+

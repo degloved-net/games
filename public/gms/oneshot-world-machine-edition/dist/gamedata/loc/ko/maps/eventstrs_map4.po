@@ -1,0 +1,51 @@
+msgid "@ed [The wood in the fireplace looks like it was never used.]"
+msgstr "@ed [벽난로 속 땔나무가 그대로 있다.]"
+
+msgid "@ed [Perhaps it could be \\c[6]lit\\c[0].]"
+msgstr "@ed [\\c[6]불을 피울 수 있을지도\\c[0] 모르겠다.]"
+
+msgid "@ed [The \\c[6]flames\\c[0] are dim but comforting.]"
+msgstr "@ed [희미한 \\c[6]불꽃\\c[0]이지만 왠지 마음이 편안해진다.]"
+
+msgid "@niko_speak Helloooo?\\>\\n\\@niko ...anyone?"
+msgstr "@niko_speak 저기요오?\\>\\n\\@niko ...아무도 없나요?"
+
+msgid "@ed [The sink won't turn on.]"
+msgstr "@ed [싱크대에서는 물이 나오지 않는다.]"
+
+msgid "@ed [Something on the ground glimmers in the firelight.]"
+msgstr "@ed [뭔가가 불빛을 받아 바닥 위에서 희미하게 반짝인다.]"
+
+msgid "@ed [It appears to be a small metallic object,\\nwedged into a crack in the floor.]"
+msgstr "@ed [바닥 틈새에 \\n작은 금속 물체가 끼어 있다.]"
+
+msgid "@ed [Niko digs it out.]"
+msgstr "@ed [니코는 금속 물체를 파냈다.]"
+
+msgid "@ed [The refrigerator is empty.]"
+msgstr "@ed [냉장고가 비어 있다.]"
+
+msgid "@ed [Inside the refrigerator is a \\c[2]bottle of alcohol\\c[0].]"
+msgstr "@ed [냉장고 안에 \\c[2]술병\\c[0]이 있다.]"
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [니코는 병을 집어 들었다.]"
+
+msgid "@ed [Niko readies the branch...]"
+msgstr "@ed [니코는 나뭇가지를 가져다 댔다...]"
+
+msgid "@ed [It doesn't manage to light.]"
+msgstr "@ed [이걸로는 불이 붙지 않는다.]"
+
+msgid "@niko_speak Ah!"
+msgstr "@niko_speak 앗!"
+
+msgid "@ed [The TV gives off a dangerous-looking \\c[3]spark\\c[0].]"
+msgstr "@ed [TV에서 \\c[3]불꽃\\c[0]이 튀고 있다. 위험해 보인다.]"
+
+msgid "@ed [Just a table.]"
+msgstr "@ed [평범한 탁자다.]"
+
+msgid "@ed [Just a chair.]"
+msgstr "@ed [평범한 의자다.]"
+

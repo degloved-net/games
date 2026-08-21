@@ -1,0 +1,84 @@
+msgid "@alula_gasp You saved me!"
+msgstr "@alula_gasp Ты меня спас!"
+
+msgid "@alula Thank you!"
+msgstr "@alula Спасибо!"
+
+msgid "@alula I was trapped in there for so long..."
+msgstr "@alula Я так долго не могла отсюда выбраться..."
+
+msgid "@niko So are you Alula?"
+msgstr "@niko Значит, ты Алула?"
+
+msgid "@alula_gasp ..."
+msgstr "@alula_gasp ..."
+
+msgid "@alula_gasp You... knew my name?"
+msgstr "@alula_gasp Ты... знаешь моё имя?"
+
+msgid "@alula_speak Wow! The messiah really does know everything!"
+msgstr "@alula_speak Ух ты! Мессия действительно знает всё!"
+
+msgid "@niko_eyeclosed Actually...\\.\\. \\@niko_speak I just met your brother earlier."
+msgstr "@niko_eyeclosed Вообще-то...\\.\\. \\@niko_speak Я просто недавно встретил твоего брата."
+
+msgid "@alula_oh Oh, right!"
+msgstr "@alula_oh А, понятно!"
+
+msgid "@alula_pout Gosh... Calamus must be so worried..."
+msgstr "@alula_pout Боже... Каламус, наверное, ужасно волнуется..."
+
+msgid "@alula Can you bring me to him?"
+msgstr "@alula Ты можешь меня к нему отвести?"
+
+msgid "@niko Wait a minute...\\>\\n\\@niko_speak How did you know that I was the,\\. um,\\. messiah?\\>\\n\\@niko_eyeclosed I don't have the sun with me..."
+msgstr "@niko Погоди-ка...\\>\\n\\@niko_speak Откуда ты узнала, что я...\\. э-э-э...\\. мессия?\\>\\n\\@niko_eyeclosed У меня с собой нет солнца..."
+
+msgid "@alula Your eyes!"
+msgstr "@alula По глазам!"
+
+msgid "@niko Huh?"
+msgstr "@niko Что?"
+
+msgid "@alula_speak They reminded me of the sun!"
+msgstr "@alula_speak Они напомнили мне солнце!"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@alula That's why you're our messiah, right?"
+msgstr "@alula Поэтому ты наш мессия, так?"
+
+msgid "@niko Well...\\. I... \\>\\n\\@niko_speak A lot of people back in my home world have eyes like mine..."
+msgstr "@niko Ну...\\. Я... \\>\\n\\@niko_speak В моем мире у многих людей такие же глаза, как у меня..."
+
+msgid "@alula_pout Home... world?"
+msgstr "@alula_pout В твоём... мире?"
+
+msgid "@niko_speak Yeah! \\>\\@niko I'm actually from another world, you see!\\>\\nIt's a place where the sun is in the sky and not in a Tower."
+msgstr "@niko_speak Да! \\>\\@niko Понимаешь, я, вообще-то, из другого мира!\\>\\nИ там солнце находится в небе, а не на Башне."
+
+msgid "@alula Do you like this world too?"
+msgstr "@alula А этот мир тебе нравится?"
+
+msgid "@niko I...\\> \\@niko_speak Yeah."
+msgstr "@niko Мне...\\>\\@niko_speak Ну да."
+
+msgid "@alula_speak Yay!\\>\\n\\@alula_pout Calamus keeps saying how this world is getting more dangerous by the minute."
+msgstr "@alula_speak Классно!\\>\\n\\@alula_pout Каламус постоянно твердит, что этот мир становится опаснее с каждой минутой."
+
+msgid "@alula_speak But that's ok! You're here now!\\>\\n\\@alula You can make everything better!"
+msgstr "@alula_speak Но это ничего! Теперь ты здесь!\\>\\n\\@alula Ты всё исправишь к лучшему!"
+
+msgid "@niko Yeah..."
+msgstr "@niko Да..."
+
+msgid "@niko_speak W-What in the world is this thing in the doorway?"
+msgstr "@niko_speak Ч-что это за штука там в дверях?"
+
+msgid "@niko It reminds me of what I saw a while ago, at the cliffs...\\nFor some reason, I'm afraid to touch it."
+msgstr "@niko Она напоминает мне кое-что, что я недавно видел на скалах...\\nЯ почему-то боюсь это трогать."
+
+msgid "@alula_oh Hey! Where are you going?"
+msgstr "@alula_oh Эй! Ты куда?"
+

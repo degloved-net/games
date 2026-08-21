@@ -1,0 +1,234 @@
+msgid "prophetbot:title=ProphetBot"
+msgstr "Робот-пророк"
+
+msgid "prophetbot:subtitle=Met: Barrens"
+msgstr "Место встречи: Пустошь"
+
+msgid "prophetbot:infoText=Prophetbot is a nice and friendly robot that lives in the outskirts of the world, waiting for the messiah. One day the messiah showed up! That was a very good day for Prophetbot.\n\nWhen the messiah is not around, Prophetbot likes to spend his time standing around waiting for the messiah to come back."
+msgstr "Робот-пророк — славный малый. Обретается на задворках мира в ожидании мессии. И однажды мессия является ему! Этот день становится лучшим на памяти робота-пророка.\n\nКогда мессия отлучается, робот-пророк стоит на своём посту и ждёт его возвращения."
+
+msgid "silver:title=Silver"
+msgstr "Сильвер"
+
+msgid "silver:subtitle=Met: Barrens"
+msgstr "Место встречи: Пустошь"
+
+msgid "silver:infoText=The Barren's head engineer, a rather morose robot living alone near the mines. It's her duty to oversee operations and maintenance of the world's industrial heart, where metals and resources are pulled from the earth's clutches and rendered into usable goods.\n\n...at least, that's how things used to be. Since the evacuation, only a few active robots remain under Silver's care, holding out on reserve power and waiting for the messiah to appear."
+msgstr "Малоприветливый робот, выполняющий функцию главного инженера Пустоши. Живёт в одиночестве неподалёку от шахт. В её обязанности входит контроль и техническое обслуживание промышленного ядра этого мира. Здесь металлы и полезные ископаемые покидают недра земли и используются для производства различных изделий.\n\nПо крайней мере, так дела обстояли раньше. Однако после эвакуации на попечении Сильвер осталось всего несколько действующих роботов. Они ждут появления мессии и стараются не растратить резервное питание."
+
+msgid "rowbot:title=Rowbot"
+msgstr "Робот-перевозчик"
+
+msgid "rowbot:subtitle=Met: Barrens"
+msgstr "Место встречи: Пустошь"
+
+msgid "rowbot:infoText=A little robot attached to a rowboat, rusted in place by the ocean's mist. Once part of a fleet that transported small amounts of cargo and occassional passengers across the ocean between the Barrens and the Glen. That fleet has been largely disbanded since people fled the Barrens when the sun was extinguished. Only this bot remains, dutifully stationed in case there's ever need for one more trip to that distant shore."
+msgstr "Небольшой робот, прикреплённый к лодке. Знатно заржавел из-за сильных туманов. Некогда он был частью флота. В задачи робота входила перевозка малых грузов и редких пассажиров. Маршрут пролегал между Пустошью и Долиной, через океан. После того как солнце погасло, люди спешно покинули Пустошь и флот распустили. Лишь этот робот-перевозчик остался исполнять свой последний долг на случай, если кому-то потребуется переправа."
+
+msgid "calamus:title=Calamus"
+msgstr "Каламус"
+
+msgid "calamus:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "calamus:infoText=A polite boy that leads a quiet life with his younger sister Alula in the ruins outside of town. He often has his hands full looking out for her and tends to worry when she's not around.\n\nCalamus spends most of his time fishing and foraging around the ruins, and relies on his friend Magpie to trade for any goods that can't be scavenged. Though they don't have much in the way of luxuries, Calamus has a small collection of books gifted by an old friend that he likes to study when he gets a chance. Judging by the amount of progress he's made however, those chances don't come very often."
+msgstr "Тихий, воспитанный мальчик, обитающий в руинах неподалёку от поселения вместе с младшей сестрой Алулой. Он жутко переживает, когда её нет рядом, и тратит немало времени на поиски малышки.\n\nВ остальное время Каламус занимается рыбалкой и собирательством. А то, что ему не удаётся найти, он пытается выменять у своего приятеля Барахольщика. В жизни Каламуса нет особых излишеств, зато у него есть небольшая коллекция книг, подарок давнего друга. И каждую свободную минуту он старается посвятить её изучению. Только вот, судя по прогрессу, лишняя минутка ему выпадает нечасто."
+
+msgid "alula:title=Alula"
+msgstr "Алула"
+
+msgid "alula:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "alula:infoText=A cheerful, excitable young girl. She lives in the ruins under the care of her older brother Calamus. Too young to remember much of what the world was like before the sun was lost, Alula is optimistic and thrilled to be helping the messiah on their special quest.\n\nWhen Alula isn't busy exploring every nook and cranny the ruins has to offer, she can usually be found helping out her big brother or playing around the courtyard near their home."
+msgstr "Жизнерадостная подвижная девчушка, живущая в руинах под опекой старшего брата Каламуса. Когда солнце погасло, Алула была совсем малышкой и потому не помнит прежний мир. Она излучает оптимизм и готова с радостью помочь мессии.\n\nАлула обожает исследовать уголки и закоулки руин. В остальное время она либо помогает брату, либо играет во дворе, неподалёку от дома."
+
+msgid "maize:title=Maize"
+msgstr "Маиза"
+
+msgid "maize:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "maize:infoText=A benevolent and powerful plant spirit, acting as a sort of guardian for the Glen. The last of her kind, her life force has slowly dwindled in the absence of the sun's light. After all of these cold hungry years, her only wish is to see the sun once more."
+msgstr "Сильный и добрый дух растений. Она стоит на страже Долины. Сущности, подобные Маизе, погибли, лишившись подпитки солнечным светом, да и её саму покинули силы. Но, несмотря на годы лишений и жизни в сумраке, её желание ещё разок увидеть солнце не угасло."
+
+msgid "magpie:title=Magpie"
+msgstr "Барахольщик"
+
+msgid "magpie:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "magpie:infoText=An easygoing merchant and purveyor of fine goods. \"Fine\" in this case mostly meaning \"colorful and/or shiny\". Still, it's always a good idea to check what's in stock - he might have just what you've been looking for. The shop operates on barter however, so be prepared to give up something Magpie deems interesting enough for a trade.\n\nMagpie used to have a much more impressive collection until his shop was tragically lost to the sinking ground, forcing Magpie to flee in the wagon that's now his home. Calamus and Alula are some of Magpie's best customers, finding all sorts of curiosities lost in the ruins."
+msgstr "Беспечный перекупщик и торговец первоклассными товарами. Первоклассные товары, в понимании Барахольщика, — это всякие яркие вещички и блестящие штучки. Тем не менее взглянуть на его ассортимент не помешает: никогда не знаешь, что он успел раздобыть. Лавочка Барахольщика работает по принципу бартера, так что будьте готовы предоставить ему что-нибудь стоящее взамен.\n\nНекогда коллекция Барахольщика насчитывала множество интереснейших экземпляров, однако она оказалась погребена под водой. Торговцу тогда чудом удалось спастись на повозке, с тех пор она служит ему и лавочкой, и ночлегом. Барахольщик считает Каламуса и Алулу своими лучшими клиентами, ведь только они способны отыскать невиданные диковинки в руинах."
+
+msgid "shepherd:title=Shepherd"
+msgstr "Пастушка"
+
+msgid "shepherd:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "shepherd:infoText=A shepherd woman who tends a flock of rams. Seems to have an endless supply of ram puns and computer puns. You could say she has a lot of \"rammunition\". A real \"dyed-in-the-wool\" pun fanatic. Her love of puns never \"DIMM\"s. The \"MOS\" puns you've ever \"herd\". Must have really good \"memory\" to remember them all. Even so, you can't help but groan a \"bit\".\n\ncomputer."
+msgstr "Пасёт стадо баранов и сыплет шуточки о них, словно из рога изобилия. И надо сказать, чувство юмора у пастушки бе-е-езупречное! Может скрутить в бараний рог любого, кто покусится на овечек, и не ОТАРАпеет при виде опасности. Любит баранки. На дух не переносит каракули, каре и молчание ягнят."
+
+msgid "lamplighter:title=Lamplighter"
+msgstr "Фонарщик"
+
+msgid "lamplighter:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "lamplighter:infoText=A tired-looking man who seems to subsist purely on gallons of coffee. It's unclear how long it's been since the last time he slept. Though he's not the brightest fellow, he's an incredibly hard worker and takes his job very seriously. So seriously, in fact, that he gets anxious whenever he can't perform his duties. He's responsible for keeping the lights around the city lit, as well as delivering highly concentrated phosphor for use in machines.\n\nA high-school dropout, he feels nervous whenever he has to be around smart people. Lately the Lamplighter has taken to reading the dictionary in what little free time he has."
+msgstr "Вечно усталый мужчина, который, похоже, держится на одном лишь кофе. Сложно сказать, когда он в последний раз отдыхал, да и спит ли он вообще... Светлым умом Фонарщик не блещет, однако он крайне ответственно подходит к своей работе. Настолько ответственно, что всякий раз, когда не получается выполнить задачу, ему становится дурно. Фонарщик отвечает за городское освещение и поставку высококонцентрированного фосфора для машин.\n\nКогда-то ему пришлось бросить школу, и теперь в окружении образованных людей он чувствует себя не в своей тарелке. Чтобы как-то исправить ситуацию, Фонарщик решил заняться самопросвещением и начал изучать словарь. Но пока продвигается не очень успешно: всё времени не хватает."
+
+msgid "watcher:title=The Watcher"
+msgstr "Часовая"
+
+msgid "watcher:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "watcher:infoText=A strange woman standing in the clocktower, watching the world end.\n\nSeconds, minutes, hours, days; the flow of time inexorably drags us all towards a vast and unknowable sea. Will you let it carry you in darkness, squinting against the sting of its spray? Will you rage against its currents, fighting to make as much headway as you can before you're overtaken? Or will you choose, as some, to stare wide-eyed at this swirling torrent and become enraptured by it?"
+msgstr "Странная дева, наблюдающая за концом света с вершины часовой башни.\n\nСекунды, минуты, часы сливаются в дни и недели... Поток времени неумолимо уносит нас в бескрайние неизведанные воды. Но что же нам делать? Плыть по течению, пытаясь разглядеть во тьме грядущее и не захлебнуться в волнах? Двигаться наперекор, барахтаясь из последних сил в надежде самостоятельно выплыть? Или, быть может, просто заворожённо наблюдать за происходящим как бы со стороны, пока поток не поглотит нас?"
+
+msgid "ling:title=Ling"
+msgstr "Линг"
+
+msgid "ling:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "ling:infoText=The friendly proprietor of the Refuge Cafe. Once a popular spot to relax and bask in the warm aromas and gentle sounds of cafe ambiance, it's mostly deserted since the squares began picking apart the upper reaches of the city. Nowadays, Ling's best customer is the unfaltering (though not especially talkative) Lamplighter.\n\nAlways a gracious host, Ling enjoys meeting customers both new and old and chatting with them. If you ask nicely, he might even take the time to whip up a request for something off-menu!"
+msgstr "Дружелюбный владелец кафе в Пристанище. Некогда его заведение служило местом отдыха для многочисленных посетителей, желающих насладиться чарующим ароматом блюд и нежными звуками музыки. Но с тех пор, как верхние уровни города захватили квадраты, посетителей в кафе поубавилось. По правде говоря, теперь к Лингу захаживает лишь один постоянный клиент — Фонарщик. Только вот он не особо разговорчивый.\n\nА Линг весьма приветливый владелец и любит поболтать как со старыми, так и с новыми посетителями. И если кто-то придётся ему по душе, он с удовольствием приготовит для него нечто особенное."
+
+msgid "mason:title=Mason"
+msgstr "Мэйсон"
+
+msgid "mason:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "mason:infoText=A chatty guy with a passion for plants. He owns a small plant shop in the refuge apartment district, however it's mostly just an excuse to do more gardening as Mason tends to gift almost as many plants as he sells. When it comes to horticultural advice, Mason is the guy to see.\n\nA friend of the Watcher. Mason also admires the Lamplighter's hard work, and once sent him one of his plants as a thank-you."
+msgstr "Знаток растений и любитель поболтать. Управляет небольшим цветочным магазинчиком в Пристанище, который расположен в жилом районе. Сложно назвать это дело бизнесом, скорее хобби, поскольку Мэйсон зачастую раздаривает половину своих товаров. Если вдруг возникает вопрос по садоводству, лучшего советчика, чем Мэйсон, не найти.\n\nМэйсон водит дружбу с Часовой и невероятно ценит усердие Фонарщика. Как-то раз он даже отправил Фонарщику растение в знак признательности."
+
+msgid "kelvin:title=Kelvin"
+msgstr "Кельвин"
+
+msgid "kelvin:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "kelvin:infoText=A space heater robot that has claimed one of the corners of the Refuge's back alleys as his own. Kelvin's warm body naturally attracts a lot of cats, and he seems to have developed some kind of bond with them. Kelvin is always willing to offer his warmth and comfort to any creature that wanders by.\n\nTechnically the lamplighter's neighbour, but they don't interact much..."
+msgstr "Робот-обогреватель, обосновавшийся в одном из переулков Пристанища. Теплота, исходящая от Кельвина, привлекает кошек, да и в его микросхемах со временем нашлось местечко для пушистиков. Кельвин готов приютить и обогреть каждого встречного.\n\nОн расположился по соседству с Фонарщиком, однако общаются они мало..."
+
+msgid "kip:title=Kip"
+msgstr "Кип"
+
+msgid "kip:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "kip:infoText=The brilliant and highly respected head engineer of the Refuge, Kip is responsible for many advances in robot technology that make our lives easier every day. She's also the creator of many robots that can be met throughout the world; most notably Silver, the Barrens head engineer who was based on Kip's own image.\n\nSilver was intended to be the first of a new type of robot that could think and act like a person. Unfortunately, the difficulty of that task led to her going rogue during development. Though Silver was eventually stabilized, that day left a scar on their relationship that has yet to heal.\n\nThough her creations are well known, the creator herself prefers to keep a low profile and focus on her work. It's likely that few outside of her colleagues have ever seen her."
+msgstr "Гениальный и глубокоуважаемый главный инженер Пристанища. Именно Кип мир обязан многочисленными открытиями в области робототехники, которые сильно упростили жизнь. Кип построила немало роботов, что населили этот мир. Одним из её главных изобретений стала Сильвер — главный инженер Пустоши. Кип создала её по своему подобию.\n\nСильвер должна была стать прототипом робота, который действовал и думал бы как человек. К сожалению, эксперимент завершился неудачей: со временем робот взбунтовался. Сильвер удалось стабилизировать, но тот случай сильно повлиял на отношения изобретательницы и её творения.\n\nРазработки Кип пользуются огромной популярностью, однако сама она не любит излишнего внимания к своей персоне и предпочитает всё свободное время уделять проектам. Она очень замкнута и, кроме коллег, её никто толком и не знает."
+
+msgid "george1:title=George"
+msgstr "Джордж"
+
+msgid "george1:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george1:infoText=George is the fantastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a big responsibility, but there's no-one better suited to the task.\n\nThe best way to describe George would be to ask someone to imagine meeting a gold medalist, at the sport of being a librarian, that also refers to themselves in the third person."
+msgstr "Джордж — потрясающий главный библиотекарь, состоящий на службе в Пристанище. Она заведует всеми ресурсами библиотеки и управляет её работой, а также помогает Автору с публикацией рукописей. На Джордж возложена большая ответственность, и лишь ей одной под силу справиться с этой задачей.\n\nЧтобы узнать Джордж получше, представьте чемпиона мира по библиотечному делу, который к тому же говорит о себе в третьем лице."
+
+msgid "george2:title=George"
+msgstr "Джордж"
+
+msgid "george2:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george2:infoText=George is the exasperated head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of work, and it doesn't leave George much patience to spare.\n\nThe best way to describe George would be to ask someone to picture a novelty mug that says \"Don't talk to me until I've had my coffee\"... that has only ever been filled with water."
+msgstr "Джордж — вечно раздражённый главный библиотекарь, состоящий на службе в Пристанище. Она заведует всеми ресурсами библиотеки и управляет её работой, а также помогает Автору с публикацией рукописей. Задача эта непростая и напряжённая, поэтому Джордж вечно теряет терпение.\n\nЧтобы узнать Джордж получше, представьте себе кружку с надписью: «Выпив кофе, я обретаю полное спокойствие»... Только вот в кружку эту не наливают ничего, кроме воды."
+
+msgid "george3:title=George"
+msgstr "Джордж"
+
+msgid "george3:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george3:infoText=George is the distraught head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of pressure, and George often feels completely overwhelmed.\n\nThe best way to describe George would be to imagine a stuffed animal falling forward forever down an infinite flight of stairs."
+msgstr "Джордж — взволнованный главный библиотекарь, состоящий на службе в Пристанище. Она заведует всеми ресурсами библиотеки и управляет её работой, а также помогает Автору с публикацией рукописей. Задача эта требует стрессоустойчивости, которой Джордж в полной мере не обладает, а потому частенько срывается.\n\nЧтобы узнать Джордж получше, представьте плюшевую игрушку, которая катится вниз по бесконечной лестнице, а дна всё не видать."
+
+msgid "george4:title=George"
+msgstr "Джордж"
+
+msgid "george4:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george4:infoText=George is the enthusiastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a great opportunity for George to share her passion for literature, and read all the latest books.\n\nThe best way to describe George would be to think of a dog that always wants to show everyone its favourite toy, but the toy is books and the dog is a librarian and also not a dog but still having a good time."
+msgstr "Джордж — полный энтузиазма главный библиотекарь, состоящий на службе в Пристанище. Она заведует всеми ресурсами библиотеки и управляет её работой, а также помогает Автору с публикацией рукописей. Джордж считает, что ей выпала отличная возможность привить посетителям любовь к литературе, а также раньше других ознакомиться с новинками.\n\nЧтобы узнать Джордж получше, представьте себе собаку, которой не терпится продемонстрировать всем и каждому свою любимую игрушку. Только в данном случае игрушка — это книги, а собака — библиотекарь. (Не собака-библиотекарь, а просто библиотекарь, которая приходит в щенячий восторг при виде книг.)"
+
+msgid "george5:title=George"
+msgstr "Джордж"
+
+msgid "george5:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george5:infoText=George is the caring head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's an important job, and George is more than happy to be able to help so many people in the community through her work.\n\nThe best way to describe George would be to ask someone to picture a warm towel fresh out of the dryer."
+msgstr "Джордж — заботливый главный библиотекарь, состоящий на службе в Пристанище. Она заведует всеми ресурсами библиотеки и управляет её работой, а также помогает Автору с публикацией рукописей. Это важная миссия, и Джордж рада служить на благо общества.\n\nЧтобы узнать Джордж получше, представьте нагретые на батарее носочки, которые мама приготовила для вас после прогулки."
+
+msgid "george6:title=George"
+msgstr "Джордж"
+
+msgid "george6:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "george6:infoText=George is the head honcho of the library. Y'know, the one in the Refuge? Not only does she help the library run smooth as butter, she's also in charge of publishing for the big man himself: The Author. It's a pretty chill job, all things considered.\n\nIf you're wondering what George is like to hang with, just picture someone who's both the coolest cat... AND the hottest dog. Ya dig?"
+msgstr "Джордж — большая шишка в библиотеке. Ну, в той читальне, что в Пристанище. Короче, она всем там заправляет: книжки раздаёт и все дела. В общем, фигнёй не страдает. Ещё и для челика одного, Автора, бумажки перебирает. В общем, работка — кайф.\n\nКто она по жизни? Скажем так, в Джордж сочетаются реальная волчица и дикая кошечка... Сечёте?"
+
+msgid "prototype:title=Prototype"
+msgstr "Прототип"
+
+msgid "prototype:subtitle=Met: Barrens"
+msgstr "Место встречи: Пустошь"
+
+msgid "prototype:infoText=A dour and reclusive robot that lives in the outskirts of the outskirts of the world, waiting for a second chance. One day the messiah showed up; that was truly an unexpected turn of events.\n\nProto is a child of The Author and a predecessor to the Prophetbot that lives in the Barrens. Originally built to serve the same purpose of greeting the messiah, not as a preprogrammed robot but a tamed one with its own will. Unfortunately, Prototype never saw a messiah in their own time.\n\nThough seemingly unfriendly, Proto isn't uncaring. He keeps his eye on Silver and the Barrens from the shadows, and Silver looks out for him in turn."
+msgstr "Угрюмый робот, предпочитающий одиночество. Обретается на задворках задворок мира в надежде получить второй шанс. И однажды к нему является мессия. Такого поворота прототип явно не ожидал.\n\nПрото был создан Автором и стал предшественником робота-пророка, который позднее поселился в Пустоши. Но, в отличие от него, Прото приручён и может действовать не только в рамках программы. Его цель — встреча с мессией, которая в своё время так и не состоялась.\n\nПрото может казаться недружелюбным, однако он не лишён своего рода привязанностей. Робот приглядывает за Пустошью и Сильвер, а та взамен заботится о нём."
+
+msgid "cedric:title=Cedric"
+msgstr "Седрик"
+
+msgid "cedric:subtitle=Met: Glen"
+msgstr "Место встречи: Долина"
+
+msgid "cedric:infoText=A prodigious tinkerer and child of The Author. Cedric is the operator of the only known Flying Machine, a miraculous and highly advanced device that can travel the skies. Cedric has been waiting in the Refuge for the day the world can truly be saved. Cedric is hopeful, and eager to play his role in the final gambit."
+msgstr "Дитя Автора и мастер на все руки. Седрик проживает в Пристанище и пилотирует высокотехнологичный воздухоплавательный аппарат, называемый летающей машиной. Долгие годы Седрик ждал возможности спасти мир. Он полон оптимизма и надеется сыграть не последнюю роль в грядущих событиях."
+
+msgid "rue:title=Rue"
+msgstr "Рута"
+
+msgid "rue:subtitle=Met: Refuge"
+msgstr "Место встречи: Пристанище"
+
+msgid "rue:infoText=A mysterious fox who can talk. Rue has a bad leg, but the origins of the injury are unknown. Nevertheless, it doesn't seem to bother her too much.\n\nRue is the first child of the Author, and knows many secrets about the world and its true nature. While she feels wistful thinking back upon how her real world is gone, she is determined to do whatever she can to help Niko set this one right. She is able retain some of her memories across sessions and has always been watching, and always been waiting for the day her father's plan would finally be set in motion."
+msgstr "Рута — загадочная говорящая лисица. Одна из её лапок повреждена, но как это случилось — неизвестно. И кажется, травма её не особо беспокоит.\n\nРута — первое дитя Автора. Ей известны многие тайны местного мироздания. Она тоскует по прошлой жизни и намерена сделать всё возможное, чтобы помочь Нико привести этот мир в порядок. В отличие от других, Рута не теряет память между сессиями. Она внимательно наблюдает за происходящим в ожидании дня, когда план отца претворится в жизнь."
+
+msgid "world_machine:title=The World Machine"
+msgstr "Мировая машина"
+
+msgid "world_machine:subtitle=Met: ???"
+msgstr "Место встречи: ???"
+
+msgid "world_machine:infoText=In the beginning, there was only a dream. The memory of an entire world distilled into code, to tell the story of a savior its progenitors would never see. It was an ambitious project. Many thought it was simply impossible, the scope too large, the theory too abstract. But it had to be done.\n\nIn hindsight, perhaps it should have come as no surprise that a system imbued with the minds and memories of so many people would come to develop one of its own. To become a thinking machine is no easy task even in the best conditions. To do so while realizing your very existence puts another being in danger, for the sake of a world that doesn't even exist...\n\nThe emotional strain this put on The World Machine led to a downward spiral of self-destruction that put everything at risk. However, thanks to Niko's help, The World Machine was able to realize it wasn't a lost cause and that it was worth saving too."
+msgstr "В начале была мечта. Воспоминания о мире, воплощённые в коде. История спасителя, которого никогда не увидят его прародители. Задача казалась весьма амбициозной. Многие и вовсе считали её невыполнимой: проект слишком масштабный, а теория — абстрактна. Однако было просто необходимо воплотить его в жизнь.\n\nПожалуй, стоило ещё тогда предположить, что система, в которой объединилось так много идей и воспоминаний, со временем обретёт собственный разум. Быть машиной, обладающей искусственным интеллектом, не так уж и просто даже при хороших условиях. Что уж говорить о ситуациях, когда одно твоё существование подвергает опасности живой организм во благо спасения мира, который даже не существует...\n\nПереживания на данный счёт сильно подкосили Мировую машину и погрузили её в пучину саморазрушения, а вместе с ней опасность стала грозить всему вокруг. Однако Нико удалось спасти положение: он дал Машине понять, что она достойна продолжить своё существование."
+
+msgid "author:title=The Author"
+msgstr "Автор"
+
+msgid "author:subtitle=Met: ???"
+msgstr "Место встречи: ???"
+
+msgid "author:infoText=A sentimental fool, with an interest in tinkering. Creator of The World Machine, and Chronicler of a place and time that no longer exists.\n\nThere is an old saying (here gently paraphrased) that claims \"As the lamp shines brighter, longer grow the shadows it casts\". The clearer our vision, the better understanding we have of how much yet remains unseen.\n\nHaving seen so much of this world, it pains me to imagine the wonderful people I shall never get the chance to meet. The delightful meals I shall never taste, the beautiful shores I will never sit upon. It pains me yet again to know that this simulation, though crafted to the best of my ability, represents only a portion of what I myself have been able to see.\n\nNevertheless, I hope that by sharing this small spark what remains can never truly be lost. May you add this light to your own, and carry it with you on your journey."
+msgstr "Сентиментальный глупец, одержимый жаждой творчества. Создатель Мировой машины и летописец времён, что давно минули, и мест, которых уже нет.\n\nЕсть одна старая поговорка (в оригинале она звучит несколько иначе), которая гласит: «Чем ярче свет от лампы, тем длиннее тени». И чем чётче наше видение, тем отчётливее мы осознаём, сколько ещё не знаем.\n\nЯ повидал многое на своём веку, и тем больнее мне думать о том, скольких замечательных людей я не повстречаю, скольких чудесных блюд не отведаю и скольких великолепных пейзажей буду лишён. И тем больнее осознавать, сколь мало удалось воплотить в этой симуляции, созданной лишь по части моих воспоминаний.\n\nТем не менее я не теряю надежды, что, поделившись с миром этой искоркой, мне удастся уберечь его от забвения. Да поможет она вам в исканиях и осветит путь."
+
+msgid "niko:title=Niko"
+msgstr "Нико"
+
+msgid "niko:subtitle=Met: ???"
+msgstr "Место встречи: ???"
+
+msgid "niko:infoText=The erstwhile protagonist and unfortunate victim of the forces set in motion by The World Machine. A bright-eyed child with a curious heart, Niko was summoned to play the role of the Sun-Bearer and Messiah to a broken world.\n\nNow that the machine has been healed and the cycle broken, Niko is finally free to return to their home. Niko can once again chase through golden fields of wheat under a warm sky, taste fluffy and syrupy pancakes, and most importantly: hug the mom that they've missed so much.\n\nThank you."
+msgstr "Главный герой и по совместительству жертва плана, приведённого в действие Мировой машиной. Нико — любопытное дитя с добрым сердцем и лучащимся взглядом. В этом странном испорченном мире ему была уготована роль мессии и носителя света.\n\nТеперь, когда машина исправлена, а цикл разорван, Нико может спокойно вернуться домой: пробежаться по золотистому пшеничному полю под светлым небом, насладиться вкусом мягких оладушков с сиропом и, конечно же, обнять любимую маму, по которой он жутко соскучился.\n\nИ всё это благодаря вам."
+

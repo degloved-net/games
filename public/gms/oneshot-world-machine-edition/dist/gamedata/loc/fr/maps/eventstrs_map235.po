@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko Il n'y a plus de pellicule..."
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ...\\>\\nJe pense que ce n'était pas la bonne combinaison, \\p."
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ...\\>\\nIl ne s'est rien passé."
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak Euh... Souriez ?"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf Aaah, m-mes yeux..."
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak C'est une photo de moi !"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko ... Est-ce que mes yeux sont toujours aussi grands ?"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak C'est une autre photo de moi !"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko Bonne idée, \\p. Il nous faut une sauvegarde."
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko C'est une autre photo de moi..."
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak Trois ça suffit, n'est-ce pas ?"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c C'est amusant !"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko C'est une photo de moi."
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak Celle-ci me parait très bien !"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak Oh non !\\>\\n\\@niko_eyeclosed J'ai les yeux fermés sur celle-là ..."
+
+msgid "@niko Nice."
+msgstr "@niko Jolie."
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak Celles-ci m'ont l'air très bien !"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak De combien de photos avons-nous besoin, \\p ?"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko C'est une photo de moi..."
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed Et maintenant, il n'y a plus de pellicule dans l'appareil..."
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko Là, il y a une fente.\\>\\nOn dirait que du papier ou autre chose peut en sortir."
+

@@ -1,0 +1,249 @@
+msgid "@niko A watering can. It's half full."
+msgstr "@niko Un arrosoir. Il est à moitié plein."
+
+msgid "@niko Filled with plant clippings."
+msgstr "@niko Rempli de plantes."
+
+msgid "@niko It's a pink flower."
+msgstr "@niko C'est une fleur rose."
+
+msgid "@mason Good luck with that seed, now!"
+msgstr "@mason Eh bien, bonne chance avec cette graine !"
+
+msgid "@mason Most of the plants in our world tend to grow in The Glen."
+msgstr "@mason La plupart des plantes de notre monde ont tendance à pousser dans le Vallon."
+
+msgid "@mason Even if it's facing the flooding issues, it's still in better condition than the other two areas."
+msgstr "@mason Même s'il y a des inondations, cette région est en bien meilleur état que les deux autres."
+
+msgid "@mason The Barrens is... well, the barrens."
+msgstr "@mason La Lande est... Eh bien, c'est la Lande."
+
+msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
+msgstr "@mason Et à Refuge, il y a tout juste assez de terres pour vivre, alors pour les cultures..."
+
+msgid "@mason ...On a larger scale than this, I mean."
+msgstr "@mason ... Du moins, à une plus grande échelle que celle-ci."
+
+msgid "@niko_speak Oh! \\.\\.\\@niko You're a gardener, right?"
+msgstr "@niko_speak Oh ! \\.\\.\\@niko Vous êtes jardinier, c'est ça ?"
+
+msgid "@mason Yup!"
+msgstr "@mason Ouaip !"
+
+msgid "@niko_speak Do you... happen to have any dirt?\\>\\n\\@niko For growing plants, I mean!"
+msgstr "@niko_speak Auriez-vous... de la terre, par hasard ?\\>\\n\\@niko Pour faire pousser des plantes, je veux dire ?!"
+
+msgid "@mason Yup!\\>\\nDo you need some?"
+msgstr "@mason Bien sûr !\\>\\nTu en veux ?"
+
+msgid "@niko_speak Yes!\\>\\n\\@niko I'm supposed to plant this seed left behind by a plant lady..."
+msgstr "@niko_speak Oui !\\>\\n\\@niko Je dois planter cette graine qu'une dame-plante a perdu..."
+
+msgid "@niko_eyeclosed ...but the pot in the garden doesn't have any soil..."
+msgstr "@niko_eyeclosed ... Mais le pot du jardin n'a pas de terre..."
+
+msgid "@mason I see...."
+msgstr "@mason Je vois..."
+
+msgid "@mason I know who you're talking about, yeah."
+msgstr "@mason Je vois de qui tu veux parler."
+
+msgid "@mason Here, take this whole bag!"
+msgstr "@mason Tiens, tu peux prendre tout ce sac !"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak Merci !"
+
+msgid "@mason Feel free to ask me about the plants!"
+msgstr "@mason N'hésite pas à me poser des questions à propos des plantes !"
+
+msgid "@mason Hello there!"
+msgstr "@mason Bonjour !"
+
+msgid "@niko_speak You have a lot of plants!"
+msgstr "@niko_speak Vous avez beaucoup de plantes !"
+
+msgid "@mason I do!\\nGrew all of these myself, y'see."
+msgstr "@mason En effet !\\nJe les ai toutes cultivées moi-même, tu sais."
+
+msgid "@mason Feel free to ask me about them!"
+msgstr "@mason N'hésite pas à me poser des questions !"
+
+msgid "@niko Empty flowerpot..."
+msgstr "@niko Un pot de fleur vide..."
+
+msgid "@niko Cactus."
+msgstr "@niko Un cactus."
+
+msgid "@mason Cactus."
+msgstr "@mason Un cactus."
+
+msgid "@niko_eyeclosed Cactus."
+msgstr "@niko_eyeclosed Un cactus."
+
+msgid "@niko So... is it a tree?"
+msgstr "@niko Alors... c'est un arbre ?"
+
+msgid "@mason Only in name!"
+msgstr "@mason Il n'en a que le nom !"
+
+msgid "@mason That's a phosphor tree."
+msgstr "@mason C'est un arbre à phosphore."
+
+msgid "@niko_speak Oh! Like the ones we saw in the glen!"
+msgstr "@niko_speak Oh ! Comme ceux que nous avons vus dans le Vallon !"
+
+msgid "@niko I always wondered... where are the leaves?"
+msgstr "@niko Je me suis toujours demandé... où étaient les feuilles ?"
+
+msgid "@niko2 They're not... dead, are they?"
+msgstr "@niko2 Elles ne sont pas... mortes, n'est-ce pas ?"
+
+msgid "@mason Oh, not at all!"
+msgstr "@mason Oh, pas du tout !"
+
+msgid "@mason Although these trees are composed of a woody tissue, they're closer to grass, anatomy-wise."
+msgstr "@mason Bien que ces arbres soient composés de tissus ligneux, ils sont plus proches de l'herbe, anatomiquement parlant."
+
+msgid "@niko ...So the branches are actually leaves?"
+msgstr "@niko ... Alors les branches sont en réalité des feuilles ?"
+
+msgid "@mason Sorta!"
+msgstr "@mason En quelque sorte !"
+
+msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
+msgstr "@mason Ce qui est intéressant avec ces plantes, c'est la quantité de sève phosphorique qu'elles peuvent générer."
+
+msgid "@niko Phosphor... that's the glowy stuff, right?"
+msgstr "@niko Le phosphore... c'est cette matière brillante, c'est ça ?"
+
+msgid "@mason Phosphor can store light energy and slowly emit it over time."
+msgstr "@mason Le phosphore peut stocker l'énergie lumineuse et l'émettre lentement au fil du temps."
+
+msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
+msgstr "@mason La plupart du phosphore de ce monde contient toujours de l'énergie du soleil, avant qu'il ne disparaisse."
+
+msgid "@mason Without the sun to recharge them, though..."
+msgstr "@mason Néanmoins, sans le soleil pour les recharger..."
+
+msgid "@mason ...well, let's talk about something else."
+msgstr "@mason ... Bien, parlons d'autre chose."
+
+msgid "@niko The pots are labeled with different species names."
+msgstr "@niko Il est écrit différents noms d'espèces sur les pots."
+
+msgid "@niko Oh! The sprouts are stretching towards the sun..."
+msgstr "@niko Oh ! Les pousses s'étendent vers le soleil..."
+
+msgid "@mason Be sure not to touch these!"
+msgstr "@mason Attention, il ne faut pas y toucher !"
+
+msgid "@mason These are the plants have only recently sprouted."
+msgstr "@mason Ces plantes ont germé il n'y a pas longtemps."
+
+msgid "@mason It's not easy for a plant to make it out there these days."
+msgstr "@mason Il n'est pas facile pour une plante de pousser, de nos jours."
+
+msgid "@mason We got these growing lamps, but they're a poor substitute for the sun!"
+msgstr "@mason Nous avons ces lampes de culture, mais elles ne sont qu'un piètre substitut au soleil !"
+
+msgid "@mason Ah, black clovers..."
+msgstr "@mason Ah, des trèfles noirs..."
+
+msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
+msgstr "@mason Probablement la seule plante suffisamment robuste pour survivre naturellement hors du Vallon."
+
+msgid "@mason Personally? I think they're really boring to look at."
+msgstr "@mason Personnellement, je trouve que c'est une plante ennuyeuse."
+
+msgid "@mason One of my customers really loves them though."
+msgstr "@mason Pourtant, l'un de mes clients les adore."
+
+msgid "@mason I think all of the black clovers I'm growing here are for him, actually."
+msgstr "@mason Je crois même que tous les trèfles noirs que je cultive ici sont pour lui."
+
+msgid "@mason ...Come to think of it, I haven't seen him in a while."
+msgstr "@mason ... Maintenant que j'y pense, ça fait un bail que je ne l'ai pas vu."
+
+msgid "@mason I wonder when is he coming to pick these up?"
+msgstr "@mason Je me demande quand il va venir les prendre ?"
+
+msgid "@mason The clover guy... he's actually pretty cool!"
+msgstr "@mason Le type aux trèfles... il est assez cool en fait !"
+
+msgid "@mason He's an author, and apparently he's some sort of big deal? Or at least he's really passionate about his work."
+msgstr "@mason C'est un auteur, et une pointure qui plus est. Enfin, il est vraiment passionné par son travail."
+
+msgid "@mason I don't know him that well, although sometimes I stumble across articles about him in the news..."
+msgstr "@mason Je ne le connais pas très bien, mais il m'arrive de lire des articles sur lui dans les actualités..."
+
+msgid "@mason I'd love to chat with him, if I run into him again!"
+msgstr "@mason J'adorerais bavarder avec lui, enfin si je le croise à nouveau !"
+
+msgid "@niko Black clovers."
+msgstr "@niko Ces trèfles noirs."
+
+msgid "@niko They're kinda shiny."
+msgstr "@niko On dirait qu'ils brillent..."
+
+msgid "@niko It's wheat."
+msgstr "@niko C'est du blé."
+
+msgid "@mason That golden color is quite something, no?"
+msgstr "@mason Cette couleur dorée est magnifique, n'est-ce pas ?"
+
+msgid "@niko_speak It's wheat!"
+msgstr "@niko_speak C'est du blé !"
+
+msgid "@niko Why is it in a flowerpot?"
+msgstr "@niko Qu'est-ce qu'il fait dans un pot de fleur ?"
+
+msgid "@mason Well, doesn't it look nice?"
+msgstr "@mason Eh bien, c'est joli, non ?"
+
+msgid "@niko I guess!"
+msgstr "@niko Si vous le dites !"
+
+msgid "@niko I like to stand in the middle of the wheat field back in my village."
+msgstr "@niko J'aime être au milieu du champ de blé, dans mon village."
+
+msgid "@niko_speak It goes on for miles!"
+msgstr "@niko_speak Il s'étend sur des kilomètres !"
+
+msgid "@mason Ah... I wish I could have seen it!"
+msgstr "@mason Ah... J'aurais bien voulu voir ça !"
+
+msgid "@mason In our world, wheat is usually only grown in small isolated plots."
+msgstr "@mason Dans notre monde, le blé ne se cultive que sur de petites parcelles isolées."
+
+msgid "@mason ...Or in a flowerpot."
+msgstr "@mason ... Ou dans un pot de fleur."
+
+msgid "@niko A small tree with leaves."
+msgstr "@niko Un petit arbre à feuilles."
+
+msgid "@niko_eyeclosed ...Apparently they are rare."
+msgstr "@niko_eyeclosed ... Apparemment ils sont rares."
+
+msgid "@niko This tree has leaves!"
+msgstr "@niko Cet arbre a des feuilles !"
+
+msgid "@mason Ah yes, true foliage is hard to come by nowadays."
+msgstr "@mason Ah oui, un véritable feuillage est difficile à trouver de nos jours."
+
+msgid "@mason You hardly ever see trees like these in the wild anymore."
+msgstr "@mason On ne voit quasiment plus d'arbres de ce genre à l'état sauvage."
+
+msgid "@mason And the ones you do see are pretty much all raised artificially by people like me, mostly for nostalgia purposes."
+msgstr "@mason Et ceux que l'on voit sont généralement tous cultivés artificiellement par des gens comme moi, surtout parce qu'on est nostalgiques."
+
+msgid "@niko A small garden trowel. The handle part is shaped like... an owl?"
+msgstr "@niko Une petite truelle de jardin. Le manche à la forme...  d'une truie ?"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ..."
+
+msgid "@niko_83c I get it!"
+msgstr "@niko_83c J'ai compris !"
+

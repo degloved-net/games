@@ -1,0 +1,42 @@
+msgid "@niko_eyeclosed ...The remains of a potted plant."
+msgstr "@niko_eyeclosed ... Los restos de una maceta."
+
+msgid "@niko The title is \"City Life: What to Expect\""
+msgstr "@niko El título es: \"Vida en la ciudad: qué esperar\""
+
+msgid "@niko_speak Something has been chewing on this plant..."
+msgstr "@niko_speak Algo ha estado mordisqueando a esta planta..."
+
+msgid "I just moved here from the Glen. Things are so different in the city...."
+msgstr "Acabo de mudarme desde el Valle. Las cosas son tan diferentes en la ciudad..."
+
+msgid "You've been to the Glen, right?"
+msgstr "Has estado en el Valle, ¿no?"
+
+msgid "@niko Yeah!"
+msgstr "@niko ¡Sí!"
+
+msgid "Everything's so green back there...."
+msgstr "Allí todo es tan verde..."
+
+msgid "I really miss it!"
+msgstr "¡Lo echo mucho de menos!"
+
+msgid "My neighbor gave me some plants to cheer me up, but..."
+msgstr "Mi vecino me daba plantas para animarme, pero..."
+
+msgid ".....I should probably get a muzzle for Betsy there."
+msgstr "... a Betsy probablemente debería conseguirle un bozal."
+
+msgid "@niko It's a landscape portrait of the Glen."
+msgstr "@niko Es un cuadro del Valle."
+
+msgid "@niko A picture of a ram, wearing a little pink bow."
+msgstr "@niko Un cuadro de un carnero que lleva un pequeño lazo rosa."
+
+msgid "@niko_eyeclosed Not much is left of this plant..."
+msgstr "@niko_eyeclosed No queda mucho de esta planta..."
+
+msgid "@niko_eyeclosed ...The entire plant was eaten..."
+msgstr "@niko_eyeclosed ... Se han comido la planta entera..."
+

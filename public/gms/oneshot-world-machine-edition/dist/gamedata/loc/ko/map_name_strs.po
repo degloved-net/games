@@ -1,0 +1,132 @@
+msgid "67=Burial Grounds"
+msgstr "묘지"
+
+msgid "70=Old Factory"
+msgstr "옛 공장"
+
+msgid "37=Ruins"
+msgstr "폐허"
+
+msgid "71=Dormitories"
+msgstr "거주 지역"
+
+msgid "205=Courtyard"
+msgstr "마당"
+
+msgid "240=Forest"
+msgstr "숲"
+
+msgid "73=Swamp"
+msgstr "습지대"
+
+msgid "43=Forest"
+msgstr "숲"
+
+msgid "44=The Gate"
+msgstr "문"
+
+msgid "12=Entrance"
+msgstr "입구"
+
+msgid "213=Landing"
+msgstr "착륙장"
+
+msgid "214=City Gate"
+msgstr "도시 정문"
+
+msgid "47=City Gate"
+msgstr "도시 정문"
+
+msgid "14=Outpost"
+msgstr "변경 지역"
+
+msgid "215=Elevator Deck"
+msgstr "엘리베이터 승강장"
+
+msgid "48=Elevator Deck"
+msgstr "엘리베이터 승강장"
+
+msgid "216=Office"
+msgstr "사무실"
+
+msgid "49=Apartments"
+msgstr "아파트 단지"
+
+msgid "116=Office"
+msgstr "사무실"
+
+msgid "17=Mineshaft entrance"
+msgstr "광산 입구"
+
+msgid "84=Elevator Street"
+msgstr "엘리베이터 거리"
+
+msgid "219=Cafe"
+msgstr "카페"
+
+msgid "85=Vendor Street"
+msgstr "노점상 거리"
+
+msgid "18=Cliffs"
+msgstr "절벽 지대"
+
+msgid "52=Cafe"
+msgstr "카페"
+
+msgid "19=Docks"
+msgstr "부두"
+
+msgid "120=Observation Deck"
+msgstr "전망대"
+
+msgid "87=Library"
+msgstr "도서관"
+
+msgid "54=Garden"
+msgstr "정원"
+
+msgid "90=Factory"
+msgstr "공장"
+
+msgid "23=Lookout point"
+msgstr "초소 지역"
+
+msgid "191=Research Station"
+msgstr "연구 시설"
+
+msgid "91=Back Alley"
+msgstr "뒷골목"
+
+msgid "225=Observation Deck"
+msgstr "전망대"
+
+msgid "127=Research Station"
+msgstr "연구 시설"
+
+msgid "27=Dock"
+msgstr "부두"
+
+msgid "128=Courtyard"
+msgstr "마당"
+
+msgid "29=Village"
+msgstr "마을"
+
+msgid "230=Vendor Street"
+msgstr "노점상 거리"
+
+msgid "231=Elevator Street"
+msgstr "엘리베이터 거리"
+
+msgid "232=Back Alley"
+msgstr "뒷골목"
+
+msgid "199=Gate"
+msgstr "문"
+
+msgid "233=Library"
+msgstr "도서관"
+
+msgid "200=Dock"
+msgstr "부두"
+

@@ -1,0 +1,321 @@
+msgid "@mason Black clovers are so resilient...\\> I wonder how they do it?"
+msgstr "@mason Чёрный клевер живучий...\\> Интересно, откуда такая стойкость?"
+
+msgid "@plight Stress makes you tougher I suppose...\\> that and lots of coffee."
+msgstr "@plight Стресс закаляет...\\> А ещё кофе."
+
+msgid "@mason Nah, if you water a plant with coffee they just die."
+msgstr "@mason Нетушки, если полить цветок кофе, он завянет."
+
+msgid "@mason ...don't ask me how I know this."
+msgstr "@mason Не спрашивайте, откуда я знаю."
+
+msgid "@mason It's really a shame that the Glen is starting to erode so fast now..."
+msgstr "@mason Очень жаль, что Долина так быстро начала разрушаться..."
+
+msgid "@mason Soon, the world won't have much room for plants left..."
+msgstr "@mason Скоро в мире совсем не останется места для растений..."
+
+msgid "@mason ...asides from black clovers, I mean."
+msgstr "@mason Кроме чёрного клевера, естественно..."
+
+msgid "@plight Oh hey, gardening guy...\\>\\nDidn't I fix your lights last week?"
+msgstr "@plight Привет, садовод!\\>\\nРазве я не менял тебе лампочки на прошлой неделе?"
+
+msgid "@mason Mr. Lamplighter!\\>\\nYou wouldn't BELIEVE the day I just had."
+msgstr "@mason Мистер Фонарщик!\\>\\nВы не ПОВЕРИТЕ, что за день у меня выдался!"
+
+msgid "@plight_worry2 Guess those lights kinda got fixed for nothing, huh..."
+msgstr "@plight_worry2 Только зря с лампочками возился..."
+
+msgid "@mason Right??\\>\\nWorst of all, I had to leave my poor plants behind too!"
+msgstr "@mason И я о том же!\\>\\nСамое печальное — пришлось и растения бросить!"
+
+msgid "@niko_eyeclosed Sorry to hear..."
+msgstr "@niko_eyeclosed Мне жаль."
+
+msgid "@mason Oh, speaking of plants..."
+msgstr "@mason Кстати... о растениях..."
+
+msgid "@mason I heard the Glen is just COVERED in vines now."
+msgstr "@mason Я слышал, что теперь Долина ПОЛНОСТЬЮ покрыта лозами."
+
+msgid "@mason Is that true?"
+msgstr "@mason Это правда?"
+
+msgid "@niko_eyeclosed ...yeah..."
+msgstr "@niko_eyeclosed Да."
+
+msgid "@niko2 The plant lady was using them to keep the land from falling away..."
+msgstr "@niko2 Девушка-растение пыталась скрепить ими землю..."
+
+msgid "@mason The plant spirit?\\> Maize?"
+msgstr "@mason Дух растений?\\> Маиза?"
+
+msgid "@mason I figured..."
+msgstr "@mason Так я и думал..."
+
+msgid "@mason ...say, how is she doing?"
+msgstr "@mason Ну и... Как там у неё дела?"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@mason ...ah."
+msgstr "@mason А..."
+
+msgid "@mason ...she's... gone, isn't she?"
+msgstr "@mason Её... больше нет, верно?"
+
+msgid "@niko_eyeclosed She said she was using up the last of her powers..."
+msgstr "@niko_eyeclosed Она сказала, что использовала последние силы..."
+
+msgid "@mason I wouldn't be surprised."
+msgstr "@mason Меня это не удивляет."
+
+msgid "@mason She always did her best to protect everyone..."
+msgstr "@mason Она всегда старалась защитить нас всех..."
+
+msgid "@mason Bummer!"
+msgstr "@mason Вот незадача!"
+
+msgid "@mason I had to leave most of my plants behind."
+msgstr "@mason Мне пришлось оставить большинство моих растений."
+
+msgid "@mason This stinks!"
+msgstr "@mason Проклятье!"
+
+msgid "@niko Milk and sugar."
+msgstr "@niko Молоко и сахар."
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak Мне нравится и то, и то!"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed Только не в кофе."
+
+msgid "[SQUARES ARE BAD]"
+msgstr "[КВАДРАТЫ — ЭТО ПЛОХО.]"
+
+msgid "[SQUARES MAKE THE PEOPLE EVACUATE]"
+msgstr "[ИЗ-ЗА КВАДРАТОВ ЛЮДИ ВЫНУЖДЕНЫ ЭВАКУИРОВАТЬСЯ.]"
+
+msgid "[EVACUATION MAKES THE GIRL SAD]"
+msgstr "[ИЗ-ЗА ЭВАКУАЦИИ ДЕВОЧКА ГРУСТИТ.]"
+
+msgid "@plight_worry Sad and also screaming on the inside constantly.\\>\\n\\@plight_why Like I am."
+msgstr "@plight_worry Ей грустно и хочется кричать от тоски.\\>\\n\\@plight_why Как мне."
+
+msgid "@ling_hm So..."
+msgstr "@ling_hm Э-э-э..."
+
+msgid "@ling Can I...\\> get you guys anything to eat?"
+msgstr "@ling Вам...\\> что-нибудь приготовить?"
+
+msgid "@ling_smile Or maybe a coffee?"
+msgstr "@ling_smile Может, кофе?"
+
+msgid "@plight_worry Normally I'd go for the coffee but if I drink any right now I might actually have a heart attack."
+msgstr "@plight_worry Я бы не отказался от кофе, но, если выпью ещё хоть чашку, меня удар хватит."
+
+msgid "@ling_sigh Ah...\\>\\nI know how that is..."
+msgstr "@ling_sigh А-а-а...\\>\\nПрекрасно понимаю..."
+
+msgid "@niko6 Yeah...\\>\\nI would've probably asked for some pancakes around now."
+msgstr "@niko6 Точно.\\>\\nХотя я бы сейчас не отказался от оладушков."
+
+msgid "@niko_eyeclosed But there just isn't enough time..."
+msgstr "@niko_eyeclosed Только времени совсем нет..."
+
+msgid "@ling Can I...\\> get you anything to eat?"
+msgstr "@ling Может...\\> что-нибудь приготовить?"
+
+msgid "@niko2 No thank you!"
+msgstr "@niko2 Нет, спасибо!"
+
+msgid "@niko_eyeclosed (Even though I could go for some pancakes right now...)"
+msgstr "@niko_eyeclosed (Хотя я бы не отказался от пары оладушков...)"
+
+msgid "@niko_eyeclosed (There just isn't time...)"
+msgstr "@niko_eyeclosed (Но времени совсем нет...)"
+
+msgid "@ling_hm At least people won't starve here..."
+msgstr "@ling_hm По крайней мере, люди здесь не будут голодать..."
+
+msgid "@ling_smile The perks of using a cafe as an emergency shelter, huh?"
+msgstr "@ling_smile Плюсы использования кафе в качестве убежища, верно?"
+
+msgid "@ling2 Oh!"
+msgstr "@ling2 О!"
+
+msgid "@ling Hello, Messiah!\\n\\>\\@ling_hm And... um... \\@ling_smile Tall guy!"
+msgstr "@ling Привет, мессия!\\n\\>\\@ling_hm И... э-э-э... \\@ling_smile Здоровяк!"
+
+msgid "@ling_hm You guys, um..."
+msgstr "@ling_hm Э-э-э... Тут такое дело..."
+
+msgid "@ling_sigh You came at a bad time..."
+msgstr "@ling_sigh Ты выбрал неудачное время..."
+
+msgid "@ling_hm The apartments in the west sector got destroyed by squares a day ago..."
+msgstr "@ling_hm Вчера квадраты уничтожили жилой район на западе."
+
+msgid "@plight_worry2 Oh yeah, I saw..."
+msgstr "@plight_worry2 Да, я видел..."
+
+msgid "@ling_sigh Terrible, isn't it?"
+msgstr "@ling_sigh Ужасно, правда?"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Ага..."
+
+msgid "@ling_hm2 Ah, but at least the evacuees seem to be doing ok."
+msgstr "@ling_hm2 Но у выселенцев вроде всё в порядке."
+
+msgid "@ling_hm2 We're letting them stay here for now."
+msgstr "@ling_hm2 Мы разрешили им пока остановиться здесь."
+
+msgid "@plight That's nice of you."
+msgstr "@plight Похвальная доброта."
+
+msgid "@ling_smile Well, someone has to help!"
+msgstr "@ling_smile Кто-то же должен помогать."
+
+msgid "@ling Hello, Messiah!"
+msgstr "@ling Привет, мессия!"
+
+msgid "@ling_hm You, um..."
+msgstr "@ling_hm Ты... э-э..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Кофемашина."
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak Почти полная!"
+
+msgid "Scarves are great."
+msgstr "Шарфы — это круто."
+
+msgid "If I had my stuff back... I'd knit one for everyone here!"
+msgstr "Будь при мне мои принадлежности... я бы всем по шарфу связал!"
+
+msgid "@plight That DOES sound nice...\\>\\nmine's looking a bit ratty..."
+msgstr "@plight Как мило с твоей стороны!\\>\\nМой совсем износился..."
+
+msgid "I'll say!\\>\\nWhen was the last time you even WASHED that thing?"
+msgstr "Ещё бы!\\>\\nТы когда его СТИРАЛ последний раз?"
+
+msgid "@plight_worry I DO wash it!\\nI swear!"
+msgstr "@plight_worry Я его СТИРАЮ!\\nЧестное слово!"
+
+msgid "@plight_sigh The coffee stains just won't go away..."
+msgstr "@plight_sigh Но кофейные пятна никак не отстирываются..."
+
+msgid "Hey."
+msgstr "Привет."
+
+msgid "@plight Hey."
+msgstr "@plight Привет."
+
+msgid "@niko Hi..."
+msgstr "@niko Привет..."
+
+msgid "Is it me, or is it really cold outside?"
+msgstr "Мне кажется, или на улице действительно похолодало?"
+
+msgid "@niko2 ...y'know, now that you've mentioned it..."
+msgstr "@niko2 Теперь, когда вы об этом сказали..."
+
+msgid "@niko_eyeclosed (it IS really chilly this time around, \\p...)"
+msgstr "@niko_eyeclosed (\\p, на этот раз здесь И ПРАВДА очень холодно...)"
+
+msgid "@plight_worry2 No kidding!"
+msgstr "@plight_worry2 Вот-вот!"
+
+msgid "Good thing you're both wearing scarves, huh?"
+msgstr "Хорошо, что на вас шарфы."
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "Good thing you've got a scarf, huh?"
+msgstr "Хорошо, что у тебя есть шарф, да?"
+
+msgid "..............."
+msgstr "..............."
+
+msgid "@niko ......................."
+msgstr "@niko ......................."
+
+msgid "..............................."
+msgstr "..............................."
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak ..................................."
+
+msgid "............................................."
+msgstr "............................................."
+
+msgid "@niko_eyeclosed ...same as usual, huh..."
+msgstr "@niko_eyeclosed Всё по-старому..."
+
+msgid "@niko_eyeclosed Now's not really the time to talk to penguins, \\p..."
+msgstr "@niko_eyeclosed \\p, сейчас не лучшее время, чтобы болтать с пингвинами."
+
+msgid "@niko2 Oh, it's that penguin..."
+msgstr "@niko2 О, это тот самый пингвин..."
+
+msgid "@niko_eyeclosed ...yep."
+msgstr "@niko_eyeclosed Точно..."
+
+msgid "I don't know what I'm gonna do without Model C-WT 2nd gen unit 4E!"
+msgstr "Не знаю, что я буду делать без юнита 4Е C-WT второго поколения!"
+
+msgid "@plight_2 Robots... they're really something, huh..."
+msgstr "@plight_2 Роботы... без них никуда..."
+
+msgid "Our apartment got evacuated while my parents were at work..."
+msgstr "Нашу квартиру эвакуировали, пока родители были на работе."
+
+msgid "...I'm waiting for them to pick us up now."
+msgstr "Теперь мы ждём, когда они нас заберут."
+
+msgid "I hope they're ok..."
+msgstr "Надеюсь, с ними всё в порядке..."
+
+msgid "@plight Must be tough waiting by yourself..."
+msgstr "@plight Грустно ждать в одиночестве..."
+
+msgid "Well, at least my robot's with me!"
+msgstr "Ну, хотя бы мой робот со мной!"
+
+msgid "At least my robot's with me..."
+msgstr "Хотя бы мой робот со мной."
+
+msgid "Bessie's lookin pretty bummed about this too..."
+msgstr "Бесси тоже всё это сильно бесит..."
+
+msgid "There there, girl..."
+msgstr "Спокойно, девочка."
+
+msgid "Dang it!"
+msgstr "Вот блин!"
+
+msgid "I JUST moved into my apartment!"
+msgstr "Я только переехал в эту квартиру!"
+
+msgid "Now where am I gonna go!"
+msgstr "А теперь куда мне идти?!"
+
+msgid "@plight Damn, sorry to hear your place got ruined.\\>\\nMust be rough..."
+msgstr "@plight Ну и дела! Сочувствую, без своего угла тяжко.\\>\\nТебе, наверное, нелегко..."
+
+msgid "@plight ..."
+msgstr "@plight ..."
+
+msgid "@plight_worry2 Can't help but worry that my own place is next, now..."
+msgstr "@plight_worry2 Теперь переживаю, что и я скоро без квартиры останусь..."
+
+msgid "You should grab your stuff while you still can!"
+msgstr "Скорее перевози вещи, пока есть возможность!"
+

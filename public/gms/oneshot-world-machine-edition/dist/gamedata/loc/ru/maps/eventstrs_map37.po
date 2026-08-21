@@ -1,0 +1,303 @@
+msgid "@niko I think I have something I'd like to trade!\\>\\n\\@niko_speak You'll take wool, right?\\>\\n\\@niko What can this wool get me?"
+msgstr "@niko У меня есть кое-что, чем я хотел бы обменяться!\\>\\n\\@niko_speak Ты возьмёшь шерсть, так?\\>\\n\\@niko А что я за неё получу?"
+
+msgid "@magpie_hm Wool, huh?"
+msgstr "@magpie_hm Шерсть?"
+
+msgid "@magpie That'll get you.\\..\\..\\.\\. This fine vial of..."
+msgstr "@magpie За это ты получишь.\\..\\..\\.\\. Эту прекрасную склянку..."
+
+msgid "@magpie_smile I'm not sure what this is, actually!\\>\\nSome sort of fabric dye?"
+msgstr "@magpie_smile Вообще-то, я не знаю, что это такое!\\>\\nЧто-то вроде краски для ткани?"
+
+msgid "@niko Hmm... How about it, \\p?"
+msgstr "@niko Хм-м... Что думаешь, \\p?"
+
+msgid "[\"Take the offer!\", \"Ehh...\"]"
+msgstr "[\"Соглашайся!\",\"Э-э-э...\"]"
+
+msgid "@niko_speak I'll do it!"
+msgstr "@niko_speak Беру!"
+
+msgid "@magpie_smile Pleasure doing business!"
+msgstr "@magpie_smile С тобой приятно иметь дело!"
+
+msgid "@niko Wait, \\p... you want to... haggle?\\>\\n\\@niko_what ...really?"
+msgstr "@niko Подожди, \\p... Ты хочешь... поторговаться?\\>\\n\\@niko_what ...Серьёзно?"
+
+msgid "@niko_eyeclosed Alright then..."
+msgstr "@niko_eyeclosed Ну, ладно..."
+
+msgid "@niko_speak \\p said they wanted a better offer!"
+msgstr "@niko_speak \\p говорит, что хочет предложение получше!"
+
+msgid "@magpie_oh ...holy smokes!\\>\\n\\@magpie_smile Forgot I was doing a trade with god for a second there..."
+msgstr "@magpie_oh Батюшки святы!\\>\\n\\@magpie_smile Я на секундочку позабыл, что веду дела с самим божеством..."
+
+msgid "@magpie Okay, okay...\\>\\n\\@magpie_smile In that case, I'll also throw in this commemorative T-shirt!"
+msgstr "@magpie Ладно, ладно...\\>\\n\\@magpie_smile В таком случае я доложу сверху эту сувенирную футболку!"
+
+msgid "@niko Uh..."
+msgstr "@niko Эм..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@magpie Oh well, then.\\nCome back anytime."
+msgstr "@magpie Вот так.\\nПриходи в любое время."
+
+msgid "@niko_eyeclosed \\p, no..."
+msgstr "@niko_eyeclosed \\p, нет..."
+
+msgid "@magpie_oh Hey! I just gave that to you!"
+msgstr "@magpie_oh Эй! Я только что это тебе дал!"
+
+msgid "@magpie_smile What, you wanna trade it back?"
+msgstr "@magpie_smile Что, хочешь поменяться обратно?"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed Вообще-то, нет..."
+
+msgid "@magpie Good, cuz I wasn't gonna!"
+msgstr "@magpie Хорошо, потому что я меняться не собирался!"
+
+msgid "@magpie I ain't takin that back!"
+msgstr "@magpie Я не буду брать это обратно!"
+
+msgid "@magpie_hm The shepherd was handing those out a while ago.\\>\\n\\@magpie_smile But does it LOOK like it'll fit me?"
+msgstr "@magpie_hm Их раздавала пастушка.\\>\\n\\@magpie_smile Но разве ПОХОЖЕ, что она мне подойдёт?"
+
+msgid "@niko Huh?"
+msgstr "@niko Что?"
+
+msgid "@magpie_smile T-Shirts aren't exactly made for people with wings!"
+msgstr "@magpie_smile Футболки шьют не для людей с крыльями!"
+
+msgid "@niko Wait, trade this?"
+msgstr "@niko Погоди, давай поменяемся на это?"
+
+msgid "@niko_speak Don't you want to find out what it says first, \\p?"
+msgstr "@niko_speak Ты не хочешь сначала узнать, что там написано, \\p?"
+
+msgid "@magpie What's that? A book?"
+msgstr "@magpie Что это? Книга?"
+
+msgid "@magpie_smile Uh, not sure if I wanna take books, I can't read!"
+msgstr "@magpie_smile Хм, не уверен, что хотел бы принять книгу. Я не умею читать!"
+
+msgid "@magpie_oh I can't take this!"
+msgstr "@magpie_oh О, я не могу это взять!"
+
+msgid "@niko_eyeclosed I'm not trading that, \\p!"
+msgstr "@niko_eyeclosed Я не собираюсь это отдавать, \\p!"
+
+msgid "@magpie You're not trading what?"
+msgstr "@magpie Что ты не собираешься отдавать?"
+
+msgid "@magpie What's that? A feather?"
+msgstr "@magpie Что это? Перо?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "@magpie_hm Wait... \\.\\.\\@magpie_oh Oh my stars!"
+msgstr "@magpie_hm Подожди... \\.\\.\\@magpie_oh О, звёзды небесные!"
+
+msgid "@magpie_oh That is NOT \"a\" feather!"
+msgstr "@magpie_oh Это НЕ КАКОЕ-ТО там перо!"
+
+msgid "@magpie That is a feather from the late Prophet!"
+msgstr "@magpie Это перо покойной Пророчицы!"
+
+msgid "@magpie_oh Probably one of the most sacred items there is!"
+msgstr "@magpie_oh Вероятно, один из наиболее священных предметов в этом мире!"
+
+msgid "@magpie_oh How in the WORLD did you get a hold of THAT?"
+msgstr "@magpie_oh Каким это образом оно у тебя оказалось?"
+
+msgid "@magpie_hm ...Wait, I guess it would make sense for you to have one."
+msgstr "@magpie_hm ...Хотя погоди, думаю, вполне логично, что оно у тебя есть."
+
+msgid "@magpie_smile Y'know, with you being the savior and all."
+msgstr "@magpie_smile Ты же всё-таки спаситель и всё такое."
+
+msgid "@niko Um... okay."
+msgstr "@niko Эм... Ладно."
+
+msgid "@niko The seed left behind by the plant lady?"
+msgstr "@niko Зёрнышко, оставленное девушкой-растением?"
+
+msgid "@niko_huh Oh, but what if...\\. it's like...\\. her baby..."
+msgstr "@niko_huh О, но что, если...\\. оно для неё...\\. как ребёнок..."
+
+msgid "@niko_speak I can't give away someone's baby like that!"
+msgstr "@niko_speak Я не могу отдать вот так чьего-то малыша!"
+
+msgid "@niko_wtf2 Especially not to a bird..."
+msgstr "@niko_wtf2 Уж точно не птице..."
+
+msgid "@magpie_oh ...hey!"
+msgstr "@magpie_oh Эй!"
+
+msgid "@niko_eyeclosed I don't think it's right to trade this away, \\p ..."
+msgstr "@niko_eyeclosed Не думаю, что так правильно вести обмен, \\p..."
+
+msgid "@magpie_oh Oh hey! You have one of those coin things!"
+msgstr "@magpie_oh Эй! У тебя есть такая штучка! Монетка!"
+
+msgid "@magpie I've dug up a couple of these before."
+msgstr "@magpie Я как-то выкопал несколько таких штук."
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "@magpie_smile Yeah! There's this guy who would trade me the BEST things for them."
+msgstr "@magpie_smile Да! Я знаю парня, который даст мне за них самые лучшие вещи."
+
+msgid "@magpie Like, one time he brought me this little machine that plays music!"
+msgstr "@magpie Например, однажды он принёс мне это небольшое устройство, которое играет музыку!"
+
+msgid "@magpie_hm I don't know what it's called, but you have to wind it up..."
+msgstr "@magpie_hm Не знаю, как оно называется, но его нужно заводить..."
+
+msgid "@niko_speak Music box?"
+msgstr "@niko_speak Музыкальная шкатулка?"
+
+msgid "@magpie_smile That's it!"
+msgstr "@magpie_smile Точно!"
+
+msgid "@magpie I wish that guy would come back soon, I haven't seen him in forever."
+msgstr "@magpie Надеюсь, этот парень скоро вернётся. Сто лет уже его не видел."
+
+msgid "@magpie_smile I wanna do more trades with him!"
+msgstr "@magpie_smile Хочу непременно ещё с ним поменяться!"
+
+msgid "@niko How about this... glass tube full of water I got from a robot?"
+msgstr "@niko Как насчёт этой... стеклянной колбы с водой, которую мне дал робот?"
+
+msgid "@niko Do you like glass?"
+msgstr "@niko Тебе нравится стекло?"
+
+msgid "@magpie_smile Do I!"
+msgstr "@magpie_smile Нравится ли мне?"
+
+msgid "@niko ...do you?"
+msgstr "@niko Да, нравится ли..."
+
+msgid "@magpie I LOVE glass!"
+msgstr "@magpie Да я ОБОЖАЮ стекло!"
+
+msgid "@magpie_smile SO much."
+msgstr "@magpie_smile Сильно-пресильно!"
+
+msgid "@magpie_hm ...so much that I have too much glass and not enough other things."
+msgstr "@magpie_hm Так сильно, что у меня уже слишком много стекла и недостаточно других вещей."
+
+msgid "@magpie_hm I gotta get rid of some of my old bottles and vials to make room for new stuff!"
+msgstr "@magpie_hm Надо бы выбросить несколько старых бутылок и сосудов, чтобы освободить место для чего-нибудь новенького!"
+
+msgid "@magpie That's why I set up a tradepost in the first place."
+msgstr "@magpie Вот почему я организовал тут небольшую торговлю."
+
+msgid "@niko_eyeclosed So I guess that's a no-go..."
+msgstr "@niko_eyeclosed Значит, не вариант..."
+
+msgid "@niko_eyeclosed \\p... wasn't the whole point of trading was so that we could make a pen?"
+msgstr "@niko_eyeclosed \\p... разве вся эта затея с обменом была не для того, чтобы мы смогли сделать ручку?"
+
+msgid "@niko Let's not trade this away..."
+msgstr "@niko Давай не будем это отдавать..."
+
+msgid "@magpie Heya!\\>\\nYou here to trade?"
+msgstr "@magpie Приветики!\\>\\nТы хочешь поторговаться?"
+
+msgid "@niko Trade?"
+msgstr "@niko Поторговаться?"
+
+msgid "@magpie_smile Yeah!\\>\\n\\@magpie Is there anything you want to get rid of?"
+msgstr "@magpie_smile Ага!\\>\\n\\@magpie Может, у тебя есть что-нибудь, от чего ты хочешь избавиться?"
+
+msgid "@magpie Make me an offer and I'll give you something in return!"
+msgstr "@magpie Предложи мне что-нибудь, и я дам тебе что-нибудь взамен!"
+
+msgid "@niko Hm...\\>\\n\\@niko_speak Do we have something like that, \\p?"
+msgstr "@niko Хм...\\>\\n\\@niko_speak У нас есть что-нибудь такое, \\p?"
+
+msgid "@niko It's a wagon stuffed with stuff!"
+msgstr "@niko Да эта тележка битком набита всяким добром!"
+
+msgid "@magpie_smile It sure is!"
+msgstr "@magpie_smile Это точно!"
+
+msgid "@niko Shiny things are spread out on the rug."
+msgstr "@niko На ковре разложены всякие блестящие штучки."
+
+msgid "@niko They glimmer in the sunlight."
+msgstr "@niko Они сияют в свете солнца."
+
+msgid "@niko They glimmer in the light of the lamp."
+msgstr "@niko Они сияют в свете лампы."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak Ничего себе!"
+
+msgid "@niko_speak That's a lotta shiny things!"
+msgstr "@niko_speak Тут целая гора блестящих вещей!"
+
+msgid "@niko Glass shards, glass marbles..."
+msgstr "@niko Осколки стекла, стеклянные шарики..."
+
+msgid "@niko ...empty glass bottles, mostly-empty glass bottles, glass bottles filled with different things..."
+msgstr "@niko Пустые стеклянные бутылки, почти пустые стеклянные бутылки, бутылки, заполненные всякой всячиной..."
+
+msgid "@niko ...bits of string, colored wool, plain wool, fabric scraps..."
+msgstr "@niko Куски бечёвки, цветная шерсть, простая шерсть, лоскутки материи..."
+
+msgid "@niko ...a rusty bucket, scrap metal, shells, some rocks..."
+msgstr "@niko Ржавое ведро, металлические детали, ракушки, какие-то камни..."
+
+msgid "@niko_speak What's all this for, by the way?"
+msgstr "@niko_speak Кстати, для чего всё это?"
+
+msgid "@magpie I just think they're neat!"
+msgstr "@magpie Просто мне кажется, что это классно!"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed Дверной проход весь в лозах, \\p..."
+
+msgid "@alula_oh Oh!"
+msgstr "@alula_oh О!"
+
+msgid "@alula_oh This is the shrine where the old prophet used to live..."
+msgstr "@alula_oh Это святилище, где жила старая Пророчица..."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Вот как?"
+
+msgid "@alula_pout I don't remember the last time I was here..."
+msgstr "@alula_pout Не помню, когда в последний раз я здесь была..."
+
+msgid "@alula_speak Back when she was still alive, I think?"
+msgstr "@alula_speak Думаю, когда она ещё была жива?"
+
+msgid "The flood can take away our farmlands..."
+msgstr "Наводнение может смыть наши угодья..."
+
+msgid "...but it can't take away our fish!"
+msgstr "Но оно не сможет забрать нашу рыбу!"
+
+msgid "@niko These look like herrings."
+msgstr "@niko Эти похожи на селёдку."
+
+msgid "@niko_speak Or... anchovies?"
+msgstr "@niko_speak Или... анчоусы?"
+
+msgid "@niko Maybe sardines..."
+msgstr "@niko Может, сардины..."
+
+msgid "@niko_eyeclosed I honestly have no clue!"
+msgstr "@niko_eyeclosed Честно говоря, вообще не представляю!"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko В этой банке мечется несколько светлячков."
+

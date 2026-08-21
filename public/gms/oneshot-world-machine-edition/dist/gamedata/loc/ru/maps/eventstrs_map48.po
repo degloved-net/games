@@ -1,0 +1,504 @@
+msgid "@niko The elevator's button panel."
+msgstr "@niko Лифтовая панель с кнопками."
+
+msgid "@niko_what Huh, there aren't any buttons..."
+msgstr "@niko_what Хм, тут нет никаких кнопок..."
+
+msgid "@plight_why Yuuup, that's a problem."
+msgstr "@plight_why Ага, в этом и проблема."
+
+msgid "@plight_2b There's usually a big button here that says \"GROUND\" on it."
+msgstr "@plight_2b Обычно здесь находится большая кнопка с надписью «ПОВЕРХНОСТЬ»."
+
+msgid "@plight_2b Y'know, cuz it takes you to the ground area."
+msgstr "@plight_2b Ну, потому что лифт везёт тебя в самый низ."
+
+msgid "@plight_wtf But now it's been ripped out? Or something?"
+msgstr "@plight_wtf Но теперь она вырвана. Или что там могло с ней произойти?"
+
+msgid "@plight_2 I tried looking everywhere for it, to no avail."
+msgstr "@plight_2 Я везде искал, но напрасно."
+
+msgid "@plight_worry M...maybe it exploded..."
+msgstr "@plight_worry М-может, она просто взорвалась..."
+
+msgid "@niko_speak Do you think we'll have to make a new one?"
+msgstr "@niko_speak Думаешь, нам придётся сделать новую?"
+
+msgid "@plight_worry ...what?"
+msgstr "@plight_worry Что?.."
+
+msgid "@plight_worry How?"
+msgstr "@plight_worry Как?"
+
+msgid "@niko We'll figure it out!"
+msgstr "@niko Придумаем!"
+
+msgid "@niko That man said something about magnets, but I don't see a way to fit these in the panel by themselves."
+msgstr "@niko Тот человек что-то сказал насчёт магнитов, но я не понимаю, как их приделать к этой панели."
+
+msgid "@niko The button fits snugly in the slot, but..."
+msgstr "@niko Кнопка идеально подходит, но..."
+
+msgid "@niko I'm not sure how to \"connect\" it."
+msgstr "@niko Я не знаю, как её подсоединить."
+
+msgid "@plight Hmm..."
+msgstr "@plight Хм-м..."
+
+msgid "@plight All I know is that the button works by some kind of magnetic technology."
+msgstr "@plight Я только знаю, что эта кнопка работает с помощью какой-то магнитной технологии."
+
+msgid "@plight_why ...Don't ask me how magnets work, though. I didn't even finish high school..."
+msgstr "@plight_why ...Только не спрашивай меня, как действуют магниты. Я даже старшую школу не закончил..."
+
+msgid "@niko_speak Alright, let's hope this works!"
+msgstr "@niko_speak Ладно, будем надеяться, что это сработает!"
+
+msgid "@niko The button fits snugly, and..."
+msgstr "@niko Кнопка идеально подходит, и..."
+
+msgid "@niko_speak I think I hear the machine powering on!"
+msgstr "@niko_speak Кажется, я слышу, как начинает работать механизм!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_what The button completely fell apart!"
+msgstr "@niko_what Кнопка развалилась на части!"
+
+msgid "@plight_2b Hey, you tried."
+msgstr "@plight_2b Ты хотя бы попытался."
+
+msgid "@niko Let's hope this works..."
+msgstr "@niko Будем надеяться, что это сработает..."
+
+msgid "[REACTIVATING ELEVATOR SERVICES.\\|.\\|.]"
+msgstr "[ПРОИЗВОДИТСЯ ПОДКЛЮЧЕНИЕ ЛИФТА.\\|.\\|.]"
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE]"
+msgstr "[ДЛЯ ПРОДОЛЖЕНИЯ ВВЕДИТЕ КОД ДОСТУПА]"
+
+msgid "@plight_shock ...What?"
+msgstr "@plight_shock Что?.."
+
+msgid "@plight_wtf That's... never happened before."
+msgstr "@plight_wtf Этого... никогда прежде не случалось."
+
+msgid "@niko_speak The... squares?"
+msgstr "@niko_speak Ты... про квадраты?"
+
+msgid "@plight_worry Huh?"
+msgstr "@plight_worry А?"
+
+msgid "@niko_speak You saw them, right?"
+msgstr "@niko_speak Ты ведь их видел?"
+
+msgid "@niko They were on the door, and..."
+msgstr "@niko Они были в дверях и..."
+
+msgid "@plight_2b Oh, nah. The square stuff happens all the time."
+msgstr "@plight_2b Ой, нет. Эти квадраты тут повсюду."
+
+msgid "@plight I meant the whole \"security code\" thing."
+msgstr "@plight Я имею в виду эту ерунду с кодом доступа."
+
+msgid "@plight But then again, the elevator hasn't been this broken before..."
+msgstr "@plight С другой стороны, этот лифт раньше ТАК не ломался..."
+
+msgid "@niko Hmmm...."
+msgstr "@niko Хм-м-м..."
+
+msgid "@niko_speak I guess we should go look for a code, \\p..."
+msgstr "@niko_speak \\p, думаю, нам нужно пойти поискать код..."
+
+msgid "@niko_eyeclosed That's not gonna work..."
+msgstr "@niko_eyeclosed Это не сработает..."
+
+msgid "@niko Hmmm..."
+msgstr "@niko Хм-м-м..."
+
+msgid "@niko_speak If it's been ripped out, how come there aren't any broken wires inside the empty slot?"
+msgstr "@niko_speak Если она была вырвана, почему в этой дыре нет разорванных проводов?"
+
+msgid "@plight Well, I'm no engineer, but...."
+msgstr "@plight Я не инженер, но..."
+
+msgid "@plight_2b It's powered by some kind of magnetic technology, I know this much."
+msgstr "@plight_2b Её питает какая-то магнитная технология. Это всё, что я знаю."
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE.]"
+msgstr "[ДЛЯ ПРОДОЛЖЕНИЯ ВВЕДИТЕ КОД ДОСТУПА.]"
+
+msgid "@plight_shock What!"
+msgstr "@plight_shock Что?!"
+
+msgid "@plight_shock It works!"
+msgstr "@plight_shock Работает!"
+
+msgid "@plight_shock I don't know what you did, but it actually works!"
+msgstr "@plight_shock Не знаю, как тебе это удалось, но сработало!"
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry ..."
+
+msgid "@plight Good job, kid."
+msgstr "@plight Отличная работа, парень."
+
+msgid "@plight You're a genius, you know that?"
+msgstr "@plight Ты просто гений, ты знал об этом?"
+
+msgid "@niko_speak Well, I had help from \\p too!"
+msgstr "@niko_speak Ну, это не только моя заслуга. Ведь мне помогает \\p!"
+
+msgid "@plight_worry ...Oh, right."
+msgstr "@plight_worry А... точно."
+
+msgid "@plight_worry The whole messiah business."
+msgstr "@plight_worry Ты же мессия и всё такое."
+
+msgid "@plight ...Anyway, ready to go? I'll be up ahead."
+msgstr "@plight ...В общем, ты готов? Я пойду вперёд."
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]]"
+msgstr "[\\c[1]ДОСТУП ЗАПРЕЩЁН.\\c[0]]"
+
+msgid "@niko_speak The button works!"
+msgstr "@niko_speak Кнопка работает!"
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry Эй, ты куда?"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown Дава-а-а-ай!"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown Ну дава-а-а-ай!"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown Работай уже!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Что?"
+
+msgid "@niko What was that?"
+msgstr "@niko Что это было?"
+
+msgid "@plight_unknown WHY. ISN'T. THIS. WORKING??!?"
+msgstr "@plight_unknown ПОЧЕМУ. ОН. НЕ. РАБОТАЕТ?!"
+
+msgid "@niko_speak ...I..."
+msgstr "@niko_speak Я..."
+
+msgid "@niko_speak ....think someone might need help."
+msgstr "@niko_speak ...Я думаю, кому-то нужна помощь."
+
+msgid "TO: OFFICE"
+msgstr "К: ОФИСУ"
+
+msgid "PATH CLOSED"
+msgstr "ПРОХОД ЗАКРЫТ"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight Ну давай же..."
+
+msgid "@plight Come oonnnnnnn!"
+msgstr "@plight Дава-а-а-ай!"
+
+msgid "@plight I'm too busy for this!"
+msgstr "@plight Я слишком занят!"
+
+msgid "@niko ...Uh"
+msgstr "@niko Э-э..."
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak Простите..."
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock Ничего себе!"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight Ты же... ты!"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry (Боже, я и не думал, что наткнусь на...)"
+
+msgid "@plight_why (...this is embarrassing...)"
+msgstr "@plight_why (Какой позор...)"
+
+msgid "@plight_worry er......"
+msgstr "@plight_worry Э-э..."
+
+msgid "@plight Is there, uh, anything I can help you with?"
+msgstr "@plight Я... э-э... могу тебе чем-то помочь?"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak Да, пожалуйста!"
+
+msgid "@niko I would like to know how to get to the surface!"
+msgstr "@niko Я бы хотел узнать, как добраться до поверхности!"
+
+msgid "@plight_2 ...yeeahh... I was afraid you were gonna say that..."
+msgstr "@plight_2 Да-а-а... Я боялся, что ты это скажешь..."
+
+msgid "@plight Right now, this elevator is the only way to access the surface. But..."
+msgstr "@plight Сейчас единственный способ добраться вниз — этот лифт. Но..."
+
+msgid "@plight ....yeah, just take a look at it."
+msgstr "@plight Только посмотри на него..."
+
+msgid "@niko I-It looks like an elevator..."
+msgstr "@niko Он... выглядит как обычный лифт..."
+
+msgid "@plight_2 Well, you're not wrong, but..."
+msgstr "@plight_2 Что ж, в этом ты прав, но..."
+
+msgid "@plight_why Go look at the button panel."
+msgstr "@plight_why Поди посмотри на кнопки."
+
+msgid "@plight_2 I am not the button panel."
+msgstr "@plight_2 Я не лифтовая панель."
+
+msgid "@plight_shock Whoa! How did you make this?"
+msgstr "@plight_shock Вот это да! Как ты её сделал?"
+
+msgid "@niko_speak Out of a coffee can!"
+msgstr "@niko_speak Из кофейной банки!"
+
+msgid "@plight_worry ...Coffee comes from cans?"
+msgstr "@plight_worry А что... кофе берут из банок?"
+
+msgid "@plight_worry ......."
+msgstr "@plight_worry ......."
+
+msgid "@plight_2 ...Uh, go see if it works!"
+msgstr "@plight_2 Эм... Ну, проверь, может, сработает!"
+
+msgid "@plight_shock Oh nice, are those magnets?"
+msgstr "@plight_shock Ох, круто. Это магниты?"
+
+msgid "@plight_2b Looks like they're a bit loose, but...."
+msgstr "@plight_2b Они как-то слабо держатся, но..."
+
+msgid "@plight_2 ...Ah well, go see if it works!"
+msgstr "@plight_2 ...Ладно, проверь, может, сработает!"
+
+msgid "@plight_shock Oh wow, that sure is a lotta tape...."
+msgstr "@plight_shock Ой, сколько скотча..."
+
+msgid "@plight But better safe than sorry, right?"
+msgstr "@plight На всякий пожарный, да?"
+
+msgid "@plight You don't want it to break on ya."
+msgstr "@plight Ну да, мы же не хотим, чтобы она сломалась..."
+
+msgid "@plight_why It was worth a shot, yeah."
+msgstr "@plight_why Что ж, попытка не пытка."
+
+msgid "@plight_why I'm losing so much time...\\nI'm not even timing it anymore..."
+msgstr "@plight_why Я столько времени потерял...\\nЯ уже даже не смотрю на часы..."
+
+msgid "@plight_why I'm losing so much time...\\nProbably \\v[22] minutes of work already."
+msgstr "@plight_why Я торчу тут уже столько времени...\\nДумаю, минуты \\v[22] точно."
+
+msgid "@plight_why I'm losing so much time..."
+msgstr "@plight_why Я уже столько времени потерял..."
+
+msgid "@plight_why I hate this...."
+msgstr "@plight_why Ненавижу..."
+
+msgid "@plight Do you think you'll be able to make that button?"
+msgstr "@plight Думаешь, у тебя получится сделать эту кнопку?"
+
+msgid "@plight_2 Well, no pressure, kid."
+msgstr "@plight_2 Что ж, не буду тебя подгонять."
+
+msgid "@plight_2b I'll just... stick with my original plan for now..."
+msgstr "@plight_2b Я пока буду придерживаться первоначального плана..."
+
+msgid "@plight_2b Time to kick the door again."
+msgstr "@plight_2b Пора снова как следует пнуть эту дверь."
+
+msgid "@plight_why My foot hurts..."
+msgstr "@plight_why Уже нога заболела..."
+
+msgid "@plight 6, 3, 0, 1, 4..."
+msgstr "@plight 6, 3, 0, 1, 4..."
+
+msgid "@plight Guess I did it.\\> \\@plight_worry Somehow."
+msgstr "@plight Кажется, получилось.\\> \\@plight_worry Сам не знаю как."
+
+msgid "@niko_speak Did"
+msgstr "@niko_speak Ты..."
+
+msgid "@niko_what Did you really try all the codes...\\> \\@niko_what2 starting from 0..."
+msgstr "@niko_what Ты правда перепробовал все коды?\\> \\@niko_what2 Начиная с 0?.."
+
+msgid "@plight_smile Eh, it paid off."
+msgstr "@plight_smile Получилось же."
+
+msgid "@niko_wtf Still!"
+msgstr "@niko_wtf И всё же!"
+
+msgid "@niko6 Now I feel kinda bad for telling him to help, \\p..."
+msgstr "@niko6 Теперь мне стыдно, что я попросил его о помощи, \\p..."
+
+msgid "@niko_eyeclosed I didn't think he was gonna actually..."
+msgstr "@niko_eyeclosed Не думал, что он и правда..."
+
+msgid "@plight_smile Nah don't worry about it, just glad I could help."
+msgstr "@plight_smile Не бери в голову. Я рад помочь."
+
+msgid "@niko_speak Thank... thank you!"
+msgstr "@niko_speak Спасибо! Огромное!"
+
+msgid "@plight Yup.\\>\\nAnyway... you ready to go? I'll be up ahead."
+msgstr "@plight Не за что.\\>\\nВ общем... ты готов? Я пойду вперёд."
+
+msgid "@plight \\v[26], \\v[27], \\v[28], \\v[29], \\v[30]..."
+msgstr "@plight \\v[26], \\v[27], \\v[28], \\v[29], \\v[30]..."
+
+msgid "[PLEASE MAKE HIM STOP.]"
+msgstr "[ПОЖАЛУЙСТА, УГОМОНИТЕ ЕГО.]"
+
+msgid "@niko Hi."
+msgstr "@niko Привет."
+
+msgid "@plight Hi."
+msgstr "@plight Привет."
+
+msgid "@plight ...Can I help with anything?"
+msgstr "@plight ...Я могу чем-то помочь?"
+
+msgid "@plight Anything at all?"
+msgstr "@plight Хоть чем-нибудь?"
+
+msgid "@plight_worry Being so unproductive for so long... It's really getting to me..."
+msgstr "@plight_worry Так долго торчать без дела... Меня это бесит..."
+
+msgid "@niko I think \\p and I got it handled!"
+msgstr "@niko Думаю, мы уже с этим справились!"
+
+msgid "@niko What do you think, \\p?"
+msgstr "@niko Как ты думаешь, \\p?"
+
+msgid "[\"Tell him to use random codes\", \"Tell him to stand there\"]"
+msgstr "[\"Скажи ему использовать случайные коды.\",\"Скажи ему стоять на своём месте.\"]"
+
+msgid "@niko Maybe you can just try out some numbers until you get it..."
+msgstr "@niko Может, попробовать набирать разные цифры, пока не сработает..."
+
+msgid "@niko_speak I mean, \\p and I did it before!"
+msgstr "@niko_speak \\p и я уже делали так раньше!"
+
+msgid "@niko_eyeclosed Took us a while, but..."
+msgstr "@niko_eyeclosed Это было не так уж быстро, но..."
+
+msgid "@plight_worry ....seriously?"
+msgstr "@plight_worry Серьёзно?.."
+
+msgid "@plight Alright, I suppose that's better than doing nothing."
+msgstr "@plight Ладно. Думаю, это лучше, чем вообще ничего не делать."
+
+msgid "@plight Let's see... 0, 0, 0, 0, 0..."
+msgstr "@plight Так, посмотрим... 0, 0, 0, 0, 0..."
+
+msgid "@plight_why Yep, gonna be here for a while. 0, 0, 0, 0, 1....."
+msgstr "@plight_why Да, это займёт какое-то время. 0, 0, 0, 0, 1..."
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]\\| ...YOU AREN'T SERIOUSLY DOING THIS, ARE YOU?]"
+msgstr "[\\c[1]ДОСТУП ЗАПРЕЩЁН.\\c[0]\\| ...ВЫ ВЕДЬ НЕ СЕРЬЁЗНО, ПРАВДА?]"
+
+msgid "@niko Maybe you can just take it easy for a while?"
+msgstr "@niko Может, тебе стоит немного отдохнуть?"
+
+msgid "@plight_why Hooray..."
+msgstr "@plight_why Ура..."
+
+msgid "@plight_why My least favorite thing to do..."
+msgstr "@plight_why Моё самое нелюбимое занятие..."
+
+msgid "TO: CAFE"
+msgstr "К: КАФЕ"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[ПРОХОД ЗАПРЕЩЁН!]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko О... Прошу прощения!"
+
+msgid "@niko It's an elevator."
+msgstr "@niko Это лифт."
+
+msgid "@Niko It's an elevator."
+msgstr "@Niko Это лифт."
+
+msgid "@niko_eyeclosed Apparently broken?"
+msgstr "@niko_eyeclosed Кажется, не работает?"
+
+msgid "@niko_speak Let's fix the elevator!"
+msgstr "@niko_speak Давай починим лифт!"
+
+msgid "@niko_speak It needs a code."
+msgstr "@niko_speak Тут нужен код."
+
+msgid "@niko_yawn *yawn* ..."
+msgstr "@niko_yawn (Зевает.)"
+
+msgid "@niko I'm having trouble staying awake, \\p.\\>\\nWe should find a place for me to take a nap..."
+msgstr "@niko Я уже еле стою на ногах, \\p.\\>\\nНадо найти место, где я смогу вздремнуть..."
+
+msgid "@niko_speak Oh! Thank you for holding the elevator door open for me, mister!"
+msgstr "@niko_speak О, спасибо, что подержал дверь лифта!"
+
+msgid "@plight No prob, hop in."
+msgstr "@plight На здоровье. Заскакивай!"
+
+msgid "@plight Oh hey, welcome back..."
+msgstr "@plight О, привет! С возвращением..."
+
+msgid "@plight_worry That... sure took you a while, huh..."
+msgstr "@plight_worry Ты как-то... долго ходил..."
+
+msgid "@niko2 Oh, shoot! You've been waiting this whole time?"
+msgstr "@niko2 О, блин! Ты ждал меня всё это время?"
+
+msgid "@niko And... holding the door open?"
+msgstr "@niko И... держал дверь?"
+
+msgid "@plight_worry Well I uh...\\.\\. didn't want to be rude..."
+msgstr "@plight_worry Ну, я...\\.\\. не хотел показаться невежливым..."
+
+msgid "@niko_eyeclosed I'm sorry, I should've told you to go on ahead..."
+msgstr "@niko_eyeclosed Прости. Надо было сказать, чтобы ты ехал без меня..."
+
+msgid "@plight Eh, don't worry about it."
+msgstr "@plight Да не парься."
+
+msgid "@niko I'll need to push the button to open the doors."
+msgstr "@niko Мне придётся нажать кнопку, чтобы открыть дверь."
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "К:\\nОФИСНОМУ ЗДАНИЮ И\\nКАФЕ"
+
+msgid "TO: APARTMENTS"
+msgstr "К: АПАРТАМЕНТАМ"
+
+msgid "@niko_eyeclosed Oh well..."
+msgstr "@niko_eyeclosed Ох, ладно..."
+
+msgid "[HELLO.]"
+msgstr "[ПРИВЕТСТВУЮ.]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[ДОСТУП В ЭТУ ЗОНУ ЗАПРЕЩЁН ДЛЯ ДЕМО.]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[ПРОШУ ПРОЩЕНИЯ ЗА ДОСТАВЛЕННЫЕ НЕУДОБСТВА.]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko Демо?.."
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[Я НЕ МОГУ ВАС ПРОПУСТИТЬ.]"
+

@@ -1,0 +1,87 @@
+msgid "@niko_speak Wow...."
+msgstr "@niko_speak 우와..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko I've... actually never been to a big city before!"
+msgstr "@niko 저... 이렇게 큰 도시는 태어나서 처음 봐요!"
+
+msgid "@niko All these lights... all these people..."
+msgstr "@niko 불빛도 많고...사람도 많고..."
+
+msgid "@niko I guess most of this world's population lives here..."
+msgstr "@niko 이 세상 사람이 거의 다 여기 사나 봐요..."
+
+msgid "@niko It's very different from my village."
+msgstr "@niko 제가 살던 마을과 정말 다르네요."
+
+msgid "@niko_speak The village is very small, and surrounded by huge fields!"
+msgstr "@niko_speak 우리 마을은 아주 작고, 넓은 들판으로 둘러싸여 있거든요!"
+
+msgid "@niko You saw a bit of that in one of my dreams from a while ago..."
+msgstr "@niko 전에 제 꿈에서 보셨겠지만요..."
+
+msgid "@niko_speak The tallest buildings in our village are only two stories tall!"
+msgstr "@niko_speak 우리 마을에서 가장 높은 건물은 고작 2층이에요!"
+
+msgid "@niko_speak What about you, \\p?"
+msgstr "@niko_speak 당신의 세계는 어떤가요, \\p 님?"
+
+msgid "@niko Where do you live?"
+msgstr "@niko \\p 님은 어디 살아요?"
+
+msgid "[\"A city\", \"A village\", \"Someplace else\"]"
+msgstr "[\"도시에 살아.\",\"시골에 살아.\",\"다른 어딘가에 살아.\"]"
+
+msgid "@niko_speak A city? Like this?"
+msgstr "@niko_speak 도시요? 이런 곳 말인가요?"
+
+msgid "@niko Wow...."
+msgstr "@niko 우와..."
+
+msgid "@niko_eyeclosed I can't imagine living in a city..."
+msgstr "@niko_eyeclosed 도시 생활이라니, 상상하기 어렵네요..."
+
+msgid "@niko_speak Must be exciting!"
+msgstr "@niko_speak 분명 흥미진진할 것 같아요!"
+
+msgid "@niko_eyeclosed ...And... kinda scary..."
+msgstr "@niko_eyeclosed ...좀... 무서울 것 같기도 하지만요..."
+
+msgid "@niko The view is nice, though!"
+msgstr "@niko 아무튼 전망은 멋지네요!"
+
+msgid "@niko A village?"
+msgstr "@niko 시골에요?"
+
+msgid "@niko_speak Just like me!"
+msgstr "@niko_speak 저랑 비슷하네요!"
+
+msgid "@niko Can you imagine living in a city like this?"
+msgstr "@niko 이런 도시에서의 삶, 상상이 돼요?"
+
+msgid "@niko_eyeclosed I can't..."
+msgstr "@niko_eyeclosed 전 안 돼요..."
+
+msgid "@niko_eyeclosed ...It's... kinda scary...."
+msgstr "@niko_eyeclosed ...그게... 좀 무서워서요..."
+
+msgid "@niko_speak But also really cool!"
+msgstr "@niko_speak 하지만 정말 멋지기도 해요!"
+
+msgid "@niko_speak Something that isn't a city or village?"
+msgstr "@niko_speak 도시도, 시골도 아닌 곳에요?"
+
+msgid "@niko ...."
+msgstr "@niko ...."
+
+msgid "@niko_speak Like a ship?"
+msgstr "@niko_speak 배... 처럼요?"
+
+msgid "@niko_eyeclosed ...Well, maybe not a ship..."
+msgstr "@niko_eyeclosed ...음, 배는 아니겠죠..."
+
+msgid "@niko Can you imagine living in a city like this, though?"
+msgstr "@niko 그런 그렇고, 이런 도시에서의 삶이 상상이 가세요?"
+

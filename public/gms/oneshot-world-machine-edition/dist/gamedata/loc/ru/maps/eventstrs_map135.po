@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd Итак..."
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd Мы снова встретились."
+
+msgid "@niko Hello..."
+msgstr "@niko Привет..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak Погоди!"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko Разве ты не... из деревни?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd Да, но бараны живут везде.\\>\\nВ деревне, в городе..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd И даже...\\.\\. в твоём сердце."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed Понятно..."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd Если бы бараны кушали выпечку..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd Они бы всегда выбирали... \\.баранки."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko И что?"
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd Раньше я вела страничку про овечек в сети..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd Но из-за каких-то баранов у нас постоянно отваливались ба-а-азы данных."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak И?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd Просто надо было правильно заполнять поля."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed Ничего не понимаю..."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd М-да, похоже, пора закругляться с шутками."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd Что поделать...\\n\\>\\@shepherd Они всех бе-е-е-е-е-сят."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c Эту я понял!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Ой!"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd Знаешь, какая у пастуха любимая планета? \\.\\.\\nНи за что не угадаешь!"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd АльдеБАРАН!"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed Не бекай на меня..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed Я... тоже рад тебя видеть..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak Этот баран вообще на меня не реагирует..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko Зато на его шерсти написано «бе-е»."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd Не могу это стереть."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd Потому что он...\\.\\. доступен только для чтения."
+
+msgid "@niko I... see..."
+msgstr "@niko А... ясно..."
+
+msgid "@niko An electric kettle."
+msgstr "@niko Электрический чайник."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko Вода закипает."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd О, да, пора подкрепиться."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd Не хочешь чашку чая..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.с БАРАНками?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed Да нет... спасибо."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd Подумать только, а вдруг мы все произошли от баранов?"
+

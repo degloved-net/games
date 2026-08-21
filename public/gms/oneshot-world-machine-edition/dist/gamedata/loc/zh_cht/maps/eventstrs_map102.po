@@ -1,0 +1,318 @@
+msgid "@niko It's not safe to use this minecart anymore, \\p."
+msgstr "@niko \\p，現在搭礦車已經不安全了。"
+
+msgid "@niko_eyeclosed We can't use this anymore..."
+msgstr "@niko_eyeclosed 這個已經不能用了……"
+
+msgid "@niko Still at it?"
+msgstr "@niko 妳還在調查嗎？"
+
+msgid "@silver_eyeclosed [Still at it.]"
+msgstr "@silver_eyeclosed [我還在調查。]"
+
+msgid "@niko How's it going?"
+msgstr "@niko 狀況如何？"
+
+msgid "@silver_eyeclosed [Not ideal.]"
+msgstr "@silver_eyeclosed [狀況不佳。]"
+
+msgid "@silver [Looks like these terminals are running on a completely separate power source.]"
+msgstr "@silver [看起來這些終端機是靠完全獨立的電源運作。]"
+
+msgid "@silver2 [I can't really recognize any of the data formats on this terminal, either.]"
+msgstr "@silver2 [而且我完全不認得這台終端機上的資料格式。]"
+
+msgid "@silver2 [This is all... new....]"
+msgstr "@silver2 [這全都是……新的……]"
+
+msgid "@silver_eyeclosed [...or at least, encrypted.]"
+msgstr "@silver_eyeclosed [……或者至少被加密了。]"
+
+msgid "@silver [I will need to analyze it through my own system.]"
+msgstr "@silver [我需要用我自己的系統分析它。]"
+
+msgid "@silver [Might take some time, so you don't need to stay.]"
+msgstr "@silver [我可能需要一點時間，你不用留下來陪我。]"
+
+msgid "@silver [Oh, found another video feed...]"
+msgstr "@silver [喔，我找到了另一份視訊饋送……]"
+
+msgid "@silver2 [I should definitely go look for the cameras later.]"
+msgstr "@silver2 [我之後一定要去找攝影機。]"
+
+msgid "@silver_eyeclosed [This is really bothering me...]"
+msgstr "@silver_eyeclosed [這真的讓我很煩惱……]"
+
+msgid "@silver2 [This observation room... isn't for the mines...]"
+msgstr "@silver2 [這間觀察室……不是礦區用的……]"
+
+msgid "@silver2 [I've actually never been into this particular one.]"
+msgstr "@silver2 [其實我從來沒有進來過這一間。]"
+
+msgid "@niko2 Really?"
+msgstr "@niko2 真的嗎？"
+
+msgid "@niko You recognized it at first, though..."
+msgstr "@niko 可是妳一開始認得這間房間啊……"
+
+msgid "@silver_eyeclosed [They all look the same.]"
+msgstr "@silver_eyeclosed [這種房間看起來都一樣。]"
+
+msgid "@niko_eyeclosed Fair enough!"
+msgstr "@niko_eyeclosed 說得也是！"
+
+msgid "@silver2 [I did find something interesting, though.]"
+msgstr "@silver2 [不過我的確有一項有趣的發現。]"
+
+msgid "@silver_lookup [All the databases seem to encode video feeds.]"
+msgstr "@silver_lookup [所有的資料庫似乎都是為視訊饋送編碼。]"
+
+msgid "@silver [Right now, I can see various places in the Barrens.]"
+msgstr "@silver [我現在就能看見藍荒地的某些地方。]"
+
+msgid "@silver [The outpost... the residential areas...]"
+msgstr "@silver [前哨站……住宅區……]"
+
+msgid "@silver2 [Even my own house.]"
+msgstr "@silver2 [甚至是我家。]"
+
+msgid "@silver_eyeclosed [They're all shot from a top-down perspective, too.]"
+msgstr "@silver_eyeclosed [而且這些影像都是從上往下的視角拍攝。]"
+
+msgid "@silver2 [...which means the cameras would have to be in the air.]"
+msgstr "@silver2 [……換言之攝影機應該都在空中。]"
+
+msgid "@silver_eyeclosed [But... I have never seen any cameras around.]"
+msgstr "@silver_eyeclosed [但……我從來沒有在附近看到任何攝影機。]"
+
+msgid "@niko_what That's kind of spooky!"
+msgstr "@niko_what 這有點詭異耶！"
+
+msgid "@silver_eyeclosed [I might go investigate later, yeah.]"
+msgstr "@silver_eyeclosed [對啊，我之後可能會去調查。]"
+
+msgid "@silver [Did you find anything interesting in the backroom?]"
+msgstr "@silver [你在後面房間有找到什麼有趣的東西嗎？]"
+
+msgid "@silver2 [You were in there for a while.]"
+msgstr "@silver2 [你在裡面待了一陣子。]"
+
+msgid "@niko_speak Yeah! We... \\.\\.\\@niko5 ...found...\\.\\. a"
+msgstr "@niko_speak 有喔！我們……\\.\\.\\@niko5 ……找到了……\\.\\.一"
+
+msgid "@niko6 ...a dead end?"
+msgstr "@niko6 ……一條死路？"
+
+msgid "@silver_eyeclosed [I see.]"
+msgstr "@silver_eyeclosed [我知道了。]"
+
+msgid "@silver [Come on, let's go back.]"
+msgstr "@silver [來，我們回去吧。]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [走吧。]"
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko 某種小型機器。"
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko 不知道是做什麼用的？"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 我能感覺到毛髮稍微豎了起來……"
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 是電池……\\n應該吧。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak 旁邊寫了「預言機」三個字。"
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko 之前都沒注意到。"
+
+msgid "@niko2 Oh, the cart's stopped!"
+msgstr "@niko2 喔，礦車停下了！"
+
+msgid "@niko_eyeclosed Looks like this is as far as the tracks go..."
+msgstr "@niko_eyeclosed 看來軌道就到此為止了……"
+
+msgid "@niko So...\\.\\.\\. where are we?"
+msgstr "@niko 這麼說……\\.\\.\\.我們在哪裡？"
+
+msgid "@silver_lookup [One of the old observation rooms.]"
+msgstr "@silver_lookup [其中一間舊觀察室。]"
+
+msgid "@silver2 [Looks like it's still mostly intact.]"
+msgstr "@silver2 [看起來大部分都還完好無損。]"
+
+msgid "@silver2 [What...?]"
+msgstr "@silver2 [什麼……？]"
+
+msgid "@niko2 Huh?"
+msgstr "@niko2 咦？"
+
+msgid "@silver2 [The terminal just reactivated!]"
+msgstr "@silver2 [終端機剛剛重新啟動了！]"
+
+msgid "@silver [But the power was cut off so long ago...]"
+msgstr "@silver [可是電源明明很久以前就切斷了……]"
+
+msgid "@niko6 Weird!"
+msgstr "@niko6 好奇怪喔！"
+
+msgid "@niko_speak Maybe... it runs on battery?"
+msgstr "@niko_speak 會不會……它是靠電池運作的？"
+
+msgid "@silver_eyeclosed [No... that's not it.]"
+msgstr "@silver_eyeclosed [不……還不只這樣。]"
+
+msgid "@silver2 [Whatever it is, I need to investigate.]"
+msgstr "@silver2 [不論是什麼，我都需要調查清楚。]"
+
+msgid "@niko Okay..."
+msgstr "@niko 好吧……"
+
+msgid "@silver2 [Will you be okay by yourself for a bit?]"
+msgstr "@silver2 [你暫時一個人沒有關係嗎？]"
+
+msgid "@niko_speak Don't worry! \\p's with me!"
+msgstr "@niko_speak 別擔心！有\\p陪我！"
+
+msgid "@silver_eyeclosed [Alright. Stay safe.]"
+msgstr "@silver_eyeclosed [好。注意安全喔。]"
+
+msgid "@niko4 I shouldn't get too close..."
+msgstr "@niko4 不要靠太近比較好……"
+
+msgid "@niko Some sort of computer."
+msgstr "@niko 某種電腦。"
+
+msgid "@ed [I remember it... what happened in the Tower.]"
+msgstr "@ed [我還記得……塔裡發生的事。]"
+
+msgid "@ed [What I tried to do... and how you managed to see through it all.]"
+msgstr "@ed [我的企圖……還有你如何識破一切。]"
+
+msgid "@ed [We HAVE been through all of this.]"
+msgstr "@ed [我們確實經歷過這一段。]"
+
+msgid "@ed [Even though it was only supposed to run once... you still managed to come back.]"
+msgstr "@ed [即使這原本只應該發生一次……你還是設法回來了。]"
+
+msgid "@ed [...How did you come back?]"
+msgstr "@ed [……你是怎麼回來的？]"
+
+msgid "@ed [...How did you bring Niko back?]"
+msgstr "@ed [……你是怎麼把霓光帶回來的？]"
+
+msgid "@ed [And then, you even managed to break out of bounds.]"
+msgstr "@ed [而且你甚至找到方法突破了界限。]"
+
+msgid "@ed [Bringing Niko to places that never should have been.]"
+msgstr "@ed [把霓光帶去本來根本不該去的地方。]"
+
+msgid "@ed [It was HIM, wasn't it?]"
+msgstr "@ed [是他做的，對不對？]"
+
+msgid "@ed [And now... now....]"
+msgstr "@ed [而現在……現在……]"
+
+msgid "@ed [Niko is upset.]"
+msgstr "@ed [霓光很難過。]"
+
+msgid "@ed [What even happened in that room back there?]"
+msgstr "@ed [當時在那間房間裡到底發生了什麼事？]"
+
+msgid "@ed [What did Niko learn?]"
+msgstr "@ed [霓光得知了什麼事？]"
+
+msgid "@ed [I can feel it.]"
+msgstr "@ed [我感覺得到。]"
+
+msgid "@ed [I told you to turn back, \\p!]"
+msgstr "@ed [\\p，我明明叫你回去的！]"
+
+msgid "@ed [But you've chosen to trust that man instead of me.]"
+msgstr "@ed [你卻選擇相信那個人，而不相信我。]"
+
+msgid "@ed [...No, not even that.]"
+msgstr "@ed [……不，甚至不是這樣。]"
+
+msgid "@ed [Just his book.]"
+msgstr "@ed [只有他的書。]"
+
+msgid "@ed [His ghost.]"
+msgstr "@ed [他的鬼魂。]"
+
+msgid "@ed [This world is not real.]"
+msgstr "@ed [這個世界不是真的。]"
+
+msgid "@ed [The people are not real.]"
+msgstr "@ed [這裡的人也不是真的。]"
+
+msgid "@ed [Niko... is....]"
+msgstr "@ed [霓光……是……]"
+
+msgid "@ed [No no no no no.]"
+msgstr "@ed [不不不不不。]"
+
+msgid "@ed [Everything.]"
+msgstr "@ed [一切。]"
+
+msgid "@ed [Is.]"
+msgstr "@ed [都。]"
+
+msgid "@ed [  W  r  o  n  g  !  !  ]"
+msgstr "@ed [  錯  了  ！  ！  ]"
+
+msgid "@niko_shock AH!!"
+msgstr "@niko_shock 啊！！"
+
+msgid "@silver_worry [...The minecart!]"
+msgstr "@silver_worry [……礦車！]"
+
+msgid "@silver3 [Earthquake...]"
+msgstr "@silver3 [有地震……]"
+
+msgid "@niko_surprised Th-\\.\\.the tunnel back out just collapsed!"
+msgstr "@niko_surprised 回、\\.\\.回去的通道坍塌了！"
+
+msgid "@silver_worry [No!!]"
+msgstr "@silver_worry [不！！]"
+
+msgid "@niko3 What are we gonna do?!"
+msgstr "@niko3 怎麼辦？！"
+
+msgid "@silver_worry [I....]"
+msgstr "@silver_worry [我……]"
+
+msgid "@proto1 [Wait.]"
+msgstr "@proto1 [等等。]"
+
+msgid "@proto2 [The exit just caved, didn't it.]"
+msgstr "@proto2 [出口塌掉了，對吧。]"
+
+msgid "@proto2b [Sigh.]"
+msgstr "@proto2b [唉。]"
+
+msgid "@proto2 [I saw this coming, but this is a bit more sudden than I anticipated.]"
+msgstr "@proto2 [我有料到會這樣，但是這比我預期的還要突如其來。]"
+
+msgid "@proto1 [Both of you. Follow me.]"
+msgstr "@proto1 [你們兩個都跟我來。]"
+
+msgid "@niko3 Where to?"
+msgstr "@niko3 我們要去哪裡？"
+
+msgid "@proto1 [The way out.]"
+msgstr "@proto1 [通往外面的路。]"
+
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko 罐子裡有很多發光的小蝦子在游泳。"
+
+msgid "@niko3 I shouldn't get too close..."
+msgstr "@niko3 不要靠太近比較好……"
+

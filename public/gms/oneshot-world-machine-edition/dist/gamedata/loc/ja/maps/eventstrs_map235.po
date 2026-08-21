@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko フィルムがなくなっちゃった…"
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko …\\>\\nはめ込む場所が違ってたみたいだね、 \\p。"
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko …\\>\\n何も起きなかった。"
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak あー…チーズ？"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf うわっ、め、目が…"
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak ミーの写真！"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko …ミーの目って、いつもこんなに大きいの？"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak もう1枚！"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko ナイスアイデア、 \\p。\n予備があると安心だね。"
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko もう1枚…"
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak 3つあれば十分だよね？"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c けっこう楽しいね！"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko ミーの写真だ。"
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak これはとっても綺麗に写ってる！"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak あ、やっちゃった！\\>\\n\\@niko_eyeclosed これは目を閉じちゃってる…"
+
+msgid "@niko Nice."
+msgstr "@niko すごいね。"
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak どれもすっごくいい感じだよ！"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak \\p、 何枚必要なの？"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko ミーの写真だ…"
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed カメラのフィルムがなくなっちゃった…"
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko ここにスロットがあるよ。\\>\\n紙か何か、出てきそう。"
+

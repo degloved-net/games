@@ -1,0 +1,24 @@
+msgid "@niko A bunch of words are on the screen."
+msgstr "@niko Um monte de palavras aparecem na tela."
+
+msgid "@niko_eyeclosed I don't understand any of it..."
+msgstr "@niko_eyeclosed Não entendo nada disso..."
+
+msgid "The luminescence index of liquid red phosphor decreased by a factor of 3.57% this past week."
+msgstr "O índice fotométrico da luminescência líquida vermelha decaiu em 3,57% na semana passada."
+
+msgid "Alarming, to say the least... that's the sharpest decline I've seen, and the number is only increasing."
+msgstr "No mínimo, alarmante... essa é a queda mais notável que eu já vi e o número só aumenta."
+
+msgid "We will have to further concentrate the phosphor now, for it to be of any use."
+msgstr "Precisaremos concentrar ainda mais a luminescência agora, senão será inútil."
+
+msgid "It's hard to believe, but there's a good chance this city could run out of light in as little as six months."
+msgstr "É difícil acreditar, mas há uma boa chance de esta cidade ficar sem luz uns bons seis meses."
+
+msgid "...What are we going to do?"
+msgstr "...O que faremos?"
+
+msgid "If the city runs out of light, well...\\>\\nI don't want to think about what happens then."
+msgstr "Se a cidade ficar sem luz, bem...\\>\\nEu não quero nem pensar no que pode acontecer."
+

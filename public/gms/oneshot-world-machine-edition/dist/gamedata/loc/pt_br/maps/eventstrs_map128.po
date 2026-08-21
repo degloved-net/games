@@ -1,0 +1,30 @@
+msgid "@alula_speak Hey!"
+msgstr "@alula_speak Ei!"
+
+msgid "@alula I saw you going to the courtyard!\\>\\n\\@alula_speak So I thought I'd tag along!"
+msgstr "@alula Eu vi você indo para o pátio!\\>\\n\\@alula_speak então resolvi vir atrás!"
+
+msgid "@calamus_smile Same!"
+msgstr "@calamus_smile Eu também!"
+
+msgid "@alula This is the courtyard.\\>\\n\\@alula It's got water... and... stuff..."
+msgstr "@alula Este é o pátio.\\>\\n\\@alula Tem água e... umas coisas..."
+
+msgid "@alula_oh Oh, are you leaving now?"
+msgstr "@alula_oh Ah, já está indo embora?"
+
+msgid "@alula_speak Good luck, Niko! \\>\\n\\@alula We believe in you!"
+msgstr "@alula_speak Boa sorte, Niko!\\>\\n\\@alula Acreditamos em você!"
+
+msgid "@niko It's a ball."
+msgstr "@niko Uma bola."
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula É minha!\\>\\n\\@alula_pout Mas ela não quica mais como antes..."
+
+msgid "@calamus There's an entrance to an underground passage here.\\>\\nIt's flooded, though."
+msgstr "@calamus Há uma entrada subterrânea aqui.\\>\\nMas está submersa."
+
+msgid "@calamus_speak Oh, are you leaving now?\\>\\n\\@calamus_smile It was... nice, to meet you.\\>\\n\\@calamus Really. Thanks for everything."
+msgstr "@calamus_speak Já está indo embora?\\>\\n\\@calamus_smile Foi... legal conhecer você.\\>\\n\\@calamus Verdade. Obrigado por tudo."
+

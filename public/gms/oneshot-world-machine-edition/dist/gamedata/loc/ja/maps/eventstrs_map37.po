@@ -1,0 +1,303 @@
+msgid "@niko I think I have something I'd like to trade!\\>\\n\\@niko_speak You'll take wool, right?\\>\\n\\@niko What can this wool get me?"
+msgstr "@niko 物々交換したいものがあるんだ！\\>\\n\\@niko_speak 羊毛は引き取ってくれるよね？\\>\\n\\@niko 何と交換してくれるの？"
+
+msgid "@magpie_hm Wool, huh?"
+msgstr "@magpie_hm 羊毛だって？"
+
+msgid "@magpie That'll get you.\\..\\..\\.\\. This fine vial of..."
+msgstr "@magpie それなら\\..\\..\\.\\.このビンに入ってる素敵な…"
+
+msgid "@magpie_smile I'm not sure what this is, actually!\\>\\nSome sort of fabric dye?"
+msgstr "@magpie_smile 実は何なのか分からないのさ！\\>\\n布染料かな？"
+
+msgid "@niko Hmm... How about it, \\p?"
+msgstr "@niko うーん…どうかな、 \\p？"
+
+msgid "[\"Take the offer!\", \"Ehh...\"]"
+msgstr "[\"それと交換だ！\",\"いや…\"]"
+
+msgid "@niko_speak I'll do it!"
+msgstr "@niko_speak 取引成立！"
+
+msgid "@magpie_smile Pleasure doing business!"
+msgstr "@magpie_smile 毎度あり！"
+
+msgid "@niko Wait, \\p... you want to... haggle?\\>\\n\\@niko_what ...really?"
+msgstr "@niko 待って、 \\p…\nもしかして…値切ってほしいの？\\>\\n\\@niko_what …本気で？"
+
+msgid "@niko_eyeclosed Alright then..."
+msgstr "@niko_eyeclosed 分かったよ…"
+
+msgid "@niko_speak \\p said they wanted a better offer!"
+msgstr "@niko_speak \\p がもっと何か欲しいって言ってる！"
+
+msgid "@magpie_oh ...holy smokes!\\>\\n\\@magpie_smile Forgot I was doing a trade with god for a second there..."
+msgstr "@magpie_oh …なんてこった！\\>\\n\\@magpie_smile 神様と物々交換してるってのを\nうっかり忘れてたぜ！"
+
+msgid "@magpie Okay, okay...\\>\\n\\@magpie_smile In that case, I'll also throw in this commemorative T-shirt!"
+msgstr "@magpie おっけーおっけー…\\>\\n\\@magpie_smile それなら、この記念Tシャツもつけよう！"
+
+msgid "@niko Uh..."
+msgstr "@niko うーん…"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@magpie Oh well, then.\\nCome back anytime."
+msgstr "@magpie ふーん、そっか。\\nじゃあまたの機会にだな。"
+
+msgid "@niko_eyeclosed \\p, no..."
+msgstr "@niko_eyeclosed \\p、 ダメ…"
+
+msgid "@magpie_oh Hey! I just gave that to you!"
+msgstr "@magpie_oh ちょっと！それ、さっき\n渡したばかりじゃねーか！"
+
+msgid "@magpie_smile What, you wanna trade it back?"
+msgstr "@magpie_smile 何だよ、返品してーのか？"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed そういうわけじゃ…"
+
+msgid "@magpie Good, cuz I wasn't gonna!"
+msgstr "@magpie ならいい。そんなつもりなかったからな！"
+
+msgid "@magpie I ain't takin that back!"
+msgstr "@magpie 返品は受け付けねーぜ！"
+
+msgid "@magpie_hm The shepherd was handing those out a while ago.\\>\\n\\@magpie_smile But does it LOOK like it'll fit me?"
+msgstr "@magpie_hm 少し前に羊飼いがそれを配ってたのさ。\\>\\n\\@magpie_smile だが、おれが着れると思うか？"
+
+msgid "@niko Huh?"
+msgstr "@niko え？"
+
+msgid "@magpie_smile T-Shirts aren't exactly made for people with wings!"
+msgstr "@magpie_smile Tシャツってのは、羽のあるやつ向けには\n作られてねーのさ！"
+
+msgid "@niko Wait, trade this?"
+msgstr "@niko 待って、これを交換するの？"
+
+msgid "@niko_speak Don't you want to find out what it says first, \\p?"
+msgstr "@niko_speak \\p、 まずは何が書かかれてるか\n知りたくないの？"
+
+msgid "@magpie What's that? A book?"
+msgstr "@magpie それは何だい？本かな？"
+
+msgid "@magpie_smile Uh, not sure if I wanna take books, I can't read!"
+msgstr "@magpie_smile ああ、本は引き取れないな。何せ読めないんだ！"
+
+msgid "@magpie_oh I can't take this!"
+msgstr "@magpie_oh これは引き取れない！"
+
+msgid "@niko_eyeclosed I'm not trading that, \\p!"
+msgstr "@niko_eyeclosed これは交換しないよ、 \\p！"
+
+msgid "@magpie You're not trading what?"
+msgstr "@magpie 何を交換しないって？"
+
+msgid "@magpie What's that? A feather?"
+msgstr "@magpie それ何だ？羽根か？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@magpie_hm Wait... \\.\\.\\@magpie_oh Oh my stars!"
+msgstr "@magpie_hm おい… \\.\\.\\@magpie_oh こりゃたまげた！"
+
+msgid "@magpie_oh That is NOT \"a\" feather!"
+msgstr "@magpie_oh それ、「ただ」の羽根じゃねーぞ！"
+
+msgid "@magpie That is a feather from the late Prophet!"
+msgstr "@magpie 今は亡き、預言者の羽根だ！"
+
+msgid "@magpie_oh Probably one of the most sacred items there is!"
+msgstr "@magpie_oh この世界に存在する、チョー神聖な\nアイテムの1つだぞ！"
+
+msgid "@magpie_oh How in the WORLD did you get a hold of THAT?"
+msgstr "@magpie_oh 一体どうやって、こんな物を\n手に入れたんだ？"
+
+msgid "@magpie_hm ...Wait, I guess it would make sense for you to have one."
+msgstr "@magpie_hm …いや、あんたが持ってるのは当然か。"
+
+msgid "@magpie_smile Y'know, with you being the savior and all."
+msgstr "@magpie_smile だってほら、救世主だしさ。"
+
+msgid "@niko Um... okay."
+msgstr "@niko ああ…そう。"
+
+msgid "@niko The seed left behind by the plant lady?"
+msgstr "@niko 植物のお姉さんが残していった種？"
+
+msgid "@niko_huh Oh, but what if...\\. it's like...\\. her baby..."
+msgstr "@niko_huh あっ、でもさ、もし…\\. 彼女の…\\. 赤ちゃんだったら…"
+
+msgid "@niko_speak I can't give away someone's baby like that!"
+msgstr "@niko_speak 誰かの赤ちゃんを\n譲ることなんてできないよ！"
+
+msgid "@niko_wtf2 Especially not to a bird..."
+msgstr "@niko_wtf2 特に鳥には…"
+
+msgid "@magpie_oh ...hey!"
+msgstr "@magpie_oh …おい！"
+
+msgid "@niko_eyeclosed I don't think it's right to trade this away, \\p ..."
+msgstr "@niko_eyeclosed これを交換するのは\nよくないと思うな、 \\p…"
+
+msgid "@magpie_oh Oh hey! You have one of those coin things!"
+msgstr "@magpie_oh おい、ちょっと！\nあのコインのやつ持ってるじゃねーか！"
+
+msgid "@magpie I've dug up a couple of these before."
+msgstr "@magpie 前にいくつか掘り出したことがあるのさ。"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@magpie_smile Yeah! There's this guy who would trade me the BEST things for them."
+msgstr "@magpie_smile ああ！それと引き換えに\n最高の品をくれる男がいてな。"
+
+msgid "@magpie Like, one time he brought me this little machine that plays music!"
+msgstr "@magpie 例えば、音楽を奏でてくれる小さな機械を\n持ってきてくれたことがある！"
+
+msgid "@magpie_hm I don't know what it's called, but you have to wind it up..."
+msgstr "@magpie_hm 名前は分からないんだが、\nクルクル巻かなきゃいけなくて…"
+
+msgid "@niko_speak Music box?"
+msgstr "@niko_speak オルゴール？"
+
+msgid "@magpie_smile That's it!"
+msgstr "@magpie_smile それだ！"
+
+msgid "@magpie I wish that guy would come back soon, I haven't seen him in forever."
+msgstr "@magpie あの男に戻ってきてほしいけど、\nずいぶん長いこと見てねーな。"
+
+msgid "@magpie_smile I wanna do more trades with him!"
+msgstr "@magpie_smile あいつともっと物々交換したい！"
+
+msgid "@niko How about this... glass tube full of water I got from a robot?"
+msgstr "@niko これはどうかな…ロボットから手に入れた、\n水でいっぱいのガラス管とか？"
+
+msgid "@niko Do you like glass?"
+msgstr "@niko ガラスは好き？"
+
+msgid "@magpie_smile Do I!"
+msgstr "@magpie_smile 好きかだって？"
+
+msgid "@niko ...do you?"
+msgstr "@niko …どうなの？"
+
+msgid "@magpie I LOVE glass!"
+msgstr "@magpie 大好きさ！"
+
+msgid "@magpie_smile SO much."
+msgstr "@magpie_smile 超好き。"
+
+msgid "@magpie_hm ...so much that I have too much glass and not enough other things."
+msgstr "@magpie_hm …好きすぎて、他のものは足りてないのに、\nガラスはたくさん持ってる。"
+
+msgid "@magpie_hm I gotta get rid of some of my old bottles and vials to make room for new stuff!"
+msgstr "@magpie_hm 古いビンとか小ビンを処分して、\n新しいものを置く場所を作らねーとな！"
+
+msgid "@magpie That's why I set up a tradepost in the first place."
+msgstr "@magpie そもそも、そのために交易所を始めたのさ。"
+
+msgid "@niko_eyeclosed So I guess that's a no-go..."
+msgstr "@niko_eyeclosed じゃあ、なしってことだね…"
+
+msgid "@niko_eyeclosed \\p... wasn't the whole point of trading was so that we could make a pen?"
+msgstr "@niko_eyeclosed \\p… 物々交換の目的は、\nペンを作ることじゃなかったっけ？"
+
+msgid "@niko Let's not trade this away..."
+msgstr "@niko これは交換しないでおこうよ…"
+
+msgid "@magpie Heya!\\>\\nYou here to trade?"
+msgstr "@magpie やあ！\\>\\n物々交換かい？"
+
+msgid "@niko Trade?"
+msgstr "@niko 物々交換？"
+
+msgid "@magpie_smile Yeah!\\>\\n\\@magpie Is there anything you want to get rid of?"
+msgstr "@magpie_smile そうさ！\\>\\n\\@magpie 処分したいものはある？"
+
+msgid "@magpie Make me an offer and I'll give you something in return!"
+msgstr "@magpie 要らない物をくれたら、\n引き換えに何かあげよう！"
+
+msgid "@niko Hm...\\>\\n\\@niko_speak Do we have something like that, \\p?"
+msgstr "@niko うーん…\\>\\n\\@niko_speak 何かあるかな、 \\p？"
+
+msgid "@niko It's a wagon stuffed with stuff!"
+msgstr "@niko 荷車だ。荷物でいっぱいだね！"
+
+msgid "@magpie_smile It sure is!"
+msgstr "@magpie_smile その通り！"
+
+msgid "@niko Shiny things are spread out on the rug."
+msgstr "@niko 絨毯の上に、\nキラキラ光るものが散らばってる。"
+
+msgid "@niko They glimmer in the sunlight."
+msgstr "@niko 太陽の光で輝いてる。"
+
+msgid "@niko They glimmer in the light of the lamp."
+msgstr "@niko ランプの光で輝いてる。"
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak わあ！"
+
+msgid "@niko_speak That's a lotta shiny things!"
+msgstr "@niko_speak キラキラしてるものがたくさん！"
+
+msgid "@niko Glass shards, glass marbles..."
+msgstr "@niko ガラスの破片、ビー玉…"
+
+msgid "@niko ...empty glass bottles, mostly-empty glass bottles, glass bottles filled with different things..."
+msgstr "@niko …空のガラスビン、ほぼ空のガラスビン、\nいろんなものが詰まったガラスビン…"
+
+msgid "@niko ...bits of string, colored wool, plain wool, fabric scraps..."
+msgstr "@niko …糸くず、色付き羊毛、\n普通の羊毛、布切れ…"
+
+msgid "@niko ...a rusty bucket, scrap metal, shells, some rocks..."
+msgstr "@niko …錆びたバケツ、スクラップ鉄、貝殻、石…"
+
+msgid "@niko_speak What's all this for, by the way?"
+msgstr "@niko_speak ねえねえ、これ全部、何のために集めてるの？"
+
+msgid "@magpie I just think they're neat!"
+msgstr "@magpie ただ好きなだけさ！"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed 入り口がツタで覆われてるよ、 \\p…"
+
+msgid "@alula_oh Oh!"
+msgstr "@alula_oh あっ！"
+
+msgid "@alula_oh This is the shrine where the old prophet used to live..."
+msgstr "@alula_oh 前の預言者が、むかし住んでた神殿…"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@alula_pout I don't remember the last time I was here..."
+msgstr "@alula_pout 最後にいつ来たのか覚えてないや…"
+
+msgid "@alula_speak Back when she was still alive, I think?"
+msgstr "@alula_speak まだ生きてた頃…かな？"
+
+msgid "The flood can take away our farmlands..."
+msgstr "洪水は農地を奪っていく…"
+
+msgid "...but it can't take away our fish!"
+msgstr "…でも、魚は奪えない！"
+
+msgid "@niko These look like herrings."
+msgstr "@niko ニシンみたいだ。"
+
+msgid "@niko_speak Or... anchovies?"
+msgstr "@niko_speak それとも…アンチョビ？"
+
+msgid "@niko Maybe sardines..."
+msgstr "@niko イワシかな…"
+
+msgid "@niko_eyeclosed I honestly have no clue!"
+msgstr "@niko_eyeclosed 全然分かんないや！"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko ホタルが数匹、ビンの中で飛び回ってる。"
+

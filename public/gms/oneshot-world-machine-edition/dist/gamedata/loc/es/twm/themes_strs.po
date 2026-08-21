@@ -1,0 +1,30 @@
+msgid "purple=Purple"
+msgstr "Morado"
+
+msgid "blue=Blue"
+msgstr "Azul"
+
+msgid "teal=Cyan"
+msgstr "Cyan"
+
+msgid "green=Green"
+msgstr "Verde"
+
+msgid "yellow=Yellow"
+msgstr "Amarillo"
+
+msgid "red=Red"
+msgstr "Rojo"
+
+msgid "pink=Pink"
+msgstr "Rosa"
+
+msgid "orange=Orange"
+msgstr "Naranja"
+
+msgid "white=White"
+msgstr "Blanco"
+
+msgid "rainbow=Rainbow"
+msgstr "Arcoíris"
+

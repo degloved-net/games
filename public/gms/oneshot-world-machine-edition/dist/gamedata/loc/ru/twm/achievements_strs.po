@@ -1,0 +1,90 @@
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "Хаотичное зло"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "«Не надо так!»"
+
+msgid "SHOCK:title=Shock"
+msgstr "Шок"
+
+msgid "SHOCK:description=Not fun."
+msgstr "Неприятный опыт."
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "Обменять всё"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "Пробуете все варианты?"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "Заклинатель баранов"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "С баранами никаких забот."
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "Оладушки"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "Любимое блюдо."
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "Навстречу рассвету"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "Врум-врум!"
+
+msgid "SECRET:title=Secret"
+msgstr "Секрет"
+
+msgid "SECRET:description=?????"
+msgstr "???"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "Книжный червь"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "Почитайте книги в библиотеке."
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "Возрождение"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "Дополнительное задание."
+
+msgid "ONESHOT:title=OneShot"
+msgstr "OneShot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "Вернитесь к истокам."
+
+msgid "RETURN:title=Return"
+msgstr "Возвращение"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "Коллекционер фонов"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "Соберите все фоны."
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "Чувство цвета"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "Соберите все темы."
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "Душа компании"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "Соберите все записи о друзьях."
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "Спасибо за всё"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "Соберите все значки."
+

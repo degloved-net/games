@@ -1,0 +1,27 @@
+msgid "@niko We should get going now, \\p."
+msgstr "@niko 이제 가야 해요, \\p 님."
+
+msgid "@niko_eyeclosed I don't think this is a good time for a nap, \\p..."
+msgstr "@niko_eyeclosed ...\\p 님, 지금은 낮잠을 자기에 좋은 때가 아닌 것 같아요..."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed 걷느라 좀 지쳤네요."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak 잠깐만 자도 되나요?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed 아, 알겠어요... \\>\\n\\@niko 해야 할 일이 더 있는 모양이네요."
+
+msgid "@niko It's a stack of blank papers."
+msgstr "@niko 그냥 하얀 종이 뭉치예요."
+
+msgid "@niko Boxes full of manuscripts."
+msgstr "@niko 원고가 가득 든 상자네요."
+
+msgid "@niko A book on the ground."
+msgstr "@niko 책이 떨어져 있어요."
+

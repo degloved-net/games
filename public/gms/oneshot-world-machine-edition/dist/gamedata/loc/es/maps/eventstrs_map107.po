@@ -1,0 +1,18 @@
+msgid "@niko I'm not sleepy anymore."
+msgstr "@niko Ya no tengo sueño."
+
+msgid "@niko_speak I can't sleep now, \\p!\\>\\n\\@niko I need to get Alula to her brother first."
+msgstr "@niko_speak ¡Ahora no puedo dormir, \\p!\\>\\n\\@niko Primero tengo que llevar a Alula con su hermano."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed Estoy agotado de tanto caminar."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak ¿Puedo echarme una siesta?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sí\",\"No\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed Bueno, está bien... \\>\\n\\@niko Supongo que hay más trabajo por hacer."
+

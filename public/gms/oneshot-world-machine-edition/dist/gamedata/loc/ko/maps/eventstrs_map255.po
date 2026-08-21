@@ -1,0 +1,135 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko6 This is the room I first woke up in..."
+msgstr "@niko6 여긴 제가 처음에 깨어난 방이에요..."
+
+msgid "@niko_speak \\p? Are you still here?"
+msgstr "@niko_speak \\p 님? 거기 계세요?"
+
+msgid "@niko2 ...\\p?"
+msgstr "@niko2 ...\\p 님?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"응.\"]"
+
+msgid "@niko_pancakes \\p!!!"
+msgstr "@niko_pancakes \\p 님!!!"
+
+msgid "@niko_speak I... I think..."
+msgstr "@niko_speak 저... 아마도..."
+
+msgid "@niko_pancakes I think it worked!!!"
+msgstr "@niko_pancakes 성공했나 봐요!!!"
+
+msgid "[\"It did!\"]"
+msgstr "[\"그래!\"]"
+
+msgid "@niko_speak The sun is back!\\>\\nAnd I actually got to see it this time!"
+msgstr "@niko_speak 태양이 돌아왔어요!\\>\\n이번에는 저한테도 보여요!"
+
+msgid "@niko_pancakes We... actually did it...!"
+msgstr "@niko_pancakes 우리가... 해냈어요...!"
+
+msgid "@niko5 So... \\>\\@niko6 what do we do now?"
+msgstr "@niko5 그런데... \\>\\@niko6 이제 어쩌죠?"
+
+msgid "@niko I guess I should figure out how to get home from here..."
+msgstr "@niko 집에 돌아가는 방법을 찾아야겠어요..."
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 잠깐..."
+
+msgid "@niko2 This... \\.\\.isn't a door, is it?"
+msgstr "@niko2 이거... \\.\\.문 아니죠?"
+
+msgid "@niko This looks like one of those portals we saw all the way back in the city."
+msgstr "@niko 도시에서 봤던 차원문하고 비슷하게 생겼네요."
+
+msgid "@niko6 In the room behind the big clock."
+msgstr "@niko6 큰 시계 뒤의 방에 있던 거요."
+
+msgid "@niko And... and..."
+msgstr "@niko 그리고..."
+
+msgid "@niko_speak I see a wheat field on the other side!"
+msgstr "@niko_speak 반대편에 밀밭이 보여요!"
+
+msgid "@niko_pancakes ...I see my village..."
+msgstr "@niko_pancakes ...우리 마을이 보여요..."
+
+msgid "@niko_pancakes I hear...\\.\\. my mama...."
+msgstr "@niko_pancakes 엄마...\\.\\. 목소리도 들리고요..."
+
+msgid "@niko2 She's looking for me..."
+msgstr "@niko2 절 찾고 계셔요..."
+
+msgid "@niko3 ...."
+msgstr "@niko3 ...."
+
+msgid "@niko3 Ah, \\p..."
+msgstr "@niko3 아, \\p 님..."
+
+msgid "@niko5 This...\\.\\. isnt the first time we've said goodbye, is it?"
+msgstr "@niko5 우리가...\\.\\. 작별 인사를 한 게 처음은 아니죠?"
+
+msgid "@niko_distressed2 But... this'll be the last time, won't it?"
+msgstr "@niko_distressed2 하지만... 이번이 마지막이 되지 않을까요?"
+
+msgid "@niko_distressed I don't think we'll ever see each other again after this..."
+msgstr "@niko_distressed 이제 우리는 다시 보지 못하겠죠..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_distressed ...and... what will become of the world?"
+msgstr "@niko_distressed 이 세상은... 또 어떻게 될까요?"
+
+msgid "@niko_eyeclosed2 ...after all we've been through."
+msgstr "@niko_eyeclosed2 함께 이런 일을 겪고..."
+
+msgid "@niko3 After everything we've done..."
+msgstr "@niko3 이런 일을 해냈는데..."
+
+msgid "@niko_distressed2 I still... \\>\\@niko_distressed don't know..."
+msgstr "@niko_distressed2 전 아직... \\>\\@niko_distressed 모르겠어요..."
+
+msgid "[\"This place...\"]"
+msgstr "[\"이곳은...\"]"
+
+msgid "[\"These people...\"]"
+msgstr "[\"이 사람들은...\"]"
+
+msgid "[\"Won't stop existing.\"]"
+msgstr "[\"언제까지나 존재할 거야.\"]"
+
+msgid "[\"They'll be in your memory.\"]"
+msgstr "[\"네 기억 속에 있을 테고,\"]"
+
+msgid "[\"They'll be in my memory, too\"]"
+msgstr "[\"내 기억 속에도 있겠지.\"]"
+
+msgid "@niko2 ...."
+msgstr "@niko2 ...."
+
+msgid "@niko2 I... \\>\\@niko_speak promise I'll never forget this world!"
+msgstr "@niko2 전... \\>\\@niko_speak 이 세상을 절대 잊지 않겠어요! 약속해요!"
+
+msgid "@niko3 I promise... \\@niko I'll never forget you, \\p."
+msgstr "@niko3 \\p 님... \\@niko 당신도 절대 잊지 않을게요."
+
+msgid "@niko2 So... take care of yourself, okay?"
+msgstr "@niko2 잘 지내야 돼요. 알았죠?"
+
+msgid "[\"You too.\"]"
+msgstr "[\"너도.\"]"
+
+msgid "@niko Mhm...."
+msgstr "@niko 네..."
+
+msgid "[\"Goodbye, Niko.\"]"
+msgstr "[\"안녕, 니코.\"]"
+
+msgid "@niko2 Goodbye, \\p..."
+msgstr "@niko2 안녕, \\p 님..."
+

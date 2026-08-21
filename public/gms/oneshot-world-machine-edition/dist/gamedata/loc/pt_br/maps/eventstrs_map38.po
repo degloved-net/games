@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[JÁ DESCOBRIU DE ONDE VEIO O PEDIDO DE SOCORRO?]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[ESTAS TREPADEIRAS APARECERAM HÁ ALGUNS MINUTOS.]"
+
+msgid "@niko Really?"
+msgstr "@niko É mesmo?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed Várias portas e outras coisas cheias disso..."
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko Imaginei que fosse porque o lugar está abandonado..."
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[UM PEDIDO DE SOCORRO.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ... quê?"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[UM SER VIVO PRECISA DE AJUDA.]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[MAS NÃO CONSIGO RASTREAR A FONTE.]"
+
+msgid "@niko ...ah."
+msgstr "@niko ... ah."
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[AS TREPADEIRAS DESAPARECERAM.]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[VOCÊ SABE O QUE ACONTECEU?]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko Encontrei esta... pessoa-planta."
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed Ela estava por um fio..."
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko Eu lhe entreguei o sol, mas..."
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed Ela disse que é tarde demais."
+
+msgid "[I UNDERSTAND.]"
+msgstr "[COMPREENDO.]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[PRECISO ENVIAR NOTÍCIAS PARA A CIDADE.]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko Várias trepadeiras estão bloqueando o caminho..."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[OLÁ, PESSOAS.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[HÁ DUAS CRIANÇAS QUE MORAM AQUI PERTO.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak Eu sou uma delas!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[OLÁ, PESSOA.]"
+

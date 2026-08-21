@@ -1,0 +1,15 @@
+msgid "@niko The world below looks so small..."
+msgstr "@niko Мир внизу выглядит таким маленьким..."
+
+msgid "@niko_eyeclosed No turning back now."
+msgstr "@niko_eyeclosed Теперь отступать нельзя."
+
+msgid "@niko2 This is where the sun belongs."
+msgstr "@niko2 Вот где должно быть солнце."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed Here goes nothing, \\p."
+msgstr "@niko_eyeclosed И вот наступает ничто, \\p."
+

@@ -1,0 +1,210 @@
+msgid "This plane doesn't have a runway because night said so that's why. -GIR"
+msgstr "この飛行機には滑走路が無い。\n夜がそう言ったから。 ガー"
+
+msgid "@cedric_sigh ...phew."
+msgstr "@cedric_sigh …ふぅ。"
+
+msgid "@cedric_smile Made it!"
+msgstr "@cedric_smile 着きました！"
+
+msgid "@niko_pancakes ..."
+msgstr "@niko_pancakes …"
+
+msgid "@cedric3 You...\\.\\. okay, there?"
+msgstr "@cedric3 あの…\\.\\.大丈夫ですか？"
+
+msgid "@niko_pancakes ...\\>That was the coolest thing I have ever done in my entire life."
+msgstr "@niko_pancakes …\\>ミー、今まで生きてきて\nこんな楽しいこと知らなかったよ。"
+
+msgid "@cedric_smile Heheh...\\.\\. reactions from first-timers are always delightful to watch."
+msgstr "@cedric_smile ふふ…\\.\\. 初めて乗る人の反応は、\nいつ見ても楽しいものです。"
+
+msgid "@niko5 ..."
+msgstr "@niko5 …"
+
+msgid "@niko6 Hey, \\p?"
+msgstr "@niko6 ねえ、 \\p?"
+
+msgid "@niko2 That... was really fun."
+msgstr "@niko2 本当に…すっごく楽しかったよ。"
+
+msgid "@niko_speak Did you... have fun too?"
+msgstr "@niko_speak 神様も…楽しかった？"
+
+msgid "@niko_eyeclosed I mean... you weren't on the plane with me, but..."
+msgstr "@niko_eyeclosed えっと…ミーと一緒に乗ってたわけじゃ\nなかったけど、でも…"
+
+msgid "@niko_speak You got to watch it at least, right?"
+msgstr "@niko_speak 見ることはできたでしょ？"
+
+msgid "@niko And... \\.\\.Cedric...?"
+msgstr "@niko それに… \\.\\.セドリック…？"
+
+msgid "@cedric3 Yeah?"
+msgstr "@cedric3 はい？"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed ありがとう…"
+
+msgid "@cedric3 ....\\.\\.What for?"
+msgstr "@cedric3 …\\.\\.何のお礼ですか？"
+
+msgid "@niko_speak Flying!"
+msgstr "@niko_speak 飛んだ！"
+
+msgid "@cedric Oh, um..."
+msgstr "@cedric ああ、ええと…"
+
+msgid "@cedric_smile You're... \\.\\.welcome?"
+msgstr "@cedric_smile どう… \\.\\.いたしまして？"
+
+msgid "@niko_eyeclosed And... for answering my questions back there, too..."
+msgstr "@niko_eyeclosed あと…ミーの質問にも答えてくれたから…"
+
+msgid "@niko5 And... \\.\\.for telling me more about the World Machine."
+msgstr "@niko5 それだけじゃない… \\.\\.ワールドマシンのことも\nもっと教えてくれた。"
+
+msgid "@niko_upset I'm just.... \\.\\.really sorry about what happened to your old world, though..."
+msgstr "@niko_upset あのね、ミーは… \\.\\.君たちの世界で起きたことを\n知った時、本当につらかったんだ…"
+
+msgid "@niko2 So...\\.\\. I'll help you the best that I can."
+msgstr "@niko2 だから…\\.\\. ミーにできることなら、何でもする。"
+
+msgid "@cedric ..."
+msgstr "@cedric …"
+
+msgid "@niko4 And...\\.\\. even if it's all just a machine, this world is still...\\.\\. \\@niko2 nice..."
+msgstr "@niko4 それに…\\.\\. みーんな機械だったとしても、この世界は…\n\\.\\.\\@niko2 綺麗で…"
+
+msgid "@niko_eyeclosed I mean, I got to fly... \\.\\.I got to see the ocean..."
+msgstr "@niko_eyeclosed あの、空を飛んだり… \\.\\.海を見たり…"
+
+msgid "@niko And...\\.\\. I got to meet a lot of nice people!\\n\\>\\@niko_speak People like you!"
+msgstr "@niko あと…\\.\\.素敵な人たちにたくさん会えた！\\n\\>\\@niko_speak セドリックみたいな！"
+
+msgid "@niko_eyeclosed ...and Prototype, even if he's broken right now."
+msgstr "@niko_eyeclosed …それに、プロトタイプもね。今は\n壊れちゃってるけど。"
+
+msgid "@cedric ...\\>\\@cedric_smile I'm glad you are taking it so well, Niko."
+msgstr "@cedric …\\>\\@cedric_smile そういうふうに言ってもらえると、\n僕も嬉しいです、ニコ。"
+
+msgid "@cedric2 And... I'm glad that we have met as well."
+msgstr "@cedric2 僕も…君と出会えて、良かったです。"
+
+msgid "@cedric_sigh ...Despite the...\\.\\. circumstances."
+msgstr "@cedric_sigh …まあ…\\.\\. こんな状況ですが。"
+
+msgid "@cedric_talk Ah, speaking of Proto... \\@cedric_hmm I should probably head off now."
+msgstr "@cedric_talk ああ、プロトで思い出した… \\@cedric_hmm そろそろ行きますね。"
+
+msgid "@cedric I need to go pick up the siblings too..."
+msgstr "@cedric あの兄妹を迎えにいかなくては…"
+
+msgid "@niko2 That's true...\\.\\. those two have been waiting for a while now..."
+msgstr "@niko2 そうだね…\\.\\. \nあの2人、ずっと待たせちゃってるから…"
+
+msgid "@cedric_hmm In the meantime..."
+msgstr "@cedric_hmm ところで…"
+
+msgid "@cedric_smile Do you remember what to do to get to the surface?"
+msgstr "@cedric_smile 地表に下りる方法は、覚えていますか？"
+
+msgid "@niko_speak I remember having to fix an elevator button!"
+msgstr "@niko_speak エレベーターのボタンを\n修理しなくちゃダメなのは覚えてるよ！"
+
+msgid "@cedric_hmm Alright, you should attend to that, then."
+msgstr "@cedric_hmm よし。じゃあ、それをお願いします。"
+
+msgid "@cedric_talk Let's meet up here in an hour, okay?"
+msgstr "@cedric_talk 1時間後に、またここでいいですか？"
+
+msgid "@niko Got it!"
+msgstr "@niko 分かった！"
+
+msgid "@cedric Alright, now lemme just-"
+msgstr "@cedric よし。じゃあ、ちょっと――"
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek …"
+
+msgid "@niko_shock No!"
+msgstr "@niko_shock そんな！"
+
+msgid "@niko_shock ...\\.\\.they're...\\.\\. trapped on the island..."
+msgstr "@niko_shock …\\.\\.2人とも…\\.\\. 島に…"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed …"
+
+msgid "@niko_distressed2 ......Calamus....\\> Alula...."
+msgstr "@niko_distressed2 ……カラムス…\\>アルーラ…"
+
+msgid "@niko_distressed2 ...they're..."
+msgstr "@niko_distressed2 …うそだ…"
+
+msgid "@cedric_eek ....we\\.\\. ...don't have much time left."
+msgstr "@cedric_eek …あまり\\.\\.…時間がありませんね。"
+
+msgid "@cedric_sigh2 Niko... change of plans."
+msgstr "@cedric_sigh2 ニコ…計画変更です。"
+
+msgid "@cedric_sigh Please give me the memory disk."
+msgstr "@cedric_sigh メモリーディスクを渡してください。"
+
+msgid "@niko2 ...alright..."
+msgstr "@niko2 …うん…"
+
+msgid "@cedric2 Listen carefully."
+msgstr "@cedric2 よく聞いて。"
+
+msgid "@cedric_sigh2 It's likely I'll be targeted again, so we should split up to keep you safe."
+msgstr "@cedric_sigh2 僕がまた標的になる可能性があります。だから、\n君の安全のために二手に分かれましょう。"
+
+msgid "@cedric I want you to find a door under a large clock."
+msgstr "@cedric 大きな時計の下にある\nドアを見つけてください。"
+
+msgid "@cedric_sigh The room behind it houses a pair of ground access elevators."
+msgstr "@cedric_sigh その先には、地上へと辿り着ける\nエレベーターが2つあります。"
+
+msgid "@cedric Once you get to the ground, immediately find Rue and bring her back to the room."
+msgstr "@cedric 地上に着いたら、すぐにルエを探して。\n彼女をその部屋まで連れていくんです。"
+
+msgid "@cedric She will know what to do in the meantime."
+msgstr "@cedric 彼女なら、すぐに状況が掴めるでしょう。"
+
+msgid "@niko2 Alright...\\.\\. \\@niko3 What about you, though?"
+msgstr "@niko2 分かった…\\.\\.\\@niko3 でも、君はどうするの？"
+
+msgid "@cedric3 I'm going to bring Prototype back."
+msgstr "@cedric3 僕はプロトタイプを復元します。"
+
+msgid "@niko_surprised WH-"
+msgstr "@niko_surprised な――"
+
+msgid "@niko_surprised Are you okay???"
+msgstr "@niko_surprised え、大丈夫？？？"
+
+msgid "@cedric_talk WHAAAAAT????"
+msgstr "@cedric_talk なんですかあああ？？？？"
+
+msgid "@niko_speak ARE YOU OKAAAAAY???"
+msgstr "@niko_speak だいじょうぶなのーー？？？"
+
+msgid "@cedric_talk DON'T WORRYYY I'M FINEEEE"
+msgstr "@cedric_talk 心配しないでぇぇぇー。\n大丈夫ですからぁぁー。"
+
+msgid "@niko_eyeclosed ...don't scare me like that..."
+msgstr "@niko_eyeclosed …急に、驚かさないでよ…"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_upset2 ...."
+msgstr "@niko_upset2 …"
+
+msgid "@niko2 Hey, \\p...?"
+msgstr "@niko2 ねえ \\p…?"
+
+msgid "@niko_eyeclosed Let's... do our best."
+msgstr "@niko_eyeclosed 一緒に…頑張ろうね。"
+

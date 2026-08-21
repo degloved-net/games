@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko La stanza è illuminata dalle lucciole."
+
+msgid "Can you see \\p, too?"
+msgstr "Riesci anche a vedere \\p?"
+
+msgid "@niko_speak Nope! \\@niko I can only hear their voice in my head."
+msgstr "@niko_speak No! \\@niko Posso solo sentire la sua voce nella mia testa."
+
+msgid "@alula_gasp That's still really cool!"
+msgstr "@alula_gasp È comunque fantastico!"
+
+msgid "Daddy says the world is very sick.\\nBut \\p can make it better again!"
+msgstr "Papà dice che il mondo è molto malato.\\nMa \\p può farlo guarire di nuovo!"
+
+msgid "...Are you \\p?"
+msgstr "...Sei \\p?"
+
+msgid "@niko Uh... not really.\\nI'm just the \"messiah\" they sent."
+msgstr "@niko Ehm... in realtà no.\\nSono solo il \"messia\" che ha mandato."
+
+msgid "@niko_speak I can talk with \\p, though!"
+msgstr "@niko_speak Però posso parlare con \\p!"
+
+msgid "Wow!"
+msgstr "Wow!"
+
+msgid "@alula_gasp Double wow!"
+msgstr "@alula_gasp Doppio wow!"
+
+msgid "What's that like?"
+msgstr "Com'è?"
+
+msgid "@niko_speak Really cool!"
+msgstr "@niko_speak Davvero fantastico!"
+
+msgid "@niko Fish heads and tails."
+msgstr "@niko Teste e code di pesce."
+

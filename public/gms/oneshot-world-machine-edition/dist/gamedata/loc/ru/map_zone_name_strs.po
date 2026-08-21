@@ -1,0 +1,12 @@
+msgid "Blue=The Barrens"
+msgstr "Пустошь"
+
+msgid "Green=The Glen"
+msgstr "Долина"
+
+msgid "Red=The Refuge"
+msgstr "Пристанище"
+
+msgid "RedGround=The Refuge (Surface)"
+msgstr "Пристанище (поверхность)"
+

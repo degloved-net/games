@@ -1,0 +1,252 @@
+msgid "@niko We made it!"
+msgstr "@niko 着いた！"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go see mom."
+msgstr "@calamus 行こう、アルーラ。\\>\\n母さんに会いに。"
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak うん！"
+
+msgid "@cedric ...it's fixed."
+msgstr "@cedric …修理が終わりました。"
+
+msgid "@cedric We can leave in the next five minutes, if you are ready."
+msgstr "@cedric 準備ができているのなら、5分後には\n出発できます。"
+
+msgid "@niko_eyeclosed ...alright."
+msgstr "@niko_eyeclosed …分かった。"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 …"
+
+msgid "@cedric_sigh I understand if you are upset."
+msgstr "@cedric_sigh 混乱するのも無理はありません。"
+
+msgid "@cedric3 But please...\\.\\. try to understand."
+msgstr "@cedric3 でもお願いです…\\.\\. 頑張って理解してください。"
+
+msgid "@cedric_sigh My father is doing this to help all of us."
+msgstr "@cedric_sigh 父は、みんなを助けるために\nこうしているんです。"
+
+msgid "@cedric And that includes you, Niko."
+msgstr "@cedric 君もその中に入ってるんですよ、ニコ。"
+
+msgid "@cedric_sigh2 The fact that you can't even go back home...\\> I'm sure it upsets him greatly."
+msgstr "@cedric_sigh2 君が故郷に帰れないことは…\\> 父だって\n心を痛めているはずです。"
+
+msgid "@cedric It's..."
+msgstr "@cedric だから…"
+
+msgid "@cedric_sigh Sigh..."
+msgstr "@cedric_sigh はぁ…"
+
+msgid "@cedric_sigh2 The world means a lot to him, you know..."
+msgstr "@cedric_sigh2 父にとって、この世界は\nとても大切なものなんですよ…"
+
+msgid "@niko2 So... \\.\\.how does flying...\\.\\. work?"
+msgstr "@niko2 それで… \\.\\.これは…\\.\\.どうやって飛ぶの？"
+
+msgid "@cedric_talk ...wait, don't these machines already exist in your world? \\>\\n\\@cedric_hmm You should already know what to expect..."
+msgstr "@cedric_talk …おや、この機械は君の世界にもあるのでは？\\>\\n\\@cedric_hmm 後はもう知っているものだと…"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed そういうわけじゃ…"
+
+msgid "@niko I've only heard about them!"
+msgstr "@niko 聞いたことがあるだけだよ！"
+
+msgid "@niko_eyeclosed They're usually... a lot bigger than this one, anyway."
+msgstr "@niko_eyeclosed それに、これより…もっと大きかったし。"
+
+msgid "@cedric3 Ah..."
+msgstr "@cedric3 ああ…"
+
+msgid "@cedric_talk Well, a word of precaution, before we take to the air..."
+msgstr "@cedric_talk まず、空へ飛ぶ前に注意しておきますが…"
+
+msgid "@cedric_talk Please try not to panic."
+msgstr "@cedric_talk パニックを起こさないでくださいね。"
+
+msgid "@cedric_smile It takes a few minutes of getting used to, but it's not that bad once you are in the air."
+msgstr "@cedric_smile 慣れるには数分かかりますが、空中に\n上がればそんなに悪いものじゃないですよ。"
+
+msgid "@niko_eyeclosed I'll... try."
+msgstr "@niko_eyeclosed が…頑張る。"
+
+msgid "@niko_speak Oh! I should probably tell Calamus and Alula where I'm going."
+msgstr "@niko_speak あっ！カラムスとアルーラに伝えなきゃ。"
+
+msgid "@cedric_talk You mean those two running over here now?"
+msgstr "@cedric_talk こっちに走ってくるあの2人のことですか？"
+
+msgid "@alula_oh Niko!!!!"
+msgstr "@alula_oh ニコー！！！"
+
+msgid "@alula_oh Bad news!"
+msgstr "@alula_oh たいへん！"
+
+msgid "@calamus_shock The boat is gone!"
+msgstr "@calamus_shock ボートが消えたんだ！"
+
+msgid "@niko3 What?!"
+msgstr "@niko3 え？！"
+
+msgid "@alula_oh It's the squares!"
+msgstr "@alula_oh 四角形のせいなの！"
+
+msgid "@calamus_speak It looks like they're headed in this direction!"
+msgstr "@calamus_speak こっちに向かってきてるみたいだった！"
+
+msgid "@niko3 That's..."
+msgstr "@niko3 それって…"
+
+msgid "@cedric_eek ...fast..."
+msgstr "@cedric_eek …もう…"
+
+msgid "@cedric_talk ...Calamus, right?"
+msgstr "@cedric_talk …カラムスくん、でしたね？"
+
+msgid "@calamus Yeah?"
+msgstr "@calamus そうだけど？"
+
+msgid "@cedric_talk How...\\.\\. bad, is it?"
+msgstr "@cedric_talk どのぐらい…\\.\\.状況は悪いんですか？"
+
+msgid "@calamus Doesn't seem to be of immediate danger."
+msgstr "@calamus 今すぐ危険ってほどじゃないみたいだけど。"
+
+msgid "@cedric_sigh Then... it is of priority that I take you to the city first, Niko"
+msgstr "@cedric_sigh それなら…君を街に連れていくことを\n優先した方がいいですね、ニコ。"
+
+msgid "@niko2 But what about them...?"
+msgstr "@niko2 でも、2人は…？"
+
+msgid "@cedric I can make a detour later and drop you guys off in the city too, if you want."
+msgstr "@cedric ご希望とあらば、後ほど迂回路を通って、\n街へ運ぶことくらいならできますが。"
+
+msgid "@cedric_talk The city is better equipped to handle the squares, you'll be safer there."
+msgstr "@cedric_talk 街ならまだ四角形に耐えられる構造に\nなっていますし、そちらの方が安全かと。"
+
+msgid "@alula_gasp YOU'RE TAKING US TO THE CITY!!!"
+msgstr "@alula_gasp 街に連れてってくれるの？！！！"
+
+msgid "@cedric_smile If you wish."
+msgstr "@cedric_smile ご希望とあらば。"
+
+msgid "@alula_gasp OH YEAH!!!"
+msgstr "@alula_gasp やったあ！！！"
+
+msgid "@cedric Alright."
+msgstr "@cedric よし。"
+
+msgid "@cedric3 I will be back here in an hour, so please wait for me until then."
+msgstr "@cedric3 1時間後に戻ってくるので、\nそれまで待っててください。"
+
+msgid "@niko You guys sure you'll be fine here?"
+msgstr "@niko ホントに大丈夫？"
+
+msgid "@alula Mhm!"
+msgstr "@alula うん！"
+
+msgid "@calamus_speak The squares are still moving pretty slowly for now..."
+msgstr "@calamus_speak 四角形なら、まだすごくゆっくりだし…"
+
+msgid "@niko2 Alright, then..."
+msgstr "@niko2 分かった。じゃあ…"
+
+msgid "@niko_speak Guess we'll run into each other again, soon..."
+msgstr "@niko_speak また後で会おうね…"
+
+msgid "@niko_speak I'm ready to go!"
+msgstr "@niko_speak 準備できたよ！"
+
+msgid "@cedric_smile Alright!"
+msgstr "@cedric_smile 分かりました！"
+
+msgid "@calamus This is her grave..."
+msgstr "@calamus これが母さんのお墓だよ…"
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus お参りはもう終わるから、遺跡に\n戻りたくなったら言ってくれ。"
+
+msgid "@niko Okay."
+msgstr "@niko 分かった。"
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko あの、バッテリーってどこを探せばあるかな？"
+
+msgid "@calamus Good question.."
+msgstr "@calamus そうだな…"
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh 峡谷だと…\\.\\.電気はあまり使わないんだ。"
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed そうなんだ。"
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak あ、でも研究所にはロボットがいたな！\\>\\n彼らなら知ってるかも。"
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko わかった、ありがとう！"
+
+msgid "@alula Hi mom..."
+msgstr "@alula こんばんは、お母さん…"
+
+msgid "@alula Didja find any...\\@alula_pout ...any..."
+msgstr "@alula そいえば、あれ見つけた？\\@alula_pout …えっと…"
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh …何だっけ？"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak 歯車？"
+
+msgid "@alula_speak Gears!\\> \\@alula Didja find any of those?"
+msgstr "@alula_speak そう言えば！\\>\\@alula 歯車は見つかった？"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko ううん、でも…このオルゴールは見つけた！"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp おおおー！"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko 歯車って、どこに行けば見つかるかな？"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula 歯車？\\>\\nって…なあに？"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak えっとね…\\.\\. 歯がついた、\n鉄の輪っかみたいなやつ！"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak 輪っかに…歯がついてるの？！"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak あはは、変なの！\\>\\nマグパイなら持ってそうね！"
+
+msgid "@niko Magpie?"
+msgstr "@niko マグパイ？"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula ほら、あの商人さんのこと！"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula 面白いもの、たーっくさん持ってるのよ！"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak えっとね、割れたガラスとか、\nよく分かんないものがいっぱい！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_speak ...Oh yeah! \\@niko\\>I think I know who you're talking about."
+msgstr "@niko_speak そうだ！ \\@…ああ！\\>niko誰か\n分かった気がするよ。"
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak ホント、変な人よ！"
+
+msgid "@niko It's a fire."
+msgstr "@niko 火だ。"
+

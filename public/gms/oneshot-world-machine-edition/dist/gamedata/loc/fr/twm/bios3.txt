@@ -1,0 +1,4 @@
+﻿
+Textures du système chargées 100% ! @WAIT 0.2 
+
+Séquence de démarrage terminée.@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.4 

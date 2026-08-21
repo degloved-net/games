@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko La pellicola è finita..."
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ...\\>\\n\\p, non penso che sia la combinazione giusta."
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ...\\>\\nNon è successo niente."
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak Ehm... Cheese?"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf Ahia, i m-miei occhi..."
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak È una mia foto!"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko ...I miei occhi sono sempre stati così grandi?"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak È un'altra mia foto!"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko Bell'idea, \\p. È sempre meglio avere una copia in più!"
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko È un'altra mia foto..."
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak Tre sono abbastanza, vero?"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c È divertente!"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko È una mia foto."
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak Questa è uscita molto bene!"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed Ho gli occhi chiusi in questa qui..."
+
+msgid "@niko Nice."
+msgstr "@niko Bene."
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak Sono tutte uscite molto bene!"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak \\p, quante ce ne servono?"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko È una mia foto..."
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed Ed è pure finita la pellicola..."
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko Qui c'è una fessura.\\>\\nA vederla si direbbe che serva per far uscire della carta o qualcosa del genere."
+

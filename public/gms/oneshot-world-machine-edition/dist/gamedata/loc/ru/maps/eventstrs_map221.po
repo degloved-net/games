@@ -1,0 +1,75 @@
+msgid "@niko The screen is off."
+msgstr "@niko Экран выключен."
+
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko В стене установлен тяжёлый кусок металла."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed Думаю, это какая-то дверь или хранилище."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko Тут в центре маленький экран."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak Это какая-то дверь!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko На маленьком экране горит значок замка."
+
+msgid "@rue_oh !!!"
+msgstr "@rue_oh !!!"
+
+msgid "@rue_oh You guys are... \\.\\.okay?"
+msgstr "@rue_oh Вы оба... \\.\\.живы?"
+
+msgid "@cedric_sigh Yup!"
+msgstr "@cedric_sigh Ага!"
+
+msgid "@cedric_sigh2 When the factory started collapsing, I really thought we didn't have a chance..."
+msgstr "@cedric_sigh2 Когда завод начал разрушаться, я думал, нам не выбраться..."
+
+msgid "@cedric3 ...Fortunately, the robot assembly rooms were built pretty tough."
+msgstr "@cedric3 К счастью, помещение для сборки роботов оказалось довольно прочным."
+
+msgid "@cedric_hmm And... it actually did not take me long to bring Proto back."
+msgstr "@cedric_hmm И... воссоздание Прото не заняло у меня много времени."
+
+msgid "@cedric_smile ...all thanks to father's book!"
+msgstr "@cedric_smile Всё благодаря книге моего отца!.."
+
+msgid "@proto1c [He had made my design documents to be compatible with the assembly machines there.]"
+msgstr "@proto1c [Он сделал так, чтобы мои чертежи подходили для работы тамошнего сборочного аппарата.]"
+
+msgid "@cedric_smile All I had to do was scan in the blueprints and reconfigure some machine settings!"
+msgstr "@cedric_smile Мне оставалось только отсканировать эти чертежи и перенастроить аппараты!"
+
+msgid "@proto1b [...Father really does think of everything.]"
+msgstr "@proto1b [Твой отец действительно успевает подумать обо всём.]"
+
+msgid "@rue_smile Haha, that he does."
+msgstr "@rue_smile Ха-ха! Это точно."
+
+msgid "@rue_sigh I'm... just glad everyone is ok."
+msgstr "@rue_sigh Я... так рада, что вы в порядке."
+
+msgid "@niko_eyeclosed2 Me too..."
+msgstr "@niko_eyeclosed2 Я тоже..."
+
+msgid "@niko_speak Things were looking really hopeless back there, weren't they, \\p?"
+msgstr "@niko_speak Раньше казалось, что надежды совсем нет, правда, \\p?"
+
+msgid "@niko But... now that everyone's here, maybe we can still... fix everything...?"
+msgstr "@niko Но... раз уж мы тут собрались, вдруг мы сможем... всё исправить?"
+
+msgid "@proto2b [Or at least, you know, whatever's left.]"
+msgstr "@proto2b [Или хотя бы сохранить то, что осталось.]"
+
+msgid "@cedric_smile Either way, we'll do everything we can to help you get there."
+msgstr "@cedric_smile Мы в любом случае постараемся помочь."
+
+msgid "@rue_smile Niko, will you lead us back to the room?"
+msgstr "@rue_smile Нико, отведёшь нас обратно в комнату?"
+
+msgid "@Niko Mhm.\\>\\n\\@niko_eyeclosed Let's do this."
+msgstr "@Niko Угу.\\>\\n\\@niko_eyeclosed Вперёд."
+

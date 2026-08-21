@@ -1,0 +1,135 @@
+msgid "@ed [Hello, Niko.]"
+msgstr "@ed [Hola, Niko.]"
+
+msgid "@niko H... hello..."
+msgstr "@niko Ho... hola..."
+
+msgid "@ed [Congratulations. You are now inside the Tower.]"
+msgstr "@ed [Enhorabuena. Ya estás dentro de la Torre.]"
+
+msgid "@niko Are you talking...\\.\\. \\@niko_speak ...to me, now?"
+msgstr "@niko ¿Me estás hablando...\\.\\.\\@niko_speak ... a mí?"
+
+msgid "@ed [Correct.]"
+msgstr "@ed [Correcto.]"
+
+msgid "@niko3 But you were always talking to \\p before..."
+msgstr "@niko3 Pero si antes siempre le hablabas a \\p..."
+
+msgid "@niko_distressed Where's..."
+msgstr "@niko_distressed ¿Dónde está...?"
+
+msgid "@ed [\\p has already left.]"
+msgstr "@ed [\\p ya se ha ido.]"
+
+msgid "@ed [I had to resort to contacting you directly.]"
+msgstr "@ed [He tenido que recurrir a contactar contigo directamente.]"
+
+msgid "@niko_speak Wait, so... \\p is gone, just like that?"
+msgstr "@niko_speak Espera, entonces... ¿\\p se ha ido de buenas a primeras?"
+
+msgid "@niko ....for good?"
+msgstr "@niko ... ¿Para siempre?"
+
+msgid "@ed [\\p has already finished their mission.]"
+msgstr "@ed [\\p ya ha completado su misión.]"
+
+msgid "@ed [...and so have you, Niko.]"
+msgstr "@ed [... y tú también, Niko.]"
+
+msgid "@ed [Here, you can rest now.]"
+msgstr "@ed [Aquí tienes, ya puedes descansar.]"
+
+msgid "@ed [Everything that's happened here is like a bad dream.]"
+msgstr "@ed [Todo lo que ha pasado ha sido como una pesadilla.]"
+
+msgid "@ed [When you wake up, you will be home.]"
+msgstr "@ed [Cuando te despiertes, estarás en casa.]"
+
+msgid "@niko_pancakes Oh!"
+msgstr "@niko_pancakes ¡Vaya!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_distressed2 But..."
+msgstr "@niko_distressed2 Pero..."
+
+msgid "@ed [What's wrong?]"
+msgstr "@ed [¿Qué pasa?]"
+
+msgid "@niko_eyeclosed ...I thought there'd be more to it, you know?"
+msgstr "@niko_eyeclosed ... Pensaba que habría algo más, ¿sabes?"
+
+msgid "@niko I thought... we were supposed to go to the top of the Tower..."
+msgstr "@niko Pensaba que... tendríamos que subir a lo más alto de la Torre..."
+
+msgid "@niko_distressed I thought there was supposed to be somewhere we need to put the sun in."
+msgstr "@niko_distressed Pensaba que habría un lugar donde tendríamos que poner el sol."
+
+msgid "@niko_eyeclosed And now... I don't even HAVE the sun anymore..."
+msgstr "@niko_eyeclosed Y ahora... ya ni siquiera TENGO el sol..."
+
+msgid "@niko_distressed2 And \\p is just... gone..."
+msgstr "@niko_distressed2 Y \\p no... está..."
+
+msgid "@niko_distressed This feels wrong!"
+msgstr "@niko_distressed ¡Parece que algo no va bien!"
+
+msgid "@ed [But you did good. You saved the world, Niko.]"
+msgstr "@ed [Pero has hecho un buen trabajo. Has salvado el mundo, Niko.]"
+
+msgid "@ed [Are you not happy?]"
+msgstr "@ed [¿No estás contento?]"
+
+msgid "@niko_eyeclosed I guess I am..."
+msgstr "@niko_eyeclosed Supongo que sí..."
+
+msgid "@niko_eyeclosed But... \\.\\.\\@niko_distressed2 It's just..."
+msgstr "@niko_eyeclosed Pero... \\.\\.\\@niko_distressed2 es que..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...you're still here...]"
+msgstr "@ed [... Aún sigues aquí...]"
+
+msgid "@ed [...Niko, why are you still here?]"
+msgstr "@ed [... Niko, ¿por qué sigues aquí?]"
+
+msgid "YOU."
+msgstr "TÚ."
+
+msgid "Why did you come back, \\p?"
+msgstr "¿Por qué has vuelto, \\p?"
+
+msgid "I told you to stay away!"
+msgstr "¡Te he dicho que te largues!"
+
+msgid "...you KNEW I tried to cut the story short, is that it?"
+msgstr "... SABÍAS que intenté acabar con la historia, ¿es eso?"
+
+msgid "...you want more out of me, is that it??"
+msgstr "... Quieres más de mí, ¿no es eso?"
+
+msgid "FINE."
+msgstr "BIEN."
+
+msgid "If you don't want to leave... I'll make sure you never do!"
+msgstr "Si no quieres irte... ¡me aseguraré de que nunca lo hagas!"
+
+msgid "@niko_eyeclosed ...I never even got to say goodbye to \\p..."
+msgstr "@niko_eyeclosed ... Ni siquiera me he podido despedir de \\p..."
+
+msgid "And as for you, \\p..."
+msgstr "Y en cuanto a ti, \\p..."
+
+msgid "We're done here."
+msgstr "Ya hemos acabado aquí."
+
+msgid "Please don't return to this world anymore."
+msgstr "No vuelvas nunca más a este mundo."
+

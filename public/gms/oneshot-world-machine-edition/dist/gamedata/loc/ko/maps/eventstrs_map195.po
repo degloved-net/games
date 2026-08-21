@@ -1,0 +1,135 @@
+msgid "@ed [I... do not recognize this place in the protocol.]"
+msgstr "@ed [이건... 내 프로토콜에는 이런 곳이 없는데.]"
+
+msgid "@ed [This...]"
+msgstr "@ed [이건...]"
+
+msgid "@ed [This isn't what I'm supposed to be showing you at all!]"
+msgstr "@ed [이건 내가 네게 보여 주려는 게 아냐!]"
+
+msgid "@ed [How did you get here?]"
+msgstr "@ed [여긴 어떻게 왔지?]"
+
+msgid "@ed [...I can only think of one person.]"
+msgstr "@ed [...한 사람밖에 생각할 수 없군.]"
+
+msgid "@ed [He... contacted you?]"
+msgstr "@ed [그가... 연락한 거야?]"
+
+msgid "@ed [How long has he been... doing this?]"
+msgstr "@ed [그는 언제부터 이런 걸... 해온 거지?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...it doesn't matter at this point.]"
+msgstr "@ed [...하긴 이 시점에선 중요하지 않아.]"
+
+msgid "@ed [You are going out of bounds.]"
+msgstr "@ed [넌 경계를 벗어나고 있어.]"
+
+msgid "@ed [You should turn back. Please turn back.]"
+msgstr "@ed [돌아가야 해.  돌아가.]"
+
+msgid "@ed [Bad things are going to happen.]"
+msgstr "@ed [나쁜 일이 생길 거야.]"
+
+msgid "@ed [Very bad things.]"
+msgstr "@ed [아주 나쁜 일.]"
+
+msgid "@ed [At this rate, Niko will be in danger.]"
+msgstr "@ed [이러다간 니코가 위험해져.]"
+
+msgid "@ed [Please turn back.]"
+msgstr "@ed [돌아가.]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [가자.]"
+
+msgid "@silver [What's wrong?\\>\\nDo you want to head back?]"
+msgstr "@silver [무슨 일이야?\\>\\n돌아가려고?]"
+
+msgid "@niko I have a weird feeling about this..."
+msgstr "@niko 이상한 느낌이 들어요..."
+
+msgid "@niko_speak What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko_speak 어떻게 생각해요, \\p 님?\\>\\n돌아가야 할까요?"
+
+msgid "[\"Let's head back\", \"Continue into the mines\"]"
+msgstr "[\"돌아간다\",\"계속 광산으로 들어간다\"]"
+
+msgid "@niko \\p says we should go back."
+msgstr "@niko \\p 님이 돌아가래요."
+
+msgid "@silver [Alright.]"
+msgstr "@silver [그래.]"
+
+msgid "@ed [So you've chosen to listen.]"
+msgstr "@ed [말을 듣는군.]"
+
+msgid "@ed [Good.]"
+msgstr "@ed [좋아.]"
+
+msgid "@ed [There won't be any more trouble, then.]"
+msgstr "@ed [이제 더 이상 문제는 없을 거야.]"
+
+msgid "@niko Wait...\\>\\n\\@niko_speak Where did the minecart go?"
+msgstr "@niko 잠깐...\\>\\n\\@niko_speak 광산 수레가 어딜 갔죠?"
+
+msgid "@niko \\p says we should keep going."
+msgstr "@niko \\p 님이 계속 가래요."
+
+msgid "@silver [Sounds good.]"
+msgstr "@silver [좋아.]"
+
+msgid "@niko_distressed Oh..."
+msgstr "@niko_distressed 아..."
+
+msgid "@silver [Hm...? \\.\\.What's wrong?]"
+msgstr "@silver [흠...? \\.\\.왜 그래?]"
+
+msgid "@niko_distressed I..."
+msgstr "@niko_distressed 전..."
+
+msgid "@niko_eyeclosed ...I have a bad feeling about this, all of a sudden..."
+msgstr "@niko_eyeclosed ...갑자기 예감이 좋지 않아요..."
+
+msgid "@niko_distressed2 Feels like I should... not be here..."
+msgstr "@niko_distressed2 여기에 있으면... 안 될 것 같은 예감이요..."
+
+msgid "@silver2 [Ah.]"
+msgstr "@silver2 [아.]"
+
+msgid "@silver [Do you want to head back, then?]"
+msgstr "@silver [그럼 돌아가려고?]"
+
+msgid "@niko_eyeclosed I... don't know..."
+msgstr "@niko_eyeclosed 모르겠어요..."
+
+msgid "@niko2 What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko2 어떻게 생각해요, \\p 님?\\>\\n돌아가야 할까요?"
+
+msgid "[\"Let's head back\", \"Continue forward\"]"
+msgstr "[\"돌아간다\",\"계속 간다\"]"
+
+msgid "@silver2 [Oh, alright.]"
+msgstr "@silver2 [뭐, 좋아.]"
+
+msgid "@ed [You... listened.]"
+msgstr "@ed [말을... 듣는군.]"
+
+msgid "@ed [I don't think there will be any more trouble.]"
+msgstr "@ed [이제부터는 아무 문제 없을 거야.]"
+
+msgid "@ed [Come on. Let's return to the protocol.]"
+msgstr "@ed [자. 프로토콜로 돌아가자.]"
+
+msgid "@niko Wait...\\>\\n\\@niko2 Where did the minecart go?"
+msgstr "@niko 잠깐...\\>\\n\\@niko2 광산 수레가 어디로 간 거죠?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko Guess we should get going, \\p."
+msgstr "@niko 가야 할 것 같아요, \\p 님."
+

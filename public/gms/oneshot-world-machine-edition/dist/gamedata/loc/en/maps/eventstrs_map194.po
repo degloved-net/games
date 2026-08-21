@@ -1,0 +1,13 @@
+msgid "@proto1b [The World Machine.]\\>\\n[A universe simulator that runs on \\p's computer.]"
+msgstr "@proto1b [The World Machine.]\\>\\n[A universe simulator that runs on \\p's system.]"
+
+msgid "@proto1c [But unlike a dream, this world has a physical location inside a computer, which \\p operates.]"
+msgstr "@proto1c [But unlike a dream, this world has a physical location inside a system, which \\p operates.]"
+
+msgid "@proto2b [It's no different from other recreational, game-type software they may have installed on their computer.]"
+msgstr "@proto2b [It's no different from other recreational, game-type software they may have installed on their system.]"
+
+msgid "@proto2b [...All of that is consistent with their concept of what a computer game looks like.]"
+msgstr "@proto2b [...All of that is consistent with their concept of what a video game looks like.]"
+
+

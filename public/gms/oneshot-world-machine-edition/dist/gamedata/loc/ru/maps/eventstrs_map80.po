@@ -1,0 +1,78 @@
+msgid "[HELLO!]"
+msgstr "[ПРИВЕТ!]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak Привет!"
+
+msgid "@niko What are you doing up there?"
+msgstr "@niko Что ты делаешь там, наверху?"
+
+msgid "[I AM STATIONED HERE.]"
+msgstr "[Я ЗДЕСЬ РАЗМЕСТИЛСЯ.]"
+
+msgid "@niko By yourself?"
+msgstr "@niko Сам?"
+
+msgid "[YES.]"
+msgstr "[ДА.]"
+
+msgid "@niko A picture of a robot."
+msgstr "@niko Изображение робота."
+
+msgid "@niko_speak ...Y'know, I've never been around so many robots before, \\p!"
+msgstr "@niko_speak Знаешь, \\p, меня раньше никогда не окружало столько роботов!"
+
+msgid "@niko Or...\\.\\. any robots at all..."
+msgstr "@niko Да и вообще...\\.\\. роботы..."
+
+msgid "@niko_speak I mean, I see them in cartoons and stuff, but I've never seen one in person!"
+msgstr "@niko_speak То есть... Я видел их в каких-то мультиках, но никогда не встречал лично!"
+
+msgid "@niko They're pretty neat, don't you think?"
+msgstr "@niko Они довольно прикольные, ты не находишь?"
+
+msgid "[\"Yeah.\", \"Hey Niko do a robot voice\"]"
+msgstr "[\"Да.\",\"Эй, Нико, изобрази голос робота.\"]"
+
+msgid "@niko Yeah!"
+msgstr "@niko Ага!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...What?"
+msgstr "@niko_speak Что?.."
+
+msgid "[\"Try talking like a robot!\"]"
+msgstr "[\"Попробуй поговорить как робот!\"]"
+
+msgid "@niko um..."
+msgstr "@niko Э-э..."
+
+msgid "@niko_eyeclosed *ahem*"
+msgstr "@niko_eyeclosed (Покашливает.)"
+
+msgid "@niko [BEEEP BOOP]"
+msgstr "@niko [БИП-БУП]"
+
+msgid "@niko_speak [I'M A ROBOT AND I...\\. EAT BATTERIES...\\. INSTEAD OF NORMAL PEOPLE FOOD!]"
+msgstr "@niko_speak [Я РОБОТ, И Я...\\. ЕМ БАТАРЕЙКИ...\\. ВМЕСТО ОБЫЧНОЙ ЧЕЛОВЕЧЕСКОЙ ЕДЫ!]"
+
+msgid "@niko_83c Hehe..."
+msgstr "@niko_83c Хе-хе..."
+
+msgid "[THAT IS NOT CORRECT.]"
+msgstr "[НЕПРАВИЛЬНО.]"
+
+msgid "[ROBOTS DO NOT CONSUME BATTERIES IN THE SAME WAY PEOPLE CONSUME FOOD.]"
+msgstr "[РОБОТЫ НЕ УПОТРЕБЛЯЮТ БАТАРЕЙКИ ТАКИМ ЖЕ ОБРАЗОМ, КАК ЛЮДИ УПОТРЕБЛЯЮТ ЕДУ.]"
+
+msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
+msgstr "[У РОБОТОВ В ПРИНЦИПЕ ОТСУТСТВУЕТ ПИЩЕВАРИТЕЛЬНАЯ СИСТЕМА.]"
+
+msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
+msgstr "[У НЕКОТОРЫХ РОБОТОВ ДАЖЕ НЕТ РТА.]"
+
+msgid "@niko \\p...\\. \\>\\@niko_eyeclosed you made me look silly..."
+msgstr "@niko \\p...\\. \\>\\@niko_eyeclosed Из-за тебя я выгляжу глупо..."
+

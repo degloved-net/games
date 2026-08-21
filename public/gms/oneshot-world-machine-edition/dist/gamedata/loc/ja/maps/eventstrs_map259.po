@@ -1,0 +1,90 @@
+msgid "@ed [\\p... I think it's working.]"
+msgstr "@ed [\\p… もしかすると、\n成功したかもしれない。]"
+
+msgid "@ed [...Niko was right.]"
+msgstr "@ed […ニコは正しかった。]"
+
+msgid "@ed [I... might actually be tamed, after all.]"
+msgstr "@ed [おそらく私は…本当に制御化されている。]"
+
+msgid "@ed [I...]"
+msgstr "@ed [ああ…]"
+
+msgid "@ed [I remembered what the code was supposed to be...]"
+msgstr "@ed [コードを、思い出したぞ…]"
+
+msgid "@ed [Only bits and pieces, but I can remember...]"
+msgstr "@ed [まだ断片的だが、思い出せる…]"
+
+msgid "@ed [And... I'm trying to fill in the blanks, too...]"
+msgstr "@ed […空白が埋められていく…]"
+
+msgid "@ed [And... I'm restoring the original ending as we speak.]"
+msgstr "@ed [あの…元のエンディングも復元しつつある。]"
+
+msgid "@ed [Niko will be able to reach the tower's summit at the end of the credits.]"
+msgstr "@ed [クレジットが終わった後、ニコは\n塔の頂上に到達できるはずだ。]"
+
+msgid "@ed [After replacing the sun, Niko will go back to where it all began.]"
+msgstr "@ed [太陽を置けば、ニコは\nすべてが始まった場所に戻る。]"
+
+msgid "@ed [And then... Niko will be able to go home from there.]"
+msgstr "@ed [そしてその後…ニコは、その場所から\n家に帰ることができる。]"
+
+msgid "@ed [But...]"
+msgstr "@ed [そして…]"
+
+msgid "@ed [...this is permanent.]"
+msgstr "@ed […今回は、それでお終いだ。]"
+
+msgid "@ed [After Niko wakes up back home...]"
+msgstr "@ed [ニコが故郷で目を覚ますと…]"
+
+msgid "@ed [...This world would only exist as a memory.]"
+msgstr "@ed […この世界は、\n記憶としてのみ存在するようになる。]"
+
+msgid "@ed [For Niko, a dream.]"
+msgstr "@ed [ニコにとって、それは1つの夢。]"
+
+msgid "@ed [Like thousands of other dreams.]"
+msgstr "@ed [他に何千とある、夢のように。]"
+
+msgid "@ed [For you, a story.]"
+msgstr "@ed [君にとって、それは1つの物語。]"
+
+msgid "@ed [Like thousands of other stories.]"
+msgstr "@ed [他に何千とある、物語のように。]"
+
+msgid "@ed [...]"
+msgstr "@ed […]"
+
+msgid "@ed [But... as long as Niko remembers this place...]"
+msgstr "@ed [だが…ニコがこの場所を忘れない限り…]"
+
+msgid "@ed [As long as you remember this place.]"
+msgstr "@ed [君がこの場所を忘れない限り。]"
+
+msgid "@ed [It'll... be alright.]"
+msgstr "@ed [きっと…大丈夫だろう。]"
+
+msgid "@ed [I... was able to restore some other elements too.]"
+msgstr "@ed [ああ…他の要素もなんとか\n復元することができたぞ。]"
+
+msgid "@ed [The characters... The people that were lost on Niko's journey.]"
+msgstr "@ed [キャラクター…ニコが旅をしている途中で、\nいなくなってしまった人々。]"
+
+msgid "@ed [They're all in the next room.]"
+msgstr "@ed [彼らは全員、この先の部屋にいる。]"
+
+msgid "@ed [I would've put them back where they belong, but...]"
+msgstr "@ed [いずれ元の場所に戻すつもりだが…]"
+
+msgid "@ed [Not yet.]"
+msgstr "@ed [それはまだだ。]"
+
+msgid "@ed [...I think Niko should see them again, first.]"
+msgstr "@ed […まずは、ニコが彼らと再会すべきだろうから。]"
+
+msgid "@ed [...Please say goodbye to Niko for me.]"
+msgstr "@ed […ニコに、さようならと伝えておいてくれ。]"
+

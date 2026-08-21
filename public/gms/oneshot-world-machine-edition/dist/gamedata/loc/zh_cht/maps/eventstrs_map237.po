@@ -1,0 +1,1266 @@
+msgid "@george1 Miss Silverpoint! \\.\\.You've returned!"
+msgstr "@george1 希維波特小姐！\\.\\.妳回來了！"
+
+msgid "@george1_hm AHA! George sees that you have found the messiah!"
+msgstr "@george1_hm 啊哈！喬智看到妳找到救世主了！"
+
+msgid "@kip_sigh ...yeah."
+msgstr "@kip_sigh ……是啊。"
+
+msgid "@kip_pout ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_pout ……我們在一個男孩強行闖入實驗室大樓之後巧遇……"
+
+msgid "@george2_grr Well well well, look who's back!"
+msgstr "@george2_grr 哼哼，看看是誰回來啦！"
+
+msgid "@george2_no How about next time you LET ME KNOW BEFORE YOU LEAVE THE SHELTER TO GO INTO A LITERAL DEATH ZONE!"
+msgstr "@george2_no 拜託妳下次離開避難區往死亡地帶跑之前先跟我說一聲！"
+
+msgid "@kip_heh Sorry..."
+msgstr "@kip_heh 抱歉喔……"
+
+msgid "@george2_sigh I get so worried, y'know..."
+msgstr "@george2_sigh 我擔心死了，妳知道嗎……"
+
+msgid "@george2 ....\\.\\.Hey! You found the messiah!"
+msgstr "@george2 ……\\.\\.嘿！妳找到救世主了！"
+
+msgid "@george3_sad ...Kip. \\.\\.You made it back..."
+msgstr "@george3_sad ……琪普。\\.\\.妳活著回來了……"
+
+msgid "@george3_sigh I was so worried...."
+msgstr "@george3_sigh 我好擔心妳……"
+
+msgid "@george3_worry ...um...."
+msgstr "@george3_worry ……呃……"
+
+msgid "@george3_worry ...I see...\\.\\. I see you've found the messiah..."
+msgstr "@george3_worry ……看來……\\.\\.看來妳找到救世主了……"
+
+msgid "@george4 Kip! \\.\\.You're alive!"
+msgstr "@george4 琪普！\\.\\.妳還活著！"
+
+msgid "@george4_oops You...\\.\\. um, should really tell me before you leave next time..."
+msgstr "@george4_oops 妳……\\.\\.呃，妳下次要離開麻煩先跟我講一下好嗎……"
+
+msgid "@george4_smile It's fine!"
+msgstr "@george4_smile 沒關係啦！"
+
+msgid "@george4_omg Oh my gosh... you found the messiah too?"
+msgstr "@george4_omg 天啊……妳連救世主都找到了？"
+
+msgid "@george5 Hello, Miss Silverpoint! \\.\\.I'm glad you've made it back safely."
+msgstr "@george5 希維波特小姐，妳好啊！\\.\\.真高興妳平安回來了。"
+
+msgid "@george5_sigh Gosh... you should have told me where you were going!"
+msgstr "@george5_sigh 天啊……妳真該告訴我妳要去哪裡的！"
+
+msgid "@kip_heh Sorry, George..."
+msgstr "@kip_heh 抱歉喔，喬智……"
+
+msgid "@george5 I... see you also found the messiah!"
+msgstr "@george5 我……看妳也找到救世主了！"
+
+msgid "@george5_smile Hello, little one!"
+msgstr "@george5_smile 孩子，你好啊！"
+
+msgid "@niko Hi..."
+msgstr "@niko 妳好……"
+
+msgid "@kip_sigh ...we...\\.\\. ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh 我們……\\.\\.在一個男孩強行闖入實驗室大樓之後巧遇……"
+
+msgid "@george6_point Eyy Kip! \\.\\.You made it back in one piece!"
+msgstr "@george6_point 唷，琪普！\\.\\.妳好手好腳地回來啦！"
+
+msgid "@george6_shrug Ya kinda left the shelter without tellin' me...\\>\\nSure gave me a good scare back there!"
+msgstr "@george6_shrug 妳那樣一聲不吭就離開避難區……\\>\\n真的把我嚇歪了欸！"
+
+msgid "@george6 Whoaa! You found the messiah too?"
+msgstr "@george6 哇啊！妳還找到了救世主？"
+
+msgid "@george6_fingerguns Sweeet."
+msgstr "@george6_fingerguns 太讚啦。"
+
+msgid "@george6_point How's it goin', lil fella?"
+msgstr "@george6_point 小傢伙，最近過得好嗎？"
+
+msgid "@niko_eyeclosed Bad."
+msgstr "@niko_eyeclosed 不好。"
+
+msgid "@george6_shrug Oh same."
+msgstr "@george6_shrug 喔，我也是。"
+
+msgid "@kip_pout ...we, um."
+msgstr "@kip_pout ……我們、呃。"
+
+msgid "@kip_sigh ...we ran into each other after this boy forced himself into the lab complex..."
+msgstr "@kip_sigh ……我們在一個男孩強行闖入實驗室大樓之後巧遇……"
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad 我……\\.\\.沒能阻止他……"
+
+msgid "@kip_pout I don't know why he was being so insistent!"
+msgstr "@kip_pout 我不懂他為什麼這麼堅持！"
+
+msgid "@niko4 He... \\.\\.he said he needed to go rebuild a robot..."
+msgstr "@niko4 他……\\.\\.說過他需要去重建一個機器人……"
+
+msgid "@kip_pout Oh, you know him?"
+msgstr "@kip_pout 喔，你認識他？"
+
+msgid "@niko_eyeclosed Yeah."
+msgstr "@niko_eyeclosed 是啊。"
+
+msgid "@george1_hm AHA! Building a robot!"
+msgstr "@george1_hm 啊哈！做一個機器人！"
+
+msgid "@george1 So THAT's what he needed that book for!"
+msgstr "@george1 所以他是因為這樣才需要那本書！"
+
+msgid "@niko2 ...come again?"
+msgstr "@niko2 ……什麼意思？"
+
+msgid "@george1 A boy with white hair and goggles ran in here not long ago."
+msgstr "@george1 不久前有一個白頭髮、戴護目鏡的男孩跑來這裡。"
+
+msgid "@niko_eyeclosed That's Cedric, yeah..."
+msgstr "@niko_eyeclosed 那的確是學君沒錯……"
+
+msgid "@george1 He grabbed one of the books from my (very impressive) archives upstairs and bolted straight out."
+msgstr "@george1 他從我（不同凡響的）樓上檔案庫中拿了一本書，然後就開溜了。"
+
+msgid "@george1_smile Said it was an emergency so George let it slide."
+msgstr "@george1_smile 他說有急用，所以喬智就沒跟他計較。"
+
+msgid "@george1 George hopes he's okay..."
+msgstr "@george1 喬智希望他平安無事……"
+
+msgid "@george2_grr Robot..."
+msgstr "@george2_grr 機器人嗎……"
+
+msgid "@george2_sigh That's why he needed that book so badly..."
+msgstr "@george2_sigh 所以他才那麼迫切需要那本書……"
+
+msgid "@george2 Y'all talking about a kid with white hair and goggles?"
+msgstr "@george2 你們在講的是一個戴護目鏡的白髮少年吧？"
+
+msgid "@niko2 That's Cedric, yeah..."
+msgstr "@niko2 那的確是學君沒錯……"
+
+msgid "@george2_stress He ran in here earlier, grabbed one of the books from my archives, and ran straight out the door."
+msgstr "@george2_stress 他不久前跑進來，從我的檔案庫抓了一本書，然後就直接跑出門外了。"
+
+msgid "@george2_stress ...without even going through checkout!"
+msgstr "@george2_stress ……連借書手續都沒辦好！"
+
+msgid "@george2_no THE NERVE OF THAT KID!"
+msgstr "@george2_no 那小鬼好大的膽子！"
+
+msgid "@niko4 Um..."
+msgstr "@niko4 呃……"
+
+msgid "@george2_grr Said it was an emergency, so I didn't bother stopping him."
+msgstr "@george2_grr 他說他有急用，所以我才沒阻止他。"
+
+msgid "@george2_sigh I... hope he doesn't get himself killed out there."
+msgstr "@george2_sigh 我……希望他不會把自己搞到小命不保。"
+
+msgid "@george3 ...robot..."
+msgstr "@george3 ……機器人啊……"
+
+msgid "@george3 Are you talking about...\\.\\. a boy with white hair and googles?"
+msgstr "@george3 你們講的是不是……\\.\\.一個戴護目鏡的白頭髮男孩？"
+
+msgid "@george3 He..."
+msgstr "@george3 他……"
+
+msgid "@george3 He said he really needed a book from the backroom and said it was an emergency and I let him have it and he ran out and..."
+msgstr "@george3 他說他真的非常需要後面房間裡的一本書，說是有急用，我讓他拿了書他就跑出去然後……"
+
+msgid "@george3_sigh Oh.... I should have stopped him...."
+msgstr "@george3_sigh 哎……我應該阻止他的……"
+
+msgid "@george3_worry I hope he's...\\.\\. okay..."
+msgstr "@george3_worry 希望他……\\.\\.平安無事……"
+
+msgid "@george4_golly A robot!"
+msgstr "@george4_golly 機器人！"
+
+msgid "@george4_golly ...no wonder why he needed that book!"
+msgstr "@george4_golly ……怪不得他需要那本書！"
+
+msgid "@george4 We are talking about the same boy, right?"
+msgstr "@george4 我們在講的是同一個男孩，對吧？"
+
+msgid "@george4_golly Hat... white hair... goggles..."
+msgstr "@george4_golly 戴帽子……白頭髮……護目鏡……"
+
+msgid "@george4_golly He, um..."
+msgstr "@george4_golly 他呢，嗯……"
+
+msgid "@george4 He grabbed a book from the back room and then just bolted straight out!"
+msgstr "@george4 他從後面房間抓了一本書，然後就溜之大吉了！"
+
+msgid "@george4_oops He said it was an emergency, so I didn't try to stop him..."
+msgstr "@george4_oops 他說他有急用，所以我沒試著阻止他……"
+
+msgid "@george4_golly Gosh... I hope he's okay..."
+msgstr "@george4_golly 天啊……希望他平安無事……"
+
+msgid "@george5 Building a robot, you say?"
+msgstr "@george5 你說他要做一個機器人嗎？"
+
+msgid "@george5 Could that be... why he needed that book?"
+msgstr "@george5 該不會……他就是因為這樣所以需要那本書？"
+
+msgid "@george5 Ah... a young man with white hair and green glasses ran in earlier."
+msgstr "@george5 啊……一個戴著綠色眼鏡的白髮年輕人稍早有來過。"
+
+msgid "@george5 He said he really needed a book from the backroom... said it was an emergency, too!"
+msgstr "@george5 他說他真的很需要後面房間裡的一本書……而且說他有急用！"
+
+msgid "@george5_hmm Poor darling looked so stressed out... so I just gave him the book..."
+msgstr "@george5_hmm 可憐的孩子看起來非常焦急……所以我就直接把書給他了……"
+
+msgid "@george5 I hope he is safe..."
+msgstr "@george5 希望他平安……"
+
+msgid "@george6 Robot, eh?"
+msgstr "@george6 機器人啊？"
+
+msgid "@george6 Y'all talkin' about a lil' dude with white hair and goggles, right?"
+msgstr "@george6 你們在講一個白頭髮戴護目鏡的小帥哥對吧？"
+
+msgid "@niko4 That's Cedric, yeah..."
+msgstr "@niko4 那的確是學君沒錯……"
+
+msgid "@george6 Bruh ran off with one of my books!"
+msgstr "@george6 那小子拿了我一本書就跑了！"
+
+msgid "@george6_shrug Said it was an emergency, so I just let 'im have it."
+msgstr "@george6_shrug 說是有急用，所以我就隨他去了。"
+
+msgid "@george6 Hope he didn't run into trouble, dude..."
+msgstr "@george6 希望那傢伙沒有惹上什麼麻煩……"
+
+msgid "@kip_sigh Yeah... I hope he's alright, too..."
+msgstr "@kip_sigh 是啊……我也希望他沒事……"
+
+msgid "@kip_pout With any luck, maybe the lab complex can hold up long enough for him to..."
+msgstr "@kip_pout 如果運氣夠好，實驗室大樓說不定能撐到他……"
+
+msgid "@kip_worry Oh my gosh.... \\>It..."
+msgstr "@kip_worry 喔天啊……\\>它……"
+
+msgid "@kip_worry That was..."
+msgstr "@kip_worry 那是……"
+
+msgid "@niko3 ...the labs?"
+msgstr "@niko3 ……實驗室？"
+
+msgid "@kip_worry That poor kid!!!"
+msgstr "@kip_worry 那個可憐的孩子！！！"
+
+msgid "@niko_shock No!!!"
+msgstr "@niko_shock 不！！！"
+
+msgid "@niko_distressed_meow Not him too!!!!"
+msgstr "@niko_distressed_meow 不要連他也遇難啊！！！！"
+
+msgid "@kip_sad I'm..."
+msgstr "@kip_sad 我……"
+
+msgid "@kip_sigh I'm sorry about your friend..."
+msgstr "@kip_sigh 關於你朋友的事，我很遺憾……"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ……"
+
+msgid "@niko_distressed ...the last time we spoke, he told me to go look for someone on the surface."
+msgstr "@niko_distressed ……我們上次交談的時候，他要我去找地面的某人。"
+
+msgid "@niko4 I... \\.\\.I need to get going."
+msgstr "@niko4 我……\\.\\.我得出發了。"
+
+msgid "@george1 George... \\.\\.\\@george1_hm WON'T let you go out there!"
+msgstr "@george1 喬智……\\.\\.\\@george1_hm 不讓你出去！"
+
+msgid "@george1_hm The messiah will not walk into danger on my watch!"
+msgstr "@george1_hm 可不能讓救世主在我眼皮底下赴險！"
+
+msgid "@niko3 But..."
+msgstr "@niko3 可是……"
+
+msgid "@george2_stress Are you KIDDING ME??"
+msgstr "@george2_stress 你開什麼玩笑？？"
+
+msgid "@george2_grr Kid, there is NO way we're letting you out there."
+msgstr "@george2_grr 小鬼，要我們放你出去，門都沒有。"
+
+msgid "@niko3 But I really have to..."
+msgstr "@niko3 可是我真的得……"
+
+msgid "@george3_worry Um...\\.\\. um..."
+msgstr "@george3_worry 呃……\\.\\.這個……"
+
+msgid "@george3_cry You...\\.\\. shouldn't go out there....!"
+msgstr "@george3_cry 你……\\.\\.不該跑出去……！"
+
+msgid "@niko_distressed But..."
+msgstr "@niko_distressed 可是……"
+
+msgid "@george3_worry Oh.... \\.\\.help me out here, Kip...."
+msgstr "@george3_worry 喔……\\.\\.琪普，拜託幫幫我……"
+
+msgid "@george4 ...messiah, please."
+msgstr "@george4 ……救世主，拜託你。"
+
+msgid "@george4_golly We don't... want you to go out there."
+msgstr "@george4_golly 我們……不想要你出去。"
+
+msgid "@george4_golly Not when everything is... \\.\\.well..."
+msgstr "@george4_golly 因為一切都……\\.\\.呃……"
+
+msgid "@george5_hmm Sweetie, you know we can't let you just walk into danger!"
+msgstr "@george5_hmm 親愛的，你知道我們不能就這樣讓你走入險境！"
+
+msgid "@george6 Bruh...\\>\\n\\@george6_point You know we ain't gonna let you walk into the fire like that!"
+msgstr "@george6 喂……\\>\\n\\@george6_point 你知道，我們可不會讓你自己去跳火坑喔！"
+
+msgid "@george6_shrug Fire... squares..."
+msgstr "@george6_shrug 火坑……好啦是方塊……"
+
+msgid "@niko4 But..."
+msgstr "@niko4 可是……"
+
+msgid "@kip_sigh George is right..."
+msgstr "@kip_sigh 喬智說得對……"
+
+msgid "@kip_pout The squares seem to be targeting a lot of the weaker constructs in the city."
+msgstr "@kip_pout 方塊似乎正針對城裡許多結構比較脆弱的建築攻擊。"
+
+msgid "@kip_sigh Only the library has enough structural integrity to withstand collapse..."
+msgstr "@kip_sigh 只有圖書館的結構夠完整，足以承受崩塌……"
+
+msgid "@kip_sad It's... best if you stayed here until things stabilize."
+msgstr "@kip_sad 你最好……待在這裡等事態穩定下來。"
+
+msgid "@kip_sigh ...however long that takes."
+msgstr "@kip_sigh ……不論要等多久。"
+
+msgid "@niko2 But....\\.\\. \\@niko4 but..."
+msgstr "@niko2 可是……\\.\\.\\@niko4 可是……"
+
+msgid "@niko2 What about...\\.\\. my mission?"
+msgstr "@niko2 那我的……\\.\\.任務怎麼辦？"
+
+msgid "@niko_eyeclosed Don't you guys want me to bring the sun back, at least?"
+msgstr "@niko_eyeclosed 你們難道不希望我至少把太陽帶回來嗎？"
+
+msgid "@george1 Even if you do restore the sun, the squares will persist..."
+msgstr "@george1 即使你真的讓太陽恢復，方塊還是會繼續存在……"
+
+msgid "@george2_sigh The sun won't do us any good if the squares are just gonna mess everything up."
+msgstr "@george2_sigh 如果方塊不論如何都會搞砸一切，那太陽也幫不了我們。"
+
+msgid "@george3_worry Oh...\\.\\. but even if you do bring the sun back..."
+msgstr "@george3_worry 喔……\\.\\.可是即使你真的把太陽帶回來……"
+
+msgid "@george3_sigh ...the squares... they'll still be here..."
+msgstr "@george3_sigh ……那些方塊……還是會繼續存在……"
+
+msgid "@george4_golly Even if you do bring back the sun, that's not gonna fix the squares..."
+msgstr "@george4_golly 即使你把太陽帶回來，也解決不了方塊的問題喔……"
+
+msgid "@george5 Even if you do restore the sun, I'm not sure that'll fix the squares..."
+msgstr "@george5 即使你真的讓太陽恢復，可能還是解決不了方塊的問題……"
+
+msgid "@george6_shrug ...sun ain't gonna make the squares go away, dude."
+msgstr "@george6_shrug ……太陽也趕不走那些方塊啦。"
+
+msgid "@kip_sigh Sadly..."
+msgstr "@kip_sigh 很遺憾事實如此……"
+
+msgid "@kip_sad Not to mention... even getting there is going to be hard..."
+msgstr "@kip_sad 更別提……前往那裡這件事本身就困難重重……"
+
+msgid "@kip_pout If the world is like this... there's no telling what's going on in the Tower!"
+msgstr "@kip_pout 如果這世界是這模樣……誰知道塔裡會是什麼情形！"
+
+msgid "@george1_hm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george1_hm 而且……如果所有人之中，偏偏是救世主發生不測……"
+
+msgid "@george1 ...George doesn't want to think about it."
+msgstr "@george1 ……喬智連想都不願意想。"
+
+msgid "@george2_stress And... if anything bad happened to the messiah, of all people..."
+msgstr "@george2_stress 而且……如果所有人之中，偏偏是救世主發生不測……"
+
+msgid "@george2_no ...NO!!! I won't allow it!!!"
+msgstr "@george2_no ……不行！！！我絕對不允許！！！"
+
+msgid "@george3_sad And... if anything bad happened to the messiah, of all people..."
+msgstr "@george3_sad 而且……如果所有人之中，偏偏是救世主發生不測……"
+
+msgid "@george3_sigh I'm not sure if I'll be able forgive myself..."
+msgstr "@george3_sigh 我可能沒辦法原諒我自己……"
+
+msgid "@george4_golly And... if anything bad happened to the messiah, of all people..."
+msgstr "@george4_golly 而且……如果所有人之中，偏偏是救世主發生不測……"
+
+msgid "@george4 I'm not sure what we'd do!"
+msgstr "@george4 那我們該怎麼辦呢！"
+
+msgid "@george5_hmm And... if anything bad happened to the messiah, of all people..."
+msgstr "@george5_hmm 而且……如果所有人之中，偏偏是救世主發生不測……"
+
+msgid "@george5_sigh Oh... that would be so dreadful, dear..."
+msgstr "@george5_sigh 喔……天啊，那真是太可怕了……"
+
+msgid "@george6 And... if the messiah got hurt, of all people..."
+msgstr "@george6 再說啦……如果所有人之中，偏偏是救世主受傷的話……"
+
+msgid "@george6_shrug That's like...\\.\\. the exact opposite of radical, dude...."
+msgstr "@george6_shrug 那不就像……\\.\\.是另一個極端嗎……"
+
+msgid "@kip_sigh Sigh..."
+msgstr "@kip_sigh 唉……"
+
+msgid "@kip_sad A friend of mine... said something about this forever ago..."
+msgstr "@kip_sad 有個朋友……很久很久以前針對這個狀況說過……"
+
+msgid "@kip_pout \"It's better for the world to die naturally.\""
+msgstr "@kip_pout 「讓這個世界自然毀滅比較好。」"
+
+msgid "@kip_sigh \"No living being should have to carry that burden.\""
+msgstr "@kip_sigh 「沒有一個生物應該承受這種負擔。」"
+
+msgid "@kip_sad At the time... I thought it was still her faulty code speaking..."
+msgstr "@kip_sad 當時……我以為她還是因為程式沒寫好才這樣講……"
+
+msgid "@kip_sigh But now I... \\.\\.I'm starting to understand..."
+msgstr "@kip_sigh 可是現在我……\\.\\.我開始能夠理解……"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@kip_pout Messiah... \\.\\.I'm sorry..."
+msgstr "@kip_pout 救世主……\\.\\.對不起……"
+
+msgid "@kip_sad I'm really, really sorry...."
+msgstr "@kip_sad 真的，真的很對不起……"
+
+msgid "@kip_sigh All this time, we've burdened you with our hope, our faith..."
+msgstr "@kip_sigh 這段時間以來，我們一直把我們的希望和信心加諸在你身上……"
+
+msgid "@kip_pout ...blissfully ignoring the fact that you are just a lost child."
+msgstr "@kip_pout ……自己開心，卻忽略了你只是個迷途的孩子。"
+
+msgid "@niko3 Well..."
+msgstr "@niko3 這……"
+
+msgid "@kip_pout You're probably more scared than any of us, aren't you?"
+msgstr "@kip_pout 你大概比我們任何人都還要害怕，對不對？"
+
+msgid "@kip_pout We... have been dealing with tragedy for so long, it's become background noise to us now."
+msgstr "@kip_pout 我們……我們面對災難的時間很長，長到現在對我們來說災難就像背景噪音一樣。"
+
+msgid "@kip_sad But for you... \\.\\.it must be so terrifying..."
+msgstr "@kip_sad 可是對你來說……\\.\\.一定很可怕吧……"
+
+msgid "@kip_sad And now, you're stuck here with the rest of us..."
+msgstr "@kip_sad 現在你還跟我們一起困在這裡了……"
+
+msgid "@kip_pout ...being held back by the very people you were told to save."
+msgstr "@kip_pout ……你被要求拯救的人們，反過來拖累你。"
+
+msgid "@kip_sigh We must seem so ungrateful..."
+msgstr "@kip_sigh 我們看起來一定很忘恩負義……"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko_distressed .....It's...\\> \\@niko_eyeclosed2 .....okay."
+msgstr "@niko_distressed ……不……\\>\\@niko_eyeclosed2 ……不要緊啦。"
+
+msgid "@kip_pout ..."
+msgstr "@kip_pout ……"
+
+msgid "@niko3 I..."
+msgstr "@niko3 我……"
+
+msgid "@niko3 ...when I first came to this world... \\.\\.\\@niko4 a long time ago...."
+msgstr "@niko3 ……剛來這個世界的時候……\\.\\.\\@niko4 那已經是好久以前……"
+
+msgid "@niko_distressed2 ...back then, all I wanted was to go home."
+msgstr "@niko_distressed2 ……當時我滿腦子只想要回家。"
+
+msgid "@niko_eyeclosed ...\\p... do you remember?"
+msgstr "@niko_eyeclosed ……\\p……你記得嗎？"
+
+msgid "@niko2 The very FIRST time..."
+msgstr "@niko2 最初的那一次……"
+
+msgid "@niko5 I'm not sure how far back it was for you..."
+msgstr "@niko5 我不確定對你來說是多久以前……"
+
+msgid "@niko But... I remember towards the end...\\>\\n\\@niko_eyeclosed I... actually wasn't sure anymore."
+msgstr "@niko 可是……我記得到最後……\\>\\n\\@niko_eyeclosed 我……其實變得很猶豫。"
+
+msgid "@niko_upset ...about going home."
+msgstr "@niko_upset ……猶豫要不要回去。"
+
+msgid "@niko_eyeclosed Even knowing the world would be doomed eventually..."
+msgstr "@niko_eyeclosed 即使知道這個世界總有一天會毀滅……"
+
+msgid "@niko_distressed2 I... still wanted the people here to be happy..."
+msgstr "@niko_distressed2 我……還是希望這裡的人能幸福……"
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return the sun, back then..."
+msgstr "@niko_eyeclosed 所以……\\.\\.當時，你叫我把太陽放回去的時候……"
+
+msgid "@niko_eyeclosed I didn't even....\\.\\. question it..."
+msgstr "@niko_eyeclosed 我連……\\.\\.一點遲疑也沒有……"
+
+msgid "@niko_eyeclosed So...\\.\\. when you told me to return home, back then..."
+msgstr "@niko_eyeclosed 所以……\\.\\.當時，你叫我回家的時候……"
+
+msgid "@niko_distressed2 I wasn't... \\.\\.sure..."
+msgstr "@niko_distressed2 我很……\\.\\.猶豫……"
+
+msgid "@niko_eyeclosed But I trusted you more, \\p..."
+msgstr "@niko_eyeclosed 可是，\\p，我更信賴你……"
+
+msgid "@niko4 ...but then I just... came back."
+msgstr "@niko4 ……可是然後我就……回來了。"
+
+msgid "@kip_pout You... what..."
+msgstr "@kip_pout 你……什麼……"
+
+msgid "@niko3 And I... went through that decision again, didn't I?"
+msgstr "@niko3 然後我……又經歷了同一次抉擇，對不對？"
+
+msgid "@niko_upset But...\\.\\. I came back again..."
+msgstr "@niko_upset 可是……\\.\\.我又回來了……"
+
+msgid "@niko_eyeclosed Even though you were able to do both... \\.\\.the effects couldn't be permanent, could it?"
+msgstr "@niko_eyeclosed 雖然兩種選擇都可以選……\\.\\.影響卻不是永久的，對不對？"
+
+msgid "@niko_upset And then...\\.\\. I found out about the world being like this..."
+msgstr "@niko_upset 然後……\\.\\.我發現這個世界這樣的狀態……"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed 唉……"
+
+msgid "@niko_eyeclosed Prototype said to forget the things he told me... \\>\\nAnd Cedric told me not to think about it too much, but..."
+msgstr "@niko_eyeclosed 預原機叫我忘掉他說過的話……\\>\\n學君也叫我不要想太多，可是……"
+
+msgid "@niko_eyeclosed I..."
+msgstr "@niko_eyeclosed 我……"
+
+msgid "@niko4 I'm sorry for getting upset at you... back at the mines..."
+msgstr "@niko4 很抱歉之前對你發脾氣……當我們在礦區那時候……"
+
+msgid "@niko_eyeclosed ...I thought... for you to know all that, yet continue doing this..."
+msgstr "@niko_eyeclosed ……當時我想……你明明知道這一切，卻還繼續這麼做……"
+
+msgid "@niko_upset2 It... just seemed cruel."
+msgstr "@niko_upset2 感覺……很殘忍。"
+
+msgid "@niko2 But then, I realized something..."
+msgstr "@niko2 可是，之後我明白了……"
+
+msgid "@niko4 You... really wanted to save both the world and me..."
+msgstr "@niko4 你……真的很想救我，和這個世界……"
+
+msgid "@niko_distressed But at the end, you can only choose one, right?"
+msgstr "@niko_distressed 可是到頭來，你還是只能選一邊，對不對？"
+
+msgid "@niko_distressed_talk Is it... really hard for you too?"
+msgstr "@niko_distressed_talk 對你來說……是不是也讓你很難受？"
+
+msgid "@niko_eyeclosed It must be..."
+msgstr "@niko_eyeclosed 一定是吧……"
+
+msgid "@niko3 ...\\.\\.if the world isn't broken...\\.\\. will that choice still be there?"
+msgstr "@niko3 ……\\.\\.如果世界沒有壞掉……\\.\\.那個選擇還會存在嗎？"
+
+msgid "@niko4 ...do you...\\.\\. still need to choose between one or the other?"
+msgstr "@niko3 ……你還是……\\.\\.必須二選一嗎？"
+
+msgid "@niko_sad But... even if it is..."
+msgstr "@niko_sad 可是……即使真的是這樣……"
+
+msgid "@niko_eyeclosed I... \\.\\.really want to save this world, \\p."
+msgstr "@niko_eyeclosed 我……\\.\\.我真的想救這個世界，\\p。"
+
+msgid "@niko_distressed2 Even if it's more dangerous this time around..."
+msgstr "@niko_distressed 即使這次變得更危險了……"
+
+msgid "@niko_distressed_talk Even if... so many of the nice people we met were.... \\>\\@niko_distressed_meow were..."
+msgstr "@niko_distressed_talk 即使……我們在這裡遇過的那麼多好人都……\\>\\@niko_distressed_meow 都……"
+
+msgid "@niko_sad ......"
+msgstr "@niko_sad ……"
+
+msgid "@niko_distressed_talk \\p.... \\>\\n\\@niko_less_sad I'm not.... \\.\\.afraid, anymore...."
+msgstr "@niko_distressed_talk \\p……\\>\\n\\@niko_less_sad 我……\\.\\.再也不怕了……"
+
+msgid "@niko_cry *sniff*"
+msgstr "@niko_cry *啜泣*"
+
+msgid "@niko_eyeclosed That's why...\\>\\n\\@niko3 I think you guys should let me go..."
+msgstr "@niko_eyeclosed 所以……\\>\\n\\@niko3 請你們讓我走……"
+
+msgid "@niko_distressed2 I... promise I'll be okay..."
+msgstr "@niko_distressed2 我……我保證我會平安……"
+
+msgid "@niko_distressed ...please?"
+msgstr "@niko_distressed ……拜託了？"
+
+msgid "@george1 ..."
+msgstr "@george1 ……"
+
+msgid "@george1_hm George has heard your conversation with \\p and is deeply moved!"
+msgstr "@george1_hm 喬智聽到了你和\\p的對話，覺得深受感動！"
+
+msgid "@george1_smug That's why... George has full faith in you!"
+msgstr "@george1_smug 所以……喬智對你有百分之百的信心！"
+
+msgid "@george2_grr ...well, I'm convinced."
+msgstr "@george2_grr ……好吧，你說服我了。"
+
+msgid "@george2 After all that...\\.\\. it'd be SUPER rude for me to stop you, wouldn't it?"
+msgstr "@george2 聽完那一堆之後……\\.\\.我如果還阻止你，也未免太無禮了不是嗎？"
+
+msgid "@george3_sigh ...if you must..."
+msgstr "@george3_sigh ……如果你這麼堅持……"
+
+msgid "@george3_sad It... wouldn't be right for me to keep you..."
+msgstr "@george3_sad 我……還阻止你的話就不對了……"
+
+msgid "@george4_golly Ohhhh..... \\>\\n\\@george4_omg That was BEAUTIFUL!!!"
+msgstr "@george4_golly 喔喔……\\>\\n\\@george4_omg 真是太感人了！！！"
+
+msgid "@george4_omg Kip!!! Did you hear that! The messiah was trying to encourage \\p!"
+msgstr "@george4_omg 琪普！妳有聽到嗎！救世主剛剛想鼓勵\\p耶！"
+
+msgid "@kip_heh I'm right here..."
+msgstr "@kip_heh 我就在這裡啊……"
+
+msgid "@george4_omg I KNOW RIGHT!!! IT HAPPENED RIGHT IN FRONT OF OUR EYES!!!"
+msgstr "@george4_omg 對吧對吧！！！這一齣就在我們眼前活生生地上演！！！"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ……"
+
+msgid "@george4_oops ...sorry, got carried away..."
+msgstr "@george4_oops ……不好意思，我太激動了……"
+
+msgid "@george4 ...but yes, I think it's only right that we let you go!"
+msgstr "@george4 ……可是也對，我認為我們應該讓你去才對！"
+
+msgid "@george5_sad Aww... sweetie..."
+msgstr "@george5_sad 哎啊……寶貝……"
+
+msgid "@george5_sigh You are so brave...\\.\\. even braver than most grown-ups..."
+msgstr "@george5_sigh 你真勇敢……\\.\\.甚至比大多數的大人還要勇敢……"
+
+msgid "@george5_hmm It... wouldn't be right for us to keep you, would it?"
+msgstr "@george5_hmm 我們……要是繼續阻止你就不對了，不是嗎？"
+
+msgid "@george5_aww Besides, how can I say no to those puppy-dog eyes!"
+msgstr "@george5_aww 而且，被這麼無辜的雙眼注視，我怎麼拒絕得了呢！"
+
+msgid "@george6_point Yo, kid...."
+msgstr "@george6_point 唷，小傢伙……"
+
+msgid "@george6_smile You're real strong, you know that?"
+msgstr "@george6_smile 你知道你真的很強嗎？"
+
+msgid "@niko4 I..."
+msgstr "@niko4 我……"
+
+msgid "@george6_fingerguns Go knock 'em dead, tiger!"
+msgstr "@george6_fingerguns 上啊，給它們一頓好看！"
+
+msgid "@kip_heh Well, if George is fine with it..."
+msgstr "@kip_heh 好吧，如果喬智同意的話……"
+
+msgid "@kip_sigh I... \\.\\.guess we should let you go now, messiah..."
+msgstr "@kip_sigh 我……\\.\\.我們大概該讓你出發了，救世主……"
+
+msgid "@kip_pout But... promise us you'll be careful, okay?"
+msgstr "@kip_pout 可是……你一定要小心，好嗎？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 對啊！"
+
+msgid "@niko2 You guys be safe too..."
+msgstr "@niko2 你們也要多保重……"
+
+msgid "Oh! You're not injured, are you?"
+msgstr "喔！你沒受傷吧？"
+
+msgid "The head librarian has converted her room into an infirmary for now..."
+msgstr "圖書館長目前已經把她的房間變成病房了……"
+
+msgid "If you need a place to rest, let me know."
+msgstr "如果你需要休息的地方，儘管跟我說。"
+
+msgid "Or... let her know, I guess!"
+msgstr "或……應該也可以直接跟她說吧！"
+
+msgid "We're still waiting on another group of evacuees..."
+msgstr "我們還在等另一批避難者……"
+
+msgid "One of the apartments on the other side of town got REALLY messed up yesterday..."
+msgstr "市區另一邊有一棟公寓昨天真的變得好慘……"
+
+msgid "Oh, hello!"
+msgstr "喔，你好！"
+
+msgid "The library is currently being used as a shelter right now."
+msgstr "圖書館目前被當成避難區。"
+
+msgid "Lots of those squares are starting to show up on the streets..."
+msgstr "街道上開始出現大量方塊……"
+
+msgid "@niko_eyeclosed I know..."
+msgstr "@niko_eyeclosed 我知道……"
+
+msgid "AAAAAAAAAAAAAAAAAAA!"
+msgstr "啊啊啊啊啊啊啊啊啊啊啊啊！"
+
+msgid "THE WORLD IS ENDING WHAT ARE WE GONNA DO"
+msgstr "世界要完蛋了怎麼辦"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf 你在……對那本書做什麼？"
+
+msgid "Editing it!!!"
+msgstr "我正在編修！"
+
+msgid "I've been in the Author's shadow for my entire career."
+msgstr "我整個職業生涯都在神秘作者的陰影之下。"
+
+msgid "If I'm gonna die soon, I wanna die knowing I put out at least ONE original idea out there!"
+msgstr "如果我來日無多，我一定要至少寫出一個創新的點子才能瞑目！"
+
+msgid "Despite all this...\\.\\. I still really wish I could've met the Author..."
+msgstr "即使如此……\\.\\.我還是很希望自己見過神秘作者……"
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko 一個墨水瓶，上面還插了一支羽毛筆。"
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c 很讓人懷念呢，對吧，\\p？"
+
+msgid "Reading helps me get my mind off things..."
+msgstr "閱讀有助我暫時忘記憂慮……"
+
+msgid "At least THAT's finally off my bucket list..."
+msgstr "至少我死前終於完成了這件事……"
+
+msgid "...y'know, I finally saw the Author today!"
+msgstr "……你知道嗎，我今天終於見到神秘作者了！"
+
+msgid "Well, his flying machine, at least!"
+msgstr "嗯，至少是看到他的飛行機器啦！"
+
+msgid "I was looking out one of the windows in the library and spotted it in the distance with my binoculars!"
+msgstr "那時候我正從圖書館的窗戶往外看，然後用望遠鏡看到它在遠方！"
+
+msgid "Isn't that cool, messiah?"
+msgstr "救世主，那真的很棒吧？"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed 嗯……"
+
+msgid "@niko_speak Oh! Um..."
+msgstr "@niko_speak 喔！呃……"
+
+msgid "@niko2 What book did Cedric take?"
+msgstr "@niko2 學君拿了哪一本書呢？"
+
+msgid "@george1_hm \"The Creation of Prophetbot\", one of the Author's greatest works in my opinion."
+msgstr "@george1_hm 《預言機的誕生》，我個人認為這是神秘作者最了不起的著作之一。"
+
+msgid "@george1 It's filled to the brim with intricate illustrations and blueprints... \\>\\n\\@george1_smile Lots of attention to detail, for sure."
+msgstr "@george1 書中滿滿都是精細的圖畫和藍圖……\\>\\n\\@george1_smile 他真的花了很多心血在細節上。"
+
+msgid "@george1_hm George rates it 10 out of 10."
+msgstr "@george1_hm 喬智給這本書打滿分。"
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 喔……"
+
+msgid "@george2_stress One of my favorites, thank you very much..."
+msgstr "@george2_stress 他拿了我最喜歡的書之一，真是謝謝你了……"
+
+msgid "@george2_sigh ...it's the Author's book detailing the creation of Prophetbot."
+msgstr "@george2_sigh ……是神秘作者詳細描述預言機製造過程的書。"
+
+msgid "@george2 And by \"detailing\", I mean it! \\>\\n\\@george2_sigh There's a TON of detail in that book."
+msgstr "@george2 我說「詳細描述」可是說真的！\\>\\n\\@george2_sigh 那本書裡記載了一大堆的細節。"
+
+msgid "@george2_grr Blueprints, progress shots..."
+msgstr "@george2_grr 像是藍圖和製程照片……"
+
+msgid "@george2_sigh Took me forever to edit..."
+msgstr "@george2_sigh 讓我編輯到天荒地老……"
+
+msgid "@george3_sad ...the Author's book on the creation of Prophetbot..."
+msgstr "@george3_sad ……是神秘作者記述預言機誕生的書……"
+
+msgid "@george3_sigh ...you know...\\.\\. the first robot you met in our world..."
+msgstr "@george3_sigh ……你知道……\\.\\.預言機就是你剛來我們世界遇到的第一個機器人……"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 對啊。"
+
+msgid "@george3_worry ...oh...\\.\\. The book was quite detailed, too...."
+msgstr "@george3_worry ……喔……\\.\\.而且那本書內容很詳細……"
+
+msgid "@george3_sigh It...\\.\\. would've been useful to your friend, I think..."
+msgstr "@george3_sigh 我想……\\.\\.你朋友可能用得上它吧……"
+
+msgid "@niko_eyeclosed ...yeah."
+msgstr "@niko_eyeclosed ……是啊。"
+
+msgid "@george4 The Author's book on the creation of Prophetbot!"
+msgstr "@george4 神秘作者記述預言機誕生的書！"
+
+msgid "@george4_golly Remember Prophetbot? \\.\\.The first robot you met in our world?"
+msgstr "@george4_golly 你記得預言機嗎？\\.\\.就是你在我們世界遇到的第一個機器人。"
+
+msgid "@george4_omg He's a work of art!!!"
+msgstr "@george4_omg 他真是個藝術傑作！！！"
+
+msgid "@george4_smile The Author's book was so detailed... \\.\\.really made me appreciate how much work went into him!"
+msgstr "@george4_smile 神秘作者的書寫得非常詳盡……\\.\\.讓我真心敬佩製作預言機所投入的心力！"
+
+msgid "@george5_hmm \"The Creation of Prophetbot\", dear.\\>\\n\\@george5_heh It's one of my favorite books by the Author!"
+msgstr "@george5_hmm 親愛的，他拿了《預言機的誕生》。\\>\\n\\@george5_heh 那是神秘作者的著作中，我最喜歡的其中一本！"
+
+msgid "@george5_hmm The book contains many detailed blueprints and progress shots."
+msgstr "@george5_hmm 書中有很多詳細的藍圖和製程照片。"
+
+msgid "@george5_smile I really enjoyed editing it!"
+msgstr "@george5_smile 真的讓我編得非常過癮！"
+
+msgid "@george6_point You remember Prophetbot? \\>\\n\\@george6 The first robot you met in our world?"
+msgstr "@george6_point 你記得預言機吧？\\>\\n\\@george6 就是你在我們世界遇到的第一個機器人。"
+
+msgid "@niko ...yeah?"
+msgstr "@niko ……應該吧？"
+
+msgid "@george6_smile The Author wrote a book on how he was made!\\>\\n\\@george6_shrug It's one of his best works, bruh."
+msgstr "@george6_smile 神秘作者寫了一本關於他製造過程的書！\\>\\n\\@george6_shrug 跟你說，那本真的是他最佳傑作之一。"
+
+msgid "@george6 You just gotta love that guy's attention to detail... all the little parts that just came together..."
+msgstr "@george6 真的不得不佩服他那麼深入細節欸……最後會組合在一起的每一個小零件都沒漏掉……"
+
+msgid "@george6_point ...was the freshest book I've ever edited, man!"
+msgstr "@george6_point ……老天，那真是我編過最讓人耳目一新的書了！"
+
+msgid "@niko A small pile of books."
+msgstr "@niko 一小疊書。"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+
+msgid "[THIS IS THE LIBRARY / TEMPORARY SHELTER.]"
+msgstr "[此處是圖書館／臨時避難所。]"
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[你需要什麼嗎？請從前方往前。]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS CURRENTLY BEING USED AS AN INFIRMARY.]"
+msgstr "@bookbot [檔案庫目前正挪作病房用。]"
+
+msgid "@bookbot [WE APOLOGIZE FOR THE INCONVENIENCE.]"
+msgstr "@bookbot [造成您的不便，敬請見諒。]"
+
+msgid "@niko_eyeclosed It's okay..."
+msgstr "@niko_eyeclosed 沒關係……"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko 一台電腦，現在沒有開機。"
+
+msgid "Everyone here should be safe for now..."
+msgstr "目前應該大家都安全了……"
+
+msgid "This library was built fairly recently, you know..."
+msgstr "你知道，圖書館才蓋好沒有多久……"
+
+msgid "Shortly after the first squares appeared, they wanted to build something that could withstand partial collapse."
+msgstr "在第一批方塊出現後不久，他們就打算蓋一棟可以承受部分崩塌的建築。"
+
+msgid "The architects used the newest, strongest materials they had."
+msgstr "建築師們用了手邊最新、最強韌的材料。"
+
+msgid "...Thank goodness for that."
+msgstr "……那真是太好了。"
+
+msgid "I hope the Author is safe..."
+msgstr "希望神秘作者平安無事……"
+
+msgid "I wonder where the Author is..."
+msgstr "不知道神秘作者人在哪裡……"
+
+msgid "Apparently he just kinda... stopped showing up."
+msgstr "顯然他就……忽然不再出現了。"
+
+msgid "The head librarian says she's still getting his manuscripts, but..."
+msgstr "圖書館長說她還不斷收到他的原稿，可是……"
+
+msgid "No one has seen him in person in so long..."
+msgstr "已經很久沒有人看到他本人了……"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "....sigh."
+msgstr "……唉。"
+
+msgid "Many people have been assuming the worst."
+msgstr "很多人都做了最壞的打算。"
+
+msgid "I hope my friends are okay!"
+msgstr "希望我的朋友們沒事！"
+
+msgid "Another group of evacuees should be arriving soon..."
+msgstr "另一批避難者應該快到了……"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko 書本整齊地排在架上。"
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko 書本整齊地排在架上。"
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko 書在架上排得很整齊。"
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko 架上的書排得很整齊。"
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko 整齊排列的書在架上。"
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko 書架上有排得很整齊的書。"
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko 架上的書整齊地排好了。"
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko 書在架上，排得很整齊。"
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko 地上有一疊書。"
+
+msgid "@kip_pout Please be careful out there..."
+msgstr "@kip_pout 請多保重……"
+
+msgid "@niko A book!"
+msgstr "@niko 一本書！"
+
+msgid "Sigh...."
+msgstr "唉……"
+
+msgid "I had to leave my aquarium behind when they were sounding the sirens earlier..."
+msgstr "稍早警報響了，我不得不丟下我的水族箱……"
+
+msgid "I wish I had time to rescue my fish..."
+msgstr "要是有時間救我的魚就好了……"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[正在將書本重新上架……]"
+
+msgid "Well, it was nice knowing y'all I suppose..."
+msgstr "嗯，我該說很高興認識你們嗎……"
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "當世界終結時，是一下子毀滅比較好、還是慢慢衰竭比較好？"
+
+msgid "Haha... looks like we're stuck with the latter."
+msgstr "哈哈……看來我們只能選後者了。"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko 很高一疊書。"
+
+msgid "@niko Hi."
+msgstr "@niko 你好。"
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[正在將書本重新上架。]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[請小心可能掉落的書本。]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 我會的！"
+
+msgid "I won't lose hope."
+msgstr "我不會失去希望的。"
+
+msgid "Sigh..."
+msgstr "唉……"
+
+msgid "It's comforting to see the faith you have in \\p, messiah..."
+msgstr "救世主，看到你對\\p那麼有信心，我也感到安慰……"
+
+msgid "That's why... I won't lose hope either."
+msgstr "所以……我也不會失去希望的。"
+
+msgid "@niko Coffee cups."
+msgstr "@niko 咖啡杯。"
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak 咖啡是給大人喝的！"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed 沒錯……我還是怕爬梯。"
+
+msgid "Y'know, now that everyone's coming to me for help..."
+msgstr "你知道嗎，現在大家都來找我幫忙……"
+
+msgid "...it really makes me appreciate you more, messiah!"
+msgstr "……真的讓我更欣賞你了，救世主！"
+
+msgid "Thank you for all you've done for us."
+msgstr "謝謝你為我們做的一切。"
+
+msgid "Looks like my life's work is finally being put to good use!"
+msgstr "看來我畢生心血結晶終於派上用場！"
+
+msgid "As long as we conserve the water we have on hand..."
+msgstr "只要我們保留現有的水……"
+
+msgid "...my water pills should be able to keep everyone here from going thirsty for weeks!"
+msgstr "……我的水藥片應該可以讓這裡的所有人好幾個 禮拜都不用喝水！"
+
+msgid "@niko A coffee machine."
+msgstr "@niko 咖啡機。"
+
+msgid "@niko It's almost empty..."
+msgstr "@niko 裡面快要空了……"
+
+msgid "@niko This stand smells... sugary."
+msgstr "@niko 這個攤位……有甜甜的香味。"
+
+msgid "Candy skewers, fresh off the grill!"
+msgstr "剛剛烤好的烤糖串喔！"
+
+msgid "...Not very nutritious, I'm afraid."
+msgstr "……恐怕不太營養。"
+
+msgid "But at least they'll keep the evacuees from gettin' hungry!"
+msgstr "可是至少可以讓避難者填飽肚子！"
+
+msgid "@niko A photo of some plants."
+msgstr "@niko 某種植物的照片。"
+
+msgid "The city gate was destroyed a while back, I can't go into the Glen anymore..."
+msgstr "城市大門不久前被破壞，我無法再進入綠沼澤了……"
+
+msgid "I'm not sure where I'll be able to get my supply of fish, at this rate..."
+msgstr "這樣下去，真不知道我的魚要上哪補貨……"
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko 某種牌匾。"
+
+msgid "I still have plenty of these soup dumplings left!"
+msgstr "我還有剩下很多湯餃！"
+
+msgid "Looks like it should feed everyone here for at least another day."
+msgstr "看起來至少還夠這裡的每個人再吃一天。"
+
+msgid "@niko_what2 (This guy scares me, \\p...!)"
+msgstr "@niko_what2 （\\p，這個人讓我很害怕……！）"
+
+msgid "..."
+msgstr "……"
+
+msgid "....WHAT!? You need something?!"
+msgstr "……怎麼！？你需要什麼嗎？！"
+
+msgid "@niko_huh No...?"
+msgstr "@niko_huh 沒有……？"
+
+msgid "Suit yourself."
+msgstr "隨便你。"
+
+msgid "BUT, just so that you know."
+msgstr "可是，還是要跟你說。"
+
+msgid "Due to recent events, the restriction on noise levels in the library has been temporarily lifted."
+msgstr "因為最近的事件，所以圖書館的噪音管制暫時解除了。"
+
+msgid "...So I WON'T be kicking people out like before."
+msgstr "……所以我不會像之前那樣把人趕出去。"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what 呃……"
+
+msgid "....WHAT???"
+msgstr "……什麼？？？"
+
+msgid "You think I'm gonna be throwing out the evacuees just cuz I'm a delinquent stuck doing community service???"
+msgstr "只因為我是個被判社區服務的不良少年，你就覺得我會把這些避難者都趕出去嗎？？？"
+
+msgid "@niko_what ...No...?"
+msgstr "@niko_what ……沒有……？"
+
+msgid "Good!!! Because I'm NOT!!!!!"
+msgstr "很好！！！因為我不會趕走他們！！！！！"
+
+msgid "Looks like I'll have to cancel my appointment..."
+msgstr "看來我得取消我的預約了……"
+
+msgid "This stinks!"
+msgstr "討厭！"
+
+msgid "@niko A photo of some people."
+msgstr "@niko 一些人的合照。"
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[晚間新聞！晚間新聞！]"
+
+msgid "[EVERYTHING IS TERRIBLE]"
+msgstr "[這一切都糟透了]"
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [如果有任何問題，請由前方前進。]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko 不用了，謝謝！"
+
+msgid "@kelvin [The world is going to be much colder soon.]"
+msgstr "@kelvin [世界很快就會變得非常寒冷。]"
+
+msgid "@kelvin [At least... I can keep everyone here warm.]"
+msgstr "@kelvin [至少……我可以讓這裡的所有人保持溫暖。]"
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko 看起來這裡有書名的清單……"
+
+msgid "ZZZZZZZZZZZZZZZZ"
+msgstr "ZZZZZZZZZZZZZZZZ"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak 一本大書，封面上有黑苜蓿標誌。"
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko 書名是《燐礦完全指南》。"
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko 用白板筆畫的苜蓿。"
+
+msgid "@niko_eyeclosed She's asleep..."
+msgstr "@niko_eyeclosed 她睡著了……"
+
+msgid "*yawn*"
+msgstr "*打呵欠*"
+
+msgid "The lab complex got totaled, didn't it...."
+msgstr "實驗室大樓全塌毀了，對不對……"
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 是啊……"
+
+msgid "All those hours I put into my work, and now..."
+msgstr "我花了那麼多時間投入工作，現在卻……"
+
+msgid "now...."
+msgstr "現在……"
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed 她睡著了……"
+
+msgid "@niko A marker eraser."
+msgstr "@niko 白板板擦。"
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko 書名是《失去太陽的世界中，新興生態位》。"
+
+msgid "Monitoring... monitoring..."
+msgstr "監控中……監控中……"
+
+msgid "Looks like our scouting unit #A27 is still doing okay..."
+msgstr "看起來我們的偵查單位#A27還在正常工作……"
+
+msgid "@niko A green marker."
+msgstr "@niko 綠色白板筆。"
+
+msgid "kip card"
+msgstr "琪普的借書證"
+
+msgid "Robots are the only ones that we can send out there, now..."
+msgstr "現在我們能派出的也只有機器人了……"
+
+msgid "Thankfully, we still have a couple of units that aren't too badly damaged..."
+msgstr "幸好我們還有幾組損壞不太嚴重的單位……"
+
+msgid "This little guy ran into some squares earlier and managed to escape mostly intact."
+msgstr "這個小傢伙之前遇到了方塊，大致上算是全身而退了。"
+
+msgid "These newer models are pretty tough!"
+msgstr "這些新型號還滿耐用的！"
+
+msgid "I just like looking at pictures."
+msgstr "我只喜歡看圖片。"
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak 你翻閱的速度好快！"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "其實這本大多是圖片！"
+
+msgid "The Author is an artist too, y'know!"
+msgstr "你知道嗎，神秘作者也是一位藝術家！"
+
+msgid "@niko_eyeclosed I could tell, yeah..."
+msgstr "@niko_eyeclosed 嗯，我看得出來……"
+
+msgid "@niko A blue marker."
+msgstr "@niko 藍色白板筆。"
+
+msgid "niko card"
+msgstr "霓光的卡片"
+
+msgid "@niko A red marker."
+msgstr "@niko 紅色白板筆。"
+
+msgid "glittery"
+msgstr "閃閃發亮"
+
+msgid "His books are the only things keeping me going in these trying times."
+msgstr "在這麼艱難的時候，只有他的書能讓我繼續撐下去。"
+
+msgid "With the world being the way it is now..."
+msgstr "以這個世界現在的狀態……"
+
+msgid "I'm just glad The Author was able to write down all this stuff before everything went off the rails."
+msgstr "我只慶幸神秘作者能夠在一切變成一團亂之前把這些事全部寫下來。"
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "我一定要知道這本書最後的結尾是什麼……"
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 呃……"
+
+msgid "IF I DIE I WANNA DIE READING!"
+msgstr "如果我快死了，我要看書看到死！"
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko 這塊乾板擦是用金屬做的。"
+
+msgid "cardquest + desk"
+msgstr "尋卡任務+桌子"
+

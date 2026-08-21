@@ -1,0 +1,24 @@
+msgid "Nope... not looking forward to that water shortage."
+msgstr "不……我可不希望發生缺水的情形。"
+
+msgid "Oh, hey there."
+msgstr "喔，你好啊。"
+
+msgid "@niko_pancakes You have a lot of fish!"
+msgstr "@niko_pancakes 你有好多魚喔！"
+
+msgid "Yeah... I'm worried about them."
+msgstr "對啊……我很擔心牠們。"
+
+msgid "@niko Oh?"
+msgstr "@niko 是嗎？"
+
+msgid "I heard something about how the square particle stuff just took out a major pipeline."
+msgstr "聽說那些方塊粒子弄壞了一條主要管線。"
+
+msgid "I guess I should take advantage of the running water while I still can..."
+msgstr "我猜我得趁現在好好利用自來水……"
+
+msgid "@niko_speak It's a big fishtank!"
+msgstr "@niko_speak 好大的魚缸！"
+

@@ -1,0 +1,39 @@
+msgid "[PLEASE TAKE CARE TO NOT TOUCH THE SQUARES.\\>\\nI CANNOT GUARANTEE YOUR WELLBEING IF YOU DO.]"
+msgstr "[FAI ATTENZIONE A NON TOCCARE I QUADRATI.\\>\\nSE LI TOCCHI NON POTRÒ GARANTIRE LA TUA INCOLUMITÀ.]"
+
+msgid "@niko Gotcha."
+msgstr "@niko Capito."
+
+msgid "[THESE SQUARES APPEARED MERE MINUTES AGO.]"
+msgstr "[QUESTI QUADRATI SONO APPARSI GIUSTO QUALCHE MINUTO FA.]"
+
+msgid "@niko Really?"
+msgstr "@niko Davvero?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed Ne ho visti un sacco, perlopiù a bloccare passaggi..."
+
+msgid "[NOT A GOOD SIGN.]"
+msgstr "[NON È UN BUON SEGNO.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ...Eh?"
+
+msgid "[THE WORLD'S DETERIORATION IS ACCELERATING.]"
+msgstr "[LA DETERIORAZIONE DEL MONDO STA ACCELERANDO.]"
+
+msgid "@niko2 ...oh."
+msgstr "@niko2 ...Oh."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[SALVE, PERSONE.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[POCO PIÙ AVANTI ABITANO DUE BAMBINI.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak Io sono una di loro!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+

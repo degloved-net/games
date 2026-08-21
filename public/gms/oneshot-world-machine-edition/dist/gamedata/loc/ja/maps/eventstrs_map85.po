@@ -1,0 +1,297 @@
+msgid "@niko_speak A streetlamp!\\>\\n\\@niko This one seems taller than the others..."
+msgstr "@niko_speak 街灯だ！\\>\\n\\@niko これは他のよりも高さがありそう…"
+
+msgid "@niko \\p and I fixed the camera!"
+msgstr "@niko ミーと \\p でカメラを修理したよ！"
+
+msgid "Aw, sweet!"
+msgstr "おお、やったな！"
+
+msgid "Are you here for your photos?"
+msgstr "写真を撮りにきたのか？"
+
+msgid "@niko_speak Actually, yeah!"
+msgstr "@niko_speak 実はそうなの！"
+
+msgid "@niko I need to take a picture for....\\. reasons."
+msgstr "@niko 写真が必要なんだ。あの…\\. いろいろあって。"
+
+msgid "Well, I got good news and bad news."
+msgstr "なら、いい報せと悪い報せがある。"
+
+msgid "The good news is that the photo center is right behind me."
+msgstr "いい報せは、撮影センターが\n俺のすぐ後ろにあること。"
+
+msgid "@niko The bad news is that.... it doesn't work, right?"
+msgstr "@niko 悪い報せっていうのは…\nちゃんと動かないこと？"
+
+msgid "Heh, you're catching on quick."
+msgstr "はは、察しがいいな。"
+
+msgid "After operations ended in the Barrens, this place got shut down."
+msgstr "不毛の地で作業が終わった後に、\nここは閉鎖したのさ。"
+
+msgid "All of the engineers lost their jobs and became street vendors."
+msgstr "技術者はみんな仕事をなくして、その後\n行商人になった。"
+
+msgid "@niko_speak Maybe \\p and I can figure it out from them!"
+msgstr "@niko_speak ミーと \\p で、その人たちから\n修理方法を聞けるかも！"
+
+msgid "That's good!"
+msgstr "そうか！"
+
+msgid "It would certainly help out people with expired IDs."
+msgstr "身分証明書の有効期限が切れてる者たちも\n助かることだろう。"
+
+msgid "...Like me."
+msgstr "…俺のような、な。"
+
+msgid "@niko No?"
+msgstr "@niko ううん？"
+
+msgid "Alrighty then."
+msgstr "そうか。"
+
+msgid "I'll just... uh..."
+msgstr "俺は…ええと…"
+
+msgid "...stand here."
+msgstr "…ここに立っておこう。"
+
+msgid "@niko This stand smells a bit like burnt sugar..."
+msgstr "@niko この屋台は、焦げた砂糖みたいな匂いがするね…"
+
+msgid "Yup... still gettin' the hang of making these fried candy skewers..."
+msgstr "うん…まだ、揚げキャンディー串を美味しく作るために\n練習してる最中なの…"
+
+msgid "They don't taste too bad, though! Do you want one?"
+msgstr "でも、そこまで不味くないよ！1つどう？"
+
+msgid "@niko It's okay, thank you!"
+msgstr "@niko ううん、大丈夫。ありがとう！"
+
+msgid "@niko_speak You used to be one of the camera engineers, right?"
+msgstr "@niko_speak 昔、カメラの技術者さんだったでしょ？"
+
+msgid "The camera? Oh, joyous memories. We went through thick and thin together."
+msgstr "カメラ？ああ、あの頃は楽しかったなぁ。\n厚遇も薄遇もされたけど、いつも\n一緒に過ごしたものよ。"
+
+msgid "And by that I mean the concave lens did."
+msgstr "もちろん、凹レンズと、ね。"
+
+msgid "@niko_speak This smells kinda nice!"
+msgstr "@niko_speak いい匂いだね！"
+
+msgid "@niko What is it?"
+msgstr "@niko これは何？"
+
+msgid "Breaded fish!"
+msgstr "魚のカツさ！"
+
+msgid "I toasted the bread myself!"
+msgstr "そして衣はオレお手製！"
+
+msgid "@niko_what ...I... see..."
+msgstr "@niko_what …あ…そうなんだ…"
+
+msgid "@niko_speak Is there anything you remember about how to work the camera?"
+msgstr "@niko_speak カメラの動かし方について何か覚えてない？"
+
+msgid "Let me see... When arranging the lenses, make sure that the thin lens is positioned between the two curved ones."
+msgstr "ええと確か…レンズを配置する時は、薄いレンズを\n2つの湾曲レンズの間に置くんだったかな。"
+
+msgid "Hey kid!"
+msgstr "やあ！"
+
+msgid "Want some soup dumplings? They're guaranteed to contain only a minimal amount of industrial byproducts!"
+msgstr "小籠包はどうだい？産業排水の含有量は\n可能な限り少なめだよ。保証しよう！"
+
+msgid "@niko I'll... pass..."
+msgstr "@niko えっと…やめとく…"
+
+msgid "@niko Can you tell me how to get the camera working again?"
+msgstr "@niko カメラをもう一度動かす方法を教えてほしいの！"
+
+msgid "Yes, yes, certainly. The thick lens should be positioned to the left of both of the curved lenses."
+msgstr "うん、うん、もちろんだ。分厚いレンズは、\nどの湾曲レンズよりも左側に設置するのさ。"
+
+msgid "@niko Actually... I do want to hear about it!"
+msgstr "@niko やっぱり…教えてほしい！"
+
+msgid "Curiosity killed the cat, eh?"
+msgstr "好奇心は猫を殺す、ってか？"
+
+msgid "@niko_eyeclosed I'm not a cat..."
+msgstr "@niko_eyeclosed ミーはネコじゃないよ…"
+
+msgid "Ok so!"
+msgstr "よし、でさ！"
+
+msgid "I've invented a medicine to prepare everyone for the upcoming water shortage!"
+msgstr "これからやってくる水不足に備えて、\nみんなのために薬を開発したのさ。"
+
+msgid "All you gotta do is dissolve one of these pills in water."
+msgstr "このピルを1つ、水に溶かすだけでいい。"
+
+msgid "And then you drink the water."
+msgstr "そして、その水を飲む。"
+
+msgid "And then you never need to drink water again!"
+msgstr "そうするとだ。なんと、\n二度と水を飲まなくて済むようになる！"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak すごい！"
+
+msgid "It also makes plants grow faster!"
+msgstr "植物の成長だって速くなるんだぜ！"
+
+msgid "@niko How... does it work?"
+msgstr "@niko それって…どういう仕組みなの？"
+
+msgid "Here, why don't you take a free sample?"
+msgstr "ほら、無料サンプルもってけ。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko Thanks?"
+msgstr "@niko ありがとう？"
+
+msgid "Don't thank me! Go spread the word!"
+msgstr "感謝はいいんだ！周りに広めてさえくれれば！"
+
+msgid "Hey hey!"
+msgstr "なあなあ！"
+
+msgid "Ready for me to blow your mind?"
+msgstr "びっくりすること教えてやろうか？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "Aww, but..."
+msgstr "えええ、でも…"
+
+msgid "@niko_speak Can you tell me how to fix the camera?"
+msgstr "@niko_speak カメラの修理方法を教えてくれない？"
+
+msgid "Hmm... It's been a while."
+msgstr "んー…だいぶ前のことだからなぁ。"
+
+msgid "I'm pretty sure that the bulgy lens goes on one of the ends, but I forget which."
+msgstr "膨らんだレンズは端っこにつけてたと思うんだが、\nどっちの端かは忘れちまった。"
+
+msgid "This is going to help so many people..."
+msgstr "これさえあれば、ものすごい数の人たちを救えるぞ…"
+
+msgid "...and also make me rich and famous and cool."
+msgstr "…そして俺は金持ちで、有名で、イケイケになる。"
+
+msgid "Actually... I exaggerated."
+msgstr "うーん…ちょっと話を盛りすぎたかもな。"
+
+msgid "The effects of the pill wears off in like a week."
+msgstr "ピルの効果は1週間ほどで薄れる。"
+
+msgid "But all you have to do is just take another pill!"
+msgstr "でも、そしたら\nもう1つピルを飲めばいいだけさ！"
+
+msgid "@plight_2 Well, good luck..."
+msgstr "@plight_2 じゃ、頑張って…"
+
+msgid "@niko_speak You too! \\>\\@niko With the lamp."
+msgstr "@niko_speak 君もね！ \\>\\@niko ランプの補充頑張って。"
+
+msgid "@plight Hey, you lookin for something?"
+msgstr "@plight やあ、何か探してるのか？"
+
+msgid "@niko_eyeclosed Yeah... I need to go find a library card now...\\>\\n\\@niko Any idea where I can get one?"
+msgstr "@niko_eyeclosed うん…図書館カードを見つけないと\nいけないんだ…\\>\\n\\@niko どこで手に入るか分かる？"
+
+msgid "@plight From...\\> the...\\> library?"
+msgstr "@plight そりゃ…\\> 図書館…\\> じゃないか？"
+
+msgid "@niko_eyeclosed I tried that already!\\>\\n\\@niko The person in charge wasn't here."
+msgstr "@niko_eyeclosed もう行ってみたんだ！\\>\\n\\@niko 責任者がいなかった。"
+
+msgid "@plight Oh, uh..."
+msgstr "@plight うーむ、そうか…"
+
+msgid "@plight_2 Maybe check out the factory? You just take the stairs at the end of this street and make a turn."
+msgstr "@plight_2 工場を調べてみたらどうかな？この道の\n先にある階段を使って、曲がったところだ。"
+
+msgid "@plight There's a lot of scientists there.\\>\\n\\@plight_worry Scientists... read books, right?"
+msgstr "@plight あそこには科学者がたくさんいる。\\>\\n\\@plight_worry 科学者は…本を読んでる、だろ？"
+
+msgid "@plight They might help you..."
+msgstr "@plight 助けてくれるかも…"
+
+msgid "@niko He looks busy..."
+msgstr "@niko 忙しそう…"
+
+msgid "@plight_why You can tell, huh..."
+msgstr "@plight_why まあね、はぁ…"
+
+msgid "@plight Oh, hey there."
+msgstr "@plight おっ、よう。"
+
+msgid "@plight_2 You, uh... \\.\\.doing okay?"
+msgstr "@plight_2 その、あー… \\.\\.元気か？"
+
+msgid "@niko Yup!\\>\\n\\@niko_speak What are you doing?"
+msgstr "@niko うん！\\>\\n\\@niko_speak 何してるの？"
+
+msgid "@plight Just filling this lamp here..."
+msgstr "@plight ランプを補充してるんだ…"
+
+msgid "@plight_2 It's...\\.\\.\\. taking a while..."
+msgstr "@plight_2 けっこう時間が…\\.\\.\\. かかってる…"
+
+msgid "@plight_worry I...\\.\\. think it might be leaking..."
+msgstr "@plight_worry もしかしたら…\\.\\. 漏れてるのかも…"
+
+msgid "@plight Well, good luck..."
+msgstr "@plight じゃ、頑張って…"
+
+msgid "@plight Thanks for taking them off my hands, I guess?\\>\\nThe lenses, that is."
+msgstr "@plight 引き取ってくれてありがとう。\\>\\nレンズのことな。"
+
+msgid "@plight_2b The scientists wanted me to use them to fix the camera in the photo booth, but..."
+msgstr "@plight_2b 科学者の連中は、撮影部屋のカメラを\n修理するのにそれを使えって言ってたけど…"
+
+msgid "@plight_why ...you can imagine how that went."
+msgstr "@plight_why …結果どうなったかは、想像できるだろ。"
+
+msgid "@plight_worry I'm just glad I didn't break anything..."
+msgstr "@plight_worry 何も壊さずに済んで良かった…"
+
+msgid "@plight_shock Hey! Isn't that..."
+msgstr "@plight_shock おい！それって…"
+
+msgid "@plight_wtf ..."
+msgstr "@plight_wtf …"
+
+msgid "@plight_worry (oH GOODNESS GRACIOUS DID THE MESSIAH AND LITERALLY GOD THEMSELF JUST BREAK INTO MY HOUSE.)"
+msgstr "@plight_worry （なんてこった…救世主と「神様」が\nおれの家に侵入したっていうのか…）"
+
+msgid "@niko_speak Oh! Was that... your..."
+msgstr "@niko_speak あっ！これって…君の…"
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf 聞こえてたのか？？"
+
+msgid "@plight_worry (IT KEEPS HAPPENING.)"
+msgstr "@plight_worry （またこれか…）"
+
+msgid "@niko_eyeclosed ...sorry about breaking into your house.\\>\\n\\@niko We didn't actually break anything, but..."
+msgstr "@niko_eyeclosed …勝手に家に入ってごめんなさい。\\>\\n\\@niko 何も壊してない、けど…"
+
+msgid "@niko_speak \\p said I should take these plastic disks, for some reason?\\>\\n\\@niko Should we put them back?"
+msgstr "@niko_speak \\p が、この板は\n持っていけって…理由は分からないけど…\\>\\n\\@niko 戻したほうがいいかな？"
+
+msgid "@plight_2 It's okay, keep 'em."
+msgstr "@plight_2 いいよ、持っていきな。"
+
+msgid "@plight_worry I wouldn't have been able to fix that machine anyway..."
+msgstr "@plight_worry どっちみち、おれにはあの機械を\n修理できそうにないから…"
+

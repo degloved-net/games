@@ -1,0 +1,36 @@
+msgid "..............."
+msgstr "..............."
+
+msgid "@niko ......................."
+msgstr "@niko ......................."
+
+msgid "..............................."
+msgstr "..............................."
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak ..................................."
+
+msgid "............................................."
+msgstr "............................................."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed Понятно..."
+
+msgid "@niko2 H-hello, penguin?"
+msgstr "@niko2 П-привет, пингвин?"
+
+msgid "@niko It's a big penguin plush!"
+msgstr "@niko Это большой плюшевый пингвин!"
+
+msgid "@niko_speak Hello, penguin!"
+msgstr "@niko_speak Привет, пингвин!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko It's a pink flower."
+msgstr "@niko Это розовый цветок."
+
+msgid "@niko It's a wall of family photos."
+msgstr "@niko Тут на стене семейные фотографии."
+

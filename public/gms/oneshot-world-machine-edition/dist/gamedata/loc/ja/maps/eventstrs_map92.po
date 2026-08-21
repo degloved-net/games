@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko ロボットだ。直せそうにないね…"
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh 頭だけ…"
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh 頭だけだ。げぇっ。"
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko ロボットの一部だ。すごい傷…"
+
+msgid "@niko A big machine..."
+msgstr "@niko 大きい機械…"
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko 金属を砕くためのプレスみたい。"
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak えっと… \\>\\@niko これでパイプを潰せば\nいいの、 \\p？"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh うわぁ、でもあまり近づきたくないな…"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed 怖かった…"
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf …\\p！"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed ここに太陽は置かないからね！"
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko なぜ…\\.\\. ここでビンを割るの、 \\p？"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak 破片が散らばるよ！"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed もう二度とこれを使わなくて\n済むといいね、 \\p…"
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak わぉ！この機械、まだ動いてるよ！"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko あんまり近づかないほうが良さそうだね…"
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf も…もしスカーフが挟まったら…？\nそしたらミーが巻き込まれて、それで…"
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh …考えるのはやめよう。"
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed ロボットの腕の残骸。"
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed 何なのかすら分からない…"
+

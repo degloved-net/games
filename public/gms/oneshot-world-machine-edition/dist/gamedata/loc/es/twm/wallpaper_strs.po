@@ -1,0 +1,72 @@
+msgid "default=The World Machine"
+msgstr "La Máquina Del Mundo"
+
+msgid "barrens=Barrens Craters"
+msgstr "Cráteres De Los Baldíos"
+
+msgid "glen=Glen Shoreline"
+msgstr "La Costa Del Valle"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "Paisaje Del Refugio"
+
+msgid "niko=Messiah"
+msgstr "El Mesías"
+
+msgid "title=My Burden is Light"
+msgstr "Mi Carga Es Luz"
+
+msgid "planet=Asteroid"
+msgstr "Asteroide"
+
+msgid "black=Blank"
+msgstr "En Blanco"
+
+msgid "lamp=Outpost"
+msgstr "Avanzada"
+
+msgid "factory=Factory"
+msgstr "La Fábrica"
+
+msgid "navigate=Navigate"
+msgstr "Navegar"
+
+msgid "courtyard=Courtyard"
+msgstr "Patio"
+
+msgid "ruins=Calamus and Alula"
+msgstr "Calamus y Alula"
+
+msgid "catwalks=Catwalks"
+msgstr "Pasarelas"
+
+msgid "lamplighter=Lamplighter"
+msgstr "Don Farolero"
+
+msgid "cafe=Café"
+msgstr "Café"
+
+msgid "library=Library Stroll"
+msgstr "Paseo Por La Biblioteca"
+
+msgid "secret=Secret RAM Club"
+msgstr "Club Secreto RAM"
+
+msgid "tower=Tower"
+msgstr "La Torre"
+
+msgid "plant=Maize"
+msgstr "Maize"
+
+msgid "minecart=Prophets"
+msgstr "Profetas"
+
+msgid "siblings=Memory"
+msgstr "Memoria"
+
+msgid "world_machine=Reflection"
+msgstr "Reflejo"
+
+msgid "from_niko=From Niko"
+msgstr "De Niko"
+

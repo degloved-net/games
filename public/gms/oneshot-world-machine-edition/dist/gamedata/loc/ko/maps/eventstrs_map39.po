@@ -1,0 +1,144 @@
+msgid "@niko2 It's the sun."
+msgstr "@niko2 태양이에요."
+
+msgid "@niko We're leaving it with her for now."
+msgstr "@niko 잠깐만 여기 두고 가요."
+
+msgid "@alula_pout ...ah."
+msgstr "@alula_pout ...아."
+
+msgid "@niko_surprised T-\\.The light's gone out...!"
+msgstr "@niko_surprised 비... \\.빛이 꺼져 버렸어...!"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@niko_distressed \\p..."
+msgstr "@niko_distressed \\p 님..."
+
+msgid "@niko_distressed2 Do you know... what happened?"
+msgstr "@niko_distressed2 어떻게 된 건지... 아세요?"
+
+msgid "[\"No\"]"
+msgstr "[\"아니\"]"
+
+msgid "@niko_speak You...\\.\\. \\@niko really?"
+msgstr "@niko_speak 정말...\\.\\.\\@niko 로요?"
+
+msgid "@niko_speak but...\\. but...\\.\\."
+msgstr "@niko_speak 하지만...\\. 그치만...\\.\\."
+
+msgid "@niko_distressed Oh....."
+msgstr "@niko_distressed 아..."
+
+msgid "@niko_distressed What am I gonna do?"
+msgstr "@niko_distressed 이제 어쩌면 좋죠?"
+
+msgid "@niko_speak It...\\. lit up again?"
+msgstr "@niko_speak 다시... \\.불이 켜졌네요?"
+
+msgid "@niko_eyeclosed ...phew."
+msgstr "@niko_eyeclosed ...휴우."
+
+msgid "@niko What should I do, \\p?"
+msgstr "@niko 어떡하죠, \\p 님?"
+
+msgid "[\"Give her the sun\", \"Don't\"]"
+msgstr "[\"태양을 주자\",\"안 돼\"]"
+
+msgid "@niko Here!"
+msgstr "@niko 여기 있어요!"
+
+msgid "@maize .\\..\\..\\..\\..\\.."
+msgstr "@maize .\\..\\..\\..\\..\\.."
+
+msgid "@maize .......\\.warm..."
+msgstr "@maize ...\\.따뜻해..."
+
+msgid "@maize_smile1 I have... almost forgotten..."
+msgstr "@maize_smile1 거의... 잊고 있었어..."
+
+msgid "@maize_smile1 It's so warm..."
+msgstr "@maize_smile1 정말 따뜻해..."
+
+msgid "@niko That's... good, right?"
+msgstr "@niko 정말... 좋죠?"
+
+msgid "@maize_smile1 Th...the vines should be gone now..."
+msgstr "@maize_smile1 이제 덩굴은 사라졌을 거야..."
+
+msgid "@maize_smile2 I'm not afraid anymore."
+msgstr "@maize_smile2 이제 무섭지 않아."
+
+msgid "@maize_smile2 Thank you..."
+msgstr "@maize_smile2 정말 고마워..."
+
+msgid "@alula_oh ...\\.\\.\\@alula_pout ..."
+msgstr "@alula_oh ...\\.\\.\\@alula_pout ..."
+
+msgid "@niko_speak ...Alula? You okay?"
+msgstr "@niko_speak ...알룰라? 괜찮아?"
+
+msgid "@niko_eyeclosed ...she just looked away."
+msgstr "@niko_eyeclosed ...알룰라가 그냥 고개를 돌려 버렸어요."
+
+msgid "@niko_distressed2 She's gone..."
+msgstr "@niko_distressed2 사라졌어요..."
+
+msgid "@niko Oh... \\>\\nThere's something on the ground here."
+msgstr "@niko 아... \\>\\n땅에 뭔가가 떨어져 있어요."
+
+msgid "@niko_speak It looks like... a kernel of corn?"
+msgstr "@niko_speak 이건...옥수수 낟알 같은데요?"
+
+msgid "@niko She must've left it behind."
+msgstr "@niko 그 여자분이 남기고 갔나 봐요."
+
+msgid "@maize ...S...\\.\\. savior...?"
+msgstr "@maize ...구...\\.\\.구원자...?"
+
+msgid "@maize I can't believe it...\\.\\.\\nYou're real..."
+msgstr "@maize 믿을 수 없어...\\.\\.\\n정말이었구나..."
+
+msgid "@niko_shock ....miss?"
+msgstr "@niko_shock ...저기요?"
+
+msgid "@niko_speak Are you... alright?"
+msgstr "@niko_speak 저기... 괜찮으세요?"
+
+msgid "@maize No...."
+msgstr "@maize 아니..."
+
+msgid "@niko_speak W-we should get you to the village! \\.\\.\\nMaybe they could-"
+msgstr "@niko_speak 저, 제가 마을로 데려다드릴게요! \\.\\.\\n그러면 분명-"
+
+msgid "@maize It's.... okay...\\.\\nIt's okay.....\\.\\n...too late for me."
+msgstr "@maize 괜...찮아...\\.\\n괜찮아...\\.\\n...난 이제 틀렸어."
+
+msgid "@niko_speak But..."
+msgstr "@niko_speak 그렇지만..."
+
+msgid "@maize ...the sun...."
+msgstr "@maize ...태양...."
+
+msgid "@maize I haven't seen it... I haven't felt it in so long..."
+msgstr "@maize 오랫동안... 못 봤어... 오랫동안... 느끼지 못했어..."
+
+msgid "@maize ...\\.\\.Savior, if it's not too much trouble...\\.\\.\\nCan you lend me the sun for a while?"
+msgstr "@maize ...\\.\\.구원자야, 혹시 폐가 되지 않는다면...\\.\\.\\n내게 그 태양을 좀 빌려주지 않겠니?"
+
+msgid "@niko I...\\.\\. \\@niko_speak Will it make you better?"
+msgstr "@niko 그러면...\\.\\.\\@niko_speak 좀 나아질 것 같으세요?"
+
+msgid "@maize .\\..\\..\\.No.\\. It will not save me."
+msgstr "@maize .\\..\\..\\.아니.\\. 그렇게 해도 난 구원받지 못할 거야."
+
+msgid "@maize I just want to experience the sun one more time before I... \\.\\.Well..."
+msgstr "@maize 단지 한 번만 더 태양을 느껴보고 싶어.\\.\\.마지막으로..."
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@maize Would it...\\.\\.\\nWould it be too selfish of me to ask?"
+msgstr "@maize 이기적인 부탁일지도 모르지만...\\.\\.\\n들어 주겠니?"
+

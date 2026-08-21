@@ -1,0 +1,15 @@
+msgid "@niko A small potted plant."
+msgstr "@niko 小さな鉢植え。"
+
+msgid "@niko There's a pair of scissors on the ground...."
+msgstr "@niko ハサミが落ちてる…"
+
+msgid "@niko ...on... a pile of hair?"
+msgstr "@niko …何でこんな…髪の毛だらけのとこに？"
+
+msgid "@niko I don't think anyone's using it anymore, so..."
+msgstr "@niko もう誰も使ってなさそうだし…"
+
+msgid "@niko Soap dispenser."
+msgstr "@niko 石鹸が出てくる機械だ。"
+

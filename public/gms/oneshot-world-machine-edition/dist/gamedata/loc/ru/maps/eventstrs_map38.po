@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[ВЫ НАШЛИ ИСТОЧНИК СИГНАЛА БЕДСТВИЯ?]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[ЭТИ ЛОЗЫ ПОЯВИЛИСЬ СЧИТАННЫЕ МИНУТЫ НАЗАД.]"
+
+msgid "@niko Really?"
+msgstr "@niko Правда?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed Я очень много их видел в дверях и в других местах..."
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko Я полагал, это потому, что это место заброшено..."
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[ПРИЗНАК ТЯЖЁЛОГО ПОЛОЖЕНИЯ.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko Чего?.."
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[ЖИВОМУ СУЩЕСТВУ ТРЕБУЕТСЯ ПОМОЩЬ.]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[НО Я НЕ МОГУ ОПРЕДЕЛИТЬ ИСТОЧНИК.]"
+
+msgid "@niko ...ah."
+msgstr "@niko А..."
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[ЛОЗЫ ОТСТУПИЛИ.]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[ВЫ ЗНАЕТЕ, ЧТО ПРОИЗОШЛО?]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko Я нашёл эту... девушку-растение."
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed Она еле держалась..."
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko Я пока отдал ей солнце, но..."
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed Она сказала, что для неё уже слишком поздно..."
+
+msgid "[I UNDERSTAND.]"
+msgstr "[ПОНИМАЮ.]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[НАДО ДОЛОЖИТЬ ОБ ЭТОМ В ГОРОД.]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko Дорогу преграждают спутанные лозы..."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[ПРИВЕТ, ЛЮДИ.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[ТУТ НЕПОДАЛЁКУ ОБИТАЕТ ДВОЕ ДЕТЕЙ.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak Я одна из них!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[ПРИВЕТ, ЧЕЛОВЕК.]"
+

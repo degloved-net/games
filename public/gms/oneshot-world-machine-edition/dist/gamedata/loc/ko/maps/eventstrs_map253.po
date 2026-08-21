@@ -1,0 +1,21 @@
+msgid "@niko I'm not sleepy anymore."
+msgstr "@niko 이제 졸리지 않아요."
+
+msgid "@niko_speak I can't sleep now, \\p!\\>\\n\\@niko I need to get Calamus and Alula to the sacred grounds."
+msgstr "@niko_speak \\p 님, 전 아직 잘 수 없어요!\\>\\n\\@niko 먼저 칼라무스와 알룰라를 성스러운 땅으로 보내야 해요."
+
+msgid "@niko_speak I can't sleep now, \\p!\\>\\n\\@niko I need to get Alula to her brother first."
+msgstr "@niko_speak \\p 님, 전 아직 잘 수 없어요!\\>\\n\\@niko 먼저 알룰라를 오빠에게 데려다줘야 해요."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed 걷느라 좀 지쳤네요."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak 잠깐만 자도 되나요?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed 아, 알겠어요... \\>\\n\\@niko 해야 할 일이 더 있는 모양이네요."
+

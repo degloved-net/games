@@ -1,0 +1,288 @@
+msgid "@shepherd My rams clock at 1333 megaherds."
+msgstr "@shepherd 我家的公羊記憶體時脈速度是1333羊赫。"
+
+msgid "@niko ...what?"
+msgstr "@niko ……什麼？"
+
+msgid "@shepherd You're heading to the city, aren't you?"
+msgstr "@shepherd 你要前往城市，對吧？"
+
+msgid "@shepherd Been there, done that."
+msgstr "@shepherd 我也去過。"
+
+msgid "@shepherd Too cramped, you know?"
+msgstr "@shepherd 那邊太擠了，你知道嗎？"
+
+msgid "@shepherd But it's not like this place is getting any bigger with the rising waters and all."
+msgstr "@shepherd 但是海平面不斷上升，這裡的陸地也只減不增。"
+
+msgid "@shepherd Hm...maybe the city isn't so bad after all..."
+msgstr "@shepherd 嗯……也許城市其實沒那麼糟……"
+
+msgid "@shepherd The rams are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd 公羊都站在不湊巧的位置上。\\n你得把牠們趕到更暗的苔蘚那邊。"
+
+msgid "@shepherd If you get stuck, ring a bell and they'll all return to their original positions."
+msgstr "@shepherd 如果你卡住了，拉響鈴鐺，牠們就會回到原來的位置。"
+
+msgid "@shepherd Good luck."
+msgstr "@shepherd 祝你好運。"
+
+msgid "@niko Hello."
+msgstr "@niko 你好。"
+
+msgid "@shepherd Hm...\\nI need someone to help me herd my rams..."
+msgstr "@shepherd 嗯……\\n我需要有人幫我放羊……"
+
+msgid "@niko_speak Oh! \\.\\@niko I can do that!"
+msgstr "@niko_speak 喔！\\.\\@niko 我可以幫忙！"
+
+msgid "@niko I've seen some grownups do it back home... \\@niko_speak You kinda just push them around!"
+msgstr "@niko 我在家鄉看別的大人做過……\\@niko_speak 只要趕著牠們走來走去就好！"
+
+msgid "@shepherd Hmm...\\.\\. But you are carrying the sun."
+msgstr "@shepherd 嗯……\\.\\.可是你手上拿著太陽。"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 這樣啊……"
+
+msgid "@niko_speak Wait, can't you just... watch the sun for me?"
+msgstr "@niko_speak 等等，你不能……幫我保管一下太陽嗎？"
+
+msgid "@shepherd I cannot.\\nI am but a simple shepherd."
+msgstr "@shepherd 辦不到。\\n我只是個單純的牧羊人。"
+
+msgid "@niko_eyeclosed Um... okay..."
+msgstr "@niko_eyeclosed 呃……好吧……"
+
+msgid "@shepherd Come back when your hands are free. You will be rewarded if you can herd my rams."
+msgstr "@shepherd 等你能空出雙手的時候再回來吧。如果你能幫我放羊，我會給你酬勞。"
+
+msgid "@shepherd Oh. I see your hands are now free."
+msgstr "@shepherd 喔，我看到你空出雙手了。"
+
+msgid "@shepherd Would you like to help me herd my rams?\\nThere's a great reward in store for you, I promise."
+msgstr "@shepherd 你要幫我放羊嗎？\\n我保證會給你很棒的酬勞喔。"
+
+msgid "@niko Uh..."
+msgstr "@niko 呃……"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@shepherd Excellent!\\nTo the south is a peninsula inhabited by my rams."
+msgstr "@shepherd 太好啦！\\n往南有一座半島，我的公羊就住在那邊。"
+
+msgid "@shepherd They are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd 牠們都站在不湊巧的位置上。\\n你得把牠們趕到更暗的苔蘚那邊。"
+
+msgid "@niko Looks like we gotta herd some rams now, Alula."
+msgstr "@niko 看來我們得幫忙牧羊了，阿露。"
+
+msgid "@alula Can I help?"
+msgstr "@alula 我可以幫忙嗎？"
+
+msgid "@niko_speak Sure!"
+msgstr "@niko_speak 當然可以！"
+
+msgid "@shepherd Very well.\\> Come back when you reconsider."
+msgstr "@shepherd 好吧。\\>如果改變心意了請再回來。"
+
+msgid "The crops have been growing poorly without the sun...\\nAnd there's no telling how long our surpluses will last."
+msgstr "沒有了太陽，作物都長不好……\\n沒有人知道我們的存糧還能撐多久。"
+
+msgid "Please, savior, you have to hurry!"
+msgstr "拜託，救世主，你必須加快腳步！"
+
+msgid "@niko_speak I..."
+msgstr "@niko_speak 我……"
+
+msgid "@niko I'll do my best."
+msgstr "@niko 我會盡力的。"
+
+msgid "The light from these lanterns will have to do for now."
+msgstr "現在只能靠這些燈籠的燈光了。"
+
+msgid "I'm starting to see some very small sprouts."
+msgstr "我開始看到一些非常細小的幼苗。"
+
+msgid "It will probably take some time for these to bear fruit..."
+msgstr "等它們長到可以結果，可能需要很長的時間……"
+
+msgid "Most of the green moss covering our village has already lost its glow..."
+msgstr "在我們村莊遍地生長的綠苔蘚大多已經失去了光芒……"
+
+msgid "If it wasn't for the thin strip left on the boundaries of the land, people could easily fall into the ocean."
+msgstr "若不是陸地的邊界還留著這狹窄的一條，人們很容易就會失足掉進海裡。"
+
+msgid "Without light, land and water becomes indistinguishable here."
+msgstr "沒有了光，這裡的陸地和水變得難以區別。"
+
+msgid "Wooow!"
+msgstr "哇啊！"
+
+msgid "Is that the sun?"
+msgstr "那是太陽嗎？"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak 對！"
+
+msgid "And you're holding it?"
+msgstr "而且你還把它拿在手上？"
+
+msgid "Isn't it hot?"
+msgstr "不燙嗎？"
+
+msgid "@niko Not really!"
+msgstr "@niko 不會耶！"
+
+msgid "@niko It's nice and warm!"
+msgstr "@niko 它很溫暖很舒服！"
+
+msgid "Your eyes glow in the dark!"
+msgstr "你的眼睛會在黑暗中發光！"
+
+msgid "Just like the sun!"
+msgstr "就像太陽一樣！"
+
+msgid "@alula_speak That's what I said!"
+msgstr "@alula_speak 我也是這麼說！"
+
+msgid "The land is fragmenting at an alarming rate..."
+msgstr "陸地正以驚人的速度分裂……"
+
+msgid "I don't like to think about the day when this town finally loses to the intruding sea."
+msgstr "我不敢想像這座小鎮終於被入侵的海吞沒的那一天。"
+
+msgid "We'll have to find another place to settle..."
+msgstr "我們得另覓居處了……"
+
+msgid "@niko_speak Apparently this moss tastes like fish!"
+msgstr "@niko_speak 苔蘚的味道真的好像魚！"
+
+msgid "@niko_eyeclosed That's... actually kinda weird."
+msgstr "@niko_eyeclosed 那其實……還滿怪的。"
+
+msgid "@niko I suppose I could just eat one, but..."
+msgstr "@niko 我想我應該可以吃一個，可是……"
+
+msgid "@niko_speak You know what they say about curiosity and the cat!"
+msgstr "@niko_speak 你知道俗話說的，好奇心會讓貓怎麼樣！"
+
+msgid "@niko_eyeclosed Not that I'm a cat..."
+msgstr "@niko_eyeclosed 雖然我不是貓就是了……"
+
+msgid "@niko This ram is chewing on a ball of moss."
+msgstr "@niko 這隻公羊在咀嚼一團苔蘚。"
+
+msgid "@alula_speak Moss is tasty!"
+msgstr "@alula_speak 苔蘚很好吃喔！"
+
+msgid "@niko_speak Oh? \\.\\.\\@niko What do they taste like?"
+msgstr "@niko_speak 哦？\\.\\.\\@niko 吃起來是什麼味道呢？"
+
+msgid "@alula Fish!"
+msgstr "@alula 像魚！"
+
+msgid "@niko_speak Seriously?"
+msgstr "@niko_speak 真的假的？"
+
+msgid "@alula_pout Oh, but you have to pick out the darker ones to eat."
+msgstr "@alula_pout 喔，但是你要摘那些顏色比較深的吃。"
+
+msgid "@alula_speak Wouldn't wanna eat the glowy stuff!"
+msgstr "@alula_speak 不可以吃會發光的喔！"
+
+msgid "@alula That'd be silly."
+msgstr "@alula 吃發光苔蘚是愚蠢的行為。"
+
+msgid "@alula_pout And wasteful!"
+msgstr "@alula_pout 而且很浪費！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak Now I'm curious!"
+msgstr "@niko_speak 我開始覺得好奇了！"
+
+msgid "@niko_speak What do you think they taste like, \\p?"
+msgstr "@niko_speak \\p，你覺得它們吃起來會是什麼味道？"
+
+msgid "@niko_eyeclosed The moss, not the ram..."
+msgstr "@niko_eyeclosed 我是說苔蘚，不是羊……"
+
+msgid "@niko An empty jar."
+msgstr "@niko 空罐子。"
+
+msgid "@niko This jar is full of milk."
+msgstr "@niko 這個罐子裝滿牛奶。"
+
+msgid "@niko_speak Milk makes you grow taller!"
+msgstr "@niko_speak 牛奶可以讓你長高！"
+
+msgid "@niko That's what mama always says."
+msgstr "@niko 我媽媽每次都這樣說。"
+
+msgid "@niko This jar is full of dry beans."
+msgstr "@niko 這個罐子裝滿乾豆子。"
+
+msgid "@niko Two jars."
+msgstr "@niko 兩個罐子。"
+
+msgid "@niko I don't know what's in this jar, but it smells kinda like pickles!"
+msgstr "@niko 我不知道這個罐子裡裝著什麼，不過聞起來有點像醬菜！"
+
+msgid "@alula_speak I like pickles!"
+msgstr "@alula_speak 我喜歡醬菜！"
+
+msgid "@niko_eyeclosed I don't!"
+msgstr "@niko_eyeclosed 我不喜歡！"
+
+msgid "@niko These jars are filled with water."
+msgstr "@niko 這些罐子裝滿了水。"
+
+msgid "@niko This jar smells like alcohol."
+msgstr "@niko 這個罐子有酒味。"
+
+msgid "@niko_speak ...gross!"
+msgstr "@niko_speak ……好噁！"
+
+msgid "@niko I wonder why grown-ups like to drink this stuff?"
+msgstr "@niko 真不懂為什麼大人愛喝這種東西？"
+
+msgid "@niko Alcohol is for setting things on fire."
+msgstr "@niko 酒精是用來點火的。"
+
+msgid "@alula What's a fire?"
+msgstr "@alula 火是什麼東西？"
+
+msgid "@niko_eyeclosed We have much to discuss."
+msgstr "@niko_eyeclosed 要討論的可多了。"
+
+msgid "@niko It smells nice!"
+msgstr "@niko 好香！"
+
+msgid "@niko It's a firefly jar."
+msgstr "@niko 一罐螢火蟲。"
+
+msgid "@alula_gasp Gaaaaaaaasp!"
+msgstr "@alula_gasp 嚇──！"
+
+msgid "@niko_speak There's peas in there!"
+msgstr "@niko_speak 裡面有豌豆！"
+
+msgid "@niko Some jars filled with grains."
+msgstr "@niko 一些裝滿穀物的罐子。"
+
+msgid "@niko There's water in this jar."
+msgstr "@niko 這個罐子裡有水。"
+
+msgid "@niko A jar full of small rocks."
+msgstr "@niko 一罐小石頭。"
+
+msgid "@shepherd You've provided a great service for all of ramkind.\\nIn return...\\.\\nTake this fine ram wool."
+msgstr "@shepherd 你為所有的公羊貢獻了偉大的服務。\\n作為回報……\\.\\n請收下這些高級公羊毛。"
+
+msgid "@niko Oh, uh... thanks."
+msgstr "@niko 喔，呃……謝謝。"
+

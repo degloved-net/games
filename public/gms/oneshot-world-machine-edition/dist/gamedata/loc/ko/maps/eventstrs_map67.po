@@ -1,0 +1,927 @@
+msgid "@cedric_talk It's you!"
+msgstr "@cedric_talk 너구나!"
+
+msgid "@niko !"
+msgstr "@niko !"
+
+msgid "@cedric_smile You are Niko, right?"
+msgstr "@cedric_smile 니코, 맞지?"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak 네!"
+
+msgid "@cedric_hmm You... um..."
+msgstr "@cedric_hmm 음..."
+
+msgid "@niko My name is Niko..."
+msgstr "@niko 제 이름은 니코..."
+
+msgid "@cedric_smile Ah!"
+msgstr "@cedric_smile 아!"
+
+msgid "@cedric_smile N-\\.\\.nice finally to meet you! \\@cedric_hmm \\>...no, wait."
+msgstr "@cedric_smile 드디어- \\.\\.만났네! \\@cedric_hmm \\>...아니다, 잠깐."
+
+msgid "@cedric_sigh It is a pleasure to be of acquaintance at last, Niko."
+msgstr "@cedric_sigh 드디어 이렇게 만나게 돼서 정말 기뻐, 니코."
+
+msgid "@cedric_smile My name is Cedric."
+msgstr "@cedric_smile 나는 세드릭이야."
+
+msgid "@niko2 Oh!"
+msgstr "@niko2 오!"
+
+msgid "@niko I'm supposed to be looking for you too!"
+msgstr "@niko 저도 당신을 찾고 있었어요!"
+
+msgid "@cedric I am aware."
+msgstr "@cedric 알고 있어."
+
+msgid "@cedric_hmm Prototype had contacted me earlier, saying that you would be on your way to the city."
+msgstr "@cedric_hmm 프로토타입이 연락해서, 네가 도시로 오고 있다고 말해 줬거든."
+
+msgid "@niko_speak He did?"
+msgstr "@niko_speak 프로토타입이요?"
+
+msgid "@cedric He sent me a message after his memories were restored."
+msgstr "@cedric 메모리가 복원된 후에 내게 메시지를 보냈지."
+
+msgid "@niko Oh..."
+msgstr "@niko 아..."
+
+msgid "@cedric_hmm He told me to wait in the city, but I thought it'd be faster for me to pick you guys up."
+msgstr "@cedric_hmm 도시에서 기다리라고 했지만, 너희들을 데리러 가는 것이 빠르겠다고 생각했어."
+
+msgid "@cedric_sigh ...Turns out, that was a terrible idea."
+msgstr "@cedric_sigh ...알고 보니 끔찍한 생각이었지."
+
+msgid "@niko2 Pick... us up?"
+msgstr "@niko2 우리를... 데리러 온다고요?"
+
+msgid "@niko_pancakes ...wait... YOU can fly that plane??"
+msgstr "@niko_pancakes ...잠시만요... 저 비행기를 운전할 수 있어요??"
+
+msgid "@cedric_hmm What...\\.\\. is a plane?"
+msgstr "@cedric_hmm 비행기라...\\.\\. 그게 뭐지?"
+
+msgid "@niko_speak That thing behind you!"
+msgstr "@niko_speak 당신 뒤에 있는 거요!"
+
+msgid "@cedric_talk Oh! You mean the flying machine?"
+msgstr "@cedric_talk 오! 하늘을 나는 기계 말이야?"
+
+msgid "@niko_speak They're called planes in my world!"
+msgstr "@niko_speak 제가 사는 곳에서는 비행기라고 불러요!"
+
+msgid "@cedric_hmm Oh..."
+msgstr "@cedric_hmm 아..."
+
+msgid "@cedric_sigh ...I did not realize they existed in other worlds..."
+msgstr "@cedric_sigh ...저게 다른 세상에도 있는지 몰랐네..."
+
+msgid "@niko_speak ...wait! Are you the friend that Calamus and Alula was talking about, then?"
+msgstr "@niko_speak ...엇! 혹시 당신, 칼라무스와 알룰라가 말한 그 친구예요?"
+
+msgid "@niko_speak Is this the same flying machine they were talking about?"
+msgstr "@niko_speak 저게 바로 그 둘이 말한 하늘을 나는 기계인가요?"
+
+msgid "@cedric I do not know anyone named Calamus or Alula."
+msgstr "@cedric 칼라무스나 알룰라라는 사람은 모르는데."
+
+msgid "@cedric_talk I think... they're meant to be friends with my father. \\>\\n\\@cedric_hmm ...in previous iterations of the..."
+msgstr "@cedric_talk 내 생각에는... 아버지의 친구인 것 같아. \\>\\n\\@cedric_hmm ...아마 지난번 실험에서..."
+
+msgid "@niko2 ...your father?"
+msgstr "@niko2 ...당신의 아버지요?"
+
+msgid "@cedric_talk He was the original owner of the flying machine... \\>\\n\\@cedric_hmm ...it's... one of his greatest inventions, actually."
+msgstr "@cedric_talk 하늘을 나는 기계는 원래 아버지 것이었어... \\>\\n\\@cedric_hmm ...아버지가 만든 최고의 발명품 중 하나기도 하지..."
+
+msgid "@niko_pancakes YOUR DAD INVENTED PLANES???"
+msgstr "@niko_pancakes 아버지가 비행기를 발명했다고요???"
+
+msgid "@cedric_hmm ...flying machine."
+msgstr "@cedric_hmm ...하늘을 나는 기계라니까."
+
+msgid "@niko_pancakes IT'S COOL EITHER WAY!!"
+msgstr "@niko_pancakes 어쨌든 굉장하네요!!"
+
+msgid "@cedric_smile Thanks?"
+msgstr "@cedric_smile 어, 고마워."
+
+msgid "@cedric_talk But to answer your earlier question... I am proficient in operating the machine."
+msgstr "@cedric_talk 어쨌든 네가 아까 했던 질문에 대답하자면... 나는 이 기계를 잘 다루지."
+
+msgid "@cedric_hmm ...but ...something weird happened to the engine when I was in the air earlier..."
+msgstr "@cedric_hmm ...그런데... 지난번에 하늘을 날다가 엔진에 이상한 문제가 생겼어..."
+
+msgid "@cedric_sigh I had to make an emergency landing on this tiny island before I crashed into the city wall."
+msgstr "@cedric_sigh 이 작은 섬에 비상 착륙을 해야 했어. 안 그랬으면 도시 벽으로 추락했을 거야."
+
+msgid "@niko3 You almost crashed? \\>\\n\\@niko4 That's terrible!"
+msgstr "@niko3 추락할 뻔했다고요? \\>\\n\\@niko4 끔찍한 일이네요!"
+
+msgid "@cedric_sigh It was not pleasant, I will admit."
+msgstr "@cedric_sigh 솔직히 말해서 즐거웠다고 할 순 없지.\\n\\>"
+
+msgid "@cedric_hmm I wonder if the engine problem has to do with the square particle disruptions..."
+msgstr "@cedric_hmm 엔진 문제가 그 사각형 입자와 관련이 있는지 궁금해서..."
+
+msgid "@cedric I checked, but... there isn't any of that square stuff inside the machine itself."
+msgstr "@cedric 확인해 봤는데... 기계 안에는 사각형이 없었어."
+
+msgid "@cedric_hmm ...but I noticed some islands in the Glen are REALLY messed up now."
+msgstr "@cedric_hmm ...하지만 협곡의 몇몇 섬은 완전히 엉망이 됐더라."
+
+msgid "@niko_eyeclosed They are..."
+msgstr "@niko_eyeclosed 그건..."
+
+msgid "@cedric_sigh Sigh. \\>\\nGuess I should have listened to Proto in the first place."
+msgstr "@cedric_sigh 하아. \\>\\n처음부터 프로토의 말을 들었어야 했나 봐."
+
+msgid "@cedric_hmm ...say, where is he?"
+msgstr "@cedric_hmm ...그런데 프로토는 어디 있지?"
+
+msgid "@cedric_talk He said he was coming with you..."
+msgstr "@cedric_talk 너랑 함께 온다고 했는데..."
+
+msgid "@cedric Is he still back at the main islands?"
+msgstr "@cedric 아직 본 섬에 있나?"
+
+msgid "@niko3 Oh... actually..."
+msgstr "@niko3 아... 사실..."
+
+msgid "@niko4 ...back at the Barrens, he..."
+msgstr "@niko4 ...불모지에서..."
+
+msgid "@niko_upset There was a cave-in...\\.\\. and then a bunch of squares..."
+msgstr "@niko_upset 함몰이 일어났어요...\\.\\. 사각형이 잔뜩 있었죠..."
+
+msgid "@niko_upset2 ...he...\\.\\. and the robot lady..."
+msgstr "@niko_upset2 ...프로토와...\\.\\. 로봇 아가씨..."
+
+msgid "@niko_distressed_talk ...neither of them made it out."
+msgstr "@niko_distressed_talk ...둘 다 나오지 못했어요."
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ..."
+
+msgid "@cedric_eek No...."
+msgstr "@cedric_eek 그럴 수가..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_distressed2 He...\\.\\. did give me this, though."
+msgstr "@niko_distressed2 그런데...\\.\\. 이걸 받았어요."
+
+msgid "@niko3 This disk he pulled from his head..."
+msgstr "@niko3 프로토가 머리에서 꺼낸 디스크예요..."
+
+msgid "@cedric_talk Oh!!!"
+msgstr "@cedric_talk 오!!!"
+
+msgid "@cedric_sigh2 Oh thank goodness."
+msgstr "@cedric_sigh2 세상에, 감사합니다."
+
+msgid "@cedric_talk He gave you his main drive!"
+msgstr "@cedric_talk 메인 드라이브야!"
+
+msgid "@cedric_hmm As long as I have this, I should be able to bring him back."
+msgstr "@cedric_hmm 이게 있으면 프로토를 되살릴 수 있어."
+
+msgid "@niko2 R-really?"
+msgstr "@niko2 정말요?"
+
+msgid "@cedric_sigh It's gonna be hard, but yes."
+msgstr "@cedric_sigh 어렵겠지만, 가능해."
+
+msgid "@cedric You need all three of us for the big door."
+msgstr "@cedric 큰 문에 들어가려면 우리 셋이 모두 필요해."
+
+msgid "@niko2 The...?"
+msgstr "@niko2 큰 문?"
+
+msgid "@cedric_hmm But first thing's first, we need to find a way to go to the city."
+msgstr "@cedric_hmm 하지만 먼저 도시에 들어갈 방법을 찾아야 해."
+
+msgid "@niko_eyeclosed Right...\\>\\nThe city gate is kind of kaput now."
+msgstr "@niko_eyeclosed 맞아요...\\>\\n도시 정문은 지금 망가졌어요."
+
+msgid "@cedric2 If this machine was working, we could just fly right in there..."
+msgstr "@cedric2 이 기계가 작동한다면 날아서 들어갈 수 있을 텐데..."
+
+msgid "@cedric_hmm I've isolated the issue with the machine, but I can't repair it with the stuff I have on hand."
+msgstr "@cedric_hmm 문제의 원인은 파악했지만, 지금 기체에 실린 물건만으로는 수리할 수 없어."
+
+msgid "@niko_speak Oh? What's wrong with it?"
+msgstr "@niko_speak 그래요? 뭐가 문젠데요?"
+
+msgid "@cedric The \\c[2]battery\\c[0] in the engine is dead, and the engine has some \\c[2]gears\\c[0] that need to be replaced."
+msgstr "@cedric 엔진의 \\c[2]배터리\\c[0]가 고장 났고, 엔진의 \\c[2]기어\\c[0]를 일부 교체해야 해."
+
+msgid "@niko ...\\>\\nDo you think you'll be able to fix it if \\p and I help you find those things?"
+msgstr "@niko ...\\>\\n\\p 님과 제가 부품을 찾아 오면 수리할 수 있는 거예요?"
+
+msgid "@cedric_hmm ...maybe."
+msgstr "@cedric_hmm ...아마도."
+
+msgid "@cedric_sigh Problem is... the Glen isn't exactly a very high-tech area."
+msgstr "@cedric_sigh 문제는... 협곡의 기술 수준이 그리 높지 않다는 거야."
+
+msgid "@cedric_sigh ...I'm not sure if you'll be able to find anything so specialized here."
+msgstr "@cedric_sigh ...여기에서 그런 특수 부품을 구할 수 있을지 모르겠네."
+
+msgid "@niko_speak We'll try anyway!"
+msgstr "@niko_speak 아무튼 해 봐요!"
+
+msgid "@niko_eyeclosed We can't really do anything else right now..."
+msgstr "@niko_eyeclosed 지금은 달리 방법이 없잖아요..."
+
+msgid "@niko2 We found a battery..."
+msgstr "@niko2 배터리를 찾았어요..."
+
+msgid "@cedric4 Another one?"
+msgstr "@cedric4 또?"
+
+msgid "@cedric_talk Oh, nice!"
+msgstr "@cedric_talk 오, 대단해!"
+
+msgid "@cedric3 I honestly wasn't expecting it..."
+msgstr "@cedric3 솔직히 별로 기대는 안 했는데..."
+
+msgid "@niko It's from the generator on one of the islands."
+msgstr "@niko 한 섬에 있는 발전기에서 얻었어요."
+
+msgid "@cedric_talk The research station?"
+msgstr "@cedric_talk 연구 시설에 있는 것 말이야?"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 네."
+
+msgid "@niko_speak It was powering all the robots there...\\>\\n\\@niko_eyeclosed I felt bad for taking it..."
+msgstr "@niko_speak 그 발전기가 그곳에 있는 모든 로봇에게 전력을 공급하고 있었어요...\\>\\n\\@niko_eyeclosed 배터리를 가져오려니 죄책감이 들었죠..."
+
+msgid "@cedric_hmm Ah..."
+msgstr "@cedric_hmm 아..."
+
+msgid "@cedric_smile ...we can always just give it back later."
+msgstr "@cedric_smile ...언제든지 되돌려 놓을 수 있을 거야."
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 알았어요..."
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together.\\>\\nPlease do what you must to find some."
+msgstr "@cedric_hmm 엔진을 고치려면 아직도 \\c[2]기어\\c[0]가 몇 개 필요해.\\>\\n반드시 찾아줘."
+
+msgid "@niko We found this one in the Barrens.\\>\\nIt wasn't working at first, but \\p and I managed to fix it!"
+msgstr "@niko 불모지에서 이걸 찾았어요.\\>\\n처음에는 작동하지 않았지만, \\p 님이랑 제가 고쳤죠!"
+
+msgid "@cedric_smile ...it's good that you thought to bring it with you then."
+msgstr "@cedric_smile ...그걸 가져올 생각을 했다니 놀랍네."
+
+msgid "@niko_speak Yup!"
+msgstr "@niko_speak 그러게요!"
+
+msgid "@niko_speak We found a music box!"
+msgstr "@niko_speak 오르골을 찾았어요!"
+
+msgid "@niko It... should have gears in it, right?"
+msgstr "@niko 안에 기어가 있겠죠?"
+
+msgid "@cedric I assume so, but...\\>\\n..."
+msgstr "@cedric 물론 그렇겠지만...\\>\\n..."
+
+msgid "@cedric_hmm This looks like one of the ones that my father made."
+msgstr "@cedric_hmm 이건 우리 아버지가 만든 것 같아."
+
+msgid "@niko_pancakes YOUR DAD MAKES MUSIC BOXES TOO?"
+msgstr "@niko_pancakes 아버지가 오르골도 만들어요?"
+
+msgid "@cedric_smile My dad makes a lot of things!"
+msgstr "@cedric_smile 우리 아버지는 이것저것 정말 많이 만들거든!"
+
+msgid "@cedric_hmm Where did you get this from, by the way?"
+msgstr "@cedric_hmm 그런데 어디서 가져온 거야?"
+
+msgid "@niko_speak A trader from the village gave it to me!"
+msgstr "@niko_speak 마을에 있는 교역상이 줬어요!"
+
+msgid "@cedric I see.\\>\\nI remember father saying that he used to trade with some of the people here."
+msgstr "@cedric 그렇구나.\\>\\n아버지가 이곳 사람들과 물물교환을 했다고 말한 것이 기억나."
+
+msgid "@cedric_smile He did always love traveling this world, despite..."
+msgstr "@cedric_smile 아버지는 늘 이 세상을 여행하는 걸 좋아하셨지..."
+
+msgid "@cedric_hmm ...well."
+msgstr "@cedric_hmm 그런데..."
+
+msgid "@cedric_sigh Ah, sorry, I started rambling."
+msgstr "@cedric_sigh 미안. 신세 한탄을 했네."
+
+msgid "@cedric_talk The gears in there are compatible with the engine."
+msgstr "@cedric_talk 거기 들어 있는 기어를 엔진에 쓸 수 있겠어."
+
+msgid "@cedric_sigh Although it pains me to have to take it apart..."
+msgstr "@cedric_sigh 분해하려니 가슴 아프지만..."
+
+msgid "@niko2 Oh...\\.\\. I'm sorry!"
+msgstr "@niko2 이런...\\.\\. 죄송해요!"
+
+msgid "@cedric_hmm It's fine..."
+msgstr "@cedric_hmm 괜찮아..."
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running.\\>\\nPlease do what you must to find one."
+msgstr "@cedric 엔진을 작동시키려면 아직 \\c[3]배터리\\c[0]가 필요해.\\>\\n반드시 찾아줘."
+
+msgid "@niko_eyeclosed Sorry... I forgot..."
+msgstr "@niko_eyeclosed 죄송해요... 생각이 안 나서 말인데..."
+
+msgid "@niko What parts do we need to find again?"
+msgstr "@niko 찾아야 하는 부품이 뭐였죠?"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running."
+msgstr "@cedric 이 엔진을 작동시키려면 아직 \\c[3]배터리\\c[0]가 필요해."
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together."
+msgstr "@cedric_hmm 이 엔진을 작동시키려면 아직 \\c[2]기어\\c[0]가 몇 개 필요해."
+
+msgid "@cedric_hmm A \\c[2]battery\\c[0] for the engine, and a few \\c[2]gears\\c[0] to replace the broken ones."
+msgstr "@cedric_hmm 엔진용 \\c[2]배터리\\c[0]와 망가진 기어를 대신할 \\c[2]기어\\c[0]가 필요해."
+
+msgid "@cedric If you could find me the parts I need, I should be able to get this machine off the ground again."
+msgstr "@cedric 필요한 부품을 찾아주면 이 기계를 다시 작동시킬 수 있을 거야."
+
+msgid "@niko We made it!"
+msgstr "@niko 도착했다!"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go pay our respects..."
+msgstr "@calamus 알룰라, 어서.\\>\\n인사하러 가자..."
+
+msgid "@alula Okay!"
+msgstr "@alula 알았어!"
+
+msgid "@cedric_smile Looks like the flying machine has a chance after all!"
+msgstr "@cedric_smile 하늘을 나는 기계에 희망이 보여!"
+
+msgid "@cedric I just have to assemble the pieces now, but it might take a while..."
+msgstr "@cedric 이제 조립만 하면 되는데, 시간이 조금 걸려..."
+
+msgid "@cedric_smile Do you mind keeping me company?"
+msgstr "@cedric_smile 옆에 있어 주겠니?"
+
+msgid "@niko How's it going?"
+msgstr "@niko 어떻게 돼 가요?"
+
+msgid "@cedric Slow..."
+msgstr "@cedric 아직..."
+
+msgid "@cedric_hmm The connectors in the battery were not designed for this type of engine, so I have to shift around some of these ports."
+msgstr "@cedric_hmm 배터리의 커넥터가 이런 엔진에 맞게 설계되지 않아서, 포트 몇 개를 옮겨야 해."
+
+msgid "@cedric_sigh ...and there's this bolt that keeps getting stuck, and..."
+msgstr "@cedric_sigh ...이 나사는 자꾸만 구멍에 끼고..."
+
+msgid "@niko_eyeclosed ...ah."
+msgstr "@niko_eyeclosed ...아."
+
+msgid "@cedric_smile ...don't worry! I am making decent progress!"
+msgstr "@cedric_smile ...걱정하지 마! 그럭저럭 진행되고 있어!"
+
+msgid "@cedric We should be able to make it to the city by tonight."
+msgstr "@cedric 오늘 밤에는 도시로 갈 수 있을 거야."
+
+msgid "@niko_eyeclosed If you say so..."
+msgstr "@niko_eyeclosed 그렇다면..."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 ...what...\\.\\. will happen once we get there?"
+msgstr "@niko3 ...우리가 도시에 가면...\\.\\. 그때는 어떻게 되나요?"
+
+msgid "@cedric_hmm We need to bring Proto back first."
+msgstr "@cedric_hmm 먼저 프로토를 되살려야지."
+
+msgid "@cedric_talk And then we need to go find one more person."
+msgstr "@cedric_talk 그다음 한 사람을 더 찾아야 해."
+
+msgid "@cedric You may have already met her, actually..."
+msgstr "@cedric 넌 이미 만났을지도 모르지만..."
+
+msgid "@cedric_talk Do you remember her from the last time you were in this world?"
+msgstr "@cedric_talk 지난번 이 세상에 왔을 때 그 애가 어땠는지 기억해?"
+
+msgid "@niko I..."
+msgstr "@niko 그게..."
+
+msgid "@niko3 ...what does she...\\> look like?"
+msgstr "@niko3 ...그 사람이 어떻게...\\> 생겼는데요?"
+
+msgid "@cedric2 This is going to sound strange, but..."
+msgstr "@cedric2 이상하게 들리겠지만..."
+
+msgid "@cedric_talk She is a fox."
+msgstr "@cedric_talk 여우야."
+
+msgid "@niko_speak ...Rue?"
+msgstr "@niko_speak ...루?"
+
+msgid "@cedric_talk You've met?"
+msgstr "@cedric_talk 만났어?"
+
+msgid "@niko_eyeclosed I... think so..."
+msgstr "@niko_eyeclosed 그런 거 같아요..."
+
+msgid "@niko_eyeclosed The memories are still really blurry, though..."
+msgstr "@niko_eyeclosed 기억이 아직 흐릿하긴 하지만..."
+
+msgid "@niko2 ...oh..."
+msgstr "@niko2 ...아..."
+
+msgid "@niko_eyeclosed I.... DO remember talking to a fox at one point..."
+msgstr "@niko_eyeclosed 언젠가... 여우와 이야기한 기억이 나요..."
+
+msgid "@cedric_talk You've met Rue?"
+msgstr "@cedric_talk 루를 만났어?"
+
+msgid "@cedric_sigh I see..."
+msgstr "@cedric_sigh 그렇구나..."
+
+msgid "@niko2 Oh, um..."
+msgstr "@niko2 음..."
+
+msgid "@niko_eyeclosed I... don't think I know what you're talking about."
+msgstr "@niko_eyeclosed 누구 이야긴지 모르겠어요."
+
+msgid "@cedric_sigh Worth a shot."
+msgstr "@cedric_sigh 혹시나 했어."
+
+msgid "@cedric_hmm Rue can be... elusive."
+msgstr "@cedric_hmm 루는 찾기 어려워."
+
+msgid "@cedric_talk Even if she IS the least hidden one of us..."
+msgstr "@cedric_talk 우리 중에서는 그나마 덜 숨어 있는 편이지만..."
+
+msgid "@niko_eyeclosed My memories are still really blurry, though..."
+msgstr "@niko_eyeclosed 하지만 기억이 아직 흐릿해요..."
+
+msgid "@niko_upset ....sigh."
+msgstr "@niko_upset ...하아."
+
+msgid "@niko_distressed2 It's just... hard... y'know?"
+msgstr "@niko_distressed2 어렵네요..."
+
+msgid "@niko_eyeclosed Proto told me to think of this world like a dream."
+msgstr "@niko_eyeclosed 프로토가 이 세상이 꿈이라고 생각하랬어요."
+
+msgid "@niko_distressed2 But then I get so caught up with..."
+msgstr "@niko_distressed2 하지만 전 너무 빠져들다 보니..."
+
+msgid "@niko_distressed And I just...\\.\\. kinda...\\> forget..."
+msgstr "@niko_distressed 그냥...\\.\\.자꾸만... \\> 잊어버려요..."
+
+msgid "@niko_distressed2 I forget that everything here is supposed to be...\\.\\. not real..."
+msgstr "@niko_distressed2 여기에 있는 건 모두 현실이 아니라는 걸...\\.\\.자꾸 잊어버리죠..."
+
+msgid "@niko_distressed ...and then... I remember."
+msgstr "@niko_distressed ...그러다가 갑자기... 기억이 나는 거예요."
+
+msgid "@niko_eyeclosed ...and then I just get really sad..."
+msgstr "@niko_eyeclosed ...그럴 때면 참 슬퍼요..."
+
+msgid "@niko_upset2 ...I know this is for me to go home, but..."
+msgstr "@niko_upset2 ...이게 다 절 집에 보내려고 하는 일인 건 알지만..."
+
+msgid "@niko_upset Knowing that none of it mattered in the first place..."
+msgstr "@niko_upset 이게 다 처음부터 아무 의미가 없었다고 생각하면..."
+
+msgid "@niko_eyeclosed ...am I just\\.\\. trapped here for no reason...?"
+msgstr "@niko_eyeclosed ...전 아무 이유도\\.\\. 없이 여기에 갇힌 걸까요...?"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ..."
+
+msgid "@niko_eyeclosed Proto also told me to not ask anyone in the world about this..."
+msgstr "@niko_eyeclosed 프로토가 이 세상 누구에게도 묻지 말라고 했었는데..."
+
+msgid "@niko_distressed2 Saying how \"they don't understand\"..."
+msgstr "@niko_distressed2 \"그들은 이해하지 못해\"라면서..."
+
+msgid "@niko_distressed But... what about him?"
+msgstr "@niko_distressed 그런데... 프로토는요?"
+
+msgid "@niko_distressed2 How did HE know....?"
+msgstr "@niko_distressed2 프로토는 어떻게 알았죠?"
+
+msgid "@cedric ..."
+msgstr "@cedric ..."
+
+msgid "@niko3 ...How do YOU know?"
+msgstr "@niko3 ...당신은 어떻게 알고요?"
+
+msgid "@niko_eyeclosed Aren't you guys ALL supposed to be code?"
+msgstr "@niko_eyeclosed 당신들은 모두 코드 아니에요?"
+
+msgid "@cedric_hmm ...well..."
+msgstr "@cedric_hmm ...그게..."
+
+msgid "@niko_eyeclosed I'm not sure what to even believe anymore..."
+msgstr "@niko_eyeclosed 이제 뭘 믿어야 할지도 모르겠어요..."
+
+msgid "@cedric_sigh ..."
+msgstr "@cedric_sigh ..."
+
+msgid "@cedric_sigh I wish Rue was here..."
+msgstr "@cedric_sigh 루가 여기 있으면 좋겠네..."
+
+msgid "@cedric3 She's SO much better at explaining this sort of thing."
+msgstr "@cedric3 이런 걸 설명하는 일이라면 나보다 훨씬 낫거든."
+
+msgid "@cedric_sigh I'm doing a terrible job of it!"
+msgstr "@cedric_sigh 지금도 난 엄청 어설프잖아!"
+
+msgid "@cedric_sigh2 I bet Proto was even less tactful, wasn't he..."
+msgstr "@cedric_sigh2 아마 프로토는 더 서툴렀을 거라 생각하지만. 안 그래?"
+
+msgid "@cedric_sigh I'm afraid I must risk sounding callous, but..."
+msgstr "@cedric_sigh 냉담하게 들릴지도 모르지만..."
+
+msgid "@cedric2 ...please, you need not concern yourself with how \"real\" everything is, for now."
+msgstr "@cedric2 ...부탁할게. 지금 당장은 무엇이 \"진짜\"인지에 대해 걱정할 필요 없어."
+
+msgid "@cedric_talk The plan is already in motion, we cannot allow for distractions."
+msgstr "@cedric_talk 계획은 이미 진행 중이고, 다른 데 정신을 팔 여유는 없어."
+
+msgid "@cedric_hmm Father is putting everything into this one last run of the world."
+msgstr "@cedric_hmm 아버지는 이 세상의 마지막 실행을 위해 모든 것을 바치고 계시지."
+
+msgid "@cedric_sigh The last chance for him to fix everything."
+msgstr "@cedric_sigh 모든 것을 고칠 마지막 기회야."
+
+msgid "@niko2 Your father... is involved in the World Machine?"
+msgstr "@niko2 아버지가... 세상 기계와 관련되어 있어요?"
+
+msgid "@cedric3 You... \\.\\.could say that."
+msgstr "@cedric3 그렇게... \\.\\.말할 수 있지."
+
+msgid "@cedric_sigh The acceleration of square particle anomalies was not accounted for at all, though."
+msgstr "@cedric_sigh 사각형 입자 발생 현상의 이상 가속은 전혀 생각하지 못한 것이었어."
+
+msgid "@cedric The patch was only built to accomodate the normal rate they appear, but..."
+msgstr "@cedric 패치는 사각형이 정상적인 속도로 나타나는 경우에만 대비했으니..."
+
+msgid "@cedric_sigh2 ...they're accumulating at frightening speeds, now."
+msgstr "@cedric_sigh2 ...지금은 사각형이 무시무시한 속도로 늘어나고 있지."
+
+msgid "@cedric_sigh Proto even lost his body..."
+msgstr "@cedric_sigh 프로토는 몸까지 잃었고..."
+
+msgid "@cedric2 Thankfully, he gave you the disk just in time."
+msgstr "@cedric2 다행히도 프로토가 디스크를 네게 제때 넘겨 줬지만."
+
+msgid "@niko3 So... what happened to him anyway?"
+msgstr "@niko3 그래서... 프로토는 어떻게 된 거예요?"
+
+msgid "@niko3 What happens to...\\.\\. ANYONE who gets caught in the squares?"
+msgstr "@niko3 사각형에 갇히는 사람은...\\.\\. 어떻게 되는 거예요?"
+
+msgid "@niko_eyeclosed I only know it's bad..."
+msgstr "@niko_eyeclosed 전 그게 나쁘다는 것만 알아요..."
+
+msgid "@cedric_hmm Well, you know how the simulation works, right?"
+msgstr "@cedric_hmm 시뮬레이션이 어떻게 돌아가는지는 알고 있겠지?"
+
+msgid "@niko_upset2 How everything...\\.\\. is code....?"
+msgstr "@niko_upset2 모든 것이...\\.\\. 코드라는 거요?"
+
+msgid "@cedric Specifically, everything is generated from pre-existing code."
+msgstr "@cedric 구체적으로 말하면, 모든 것이 기존의 코드로부터 생성되는 거야."
+
+msgid "@cedric The squares can cause damage to that code..."
+msgstr "@cedric 그 사각형은 코드를 손상시키지..."
+
+msgid "@cedric_sigh ...most of the time, irreversible damage."
+msgstr "@cedric_sigh ...대개의 경우 그 손상은 돌이킬 수가 없어."
+
+msgid "@cedric_sigh Father has lost some friends in previous iterations of the simulation."
+msgstr "@cedric_sigh 아버지는 이전에 시뮬레이션을 반복하다가 친구들을 잃었어."
+
+msgid "@cedric3 It took him forever to develop the current, much more stable version."
+msgstr "@cedric3 훨씬 안정적인 현재 버전을 개발하는 일에 평생을 바쳤지."
+
+msgid "@niko4 ...you're making it sound like...\\.\\. your dad built the simulation himself..."
+msgstr "@niko4 ...그 이야기는 꼭...\\.\\. 아버지가 시뮬레이션을 만드셨다는 얘기 같은데요..."
+
+msgid "@niko3 ...wait, DID he?"
+msgstr "@niko3 ...엇, 그런 거예요?"
+
+msgid "@cedric_sigh Yeah..."
+msgstr "@cedric_sigh 그래..."
+
+msgid "@niko4 But... how?"
+msgstr "@niko4 하지만... 어떻게?"
+
+msgid "@niko_what If everyone in this world is code..."
+msgstr "@niko_what 이 세상의 모두가 코드라면..."
+
+msgid "@niko2 ...how can he build...\\.\\. \\@niko_what himself...?"
+msgstr "@niko2 ...어떻게 당신 아버지는...\\.\\.\\@niko_what 스스로를 만들 수 있는 거죠?"
+
+msgid "@cedric2 That's...\\.\\. um...\\>\\n\\@cedric_sigh not really what happened."
+msgstr "@cedric2 그건...\\.\\.음...\\>\\n\\@cedric_sigh 사실과 달라."
+
+msgid "@niko3 So... what happened?"
+msgstr "@niko3 사실이 뭔데요?"
+
+msgid "@cedric_sigh2 ...like I said, you shouldn't concern yourself with..."
+msgstr "@cedric_sigh2 ...아까도 말했지만, 너는 걱정할 필요가 없어..."
+
+msgid "@cedric4 ...with"
+msgstr "@cedric4 ...진짜야."
+
+msgid "@niko_distressed ....."
+msgstr "@niko_distressed ....."
+
+msgid "@cedric_sigh ...alright, alright...."
+msgstr "@cedric_sigh ...알겠어, 알겠다고...."
+
+msgid "@cedric3 Did Prototype....\\.\\. ever tell you about the old world?"
+msgstr "@cedric3 프로토타입이....\\.\\. 옛 세상에 대해 말한 적 있어?"
+
+msgid "@niko3 He... DID say something about being built to greet the messiah of the old world."
+msgstr "@niko3 자기가... 옛 세상의 구원자를 맞이하도록 설계되었다는 이야기를 한 적이 있어요."
+
+msgid "@niko_eyeclosed I was um...\\.\\. too caught up with the other stuff at the time to think about it..."
+msgstr "@niko_eyeclosed 전...\\.\\. 다른 일로 정신이 없어서 그 말에 대해서는 생각할 여유가 없었죠..."
+
+msgid "@cedric2 Ah, you know OF it at least, then."
+msgstr "@cedric2 아, 옛 세상이라는 게 있다는 건 아는구나."
+
+msgid "@cedric_sigh Alright... here we go."
+msgstr "@cedric_sigh 그래... 다 이야기할게."
+
+msgid "@cedric My father... myself... the other two..."
+msgstr "@cedric 우리 아버지... 나... 그리고 나머지 둘..."
+
+msgid "@cedric3 None of us are part of the simulation itself."
+msgstr "@cedric3 우리는 시뮬레이션의 일부가 아냐."
+
+msgid "@cedric_sigh Our home world....\\> the \"real\" world... \\.\\.was actually destroyed a long time ago."
+msgstr "@cedric_sigh 우리 세상은....\\>우리가 살던 \"진짜\" 세상은... \\.\\.아주 오래전에 파괴되었지."
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@cedric In the years leading up to the calamity, scientists from all over the world tried to stop it, but the outlook was bleak."
+msgstr "@cedric 재앙이 닥치기 전까지, 전 세계의 과학자들이 막으려고 애썼지만, 전망은 암울했어."
+
+msgid "@cedric A vague prophecy about a messiah from another world became everyone's last bastion of hope."
+msgstr "@cedric 다른 세상에서 온 구원자에 대한 막연한 예언이 마지막 보루였지."
+
+msgid "@cedric3 Prophetbot....\\.\\. er, Prototype... \\.\\.was built to predict the future, about the specifics of this messiah."
+msgstr "@cedric3 예언봇은....\\.\\. 아, 프로토타입은... \\.\\.미래를 예언하기 위해 만들어졌지. 구원자라는 존재를 자세히 알기 위해서."
+
+msgid "@cedric_sigh2 But as his predictions turned out, the messiah would not have been able to arrive to our world in time."
+msgstr "@cedric_sigh2 하지만 프로토타입은 예언하기를, 구원자가 우리 세상에 제때 도착하지 못할 거라고 했어."
+
+msgid "@cedric4 In fact, the messiah would not even have been born before our world ended."
+msgstr "@cedric4 사실, 구원자는 우리 세상이 종말을 맞을 때까지 태어나지도 않을 거라고."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@cedric Disheartened, most people abandoned their research and resolved to peacefully live out their final years."
+msgstr "@cedric 사람들은 대부분 절망에 빠져, 연구를 포기하고 여생을 평화롭게 살겠다고 결심했어."
+
+msgid "@cedric3 But... some people did the opposite."
+msgstr "@cedric3 하지만... 일부는 정반대를 택했지."
+
+msgid "@cedric_sigh Even though saving the world was impossible, they didn't want our existence to be in vain."
+msgstr "@cedric_sigh 세상을 구하는 일이 불가능하다 해도, 우리의 존재가 헛일이 되기는 바라지 않았어."
+
+msgid "@cedric2 And that's...\\.\\. where my father came in."
+msgstr "@cedric2 그때 우리 아버지가...\\.\\. 등장하는 거야."
+
+msgid "@cedric_talk With the last of his resources...\\>\\nhe built his most ambitious project yet."
+msgstr "@cedric_talk 아버지는 남은 재산을 털어서...\\>\\n 평생 최고로 야심적인 프로젝트를 시작했어."
+
+msgid "@cedric ...\"The World Machine\"."
+msgstr "@cedric ...\"세상 기계\"라는 거야."
+
+msgid "@cedric2 A large, detailed facsimile of the old world, generated from a pool of memories collected from everyone he knew."
+msgstr "@cedric2 아버지가 아는 모든 사람의 기억을 바탕으로, 옛 세상을 섬세하게 복제하겠다는 계획이었어."
+
+msgid "@cedric4 ...after a heavy amount of modification and an added narrative, my father was able to convert the entire structure into code."
+msgstr "@cedric4 ...수많은 수정과 해설을 추가한 끝에, 아버지는 전체 구조를 코드로 변환할 수 있었어."
+
+msgid "@niko3 ...how did that code.... escape the old world?"
+msgstr "@niko3 ...어떻게 그 코드가... 옛 세상을 빠져나온 거죠?"
+
+msgid "@cedric_hmm I have no idea."
+msgstr "@cedric_hmm 나도 몰라."
+
+msgid "@cedric What I do know is, there is no equipment back home that was powerful enough to run the code independently."
+msgstr "@cedric 내가 아는 건, 코드를 독립적으로 실행할 만한 성능을 지닌 장비가 그 세상엔 없었다는 거야."
+
+msgid "@cedric So, asides from the standard hardware, it also needed to borrow the mental processing abilities of a living person."
+msgstr "@cedric 그래서 일반적인 하드웨어가 아닌, 살아 있는 사람의 정신 능력을 빌려야 했지."
+
+msgid "@cedric Father used himself for that, during the initial testing phases."
+msgstr "@cedric 아버지는 자신을 초기 테스트에 사용했어."
+
+msgid "@cedric2 Like I said, it took many iterations for him to make the experience stable enough."
+msgstr "@cedric2 말했듯이, 어느 정도의 안정성을 확보하기 위해서 시뮬레이션을 수없이 반복해야 했지."
+
+msgid "@cedric_sigh2 ...but as you can see, even that's breaking down."
+msgstr "@cedric_sigh2 ...하지만 보다시피, 이제 그것마저 망가지기 시작했어."
+
+msgid "@niko2 Ah..."
+msgstr "@niko2 아..."
+
+msgid "@cedric Father caught on to the issue in the last minute, but did not have enough time to fix it."
+msgstr "@cedric 아버지는 마지막까지 문제를 해결하려 했지만, 시간이 부족했어."
+
+msgid "@cedric4 After the world ended...\\.\\. the code kinda just ended up...\\>\\n\\@cedric3 floating in the void, indefinitely."
+msgstr "@cedric4 세상이 끝나자...\\.\\. 그 코드는...\\>\\n\\@cedric3 허공 속을 무한히 떠돌게 됐어."
+
+msgid "@cedric_sigh ...waiting for a willing operator to install it onto their own hardware."
+msgstr "@cedric_sigh ...자발적으로 그것을 자신의 하드웨어에 설치해 줄 운영자를 기다리면서."
+
+msgid "@niko3 ...\\p?"
+msgstr "@niko3 ...그게 \\p 님?"
+
+msgid "@cedric Yeah."
+msgstr "@cedric 맞아."
+
+msgid "@cedric The operator... \\.\\.\\p.... \\.\\.would then generate the universe using the code, becoming god in the process."
+msgstr "@cedric 운영자... \\.\\.즉 \\p 님은.... \\.\\.코드를 사용해서 우주를 창조하고 그럼으로써 신이 되는 거지."
+
+msgid "@niko So... \\p was the living person you needed to borrow?"
+msgstr "@niko 그렇다면... 힘을 빌려야 한다는 살아 있는 사람이 \\p 님이었던 거예요?"
+
+msgid "@cedric3 ....No?"
+msgstr "@cedric3 ....아니?"
+
+msgid "@cedric That.... would be you."
+msgstr "@cedric 그건... 너야."
+
+msgid "@niko3 But why me?"
+msgstr "@niko3 왜 하필 저죠?"
+
+msgid "@niko ...."
+msgstr "@niko ...."
+
+msgid "@niko_eyeclosed (I... should've asked that question a long time ago, shouldn't I...)"
+msgstr "@niko_eyeclosed (오래전에 물었어야 하는 질문인데...)"
+
+msgid "@cedric3 I do not know."
+msgstr "@cedric3 나도 몰라."
+
+msgid "@cedric_hmm ...we...\\.\\. really need to get going."
+msgstr "@cedric_hmm ...우린...\\.\\. 이제 진짜 가야 돼."
+
+msgid "@niko_speak It's a plane!"
+msgstr "@niko_speak 비행기다!"
+
+msgid "@cedric2 ...flying machine!"
+msgstr "@cedric2 ...하늘을 나는 기계라고!"
+
+msgid "@niko Right."
+msgstr "@niko 맞아요."
+
+msgid "@niko It's a tent."
+msgstr "@niko 텐트네요."
+
+msgid "@niko Just a wrench."
+msgstr "@niko 렌치네요."
+
+msgid "@calamus_smile2 At least I still got my sister..."
+msgstr "@calamus_smile2 여동생이 있어서 다행이야..."
+
+msgid "@calamus_sad This is her grave..."
+msgstr "@calamus_sad 여기가 엄마의 무덤이야..."
+
+msgid "@niko3 Ah..."
+msgstr "@niko3 아..."
+
+msgid "@calamus_sad It's been years, but..."
+msgstr "@calamus_sad 오래전 일이지..."
+
+msgid "@calamus_sad ...It's still... \\.\\.hard, y'know?"
+msgstr "@calamus_sad ...그런데 있잖아... \\.\\.아직도 힘들다?"
+
+msgid "@calamus_sad Sigh..."
+msgstr "@calamus_sad 하아..."
+
+msgid "@calamus_sad Alula....\\.\\.\\n\\@calamus_smile wanna help me look for some flowers for mom later?"
+msgstr "@calamus_sad 알룰라....\\.\\.\\n\\@calamus_smile 이따가 엄마에게 줄 꽃을 좀 찾아 줄래?"
+
+msgid "@alula_gasp \\.\\.Y\\.E\\.S"
+msgstr "@alula_gasp \\.\\.알\\.았\\.어."
+
+msgid "@calamus_smile2 ..."
+msgstr "@calamus_smile2 ..."
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus 여기서는 볼일이 끝났어. 폐허로 돌아가고 싶으면 알려 줘."
+
+msgid "@niko Okay."
+msgstr "@niko 알았어."
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko 저기, 배터리를 어디서 구할 수 있는지 알아?"
+
+msgid "@calamus Good question.."
+msgstr "@calamus 좋은 질문이야."
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh 사실...\\.\\. 협곡에서는 전기를 사용하지 않아."
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed 그렇구나."
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak 참, 그러고 보니 연구 시설에 로봇이 있잖아!\\>\\n배터리가 어디 있다면, 로봇들이 알고 있을 거야."
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko 그렇겠네. 고마워!"
+
+msgid "@alula_speak I hope she can see us wherever she is!"
+msgstr "@alula_speak 엄마가 어디 계신지는 몰라도 우릴 볼 수 있으면 좋겠다!"
+
+msgid "@alula_gasp MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND"
+msgstr "@alula_gasp 엄마, 오늘 무슨 일이 있었는지 믿을 수 없을 거예요. 구원자를 만나고"
+
+msgid "@alula_oh ..."
+msgstr "@alula_oh ..."
+
+msgid "@alula_speak ...hi Niko!"
+msgstr "@alula_speak ...안녕, 니코!"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 안녕하세요!"
+
+msgid "@alula Didja find any... \\@alula_pout ...any..."
+msgstr "@alula 그거...\\@alula_pout ...찾았어...?"
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh ...뭘 찾는다고 했더라?"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak 기어?"
+
+msgid "@alula_speak Gears!\\>\\n\\@alula Didja find any of those?"
+msgstr "@alula_speak 기어!\\>\\n\\@alula 그거 찾았어?"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko 아니, 하지만... 이 오르골을 찾았어!"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp 오오오!"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko 기어는 어디서 찾을 수 있을까?"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula 기어?\\>\\n그게... 뭔데?"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak 그건...\\.\\. 톱니가 있고 동그랗게 생긴 금속이야!"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak 톱니가 있는 동그라미...?!"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak 우습게 생겼네!\\>\\n맥파이가 그런 걸 잔뜩 갖고 있어!"
+
+msgid "@niko Magpie?"
+msgstr "@niko 맥파이?"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula 그 교역상 말이야!"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula 온갖 재미있는 물건을 수집하거든!"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak 깨진 유리랑 폐품까지 모은다고!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...Oh yeah!\\>\\n\\@niko I think I know who you're talking about."
+msgstr "@niko_speak ...아!\\>\\n\\@niko 누구 얘긴지 알겠다."
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak 정말 희한한 사람이야!"
+
+msgid "@niko It's a crowbar."
+msgstr "@niko 쇠지렛대예요."
+
+msgid "@niko_eyeclosed Looks like a piece from this plane."
+msgstr "@niko_eyeclosed 이 비행기에서 떨어진 것 같아요."
+
+msgid "@niko It's a fire."
+msgstr "@niko 모닥불이에요."
+

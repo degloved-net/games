@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Os vaga-lumes iluminam a sala."
+
+msgid "@niko Looks like moss..."
+msgstr "@niko Parece musgo..."
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak Acho que as pessoas comem isso!"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "Acho que as pessoas só querem ver o sol de novo!"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak Isso!"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "Está se despedaçando lentamente.\\nMas ainda tenta se manter vivo, acredito."
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "Não importa... um dia o mundo finalmente desistirá dessa luta."
+
+msgid "I just hope I'm not alive to see it."
+msgstr "Só espero não estar aqui para ver isso."
+
+msgid "@alula But the savior is here!"
+msgstr "@alula Mas a salvadora está aqui!"
+
+msgid "That won't fix the root of the problem."
+msgstr "Isso não vai resolver a raiz do problema."
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko Como a outra moça disse..."
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh Outra moça?"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak Sim! Ela era um robô e parecia muito triste..."
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout Ah..."
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "Ah, mas não esmoreça!\\nSem o sol, o mundo morrerá muito mais rápido."
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "No mínimo do mínimo...\\nas pessoas vão gostar de ver o sol de novo."
+
+msgid "Right, little one?"
+msgstr "Certo, pequena?"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak Isso!"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak Vou devolver o sol, então."
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "Mas não esmoreça!\\nSem o sol, o mundo morrerá muito mais rápido."
+

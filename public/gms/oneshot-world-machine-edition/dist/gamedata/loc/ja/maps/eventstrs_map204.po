@@ -1,0 +1,156 @@
+msgid "@niko The pathway is blocked...."
+msgstr "@niko 道が塞がってる……"
+
+msgid "@niko_speak ...by blocks!"
+msgstr "@niko_speak …ブロックでブロックされてる！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_what2 Waaaait a minute.\\>\\n\\@niko_eyeclosed I remember something about this..."
+msgstr "@niko_what2 んーーー？\\>\\n\\@niko_eyeclosed これ、覚えてるかも…"
+
+msgid "@niko_83c Never knew it'd be so easy!"
+msgstr "@niko_83c こんな簡単だったんだね！"
+
+msgid "@niko_what ...\\>(ow my foot ow)"
+msgstr "@niko_what …\\>（足すっごくいたい）"
+
+msgid "@niko3 The squares are blocking the doorway..."
+msgstr "@niko3 四角形が入口を塞いじゃってる…"
+
+msgid "@alula_pout Oh...\\>\\nThe door..."
+msgstr "@alula_pout うー…\\>\\n入り口が…"
+
+msgid "@calamus_sad I knew we'd lose our home eventually, but...\\>\\nI wasn't expecting it to happen so soon..."
+msgstr "@calamus_sad いつか家がなくなるのは分かってたけど…\\>\\nまさかこんな早く…"
+
+msgid "@niko_shock Oh jeez! \\>\\n\\@niko3 Are you guys okay?"
+msgstr "@niko_shock わっ！ \\>\\n\\@niko3 あの、大丈夫？"
+
+msgid "@calamus_shame Oh my stars!\\>\\nYou're... the savior!"
+msgstr "@calamus_shame うっそ！\\>\\nもしかしてキミ…救世主か！"
+
+msgid "@alula_gasp !!!"
+msgstr "@alula_gasp ！！！"
+
+msgid "@calamus Um....\\.\\. uh...."
+msgstr "@calamus あの…\\.\\.…ええと…"
+
+msgid "@calamus_shame It's an honor to meet you!"
+msgstr "@calamus_shame 会えて光栄だ！…です！"
+
+msgid "@alula_gasp Yes!"
+msgstr "@alula_gasp です！"
+
+msgid "@calamus_heh I'd invite you inside, but as you can see, our home is..."
+msgstr "@calamus_heh 中に入れてあげたいんだが、\nオレたちの家は見ての通りさ…"
+
+msgid "@alula_gasp It's got squares in it!"
+msgstr "@alula_gasp 四角いのがたーっくさん！"
+
+msgid "@calamus_sad Yes, Alula, thank you."
+msgstr "@calamus_sad そう、アルーラ。ありがとう。"
+
+msgid "@niko3 It's... \\.\\.getting everywhere now... isn't it?"
+msgstr "@niko3 それ… \\.\\.色んなところに\n広がってる…んだよね？"
+
+msgid "@calamus Hm?"
+msgstr "@calamus うん？"
+
+msgid "@niko3 The squares... there are way more than before!"
+msgstr "@niko3 四角形のこと…\n前よりも、ずっとずっと増えてる！"
+
+msgid "@niko_speak Even the gate to the Refuge is destroyed now. \\>\\n\\@niko3 That didn't happen last time!"
+msgstr "@niko_speak 避難所へのゲートも壊されちゃってる。\\>\\n\\@niko3 前回はそんなこと起きなかったのに！"
+
+msgid "@calamus_speak ...last time?"
+msgstr "@calamus_speak …前回？"
+
+msgid "@niko ....."
+msgstr "@niko …"
+
+msgid "@calamus ....."
+msgstr "@calamus ……"
+
+msgid "@niko5 Uhh...\\> \\@niko6 nothing!"
+msgstr "@niko5 あっ…\\>\\@niko6 なんでもない！"
+
+msgid "@niko_what2 (almost let that slip, \\p...)"
+msgstr "@niko_what2 （もうちょっとで\n言っちゃいそうだったよ、 \\p…）"
+
+msgid "@niko Guess I should introduce myself again...\\>\\n\\@niko_speak My name is Niko!"
+msgstr "@niko もう一回自己紹介したほうがいいよね…\\>\\n\\@niko_speak ミーの名前はニコ！"
+
+msgid "@calamus_speak Ni...\\.\\.ko..."
+msgstr "@calamus_speak ニ…\\.\\.コ…"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame いやいや！名前で呼ぶなんて、キミに\n失礼じゃないか？"
+
+msgid "@niko_speak No worries, Calamus!"
+msgstr "@niko_speak そんなことないよ、カラムス！"
+
+msgid "@calamus_shame HOW DID YOU KNOW MY NAME!?"
+msgstr "@calamus_shame どうしてオレの名前を！？"
+
+msgid "@niko2 I... \\.\\.um... \\.\\.\\@niko_what uh..."
+msgstr "@niko2 あの… \\.\\.えーと… \\.\\.\\@niko_what あー…"
+
+msgid "@niko_what2 (not again!)"
+msgstr "@niko_what2 （またやっちゃった！）"
+
+msgid "@alula_speak The messiah just knows these things, Calamus!"
+msgstr "@alula_speak 救世主は色んなことを\n知ってるのよ、カラムス！"
+
+msgid "@alula Riiiight?"
+msgstr "@alula ねーー？"
+
+msgid "@niko_speak Y-yes! Of course!"
+msgstr "@niko_speak う、うん！そうなの！"
+
+msgid "@niko_eyeclosed (phew)"
+msgstr "@niko_eyeclosed （ふぅ…）"
+
+msgid "@calamus Ah... you were saying... about the gate?"
+msgstr "@calamus それで…何の話だっけ…ゲートのこと？"
+
+msgid "@niko_speak Oh, right!"
+msgstr "@niko_speak あ、そうだった！"
+
+msgid "@niko_eyeclosed Looks like I can't get in the city through the old gate anymore..."
+msgstr "@niko_eyeclosed 古いゲートから、街に入れなく\nなっちゃったみたいで…"
+
+msgid "@niko_speak Do... either of you know another way to get in?"
+msgstr "@niko_speak あの…街に入るための、\n他の道って知らない？"
+
+msgid "@niko I remember... \\.\\.\\@niko_speak I mean, I HEARD that there's some sort of hidden passage around here somewhere!"
+msgstr "@niko ミーの記憶だと… \\.\\.\\@niko_speak じゃなくて、\n噂だとこの近くに\n秘密の通路があるって聞いたんだ！"
+
+msgid "@calamus_speak Oh!\\>\\nThe passage to the burial grounds?"
+msgstr "@calamus_speak ああ！\\>\\n埋葬地に行く通路のことかな？"
+
+msgid "@niko_speak That's the one!"
+msgstr "@niko_speak そう、それ！"
+
+msgid "@calamus Oh... but I'm not sure if that'll be of any use here..."
+msgstr "@calamus ああ…でも、ちゃんと通れるか分からないな…"
+
+msgid "@calamus_sad It's been flooded for a long time, and there's no boat..."
+msgstr "@calamus_sad ずっと前から浸水してて、ボートもないし…"
+
+msgid "@calamus Not to mention, the burial grounds itself is pretty far from the city!"
+msgstr "@calamus そもそも、埋葬地は街からすごく離れてるし！"
+
+msgid "@niko_speak That's ok! I would still like to see it!"
+msgstr "@niko_speak 大丈夫！それでも見てみたい！"
+
+msgid "@niko_eyeclosed It's the only lead we have..."
+msgstr "@niko_eyeclosed もう、道がそこしかないから…"
+
+msgid "@calamus Alright, in that case..."
+msgstr "@calamus 分かった。それなら…"
+
+msgid "@calamus_smile ...please follow us."
+msgstr "@calamus_smile …ついてきて。"
+

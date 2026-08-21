@@ -1,0 +1,216 @@
+msgid "@niko The elevator's button panel."
+msgstr "@niko 엘리베이터의 버튼 판이에요."
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry 이봐, 어디로 가는 거야?"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown 아, 조오오옴!"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown 제바아아아아아알!!!!!"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown 그냥 좀 작동하라고!!!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak 네?"
+
+msgid "@niko Oh right... \\@niko_eyeclosed The elevator guy."
+msgstr "@niko 아...\\@niko_eyeclosed 그 엘리베이터 아저씨네요."
+
+msgid "@plight_unknown AAAAUHGGHHHH!!!!"
+msgstr "@plight_unknown 으아아아아아아!!!!"
+
+msgid "@niko_speak I think we should go talk to the guy first, \\p..."
+msgstr "@niko_speak 저 아저씨랑 먼저 얘기를 해야겠어요, \\p 님..."
+
+msgid "PATH CLOSED"
+msgstr "길 폐쇄"
+
+msgid "TO: OFFICE"
+msgstr "행선지: 사무실"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight 제발..."
+
+msgid "@plight_wtf Come oonnnnnnn!"
+msgstr "@plight_wtf 제바아아알!"
+
+msgid "@plight_wtf Now, of all times...!"
+msgstr "@plight_wtf 왜 하필이면 지금...!"
+
+msgid "@niko ...Uh"
+msgstr "@niko ...음."
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak ...실례할게요..."
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock 우왓!"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight ... 너... 너는!"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry (이런, 누굴 만날 줄이야...)"
+
+msgid "@niko The elevator is missing a button, right?"
+msgstr "@niko 엘리베이터에 버튼이 없죠?"
+
+msgid "@plight_worry ...how did you know?"
+msgstr "@plight_worry ...어떻게 알았지?"
+
+msgid "@niko_83c ..."
+msgstr "@niko_83c ..."
+
+msgid "@niko_speak \\p and I will help you fix it!"
+msgstr "@niko_speak \\p 님과 제가 고쳐 드릴게요!"
+
+msgid "@plight_worry2 ...seriously?"
+msgstr "@plight_worry2 ...진심이야?"
+
+msgid "@plight_sigh Oh thank goodness."
+msgstr "@plight_sigh 살았군."
+
+msgid "@plight_worry2 The evacuees are counting on this...\\> on me..."
+msgstr "@plight_worry2 피난민들이...\\> 내가 고칠 거라 기대하고 있어..."
+
+msgid "@plight_worry But... I've been here for hours and can't figure out a thing!"
+msgstr "@plight_worry 근데... 벌써 여기 몇 시간이나 있었지만 전혀 감을 잡을 수가 없었다고!"
+
+msgid "@niko2 ....\\.\\.evacuees?"
+msgstr "@niko2 ....\\.\\.피난민들이요?"
+
+msgid "@plight Y'know... from the west apartments."
+msgstr "@plight 서쪽 아파트에서 온 피난민들 말야..."
+
+msgid "@plight_worry The square stuff wrecked the place yesterday..."
+msgstr "@plight_worry 어제 사각형 때문에 거기 난리가 났어..."
+
+msgid "@niko3 Oh...."
+msgstr "@niko3 아..."
+
+msgid "@plight_sigh Right now everyone's crowded in the cafe.\\nWe really want to get everyone to the surface as soon as possible, though."
+msgstr "@plight_sigh 지금은 모두가 카페에 있어.\\n최대한 빨리 모두를 지상층으로 데려와야 하지."
+
+msgid "@plight3 The library on the surface doubles as a shelter for situations like this."
+msgstr "@plight3 지상층의 도서관은 이런 상황에서 대피소 기능도 하거든."
+
+msgid "@niko I see..."
+msgstr "@niko 그렇구나..."
+
+msgid "@niko2 ...wait... didn't we find the magnets and stuff in the apartments, \\p?"
+msgstr "@niko2 ...잠깐... 우리 그 아파트에서 자석 따위를 찾지 않았던가요, \\p 님?"
+
+msgid "@plight_worry The... what?"
+msgstr "@plight_worry ...뭐?"
+
+msgid "@niko_eyeclosed Looks like we'll have to find some other way to fix the button, \\p..."
+msgstr "@niko_eyeclosed 버튼을 고칠 다른 방법을 찾아야 하겠어요, \\p 님..."
+
+msgid "@plight_scared HOLY F\\.\\.\\@plight_worry UDGE"
+msgstr "@plight_scared 제기\\.\\.\\@plight_worry 랄."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_eyeclosed ...Looks like \\p and I will need to find another way down altogether..."
+msgstr "@niko_eyeclosed ... 아무래도 \\p 님과 제가 달리 내려갈 방법을 찾아야 하겠네요..."
+
+msgid "@plight_worry But...\\.\\. this is the only elevator in the area..."
+msgstr "@plight_worry 하지만...\\.\\. 이게 이 지역의 유일한 엘리베이터야..."
+
+msgid "@niko We did hear about another one, but... I don't really know where it is."
+msgstr "@niko 다른 엘리베이터가 있다고는 들었는데... 어디 있는지 모르겠네요."
+
+msgid "@niko_speak Do you, \\p?"
+msgstr "@niko_speak \\p 님은 아세요?"
+
+msgid "TO: CAFE"
+msgstr "행선지: 카페"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[무단 침입은 허용하지 않습니다!]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko 앗... 죄송해요!"
+
+msgid "TO: APARTMENTS"
+msgstr "행선지: 아파트 단지"
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "행선지:\\n사무실 건물 및\\n카페"
+
+msgid "@niko It's an elevator."
+msgstr "@niko 엘리베이터예요."
+
+msgid "@niko_speak Let's find another way down!"
+msgstr "@niko_speak 내려갈 방법을 또 찾아봐요!"
+
+msgid "@plight_worry Uh..."
+msgstr "@plight_worry 어..."
+
+msgid "@plight3 Let me know if you need my help with anything..."
+msgstr "@plight3 내 도움이 필요하면 알려줘..."
+
+msgid "@niko_speak We found some elevators!"
+msgstr "@niko_speak 엘리베이터를 찾았어요!"
+
+msgid "@plight_shock What??"
+msgstr "@plight_shock 뭐??"
+
+msgid "@plight_worry ...seriously?"
+msgstr "@plight_worry 진짜야?"
+
+msgid "@plight_worry2 I've literally never seen another one in this area!"
+msgstr "@plight_worry2 이 지역에서는 다른 엘리베이터를 본 적이 없다고!"
+
+msgid "@niko It WAS in a locked room..."
+msgstr "@niko 잠긴 방 안에 있었어요..."
+
+msgid "@plight_worry Oh...."
+msgstr "@plight_worry 아..."
+
+msgid "@plight_worry2 Do they... uh... \\.\\.\\.\\@plight_worry work?"
+msgstr "@plight_worry2 그게... \\.\\.\\.\\@plight_worry 작동해?"
+
+msgid "@niko_eyeclosed We don't know yet..."
+msgstr "@niko_eyeclosed 아직 몰라요..."
+
+msgid "@niko One of them has a lever that's out of my reach."
+msgstr "@niko 한 대에 레버가 있었는데, 손이 닿지 않았어요."
+
+msgid "@niko_speak ...wait! You can help us!"
+msgstr "@niko_speak ...엇! 아저씨가 도와주면 되겠네요!"
+
+msgid "@plight_worry What..."
+msgstr "@plight_worry 뭐...?"
+
+msgid "@niko You should be able to reach the lever, cuz...\\>\\n\\@niko_speak You're taller than me!"
+msgstr "@niko 레버에 손이 닿을 거예요.\\>\\n\\@niko_speak 저보다 키가 크니까요!"
+
+msgid "@plight3 Ooh... \\@plight_worry I... guess I am?"
+msgstr "@plight3 오호... \\@plight_worry 그렇긴... 하지?"
+
+msgid "@plight So...\\.\\. show me the way, I suppose..."
+msgstr "@plight 그렇다면...\\.\\. 앞장서..."
+
+msgid "@niko Mhm!"
+msgstr "@niko 네!"
+
+msgid "[HELLO.]"
+msgstr "[안녕하십니까.]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[이 지역은 데모판에서 이용하실 수 없습니다.]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[불편을 드려 죄송합니다.]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko ...데모판이라뇨?"
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[당신을 들여보낼 수 없다는 말입니다.]"
+

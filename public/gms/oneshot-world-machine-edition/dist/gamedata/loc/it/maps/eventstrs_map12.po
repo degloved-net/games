@@ -1,0 +1,24 @@
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [I resti di un robot.]"
+
+msgid "@niko A robot."
+msgstr "@niko Un robot."
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed È troppo danneggiato per essere riparato."
+
+msgid "@niko A depowered robot."
+msgstr "@niko Un robot non alimentato."
+
+msgid "@ed [A robot. It no longer has power.]"
+msgstr "@ed [Un robot. Non è più alimentato.]"
+
+msgid "[I AM FUNCTIONAL!]"
+msgstr "[SONO OPERATIVO!]"
+
+msgid "@niko M-hm!"
+msgstr "@niko M-hm!"
+
+msgid "@niko_what Just a head, yikes..."
+msgstr "@niko_what Oddio, ma è una testa..."
+

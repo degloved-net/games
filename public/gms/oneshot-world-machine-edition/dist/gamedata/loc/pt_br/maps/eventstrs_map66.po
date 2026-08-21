@@ -1,0 +1,90 @@
+msgid "@alula_pout Niko?"
+msgstr "@alula_pout Niko?"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh Niko? O que houve?"
+
+msgid "@niko Huh?"
+msgstr "@niko Hm?"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock Parecia que você estava prestes a desmaiar!"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed Aconteceu de novo..."
+
+msgid "@niko_speak Earlier I was in the Barrens area, and I kind of... saw something?\\>\\n\\@niko It was like a dream, but only for a split second..."
+msgstr "@niko_speak Quando eu passei pelas Terras Áridas, mais cedo, eu... eu vi uma coisa.\\>\\n\\@niko Foi como um sonho, mas por uma fração de segundo..."
+
+msgid "@calamus_speak A vision?"
+msgstr "@calamus_speak Uma visão?"
+
+msgid "@niko2 Vision?"
+msgstr "@niko2 Visão?"
+
+msgid "@calamus Like something a prophet would see."
+msgstr "@calamus Como algo que um profeta veria."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak Nossa!"
+
+msgid "@calamus_speak I mean, if you can talk to \\p, it would make sense, right?"
+msgstr "@calamus_speak Quer dizer... se você é capaz de falar com \\p, faz sentido, não faz?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Acho... que sim."
+
+msgid "@calamus ...or not, I don't know. \\>\\n\\@calamus_smile I've only read about it before."
+msgstr "@calamus ... ou não. Não sei. \\>\\n\\@calamus_smile Eu apenas li sobre o assunto."
+
+msgid "@niko Oooh...\\>\\n\\@niko_speak Anyway, what is this place?"
+msgstr "@niko Aaah...\\>\\n\\@niko_speak De qualquer forma, que lugar é esse?"
+
+msgid "@niko It looks like it used to lead somewhere."
+msgstr "@niko Parece que já foi o acesso para algum outro local."
+
+msgid "@alula_speak Yeah, the sacred grounds!\\>\\n\\@alula It's been a while since we went there..."
+msgstr "@alula_speak Sim, as terras sagradas!\\>\\n\\@alula Faz tempo que estivemos lá..."
+
+msgid "@calamus We don't have a way getting there now, remember?\\>\\nThere isn't a boat and none of us can swim, and..."
+msgstr "@calamus Não conseguiremos chegar mais lá, lembra?\\>\\nNão temos nenhum barco nem sabemos nadar, e..."
+
+msgid "@niko_speak What's... the sacred grounds?"
+msgstr "@niko_speak O que são essas terras sagradas?"
+
+msgid "@calamus It's where our people are buried."
+msgstr "@calamus É o local onde nosso povo fica enterrado."
+
+msgid "@alula Sometimes we go there to visit mom!\\>\\n\\@alula_oh Well, her grave, anyway."
+msgstr "@alula Às vezes vamos lá visitar a mamãe!\\>\\n\\@alula_oh Bem, o túmulo dela, na verdade."
+
+msgid "@niko_eyeclosed Oh....\\>\\n\\@niko_speak -wait, how do you get there?\\>\\n\\@niko I thought you said there isn't a boat?"
+msgstr "@niko_eyeclosed Ah...\\>\\n\\@niko_speak Mas... como vocês chegam lá?\\>\\n\\@niko Você não disse que não tem barco?"
+
+msgid "@alula Oh, our friend helps us!"
+msgstr "@alula Ah, nosso amigo nos ajuda!"
+
+msgid "@calamus He has some sort of machine that allows him to fly."
+msgstr "@calamus Ele tem uma máquina voadora."
+
+msgid "@alula Sometimes he takes us along!"
+msgstr "@alula De vez em quando ele nos leva junto!"
+
+msgid "@calamus But like I was about to say, we haven't seen him around for a while."
+msgstr "@calamus Mas, como eu estava dizendo, faz tempo que não o vemos."
+
+msgid "@alula I wonder when he'll come back?\\>\\nI wish we could go see mom again..."
+msgstr "@alula Será que ele voltará?\\>\\nQueria ver a mamãe mais uma vez..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@calamus Come on, Alula, let's go back to the courtyard now."
+msgstr "@calamus Vamos, Alula. Vamos voltar ao pátio."
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak Vamos!"
+
+msgid "@niko It's a clover."
+msgstr "@niko É um trevo."
+

@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 반딧불이 방을 밝히고 있어요."
+
+msgid "@niko Full of dried beans."
+msgstr "@niko 말린 콩이 가득해요."
+
+msgid "@niko An empty jar."
+msgstr "@niko 빈 항아리예요."
+
+msgid "I'm getting dizzy!"
+msgstr "어지러워!"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed 내가 뭐랬어!"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak 넌 왜 그렇게 빙글빙글 돌고 있어?"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak 그렇게 돌면 어지러울걸!"
+
+msgid "I'm the Tower!"
+msgstr "난 탑이야!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak 네?"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "탑은 세상에 햇빛을 비추려고 늘 빙글빙글 돌았다고, 할아버지가 그러셨어!"
+
+msgid "I wanna see it too!"
+msgstr "나도 그거 보고 싶어!"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp 나도야!"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout 나는 아주 어릴 때만 태양을 봤어..."
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko 뭐, 이제 내가 여기 왔으니까..."
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko 조만간 다시 볼 수 있을 거야."
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko 그렇게 돌면 어지러워진다..."
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak 완두콩이에요!"
+

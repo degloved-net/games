@@ -1,0 +1,1728 @@
+msgid "@niko The fridge is full of bottled water and take-out boxes."
+msgstr "@niko В холодильнике полно бутылок с водой и коробок с едой на вынос."
+
+msgid "@niko A small bed."
+msgstr "@niko Маленькая кровать."
+
+msgid "@niko I guess she lives here..."
+msgstr "@niko Думаю, она живёт здесь..."
+
+msgid "@george1_smug Thanks to my superb organizational skills..."
+msgstr "@george1_smug Благодаря моим выдающимся организаторским способностям..."
+
+msgid "@george1 I have kept a copy of every single one of The Author's books in the archival room!"
+msgstr "@george1 Я сохранила в архиве каждый экземпляр книги Автора!"
+
+msgid "@george1 Feel free to peruse the mass sea of knowledge that I helped contribute!"
+msgstr "@george1 Не стесняйся, ныряй скорее в океан знаний, собранный здесь благодаря мне!"
+
+msgid "@george2_grr Everything that I ever helped him publish is here."
+msgstr "@george2_grr Здесь всё, что я помогала ему публиковать."
+
+msgid "@george2_stress What? You wanna read them or something??"
+msgstr "@george2_stress Ну? Ты их читать собрался или что?"
+
+msgid "@niko_speak"
+msgstr "@niko_speak"
+
+msgid "[\"Y-yes?\", \"N-no?\"]"
+msgstr "[\"Д-да?\",\"Н-нет?\"]"
+
+msgid "@george2_stress Well what are you waiting for!!"
+msgstr "@george2_stress Тогда чего ты дожидаешься?!"
+
+msgid "@george2_grr And let all my hard work go to waste?"
+msgstr "@george2_grr Ага, и пусть вся моя кропотливая работа летит к чертям?"
+
+msgid "@george2_sigh Fiiiine."
+msgstr "@george2_sigh Ла-а-а-а-дно."
+
+msgid "@george3_sad I have a copy of everything I helped him publish so far."
+msgstr "@george3_sad У меня есть экземпляры всех книг, которые я помогла ему опубликовать."
+
+msgid "@george3 It's not a lot, but you can read some if you want..."
+msgstr "@george3 Их не так уж много, но если хочешь, можешь что-нибудь почитать..."
+
+msgid "@george4 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george4 В архиве я храню экземпляры всех книг, которые я помогла ему публиковать!"
+
+msgid "@george4_smile You can read some of it if you want! \\>\\n\\@george4 Some of them are even illustrated!"
+msgstr "@george4_smile Если хочешь, можешь что-нибудь почитать! \\>\\n\\@george4 В некоторых книгах даже есть картинки!"
+
+msgid "@george4_smile Kids like pictures, right?"
+msgstr "@george4_smile Ведь детишки любят картинки, да?"
+
+msgid "@george5 I keep a copy of every single book I helped him publish!"
+msgstr "@george5 Я храню экземпляры всех книг, которые помогала ему опубликовать!"
+
+msgid "@george5_smile Feel free to read anything you'd like, dear."
+msgstr "@george5_smile Можешь взять и почитать любую, мой дорогой."
+
+msgid "@george5 There's a couple of picture books that you might be interested in!"
+msgstr "@george5 Кстати, тут есть несколько книг с картинками. Они должны тебе понравиться!"
+
+msgid "@niko Oh!"
+msgstr "@niko О!"
+
+msgid "@george6 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george6 В архиве я храню экземпляры всех книг, которые я помогла ему опубликовать!"
+
+msgid "@george6_smile You can like, totally read some of it."
+msgstr "@george6_smile Можешь типа брать и читать, что душе угодно."
+
+msgid "@george6_shrug If you want, I mean."
+msgstr "@george6_shrug Если хочешь, конечно."
+
+msgid "@niko There's a black clover symbol on the cover of this book."
+msgstr "@niko На обложке этой книги изображён чёрный клевер."
+
+msgid "@niko_speak Hey, and this other book has a clover on its spine!"
+msgstr "@niko_speak Эй, и тут тоже чёрный клевер на корешке!"
+
+msgid "@niko And... the rest of these books too."
+msgstr "@niko И на остальных книгах тоже."
+
+msgid "@niko_speak Are they all... about clovers?"
+msgstr "@niko_speak Они что... все про клевер?"
+
+msgid "@george1_smile A black clover is the mark of The Author!"
+msgstr "@george1_smile Чёрный клевер — фирменный знак Автора!"
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "@george1_hm Since he never entrusted me or anyone else with his name, we identify his works by the mark."
+msgstr "@george1_hm Он не раскрыл своё имя ни мне, ни кому-либо ещё. Но по клеверу на обложке всегда можно узнать его книги."
+
+msgid "@niko So... he wrote ALL of these books?"
+msgstr "@niko Так... он написал ВСЕ эти книги?"
+
+msgid "@george1 I told you he was a genius!"
+msgstr "@george1 Я же говорю, он гениален!"
+
+msgid "@george1_smug ....and, by extension, me!"
+msgstr "@george1_smug ...Впрочем, как и я!"
+
+msgid "@george2_stress WHAT? Of course not!!"
+msgstr "@george2_stress ЧТО?! Разумеется, нет!"
+
+msgid "@george2_grr That's just how The Author marks his work!"
+msgstr "@george2_grr Так Автор отмечает свои работы!"
+
+msgid "@george2_sigh Because he has to keep up with his ~~~~MYSTERIOUS PERSONA~~~~ I GUESS!!!"
+msgstr "@george2_sigh Потому что ему хочется сохранить ИНКОГНИТО СВОЕЙ ДРАГОЦЕННОЙ ПЕРСОНЫ!!!"
+
+msgid "@george2 He's never even told me his name!"
+msgstr "@george2 Он никогда не говорил мне своё имя!"
+
+msgid "@niko_speak Wait, so he wrote ALL of these books?"
+msgstr "@niko_speak Погодите, так это он написал ВСЕ эти книги?"
+
+msgid "@george2_sigh ....*deep breath*"
+msgstr "@george2_sigh (Глубоко вздыхает.)"
+
+msgid "@george2_grr Yes, yes he did."
+msgstr "@george2_grr Да, это он написал все эти книги."
+
+msgid "@george3_sad That's just what The Author uses to mark his works."
+msgstr "@george3_sad Автор использует этот знак, чтобы отмечать свои произведения."
+
+msgid "@george3_sigh I don't even know his name..."
+msgstr "@george3_sigh Я даже не знаю его имя..."
+
+msgid "@niko_speak Oh! So he wrote ALL of these books?"
+msgstr "@niko_speak О! Так это он написал ВСЕ эти книги?"
+
+msgid "@george3_sad Yeah..."
+msgstr "@george3_sad Ага..."
+
+msgid "@george4_smile Oh no, no!"
+msgstr "@george4_smile Нет-нет-нет!"
+
+msgid "@george4 A black clover symbol just means it's written by The Author."
+msgstr "@george4 Чёрный клевер — символ, которым отмечены все книги Автора."
+
+msgid "@george4_golly He doesn't want to tell anyone his name. So he marks all his works with this symbol instead!"
+msgstr "@george4_golly Он никому не хочет называть своё имя, поэтому оставляет этот символ на своих работах!"
+
+msgid "@niko_pancakes He wrote ALL of these books?"
+msgstr "@niko_pancakes Он написал ВСЕ эти книги?"
+
+msgid "@george4_smile He sure did!"
+msgstr "@george4_smile Да, все до единой!"
+
+msgid "@george5_smile Of course not, dear!"
+msgstr "@george5_smile Разумеется, нет, малыш!"
+
+msgid "@george5 The black clover is sort of The Author's name, you see!"
+msgstr "@george5 Видишь ли, чёрный клевер — это как псевдоним Автора!"
+
+msgid "@george5_hmm Actually, we don't know his name! He just uses a clover to mark his works is all."
+msgstr "@george5_hmm Вообще-то, никто не знает его имени! Он просто использует на обложках всех своих книг этот клевер."
+
+msgid "@niko_speak So... he wrote ALL of these books?"
+msgstr "@niko_speak Так... он написал ВСЕ эти книги?"
+
+msgid "@george5_smile He's a trooper, that!"
+msgstr "@george5_smile Да, он такой шустрый парень!"
+
+msgid "@george6_smile LOL nope."
+msgstr "@george6_smile ХА, нет конечно."
+
+msgid "@george6 That's like, just what The Author calls himself."
+msgstr "@george6 Автор просто типа так себя называет."
+
+msgid "@george6_shrug He don't tell anyone his name. He just uses this symbol on his works so we know it's him."
+msgstr "@george6_shrug Он никому не говорит своё настоящее имя, а на книгах ставит этот символ, чтобы все догоняли, что это он."
+
+msgid "@niko_pancakes ...he wrote ALL of these books?"
+msgstr "@niko_pancakes Он написал ВСЕ эти книги?"
+
+msgid "@george6_fingerguns I know right!!!"
+msgstr "@george6_fingerguns В точку!"
+
+msgid "@george1_smile I guess brilliant minds gotta stick together, eh?"
+msgstr "@george1_smile Великие люди должны держаться вместе, как считаешь?"
+
+msgid "@george2_no WORK! WORK! WORK! WORK!"
+msgstr "@george2_no РАБОТА! РАБОТА! РАБОТА!"
+
+msgid "@george3_sigh I wish I worked faster..."
+msgstr "@george3_sigh Хотела бы я работать быстрее..."
+
+msgid "@george4_smile Work work work work work~!"
+msgstr "@george4_smile Работа-работа-работа-работа!"
+
+msgid "@george5_hmm I hope that nice gentleman is alright!"
+msgstr "@george5_hmm Надеюсь, у этого милейшего человека всё в порядке!"
+
+msgid "@george5_hmm If I knew where he lived, I would've sent him some soup or a nice blanket..."
+msgstr "@george5_hmm Если бы я знала, где он живёт, отправила бы немного супа или тёплое одеяло..."
+
+msgid "@george6 I wish we could hang out sometime, he's a chill dude."
+msgstr "@george6 Надеюсь, когда-нибудь мы с ним сможем потусить вместе. Он прикольный чувак."
+
+msgid "@george1 I simply MUST finish all the manuscripts in that box by the end of the week!"
+msgstr "@george1 Я просто ОБЯЗАНА обработать все рукописи в том ящике до конца недели!"
+
+msgid "@george1 There are literally people lining up to read his works, you know!"
+msgstr "@george1 Знаешь, люди становятся в очередь, чтобы почитать его труды!"
+
+msgid "@george1_smug They all have me to thank, of course."
+msgstr "@george1_smug Естественно, это всё благодаря мне."
+
+msgid "@niko Oh? \\>\\@niko_speak What does he write about?"
+msgstr "@niko О? \\>\\@niko_speak А о чём он пишет?"
+
+msgid "@george1 What DOESN'T he write about?"
+msgstr "@george1 А о чём он НЕ пишет?"
+
+msgid "@george1 He cranks out those scripts at the speed of light!"
+msgstr "@george1 Он штампует эти рукописи со скоростью света!"
+
+msgid "@george1_hm Which is 299,792,458 meters per second, by the way."
+msgstr "@george1_hm Что, кстати говоря, составляет 299 792 458 метров в секунду."
+
+msgid "@george2_stress DON'T TOUCH THAT I HAVE TO FINISH THIS BY THE END OF THE WEEK."
+msgstr "@george2_stress А НУ НЕ ТРОГАЙ! Я ДОЛЖНА ЭТО ВСЁ ЗАКОНЧИТЬ ДО КОНЦА НЕДЕЛИ."
+
+msgid "@niko_what Oh, sorry..."
+msgstr "@niko_what Ой, извините..."
+
+msgid "@george2_stress PEOPLE ARE LITERALLY LINING UP TO READ HIS BOOKS!"
+msgstr "@george2_stress ЛЮДИ В ОЧЕРЕДИ ВЫСТРАИВАЮТСЯ, ЧТОБЫ ПОЧИТАТЬ ЕГО КНИГИ!"
+
+msgid "@george2_grr WHAT DOESN'T HE WRITE ABOUT."
+msgstr "@george2_grr О ЧЁМ ОН ТОЛЬКО НЕ ПИШЕТ."
+
+msgid "@george2_stress \"HEY GEORGE I JUST WROTE ABOUT THE ENTIRE UNIVERSE WHILE YOU WERE TAKING A COFFEE BREAK.\""
+msgstr "@george2_stress «ПРИВЕТ, ДЖОРДЖ, ПОКА ТЫ ПИЛА КОФЕ, Я НАПИСАЛ КНИГУ ОБО ВСЕЙ ВСЕЛЕННОЙ»."
+
+msgid "@george2_stress \"IT'S SEVERAL MILLION VOLUMES.\""
+msgstr "@george2_stress «В НЕЙ ВСЕГО ЛИШЬ СЕМЬ МИЛЛИОНОВ ТОМОВ»."
+
+msgid "@george2_no WHERE DOES THAT GUY GET ALL THAT FREE TIME!!!"
+msgstr "@george2_no ГДЕ ЭТОТ ЧЕЛОВЕК БЕРЁТ СТОЛЬКО СВОБОДНОГО ВРЕМЕНИ?!"
+
+msgid "@george3_sad Sigh....... And I haven't even finished this box yet..."
+msgstr "@george3_sad Эх... А я ещё не закончила эту коробку..."
+
+msgid "@george3_sigh ...maybe I shouldn't be his editor after all..."
+msgstr "@george3_sigh Может, всё-таки не стоит работать его редактором..."
+
+msgid "@george3_sad His books are in such high demand all the time!"
+msgstr "@george3_sad Его книги постоянно пользуются огромным спросом!"
+
+msgid "@george3 People would even wait in line to loan a copy...."
+msgstr "@george3 Люди выстраиваются в очереди, чтобы получить экземпляр..."
+
+msgid "@george3_sad What doesn't he write about..."
+msgstr "@george3_sad О чём он только не пишет..."
+
+msgid "@george3_sigh He's just... too good..."
+msgstr "@george3_sigh Он просто... слишком хорош..."
+
+msgid "@george4 Ah! That box is for the book I'll get to publish this week!"
+msgstr "@george4 А! В той коробке книга, которую я должна выпустить на этой неделе!"
+
+msgid "@george4_omg I'm so excitedddd~"
+msgstr "@george4_omg Я в предвкушении-и-и-и..."
+
+msgid "@george4_smile His books are in high demand, y'know?"
+msgstr "@george4_smile Ты знал, что его книги пользуются огромным спросом?"
+
+msgid "@george4 We literally have people lining up to read them!"
+msgstr "@george4 Люди буквально выстраиваются в очередь, чтобы их почитать!"
+
+msgid "@george4_smile Haha, what DOESN'T he write about?"
+msgstr "@george4_smile Ха-ах, да о чём он только не пишет!"
+
+msgid "@george4 It's really impressive how fast he can crank these scripts out!"
+msgstr "@george4 Он выдаёт рукописи с поразительной скоростью!"
+
+msgid "@george4_golly Like, where does that guy get all that time?"
+msgstr "@george4_golly Вот я и думаю, откуда у этого парня столько времени?"
+
+msgid "@george5_smile This is the box I'll get to publish this week!"
+msgstr "@george5_smile В той коробке книга, которую я должна опубликовать на этой неделе!"
+
+msgid "@george5 Oh, oh! Did I mention this gentleman's books are quite popular?"
+msgstr "@george5 О-хо-хо! Я уже говорила, что книги этого джентльмена пользуются большим спросом?"
+
+msgid "@george5_smile You might be a little too young to understand them, but the older kids love them!"
+msgstr "@george5_smile Ты ещё маленький, чтобы их понять, но детишки постарше их обожают!"
+
+msgid "@george5_smile Lots and lots of things!"
+msgstr "@george5_smile О массе разных вещей!"
+
+msgid "@george5 Everything from plants and animals to machines and robots!"
+msgstr "@george5 Начиная с растений и животных до техники и роботов!"
+
+msgid "@george5_smile Some of his books even have pictures!"
+msgstr "@george5_smile В некоторых его книгах даже есть картинки!"
+
+msgid "@george6 That box's got stuff I can publish this week!"
+msgstr "@george6 В той коробке всё, что я опубликую на этой неделе!"
+
+msgid "@george6_point I better up my game, dude.\\> Peeps are lining up to read his books!"
+msgstr "@george6_point Мне лучше пошевеливаться, приятель.\\> Народ в очереди выстраивается ради его книг!"
+
+msgid "@george6_shrug Dude, what DOESN'T he write about!"
+msgstr "@george6_shrug А о чем он НЕ пишет, бро!"
+
+msgid "@george6_smile Like I said, he's got passion, lots of it!"
+msgstr "@george6_smile Я же говорю, он с этого тащится!"
+
+msgid "@george6_shrug It's like every time I turn around he just writes another huge anthology about the universe."
+msgstr "@george6_shrug Стоит мне отвернуться, как он уже пишет очередное собрание сочинений о нашей Вселенной."
+
+msgid "@george6 Gotta respect that."
+msgstr "@george6 Ну как такого не уважать."
+
+msgid "@niko These boxes are full of loose papers and notebooks."
+msgstr "@niko В этих коробках полно бумаг и блокнотов."
+
+msgid "@george1 Oh! I see you are curious about my job."
+msgstr "@george1 О! Я вижу, ты заинтересовался моей работой."
+
+msgid "@george1_hm ...My very important job!"
+msgstr "@george1_hm ...Моей очень важной работой!"
+
+msgid "@george1_smug You see, The Author has entrusted ME with his all his ideas!"
+msgstr "@george1_smug Видишь ли, Автор доверил МНЕ все свои идеи!"
+
+msgid "@george1_hm That's right... the author sends his manuscripts directly to ME!"
+msgstr "@george1_hm Да-да... Автор присылает свои рукописи лично МНЕ!"
+
+msgid "@george1_smug I am in charge of publishing all of his books that everyone loves!"
+msgstr "@george1_smug Это я отвечаю за издание книг, которые все так любят!"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak Круто!"
+
+msgid "@george1 Although... he hasn't been sending me anything as of late!"
+msgstr "@george1 Правда вот... в последнее время он ничего не присылает!"
+
+msgid "@george1_hm I wonder, I wonder..."
+msgstr "@george1_hm Странно, странно..."
+
+msgid "@george1_smile Perhaps he decided that, since I work so hard, I deserve a break?"
+msgstr "@george1_smile Может, он решил, что раз я так много работаю, мне не помешает перерыв?"
+
+msgid "@george1 As brilliant as I am, I still can't keep up with him!"
+msgstr "@george1 Даже такая выдающаяся работница, как я, не может угнаться за его темпом!"
+
+msgid "@george1 Even AFTER he stopped sending me things, I still can't catch up."
+msgstr "@george1 Даже ПОСЛЕ того, как он перестал присылать свои творения, я всё равно не успеваю их издавать."
+
+msgid "@george1_hm Of course, I have published book after book after book, but..."
+msgstr "@george1_hm Я публикую книги одну за другой, но..."
+
+msgid "@george1 The box of manuscripts just seems to be growing on its own!"
+msgstr "@george1 Кажется, будто эта кипа рукописей в ящике растёт сама собой!"
+
+msgid "@george2_grr What? You ain't never seen manuscripts before?"
+msgstr "@george2_grr Что? Ты никогда не видел рукописи?"
+
+msgid "@george2_sigh That's what books look like before they get published, kid."
+msgstr "@george2_sigh Так выглядит книга, пока её не опубликовали, малыш."
+
+msgid "@niko I see!"
+msgstr "@niko Понятно!"
+
+msgid "@niko Do you help him publish books?"
+msgstr "@niko Вы помогаете ему публиковать книги?"
+
+msgid "@george2_stress Well, DUH!\\>\\n\\@george2_grr Why do you THINK I have literal mountains of his manuscripts, here?"
+msgstr "@george2_stress ЕСТЕСТВЕННО!\\>\\n\\@george2_grr Или ты ДУМАЕШЬ, что эти горы рукописей лежат тут просто так?"
+
+msgid "@george2 He just WOULDN'T STOP SENDING ME THINGS!!!"
+msgstr "@george2 Он просто НЕ МОЖЕТ ОСТАНОВИТЬСЯ И НЕ ПРИСЫЛАТЬ МНЕ ВСЁ ЭТО!!!"
+
+msgid "@george2_grr Like, man oh MAN does that guy work fast.\\>\\n\\@george2_sigh I just couldn't keep up!"
+msgstr "@george2_grr Вот просто он реально так быстро работает?\\>\\n\\@george2_sigh Я не могу за ним угнаться!"
+
+msgid "@george2 But one day he just, stopped.\\>\\n\\@george2_sigh ABOUT TIME, I would say.\\>\\n\\@george2 But it's also weird since it's HIM."
+msgstr "@george2 Правда, он всё же остановился.\\>\\n\\@george2_sigh И скажу честно, КАК РАЗ ВОВРЕМЯ.\\>\\n\\@george2 Хотя это странно. Это же ОН."
+
+msgid "@george2_grr BUT! Worst part of all?"
+msgstr "@george2_grr НО! Знаешь, что хуже всего?"
+
+msgid "@george2_stress Even after he stopped bombarding me, the piles of material I have on hand never seem to get any smaller!"
+msgstr "@george2_stress Хотя он и прекратил забрасывать меня своей писаниной, эти тонны рукописей никак не уменьшаются!"
+
+msgid "@george2_no IT'S LIKE THE BOXES ARE MAGICALLY FILLING THEMSELVES BACK UP EVERY TIME I TURN AROUND!!!!"
+msgstr "@george2_no У МЕНЯ ТАКОЕ ЧУВСТВО, ЧТО КАК ТОЛЬКО Я ОТВОРАЧИВАЮСЬ, ЭТИ КОРОБКИ ВОЛШЕБНЫМ ОБРАЗОМ ЗАПОЛНЯЮТСЯ СНОВА!!!"
+
+msgid "@george2_stress WHAT IS EVEN HAPPENING!"
+msgstr "@george2_stress ЧТО ТУТ ТВОРИТСЯ, ЧЁРТ ВОЗЬМИ?!"
+
+msgid "@niko_huh Are you okay?"
+msgstr "@niko_huh Вы в порядке?"
+
+msgid "@george2_no NO!!!!!!"
+msgstr "@george2_no НЕТ!!!"
+
+msgid "@george3_sad Siiiigh..."
+msgstr "@george3_sad О-о-о-о..."
+
+msgid "@george3_sigh You just had to remind me..."
+msgstr "@george3_sigh Ты мне напомнил..."
+
+msgid "@niko_speak What's wrong?"
+msgstr "@niko_speak Что такое?"
+
+msgid "@george3_sad The author hasn't shown up lately, nor has he sent me any new manuscripts..."
+msgstr "@george3_sad В последнее время Автор куда-то пропал. Он даже не присылал мне никаких новых рукописей..."
+
+msgid "@george3_sad I'm his editor and publisher, you know..."
+msgstr "@george3_sad Знаешь, я ведь его редактор и издатель..."
+
+msgid "@george3_cry What if he doesn't want me to help him anymore?"
+msgstr "@george3_cry А вдруг он больше не хочет, чтобы я ему помогала?"
+
+msgid "@george3_worry He's brilliant, he works so fast...."
+msgstr "@george3_worry Он гениален, он так быстро работает..."
+
+msgid "@george3_worry I'm so behind with publishing his books... what if he thinks I'm too slow..."
+msgstr "@george3_worry Я так отстаю с публикацией его книг... А вдруг он решил, что я слишком медленно их издаю?.."
+
+msgid "@george3_sigh Even after he's stopped sending me things, I still can't keep up..."
+msgstr "@george3_sigh Хоть он и перестал присылать свои рукописи, я всё ещё не могу успеть в срок..."
+
+msgid "@george3_sad The pile seems to just keep growing..."
+msgstr "@george3_sad Эта стопка всё растёт и растёт..."
+
+msgid "@george4_omg Oh! These are the manuscripts The Author sent me!"
+msgstr "@george4_omg О! Это рукописи, которые мне прислал Автор!"
+
+msgid "@george4 As the head librarian, it's my job to help him with the publication process."
+msgstr "@george4 Я ведь главный библиотекарь, и моя работа — помогать ему с публикацией."
+
+msgid "@george4_golly But ah... lately he hasn't been sending me anything."
+msgstr "@george4_golly Но увы... В последнее время он ничего не присылает."
+
+msgid "@george4_golly This isn't like him..."
+msgstr "@george4_golly Это на него совсем непохоже..."
+
+msgid "@george4 I mean, I guess it does give me some extra time to work through this backlog!"
+msgstr "@george4 То есть, конечно, это даёт мне время разобрать все завалы!"
+
+msgid "@george4_oops To be honest, I'm a little behind, haha!"
+msgstr "@george4_oops Ха-ха, честно говоря, я немного запаздываю!"
+
+msgid "@george4_omg That guy works really fast!"
+msgstr "@george4_omg Этот парень работает нереально быстро!"
+
+msgid "@niko I see..."
+msgstr "@niko Понятно..."
+
+msgid "@george4 ...the weird part is,\\>\\nI've been publishing book after book AFTER he stopped sending me things, right?"
+msgstr "@george4 Но вот в чём загвоздка...\\>\\nЯ публикую книгу за книгой даже ПОСЛЕ того, как он перестал присылать новые рукописи, так?"
+
+msgid "@george4_golly But the pile of manuscripts never seems to get any smaller!"
+msgstr "@george4_golly А вон та кипа не становится меньше!"
+
+msgid "@george4_golly ...at all!"
+msgstr "@george4_golly От слова совсем!"
+
+msgid "@george4_oops Golly, you think I'm going bonkers?"
+msgstr "@george4_oops Ну и ну! Неужто я схожу с ума?"
+
+msgid "@george5_smile I see you've taken an interest to the manuscripts!"
+msgstr "@george5_smile Вижу, тебя заинтересовали рукописи!"
+
+msgid "@niko What are they for?"
+msgstr "@niko Для чего они?"
+
+msgid "@george5_aww Well, aren't you curious, little one!"
+msgstr "@george5_aww Ой, малыш, какой ты любопытный!"
+
+msgid "@george5 The Author passed these drafts to me, you see!"
+msgstr "@george5 Видишь ли, Автор передал мне эти рукописи!"
+
+msgid "@george5_smile Since I'm the head librarian, I am supposed to help him publish these!"
+msgstr "@george5_smile Я ведь главный библиотекарь, и моя работа — помогать ему с публикацией!"
+
+msgid "@george5_hmm But... oh, I haven't seen that gentleman lately...."
+msgstr "@george5_hmm Только... я уже давно не видела этого джентльмена..."
+
+msgid "@george5 Which is quite strange! Usually he delivers these manuscripts to me faster than I can work on them!"
+msgstr "@george5 А это весьма странно! Обычно он присылает рукописи быстрее, чем я успеваю их печатать!"
+
+msgid "@george5_heh I guess now it just means I get a little more breathing room, hohoho!"
+msgstr "@george5_heh Думаю, это значит, что у меня появилось немного больше времени для работы, хо-хо-хо!"
+
+msgid "@niko_speak That's good!\\> \\@niko ...right?"
+msgstr "@niko_speak Это хорошо!\\> \\@niko Да?.."
+
+msgid "@george5_hmm I don't know! I AM quite worried about him."
+msgstr "@george5_hmm Не знаю! Вообще-то я за него волнуюсь."
+
+msgid "@george5_hmm I hope he hasn't fallen ill from all that stress!"
+msgstr "@george5_hmm Надеюсь, он не заболел от стресса!"
+
+msgid "@george5_smile At least I got my hands full for the time being."
+msgstr "@george5_smile По крайней мере, пока что у меня хватает дел."
+
+msgid "@george5 Even though he's stopped sending me things, it doesn't feel like he did at all!"
+msgstr "@george5 У меня такое чувство, что он и не переставал присылать свои рукописи!"
+
+msgid "@george5_heh The pile of manuscripts I still need to proofread doesn't seem to get smaller, haha!"
+msgstr "@george5_heh Те кипы, которые мне ещё предстоит отредактировать, никак не уменьшаются, ха-ха!"
+
+msgid "@niko This box is full of loose papers and notebooks."
+msgstr "@niko В этой коробке полно листов бумаги и блокнотов."
+
+msgid "@george6_point Yo, these are the manuscripts The Author gave me."
+msgstr "@george6_point Йоу, а это рукописи, которые передал мне Автор."
+
+msgid "@george6_smile I'm supposed to like, help him publish and stuff."
+msgstr "@george6_smile Я как бы помогаю ему их публиковать."
+
+msgid "@george6 But he hasn't shown his face 'round these parts lately."
+msgstr "@george6 Правда, в последнее время он тут не проявлялся."
+
+msgid "@george6 That's like, throwin off my groove, man."
+msgstr "@george6 И это как-то типа вообще не прикольно."
+
+msgid "@george6_shrug Like, I'm used to him sending me new stuff all the time."
+msgstr "@george6_shrug Вообще-то я привыкла, что он постоянно скидывает что-то новенькое."
+
+msgid "@george6 I mean, of course I can't keep up with the pace that he's writin', but he don't mind."
+msgstr "@george6 Конечно, я не могу угнаться за его скоростью, но он вроде не возражает."
+
+msgid "@george6_fingerguns Guy's just tooootally passionate 'bout his job!"
+msgstr "@george6_fingerguns Этот парень про-о-о-о-сто фанат своей работы!"
+
+msgid "@george6_smile Makes me wanna work hard too, so I do!"
+msgstr "@george6_smile Так что у меня тоже появляется желание пахать, что я и делаю!"
+
+msgid "@george6 I've been playin catchup with the stuff I haven't gotten to finish yet."
+msgstr "@george6 Мне кажется, мы с его рукописями играем в догонялки."
+
+msgid "@george6_point But you know what's weird?"
+msgstr "@george6_point Но знаешь, в чём прикол?"
+
+msgid "@niko What?"
+msgstr "@niko В чём?"
+
+msgid "@george6_shrug The stuff I'm supposed to finish don't get finished."
+msgstr "@george6_shrug Вся писанина, которую я должна была уже перелопатить, не заканчивается."
+
+msgid "@george6 Like I've put out book after book but the work pile don't get any smaller."
+msgstr "@george6 Я тут типа выпускаю книгу за книгой, а стопка его работ не становится меньше."
+
+msgid "@george6_shrug ...Have I really been slackin' that much?"
+msgstr "@george6_shrug ...Я что, настолько тормознутая?"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko Это книжная полка."
+
+msgid "@niko_speak The computer screen says something about \"updated databases\"."
+msgstr "@niko_speak На экране компьютера написано что-то насчёт обновлённых баз данных."
+
+msgid "@george1 So!\\>\\n\\@george1_smug Someone here to see the brilliant George, eh?"
+msgstr "@george1 Итак!\\>\\n\\@george1_smug Кто-то зашёл проведать несравненную Джордж?"
+
+msgid "@george1_smug Caught wind of my genius and couldn't help but come see for yourself, eh?"
+msgstr "@george1_smug Конечно же, до тебя долетели слухи о моей гениальной работе, и ты не смог удержаться и не зайти посмотреть, кто же эта звезда?"
+
+msgid "@niko Um-"
+msgstr "@niko Хм..."
+
+msgid "@george1 ...don't answer!\\>\\n\\@george1_smug Of course you are."
+msgstr "@george1 Можешь не отвечать!\\>\\n\\@george1_smug Я знаю, что это так."
+
+msgid "@george1_smile What else could you ~possibly~ want?"
+msgstr "@george1_smile Зачем ещё ты мог ко мне прийти?"
+
+msgid "@niko Actually... \\@niko_speak I need your help!\\>\\n\\@niko_speak Can you tell me what I need to do?"
+msgstr "@niko Вообще-то... \\@niko_speak Мне нужна ваша помощь!\\>\\n\\@niko_speak Вы не могли бы сказать, что мне дальше делать?"
+
+msgid "@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko Кажется... я должен зайти в Башню..."
+
+msgid "@george1_smug Ah, but of course I can help!"
+msgstr "@george1_smug Ах, разумеется, я могу помочь!"
+
+msgid "@george1 For I... the brilliant and intelligent head librarian George, beholder of all knowledge........"
+msgstr "@george1 Ибо я, умнейшая и несравненнейшая главная библиотекарь Джордж, хранительница всех знаний мира..."
+
+msgid "@george1_hm ...Believe you're supposed to go in the Tower!"
+msgstr "@george1_hm ...Полагаю, тебе нужно попасть в Башню!"
+
+msgid "@niko_eyeclosed That's what I said...\\>\\n\\@niko_speak But how, exactly?"
+msgstr "@niko_eyeclosed Это я и сказал...\\>\\n\\@niko_speak Но как именно?"
+
+msgid "@george1 Through the Tower entrance room!"
+msgstr "@george1 Через прихожую в Башне!"
+
+msgid "@george1_hm Alas, going beyond that small entrance room requires ancient, forbidden knowledge that eludes even George."
+msgstr "@george1_hm Увы и ах, древнее тайное знание о том, как преодолеть эту прихожую, укрылось даже от всезнающей Джордж."
+
+msgid "@george1 ...but fear not!"
+msgstr "@george1 Но не страшись!"
+
+msgid "@george1 If that knowledge happens to be recorded in some cryptic tome in a long-dead language..."
+msgstr "@george1 Если окажется, что это знание хранит в себе какой-нибудь таинственный манускрипт, написанный на давно забытом языке..."
+
+msgid "@george1_smug Then know that I, George, am fluent in several dead languages!"
+msgstr "@george1_smug Знай, что я, мудрейшая Джордж, бегло разговариваю на нескольких мёртвых языках!"
+
+msgid "@niko I... see!"
+msgstr "@niko Понятно!"
+
+msgid "@niko Excuse me..."
+msgstr "@niko Прошу прощения..."
+
+msgid "@george2_stress Hey!!!"
+msgstr "@george2_stress Эй!!!"
+
+msgid "@george2_grr Who the heck do you think you are, barging in here like that?"
+msgstr "@george2_grr Ты чего вламываешься сюда без спроса? Кем ты себя возомнил?!"
+
+msgid "@george2_NO I don't care if you're the Messiah, manners are still a thing!"
+msgstr "@george2_NO Да мне плевать, что ты мессия. Это не отменяет элементарных правил приличия!"
+
+msgid "@niko I'm... \\>\\@niko_speak sorry?"
+msgstr "@niko Прошу... \\>\\@niko_speak прощения..."
+
+msgid "@george2 Well? Are you just here to apologize?"
+msgstr "@george2 Ну? Ты зашёл сюда извиняться?"
+
+msgid "@niko ...Yes? \\.\\.\\n\\@niko_speak I mean, no!"
+msgstr "@niko Да... \\.\\.\\n\\@niko_speak То есть нет!"
+
+msgid "@niko_eyeclosed I mean, I need your help...\\>\\n\\@niko I'm not sure what I need to do next."
+msgstr "@niko_eyeclosed Мне нужна ваша помощь...\\>\\n\\@niko Я не знаю, что мне делать дальше."
+
+msgid "@niko I think I need to go in the Tower?"
+msgstr "@niko Кажется, я должен зайти в Башню?"
+
+msgid "@george2 Seriously? You haven't figured that one out yet?"
+msgstr "@george2 Серьёзно? До тебя это только что дошло?"
+
+msgid "@niko_speak I don't know how to get in!"
+msgstr "@niko_speak Я не знаю, как попасть внутрь!"
+
+msgid "@george2_grr Well, I don't know either.\\n\\>\\@george2 Shouldn't \\p help you with that?"
+msgstr "@george2_grr Ну и я не знаю.\\n\\>\\@george2 Для таких вопросов у тебя есть \\p."
+
+msgid "@george2_sigh All I know is that nobody from this world can get in there."
+msgstr "@george2_sigh Я знаю лишь, что никто из этого мира зайти туда не может."
+
+msgid "@george2_grr Not beyond that tiny entrance room, anyway."
+msgstr "@george2_grr Разве что в прихожую."
+
+msgid "@george2 If anything, there might be a book on how the Messiah of all people can get in."
+msgstr "@george2 Если что, в какой-нибудь книге наверняка описано, каким образом мессия может туда попасть."
+
+msgid "@george2_sigh But I don't got anything like that in MY collection."
+msgstr "@george2_sigh Но среди МОИХ книг ничего подобного нет."
+
+msgid "@george2_grr Would like to, though."
+msgstr "@george2_grr А хотелось бы."
+
+msgid "@george3_sad Si\\.i\\.i\\.\\.i\\.\\.igh."
+msgstr "@george3_sad Э-хе-\\.хе-\\.хе-\\.\\.хе-\\.\\.хе..."
+
+msgid "@niko Um... hi?"
+msgstr "@niko Э-э... привет?"
+
+msgid "@george3_sigh ...\\.Hi."
+msgstr "@george3_sigh ...\\.Привет."
+
+msgid "@niko_speak Are you alright?"
+msgstr "@niko_speak С вами всё в порядке?"
+
+msgid "@george3_sad .\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\.."
+msgstr "@niko .\\..\\..\\.."
+
+msgid "@george3_worry Can I... help you..."
+msgstr "@george3_worry Я... могу тебе чем-то помочь?.."
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak Ага!"
+
+msgid "@niko I was wondering if you can tell me what I should do next?"
+msgstr "@niko Не могли бы вы подсказать, что мне делать дальше?"
+
+msgid "@niko I... think I'm supposed to go in the Tower."
+msgstr "@niko Кажется, я... должен зайти в Башню."
+
+msgid "@george3_sad ...the Tower....\\>\\n\\@george3_sigh A grim obelisk... \\>\\@george3_sigh a solemn reminder of our fate."
+msgstr "@george3_sad Башня...\\>\\n\\@george3_sigh Тот мрачный обелиск... \\>\\@george3_sigh Напыщенное напоминание о нашей судьбе."
+
+msgid "@george3_cry We're all gonna dieeeeeee...."
+msgstr "@george3_cry Мы все умрё-ё-ё-ё-м..."
+
+msgid "@niko_what Um..."
+msgstr "@niko_what Э-э-э..."
+
+msgid "@niko_what ...so...\\> \\@niko_eyeclosed how do I... \\>\\@niko_speak get in?"
+msgstr "@niko_what Так...\\> \\@niko_eyeclosed как мне... \\>\\@niko_speak попасть внутрь?"
+
+msgid "@george3_cry I don't know...!!!\\>\\n\\@george3_sad I've been reading and studying all my life, and yet..."
+msgstr "@george3_cry Я не знаю!!!\\>\\n\\@george3_sad Я всю жизнь читаю и учусь, но всё равно..."
+
+msgid "@george3_cry I haven't even found any books about entering the Tower!"
+msgstr "@george3_cry Я не нашла ни единой книги о том, как войти в Башню!"
+
+msgid "@george3 Oh, I know there's a small room you can go in, but...\\>\\n\\@george3_cry Everybody knows that!"
+msgstr "@george3 О, я знаю, что там есть маленькая комната, куда можно войти, но...\\>\\n\\@george3_cry Это и так всем известно!"
+
+msgid "@george4_smile Helloooo~!\\>\\nYou must be the savior!"
+msgstr "@george4_smile Приве-е-е-е-е-т!\\>\\nТы, наверное, спаситель!"
+
+msgid "@george4_omg I'm soooo happy I actually get to meet you! <3"
+msgstr "@george4_omg Я та-а-а-а-к рада с тобой познакомиться! <3"
+
+msgid "@niko_speak It's nice to meet you too, miss!"
+msgstr "@niko_speak Мне тоже приятно познакомиться, мисс!"
+
+msgid "@george4 So! Are you here to check out the archives?\\>\\n\\@george4_omg I can give you a tour!"
+msgstr "@george4 Итак! Ты пришёл посмотреть архивы?\\>\\n\\@george4_omg Я могу тебе тут всё показать!"
+
+msgid "@niko Actually... \\>\\n\\@niko_speak I need your help!"
+msgstr "@niko На самом деле... \\>\\n\\@niko_speak Мне нужна ваша помощь!"
+
+msgid "@niko_speak Can you tell me what I need to do next?\\>\\n\\@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko_speak Скажите, пожалуйста, что мне дальше делать?\\>\\n\\@niko Кажется... я должен зайти в Башню..."
+
+msgid "@george4 Yup!"
+msgstr "@george4 Ага!"
+
+msgid "@niko Do you know how I can get in?"
+msgstr "@niko Вы знаете, как мне туда попасть?"
+
+msgid "@george4 Nope!"
+msgstr "@george4 Не-а!"
+
+msgid "@george4_golly Gosh, I don't think ANYONE's supposed to get inside the Tower!"
+msgstr "@george4_golly Господи, я не думаю, что КТО-ЛИБО вообще может зайти в Башню!"
+
+msgid "@george4 I mean, there's a little room that you can go into...\\>\\n\\@george4_golly But there's no stairs or elevators or anything else..."
+msgstr "@george4 То есть там есть маленькая комната, в которую можно зайти...\\>\\n\\@george4_golly Но больше там нет ни лестницы, ни лифта... Ничего такого..."
+
+msgid "@george4 If you want my guess, you'll probably need \\p's help?"
+msgstr "@george4 Если хочешь знать моё мнение, думаю, \\p сможет тебе в этом помочь."
+
+msgid "@george4_oops I don't know how exactly..."
+msgstr "@george4_oops Только я не знаю, как именно..."
+
+msgid "@george4 In my experience, that kind of knowledge is usually recorded in some sort of cryptic book."
+msgstr "@george4 Насколько я знаю, такого рода информация обычно хранится в разных таинственных книгах."
+
+msgid "@george4_golly But I haven't read anything like that before...\\>\\n\\@george4_oops Sorry!"
+msgstr "@george4_golly Но мне никогда ничего подобного не попадалось...\\>\\n\\@george4_oops Прости!"
+
+msgid "@niko Ah..."
+msgstr "@niko А..."
+
+msgid "@george5 Oh, hello there!"
+msgstr "@george5 О, приветик!"
+
+msgid "@george5_smile You must be the savior!"
+msgstr "@george5_smile Ты, наверное, спаситель!"
+
+msgid "@george5_aww And also, the cutest darn thing I have ever seen!"
+msgstr "@george5_aww Да ещё и милейшее существо на свете!"
+
+msgid "@niko U-um... \\>\\n\\@niko_speak Thank you!"
+msgstr "@niko Эм-м... \\>\\n\\@niko_speak Спасибо!"
+
+msgid "@george5_smile Can I help you with anything, sweetie?"
+msgstr "@george5_smile Я могу тебе чем-нибудь помочь, лапуся?"
+
+msgid "@niko Mhm!\\>\\n\\@niko I want to know what I should do next!"
+msgstr "@niko Ага!\\>\\n\\@niko Я бы хотел узнать, что мне делать дальше!"
+
+msgid "@niko I think I'm supposed to go in the Tower?"
+msgstr "@niko Я ведь должен зайти в Башню?"
+
+msgid "@george5 Oooh that's right, the Tower!"
+msgstr "@george5 А-а-а, точно. Башня!"
+
+msgid "@george5_smile I know there's a small room that you can go into, but..."
+msgstr "@george5_smile Я знаю, что там есть небольшая комната, в которую можно войти, но..."
+
+msgid "@george5_hmm ...I'm afraid nobody knows how to get in beyond that!"
+msgstr "@george5_hmm ...Боюсь, что никому не известно, как пройти дальше!"
+
+msgid "@george5_heh Not even silly ol' me, who spent her entire life reading books about the world..."
+msgstr "@george5_heh Даже старой глупой Джордж, которая провела всю свою жизнь за книгами об этом мире..."
+
+msgid "@george5 I think you need some help from \\p, but I don't know any details!"
+msgstr "@george5 Думаю, тебе нужна помощь от кого-то ещё. Может, \\p сможет подсказать?"
+
+msgid "@george5_hmm I've never found any books about this before...\\>\\n\\@george5_smile You'd think there would be at least ONE book on this, but I guess that's just how it is!"
+msgstr "@george5_hmm Мне ни разу не попадались книги на эту тему...\\>\\n\\@george5_smile Казалось бы, должна быть ХОТЬ ОДНА книга, посвященная входу в Башню, но увы!"
+
+msgid "@george5_hmm Goodness, this is quite the dilemma!"
+msgstr "@george5_hmm Да уж, положение крайне затруднительное!"
+
+msgid "@george6 Hey, lil' fella!"
+msgstr "@george6 Привет, пацанчик!"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak Привет!"
+
+msgid "@george6_point So you're gonna like, save the world and stuff!\\>\\n\\@george6_smile Didn't think I'd run into ya. But now I did!"
+msgstr "@george6_point Итак, ты типа собираешься спасти мир и всё такое!\\>\\n\\@george6_smile Не думала, что мы с тобой встретимся. И всё же это произошло!"
+
+msgid "@george6_fingerguns Eyyyyyy."
+msgstr "@george6_fingerguns Йоу-у-у!"
+
+msgid "@niko_speak Um, thanks?"
+msgstr "@niko_speak Э-э, спасибо."
+
+msgid "@george6 So like, what up?\\>\\n\\@george6_smile Can I getcha anything?"
+msgstr "@george6 Ну так чё там?\\>\\n\\@george6_smile Чем тебя уважить?"
+
+msgid "@niko_speak Yeah! I heard you can help me!"
+msgstr "@niko_speak Я слышал, что вы можете мне помочь!"
+
+msgid "@niko I'm not sure what I'm supposed to do now..."
+msgstr "@niko Я не знаю, что мне теперь делать..."
+
+msgid "@niko_speak I think I'm supposed to go in the Tower...\\>\\n\\@niko But how do I do that?"
+msgstr "@niko_speak Кажется, я должен зайти в Башню...\\>\\n\\@niko Но как это сделать?"
+
+msgid "@george6 Ya don't.\\>\\n\\@george6_shrug At least, WE don't."
+msgstr "@george6 Никак.\\>\\n\\@george6_shrug Ну, НАМ — никак."
+
+msgid "@george6 The Tower's only got one teeny room in it, it ain't even got stairs!"
+msgstr "@george6 В Башне только одна малюсенькая комнатка, но в ней, блин, нет даже лестницы!"
+
+msgid "@george6_point I bet you need \\p's help on this one, pal...\\>\\n\\@george6_shrug Exactly how? I dunno."
+msgstr "@george6_point Без помощи тебе точно не обойтись, друган, но у тебя же есть \\p...\\>\\n\\@george6_shrug А как вы это разрулите, я не в курсах."
+
+msgid "@george6 But I bet'cha anything that sorta knowledge is in some mystery book somewhere."
+msgstr "@george6 Кстати, могу поспорить, всякая такая фигня... ну, информация... хранится в какой-нибудь мутной книжке."
+
+msgid "@george6_shrug Nothin' in my collection fits the description, tho."
+msgstr "@george6_shrug Правда, в моей коллекции нет ничего похожего."
+
+msgid "@niko A book is poking out from the shelf."
+msgstr "@niko С полки выглядывает книга."
+
+msgid "@niko A box full of notebooks."
+msgstr "@niko Коробка, заполненная блокнотами."
+
+msgid "@george1 Oh, do you need George to tell you what to do again?"
+msgstr "@george1 Ой, ты хочешь, чтобы Джордж снова объяснила тебе, что делать?"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak Да, пожалуйста!"
+
+msgid "@george1 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george1 Согласно дневнику ты должен зайти в маленькую комнату в подножии Башни с тремя кусочками прежнего солнца."
+
+msgid "@george1 With those three items at hand, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george1 С этими тремя предметами просто стой в комнате, а \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@niko Alright... thank you!"
+msgstr "@niko Ясно... Спасибо!"
+
+msgid "@george1_smile Good luck on your journey, small child!"
+msgstr "@george1_smile Удачного путешествия, малыш!"
+
+msgid "@george1 George shall bid you farewell now."
+msgstr "@george1 Джордж прощается с тобой и желает всего наилучшего."
+
+msgid "@george1 I've done it!"
+msgstr "@george1 У меня получилось!"
+
+msgid "@george1_smile I have finished the daunting task of translating this journal!"
+msgstr "@george1_smile Я справилась с невероятно сложным переводом этого дневника!"
+
+msgid "@niko_speak Oh! That was fast!"
+msgstr "@niko_speak Ого! Как быстро!"
+
+msgid "@george1_smug But of course! I AM the speediest translator in recent history."
+msgstr "@george1_smug Ну конечно! Я ведь самая быстрая переводчица в истории современности."
+
+msgid "@george1 Anyway, I made you a line-by-line transcript. \\>\\nIt looks like this journal might be meant for \\p."
+msgstr "@george1 В общем, я сделала для тебя подстрочный перевод. \\>\\nПохоже, что адресат этого дневника — \\p."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Вот как?"
+
+msgid "@george1 Here, take a look yourself."
+msgstr "@george1 Вот, можешь сам посмотреть."
+
+msgid "@george1 There, that's the last of it."
+msgstr "@george1 Вот, это последнее."
+
+msgid "@george1 The rest of the pages are torn out.\\>\\n\\@george1_hm You didn't do this, did you?"
+msgstr "@george1 Остальные страницы вырваны.\\>\\n\\@george1_hm Это ведь не ты сделал, правда?"
+
+msgid "@niko_speak No!"
+msgstr "@niko_speak Нет!"
+
+msgid "@george1 A shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george1 Ah well, I guess \\p will have to figure out that one."
+msgstr "@george1 Вот беда! Я пыталась понять, что это за окна такие.\\>\\n\\@george1 Ну ладно, \\p во всём разберётся."
+
+msgid "@niko Right..."
+msgstr "@niko Верно..."
+
+msgid "@niko_speak By the way, what does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak Кстати, а что это за «три кусочка прежнего солнца»?\\>\\n\\@niko У меня есть только это..."
+
+msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can answer!"
+msgstr "@george1_hm Ага!\\>\\nВот на этот вопрос... \\@george1_smug у Джордж есть ответ!"
+
+msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
+msgstr "@george1 Это значит, что у тебя должны быть предметы, содержащие жёлтый фосфор — самый редкий.\\>\\n\\@george1 Он дольше остальных впитывает солнечный свет и никогда не гаснет."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Ой!\\>\\n\\@niko У меня же есть янтарь и перо, и они оба светятся жёлтым светом..."
+
+msgid "@george1_hm But alas, you are missing the third, no?"
+msgstr "@george1_hm Но к великому сожалению, тебе не хватает третьего предмета, ведь так?"
+
+msgid "@george1 Fear not! For George, collector of rare artifacts... \\@george1_hm will assist you!\\>\\n\\@george1 Here."
+msgstr "@george1 Но не страшись! Джордж, собирательница редчайших артефактов со всего света... \\@george1_hm поможет тебе!\\>\\n\\@george1 Вот."
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko_huh ...like you?"
+msgstr "@niko О...\\>\\n\\@niko_speak Это немного похоже... \\@niko_huh Похоже на вас?.."
+
+msgid "@george1_smile Yes!"
+msgstr "@george1_smile Точно!"
+
+msgid "@george1_smile Now you'll never forget my face! \\>\\n\\@george1 The face... \\>\\@george1_hm of knowledge."
+msgstr "@george1_smile Теперь ты никогда не забудешь мой лик! \\>\\n\\@george1 Лик... \\>\\@george1_hm великих знаний."
+
+msgid "@niko_speak Ah, thank you!"
+msgstr "@niko_speak Ох, спасибо!"
+
+msgid "@george1 Yes, even someone as great as I must put the proper thought and care into a task like this."
+msgstr "@george1 Да, даже такие великие личности, как я, должны разумно и аккуратно выполнять подобные задания."
+
+msgid "@niko_yawn *yawn*..."
+msgstr "@niko_yawn (Зевает.)"
+
+msgid "@niko_eyeclosed Excuse me.... \\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed Простите меня... \\>\\n\\@niko Снова..."
+
+msgid "@george1 Go take a nap, small child! \\>\\n\\@george1_smug Take a nap and appreciate my hospitality!"
+msgstr "@george1 Поди поспи чуток, дитя! \\>\\n\\@george1_smug Поспи и не забудь поблагодарить меня за гостеприимство!"
+
+msgid "@george1 Guest room's in the attic down the hall, in case you forgot."
+msgstr "@george1 Если ты забыл, комната для гостей находится на чердаке, дальше по коридору."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko I do have this book, though!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko У меня есть такая книга!\\>\\n\\@niko_speak Но... она написана на языке, который я не понимаю."
+
+msgid "@george1 Aha!\\>\\nAn ancient book!\\>\\nWritten by no less than the most ancient... wait a minute."
+msgstr "@george1 Ага!\\>\\nДревняя книга!\\>\\nНаписанная не менее древним... Погоди-ка."
+
+msgid "@george1_hm This isn't ancient at all!\\>\\n\\@george1 But it's written in a dead language nevertheless."
+msgstr "@george1_hm Она вовсе не древняя!\\>\\n\\@george1 Однако она написана на мёртвом языке."
+
+msgid "@george1_hm It's time... for me to unleash my brilliance!"
+msgstr "@george1_hm Пришло время... Мой интеллект готов к новому вызову!"
+
+msgid "@george1 For George (me),\\npossessor of at least one PhD...\\>\\n\\@george1_smug shall translate this!"
+msgstr "@george1 Для Джордж (то есть для меня),\\nобладательницы как минимум одного красного диплома...\\>\\n\\@george1_smug Перевести это будет проще простого!"
+
+msgid "@george1 ...this will take some time, however."
+msgstr "@george1 Конечно, это займёт некоторое время..."
+
+msgid "@niko I see...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Понятно...\\>\\n\\@niko_yawn (Зевает.)"
+
+msgid "@niko_eyeclosed Excuse me...."
+msgstr "@niko_eyeclosed Простите..."
+
+msgid "@george1_hm Oh? What's this? \\>\\nYou are sleepy?"
+msgstr "@george1_hm Ой? Что такое? \\>\\nТы хочешь спать?"
+
+msgid "@niko_eyeclosed A little...."
+msgstr "@niko_eyeclosed Немного..."
+
+msgid "@george1_smile Fear not! \\>Because I have read a book on hospitality before!"
+msgstr "@george1_smile Не страшись, \\>ибо я прочитала книгу по искусству гостеприимства!"
+
+msgid "@george1_smug ...and thus, have prepared for this exact situation!"
+msgstr "@george1_smug ...И подготовилась к подобной ситуации!"
+
+msgid "@george1 ...Guest room's in the attic down the hall."
+msgstr "@george1 ...Комната для гостей — на чердаке, дальше по коридору."
+
+msgid "@niko So...."
+msgstr "@niko Итак..."
+
+msgid "@george1 If you have any questions regarding books, then fear not."
+msgstr "@george1 Если у тебя есть вопросы по книгам, не страшись."
+
+msgid "@george1_smug For I, George the head librarian, know a lot about \\c[3]books\\c[0]."
+msgstr "@george1_smug ...Ибо я, Джордж, главный библиотекарь, очень много знаю про \\c[3]книги\\c[0]."
+
+msgid "@george2_grr What? You need me to explain again?"
+msgstr "@george2_grr Что? Мне опять объяснять?"
+
+msgid "@george2_sigh FINE."
+msgstr "@george2_sigh ЛАДНО."
+
+msgid "@george2 The Journal says you have to go to the small room at the base of the Tower while holding three pieces of the previous sun."
+msgstr "@george2 В дневнике сказано, что ты должен войти в маленькую комнату в подножии Башни с тремя кусочками прежнего солнца."
+
+msgid "@george2 Since you already have those, you must stand in the room and wait for \\p to do something about floor patterns and windows."
+msgstr "@george2 И раз у тебя есть три предмета, просто стой в комнате и жди, когда \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@niko Alright... that makes sense.\\>\\n\\@niko Thank you!"
+msgstr "@niko Хорошо... Всё понятно.\\>\\n\\@niko Спасибо!"
+
+msgid "@george2_sigh Well, bye."
+msgstr "@george2_sigh Ну, тогда пока."
+
+msgid "@george2_grr THERE. FINALLY.\\>\\n\\@george2_sigh ...the translation is done."
+msgstr "@george2_grr ВОТ. НАКОНЕЦ-ТО.\\>\\n\\@george2_sigh Я закончила перевод."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko That was faster than I thought!"
+msgstr "@niko_speak Ого!\\>\\n\\@niko Даже быстрее, чем я ожидал!"
+
+msgid "@george2_grr Well, YEAH!\\>\\n\\@george2_stress You've been asleep for hours!"
+msgstr "@george2_grr НУ ЕСТЕСТВЕННО!\\>\\n\\@george2_stress Ты же проспал несколько часов!"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed О..."
+
+msgid "@george2_sigh Anyway...\\>\\n\\@george2_grr It looks like this journal was meant for \\p."
+msgstr "@george2_sigh Короче...\\>\\n\\@george2_grr Похоже, что адресат этого дневника — \\p."
+
+msgid "@george2_sigh Here. Read it yourself."
+msgstr "@george2_sigh Вот. Прочти сам."
+
+msgid "@george2_grr That's all there is.\\>\\n\\@george2_sigh Someone tore out the other pages."
+msgstr "@george2_grr Это всё, что тут есть.\\>\\n\\@george2_sigh Кто-то вырвал остальные страницы."
+
+msgid "@george2_grr Did YOU do this???"
+msgstr "@george2_grr Это ТЫ сделал?!"
+
+msgid "@niko_huh No!"
+msgstr "@niko_huh Нет!"
+
+msgid "@george2_sigh Then you're on your own, kid. I'm not sure what \"window\" means here.\\>\\n\\@george2 Maybe \\p will have to figure out that one."
+msgstr "@george2_sigh Потом ты уж сам по себе, парень, потому что я понятия не имею, что это за окна.\\>\\n\\@george2 Может, \\p сообразит, что к чему."
+
+msgid "@george2_grr Do I have to explain EVERYTHING..."
+msgstr "@george2_grr Мне что, ВСЁ-ВСЁ объяснять?.."
+
+msgid "@george2_sigh Sigh.\\>\\n\\@george2_grr It's just a fancy word for objects containing yellow phosphor."
+msgstr "@george2_sigh Боже.\\>\\n\\@george2_grr Это просто такое выражение для предметов, содержащих жёлтый фосфор."
+
+msgid "@george2_sigh Y'know, stuff that glows yellow."
+msgstr "@george2_sigh Ну штука, которая светится жёлтым."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather!"
+msgstr "@niko_speak Ой!\\>\\n\\@niko У меня же есть янтарь и перо!"
+
+msgid "@niko_speak They fit the description, right...?"
+msgstr "@niko_speak Они подходят под описание, верно?.."
+
+msgid "@george2_grr Yeah, but you only have TWO of them."
+msgstr "@george2_grr Да, но у тебя только ДВА предмета."
+
+msgid "@george2_grr And they're super rare so it's not like you're just gonna find something like that on the ground."
+msgstr "@george2_grr Кстати, они очень редко встречаются, так что вряд ли ты найдёшь такой предмет просто валяющимся на земле."
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed Да, точно..."
+
+msgid "@george2_sigh ...\\>\\@george2_grr ...okay."
+msgstr "@george2_sigh ...\\>\\@george2_grr Ну ладно."
+
+msgid "@george2 Here. You can have this."
+msgstr "@george2 Вот. Бери."
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko ...kinda like you?"
+msgstr "@niko О...\\>\\n\\@niko_speak Это немного похоже... \\@niko Похоже на вас?.."
+
+msgid "@george2_grr What? Never seen dice before?"
+msgstr "@george2_grr Что уставился? Никогда не видел игральную кость?"
+
+msgid "@niko_speak No!\\> I mean yes!\\>\\n\\@niko I mean, it's just..."
+msgstr "@niko_speak Нет!\\> То есть да!\\>\\n\\@niko Я имел в виду, что..."
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Неважно."
+
+msgid "@george2_grr So... yeah.\\>\\nNeed anything else?"
+msgstr "@george2_grr Ну... да.\\>\\nЕщё что-то надо?"
+
+msgid "@niko_speak I'm good, thank you!"
+msgstr "@niko_speak Нет, спасибо!"
+
+msgid "@george2_grr ...Off you go, then.\\>\\n\\@george2_sigh Don't screw this up, okay?"
+msgstr "@george2_grr ...Тогда флаг в руки.\\>\\n\\@george2_sigh Не завали это дело, ладно?"
+
+msgid "@george2_grr What? Couldn't find it?\\>\\n\\@george2_sigh It's down the hall and upstairs!"
+msgstr "@george2_grr Что? Не смог найти?\\>\\n\\@george2_sigh Вперёд по коридору и вверх по лестнице!"
+
+msgid "@george2_grr Just go take a nap. \\>\\@george2_sigh Translating's gonna take a while anyway."
+msgstr "@george2_grr Ну иди, поспи. \\>\\@george2_sigh Всё равно перевод займёт некоторое время."
+
+msgid "@niko I have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko У меня есть такая книга!\\>\\n\\@niko_speak Но... она написана на языке, который я не понимаю."
+
+msgid "@george2 Oh? \\>\\nLemme see..."
+msgstr "@george2 Неужели? \\>\\nДай взглянуть..."
+
+msgid "@george2_grr ...oh.\\>\\n\\@george2_stress Of course... \\>\\@george2_NO OF COURSE!!!"
+msgstr "@george2_grr О...\\>\\n\\@george2_stress Конечно... \\>\\@george2_NO КОНЕЧНО!!!"
+
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "@george2_sigh More work for George, FINE."
+msgstr "@george2_sigh Ещё работа для Джордж. ПРЕКРАСНО."
+
+msgid "@george2_grr Hey uh, \\>\\@george2 kid..."
+msgstr "@george2_grr Эй... эм-м... \\>\\@george2 пацан..."
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak Нико!"
+
+msgid "@george2_grr Looks like I'm gonna have to translate this for you.\\>\\n\\@george2_sigh Might take a while."
+msgstr "@george2_grr Похоже, мне придётся для тебя это перевести.\\>\\n\\@george2_sigh На это уйдёт некоторое время."
+
+msgid "@niko Alright...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Хорошо...\\>\\n\\@niko_yawn (Зевает.)"
+
+msgid "@george2_grr I know that feel, kid. \\>\\n\\@george2_stress I haven't had a good night's sleep in weeks!"
+msgstr "@george2_grr Мне знакомо это чувство, парень. \\>\\n\\@george2_stress Я уже несколько недель нормально не высыпаюсь!"
+
+msgid "@niko_yawn *yawn*...\\>\\n\\@niko_eyeclosed ...\\.that's...\\.\\. not good..."
+msgstr "@niko_yawn (Зевает.)\\>\\n\\@niko_eyeclosed ...\\.Это...\\.\\. плохо..."
+
+msgid "@george2_grr ...You know what?\\>\\n\\@george2_sigh I have a guest room in the attic down the hall."
+msgstr "@george2_grr ...Знаешь что?\\>\\n\\@george2_sigh У меня есть комната для гостей на чердаке, дальше по коридору."
+
+msgid "@george2 Go take a nap!\\>\\n\\@george2_stress Just looking at you getting tired is making me tired!"
+msgstr "@george2 Иди отдохни!\\>\\n\\@george2_stress А то сама устаю, глядя, как ты устал!"
+
+msgid "@george2_sigh Well, since you're already here.\\>\\n\\@george2_grr It'd be rude for me to tell you to leave."
+msgstr "@george2_sigh Ну, раз ты здесь.\\>\\n\\@george2_grr Не выгонять же тебя теперь."
+
+msgid "@george2 Do you uh...\\. got any questions about \\c[3]books\\c[0]..."
+msgstr "@george2 Может, у тебя есть...\\. какие-то вопросы насчёт \\c[3]книг\\c[0]..."
+
+msgid "@george2_sigh Or you can read something here, I don't care. \\>\\n\\@george2_grr Just don't make a mess!"
+msgstr "@george2_sigh Можешь что-нибудь почитать, мне всё равно. \\>\\n\\@george2_grr Только не устраивай бардак!"
+
+msgid "@george3_sad Ohh... are you still lost?"
+msgstr "@george3_sad О-о... Ты всё ещё в растерянности?"
+
+msgid "@george3_sigh I KNEW I didn't explain it well enough..."
+msgstr "@george3_sigh Так и ЗНАЛА, что я не умею нормально объяснять..."
+
+msgid "@george3_sad Alright... the journal says you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george3_sad Ладно... В дневнике сказано, что ты должен войти в маленькую комнату внизу Башни с тремя кусочками прежнего солнца."
+
+msgid "@george3_sad And... since you have the three items... you need to stand in the room, and \\p will do something about floor patterns and windows..."
+msgstr "@george3_sad И раз у тебя есть три предмета... просто стой в комнате, а \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@niko That makes sense, thank you!"
+msgstr "@niko Теперь понятно, спасибо!"
+
+msgid "@george3_sad Yeah... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad Ага... \\>\\@george3_sigh Ещё увидимся... Наверное..."
+
+msgid "@george3_sad .\\..\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\..\\.."
+
+msgid "@george3_sigh It's done..."
+msgstr "@george3_sigh Готово..."
+
+msgid "@niko_speak That was fast! Thank you!"
+msgstr "@niko_speak Как быстро! Спасибо!"
+
+msgid "@george3_sad ...not... really."
+msgstr "@george3_sad Да не особо..."
+
+msgid "@george3_sigh You've just been sleeping...."
+msgstr "@george3_sigh Просто ты долго спал..."
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed Ладно."
+
+msgid "@george3_worry Anyway... \\.he...\\. this person... wrote this journal for \\p... I think..."
+msgstr "@george3_worry В общем... \\.адресат...\\. этого дневника... Это \\p... Я так думаю..."
+
+msgid "@george3 I made you a transcript... here."
+msgstr "@george3 Я написала для тебя перевод... Вот здесь."
+
+msgid "@george3_cry Th...that was the last of it."
+msgstr "@george3_cry Это... всё, что было."
+
+msgid "@george3_worry A lot of the pages were torn out...\\>\\n\\@george3_cry Do you know what happened?"
+msgstr "@george3_worry Многие страницы были вырваны...\\>\\n\\@george3_cry Ты не знаешь, как это вышло?"
+
+msgid "@george3_sad Ah... I don't know what \"window\" is supposed to mean.\\>\\n\\@george3_worry Maybe \\p will know..."
+msgstr "@george3_sad А... И я не знаю, что это за окна.\\>\\n\\@george3_worry Может, \\p догадается..."
+
+msgid "@george3 Oh."
+msgstr "@george3 Ох!"
+
+msgid "@george3_sigh That's just referring to things with yellow phosphor in them.\\>\\n\\@george3 They uh... they glow for a long time!"
+msgstr "@george3_sigh Это просто вещи с жёлтым фосфором.\\>\\n\\@george3 Они... э-э... светятся очень долго!"
+
+msgid "@george3_worry But they're really rare..."
+msgstr "@george3_worry Но они очень редкие..."
+
+msgid "@niko_speak Ooooh.\\>\\n\\@niko I have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Ой!\\>\\n\\@niko У меня есть янтарь и перо, они оба светятся жёлтым..."
+
+msgid "@george3_worry But that's just two..."
+msgstr "@george3_worry Но их всего два..."
+
+msgid "@george3_sigh ...\\>\\n\\@george3 Here, you can have this."
+msgstr "@george3_sigh ...\\>\\n\\@george3 Вот, возьми это."
+
+msgid "@george3_sigh I... guess? It's just a die..."
+msgstr "@george3_sigh Наверное... Это просто игральная кость..."
+
+msgid "@george3_worry Ohhhh, but \"die\" isn't a good word!\\>\\nWhat if I jinx your mission by giving you this?"
+msgstr "@george3_worry Ой-ой-ой, какое плохое слово «кость»!\\>\\nА вдруг эта вещица испортит всю твою миссию?"
+
+msgid "@george3_cry THE WORLD IS GONNA DIE AND IT'S GONNA BE MY FAULT!"
+msgstr "@george3_cry ВЕСЬ МИР ПОГИБНЕТ! И ВСЁ ИЗ-ЗА МЕНЯ!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko I... think we'll be fine, miss!"
+msgstr "@niko Думаю, всё будет в порядке, мисс!"
+
+msgid "@george3_sad Are you sure?"
+msgstr "@george3_sad Ты уверен?"
+
+msgid "@niko_speak Yeah!\\> Thank you for helping us, by the way!"
+msgstr "@niko_speak Да!\\> Кстати, спасибо за помощь!"
+
+msgid "@george3_sad Alright... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad Ну ладно... \\>\\@george3_sigh Ещё увидимся... Наверное..."
+
+msgid "@george3_cry I'm working as fast as I can...!!"
+msgstr "@george3_cry Я работаю так быстро, как могу!.."
+
+msgid "@niko No worries!"
+msgstr "@niko Не проблема!"
+
+msgid "@niko_yawn *yawn*... \\>\\n\\@niko_eyeclosed Excuse me...\\. again."
+msgstr "@niko_yawn (Зевает.)\\>\\n\\@niko_eyeclosed Простите меня...\\. снова."
+
+msgid "@george3_sad You can go take a nap if you want..."
+msgstr "@george3_sad Ты можешь пойти вздремнуть, если хочешь..."
+
+msgid "@george3_sad If you forgot, the guest room is down the hall and upstairs..."
+msgstr "@george3_sad Если ты забыл, комната для гостей дальше по коридору и наверх..."
+
+msgid "@niko_speak Excuse me!"
+msgstr "@niko_speak Простите, пожалуйста!"
+
+msgid "@niko I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko У меня есть такая книга!\\>\\n\\@niko_speak Но... она написана на языке, который я не понимаю."
+
+msgid "@george3 Lemme see..."
+msgstr "@george3 Дай-ка посмотрю..."
+
+msgid "@george3_sad Oh...\\>\\n\\@george3_worry Oh, dear...."
+msgstr "@george3_sad Ох...\\>\\n\\@george3_worry Боже правый..."
+
+msgid "@niko Hm?"
+msgstr "@niko М-м?"
+
+msgid "@george3_sad Hey uh... is it alright if I... borrow this..."
+msgstr "@george3_sad Слушай... Эм-м... Ничего, если я возьму её на время?.."
+
+msgid "@george3_worry There's no mistake... I have to translate it."
+msgstr "@george3_worry Ошибки быть не может... Я должна её перевести."
+
+msgid "@niko_speak Oh, no problem!"
+msgstr "@niko_speak Да, не проблема!"
+
+msgid "@george3_sad I'll try my best, but... \\>\\@george3_sigh It probably won't be very fast."
+msgstr "@george3_sad Я очень постараюсь, но... \\>\\@george3_sigh Боюсь, это займёт какое-то время."
+
+msgid "@niko That's okay.\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Всё нормально.\\>\\n\\@niko_yawn (Зевает.)"
+
+msgid "@george3_worry Oh dear, are you... tired?"
+msgstr "@george3_worry Ой, бедняжка... Ты устал?"
+
+msgid "@george3_sad Ah, well...\\>\\n\\@george3 I do have a guest room upstairs...\\>\\n\\@george3_sad Ah, but it's in the attic though..."
+msgstr "@george3_sad Что ж...\\>\\n\\@george3 У меня там наверху есть комната для гостей...\\>\\n\\@george3_sad Но это чердак..."
+
+msgid "@george3_sigh Sorry if it's not very comfortable..."
+msgstr "@george3_sigh Прости, там не очень удобно..."
+
+msgid "@george3_sigh So... do you have any questions about \\c[3]books\\c[0]..."
+msgstr "@george3_sigh Так... у тебя есть какие-то вопросы насчёт \\c[3]книг\\c[0]?.."
+
+msgid "@george3_cry It's all I'm good forrrrrrr......."
+msgstr "@george3_cry Это единственное, на что я гожу-у-у-у-у-сь..."
+
+msgid "@george4_golly Oh, do you need me to explain again?"
+msgstr "@george4_golly Ох, мне снова нужно объяснить?"
+
+msgid "@george4 Alright!"
+msgstr "@george4 Хорошо!"
+
+msgid "@george4_golly The journal says... you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george4_golly В дневнике сказано... что ты должен войти в маленькую комнату в подножии Башни с тремя кусочками прежнего солнца."
+
+msgid "@george4 And then, you'll stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george4 Затем просто стой в комнате, а \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@george4_smile That's all there is to it!"
+msgstr "@george4_smile Вот, собственно, и всё!"
+
+msgid "@niko Thank you!"
+msgstr "@niko Спасибо!"
+
+msgid "@george4 No problem! See you later!"
+msgstr "@george4 Ничего! До встречи!"
+
+msgid "@george4 Heya! Had a good nap?"
+msgstr "@george4 Приветик! Выспался?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "@george4 Goody!\\>\\n\\@george4_smile I finished translating the journal, by the way!"
+msgstr "@george4 Умничка!\\>\\n\\@george4_smile А я тут пока закончила перевод дневника!"
+
+msgid "@george4_oops Well, you were out for a while.\\>\\n\\@george4_golly Anyway, it looks like this journal might be meant for \\p!"
+msgstr "@george4_oops Ну, тебя не было некоторое время.\\>\\n\\@george4_golly В общем, мне кажется, что адресат этих записей — \\p!"
+
+msgid "@george4 Here, take a look yourself!"
+msgstr "@george4 Вот, посмотри сам!"
+
+msgid "@niko Is that all?"
+msgstr "@niko Это всё?"
+
+msgid "@george4_golly Yeah... the rest of the pages were torn out..."
+msgstr "@george4_golly Ага... Остальные страницы вырваны."
+
+msgid "@george4 I... guess you don't know what happened to those?"
+msgstr "@george4 Ты, конечно же, не знаешь, что с ними произошло?"
+
+msgid "@niko_eyeclosed Nope..."
+msgstr "@niko_eyeclosed Не-а..."
+
+msgid "@george4_oops Aww... I was wondering what \"window\" was supposed to mean.\\>\\n\\@george4_golly Ah well, I guess \\p will have to figure out that one."
+msgstr "@george4_oops Ой... Я тут гадала, что это за окно.\\>\\n\\@george4_golly Ладно, думаю, \\p сможет решить эту задачку."
+
+msgid "@george4_omg Oh! Of course!"
+msgstr "@george4_omg О! Конечно!"
+
+msgid "@george4_smile That just means you need things that contain yellow phosphor!\\>\\n\\@george4 They glow for a long time!"
+msgstr "@george4_smile Это просто значит, что тебе нужны предметы, содержащие жёлтый фосфор!\\>\\n\\@george4 Они очень долго светятся!"
+
+msgid "@niko_speak Ooh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Ой!\\>\\n\\@niko У меня есть янтарь и перо, они оба светятся жёлтым..."
+
+msgid "@george4_golly Aww, just two?"
+msgstr "@george4_golly Ой, только два?"
+
+msgid "@george4 Here, you can have this then!"
+msgstr "@george4 Вот, тогда возьми это!"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks..."
+msgstr "@niko Ого...\\>\\n\\@niko_speak Эта вещь похожа..."
+
+msgid "@george4_smile Like me, right?"
+msgstr "@george4_smile На меня, да?"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak Угу!"
+
+msgid "@george4_smile Now you have a little keepsake from the library!"
+msgstr "@george4_smile Теперь у тебя есть маленький сувенир на память об этой библиотеке!"
+
+msgid "@george4 No problem! Looks like you're all set!"
+msgstr "@george4 Ничего! Похоже, теперь ты полностью готов!"
+
+msgid "@george4_smile Good luck now!"
+msgstr "@george4_smile Удачи тебе!"
+
+msgid "@george4_oops Haha... it won't be done for a while, sorry!"
+msgstr "@george4_oops Ха-ха... Но это займёт какое-то время, уж извини!"
+
+msgid "@niko_eyeclosed Excuse me...\\.\\. again...."
+msgstr "@niko_eyeclosed Простите меня...\\.\\. снова..."
+
+msgid "@george4_golly Seriously, you should go take a nap before you overexert yourself!\\>\\n\\@george4 The guest room is in the attic down the hall, if you forgot!"
+msgstr "@george4_golly Ой, слушай, тебе обязательно надо выспаться, пока не переутомился!\\>\\n\\@george4 Если что, комната для гостей дальше по коридору, на чердаке!"
+
+msgid "@niko_speak Oh! I do have this!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak О да! У меня такая есть\\>\\n\\@niko_speak Только... она написана на языке, который я не понимаю."
+
+msgid "@george4_golly Oh my gosh!"
+msgstr "@george4_golly Ох, божечки-кошечки!"
+
+msgid "@george4 It's.... \\.\\.\\@george4_omg A book!"
+msgstr "@george4 Это... \\.\\.\\@george4_omg книга!"
+
+msgid "@george4 And not just any book! \\>\\@george4_golly Golly... where did you find this?"
+msgstr "@george4 И не просто какая-то книга! \\>\\@george4_golly О-хо-хо... где же ты её взял?"
+
+msgid "@niko I woke up with it."
+msgstr "@niko Я с ней проснулся."
+
+msgid "@niko Somewhere in the barrens!\\>\\n\\@niko_speak Oh! We found it in a safe!\\> Right, \\p?"
+msgstr "@niko Где-то в Пустоши!\\>\\n\\@niko_speak А! Мы нашли её в сейфе!\\> Верно, \\p?"
+
+msgid "@george4 Is that so!"
+msgstr "@george4 Неужели?"
+
+msgid "@george4_smile In that case, I know what I have to do now!"
+msgstr "@george4_smile В таком случае я знаю, что делать!"
+
+msgid "@george4 I need to borrow this journal for a bit, okay?\\>\\n\\@george4_omg Gotta translate it!"
+msgstr "@george4 Я на время позаимствую у тебя этот дневник?\\>\\n\\@george4_omg Надо его перевести!"
+
+msgid "@niko_speak Oh, cool!"
+msgstr "@niko_speak О, здорово!"
+
+msgid "@george4_oops It... might take a while, though..."
+msgstr "@george4_oops Конечно... Это займёт какое-то время..."
+
+msgid "@niko_speak That's fine!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak Ладно!\\>\\n\\@niko_yawn (Зевает.)"
+
+msgid "@george4_golly Gosh! You look really tired!"
+msgstr "@george4_golly Бедняжка! Кажется, ты очень устал!"
+
+msgid "@niko_eyeclosed A little, yeah...."
+msgstr "@niko_eyeclosed Да, немного..."
+
+msgid "@george4_smile No worries! I have a guest room in the attic down the hall!"
+msgstr "@george4_smile Не волнуйся! Дальше по коридору, на чердаке есть комната для гостей!"
+
+msgid "@george4 If you want, you can go take a nap!\\>\\n\\@george4_smile ...a catnap!"
+msgstr "@george4 Если хочешь, можешь там поспать!\\>\\n\\@george4_smile Сном котёнка!"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@george4 Well, since you're already here, feel free to check out my archives!"
+msgstr "@george4 Что ж, раз ты здесь, можешь взглянуть на мои архивы!"
+
+msgid "@george4_omg Or better yet! If you have any questions about \\c[3]books\\c[0], I can answer them!"
+msgstr "@george4_omg А ещё лучше задай мне какие-нибудь вопросы насчёт \\c[3]книг\\c[0], и я с радостью на них отвечу!"
+
+msgid "@george4 I love books.... books books books!"
+msgstr "@george4 Я обожаю книги... Книги-книги-книги!"
+
+msgid "@george5 Oh! Would you like me to explain again?"
+msgstr "@george5 О! Ты хочешь, чтобы я объяснила ещё раз?"
+
+msgid "@george5 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george5 В дневнике сказано, что ты должен войти в маленькую комнату в подножии Башни с тремя кусочками прежнего солнца."
+
+msgid "@george5 ...and then, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george5 ...Потом просто стой в комнате, а \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@niko Ooo, makes sense, thank you!"
+msgstr "@niko А-а-а, ясно, спасибо!"
+
+msgid "@george5 Best of luck, sweetie!"
+msgstr "@george5 Удачи тебе, сладенький!"
+
+msgid "@george5_smile Had a good nap, dear?"
+msgstr "@george5_smile Ты хорошо выспался, дружочек?"
+
+msgid "@george5_smile Wonderful!"
+msgstr "@george5_smile Замечательно!"
+
+msgid "@george5 I have the translation ready for you now.\\>\\n\\@george5_hmm It looks like this journal might be meant for \\p."
+msgstr "@george5 А у меня для тебя готов перевод.\\>\\n\\@george5_hmm Похоже, адресат этого дневника — \\p."
+
+msgid "@george5 Here, why don't you take a look?"
+msgstr "@george5 Вот, почему бы тебе не взглянуть?"
+
+msgid "@george5_hmm That is all there is to translate...\\>\\nLooks like the other pages have been torn out."
+msgstr "@george5_hmm Это всё, что было...\\>\\nДругие страницы кто-то вырвал."
+
+msgid "@niko Oh..."
+msgstr "@niko Ого..."
+
+msgid "@george5_hmm Quite a shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george5 Ah well, I guess \\p can figure that one out!"
+msgstr "@george5_hmm Но вот жалость! Мне так и не удалось понять, что же значит «окно».\\>\\n\\@george5 Что ж, думаю, \\p сможет догадаться!"
+
+msgid "@niko_speak Oh! What does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak О! А что значит «три кусочка предыдущего солнца»?\\>\\n\\@niko У меня только это солнце..."
+
+msgid "@george5 That means the stuff containing yellow phosphor!\\>\\n\\@george5_smile They glow for a very long time, so people call them \"pieces of the sun\" sometimes!"
+msgstr "@george5 Это предметы, в которых есть жёлтый фосфор!\\>\\n\\@george5_smile Они светятся очень долго, поэтому люди называют их «кусочками солнца»!"
+
+msgid "@george5 Very good, dear!\\>\\n\\@george5_smile And I can help you with the last one!"
+msgstr "@george5 Очень хорошо, малыш!\\>\\n\\@george5_smile А я помогу тебе с третьим предметом!"
+
+msgid "@george5_heh I know! Isn't it silly?\\>\\n\\@george5 But now you'll have something to remind you of the library!"
+msgstr "@george5_heh Знаю! Так глупо, правда?\\>\\n\\@george5 Зато теперь у тебя есть сувенир на память о библиотеке!"
+
+msgid "@george5_smile Good luck now, sweetie!\\>\\n\\@george5 I wish you safe travels!"
+msgstr "@george5_smile Удачи тебе, мой хороший!\\>\\n\\@george5 Желаю успешно закончить это путешествие!"
+
+msgid "@george5_smile Don't wear yourself out now, dear!\\>\\n\\@george5 The guest room is just down the hall to the right."
+msgstr "@george5_smile Не стоит перенапрягаться, мой дорогой!\\>\\n\\@george5 Комната для гостей дальше по коридору и направо."
+
+msgid "@niko_speak Oh! I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak Ой! У меня есть такая книга!\\>\\n\\@niko_speak Но... она написана на языке, который я не понимаю."
+
+msgid "@george5 Really now!\\>\\n\\@george5_hmm May I take a closer look, dear?"
+msgstr "@george5 В самом деле?\\>\\n\\@george5_hmm А можно мне посмотреть чуточку поближе, милый?"
+
+msgid "@niko Here!"
+msgstr "@niko Держи!"
+
+msgid "@george5 Oh!\\>\\n\\@george5_hmm Oh my! Where did you find this?"
+msgstr "@george5 Ого!\\>\\n\\@george5_hmm Бог ты мой! Где ты её нашёл?"
+
+msgid "@george5_hmm Hmm...\\>\\n\\@george5 I think...\\.\\. I'm supposed to translate this for you!"
+msgstr "@george5_hmm Хм-м...\\>\\n\\@george5 Думаю...\\.\\. Я должна её перевести!"
+
+msgid "@george5_hmm Is it alright if I hold on to the journal for now, sweetheart?\\>\\n\\@george5 It might take a little while, I'm afraid!"
+msgstr "@george5_hmm Ничего, если я на время возьму этот дневник, мой хороший?\\>\\n\\@george5 Боюсь, придётся немножко подождать!"
+
+msgid "@niko_speak Go for it!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak Давайте!\\>\\n\\@niko_yawn (Зевает.)"
+
+msgid "@george5_aww Aww, you poor baby!\\>\\n\\@george5 Goodness, you must've worked so hard to help us!"
+msgstr "@george5_aww О-о-о, бедный малыш!\\>\\n\\@george5 Боже мой, ты, верно, много трудился, чтобы нам помочь!"
+
+msgid "@george5_smile I think you deserve a nap, no?"
+msgstr "@george5_smile Кажется, кто-то заслужил отдых, м-м?"
+
+msgid "@niko_yawn A nap does sounds nice..."
+msgstr "@niko_yawn Да, отдохнуть было бы неплохо..."
+
+msgid "@george5 I have a guest room upstairs! It's just down the hall to the right."
+msgstr "@george5 Тут наверху есть гостевая комната! Дальше по коридору и направо."
+
+msgid "@george5_smile Can I help you with anything else, dear?"
+msgstr "@george5_smile Я могу тебе ещё как-то помочь, мой сладкий?"
+
+msgid "@george5 If you have any questions about \\c[3]books\\c[0], well...\\>\\n\\@george5_heh I AM a librarian!"
+msgstr "@george5 Если у тебя есть какие-то вопросы по \\c[3]книгам\\c[0], что ж...\\>\\n\\@george5_heh для этого и существуют БИБЛИОТЕКАРИ!"
+
+msgid "@george6_point You look a lil' lost still. Want some hot tips?"
+msgstr "@george6_point Ты, походу, совсем потерялся. Дать пару советов?"
+
+msgid "@george6 Says here in this book that you gots'ta go to the teeny room at the base of the Tower, all while holding those three pieces of the awesome glowy stuff."
+msgstr "@george6 Короче, в этой книжке сказано, чтобы ты зашёл в маленькую комнату в подножии Башни, а в руках держал три кусочка нашего великого светящегося шара."
+
+msgid "@george6 Once you got 'em (which you do), just stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george6 Когда они будут у тебя (естественно), просто стой в комнате, а \\p что-то сделает с узором на полу и с окнами."
+
+msgid "@niko Alright...\\.\\. \\@niko_speak Thank you!"
+msgstr "@niko Ладно...\\.\\. \\@niko_speak Спасибо!"
+
+msgid "@george6_fingerguns You're toooootally welcome!"
+msgstr "@george6_fingerguns На-а-а-а-а здоровьице!"
+
+msgid "@niko Well, I guess we'll be on our way?"
+msgstr "@niko Ну, я тогда пойду?"
+
+msgid "@george6_smile Peace out, little fella!"
+msgstr "@george6_smile Бывай, братуха!"
+
+msgid "@george6 You'll do us good, I know it."
+msgstr "@george6 Уверена, что ты не подкачаешь."
+
+msgid "@george6_fingerguns Eyyyyy, you're up!"
+msgstr "@george6_fingerguns Еу-у-у-у-у-у, ты проснулся!"
+
+msgid "@george6 Just finished translating this book for ya!"
+msgstr "@george6 А я тут как раз закончила переводить твою книжку!"
+
+msgid "@george6_fingerguns What can I say? I'm all that and a bag of chips!"
+msgstr "@george6_fingerguns Ну а чё? Я же профи!"
+
+msgid "@george6 By the by, it looks like this journal might be meant for \\p."
+msgstr "@george6 Кстати о птичках, прочесть дневник должен не ты, а \\p."
+
+msgid "@george6_point Here, check it out."
+msgstr "@george6_point Вот, зацени мой перевод."
+
+msgid "@george6 That's all, we juiced it!"
+msgstr "@george6 Ну вот и сказочке конец!"
+
+msgid "@niko_what ...juiced what?"
+msgstr "@niko_what Сказочке?.."
+
+msgid "@george6_fingerguns I'm just sayin' that's the end of the book!"
+msgstr "@george6_fingerguns Я просто говорю, что в книге больше ничего нет!"
+
+msgid "@george6_shrug Rest of the pages are torn out.\\>\\n\\@george6 Do you know what happened here?"
+msgstr "@george6_shrug Кто-то выдрал остальные страницы.\\>\\n\\@george6 Ты не в курсе, что это за фигня?"
+
+msgid "@george6_shrug Bummer! I was hoping to figure out what he meant by saying \"window\" here.\\>\\n\\@george6 Guess we'll leave that up to \\p, huh?"
+msgstr "@george6_shrug Блин! До меня не дошло, что имелось в виду под словом «окно».\\>\\n\\@george6 Ну, пусть \\p с этим разбирается, да же?"
+
+msgid "@george6_point Oh! That's just stuff with yellow phosphor in 'em!\\>\\n\\@george6 The kind of stuff that glows forever, dude."
+msgstr "@george6_point О! Это типа всякие штуки с жёлтым фосфором!\\>\\n\\@george6 Они светятся вечно, парень."
+
+msgid "@george6_fingerguns Eyyyy! Now that's what I'm talkin about!"
+msgstr "@george6_fingerguns Йу-ху-у-у! Вот о чём я говорю!"
+
+msgid "@george6 ...Hold up, you only have two."
+msgstr "@george6 ...Так, стоп. У тебя только две штуки."
+
+msgid "@george6_point But we coo'!\\>\\n\\@george6_fingerguns I gotcha covered, lil' fella!\\>\\n\\@george6 Here ya go."
+msgstr "@george6_point Ладно, не бзди!\\>\\n\\@george6_fingerguns Я спасу твой зад, малыш!\\>\\n\\@george6 Зацени."
+
+msgid "@george6_fingerguns The freshest face you've ever seen, ehhhhh?\\>\\n\\@george6 And it's all yours."
+msgstr "@george6_fingerguns Самая милая мордашка, которую ты видел, да же?\\>\\n\\@george6 Можешь забирать."
+
+msgid "@george6_smile Peace out, lil' fella!"
+msgstr "@george6_smile Поки-чмоки, бро!"
+
+msgid "@george6_shrug Bruh, it's gonna take some time to make this book readable, know what I'm sayin'?"
+msgstr "@george6_shrug Только слушай, братка, чтобы сделать эту книжку доступной для чтения, мне придётся попотеть, сечёшь?"
+
+msgid "@niko_eyeclosed Excuse me....\\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed Простите меня...\\>\\n\\@niko Снова..."
+
+msgid "@george6 Don't sweat it!\\>\\n\\@george6_fingerguns Go catch some Z's!"
+msgstr "@george6 Забей!\\>\\n\\@george6_fingerguns Иди покемарь чуток!"
+
+msgid "@george6 Guest room's in the attic down the hall, FYI."
+msgstr "@george6 Если чё, комната для гостей дальше по коридору, на чердаке."
+
+msgid "@niko_speak Oh! I do have this book!"
+msgstr "@niko_speak О! У меня есть такая книга!"
+
+msgid "@george6 ...yo."
+msgstr "@george6 Да ну..."
+
+msgid "@george6_point .....YOOOOO."
+msgstr "@george6_point ДА НУ?!"
+
+msgid "@george6 Where'd you find this?"
+msgstr "@george6 Где ты её раздобыл?"
+
+msgid "@niko Somewhere in the Barrens!"
+msgstr "@niko Где-то в Пустоши!"
+
+msgid "@george6 Cuz that's..."
+msgstr "@george6 Тут же..."
+
+msgid "@george6_point ...got that symbol and everything."
+msgstr "@george6_point ...Тут же типа символ и все дела."
+
+msgid "@george6 Here, lemme read it..."
+msgstr "@george6 А ну-ка дай почитать..."
+
+msgid "@george6 ...aw seriously? He even used that language..."
+msgstr "@george6 ...Что, реально? Он даже использовал этот язык..."
+
+msgid "@george6 I gotta translate this, man.\\>\\nMind if I borrow this?"
+msgstr "@george6 Чувак, я просто обязана это перевести.\\>\\nНичего, если я её позаимствую?"
+
+msgid "@niko_speak Not at all!"
+msgstr "@niko_speak Конечно!"
+
+msgid "@george6 Sweeeeet.\\>\\n\\@george6_point It's gon' take a while tho, you cool with that?"
+msgstr "@george6 Ништя-а-а-а-а-к.\\>\\n\\@george6_point Только я как бы не за пять секунд это переведу, норм?"
+
+msgid "@george6 Whoa dude, you look wiped, kiddo!"
+msgstr "@george6 Ох, пацан, да ты выжат как лимон!"
+
+msgid "@niko ...Huh?"
+msgstr "@niko Что?.."
+
+msgid "@george6_point You look totally tapped out, dude!"
+msgstr "@george6_point Ты выглядишь так, будто сейчас уйдёшь в отруб!"
+
+msgid "@niko_speak I look... what?"
+msgstr "@niko_speak Куда... уйду?"
+
+msgid "@george6 You look like you're ready to take five, bruh!"
+msgstr "@george6 Братан, тебе надо немного почилить!"
+
+msgid "@niko_eyeclosed ...yeah I don't get it."
+msgstr "@niko_eyeclosed ...Ага... Не понимаю..."
+
+msgid "@george6 Don't worry I gotcha.\\>\\n\\@george6_smile I got a guest room in the attic down the hall!"
+msgstr "@george6 Всё под контролем.\\>\\n\\@george6_smile Комната для гостей дальше по коридору, на чердаке!"
+
+msgid "@george6 If you wanna crash there, go for it!"
+msgstr "@george6 Если хочешь там покемарить, милости прошу!"
+
+msgid "@george6 So how do you like my books, bruh."
+msgstr "@george6 Так как тебе мои книжки, бро?"
+
+msgid "@niko They're... nice?"
+msgstr "@niko Они... хорошие."
+
+msgid "@niko_speak Ah, this looks like a sketchbook of some sort!"
+msgstr "@niko_speak А, это какой-то альбом для зарисовок!"
+
+msgid "@niko Even the painting is books."
+msgstr "@niko Даже на картине изображены книги."
+
+msgid "@niko_speak Hey!"
+msgstr "@niko_speak Эй!"
+
+msgid "@niko I think this book is actually about clovers..."
+msgstr "@niko Думаю, это книга про клевер..."
+
+msgid "@niko Looks like a scanner."
+msgstr "@niko Это похоже на сканнер."
+
+msgid "@niko Looks like a printer."
+msgstr "@niko Это похоже на принтер."
+

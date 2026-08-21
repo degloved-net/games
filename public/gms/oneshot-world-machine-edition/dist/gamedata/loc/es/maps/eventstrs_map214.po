@@ -1,0 +1,6 @@
+msgid "@red_gatekeeper [P l`e\\>a#se do n ot ap`/p `r oa\\>c%%h.]"
+msgstr "@red_gatekeeper [P o`r\\>f#a v o r n`/o `t ea\\>ce%%rq u` e s.]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+

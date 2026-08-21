@@ -1,0 +1,6 @@
+msgid "@niko These machines look like computers."
+msgstr "@niko 컴퓨터처럼 생긴 기계예요."
+
+msgid "@ed [What's left of a computer terminal.]"
+msgstr "@ed [컴퓨터 단말기의 잔해다.]"
+

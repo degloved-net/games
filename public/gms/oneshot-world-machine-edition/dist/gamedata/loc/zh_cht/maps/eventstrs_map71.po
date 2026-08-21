@@ -1,0 +1,159 @@
+msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
+msgstr "[活著的有機體，你好！]"
+
+msgid "[THE INFIRMARY IS UP AHEAD.]"
+msgstr "[醫務室就在前方。]"
+
+msgid "INFIRMARY"
+msgstr "醫務室"
+
+msgid "[HELLO. DO YOU NEED ANY HELP?]"
+msgstr "[你好，需要幫忙嗎？]"
+
+msgid "@niko_speak I'm good, thanks!"
+msgstr "@niko_speak 不用了，謝謝！"
+
+msgid "[UNIT RM-2883417 REPORTING FOR DUTY!]"
+msgstr "[RM-2883417單位報到上工！]"
+
+msgid "[I SAW THAT YOU SPOKE WITH THE GUARDIAN OF THE SETTLEMENT.]"
+msgstr "[我看見你和居所的守衛機交談了。]"
+
+msgid "[I WILL NOW ESCORT YOU UNTIL YOU REACH YOUR DORMITORY.]"
+msgstr "[現在我會陪伴你直到抵達宿舍為止。]"
+
+msgid "@niko um... what?"
+msgstr "@niko 呃……什麼？"
+
+msgid "@niko_speak So you're just gonna... follow me?"
+msgstr "@niko_speak 意思是你要……跟著我？"
+
+msgid "[YES.]"
+msgstr "[是的。]"
+
+msgid "[UNTIL YOU SAFELY REACH A BUILDING OF YOUR DESTINATION.]"
+msgstr "[直到你平安抵達你要去的建築物為止。]"
+
+msgid "@niko Alright."
+msgstr "@niko 好吧。"
+
+msgid "@niko Hello"
+msgstr "@niko 你好"
+
+msgid "[BOOP]"
+msgstr "[嗶]"
+
+msgid "[UNIT RT-3847201 REPORTING FOR DUTY!]"
+msgstr "[RT-3847201單位報到上工！]"
+
+msgid "[IT SEEMS THAT YOU ALREADY HAVE AN ASSIGNED ESCORT, UNIT RM-2883417]"
+msgstr "[看來你已經被指派了陪伴員，也就是RM-2883417單位]"
+
+msgid "[WOULD YOU LIKE ME TO LEAVE?]"
+msgstr "[你希望我離開嗎？]"
+
+msgid "@niko You can follow me if you want..."
+msgstr "@niko 你想要的話可以跟著我……"
+
+msgid "[UNDERSTOOD.]"
+msgstr "[了解。]"
+
+msgid "@niko_speak Are you guys not supposed to go in buildings?"
+msgstr "@niko_speak 你們不能進去屋子裡嗎？"
+
+msgid "[CORRECT.]"
+msgstr "[正確。]"
+
+msgid "[WE ARE BUILT FOR OUTDOOR USE ONLY.]"
+msgstr "[我們的用途僅限於室外。]"
+
+msgid "[ENTERING BUILDINGS IS NOT PART OF OUR PROGRAMMING.]"
+msgstr "[進入建築物不在我們的程式之中。]"
+
+msgid "@niko That's... strange."
+msgstr "@niko 那樣……好奇怪。"
+
+msgid "[BEEP]"
+msgstr "[嗶]"
+
+msgid "@blue_gatekeeper [Oh, Hello.]"
+msgstr "@blue_gatekeeper [喔，你好。]"
+
+msgid "@blue_gatekeeper [What Are You Doing Here?]"
+msgstr "@blue_gatekeeper [你在這裡做什麼？]"
+
+msgid "@niko Hm?"
+msgstr "@niko 咦？"
+
+msgid "@blue_gatekeeper [A Living Person Such As Yourself Should Have Evacuated This Place Long Ago.]"
+msgstr "@blue_gatekeeper [像你這樣的活人早就該撤離這裡了。]"
+
+msgid "@niko_speak Oh, but I just got here! \\>\\n\\@niko To this world, I mean!"
+msgstr "@niko_speak 喔，可是我才剛來！\\>\\n\\@niko 我是說，我才剛來這個世界！"
+
+msgid "@niko_speak See?\\.\\. I have the sun!"
+msgstr "@niko_speak 你看！\\.\\.我有太陽！"
+
+msgid "@blue_gatekeeper [Oh, The Messiah.]"
+msgstr "@blue_gatekeeper [喔，你是救世主。]"
+
+msgid "@blue_gatekeeper [I...\\. Do Not Know What To Say.]"
+msgstr "@blue_gatekeeper [我……\\.不知道該說什麼。]"
+
+msgid "@blue_gatekeeper [Greeting You Was Not Part Of My Programming.]"
+msgstr "@blue_gatekeeper [我的程式中不包含迎接你。]"
+
+msgid "@blue_gatekeeper [Have You\\.\\. Spoken To Prophetbot?]"
+msgstr "@blue_gatekeeper [你有沒有\\.\\.和預言機交談過？]"
+
+msgid "@niko_speak I think so, yeah!"
+msgstr "@niko_speak 嗯，應該有！"
+
+msgid "@blue_gatekeeper [Prophetbot Was Built With The Sole Purpose Of Greeting You.]"
+msgstr "@blue_gatekeeper [他們建造預言機唯一的目的就是迎接你。]"
+
+msgid "@niko Really?"
+msgstr "@niko 真的嗎？"
+
+msgid "@blue_gatekeeper [Yes. He Cannot Speak With Anyone Else.] \\>\\n[At Least, Not With Ease.]"
+msgstr "@blue_gatekeeper [是的。他不能和任何其他人交談。]\\>\\n[至少不能輕鬆交談。]"
+
+msgid "@niko Oh...\\n\\>\\@niko_eyeclosed that's...\\.\\. kind of sad..."
+msgstr "@niko 這樣啊……\\>\\n\\@niko_eyeclosed 那樣……\\.\\.有點悲傷呢……"
+
+msgid "@niko_speak What are you built for, then?"
+msgstr "@niko_speak 那你是為了什麼目的建造的呢？"
+
+msgid "@blue_gatekeeper [My Purpose Is To Guard This Settlement.]"
+msgstr "@blue_gatekeeper [我的用途是看守這個居所。]"
+
+msgid "@blue_gatekeeper [Even Though The Residents Have Long Gone, I Must Remain.]"
+msgstr "@blue_gatekeeper [即使居民早就全部離開了，我還是必須留守。]"
+
+msgid "@niko Ah..."
+msgstr "@niko 啊……"
+
+msgid "@niko_speak Why, though?"
+msgstr "@niko_speak 可是為什麼呢？"
+
+msgid "@blue_gatekeeper [I Have Not Been Tamed.]"
+msgstr "@blue_gatekeeper [我沒有經過馴化。]"
+
+msgid "@niko_speak Tamed?"
+msgstr "@niko_speak 馴化？"
+
+msgid "@blue_gatekeeper [It Was Not Worth The Effort.]"
+msgstr "@blue_gatekeeper [馴化我太麻煩，不值得。]"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@blue_gatekeeper [Stay Safe.]"
+msgstr "@blue_gatekeeper [請保重。]"
+
+msgid "@blue_gatekeeper [By The Way, Some Robots May Start Following You Around This Settlement As Well.]"
+msgstr "@blue_gatekeeper [附帶一提，有些機器人也可能會在這處居所跟著你走。]"
+
+msgid "@blue_gatekeeper [Do Not Be Alarmed.]\\n\\>[It Is Their Job To Keep People Safe.]"
+msgstr "@blue_gatekeeper [請不要驚慌。]\\n\\>[它們的工作是保護人類安全。]"
+

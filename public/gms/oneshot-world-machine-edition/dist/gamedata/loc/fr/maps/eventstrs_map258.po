@@ -1,0 +1,72 @@
+msgid "@en2 [...]"
+msgstr "@en2 [...]"
+
+msgid "@en3 [\\p...\\> you're... back.]"
+msgstr "@en3 [\\p...\\> vous... revoilà.]"
+
+msgid "@en_upset2 [I restored the world, I sent Niko home...]"
+msgstr "@en_upset2 [J'ai restauré le monde, j'ai renvoyé Niko dans son monde...]"
+
+msgid "@en4 [Are you...\\.\\. \\@en3 not happy?]"
+msgstr "@en4 [Cela... \\.\\.\\@en3 ne vous satisfait pas ?]"
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [...]"
+
+msgid "@en_upset2 [Even if you wanted to see Niko again...]"
+msgstr "@en_upset2 [Même si vous vouliez revoir Niko...]"
+
+msgid "@en_eyeclosed [You can't, \\p.\\> Niko's gone.]"
+msgstr "@en_eyeclosed [Vous ne pourriez pas, \\p.\\> Niko n'est plus là.]"
+
+msgid "@en_eyeclosed2 [And without Niko, there is no story for me to tell, no messiah to traverse across the land.]"
+msgstr "@en_eyeclosed2 [Et sans Niko, je n'ai plus d'histoire à raconter, plus de messie pour traverser la terre.]"
+
+msgid "@en_eyeclosed [...No way for you to connect with the world.]"
+msgstr "@en_eyeclosed [... Vous n'avez aucun moyen de vous connecter au monde.]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [...]"
+
+msgid "@en2 [But...\\.\\. Niko still remembers this place.]"
+msgstr "@en2 [Mais...\\.\\. Niko se souvient encore de cet endroit.]"
+
+msgid "@en4 [...]"
+msgstr "@en4 [...]"
+
+msgid "@en3 [If you really want to see this world again, I could still...]"
+msgstr "@en3 [Si vous voulez vraiment revoir ce monde, je peux encore...]"
+
+msgid "@en_distressed2 [Oh...\\.\\. but it won't be the same.]"
+msgstr "@en_distressed2 [Oh...\\.\\. mais ça ne sera pas pareil.]"
+
+msgid "@en_distressed2 [It'll just be a recording.\\>\\nIt'll just be me using Niko's memories.]"
+msgstr "@en_distressed2 [Ça ne sera qu'un enregistrement.\\>\\nJe ne ferai qu'utiliser les souvenirs de Niko.]"
+
+msgid "@en_eyeclosed [...Just like how I'm using Niko's reflection now...]"
+msgstr "@en_eyeclosed [... Tout comme j'utilise le reflet de Niko en ce moment même...]"
+
+msgid "@en3 [Is that...\\.\\. what you want?]"
+msgstr "@en3 [Est-ce... \\.\\. vraiment ce que vous voulez ?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [Très bien.]"
+
+msgid "@en3 [I will go rewind the story.]"
+msgstr "@en3 [Je vais rembobiner l'histoire.]"
+
+msgid "@en4 [...so that you can relive it from the beginning.]"
+msgstr "@en4 [... Afin que vous puissiez la revivre depuis le début.]"
+
+msgid "@en_eyeclosed [I see.]"
+msgstr "@en_eyeclosed [Je vois.]"
+
+msgid "@en4 [If you change your mind, though... feel free to come back.]"
+msgstr "@en4 [Mais, si jamais vous changez d'avis... n'hésitez pas à revenir me voir.]"
+
+msgid "@en_eyeclosed [It's not like I'm going anywhere.]"
+msgstr "@en_eyeclosed [Je ne risque pas de m'en aller.]"
+

@@ -1,0 +1,30 @@
+msgid "purple=Purple"
+msgstr "보라색"
+
+msgid "blue=Blue"
+msgstr "파란색"
+
+msgid "teal=Cyan"
+msgstr "청록색"
+
+msgid "green=Green"
+msgstr "초록색"
+
+msgid "yellow=Yellow"
+msgstr "노란색"
+
+msgid "red=Red"
+msgstr "빨간색"
+
+msgid "pink=Pink"
+msgstr "분홍색"
+
+msgid "orange=Orange"
+msgstr "주황색"
+
+msgid "white=White"
+msgstr "흰색"
+
+msgid "rainbow=Rainbow"
+msgstr "무지개색"
+

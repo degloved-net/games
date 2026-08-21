@@ -1,0 +1,264 @@
+﻿제작진
+=======
+
+프로그래밍
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+그래픽
+--------
+
+* Nightmargin (Casey Gu)
+
+캐릭터 디자인
+----------------
+
+* Nightmargin
+* 메이즈 및 조지 디자인: Eliza
+
+사운드트랙
+----------
+
+* Nightmargin
+* 추가 사운드트랙: Eliza, Michael
+* 일부 음악 샘플 제공: FreeSound.org 사용자들
+  Jovica, Dymewiz, hanstimm, Freed
+
+스토리
+-----
+
+* 시스템 콘셉트: Eliza
+* 스토리 전반 및 세계관 구축: Nightmargin, Eliza
+* 시나리오 작성: Nightmargin, Eliza, Michael
+* 친구 프로필 작성: Taeler Dixon
+
+펭귄 제공자
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+시스템 프로그래밍
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+프로듀서 (2016 발매 버전)
+-----------------------
+
+* Mark Conforti
+
+2016 빌드 테스터
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+콘솔 빌드 테스터
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+월페이퍼 제작진
+----------------
+
+Marina "Sylladexter" K
+* 메이즈
+* 비밀 양 동호회
+
+Missusruin
+* 도서관 산책
+
+Saren Stone
+* 예언
+
+Temmie Chang
+* 카페
+
+T. C.
+* 변경 지역
+* 공장
+
+
+OneShot 콘솔 버전 번역
+------------------------------------
+
+프랑스어 번역
+* Mahmoud Khabatou
+
+프랑스어 검수
+* Mohamed Khabatou
+
+프랑스어 LQA
+* Mahmoud Khabatou
+
+스페인어 번역
+* Edgar Rangel
+
+스페인어 검수
+* Sebastián Herrera
+
+스페인어 LQA
+* Jair Casillas
+
+한국어 번역
+* So-jung Jung
+
+한국어 검수, LQA
+* Seo-Mi Ha
+
+브라질 포르투갈어 번역
+* Jay Ruas
+
+브라질 포르투갈어 검수, LQA
+* Karina Peixe
+* Jay Ruas
+
+일본어 번역, LQA
+* Sakura Yamaguchi
+
+일본어 검수
+* Yoshiki Kono
+
+이탈리아어 번역
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+이탈리아어 검수
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+이탈리아어 LQA
+* Giammaria Angeloni
+
+
+리소스
+---------
+
+* 픽셀 시스템 폰트에 Volter (Goldfish) 폰트가 사용되었습니다.
+* 라틴 텍스트 폰트에 Terminus가 사용되었습니다. 동아시아 텍스트는 WenQuanYi Micro Hei 폰트로 렌더링되었습니다. Jenna Sue 및 RM Typerighter 폰트는 추가 그래픽 텍스트에 사용되었습니다. 자세한 내용은 \[라이선스 섹션\]을 확인하세요.
+* 일본어 폰트는 HigashiOme-Gothic이 사용되었습니다.
+* 특수문자 예비 폰트로 Noto Sans 및 Noto Sans JP가 사용되었습니다.
+* 다음 사용자들이 FreeSound.org 샘플을 제공해 주었습니다...
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* 추가 음향 효과 발생에 \[Bfxr\] (http://www.bfxr.net/)이 사용되었습니다.
+* 맵 및 문에 사용된 텍스처의 출처는 \[wildtextures\] (http://www.wildtextures.com/)입니다. 그 외 추가 리소스의 출처는 Textures.com입니다.
+* Devin Elle Kurtz (텍스처 브러쉬)
+* Dalton Maag LtD (Aller Display 폰트)
+
+추가로 감사한 분들
+-----------------
+
+* Saniblues: 테스트 및 피드백
+* Redoplus: 테스트 및 피드백
+* Almond-Goddess: 테스트 및 피드백
+* FelixTheJudge: 음악 피드백
+* Albatrosssoup: 음악 피드백
+* Sauraen: 음악 피드백
+* Stanhoff: 물리 자문
+* Kalkie: 카메오 캐릭터
+* Kitsiinabox: 카메오 캐릭터
+* Noxid: Noxid라는 존재 그 자체
+* OneShot 원작 테스터:
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* 원작 발매 때부터 저희를 성원해 주신 모든 분들.
+* 바로 당신!
+
+라이선스
+--------
+
+FMOD Studio로 제작 -Firelight Technologies Pty Ltd.
+(https://www.fmod.com/attribution)
+
+게임에 사용된 FreeSound.org 음향은 다음 라이선스의 허가를 받았습니다:
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/)
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/)
+
+Terminus는 \[Open Font License\] (http://scripts.sil.org/OFL)의 허가를 받았습니다.
+
+Noto Sans 및 Noto Sans JP는 \[Open Font License\] (http://scripts.sil.org/OFL)의 허가를 받았습니다.
+
+HigashiOme Gothic은 \[SIL Open Font License\] (https://scripts.sil.org/OFL_web)의 허가를 받았습니다.
+
+Jenna Sue는 라이선스 사용료 지불 및 허가를 받았습니다. (http://www.jennasuedesign.com/)
+
+RM Typerighter는 \[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/)의 허가를 받았습니다.
+
+"30100flo" 님이 제작한 FontStruction "Thirteen Pixel Fonts" (http://fontstruct.com/fontstructions/show/761985)는 Creative Commons Attribution Share Alike license (http://creativecommons.org/licenses/by-sa/3.0/)의 허가를 받았습니다.
+
+WenQuanYi Micro Hei는 폰트 임베딩을 제외한 \[Apache License 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0) 또는 \[GNU General Public License v3\] (http://www.gnu.org/copyleft/gpl.html)의 이중 허가를 받았습니다.
+
+사용된 wildtextures는
+\[무료 상업용\] (http://www.wildtextures.com/terms-of-use/) 리소스입니다.
+
+Textures.com 이용약관은 \[여기\] (https://www.textures.com/about/terms-of-use)에서 확인할 수 있습니다.

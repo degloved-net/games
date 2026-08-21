@@ -1,0 +1,39 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 사다리는 무서워요..."
+
+msgid "$Hey sweetie,"
+msgstr "$사랑하는 아들아,"
+
+msgid "$Six more weeks until you can come home!"
+msgstr "$네가 집에 돌아오기까지 6주 남았구나!"
+
+msgid "$'bout time, huh?"
+msgstr "$어서 오고 싶지?"
+
+msgid "$Gosh, I can't imagine living in that awful capsule wall... dorm... thing!"
+msgstr "$세상에, 난 그 끔찍한... 캡슐 같은... 숙소에서 사는 건 상상도 못하겠더구나!"
+
+msgid "$But guess what? Soon you'll get to sleep in a real bed and eat real food again!"
+msgstr "$그렇지만 집으로 돌아오면 진짜 침대에서 자고 맛좋은 음식을 먹을 수 있을 거야!"
+
+msgid "$Write back soon!"
+msgstr "$다시 편지 보내마!"
+
+msgid "$\\n"
+msgstr "$\\n"
+
+msgid "$\\n-love, mom."
+msgstr "$\\n-사랑하는 엄마가."
+
+msgid "@niko Aww..."
+msgstr "@niko 좋겠다..."
+
+msgid "$Looks like we're supposed to pack stuff for the evacuation starting today..."
+msgstr "$오늘부터 짐을 꾸려서 대피를 하라고 한다..."
+
+msgid "$I wish these books weren't so heavy... it's gonna be a pain to carry them onto the ship."
+msgstr "$책이 너무 무겁지 않으면 좋겠는데... 배에 실으려면 고생 좀 하겠지."
+
+msgid "$But they're by the Author! I can't just throw them away!"
+msgstr "$하지만 이건 모두 저자가 쓴 책이야! 그냥 버릴 수는 없어!"
+

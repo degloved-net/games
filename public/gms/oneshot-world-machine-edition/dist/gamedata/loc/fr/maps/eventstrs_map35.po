@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Les lucioles éclairent cette pièce."
+
+msgid "@niko Looks like moss..."
+msgstr "@niko On dirait de la mousse..."
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak J'imagine que les gens en mangent !"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "En tous cas, je parie que tout le monde aimerait revoir le soleil !"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak Oui !"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "Il se dégrade lentement, petit à petit.\\nMais je crois qu'il essaie de rester en vie."
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "Peu importe... Un jour, le monde finira par abandonner."
+
+msgid "I just hope I'm not alive to see it."
+msgstr "J'espère simplement que je ne serai plus là pour le voir."
+
+msgid "@alula But the savior is here!"
+msgstr "@alula Mais le messie est là !"
+
+msgid "That won't fix the root of the problem."
+msgstr "Ça ne résoudra pas le fond du problème."
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko Comme l'a dit la dame tout à l'heure..."
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh La... dame ?"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak Oui ! C'était un robot, et elle avait l'air plutôt triste..."
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout Ah..."
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "Oh ! Mais ne te laisse pas abattre !\\nSans soleil, le monde mourra beaucoup plus rapidement."
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "Au moins...\\nJe sais que tout le monde aimerait revoir le soleil."
+
+msgid "Right, little one?"
+msgstr "N'est-ce pas, petite ?"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak Ouaip !"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak Mais je ramène le soleil..."
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "Mais ne te laisse pas abattre !\\nSans soleil, le monde mourra beaucoup plus rapidement."
+

@@ -1,0 +1,9 @@
+msgid "@ed [How do you still have the remote??]"
+msgstr "@ed [У тебя всё ещё остался пульт???]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [Через окно льётся мягкий свет.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko Не включается."
+

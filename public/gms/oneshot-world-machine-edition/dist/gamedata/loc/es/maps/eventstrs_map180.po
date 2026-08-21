@@ -1,0 +1,9 @@
+msgid "@ed [How do you still have the remote??]"
+msgstr "@ed ¿Sigues teniendo el mando?"
+
+msgid "@niko I wonder where that light is coming from..."
+msgstr "@niko ¿De dónde vendrá esa luz...?"
+
+msgid "@niko It won't turn on."
+msgstr "@niko No funciona."
+

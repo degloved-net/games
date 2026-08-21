@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [Un \\c[7]telecomando\\c[0].]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [Niko lo raccoglie.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak E-ehilà?"
+
+msgid "@niko ....."
+msgstr "@niko ......"
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [Libri polverosi.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [È troppo buio per leggerli.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko Non si accende."
+
+msgid "Input Password:"
+msgstr "Inserire Password:"
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]Accesso autorizzato."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop Mi hai trovato."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop ...Perché?"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop È già troppo tardi.\\nNon rimane più molto\\ndi questo mondo."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop Lo capirai non appena\\nuscirai fuori."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop Questo posto non\\nmerita di essere salvato."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop ...Vuoi comunque provare?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop D'accordo, ricorda\\nquesto però:"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop Le tue azioni\\navranno effetto su Niko."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop La tua \"missione\" è\\naiutare Niko ad andarsene."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop Ma soprattutto..."
+
+msgid "You only have one shot, \\p."
+msgstr "\\p, hai solo un tentativo."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [Niko sente il suono di una porta che si sblocca.]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]Accesso negato."
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [Niko si è appena svegliato qui.]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [La porta è chiusa.]"
+

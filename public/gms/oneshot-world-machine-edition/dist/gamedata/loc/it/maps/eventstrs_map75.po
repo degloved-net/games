@@ -1,0 +1,36 @@
+msgid "[ALL OF THESE TERMINALS DO NOT BOOT.]"
+msgstr "[TUTTI QUESTI TERMINALI NON SI ACCENDONO.]"
+
+msgid "[I AM NOT SURE WHAT TO DO NOW.]"
+msgstr "[NON HO IDEA DI COSA FARE.]"
+
+msgid "@niko Some of the ink on this page is faded."
+msgstr "@niko L'inchiostro su questa pagina è sbiadito."
+
+msgid "$-likely due some sort of electrical or magnetic interference."
+msgstr "$-probabilmente a causa di qualche interferenza elettrica o magnetica."
+
+msgid "$I'm afraid this operation can no longer be sustained, if the servers continue to fail so much that maintenance cannot keep up the pace."
+msgstr "$Se i server dovessero continuare ad avere tutti questi problemi dovremmo interrompere l'operazione, visto che la manutenzione non riesce a stare al passo con le riparazioni."
+
+msgid "$Fortunately, it does not seem to be happening to the robots."
+msgstr "$Fortunatamente, sembra non stia accadendo ai robot."
+
+msgid "$At least, not at a significant rate."
+msgstr "$Almeno, non a un ritmo significativo."
+
+msgid "$Time will tell."
+msgstr "$Solo il tempo ce lo dirà."
+
+msgid "@niko I'm pretty sure these are computers, now..."
+msgstr "@niko Sono abbastanza sicuro che questi siano computer..."
+
+msgid "[CHECKING... CHECKING...]"
+msgstr "[VERIFICA IN CORSO... VERIFICA IN CORSO...]"
+
+msgid "[TERMINAL DOES NOT RESPOND.]"
+msgstr "[NESSUNA RISPOSTA DAL TERMINALE.]"
+
+msgid "[THIS IS A PROBLEM.]"
+msgstr "[QUESTO È UN PROBLEMA.]"
+

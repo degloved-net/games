@@ -1,0 +1,237 @@
+msgid "@rowbot [.\\..\\..\\..]"
+msgstr "@rowbot [.\\..\\..\\..]"
+
+msgid "@rowbot [OH!]"
+msgstr "@rowbot [OH !]"
+
+msgid "@rowbot [THIS IS AMBER FROM THE GLEN.]"
+msgstr "@rowbot [C'EST DE L'AMBRE DU VALLON.]"
+
+msgid "@rowbot [I CAN REMEMBER NOW!]"
+msgstr "@rowbot [JE M'EN SOUVIENS MAINTENANT !]"
+
+msgid "@rowbot [ACTIVATING TRACKING SYSTEM...]"
+msgstr "@rowbot [ACTIVATION DU SYSTÈME DE PISTAGE...]"
+
+msgid "@rowbot [SETTING COURSE...]"
+msgstr "@rowbot [INITIALISATION DU TRAJET...]"
+
+msgid "@rowbot [WAIT.\\>\\nTHIS BOAT IS OVER CAPACITY.]"
+msgstr "@rowbot [ATTENDEZ.\\>\\nCE BATEAU EST EN SURCAPACITÉ.]"
+
+msgid "@rowbot [YOU'LL NEED TO LEAVE BEHIND SOME OF YOUR POSSESSIONS.]"
+msgstr "@rowbot [VOUS DEVEZ LAISSER CERTAINES DE VOS AFFAIRES.]"
+
+msgid "@niko Oh.\\>\\n\\@niko_eyeclosed Well... I don't think I'll be needing this crowbar anymore...\\>\\nOr this gas mask and gloves..."
+msgstr "@niko Oh.\\>\\n\\@niko_eyeclosed Eh bien... Je ne pense pas que j'aurai encore besoin de ce pied-de-biche...\\>\\nNi de ce masque à gaz ou de ces gants..."
+
+msgid "@rowbot [THAT IS ACCEPTABLE.\\>\\nONWARDS WE GO.]"
+msgstr "@rowbot [C'EST ACCEPTABLE.\\>\\nEN AVANT.]"
+
+msgid "@niko um.... \\p?"
+msgstr "@niko Hum.... \\p ?"
+
+msgid "@niko Is it alright if... you let me take a nap somewhere before we go?"
+msgstr "@niko Si ça ne vous dérange pas... j'aimerais faire une petite sieste avant de partir."
+
+msgid "@niko_eyeclosed I'm so tired I can't even see straight anymore..."
+msgstr "@niko_eyeclosed La fatigue m'envahit et je ne peux plus mettre un pied devant l'autre..."
+
+msgid "@rowbot [HAVE YOU TALKED TO THE HEAD ENGINEER YET?]"
+msgstr "@rowbot [AVEZ-VOUS PARLÉ À L'INGÉNIEUR EN CHEF ?]"
+
+msgid "@rowbot [SHE LIVES NEAR THE MINE ENTRANCE.]"
+msgstr "@rowbot [ELLE VIT PRÈS DE L'ENTRÉE DE LA MINE.]"
+
+msgid "@rowbot [I WOULD HAVE GIVEN YOU THE COORDINATES, BUT...]"
+msgstr "@rowbot [J'AURAIS PU VOUS DONNER LES COORDONNÉES, MAIS...]"
+
+msgid "@niko_speak I need something I can use to wash the robot with!"
+msgstr "@niko_speak Je ne peux pas nettoyer ce robot sans rien. Je dois trouver quelque chose !"
+
+msgid "@niko_eyeclosed A sponge alone isn't going to remove all this rust..."
+msgstr "@niko_eyeclosed Il me faut plus qu'une éponge pour venir à bout de toute cette rouille..."
+
+msgid "@niko Alright.... hold still..."
+msgstr "@niko Très bien.... Restez tranquille..."
+
+msgid "@rowbot [I HAVE NO OTHER CHOICE.]"
+msgstr "@rowbot [JE N'AI PAS D'AUTRE CHOIX.]"
+
+msgid "@niko_speak There!"
+msgstr "@niko_speak Voilà !"
+
+msgid "@niko How's that?"
+msgstr "@niko Alors ?"
+
+msgid "@rowbot [...I...]"
+msgstr "@rowbot [... JE...]"
+
+msgid "@rowbot [...CAN MOVE AGAIN.]"
+msgstr "@rowbot [... JE PEUX À NOUVEAU BOUGER.]"
+
+msgid "@rowbot [THANK YOU!]"
+msgstr "@rowbot [MERCI !]"
+
+msgid "@rowbot [I AM ABLE TO FULFILL MY PURPOSE AGAIN.]"
+msgstr "@rowbot [JE SUIS À NOUVEAU CAPABLE DE REMPLIR MA FONCTION.]"
+
+msgid "@rowbot [WHERE WOULD YOU LIKE TO GO?]"
+msgstr "@rowbot [OÙ DÉSIREZ-VOUS ALLER ?]"
+
+msgid "@niko_speak Can you take me to the Tower?"
+msgstr "@niko_speak Vous pouvez m'emmener à la Tour ?"
+
+msgid "@rowbot [CALCULATING...]"
+msgstr "@rowbot [CALCULS EN COURS...]"
+
+msgid "@rowbot [CLOSEST DESTINATION TO THE TOWER IS...]"
+msgstr "@rowbot [LA DESTINATION LA PLUS PROCHE DE LA TOUR EST...]"
+
+msgid "@rowbot [THE GLEN, PORT NUMBER - ]"
+msgstr "@rowbot [LE VALLON, PORT NUMÉRO - ]"
+
+msgid "@rowbot [MY BUILT-IN NAVIGATION CIRCUITS HAVE FRIED.]"
+msgstr "@rowbot [MES CIRCUITS DE NAVIGATION INTÉGRÉS ONT GRILLÉ.]"
+
+msgid "@niko_speak I'm....\\.\\. \\@niko_eyeclosed gonna assume that's not good."
+msgstr "@niko_speak Je.... \\.\\. \\@niko_eyeclosed suppose que c'est une mauvaise nouvelle."
+
+msgid "@rowbot [IT IS NOT GOOD AT ALL.]"
+msgstr "@rowbot [C'EST UNE TRÈS MAUVAISE NOUVELLE.]"
+
+msgid "@rowbot [ONCE AGAIN I CANNOT FOLLOW MY PROGRAMMING.]"
+msgstr "@rowbot [ENCORE UNE FOIS JE NE PEUX PAS SUIVRE MA PROGRAMMATION.]"
+
+msgid "@niko Aw..."
+msgstr "@niko Zut..."
+
+msgid "@niko_speak Is there anything I can do to help?"
+msgstr "@niko_speak Je peux faire quelque chose pour vous aider ?"
+
+msgid "@rowbot [IN THE EVENT OF AN ERROR, YOU SHOULD SPEAK WITH THE HEAD ENGINEER.]"
+msgstr "@rowbot [EN CAS D'ERREUR, VOUS DEVEZ VOUS ADRESSER À L'INGÉNIEUR EN CHEF.]"
+
+msgid "@rowbot [SHE WILL KNOW WHAT TO DO.]"
+msgstr "@rowbot [ELLE SAURA QUOI FAIRE.]"
+
+msgid "@niko_speak Wait! I need to protect my hands!"
+msgstr "@niko_speak Attendez ! Je dois me protéger les mains !"
+
+msgid "@niko_eyeclosed I don't wanna burn off my fingers..."
+msgstr "@niko_eyeclosed Je n'ai pas envie de me brûler les doigts..."
+
+msgid "@niko Hang in there!"
+msgstr "@niko Ne bougez pas !"
+
+msgid "@rowbot [I AM FUNCTIONAL!]"
+msgstr "@rowbot [JE SUIS EN ÉTAT DE MARCHE !]"
+
+msgid "@rowbot [WAS IT YOU WHO FIXED THE GENERATOR?]"
+msgstr "@rowbot [EST-CE VOUS QUI AVEZ RÉPARÉ LE GÉNÉRATEUR ?]"
+
+msgid "@niko_speak Well, \\p helped me!"
+msgstr "@niko_speak Eh bien, \\p m'a donné un coup de main !"
+
+msgid "@niko But yeah!"
+msgstr "@niko Mais oui !"
+
+msgid "@rowbot [HELLO. NICE TO MEET YOU.]"
+msgstr "@rowbot [BONJOUR. JE SUIS ENCHANTÉ DE VOUS RENCONTRER.]"
+
+msgid "@rowbot [I AM ROWBOT #310.]"
+msgstr "@rowbot [JE SUIS RAMEBOT N° 310.]"
+
+msgid "@rowbot [WOULD YOU LIKE ME TO TAKE YOU SOMEWHERE?]"
+msgstr "@rowbot [SOUHAITEZ-VOUS QUE JE VOUS EMMÈNE QUELQUE PART ?]"
+
+msgid "@rowbot [...]"
+msgstr "@rowbot [...]"
+
+msgid "@niko_speak Are you... okay?"
+msgstr "@niko_speak Est-ce que... tout va bien ?"
+
+msgid "@rowbot [I CANNOT MOVE.]"
+msgstr "@rowbot [JE NE PEUX PAS BOUGER.]"
+
+msgid "@niko_eyeclosed Well, you're still really rusty..."
+msgstr "@niko_eyeclosed En réalité, vous êtes encore très rouillé..."
+
+msgid "@rowbot [THAT IS TRUE.]"
+msgstr "@rowbot [C'EST VRAI.]"
+
+msgid "@niko Hold on... \\p and I will find a way to help you!"
+msgstr "@niko Restez là... \\p et moi allons trouver un moyen de vous aider !"
+
+msgid "@niko I don't...think this battery is supposed to be for the robot..."
+msgstr "@niko Je ne... pense pas que cette batterie est censée être pour le robot..."
+
+msgid "@niko_speak Um... hello?"
+msgstr "@niko_speak Hum... Bonjour ?"
+
+msgid "@rowbot_off ..."
+msgstr "@rowbot_off ..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko This robot doesn't have power."
+msgstr "@niko Ce robot n'a plus d'énergie."
+
+msgid "@niko_speak It might help us get across the ocean if we fix it!"
+msgstr "@niko_speak Le réparer pourrait nous aider à traverser l'océan !"
+
+msgid "@niko \\p, are you there?"
+msgstr "@niko \\p, vous êtes là ?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@niko_speak Oh, good!"
+msgstr "@niko_speak Ah, parfait !"
+
+msgid "@niko_eyeclosed Aw, bummer!"
+msgstr "@niko_eyeclosed Oh, non !"
+
+msgid "@niko ...wait. \\.\\.\\@niko_speak You just answered me!"
+msgstr "@niko ... Attendez. \\.\\.\\@niko_speak Vous venez de me répondre !"
+
+msgid "@niko_eyeclosed ...you sure have a sense of humor, \\p..."
+msgstr "@niko_eyeclosed ... Vous avez un sacré sens de l'humour, \\p..."
+
+msgid "@niko_speak There's a robot here, attached to a boat."
+msgstr "@niko_speak Là, il y a un robot attaché à un bateau."
+
+msgid "@niko It doesn't seem to have power, and its joints are rusted over as well."
+msgstr "@niko Il ne semble plus avoir d'énergie, et ses joints sont tout rouillés."
+
+msgid "@niko_speak But I think we should be able to fix it!"
+msgstr "@niko_speak Mais nous devrions pouvoir le réparer !"
+
+msgid "@niko After all, we'll need to cross this ocean to get to the Tower..."
+msgstr "@niko Après tout, nous devrons traverser l'océan pour atteindre la Tour..."
+
+msgid "@rowbot [`P%\\.\\.#L\\.E  A\\.SE D0 \\.N0@\\.\\. T AP \\.PRO%\\.\\.4AC \\.\\.H]"
+msgstr "@rowbot [`N'%\\.\\.#APP\\.RO CH\\.EZ P\\.@AS\\.\\..]"
+
+msgid "@niko3 Oh no!\\>\\nIs there anything I can do to help?"
+msgstr "@niko Oh non !\\>\\nJe peux faire quelque chose pour vous aider ?"
+
+msgid "@rowbot [IT\\. % \\.\\.IS DA-`\\.NGER\\.OU%S TO T\\.\\.RY A  ND A \\.$SIS\\.T M  E.]"
+msgstr "@rowbot [C'\\.%\\.\\.EST TROP DA-`\\.NGER\\.EU%X DE M\\.\\.E V\\.$ENIR EN A\\.I D  E.]"
+
+msgid "@rowbot [L\\.\\.EA\\.VE  `\\.T#HIS A\\.R`E \\.A.]"
+msgstr "@rowbot [A\\.\\.LLE\\.Z`-\\.V#OU`\\.S-EN.]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko2 Oh no...\\>\\nIt's some weird... square stuff?"
+msgstr "@niko2 Oh non... \\>\\nC'est un... truc carré bizarre ?"
+
+msgid "@niko I can see a green glow in the distance."
+msgstr "@niko J'aperçois une lueur verte au loin."
+
+msgid "@ed [The horizon glows a faint green.]"
+msgstr "@ed [L'horizon émet une faible lumière verte.]"
+

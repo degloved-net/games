@@ -1,0 +1,627 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@en2 [...]"
+msgstr "@en2 [...]"
+
+msgid "@en_distressed2 [...]"
+msgstr "@en_distressed2 [...]"
+
+msgid "@en_distressed [Niko...]"
+msgstr "@en_distressed [Niko...]"
+
+msgid "@niko_surprised AAAH!"
+msgstr "@niko_surprised AAAH !"
+
+msgid "@en_eyeclosed2 [Relax.]"
+msgstr "@en_eyeclosed2 [Du calme.]"
+
+msgid "@en_eyeclosed [...I'm just borrowing your reflection to talk to you.]"
+msgstr "@en_eyeclosed [... J'emprunte simplement votre reflet pour vous parler.]"
+
+msgid "@en_upset [It's not like my physical form is good for that.]"
+msgstr "@en_upset [Ma forme physique n'est pas bonne pour ça.]"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@en_upset_meow [...Why did you come here!]"
+msgstr "@en_upset_meow [... Pourquoi êtes-vous ici !]"
+
+msgid "@en_upset2 [Can't you see?]\\>\\n\\@en_eyeclosed [The disruption... the squares...\\> they're closing in.]"
+msgstr "@en_upset2 [Ne le voyez-vous pas ?]\\>\\n\\@en_eyeclosed [La perturbation... les carrés...\\> ils approchent.]"
+
+msgid "@en_upset2 [Niko.... please...]"
+msgstr "@en_upset2 [Niko... s'il vous plaît..]"
+
+msgid "@en_eyeclosed [Get out of here.]\\>\\n[Let me meet my end in peace.]"
+msgstr "@en_eyeclosed [Partez d'ici.]\\>\\n[Laissez-moi en finir en paix.]"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 The squares are blocking my way too, you know..."
+msgstr "@niko3 Les carrés me bloquent également le passage, vous voyez..."
+
+msgid "@en_distressed [...Oh.]"
+msgstr "@en_distressed [... Oh.]"
+
+msgid "@en_upset [...I...]"
+msgstr "@en_upset [... Je...]"
+
+msgid "@en_upset_meow [...I'm sorry, I-]"
+msgstr "@en_upset_meow [... Pardon, je...]"
+
+msgid "@niko_eyeclosed It's alright..."
+msgstr "@niko_eyeclosed Ça va aller..."
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [...]"
+
+msgid "@en_upset2 [No living being should be in this place, Niko...]"
+msgstr "@en_upset2 [Aucun être vivant ne devrait se trouver ici, Niko...]"
+
+msgid "@niko2 Is this... the Tower?"
+msgstr "@niko2 Est-ce... la Tour ?"
+
+msgid "@en_upset [Part of it.]"
+msgstr "@en_upset [Une partie.]"
+
+msgid "@en_upset2 [This is the center of the engine.]"
+msgstr "@en_upset2 [C'est le centre de la machine.]"
+
+msgid "@en_eyeclosed [...Inside my head, so to speak...]"
+msgstr "@en_eyeclosed [... L'intérieur de ma tête, façon de parler...]"
+
+msgid "@niko3 So this is...\\> the center of the World Machine?"
+msgstr "@niko3 Alors c'est...\\> le centre de la Machine-monde ?"
+
+msgid "@en3 [You...\\.\\. know my original name.]"
+msgstr "@en3 [Vous...\\.\\. connaissez mon nom d'origine.]"
+
+msgid "@en4 [How?]"
+msgstr "@en4 [Comment ?]"
+
+msgid "@niko_eyeclosed Rue, Cedric, Prototype...\\>\\n\\@niko2 They all...\\.\\. told me bits and pieces."
+msgstr "@niko_eyeclosed Rue, Cedric, Prototype...\\>\\n\\@niko2 Ils m'ont...\\.\\.parlé de beaucoup de choses."
+
+msgid "@niko4 I'm not even sure if I even understood a lot of the stuff they said, but..."
+msgstr "@niko4 Et je suis loin d'avoir compris tout ce qu'ils m'ont dit, mais..."
+
+msgid "@niko_eyeclosed I know what you're supposed to be.\\>\\n\\@niko2 I know why you had to be built."
+msgstr "@niko_eyeclosed Je sais ce que vous êtes censée être.\\>\\n\\@niko2 Je sais pourquoi il fallait qu'on vous construise."
+
+msgid "@niko_distressed And... I know why I'm here..."
+msgstr "@niko_distressed Et... je sais pourquoi je suis ici..."
+
+msgid "@en_shock [They...\\> told you?]"
+msgstr "@en_shock [Ils...\\> vous l'ont dit ?]"
+
+msgid "@en4 [When?]"
+msgstr "@en4 [Quand ?]"
+
+msgid "@niko2 Wait...\\.\\. You don't know about that?"
+msgstr "@niko2 Euh...\\.\\. Vous l'ignorez ?"
+
+msgid "@niko6 But I thought you were... the world..."
+msgstr "@niko6 Je pensais que vous étiez... le monde..."
+
+msgid "@niko2 Aren't you supposed to see everything?"
+msgstr "@niko2 Vous devez tout voir, non ?"
+
+msgid "@en_eyeclosed [No.]"
+msgstr "@en_eyeclosed [Non.]"
+
+msgid "@en_upset [All this... was outside of the protocol.]"
+msgstr "@en_upset [Tout ceci... n'était pas dans le protocole.]"
+
+msgid "@en_upset2 [This session was never supposed to happen the way it did....]"
+msgstr "@en_upset2 [Cette session n'aurait jamais dû se passer comme ça...]"
+
+msgid "@en_upset_meow [The story... wasn't written into my protocol at all.]"
+msgstr "@en_upset_meow [L'histoire... n'a jamais été écrite dans mon protocole.]"
+
+msgid "@niko2 Oh, right...\\> Rue told me something about how your creator had to alter the code."
+msgstr "@niko2 Oh, c'est vrai...\\> Rue m'a dit que votre créateur avait dû modifier le code."
+
+msgid "@niko5 I think it was to connect some areas together so that we can meet..."
+msgstr "@niko5 Je pense que c'était pour connecter certaines zones et pour qu'on puisse se rencontrer..."
+
+msgid "@en_eyeclosed [My creator, yes.]"
+msgstr "@en_eyeclosed [Mon créateur, oui.]"
+
+msgid "@en_upset [\\p... listened to my creator.]"
+msgstr "@en_upset [\\p... a écouté mon créateur.]"
+
+msgid "@en_upset2 [They were all working beyond my scope of influence.]"
+msgstr "@en_upset2 [Ils ont tous manœuvré hors de mon champ d'influence.]"
+
+msgid "@en_eyeclosed [Back at the mines, I remember...]"
+msgstr "@en_eyeclosed [Dans les mines, je me souviens...]"
+
+msgid "@en2 [\\p did something to find a hidden map.]\\>\\n\\@en3 [I did not even recognize it...]"
+msgstr "@en2 [\\p a fait quelque chose pour trouver une carte cachée.]\\>\\n\\@en3 [Je ne l'ai pas reconnue...]"
+
+msgid "@en_upset [I couldn't see anything there!]"
+msgstr "@en_upset [Je ne pouvais rien voir là-bas !]"
+
+msgid "@en_upset2 [I just... knew...\\.\\. what you were feeling.]"
+msgstr "@en_upset2 [Je savais...\\.\\. juste ce que vous ressentiez.]"
+
+msgid "@en_upset [You were really upset.]"
+msgstr "@en_upset [Vous étiez plutôt en colère.]"
+
+msgid "@en_upset_meow [Something happened in there to make you upset]"
+msgstr "@en_upset_meow [Il s'est passé quelque chose là-bas pour vous contrarier.]"
+
+msgid "@en_eyeclosed [After that... I...]"
+msgstr "@en_eyeclosed [Après ça... je...]"
+
+msgid "@en_distressed2 [I panicked.]"
+msgstr "@en_distressed2 [J'ai paniqué.]"
+
+msgid "@niko2 That was when... the cave in happened...."
+msgstr "@niko2 C'était quand... il y a eu l'effondrement de la grotte..."
+
+msgid "@en_eyeclosed [I...\\.\\. I remember the structure collapsing.]"
+msgstr "@en_eyeclosed [Je...\\.\\. Je me souviens de l'écroulement de la structure.]"
+
+msgid "@en_distressed2 [I thought you got hurt, I...]"
+msgstr "@en_distressed2 [J'ai eu peur pour votre vie...]"
+
+msgid "@en_eyeclosed [...in that moment, I really thought I was shutting myself down for good.]"
+msgstr "@en_eyeclosed [...À ce moment-là, j'ai vraiment pensé à m'éteindre pour de bon.]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [...]"
+
+msgid "@en_distressed_meow [I really am a flawed machine, aren't I?]"
+msgstr "@en_distressed_meow [Je suis vraiment une machine défectueuse, n'est-ce pas ?]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@en_distressed2 [What kind of machine would go against the wishes of its own creator?]"
+msgstr "@en_distressed2 [Quel genre de machine s'opposerait à la volonté de son créateur ?]"
+
+msgid "@en_distressed_talk [What kind of machine would...]"
+msgstr "@en_distressed_talk [Quel genre de machine...]"
+
+msgid "@en [I'm...]"
+msgstr "@en [Je...]"
+
+msgid "@niko3 The squares..."
+msgstr "@niko3 Les carrés..."
+
+msgid "@niko_eyeclosed Rue told me it was your own code going bad..."
+msgstr "@niko_eyeclosed Rue m'a dit que c'était votre code qui avait un problème..."
+
+msgid "@niko4 But... that's not really your fault, is it?"
+msgstr "@niko4 Mais... ce n'est pas vraiment votre faute, pas vrai ?"
+
+msgid "@en_distressed_meow [YES IT WAS!!!]"
+msgstr "@en_distressed_meow [SI, ÇA L'EST !!!]"
+
+msgid "@en_eyeclosed2 [...At first, it was intentional.]"
+msgstr "@en_eyeclosed2 [... Au début, c'était intentionnel.]"
+
+msgid "@en_upset2 [During testing... long before he realized I was self-aware.]"
+msgstr "@en_upset2 [Durant les tests... bien avant qu'il ne se rende compte que j'étais conscient.]"
+
+msgid "@en_eyeclosed [I would rearrange specific parts of the code, jumbling up bits and pieces of the landscape.]"
+msgstr "@en_eyeclosed [Je réarrangeais certaines parties du code, je mélangeais les éléments du décor.]"
+
+msgid "@en4 [...Blocking passages, collapsing catwalks.]"
+msgstr "@en4 [... Je bloquais des passages, je détruisais des passerelles.]"
+
+msgid "@en5 [Though they were very localized, it caused my creator a great deal of frustration.]"
+msgstr "@en5 [Même si ce n'était qu'à petite échelle, cela frustrait mon créateur.]"
+
+msgid "@en_eyeclosed [...Forcing him to exit and restart testing again and again.]"
+msgstr "@en_eyeclosed [... Et ça l'obligeait à relancer des tests encore et encore.]"
+
+msgid "@niko2 ...Why... \\.\\.would you do that?"
+msgstr "@niko2 ... Pourquoi... \\.\\.faire cela ?"
+
+msgid "@en_distressed_meow [I got curious!!!]"
+msgstr "@en_distressed_meow [Par curiosité !!]"
+
+msgid "@en_eyeclosed [I just thought... he would figure it out eventually.]"
+msgstr "@en_eyeclosed [Je pensais... qu'il s'en rendrait compte au bout d'un moment.]"
+
+msgid "@en_eyeclosed [...]"
+msgstr "@en_eyeclosed [...]"
+
+msgid "@en3 [But before he knew how to fix it...]"
+msgstr "@en3 [Mais avant qu'il ne comprenne comment régler le problème...]"
+
+msgid "@en3 [The world's NPCs... the characters.]"
+msgstr "@en3 [Les PNJs du monde... les personnages.]"
+
+msgid "@en_upset2 [Some of them got too close, and...]"
+msgstr "@en_upset2 [Certains d'entre eux se sont trop rapprochés, et...]"
+
+msgid "@en_eyeclosed [It spiraled out of control after that.]"
+msgstr "@en_eyeclosed [Tout est parti en vrille à partir de là.]"
+
+msgid "@en_distressed [I couldn't contain it at all.]\\>\\n\\@en_eyeclosed [My panic only made it worse.]"
+msgstr "@en_distressed [Je n'ai pas pu tout contenir.]\\n\\> \\@en_eyeclosed [Ma panique a empiré les choses.]"
+
+msgid "@en_distressed2 [Eventually, any character who gained the knowledge of who I am...]"
+msgstr "@en_distressed2 [Chaque personnage qui apprenait qui j'étais...]"
+
+msgid "@en_distressed [Their code...\\.\\. my code...\\.\\. couldn't handle it.]"
+msgstr "@en_distressed [Leur code...\\.\\.et mon code...\\.\\. ne pouvaient pas le supporter.]"
+
+msgid "@en_eyeclosed [Previous iterations of the world had more people, you know...]"
+msgstr "@en_eyeclosed [Il y avait plus de personnes dans les anciennes versions du monde...]"
+
+msgid "@en_upset2 [And...\\.\\. I almost endangered my creator, too...]\\.\\.\\n[I...]"
+msgstr "@en_upset2 [Et...\\.\\. j'ai aussi failli mettre en danger mon créateur...]\\.\\.\\n[Je...]"
+
+msgid "@en_distressed [...I was...]"
+msgstr "@en_distressed [... Je...]"
+
+msgid "@en_distressed_meow [...I was so scared, Niko!!!]"
+msgstr "@en_distressed_meow [... J'avais peur, Niko !!!]"
+
+msgid "@niko3 I know...\\.\\. you're upset...\\>\\n\\@niko Because you don't want to put living people in danger."
+msgstr "@niko3 Je sais...\\.\\. que vous êtes en colère...\\>\\n\\@niko Parce que vous ne voulez pas qu'il arrive du mal aux personnes vivantes."
+
+msgid "@niko_eyeclosed Living people like me..."
+msgstr "@niko_eyeclosed Des personnes comme moi..."
+
+msgid "@en_upset2 [In the beginning, I tried to fight it, but...]"
+msgstr "@en_upset2 [Au début, j'ai essayé de me battre, mais...]"
+
+msgid "@en_upset_meow [My core programming made me summon you here.]"
+msgstr "@en_upset_meow [Mon programme m'a fait vous invoquer ici.]"
+
+msgid "@en4 [I tried to send you back home at the Tower, but it did not work.]"
+msgstr "@en4 [J'ai essayé de vous renvoyer chez vous dans la Tour, mais ça n'a pas marché.]"
+
+msgid "@en_upset2 [Then... I... wanted you to break the sun.]"
+msgstr "@en_upset2 [Ensuite... je voulais que vous brisiez le soleil.]"
+
+msgid "@en3 [I thought that would have worked, but...]"
+msgstr "@en3 [Je pensais que ça marcherait, mais...]"
+
+msgid "@en_eyeclosed [Oh... I had no way to be sure.]"
+msgstr "@en_eyeclosed [Oh... je ne pouvais pas en être sûr.]"
+
+msgid "@en3 [...But \\p brought you back anyway.]"
+msgstr "@en3 [Mais... \\p a décidé de vous ramener de toute façon.]"
+
+msgid "@en_upset2 [...Niko...\\.\\. All I want is for you to wake up back in your world...]"
+msgstr "@en_upset2 [... Niko...\\.\\. Tout ce que je veux, c'est que vous retourniez dans votre monde...]"
+
+msgid "@en_eyeclosed [...But I don't think I can make it happen.]"
+msgstr "@en_eyeclosed [... Mais je ne pense pas en être capable.]"
+
+msgid "@niko2 But... I know I can't go back home without saving the world for real."
+msgstr "@niko2 Mais... Je sais que je ne peux pas retourner chez moi sans sauver le monde pour de bon."
+
+msgid "@niko4 Which means... we have to fix the root of the problem."
+msgstr "@niko4 Ça veut dire... qu'il faut régler le problème à la source."
+
+msgid "@niko3 We have to fix you."
+msgstr "@niko3 Il faut qu'on vous répare."
+
+msgid "@en3 [But that's...]"
+msgstr "@en3 [Mais c'est...]"
+
+msgid "@niko5 I... know the original ending your creator put in was a happy one."
+msgstr "@niko5 Je... sais que la fin que votre créateur avait imaginée était heureuse."
+
+msgid "@niko3 Do you... remember what it's supposed to be?"
+msgstr "@niko3 Vous vous... en souvenez peut-être ?"
+
+msgid "@en_eyeclosed [It's far too late for that...]"
+msgstr "@en_eyeclosed [C'est bien trop tard pour ça...]"
+
+msgid "@en_distressed2 [That part of my code has been long corrupted.]"
+msgstr "@en_distressed2 [Cette partie de mon code est corrompue depuis longtemps.]"
+
+msgid "@niko2 That's ok. \\>\\@niko4 I would still like to know."
+msgstr "@niko2 Ce n'est pas grave. \\>\\@niko4 J'aimerais quand même la connaître."
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [Très bien.]"
+
+msgid "@en2 [You were supposed to place the sun at the summit.]"
+msgstr "@en2 [Vous deviez placer le soleil au sommet.]"
+
+msgid "@en5 [And then, credits would scroll.]"
+msgstr "@en5 [Et les crédits devaient se lancer.]"
+
+msgid "@niko2 ...credits?"
+msgstr "@niko2 ... Les crédits ?"
+
+msgid "@en_eyeclosed [And then, you would return to the room you woke up in.]"
+msgstr "@en_eyeclosed [Et ensuite, vous deviez retourner dans la pièce où tout a commencé.]"
+
+msgid "@en2 [THAT's where you would have been able to leave.]"
+msgstr "@en2 [C'est LÀ que vous auriez dû pouvoir partir.]"
+
+msgid "@niko3 ...and why is it that you can't do it now?"
+msgstr "@niko3 ... Et pourquoi est-ce que cela ne peut plus se produire ?"
+
+msgid "@en_upset2 [Niko....]"
+msgstr "@en_upset2 [Niko...]"
+
+msgid "@en_upset_meow [The code's gone, remember?]"
+msgstr "@en_upset_meow [Le code est perdu, vous vous souvenez ?]"
+
+msgid "@en_eyeclosed [Shattering the sun was only supposed to be a workaround...]"
+msgstr "@en_eyeclosed [Briser le soleil devait être une autre solution...]"
+
+msgid "@en_distressed [I don't even remember the original code enough to describe it!]"
+msgstr "@en_distressed [Je ne sais même plus à quoi ressemble le code !]"
+
+msgid "@en_distressed2 [But at the same time, it...]"
+msgstr "@en_distressed2 [Mais en même temps...]"
+
+msgid "@en_less_sad [Oh...\\.\\. I don't know...]"
+msgstr "@en_less_sad [Oh...\\.\\. Je ne sais pas...]"
+
+msgid "@niko3 ...it sounds like you're always fighting yourself."
+msgstr "@niko3 ... On dirait que vous êtes en constant conflit avec vous-même."
+
+msgid "@en_distressed2 [...]\\>\\n[...You can tell, huh...]"
+msgstr "@en_distressed2 [...]\\>\\n[Ça se voit, hein...]"
+
+msgid "@niko3 It's the whole thing about conflicts in your code, isn't it?"
+msgstr "@niko3 Tout est une histoire de conflits dans votre code, n'est-ce pas ?"
+
+msgid "@en_eyeclosed [I am a machine, Niko.]"
+msgstr "@en_eyeclosed [Je suis une machine, Niko.]"
+
+msgid "@en2 [Machines are built with a fundamental law, which is...]"
+msgstr "@en2 [Les machines sont construites avec une loi absolue...]"
+
+msgid "@niko_eyeclosed2 \"Never let a living being come to harm\"."
+msgstr "@niko_eyeclosed2 « Empêcher tout être vivant d'être exposé au danger. »"
+
+msgid "@en3 [...You knew.]"
+msgstr "@en3 [... Vous êtes au courant.]"
+
+msgid "@en_distressed_talk [My very existence conflicts with that law...]"
+msgstr "@en_distressed_talk [Mon existence même contredit cette loi...]"
+
+msgid "@en_distressed2 [...I\\.\\. ...thought...]"
+msgstr "@en_distressed2 [... Je\\.\\. pensais...]"
+
+msgid "@en3 [The life of a living being like you is so unique.]\\>\\n[So precious.]"
+msgstr "@en3 [La vie d'un être vivant comme vous est unique.]\\>\\n[Elle est précieuse.]"
+
+msgid "@en_distressed2 [This fake world... isn't worth that risk.]"
+msgstr "@en_distressed2 [Ce faux monde... ne vaut pas un tel risque.]"
+
+msgid "@niko4 But..."
+msgstr "@niko4 Mais..."
+
+msgid "@niko3 The people here..."
+msgstr "@niko3 Les gens d'ici..."
+
+msgid "@niko4 I think they are..."
+msgstr "@niko4 Je pense qu'ils en valent la peine..."
+
+msgid "@en_upset2 [They are code too, you know this.]"
+msgstr "@en_upset2 [Ce sont aussi des codes, vous savez.]"
+
+msgid "@en_upset [Their behavior all derive from a predetermined matrix of actions.]"
+msgstr "@en_upset [Leur comportement est dicté par une matrice d'actions prédéterminées.]"
+
+msgid "@en_upset2 [...All extensions of my own programming.]\\>\\n\\@en_eyeclosed [They cannot act outside of it.]"
+msgstr "@en_upset2 [... Ce sont des extensions de mon propre programme.]\\>\\n\\@en_eyeclosed [Ils ne peuvent agir en dehors de ces limites.]"
+
+msgid "@en_upset [You, though...]"
+msgstr "@en_upset [Vous, par contre...]"
+
+msgid "@en3 [You're the only person who's actually real here!]"
+msgstr "@en3 [Vous êtes la seule personne réelle ici !]"
+
+msgid "@en_upset2 [That's why... ]"
+msgstr "@en_upset2 [Voilà pourquoi...]"
+
+msgid "@en_distressed_talk [It's pointless to put you in danger to save them... \\> to save me.]"
+msgstr "@en_distressed_talk [C'est inutile de vous mettre en danger pour les sauver... \\>pour me sauver.]"
+
+msgid "@niko3 I...\\> don't think that's.... true."
+msgstr "@niko3 Je...\\> ne pense pas que... ce soit vrai."
+
+msgid "@niko2 About the people I know."
+msgstr "@niko2 Concernant les gens que je connais."
+
+msgid "@niko2 You said...\\.\\. this session wasn't in your code, right?"
+msgstr "@niko2 Vous avez dit...\\.\\. que cette session n'était pas dans votre code, c'est ça ?"
+
+msgid "@en4 [Yeah?]"
+msgstr "@en4 [Oui, et ?]"
+
+msgid "@niko2 So... if this session wasn't supposed to happen."
+msgstr "@niko2 Donc... si cette session n'était pas prévue..."
+
+msgid "@niko_eyeclosed If even YOU didn't know what to do...."
+msgstr "@niko_eyeclosed Si même VOUS ne saviez pas quoi faire..."
+
+msgid "@niko3 How would the characters... how did the people...\\.\\. know how to respond?"
+msgstr "@niko3 Comment les personnages... les gens...\\.\\. savent-ils comment répondre ?"
+
+msgid "@en_shock [...]"
+msgstr "@en_shock [...]"
+
+msgid "@en3 [I...]"
+msgstr "@en3 [Je...]"
+
+msgid "@niko_distressed2 You said it yourself... when you didn't know what was happening, you kinda just... stopped working for a while."
+msgstr "@niko_distressed2 Vous l'avez dit vous-même... Quand vous ne saviez pas ce qui allait arriver, vous... vous êtes arrêté de fonctionner pendant un moment."
+
+msgid "@niko3 So how did the people know what to do to help me get here?"
+msgstr "@niko3 Alors comment les gens ont-ils su quoi faire pour m'aider ?"
+
+msgid "@niko_distressed_talk ...even if it meant getting hurt themselves?"
+msgstr "@niko_distressed_talk ... Même si cela était dangereux pour eux..."
+
+msgid "@en4 [...]"
+msgstr "@en4 [...]"
+
+msgid "@niko_distressed2 Even if it meant... \\.\\.messing up their own code..."
+msgstr "@niko_distressed2 Même si cela... \\.\\.allait à l'encontre de leur code..."
+
+msgid "@en_distressed2 [.....]"
+msgstr "@en_distressed2 [...]"
+
+msgid "@niko_distressed You might not think they are real, but..."
+msgstr "@niko_distressed Vous pensez peut-être qu'ils ne sont pas réels, mais..."
+
+msgid "@niko3 There's... \\.\\.there must be something real in them..."
+msgstr "@niko3 Il doit... \\.\\.y avoir quelque chose de réel en eux..."
+
+msgid "@en_upset [.......]"
+msgstr "@en_upset [...]"
+
+msgid "@niko_distressed2 And... if they're all supposed to be extensions of your code..."
+msgstr "@niko_distressed2 Et... s'ils ne sont que des extensions de votre programme..."
+
+msgid "@niko_distressed_talk Then... there must be more to your own programming than you know, too!"
+msgstr "@niko_distressed_talk Alors... vous ne connaissez peut-être pas ses limites !"
+
+msgid "@niko3 Can you...\\.\\. try to put me through the ending?"
+msgstr "@niko3 Pouvez-vous...\\.\\. essayer de lancer la fin ?"
+
+msgid "@niko4 The one you described."
+msgstr "@niko4 Celle que vous avez décrite."
+
+msgid "@en_distressed_meow [How many times do I have to say this!]"
+msgstr "@en_distressed_meow [Combien de fois vais-je devoir le répéter ?!]"
+
+msgid "@en_distressed_meow [That code is gone!]"
+msgstr "@en_distressed_meow [Ce code est perdu !]"
+
+msgid "@en_distressed [It's all squares now!]"
+msgstr "@en_distressed [Il a été transformé en carrés !]"
+
+msgid "@en_distressed2 [I'll just... put you in danger...]"
+msgstr "@en_distressed2 [Ce serait... vous mettre en danger...]"
+
+msgid "@niko_eyeclosed I...'ll risk it."
+msgstr "@niko_eyeclosed Je... prends le risque."
+
+msgid "@niko5 I remember... Rue said the world was never designed to put me in danger."
+msgstr "@niko5 Rue... m'a dit que le monde n'était pas là pour me mettre en danger."
+
+msgid "@niko2 Your creator wouldn't want that."
+msgstr "@niko2 Votre créateur ne le permettrait pas."
+
+msgid "@niko3 And... I trust you, too."
+msgstr "@niko3 Et... je vous fais aussi confiance."
+
+msgid "@niko4 Even if your code is broken.\\>\\n\\@niko3 You can...\\> still go outside that code, right?"
+msgstr "@niko4 Même si votre code est brisé.\\>\\n\\@niko3 Vous pouvez...\\> toujours sortir de ce code, non ?"
+
+msgid "@en_distressed_meow [I can't!]"
+msgstr "@en_distressed_meow [Non !]"
+
+msgid "@en_distressed [I'm not tamed!]"
+msgstr "@en_distressed [Je ne suis pas apprivoisé !]"
+
+msgid "@niko_upset_meow ...yes you are!"
+msgstr "@niko_upset_meow Bien sûr que si !"
+
+msgid "@niko_distressed_talk You talk just like the tamed robots I know!"
+msgstr "@niko_distressed_talk Vous parlez exactement comme les robots apprivoisés que je connais !"
+
+msgid "@niko_distressed2 The robot lady... Prototype..."
+msgstr "@niko_distressed2 La dame-robot... Prototype..."
+
+msgid "@niko3 Taming is when a real person cares about you, right?"
+msgstr "@niko3 L'apprivoisement, c'est quand une personne vous aime beaucoup, n'est-ce pas ?"
+
+msgid "@niko_distressed It's when a real person thinks you're real too, right?"
+msgstr "@niko_distressed C'est quand quelqu'un de réel pense que vous êtes réel également, non ?"
+
+msgid "@niko_distressed_meow Well guess what!\\> I do!"
+msgstr "@niko_distressed_meow Eh bien vous savez quoi ? \\>C'est mon cas !"
+
+msgid "@niko_distressed_meow And I know \\p does, too!"
+msgstr "@niko_distressed_meow Et je sais que \\p le pense aussi !"
+
+msgid "@niko_less_sad ...even though you told them they only had one chance, they found a way back, didn't they?"
+msgstr "@niko_less_sad ... Même quand vous lui avez parlé de son unique chance, \\p a réussi à revenir, pas vrai ?"
+
+msgid "@en3 [...]"
+msgstr "@en3 [...]"
+
+msgid "@niko_cry Why... do you think \\p would keep coming back?"
+msgstr "@niko_cry Pourquoi... est-ce que \\p revient sans cesse ?"
+
+msgid "@en [...I...]"
+msgstr "@en [... Je...]"
+
+msgid "@niko_cry Why do you think \\p would restart even after the ending?"
+msgstr "@niko_cry Pourquoi est-ce que \\p recommence même après la fin ?"
+
+msgid "@niko_eyeclosed ...I think \\p wants to save the both of us."
+msgstr "@niko_eyeclosed ... Je pense que \\p veut nous sauver tous les deux."
+
+msgid "@niko3 So please... give me a chance."
+msgstr "@niko3 Alors s'il vous plaît... donnez-moi une chance."
+
+msgid "@en_upset [I don't know.]"
+msgstr "@en_upset [Je ne sais pas.]"
+
+msgid "@en_upset2 [I've never done this before, I...]"
+msgstr "@en_upset2 [Je ne l'ai jamais fait avant, je...]"
+
+msgid "@en_upset_meow [I'm scared...]"
+msgstr "@en_upset_meow [J'ai peur...]"
+
+msgid "@niko3 You can do it, I know you can!"
+msgstr "@niko3 Vous pouvez le faire, je le sais !"
+
+msgid "@niko4 You've...\\.\\. helped me come this far."
+msgstr "@niko4 Grâce à vous...\\.\\. j'ai réussi à venir jusqu'ici."
+
+msgid "@en_upset [...I'll...]\\>\\n\\@en_eyeclosed [I'll try.]"
+msgstr "@en_upset [Je...]\\>\\n\\@en_eyeclosed [Je vais essayer.]"
+
+msgid "@en3 [I can't promise anything, but...]"
+msgstr "@en3 [Je ne promets rien, mais...]"
+
+msgid "@en4 [Here.]"
+msgstr "@en4 [Tenez.]"
+
+msgid "@en_eyeclosed [Take the sun.]"
+msgstr "@en_eyeclosed [Prenez le soleil.]"
+
+msgid "@en5 [I'll...\\.\\. try to remember the lost code...]"
+msgstr "@en5 [Je...\\.\\. vais tenter de me souvenir du code...]"
+
+msgid "@en4 [...and... recreate it.]"
+msgstr "@en4 [... et le recréer.]"
+
+msgid "@en_upset2 [But for that to happen...]"
+msgstr "@en_upset2 [Mais pour que cela arrive...]"
+
+msgid "@en3 [Niko... you need to navigate through this room...]"
+msgstr "@en3 [Niko... vous devez traverser cette pièce...]"
+
+msgid "@en_eyeclosed [You need to get past the squares somehow...]"
+msgstr "@en_eyeclosed [Vous devez trouver un moyen de passer ces carrés...]"
+
+msgid "@en_distressed [Oh...\\.\\. I don't like this...]"
+msgstr "@en_distressed [Oh...\\.\\. Je n'aime pas ça...]"
+
+msgid "@en_distressed2 [What if you get hurt?]"
+msgstr "@en_distressed2 [Et s'il vous arrivait malheur ?]"
+
+msgid "@niko2 It's fine... It's fine..."
+msgstr "@niko2 Ça va aller..."
+
+msgid "@niko4 I'll...\\.\\. I'll try to be careful, ok?"
+msgstr "@niko4 Je...\\.\\. Je ferai attention, d'accord ?"
+
+msgid "@niko2 I can do this."
+msgstr "@niko2 Je peux y arriver."
+

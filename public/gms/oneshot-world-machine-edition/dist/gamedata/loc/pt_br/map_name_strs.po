@@ -1,0 +1,132 @@
+msgid "67=Burial Grounds"
+msgstr "cemitério"
+
+msgid "70=Old Factory"
+msgstr "fábrica velha"
+
+msgid "37=Ruins"
+msgstr "ruínas"
+
+msgid "71=Dormitories"
+msgstr "dormitórios"
+
+msgid "205=Courtyard"
+msgstr "pátio"
+
+msgid "240=Forest"
+msgstr "floresta"
+
+msgid "73=Swamp"
+msgstr "pântano"
+
+msgid "43=Forest"
+msgstr "floresta"
+
+msgid "44=The Gate"
+msgstr "o portão"
+
+msgid "12=Entrance"
+msgstr "entrada"
+
+msgid "213=Landing"
+msgstr "aterrissagem"
+
+msgid "214=City Gate"
+msgstr "portão da cidade"
+
+msgid "47=City Gate"
+msgstr "portão da cidade"
+
+msgid "14=Outpost"
+msgstr "posto avançado"
+
+msgid "215=Elevator Deck"
+msgstr "plataforma do elevador"
+
+msgid "48=Elevator Deck"
+msgstr "plataforma do elevador"
+
+msgid "216=Office"
+msgstr "escritório"
+
+msgid "49=Apartments"
+msgstr "apartamentos"
+
+msgid "116=Office"
+msgstr "escritório"
+
+msgid "17=Mineshaft entrance"
+msgstr "entrada do poço"
+
+msgid "84=Elevator Street"
+msgstr "rua do elevador"
+
+msgid "219=Cafe"
+msgstr "Café"
+
+msgid "85=Vendor Street"
+msgstr "rua do comércio"
+
+msgid "18=Cliffs"
+msgstr "penhasco"
+
+msgid "52=Cafe"
+msgstr "Café"
+
+msgid "19=Docks"
+msgstr "docas"
+
+msgid "120=Observation Deck"
+msgstr "plataforma de observação"
+
+msgid "87=Library"
+msgstr "biblioteca"
+
+msgid "54=Garden"
+msgstr "jardim"
+
+msgid "90=Factory"
+msgstr "fábrica"
+
+msgid "23=Lookout point"
+msgstr "ponto de observação"
+
+msgid "191=Research Station"
+msgstr "estação de pesquisa"
+
+msgid "91=Back Alley"
+msgstr "beco"
+
+msgid "225=Observation Deck"
+msgstr "plataforma de observação"
+
+msgid "127=Research Station"
+msgstr "estação de pesquisa"
+
+msgid "27=Dock"
+msgstr "doca"
+
+msgid "128=Courtyard"
+msgstr "pátio"
+
+msgid "29=Village"
+msgstr "aldeia"
+
+msgid "230=Vendor Street"
+msgstr "rua do comércio"
+
+msgid "231=Elevator Street"
+msgstr "rua do elevador"
+
+msgid "232=Back Alley"
+msgstr "beco"
+
+msgid "199=Gate"
+msgstr "portão"
+
+msgid "233=Library"
+msgstr "biblioteca"
+
+msgid "200=Dock"
+msgstr "doca"
+

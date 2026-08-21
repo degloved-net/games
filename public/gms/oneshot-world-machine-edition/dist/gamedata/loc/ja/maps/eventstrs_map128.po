@@ -1,0 +1,30 @@
+msgid "@alula_speak Hey!"
+msgstr "@alula_speak 待ってーー！"
+
+msgid "@alula I saw you going to the courtyard!\\>\\n\\@alula_speak So I thought I'd tag along!"
+msgstr "@alula 中庭のほうに行くのを見かけたの！\\>\\n\\@alula_speak あたしも一緒に行くー！"
+
+msgid "@calamus_smile Same!"
+msgstr "@calamus_smile オレも！"
+
+msgid "@alula This is the courtyard.\\>\\n\\@alula It's got water... and... stuff..."
+msgstr "@alula ここ中庭よ。\\>\\n\\@alula 色々あるのよ…えっと…水とか。"
+
+msgid "@alula_oh Oh, are you leaving now?"
+msgstr "@alula_oh あっ、もう行っちゃうの？"
+
+msgid "@alula_speak Good luck, Niko! \\>\\n\\@alula We believe in you!"
+msgstr "@alula_speak 頑張ってね、ニコ！\\>\\n\\@alula 信じてるから！"
+
+msgid "@niko It's a ball."
+msgstr "@niko ボールだ。"
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula それ、あたしのー！\\>\\n\\@alula_pout 前みたいに全然跳ねないけど…"
+
+msgid "@calamus There's an entrance to an underground passage here.\\>\\nIt's flooded, though."
+msgstr "@calamus ここには地下通路への入り口があるんだ。\\>\\n浸水しちゃってるけどね。"
+
+msgid "@calamus_speak Oh, are you leaving now?\\>\\n\\@calamus_smile It was... nice, to meet you.\\>\\n\\@calamus Really. Thanks for everything."
+msgstr "@calamus_speak あ、もう行くのか？\\>\\n\\@calamus_smile ニコに会えて…良かったよ。\\>\\n\\@calamus 本当だぞ？色々ありがとな。"
+

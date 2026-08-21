@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 반딧불이 방을 밝히고 있어요."
+
+msgid "Can you see \\p, too?"
+msgstr "너도 \\p 님이 보여?"
+
+msgid "@niko_speak Nope! \\@niko I can only hear their voice in my head."
+msgstr "@niko_speak 아니! \\@niko 목소리만 들려. 내 머릿속에서."
+
+msgid "@alula_gasp That's still really cool!"
+msgstr "@alula_gasp 그래도 진짜 멋지다!"
+
+msgid "Daddy says the world is very sick.\\nBut \\p can make it better again!"
+msgstr "아빠는 이 세상이 아주 아프다고 했어.\\n하지만 \\p 님이 세상을 낫게 해 준댔어!"
+
+msgid "...Are you \\p?"
+msgstr "...네가 \\p 님이야?"
+
+msgid "@niko Uh... not really.\\nI'm just the \"messiah\" they sent."
+msgstr "@niko 어... 아냐.\\n난 부름을 받고 온 \"구원자\"일 뿐이야."
+
+msgid "@niko_speak I can talk with \\p, though!"
+msgstr "@niko_speak 하지만 난 \\p 님과 이야기할 수 있어!"
+
+msgid "Wow!"
+msgstr "우와!"
+
+msgid "@alula_gasp Double wow!"
+msgstr "@alula_gasp 나도 우와!"
+
+msgid "What's that like?"
+msgstr "어떤 기분이야?"
+
+msgid "@niko_speak Really cool!"
+msgstr "@niko_speak 굉장하지!"
+
+msgid "@niko Fish heads and tails."
+msgstr "@niko 생선 머리랑 꼬리가 담겨 있어요."
+

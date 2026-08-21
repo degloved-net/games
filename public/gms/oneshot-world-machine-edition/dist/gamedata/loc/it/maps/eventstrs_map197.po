@@ -1,0 +1,126 @@
+msgid "@silver_rip [...ughh]"
+msgstr "@silver_rip [...Aghh...]"
+
+msgid "@niko_surprised ARE YOU OKAY?!"
+msgstr "@niko_surprised TUTTO A POSTO!?"
+
+msgid "@silver_rip0 [I'm fine, I'm fine-]"
+msgstr "@silver_rip0 [Sto bene, sto bene-]"
+
+msgid "@silver_rip [I can still hold it up, but you two need to-]"
+msgstr "@silver_rip [Posso ancora reggerlo, ma voi due dovete-]"
+
+msgid "@silver_rip2 [AUGH!]"
+msgstr "@silver_rip2 [AUGH!]"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [...]"
+
+msgid "@silver_rip0 [YOU! Robot!]"
+msgstr "@silver_rip0 [TU! Robot!]"
+
+msgid "@silver_rip0 [What are you waiting for!!!]"
+msgstr "@silver_rip0 [Cosa stai aspettando???]"
+
+msgid "@silver_getout [Take the child and get out!]"
+msgstr "@silver_getout [Prendi il bambino e vattene da qui!]"
+
+msgid "@proto2b [Come on.]"
+msgstr "@proto2b [Andiamo.]"
+
+msgid "@niko3 But what about her?"
+msgstr "@niko3 Ma cosa ne sarà di lei?"
+
+msgid "@niko_shock AAH!!"
+msgstr "@niko_shock AAH!!"
+
+msgid "@silver_square1 [`G\\.\\.\\.%ET\\|\\@silver_square2  `/O \\.\\.U . T`%\\.\\.!!\\.!]"
+msgstr "@silver_square1 [`U\\.\\.\\.%SC\\|\\@silver_square2 `/I \\.\\.T . E`%\\.\\.!!\\.!]"
+
+msgid "@proto_eyeclosed [Come on.]"
+msgstr "@proto_eyeclosed [Dobbiamo andare.]"
+
+msgid "@niko_upset \\p..."
+msgstr "@niko_upset \\p..."
+
+msgid "@niko_upset2 I don't... understand..."
+msgstr "@niko_upset2 Non capisco..."
+
+msgid "@niko3 The world...."
+msgstr "@niko3 Il mondo..."
+
+msgid "@niko_upset2 The Prophetbot... what he was saying..."
+msgstr "@niko_upset2 Il Profetabot... quello che stava dicendo..."
+
+msgid "@niko3 Is this world really just....\\> just......"
+msgstr "@niko3 Questo mondo è... \\>è......"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ..."
+
+msgid "@niko_distressed Is it?"
+msgstr "@niko_distressed È davvero così?"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"Sì.\",\"No.\"]"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ..."
+
+msgid "@niko_upset2 ...you're just saying that..."
+msgstr "@niko_upset2 ...Stai dicendo che..."
+
+msgid "@niko_eyeclosed Normally I wouldn't believe it, but..."
+msgstr "@niko_eyeclosed Normalmente non ci crederei, ma..."
+
+msgid "@niko_distressed2 It just... adds up."
+msgstr "@niko_distressed2 Ammetto che... tutto quadra."
+
+msgid "@niko_distressed Everything...\\.\\. adds up."
+msgstr "@niko_distressed Così...\\.\\. tutto quadra."
+
+msgid "@niko_distressed We can't go back..."
+msgstr "@niko_distressed Non possiamo tornare indietro..."
+
+msgid "@niko_upset ...he said... you can bring me back..."
+msgstr "@niko_upset ...Ha detto... che puoi riportarmi indietro..."
+
+msgid "@niko_upset2 ...and... he needs my help to fix things?"
+msgstr "@niko_upset2 ...e... ha chiesto il mio aiuto per aggiustare le cose."
+
+msgid "@niko_distressed_talk ...I don't...\\.\\. get it!!!"
+msgstr "@niko_distressed_talk ...Io non...\\.\\. capisco!!!"
+
+msgid "@niko_distressed_meow Why didn't you tell me anything???"
+msgstr "@niko_distressed_meow Perché non mi hai detto nulla???"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko_distressed2 They're....."
+msgstr "@niko_distressed2 Loro......"
+
+msgid "@niko_distressed They're both....."
+msgstr "@niko_distressed ...sono......"
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed ......"
+
+msgid "@niko_distressed_talk I... don't know what I'm supposed to do!"
+msgstr "@niko_distressed_talk Io... non so cosa devo fare!"
+
+msgid "@niko_upset If I can't fix the world... I can't go back home..."
+msgstr "@niko_upset Se non riesco a riparare il mondo... non posso tornare a casa..."
+
+msgid "@niko_upset But the world is...\\.\\. already so messed up..."
+msgstr "@niko_upset Ma il mondo è già...\\.\\. molto danneggiato..."
+
+msgid "@niko_distressed2 ...if the squares don't get fixed...\\.\\. what will happen to the world?"
+msgstr "@niko_distressed2 ...Se i quadrati non verranno sistemati...\\.\\. cosa accadrà al mondo?"
+
+msgid "@niko_upset2 Where would I even go???"
+msgstr "@niko_upset2 Dove potrei andare???"
+
+msgid "@niko_distressed2 ..........."
+msgstr "@niko_distressed2 ............"
+

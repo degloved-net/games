@@ -1,0 +1,150 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [\\c[7]TVリモコン\\c[0]がある。]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [ニコはそれを拾った。]"
+
+msgid "@ed [In the faint light,\\nNiko can glimpse the face of the remote...]"
+msgstr "@ed [薄明りの中、\\nニコにはリモコンの表面が\nわずかながら見える…]"
+
+msgid "@ed [All of the numbers except \\v[51], \\v[52], \\v[53], and \\v[54] are missing.]"
+msgstr "@ed [\\v[51]、\\v[52]、\\v[53]、\\v[54]以外の数字がなくなっている。]"
+
+msgid "@ed [All of the numbers except \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], and \\c[4]\\v[51]\\c[0] are missing.]"
+msgstr "@ed [\\c[3]\\v[54]\\c[0]、\\c[1]\\v[53]\\c[0]、\\c[2]\\v[52]\\c[0]、\\c[4]\\v[51]\\c[0]以外の数字がなくなっている。]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [\\c[1]\\v[53]\\c[0]、\\c[3]\\v[54]\\c[0]、\\c[4]\\v[51]\\c[0]、\\c[2]\\v[52]\\c[0]以外の数字がなくなっている。]"
+
+msgid "@ed [All of the numbers except \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[1]\\v[53]\\c[0] are missing.]"
+msgstr "@ed [\\c[2]\\v[52]\\c[0]、\\c[4]\\v[51]\\c[0]、\\c[3]\\v[54]\\c[0]、\\c[1]\\v[53]\\c[0]以外の数字がなくなっている。]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [\\c[1]\\v[53]\\c[0]、\\c[4]\\v[51]\\c[0]、\\c[3]\\v[54]\\c[0]、\\c[2]\\v[52]\\c[0]以外の数字がなくなっている。]"
+
+msgid "@ed [They're marked in bright colors.]"
+msgstr "@ed [明るい色でマークされている。]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [柔らかな明かりが窓から差し込んでいる。]"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak だ…誰かいる？"
+
+msgid "@niko .....\\p?"
+msgstr "@niko ……\\p？"
+
+msgid "@niko_shock ...\\>\\n\\@niko_what ...wait, why did I... say that word..."
+msgstr "@niko_shock …\\>\\n\\@niko_what …えっ、今…何でそんなこと\n言ったんだろ…"
+
+msgid "@niko_eyeclosed ...\"\\p\"."
+msgstr "@niko_eyeclosed …「\\p」"
+
+msgid "@niko_distressed2 ....why does that sound so familiar?"
+msgstr "@niko_distressed2 …すごく聞いたことあるような…\n…どうしてだろ？"
+
+msgid "@niko ....."
+msgstr "@niko …"
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [埃っぽい本。]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [暗すぎて読めない。]"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [ニコはたった今、ここで目覚めた。]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 電源が入らない。"
+
+msgid "Input Password:\\n(Password Hint: Documents)"
+msgstr "パスワードを入力してください:\\n「ヒント：ドキュメント」"
+
+msgid "Input Password:"
+msgstr "パスワードを入力してください:"
+
+msgid "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+msgstr "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]アクセス成功"
+
+msgid "@desktop ..."
+msgstr "@desktop …"
+
+msgid "@desktop You found me."
+msgstr "@desktop 私を見つけたな。"
+
+msgid "@desktop ....Why?"
+msgstr "@desktop …なぜだ？"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop すでに手遅れだ。\\n世界のほとんどが\\n崩壊した。"
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 外に出てみれば\\n分かるはずだ。"
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop この場所に\\n救う価値はない。"
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop …それでもやってみるか？"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop なら、この事を忘れるな。"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 君の行動は\\nニコに影響する。"
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 君の「使命」は\\nニコが帰れるように\n手助けすることだ。"
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop そして最も重要なことは…"
+
+msgid "@desktop No. This does\\nnot feel right at all."
+msgstr "@desktop ちょっとまて。\n何かおかしいぞ。"
+
+msgid "@desktop Have we...\\nalready been through this,\\n\\p?"
+msgstr "@desktop \\p…\\n私たちは…以前同じやり取りを\nしなかったか…？"
+
+msgid "@desktop But that should be\\nimpossible..."
+msgstr "@desktop いや、そんなこと\n不可能なはずだ…"
+
+msgid "@desktop You only had one shot.\\nI wasn't supposed to\\nexist after that..."
+msgstr "@desktop チャンスは一度きり。\\nそれが終わった後、\n私は存在しないはず…"
+
+msgid "You only have one shot, \\p."
+msgstr "チャンスは一度きりだ、 \\p。"
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [ニコはドアが解錠される音を聞いた。]"
+
+msgid "@niko ...\"\\p\"...?"
+msgstr "@niko …「\\p」…？"
+
+msgid "@niko That sounds so... familiar."
+msgstr "@niko すごく…聞いたことある言葉。"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]アクセス失敗。"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [ドアは施錠されている。]"
+
+msgid "@ed [It doesn't respond to the remote.]"
+msgstr "@ed [リモコンに反応しない。]"
+
+msgid "@ed [Niko looks at the buttons on the remote, but they cannot be read in the dark.]"
+msgstr "@ed [ニコはリモコンのボタンを見た。でも、暗くて何も読めなかった。]"
+
+msgid "@ed [Perhaps a \\c[4]light\\c[0] would help?]"
+msgstr "@ed [もしかして、\\c[4]照明\\c[0]があれば読めるかも？]"
+

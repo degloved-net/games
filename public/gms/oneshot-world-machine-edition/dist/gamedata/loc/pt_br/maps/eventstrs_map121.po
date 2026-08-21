@@ -1,0 +1,96 @@
+msgid "@niko A pile of large books."
+msgstr "@niko Um monte de livros grandes."
+
+msgid "@niko A photograph of the city skyline."
+msgstr "@niko Uma fotografia da silhueta da cidade."
+
+msgid "@niko It's a photograph of the cafe.\\>\\nLooks like it was a busy day..."
+msgstr "@niko É uma fotografia do restaurante.\\>\\nParece que foi um dia cheio..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Uma cafeteira."
+
+msgid "@niko_speak It's very warm!"
+msgstr "@niko_speak Está quente!"
+
+msgid "@niko A photograph of some buildings."
+msgstr "@niko Uma fotografia de alguns prédios."
+
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko Acho que consigo destrancar essa porta..."
+
+msgid "@niko A photograph of the mines.\\>\\nThere are many robots at work in the photo, extracting large deposits of ore."
+msgstr "@niko Uma fotografia das minas.\\>\\nHá muitos robôs trabalhando para extrair depósitos de minério..."
+
+msgid "@niko Just a trash can..."
+msgstr "@niko Uma lixeira..."
+
+msgid "@niko Coffee cups."
+msgstr "@niko Xícaras de café."
+
+msgid "@niko_speak I'm too young to drink coffee!"
+msgstr "@niko_speak Não tenho idade para tomar café!"
+
+msgid "@niko A photograph of a factory."
+msgstr "@niko Uma fotografia de uma fábrica."
+
+msgid "@niko It looks like I can unlatch this door..."
+msgstr "@niko Acho que consigo destravar essa porta..."
+
+msgid "@niko A photograph of the Tower.\\>\\nThe sunlight makes it hard to make out much in this photo."
+msgstr "@niko Uma fotografia da Torre.\\>\\nOs raios de sol dificultam a compreensão desta foto."
+
+msgid "@niko A photograph of some railings."
+msgstr "@niko Uma fotografia de grades."
+
+msgid "Hey there."
+msgstr "Olá."
+
+msgid "@niko Hello."
+msgstr "@niko Olá."
+
+msgid "You the messiah?"
+msgstr "Você é o messias?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Isso!"
+
+msgid "......"
+msgstr "......"
+
+msgid "I like your scarf."
+msgstr "Gostei do seu cachecol."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Ótimo!"
+
+msgid "@niko Mama made it for me!"
+msgstr "@niko Mamãe fez para mim!"
+
+msgid "Tell her I like her needlework."
+msgstr "Diga-lhe que gosto de sua costura."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Pode deixar!"
+
+msgid "@niko ...when I see her again!"
+msgstr "@niko ... quando eu a revir!"
+
+msgid "@niko A photograph of a house in the Glen.\\>\\nLooks like it was taken when people were still living in the ruins..."
+msgstr "@niko Uma fotografia de uma casa no Vale.\\>\\nParece que foi tirada quando ainda havia habitantes nessas ruínas..."
+
+msgid "@niko They look like phonebooks."
+msgstr "@niko Parecem listas telefônicas."
+
+msgid "@niko Some of the pages are dog-eared."
+msgstr "@niko Algumas páginas têm orelhas."
+
+msgid "@niko This fridge has magnets on it!"
+msgstr "@niko Essa geladeira tem vários ímãs!"
+
+msgid "@niko Maybe they'll come in handy?"
+msgstr "@niko Talvez eles sejam úteis."
+
+msgid "@niko I hope nobody will mind us taking them..."
+msgstr "@niko Espero que ninguém ache ruim se eu os levar..."
+

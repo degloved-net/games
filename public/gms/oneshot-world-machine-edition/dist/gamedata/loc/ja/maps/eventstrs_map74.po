@@ -1,0 +1,3 @@
+msgid "@niko The door is locked from the inside."
+msgstr "@niko ドアの内側から鍵が掛かってる。"
+

@@ -1,0 +1,54 @@
+msgid "@niko It's the lightbulb.\\>\\n\\@niko_eyeclosed2 Thank goodness it's safe..."
+msgstr "@niko C'est l'ampoule.\\>\\n\\@niko_eyeclosed2 Par chance, elle n'a rien..."
+
+msgid "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+msgstr "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+
+msgid "@niko_distressed2 ...I guess \\p isn't coming back..."
+msgstr "@niko_distressed2 ... \\p ne reviendra pas, je pense..."
+
+msgid "[\"Niko, I'm here.\"]"
+msgstr "[\"Niko, je suis là.\"]"
+
+msgid "@niko_pancakes ...\\p?"
+msgstr "@niko_pancakes ... \\p ?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"Oui ?\"]"
+
+msgid "@niko_pancakes Is that... really you?"
+msgstr "@niko_pancakes Est-ce... vraiment vous ?"
+
+msgid "@niko_distressed2 I thought... you were gone..."
+msgstr "@niko_distressed2 Je pensais... que vous aviez disparu..."
+
+msgid "[\"I never left you.\", \"I'm back now.\"]"
+msgstr "[\"Je n'ai jamais disparu.\",\"Me revoilà.\"]"
+
+msgid "@niko_speak Oh! \\@niko_eyeclosed I was... feeling a bit scared back there..."
+msgstr "@niko_speak Oh ! \\@niko_eyeclosed J'ai eu... un peu peur tout à l'heure..."
+
+msgid "@niko_speak I thought I was completely alone!"
+msgstr "@niko_speak Je pensais qu'il n'y avait plus personne !"
+
+msgid "@niko_eyeclosed But that was silly of me to assume, wasn't it?"
+msgstr "@niko_eyeclosed Je n'aurais peut-être pas dû, n'est-ce pas ?"
+
+msgid "@niko_speak Where did you go?"
+msgstr "@niko_speak Où étiez-vous ?"
+
+msgid "@niko_eyeclosed I was so scared all by myself..."
+msgstr "@niko_eyeclosed Sans personne, j'avais tellement peur..."
+
+msgid "@niko_speak ...but I guess... it's okay now."
+msgstr "@niko_speak ... Mais tout va bien, maintenant..."
+
+msgid "@niko Ah, guess we need to figure out where to go now, and-"
+msgstr "@niko Bon, je suppose que nous devrions trouver notre prochaine destination, et..."
+
+msgid "@niko The sun!\\>\\n\\@niko_speak It lit up on its own!"
+msgstr "@niko Le soleil !\\>\\n\\@niko_speak Il s'est allumé tout seul !"
+
+msgid "@niko Guess I should pick it up, right \\p?"
+msgstr "@niko Devrais-je le prendre, \\p ?"
+

@@ -1,0 +1,39 @@
+msgid "@niko This robot looks kind of rusty..."
+msgstr "@niko 這個機器人看起來生鏽了……"
+
+msgid "@niko A bunch of robots without power."
+msgstr "@niko 一大堆沒電的機器人。"
+
+msgid "@niko_eyeclosed I guess the generator can only do so much..."
+msgstr "@niko_eyeclosed 發電機大概也只能做到這樣吧……"
+
+msgid "@niko A cleaning sponge with a rough surface."
+msgstr "@niko 清潔用的海綿，表面粗糙。"
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko 看起來是從書上撕下來的一頁。"
+
+msgid "$2) Without breaking the seal, inject the liquid phosphor into the container."
+msgstr "$2）在不破壞封口的前提下，將液態燐注入容器內。"
+
+msgid "$3) Shake vigorously to initiate the reaction."
+msgstr "$3）用力搖晃促進反應進行。"
+
+msgid "$4) Use as soon as possible."
+msgstr "$4）盡快使用。"
+
+msgid "$Note: If elements begin to separate, further shaking is required."
+msgstr "$註：若元素開始分離，則需要加強搖晃。"
+
+msgid "$Also note: Hand protection is critical after this step."
+msgstr "$再註：此步驟之後必須穿戴手部防護。"
+
+msgid "$The resulting acid is moderately stronger than common household cleaners."
+msgstr "$完成的酸比一般家用清潔劑更強一些。"
+
+msgid "@niko_eyeclosed I... don't know what half of these words mean..."
+msgstr "@niko_eyeclosed 我……上面寫的都看不懂……"
+
+msgid "@niko_speak It's a good thing you're here, \\p!"
+msgstr "@niko_speak 還好你在這裡，\\p！"
+

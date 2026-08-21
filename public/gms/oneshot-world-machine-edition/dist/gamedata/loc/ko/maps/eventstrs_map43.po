@@ -1,0 +1,249 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown 알룰라?\\>\\n알룰라? 어디 간 거야?"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p 님, 방금 들었어요?"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown 알룰라!"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko 남동쪽 방향에서 들리는 것 같아요."
+
+msgid "@niko It's full of eels!"
+msgstr "@niko 장어 천지예요!"
+
+msgid "@niko_what Wait, no..."
+msgstr "@niko_what 잠깐, 아니네요..."
+
+msgid "@niko_wtf2 It's full of snakes..."
+msgstr "@niko_wtf2 전부 뱀이에요..."
+
+msgid "@niko_eyeclosed Snakes..."
+msgstr "@niko_eyeclosed 뱀이에요..."
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[물 표본 채취 진행 중...]"
+
+msgid "@calamus_speak Hey! You there!"
+msgstr "@calamus_speak 이봐, 잠깐만!"
+
+msgid "@calamus Have you seen a little girl?"
+msgstr "@calamus 작은 여자아이를 봤어?"
+
+msgid "@calamus She's a little bit shorter than you, and-"
+msgstr "@calamus 너보다는 좀 작고..."
+
+msgid "@calamus_speak Wait...\\.! That's... the sun."
+msgstr "@calamus_speak 잠깐...\\.! 그건... 태양이잖아."
+
+msgid "@calamus Are you our savior?"
+msgstr "@calamus 네가 구원자니?"
+
+msgid "@niko I... yeah?"
+msgstr "@niko 그게... 아마도?"
+
+msgid "@calamus_shame Oh my stars!"
+msgstr "@calamus_shame 오, 세상에!"
+
+msgid "@calamus_shame Sorry for my rudeness!"
+msgstr "@calamus_shame 부디 무례를 용서해 줘!"
+
+msgid "@niko Huh? It's alright..."
+msgstr "@niko 응? 난 괜찮은데..."
+
+msgid "@niko_speak Are you looking for someone?"
+msgstr "@niko_speak 누군가를 찾고 있어?"
+
+msgid "@calamus_sad My little sister... she's been gone for three days now."
+msgstr "@calamus_sad 내 여동생이야... 오늘로 벌써 사흘째 돌아오지 않았어."
+
+msgid "@calamus I've been looking all over, but..."
+msgstr "@calamus 있을 법한 곳은 다 찾아다녔어. 그런데..."
+
+msgid "@niko What does she look like?"
+msgstr "@niko 어떻게 생겼는데?"
+
+msgid "@calamus_speak Um...\\. a little shorter than you, long blue hair, two blue feathers on top of her head..."
+msgstr "@calamus_speak 그러니까...\\. 너보다 키는 조금 작고, 파랗고 긴 머리에 머리 위엔 파란 깃털 두 개가 나 있어..."
+
+msgid "@niko I'm sorry, I haven't seen anyone like that..."
+msgstr "@niko 미안해, 그런 사람은 못 봤어..."
+
+msgid "@niko_speak Where was the last place you saw her?"
+msgstr "@niko_speak 여동생을 마지막으로 본 곳은 어디야?"
+
+msgid "@calamus_speak Back inside the ruins."
+msgstr "@calamus_speak 폐허였지."
+
+msgid "@calamus She said she was headed towards the forest, so I'm waiting here now."
+msgstr "@calamus 동생이 숲 쪽으로 가겠다고 해서 지금 여기서 기다리고 있는 거야."
+
+msgid "@calamus_sad I ran out of places to look..."
+msgstr "@calamus_sad 이제 더 찾아볼 곳도 없어..."
+
+msgid "@alula_gasp Calamus!"
+msgstr "@alula_gasp 칼라무스!"
+
+msgid "@calamus_speak Alula!"
+msgstr "@calamus_speak 알룰라!"
+
+msgid "@calamus You're okay!"
+msgstr "@calamus 무사했구나!"
+
+msgid "@calamus_sad Thank goodness..."
+msgstr "@calamus_sad 신이시여, 감사합니다..."
+
+msgid "@niko Are you from the village?"
+msgstr "@niko 두 사람은 마을에서 왔어?"
+
+msgid "@calamus No..."
+msgstr "@calamus 아니..."
+
+msgid "@calamus_speak I don't remember why, but our father left the village while we were still young."
+msgstr "@calamus_speak 이유는 기억나지 않지만 우리가 어렸을 때 아버지는 우리를 데리고 마을을 떠났어."
+
+msgid "@calamus We've lived in the ruins ever since."
+msgstr "@calamus 그 뒤로 쭉 이 폐허에서 살았지."
+
+msgid "@calamus_sad ...Well, it's just Alula and I now."
+msgstr "@calamus_sad ...뭐, 지금은 알룰라와 둘 뿐이야."
+
+msgid "@calamus_sad I can't lose her too..."
+msgstr "@calamus_sad 알룰라만큼은 지켜야 해..."
+
+msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
+msgstr "@calamus_speak 알룰라는 내 전부나 마찬가지야.\\n여동생을 지켜야 해..."
+
+msgid "@alula_pout I was trapped inside this room and it was really scary..."
+msgstr "@alula_pout 나는 웬 방 안에 갇혀 있었어. 정말 무서웠다고..."
+
+msgid "@alula ...but then, the messiah saved me!"
+msgstr "@alula ...그랬는데 구원자가 날 구해 준 거야!"
+
+msgid "@calamus ...trapped?\\> In the ruins?"
+msgstr "@calamus ...갇혔었다고?\\> 폐허에?"
+
+msgid "@alula_oh Yeah!\\|"
+msgstr "@alula_oh 맞아!\\|"
+
+msgid "@alula_pout There was that weird stuff in the door!"
+msgstr "@alula_pout 문 안쪽에 이상한 것들이 있었거든!"
+
+msgid "@alula_oh You know, the floating squares we see next to the ocean sometimes?"
+msgstr "@alula_oh 그 왜, 바다에서 가끔 떠다니던 사각형들 있잖아?"
+
+msgid "@alula_oh The stuff you told me to stay away from?"
+msgstr "@alula_oh 오빠가 나보고 위험하니까 가까이 가지 말라고 했던 그거 말이야."
+
+msgid "@calamus_shock What!?"
+msgstr "@calamus_shock 뭐!?"
+
+msgid "@calamus_shock It's... spread to the ruins now?"
+msgstr "@calamus_shock 그게... 지금 폐허에까지 퍼졌다고?"
+
+msgid "@calamus_sad This isn't good..."
+msgstr "@calamus_sad 안 좋은 징조인데..."
+
+msgid "@alula_speak Don't worry! I didn't touch it!"
+msgstr "@alula_speak 걱정하지 마! 안 건드렸으니까!"
+
+msgid "@alula I'm not hurt or anything..."
+msgstr "@alula 다친 곳도 없고..."
+
+msgid "@calamus_sad Still... If it gets any worse, we might have to find somewhere else to live..."
+msgstr "@calamus_sad 어쩌면...상황이 더 심각해지면 다른 곳에서 살아야 할지도 몰라..."
+
+msgid "@niko What is this... square... stuff, exactly?"
+msgstr "@niko 그... 사각형... 이라는 게 대체 뭐야?"
+
+msgid "@calamus_sad Bad."
+msgstr "@calamus_sad 나쁜 거야."
+
+msgid "@calamus Anything that touches them just... sorta..."
+msgstr "@calamus 그것과 접촉하는 건 무엇이든... 그냥..."
+
+msgid "@calamus_sad ...Gets... messed up."
+msgstr "@calamus_sad ...완전히... 엉망이 되고 말아."
+
+msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
+msgstr "@calamus_sad 너도 세계가 무너지고 있다는 말은 들었을 거야. 그게 바로 그 증거지..."
+
+msgid "@calamus_speak Obviously, you should avoid them too."
+msgstr "@calamus_speak 너도 그걸 피하는 게 좋아."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 그럴게요!"
+
+msgid "@calamus_speak Anyway, ah..."
+msgstr "@calamus_speak 아무튼, 음..."
+
+msgid "@calamus I can't thank you enough for rescuing my sister, savior..."
+msgstr "@calamus 내 동생을 구해줘서 뭐라고 감사해야 할지 모르겠어, 구원자..."
+
+msgid "@niko_speak Just call me Niko!"
+msgstr "@niko_speak 그냥 니코라고 불러!"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame 말도 안 돼! 구원자를 어떻게 감히 이름으로 부를 수 있어?"
+
+msgid "@niko Huh?\\>\\n\\@niko_speak Why would it be?"
+msgstr "@niko 응?\\>\\n\\@niko_speak 왜?"
+
+msgid "@niko I mean, I'm just a kid like you guys..."
+msgstr "@niko 나도 너희와 다를 바 없는 아이일 뿐인걸..."
+
+msgid "@calamus_shame Ah..."
+msgstr "@calamus_shame 아..."
+
+msgid "@calamus_smile Then... would you like to visit our house, Niko?"
+msgstr "@calamus_smile 그럼... 우리 집에 오지 않을래, 니코?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@alula_speak Yaaaay!"
+msgstr "@alula_speak 좋아!"
+
+msgid "@alula Let's go!"
+msgstr "@alula 어서 가자!"
+
+msgid "@niko_speak I'm sorry, but I think \\p might want to go somewhere else right now!"
+msgstr "@niko_speak 정말 미안한데, \\p 님이 다른 곳으로 가고 싶어하는 것 같아!"
+
+msgid "@calamus_smile That's fine.\\.\\. I'm sure you both have more important things to do right now."
+msgstr "@calamus_smile 괜찮아.\\.\\. 둘한테는 지금 해야 하는 중요한 일이 있겠지."
+
+msgid "@calamus_smile But feel free to drop by if you change your mind."
+msgstr "@calamus_smile 그렇지만 마음이 바뀌면 언제든 찾아와."
+
+msgid "@alula_speak Yeah!\\.\\. We have something nice to give you, Niko!"
+msgstr "@alula_speak 맞아!\\.\\. 니코, 너에게 줄 멋진 선물도 있거든!"
+
+msgid "@alula We live in the ruins.\\| So don't forget!"
+msgstr "@alula 우리는 폐허에 살고 있어.\\| 절대 잊어버리면 안 돼!"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak 아, 그건 그렇고, 태양은 어디로 간 거야?"
+
+msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel the sun again, before.\\..\\.."
+msgstr "@niko 폐허에 있는 누군가에게 빌려줬어.\\n마지막으로 한 번 더 태양을 느껴보고 싶다고 했거든.\\..\\.."
+
+msgid "@calamus Oh, Maize.\\nI've met her before, too."
+msgstr "@calamus 아, 메이즈구나.\\n나도 전에 만난 적이 있어."
+
+msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
+msgstr "@calamus 옛날에 이 근처에는 식물 인간들이 많았대...\\n아버지가 자주 말씀해 주셨지."
+
+msgid "@calamus I guess they've all...\\. gone."
+msgstr "@calamus 이제...\\. 전부 사라진 것 같아."
+
+msgid "@niko_eyeclosed I'm glad she got to see the sun again, at least."
+msgstr "@niko_eyeclosed 적어도 메이즈가 태양을 다시 볼 수 있게 되어서 기뻐."
+
+msgid "This is the best fishing spot I've found yet!"
+msgstr "여기는 내가 찾은 낚시터 중에 최고야!"
+
+msgid "All the fish I catch here are longer than my arm!"
+msgstr "내 팔보다 긴 물고기들이 잡힌다니까!"
+

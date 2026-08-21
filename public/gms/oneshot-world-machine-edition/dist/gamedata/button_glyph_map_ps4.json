@@ -1,0 +1,16 @@
+{
+    "ButtonsToGlyphes": {
+        "A": "pad_x",
+        "B": "pad_circle",
+        "X": "pad_square",
+        "Y": "pad_triangle",
+        "RightTrigger": "pad_r2",
+        "RightShoulder": "pad_r1",
+		"RightStick": "pad_rstick",
+        "LeftTrigger": "pad_l2",
+        "LeftShoulder": "pad_l1",
+		"LeftStick": "pad_lstick",
+        "Start": "pad_ps4_options",
+		"Back": "pad_ps4_share",
+    }
+}

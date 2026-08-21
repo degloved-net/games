@@ -1,0 +1,399 @@
+msgid "@silver [Ready to leave?]"
+msgstr "@silver [もう出る？]"
+
+msgid "@niko Mhm."
+msgstr "@niko うん。"
+
+msgid "@niko It'd be rude to leave now..."
+msgstr "@niko 今ここから出るのは失礼だよ…"
+
+msgid "@niko_speak Safety violation!"
+msgstr "@niko_speak 安全基準法違反だ！"
+
+msgid "@niko The yellow light is gone now."
+msgstr "@niko 黄色い光が消えちゃった。"
+
+msgid "@niko_eyeclosed Must've imagined it..."
+msgstr "@niko_eyeclosed 気のせいだったのかな…"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock …"
+
+msgid "@silver2 [Are you okay?]"
+msgstr "@silver2 [大丈夫？]"
+
+msgid "@silver [You were starting to black out...]"
+msgstr "@silver [一瞬、倒れてしまうんじゃないかと…]"
+
+msgid "@niko_speak I...\\>\\n\\@niko I saw something?"
+msgstr "@niko_speak 何か…\\>\\n\\@niko 何かが見えたような？"
+
+msgid "@silver2 [?]"
+msgstr "@silver2 [？]"
+
+msgid "@niko It was like a really short dream, just now."
+msgstr "@niko 一瞬、とっても短い夢みたいに。"
+
+msgid "@silver2 [Oh?]"
+msgstr "@silver2 [そうなの？]"
+
+msgid "@niko_speak I saw something like...\\>\\n\\@niko A robot, with a yellow eye..."
+msgstr "@niko_speak 何というか…\\>\\n\\@niko ロボットみたいだった。黄色の目をした…"
+
+msgid "@silver [...that's...\\>\\n\\@silver_eyeclosed ...strange.]"
+msgstr "@silver […それは…\\>\\n\\@silver_eyeclosed …不思議ね。]"
+
+msgid "@silver2 [Are you sure you're okay?]"
+msgstr "@silver2 [本当に平気？]"
+
+msgid "@niko ...yeah."
+msgstr "@niko …うん。"
+
+msgid "@silver [...You know, now that you have mentioned it.]"
+msgstr "@silver […そうね、そういえば思い出したわ。]"
+
+msgid "@silver [There is a robot who always insisted on going back to the abandoned mines.]"
+msgstr "@silver [この棄てられた鉱山にいつも\n戻りたがっていたロボットがいるの。]"
+
+msgid "@silver2 [...despite how long the mines have been in disrepair.]"
+msgstr "@silver2 […この、ずっと長いこと放棄されていた\n鉱山によ。]"
+
+msgid "@silver_eyeclosed [I hope he's okay.]"
+msgstr "@silver_eyeclosed [あのロボット、無事だといいんだけど。]"
+
+msgid "@niko He doesn't look broken or anything..."
+msgstr "@niko 壊れているようには見えなかったよ…"
+
+msgid "@niko_eyeclosed ...but I didn't really... SEE him see him, yknow?"
+msgstr "@niko_eyeclosed …けど、うん…実際に見たってわけじゃ\nないから。"
+
+msgid "@niko Like I said, it was kinda like a dream..."
+msgstr "@niko さっきも言ったけど、まるで夢を見てるような\n感じだった…"
+
+msgid "@niko_speak And he was up close!"
+msgstr "@niko_speak すごく近くにいたんだよ！"
+
+msgid "@silver2 [Sounds like some kind of visual glitch.]"
+msgstr "@silver2 [視覚的なバグかしらね。]"
+
+msgid "@silver_eyeclosed [Or... hallucination.]\\>\\n\\@silver [Whatever it is that living beings have.]"
+msgstr "@silver_eyeclosed [それか…幻覚とか。] \\>\\n\\@silver [いずれにせよ、生命体にしか\n経験できないこと。]"
+
+msgid "@niko Hm..."
+msgstr "@niko うーん…"
+
+msgid "@niko_speak Does the robot you know of have a yellow eye?"
+msgstr "@niko_speak お姉さんが知ってるロボットで、黄色い目を\nしてるロボットはいなかった？"
+
+msgid "@niko I don't think I've seen any other robots like that..."
+msgstr "@niko ミーは、たぶん見たことないや…"
+
+msgid "@silver_eyeclosed [I would not know.]"
+msgstr "@silver_eyeclosed [知らないわね。]"
+
+msgid "@silver [I never met him myself. Only heard of him from a friend of mine.]"
+msgstr "@silver [私は一度も会ったことがない。 \nそのロボットのことは、友人から聞いただけ。]"
+
+msgid "@niko Your friend, huh..."
+msgstr "@niko お友達、そっか…"
+
+msgid "@niko Hold on... something in my pocket is..."
+msgstr "@niko 待って、ポケットに何か…"
+
+msgid "@niko2 What's..."
+msgstr "@niko2 え…"
+
+msgid "@niko_speak That wasn't glowing before!"
+msgstr "@niko_speak 今まで光ってなかったのに！"
+
+msgid "@niko3 What IS this...?"
+msgstr "@niko3 これ、何なの…？"
+
+msgid "@silver2 [That... was going to be my question.]"
+msgstr "@silver2 [私も…ちょうど聞こうと思っていた。]"
+
+msgid "@silver [Where did you... get that book?]"
+msgstr "@silver [その本…どこで手に入れたの？]"
+
+msgid "@niko2 Oh, uh..."
+msgstr "@niko2 えっと、たしか…"
+
+msgid "@niko It was with me when I woke up back at the house."
+msgstr "@niko 家で目が覚めた時かな。"
+
+msgid "@niko_eyeclosed I didn't really question it at the time..."
+msgstr "@niko_eyeclosed その時はあんまり気にしてなかった…"
+
+msgid "@niko2 I flipped through a couple of pages, but I don't understand a word!"
+msgstr "@niko2 ちょっとだけ読んでみたけど、\n全然分からなかった！"
+
+msgid "@niko Is that just something messiahs are supposed to wake up with?"
+msgstr "@niko もしかして、救世主が起きるときに持ってないと\nダメなものだったりとか？"
+
+msgid "@silver_eyeclosed [No... I have never heard of anything like that.]"
+msgstr "@silver_eyeclosed [違うわね…\nそんなの、一度も聞いたことがない。]"
+
+msgid "@silver [But I... \\.\\.know who wrote the book.]"
+msgstr "@silver [でも、その本を… \\.\\.誰が書いたかは知っている。]"
+
+msgid "@niko2 Oh?"
+msgstr "@niko2 ほんと？"
+
+msgid "@silver [However...]"
+msgstr "@silver [けれど…]"
+
+msgid "@silver2 [I've only seen his books with a black clover on the cover.]"
+msgstr "@silver2 [黒いクローバーが描かれた、彼の本しか\n見たことがないの。]"
+
+msgid "@silver_lookup [If he went through the trouble of putting yellow phosphor in it...]"
+msgstr "@silver_lookup [もし、この中に黄色い蛍光体をわざわざ\n埋め込んだのだとしたら…]"
+
+msgid "@silver [And the fact that you woke up with it in the first place...]"
+msgstr "@silver [そしてこれを、あなたが最初に目覚めた時から\n持っていたという事実…]"
+
+msgid "@silver2 [...Really has me intrigued.]"
+msgstr "@silver2 […とても興味深いわね。]"
+
+msgid "@niko Yellow... phosphor?"
+msgstr "@niko 黄色い…蛍光体？"
+
+msgid "@niko_speak Oh yeah! That's the rare phosphor that people think the sun is made of, right?"
+msgstr "@niko_speak あ、分かった！それって、太陽の一部だって\n言われてる珍しい蛍光体のことだよね？"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_what2 ...wait a minute, how do I know this?"
+msgstr "@niko_what2 …あれ、ミーは何でこんなこと知ってるんだろ？"
+
+msgid "@niko_eyeclosed I don't think anyone's told me about it..."
+msgstr "@niko_eyeclosed 誰にも教わってないのに…"
+
+msgid "@silver [Ah... \\.\\.I can show you if you'd like.]"
+msgstr "@silver [ええと… \\.\\.もし良かったら、見せてあげる。]"
+
+msgid "@silver [My friend gave me this a long time ago.]"
+msgstr "@silver [ずっと前に、友人からもらったものよ。]"
+
+msgid "@niko_pancakes Pretty!"
+msgstr "@niko_pancakes すごく綺麗！"
+
+msgid "@niko_speak Oh! Looks like there's a clover in the necklace too!"
+msgstr "@niko_speak あっ！クローバーが入ってるよ！"
+
+msgid "@niko6 ...like the book!"
+msgstr "@niko6 …この本と一緒だね！"
+
+msgid "@silver2 [Well... it IS the same person.]"
+msgstr "@silver2 [これは…同じ人が作ったものなの。]"
+
+msgid "@niko Oooh."
+msgstr "@niko あ、そっか。"
+
+msgid "@silver_eyeclosed [That's... why I think this journal would be important.]"
+msgstr "@silver_eyeclosed [だから…この日記は、\nすごく大事なものな気がする。]"
+
+msgid "@silver2 [You said it JUST started glowing?]"
+msgstr "@silver2 [たった今光り始めたって、\n言ってたわよね？]"
+
+msgid "@niko_speak Yeah?"
+msgstr "@niko_speak そうだよ？"
+
+msgid "@silver2 [That was right after your vision, then...]"
+msgstr "@silver2 [それが起きたのは、幻視のすぐ後だった…]"
+
+msgid "@silver2 [...This HAS to mean something.]"
+msgstr "@silver2 [絶対に何か理由があるはずよ。]"
+
+msgid "@silver2 [Maybe you should at least try to read it again...]"
+msgstr "@silver2 [その本を、せめてもう一度読んでみたほうが\nいいかもしれない…]"
+
+msgid "@niko I can see a faint yellow glow in the distance..."
+msgstr "@niko 遠くに、黄色い光がかすかに見える…"
+
+msgid "@silver [Don't stand so close to the edge.]"
+msgstr "@silver [端には近寄らないで。]"
+
+msgid "@niko Oh! Sorry!"
+msgstr "@niko あっ、ごめんなさい…"
+
+msgid "@silver [Looks like even the entrance tunnel collapsed off.]"
+msgstr "@silver [トンネルの入り口すらも崩落したようね。]"
+
+msgid "@silver [Without a vehicle, we can't proceed.]"
+msgstr "@silver [車両がなければ、進めないわ。]"
+
+msgid "@niko Can't we walk?"
+msgstr "@niko 歩いていっちゃダメなの？"
+
+msgid "@silver [I can.]"
+msgstr "@silver [私は問題ない。]"
+
+msgid "@silver [But for you it's a safety violation. I won't allow it.]"
+msgstr "@silver [でもあなたは安全基準法違反。\n許可できない。]"
+
+msgid "@niko What's ahead, anyway?"
+msgstr "@niko じゃあ、この先には何があるの？"
+
+msgid "@silver [It's a huge network of underground mines, the source of this world's metal and non-phosphor fuel.]"
+msgstr "@silver [この世界の、鉄と非蛍光燃料の供給源。\n地下鉱山の巨大ネットワークよ。]"
+
+msgid "@silver [This is what propelled the world into the industrial age.]"
+msgstr "@silver [この地下鉱山のおかげで、私たちは\n産業化時代に入ることができた。]"
+
+msgid "@niko_eyeclosed So now it's lost forever?"
+msgstr "@niko_eyeclosed 今はもう使えなくなっちゃった？"
+
+msgid "@silver [It's been for a while now.]"
+msgstr "@silver [しばらく前からね。]"
+
+msgid "@silver [When the sun went out, the mines were the first to be abandoned amidst the initial panic.]"
+msgstr "@silver [太陽がなくなった当時、住民がパニックに\n陥っている中で一番最初に放棄\nされたのがこの鉱山。]"
+
+msgid "@silver [Even the robots have been all cleared out and repurposed.]"
+msgstr "@silver [ロボットすらもすべて退去させられ、それぞれに\n別の役割が与えられたわ。]"
+
+msgid "@niko_eyeclosed That makes sense..."
+msgstr "@niko_eyeclosed そうだったんだ…"
+
+msgid "@silver [Though there was one that always insisted on going back...]"
+msgstr "@silver [でも1体だけ、ずっと戻りたがってた…]"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@silver [I hope he's okay...]"
+msgstr "@silver [無事だといいけれど…]"
+
+msgid "@niko2 ...what... just happened?"
+msgstr "@niko2 …え…今、何が起きたの？"
+
+msgid "@silver [I'm not sure... I wasn't looking.]"
+msgstr "@silver [さあ…目を離していたから。]"
+
+msgid "@niko_eyeclosed To be honest... neither was I..."
+msgstr "@niko_eyeclosed 実は…ミーも…"
+
+msgid "@niko I was just taking a closer look at the journal..."
+msgstr "@niko ちょうど、この日記を調べてたから…"
+
+msgid "@niko2 And then I found this page that looks like a drawing of this room..."
+msgstr "@niko2 そしたら、この部屋にそっくりな\n絵のページを見つけて…"
+
+msgid "@niko3 When I looked back up, this minecart just... showed up out of thin air!"
+msgstr "@niko3 パッと顔を上げたら、このトロッコが…\n何もないところから急に！"
+
+msgid "@niko_what2 Should I be... worried?"
+msgstr "@niko_what2 気をつけた方がいい…かな？"
+
+msgid "@silver [Hmm...]"
+msgstr "@silver [ふむ…]"
+
+msgid "@niko_speak Did you see that, \\p?"
+msgstr "@niko_speak 今の見た、 \\p？"
+
+msgid "@niko3 This minecart just... showed up out of thin air!"
+msgstr "@niko3 このトロッコが、急に…\n何もないところから現れたんだ！"
+
+msgid "@niko_eyeclosed I wasn't looking, though... I was just looking at the journal like you told me..."
+msgstr "@niko_eyeclosed 見てなかったんだけどね…\n神様の言うとおりに、\nちょうど日記を見てたんだ…"
+
+msgid "@niko ...\\>\\nMaybe we should go find that robot lady."
+msgstr "@niko …\\>\\nあのロボットのお姉さんを\n探しにいったほうがいいかも。"
+
+msgid "@niko When I looked back up, this minecart just... showed up out of thin air!"
+msgstr "@niko 気付いて見上げたら、このトロッコが急に\n現れたんだよ！"
+
+msgid "@silver2 [This looks like a standard issue minecart, though.]"
+msgstr "@silver2 [一見、これは標準仕様のトロッコみたい\nだけれど。]"
+
+msgid "@silver [...which means it likely detected the motion in this room and sent itself over.]"
+msgstr "@silver […部屋内の動きを感知すると、勝手にそこまで\n移動してくる機能があるから。]"
+
+msgid "@niko_eyeclosed Ah... that does make sense."
+msgstr "@niko_eyeclosed へえ…それなら納得かも。"
+
+msgid "@silver_eyeclosed [I'm just surprised it still works.]"
+msgstr "@silver_eyeclosed [まだ動作していることが驚きね。]"
+
+msgid "@silver [Guess that means we'll have a working vehicle now.]"
+msgstr "@silver [これで、まだきちんと動く車両が\n確保できた。]"
+
+msgid "@silver_eyeclosed [Not sure why you would want to visit the deeper mines, but...]"
+msgstr "@silver_eyeclosed [どうして鉱山の奥まで行きたいのかは\n分からないけれど…]"
+
+msgid "@silver [If you wanted to, we now have that option.]"
+msgstr "@silver [行きたければ、それも可能になった。]"
+
+msgid "@niko_speak Is the minecart even going to fit both of us?"
+msgstr "@niko_speak このトロッコ、2人で乗れるかな？"
+
+msgid "@silver_lookup [No.]"
+msgstr "@silver_lookup [無理ね。]"
+
+msgid "@niko But I wanted you to come with us..."
+msgstr "@niko えっ、一緒に来てほしかったのに…"
+
+msgid "@niko I know I've got \\p, but...\\>\\n\\@niko_eyeclosed ...honestly? This place gives me the creeps!"
+msgstr "@niko \\p がついてくれてるのは\n分かってるけど、でも… \\>\\n\\@niko_eyeclosed …正直ね？この場所、何だかゾワゾワするんだ！"
+
+msgid "@silver2 [Oh. I can still come with.]"
+msgstr "@silver2 [あら。一緒に行けないとは言っていないわ。]"
+
+msgid "@silver [I would just have to follow along on the rails.]"
+msgstr "@silver [レールを辿って進めばいいだけだもの。]"
+
+msgid "@niko_what But doesn't it look a little... \\.\\.precarious...?"
+msgstr "@niko_what でもこれ、ちょっと… \\. \\.不安じゃない…？"
+
+msgid "@silver [The magnetic rails can hold me in place.]"
+msgstr "@silver [磁気レールで固定できるわ。]"
+
+msgid "@silver_eyeclosed [It's only ever dangerous to walk on if you're an organic being.]"
+msgstr "@silver_eyeclosed [ここを進むのが危険なのは、有機生命体だけよ。]"
+
+msgid "@silver [Which you are.]"
+msgstr "@silver [あなたのようなね。]"
+
+msgid "@niko_eyeclosed Gotcha."
+msgstr "@niko_eyeclosed そっか。"
+
+msgid "@niko_speak There's a little gadget on the ground."
+msgstr "@niko_speak 地面に小さな機械が落ちてる。"
+
+msgid "@niko It looks kinda like a camera..."
+msgstr "@niko カメラみたいな形してる…"
+
+msgid "@silver [What's left of a camera, anyway...]"
+msgstr "@silver [正確には、カメラだったもの、ね。\nそれはその残骸…]"
+
+msgid "@silver_eyeclosed [Probably even part of a robot, at one point.]"
+msgstr "@silver_eyeclosed [以前はおそらく、ロボットの\nパーツだったんでしょう。]"
+
+msgid "@niko_what Oh..."
+msgstr "@niko_what わあ…"
+
+msgid "@silver_eyeclosed [...or not. I don't know.]"
+msgstr "@silver_eyeclosed …違うかもね。分からない。"
+
+msgid "@niko It's another one of those shrimp jars."
+msgstr "@niko ここにも、あのエビが入ったビンがある。"
+
+msgid "@niko Okay, here we go."
+msgstr "@niko よし、行こ。"
+
+msgid "@niko It's a clover."
+msgstr "@niko クローバーだ。"
+
+msgid "@silver2 [I'll be waiting here if you need me.]"
+msgstr "@silver2 [必要ならここで待ってるから。]"
+
+msgid "@silver2 [Maybe you should inspect the journal a bit closer....]"
+msgstr "@silver2 [その日記、もう少し詳しく\n調べてみたらどうかしら…]"
+
+msgid "@silver [Do be careful in here.]"
+msgstr "@silver [気をつけて。]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [行きましょ。]"
+

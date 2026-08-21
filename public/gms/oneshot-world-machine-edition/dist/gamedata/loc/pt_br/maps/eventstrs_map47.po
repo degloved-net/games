@@ -1,0 +1,120 @@
+msgid "@red_gatekeeper [...Interesting Book You Got There...]"
+msgstr "@red_gatekeeper [... Interessante Esse seu Livro...]"
+
+msgid "@red_gatekeeper [It Is Written In A Language I Do Not Recognize.]"
+msgstr "@red_gatekeeper [Não Reconheço o Idioma em que Está Escrito.]"
+
+msgid "@red_gatekeeper [...Perhaps You Should Find A Way To Decipher It When You're At The Library.]"
+msgstr "@red_gatekeeper [... Você Podia Decifrá-lo Enquanto Estiver na Biblioteca.]"
+
+msgid "@red_gatekeeper [It May Be Of Help.]"
+msgstr "@red_gatekeeper [Pode Ser de Alguma Ajuda.]"
+
+msgid "@red_gatekeeper [Hello Again, Messiah, Do You Need Help?]"
+msgstr "@red_gatekeeper [Olá, Messias. Precisa de Ajuda?]"
+
+msgid "@niko Well..."
+msgstr "@niko Bem..."
+
+msgid "[\"Explain again\", \"No\"]"
+msgstr "[\"Explicar novamente\",\"Não\"]"
+
+msgid "@red_gatekeeper [Very Well. You Need To Find A Way To Get To The Library On The Surface.]"
+msgstr "@red_gatekeeper [Muito Bem. Você Precisa Descobrir Como Chegar à Biblioteca da Superfície.]"
+
+msgid "@red_gatekeeper [Off You Go Then, Off You Go...]"
+msgstr "@red_gatekeeper [Então Vá, Até Logo...]"
+
+msgid "@red_gatekeeper [Ah, The Sun.]"
+msgstr "@red_gatekeeper [Ah, o Sol...]"
+
+msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
+msgstr "@red_gatekeeper [Olá, Messias. Boas-vindas ao Refúgio.]"
+
+msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
+msgstr "@red_gatekeeper [Você Entende o que É Preciso Fazer Aqui?]"
+
+msgid "@niko I'm supposed to go inside the Tower, right?"
+msgstr "@niko Eu devo entrar na Torre, não é?"
+
+msgid "@niko I already see the Tower! So I guess we must be close."
+msgstr "@niko Eu consigo ver a Torre! Estamos perto."
+
+msgid "@niko_speak Where's the entrance?"
+msgstr "@niko_speak Onde é a entrada?"
+
+msgid "@red_gatekeeper [On The Surface.]"
+msgstr "@red_gatekeeper [Na Superfície.]"
+
+msgid "@niko_speak The surface?"
+msgstr "@niko_speak Superfície?"
+
+msgid "@red_gatekeeper [Look Down, Small One.]"
+msgstr "@red_gatekeeper [Olhe para Baixo.]"
+
+msgid "@niko Oooh, \\.\\.\\@niko_speak we're pretty high up!"
+msgstr "@niko Aaah, \\.\\.\\@niko_speak estamos bem no alto!"
+
+msgid "@niko_speak I guess I gotta get down a lot of stairs! \\>\\n\\@niko Or find an elevator."
+msgstr "@niko_speak Acho que preciso descer muitas escadas! \\>\\n\\@niko Ou encontrar um elevador."
+
+msgid "@red_gatekeeper [Correct.]"
+msgstr "@red_gatekeeper [Exatamente.]"
+
+msgid "@red_gatekeeper [However, The Tower Is A Sacred Place.]"
+msgstr "@red_gatekeeper [No Entanto, a Torre é um Local Sagrado.]"
+
+msgid "@red_gatekeeper [Finding The Entrance May Be Easy, But That Alone Will Not Be Enough.]"
+msgstr "@red_gatekeeper [Pode Ser Fácil Encontrar a Entrada, Mas Isso Não É o Suficiente.]"
+
+msgid "@niko What... do you mean?"
+msgstr "@niko Como assim?"
+
+msgid "@red_gatekeeper [Once You Reach The Surface, I Recommend Visiting The Library For Leads.]"
+msgstr "@red_gatekeeper [Ao Chegar à Superfície, Recomendo Procurar Pistas Na Biblioteca.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Certo..."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Ótimo!"
+
+msgid "@red_gatekeeper [Off You Go, Then. I Wish You Luck.]"
+msgstr "@red_gatekeeper [Então Vá. Desejo-lhe Boa Sorte.]"
+
+msgid "@red_gatekeeper [I'm Afraid This Area Is Off-Limits For You.]"
+msgstr "@red_gatekeeper [Temo Que Você Não Possa Entrar Nessa Área.]"
+
+msgid "@red_gatekeeper [Only The Bearer Of The Sacred Kernel Is Permitted Access To The Garden.]"
+msgstr "@red_gatekeeper [Somente O Portador do Grão Sagrado Pode Entrar no Jardim.]"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko Like...\\.\\. a kernel of corn...?"
+msgstr "@niko_speak Ah! \\.\\.\\@niko Tipo...\\.\\. um grão de milho?"
+
+msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant lady in the Glen."
+msgstr "@niko_speak Está comigo! \\.\\.\\>\\@niko Uma moça-planta no Vale deixou esse grão para trás."
+
+msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
+msgstr "@red_gatekeeper [... \\>\\nÉ Exatamente Esse Grão.]"
+
+msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
+msgstr "@red_gatekeeper [Agora É Seu Dever Criá-la.\\>\\nVocê Entende o que Precisa Ser Feito?]"
+
+msgid "@niko Um..."
+msgstr "@niko Hm..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sim\",\"Não\"]"
+
+msgid "@red_gatekeeper [Good.]"
+msgstr "@red_gatekeeper [Muito Bem.]"
+
+msgid "@red_gatekeeper [Take The Seed To The Garden.\\>\\nPlant It In The Pot In The Center.]"
+msgstr "@red_gatekeeper [Leve a Semente ao Jardim.\\>\\nPlante-a no Vaso que Fica no Centro.]"
+
+msgid "@red_gatekeeper [You May Now Pass Through Here To Access The Garden.]"
+msgstr "@red_gatekeeper [A Partir de Agora, Você Pode Passar Por Aqui Para Entrar no Jardim.]"
+
+msgid "@niko_eyeclosed I don't want to go back..."
+msgstr "@niko_eyeclosed Não quero voltar..."
+

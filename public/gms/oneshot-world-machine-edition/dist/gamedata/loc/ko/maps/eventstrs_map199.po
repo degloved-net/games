@@ -1,0 +1,39 @@
+msgid "@niko3 The bridge is out..."
+msgstr "@niko3 다리가 끊어졌어요..."
+
+msgid "@niko4 They're in the door..."
+msgstr "@niko4 그것들이 문 안에 있어요..."
+
+msgid "@niko4 The bridge is broken..."
+msgstr "@niko4 다리가 부서졌어요..."
+
+msgid "@niko2 ...\\>\\nHe has no power..."
+msgstr "@niko2 ...\\>\\n동력이 없어요..."
+
+msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
+msgstr "@green_gatekeeper [접\\.#.%%근\\.하; 지\\.마 십//시 오\\.#.]"
+
+msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
+msgstr "@green_gatekeeper [추가\\.#.공%%지\\.\\. 가//있\\.을\\.때\\.#까 지\\.#문은\\| 폐\\.%쇄합\\.니\\.다.]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko3 Isn't that...\\.\\. the city gate?"
+msgstr "@niko3 저거...\\.\\.도시 정문 아닌가요?"
+
+msgid "@niko4 It's..."
+msgstr "@niko4 음..."
+
+msgid "@niko2 ...looks like parts of the ground is missing."
+msgstr "@niko2 ...땅의 일부가 없어진 것 같아요."
+
+msgid "@niko_eyeclosed I wonder if it's safe to walk across these vines..."
+msgstr "@niko_eyeclosed 이 덩굴 위를 걸어서 건너가도 안전할까요?"
+
+msgid "@niko6 ...one way to find out, I guess..."
+msgstr "@niko6 ...그걸 알아내는 방법은 하나뿐이겠네요..."
+
+msgid "@niko_eyeclosed They're safe..."
+msgstr "@niko_eyeclosed 안전해요..."
+

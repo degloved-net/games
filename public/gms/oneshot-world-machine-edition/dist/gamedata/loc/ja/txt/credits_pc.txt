@@ -1,0 +1,264 @@
+クレジット
+=======
+
+プログラミング
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+グラフィックス
+--------
+
+* Nightmargin (Casey Gu)
+
+キャラクターデザイン
+----------------
+
+* Nightmargin
+* メイズ、ジョージ: Eliza
+
+サウンドトラック
+----------
+
+* Nightmargin
+* 追加トラック: Eliza and Michael
+* the FreeSound.org からのミュージックサンプル:
+  Jovica, Dymewiz, hanstimm, Freed
+
+ストーリー
+-----
+
+* 原案: Eliza
+* ストーリー全般と世界観構築: Nightmargin, Eliza
+* 脚本: Nightmargin, Eliza, Michael
+* フレンドプロフィール制作: Taeler Dixon
+
+ペンギンコントリビューター
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+システムプログラミング
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+プロデューサー (2016年リリース版)
+-----------------------
+
+* Mark Conforti
+
+2016年ビルド版テスター
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+コンソール機用ビルド版テスター
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+壁紙制作
+----------------
+
+Marina "Sylladexter" K
+* メイズ
+* 秘密のラムクラブ
+
+Missusruin
+* 図書館散策
+
+Saren Stone
+* 預言
+
+Temmie Chang
+* カフェ
+
+T. C.
+* 前哨基地
+* 工場
+
+
+コンソール機用OneShot翻訳
+------------------------------------
+
+フランス語翻訳
+* Mahmoud Khabatou
+
+フランス語プルーフリーダー
+* Mohamed Khabatou
+
+フランス語LQA
+* Mahmoud Khabatou
+
+スペイン語翻訳
+* Edgar Rangel
+
+スペイン語プルーフリーダー
+* Sebastián Herrera
+
+スペイン語LQA
+* Jair Casillas
+
+韓国語翻訳
+* So-jung Jung
+
+韓国語プルーフリーダー・LQA
+* Seo-Mi Ha
+
+ブラジルポルトガル語翻訳
+* Jay Ruas
+
+ブラジルポルトガル語プルーフリーダー・LQA
+* Karina Peixe
+* Jay Ruas
+
+日本語翻訳・LQA
+* Sakura Yamaguchi
+
+日本語プルーフリーダー
+* Yoshiki Kono
+
+イタリア語翻訳
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+イタリア語プルーフリーダー
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+イタリア語LQA
+* Giammaria Angeloni
+
+
+リソース
+---------
+
+* ピクセルシステムフォントにはVolter (Goldfish)フォントを使用。
+* ラテンテキストにはTerminusを使用。東アジアテキストのレンダリングにはWenQuanYi Micro Heiフォントを使用。追加のグラフィックテキストにはJenna SueフォントとRM Typerighterフォントを使用。詳細は \[licenses section\] 。
+* 日本語テキストには東青梅ゴシックを使用。
+* 特所文字のバックアップフォントにはNoto SansとNoto Sans JPを使用。
+* FreeSound.orgからのサンプルは以下のユーザーによって提供...
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* 追加効果音の作製は \[Bfxr\] (http://www.bfxr.net/)を使用。
+* マップとドアのテクスチャーには \[wildtextures\] (http://www.wildtextures.com/)を使用。追加リソースはTextures.comから使用.
+* Devin Elle Kurtz (テクスチャ―ブラシ)
+* Dalton Maag LtD (Aller Displayフォント)
+
+アディショナルサンクス
+-----------------
+
+* Saniblues: テスト、フィードバック
+* Redoplus: テスト、フィードバック
+* Almond-Goddess: テスト、フィードバック
+* FelixTheJudge: 音楽フィードバック
+* Albatrosssoup: 音楽フィードバック
+* Sauraen: 音楽フィードバック
+* Stanhoff: 物理演算コンサルタント
+* Kalkie: カメオキャラクター
+* Kitsiinabox: カメオキャラクター
+* Noxid: Noxid
+* *OneShot*オリジナル版テスター:
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* オリジナル版のリリース以来応援してくれた方
+* そしてあなた！
+
+ライセンス情報
+--------
+
+Firelight Technologies Pty Ltd.によるFMOD Studioで制作。
+(https://www.fmod.com/attribution)
+
+ゲーム内で使用されているFreeSound.orgからのサウンドはそれぞれ以下のライセンスにより提供:
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/)
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/)
+
+Terminusは \[Open Font License\] (http://scripts.sil.org/OFL)のライセンスにより提供。
+
+Noto SansとNoto Sans JPは \[Open Font License\] (http://scripts.sil.org/OFL)のライセンスにより提供。
+
+東青梅は \[SIL Open Font License\] (https://scripts.sil.org/OFL_web)のライセンスにより提供。
+
+Jenna Sueは (http://www.jennasuedesign.com/)の優勝ライセンスにより提供。
+
+RM Typerighterは \[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/)のライセンスにより提供。
+
+"30100flo"によるThe FontStruction "Thirteen Pixel Fonts" (http://fontstruct.com/fontstructions/show/761985)はCreative Commons Attribution Share Alike license (http://creativecommons.org/licenses/by-sa/3.0/)のライセンスにより提供。
+
+WenQuanYi Micro Heiはフォント埋め込みの例外を除き \[Apache License 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0)または \[GNU General Public License v3\] (http://www.gnu.org/copyleft/gpl.html)のデュアルライセンスにより提供。
+
+The wildtexturesのリソース
+\[free for commercial use\] (http://www.wildtextures.com/terms-of-use/)。
+
+The Textures.comの利用規約はこちら \[here\] (https://www.textures.com/about/terms-of-use)。

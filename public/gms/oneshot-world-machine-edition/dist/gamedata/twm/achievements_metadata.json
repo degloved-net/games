@@ -1,0 +1,80 @@
+{
+    "achievements": [
+        {
+            "id": "CHAOTIC_EVIL",
+            "title": "Chaotic Evil",
+            "description": "\"Don't do that!\""
+        },
+        {
+            "id": "SHOCK",
+            "title": "Shock",
+            "description": "Not fun."
+        },
+        {
+            "id": "EXTREME_BARTERING",
+            "title": "Extreme Bartering",
+            "description": "Exhausting all possibilities, are we?"
+        },
+        {
+            "id": "RAM_WHISPERER",
+            "title": "Ram Whisperer",
+            "description": "Herd rams with ease."
+        },
+        {
+            "id": "PANCAKES",
+            "title": "Pancakes",
+            "description": "Favorite food."
+        },
+        {
+            "id": "WE_RIDE_AT_DAWN",
+            "title": "We Ride at Dawn",
+            "description": "Nyooooom"
+        },
+        {
+            "id": "SECRET",
+            "title": "Secret",
+            "description": "?????"
+        },
+        {
+            "id": "BOOKWORM",
+            "title": "Bookworm",
+            "description": "Read books in the library."
+        },
+        {
+            "id": "REBIRTH",
+            "title": "Rebirth",
+            "description": "A sidequest."
+        },
+        {
+            "id": "ONESHOT",
+            "title": "OneShot",
+            "description": "Back to its roots."
+        },
+        {
+            "id": "RETURN",
+            "title": "Return",
+            "description": "..."
+        },
+        {
+            "id": "WALLPAPER",
+            "title": "Wallpaper Wizard",
+            "description": "Collect all wallpapers",
+        },
+        {
+            "id": "COLOR",
+            "title": "Color Coordinator",
+            "description": "Collect all themes",
+        },
+        {
+            "id": "FRIEND",
+            "title": "Social Butterfly",
+            "description": "Collect all friend entries",
+        },
+        {
+            "id": "EVERYTHING",
+            "title": "Thanks for Everything",
+            "description": "Collect all badges",
+        },
+        
+    ]
+}

@@ -1,0 +1,69 @@
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+
+msgid "[THE ROBOT ASSEMBLY AND REPAIR SERVICES HAVE BEEN DISCONTINUED AT THE BARRENS.]"
+msgstr "[I SERVIZI DI ASSEMBLAGGIO E RIPARAZIONE DEI ROBOT SONO STATI INTERROTTI PRESSO LA BAIA DESOLATA.]"
+
+msgid "[IF YOU HAVE FURTHER INQUIRY, PLEASE CONTACT THE HEAD ENGINEER.]"
+msgstr "[SE HAI ALTRE RICHIESTE, CONTATTA IL CAPO INGEGNERE.]"
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko Una pagina.\\> Sembra strappata da un libro."
+
+msgid "$-cannot overstate the importance of cleaning solvents in this environment."
+msgstr "$-solventi per la pulizia in questo ambiente sono assolutamente fondamentali."
+
+msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
+msgstr "$Questa semplice ricetta utilizza il metodo alternativo discusso nell'ultimo capitolo e sfrutta le proprietà naturali del fosforo blu."
+
+msgid "$Reagents:"
+msgstr "$Reagenti:"
+
+msgid "$-Acidic gas"
+msgstr "$-Gas acido"
+
+msgid "$-Blue phosphor (rare form)"
+msgstr "$-Fosforo blu (forma rara)"
+
+msgid "$Instructions:"
+msgstr "$Istruzioni:"
+
+msgid "$1) In a well-ventilated area, direct the gas into your container of choice."
+msgstr "$1) In uno spazio ben arieggiato, direzionare il gas in un contenitore a vostra scelta."
+
+msgid "$Seal immediately."
+msgstr "$Chiudere immediatamente."
+
+msgid "@niko That's the end of the page..."
+msgstr "@niko Le istruzioni finiscono qui..."
+
+msgid "@niko_speak You...want me to smash the boards with the pipe?"
+msgstr "@niko_speak V-vuoi... che spacchi le tavole con il tubo?"
+
+msgid "@niko I can't do that! We'll have to pry them off!"
+msgstr "@niko Non ci riesco! Dovremmo tirarle via!"
+
+msgid "@niko_eyeclosed But I don't think I can do that with a pipe..."
+msgstr "@niko_eyeclosed Oddio, non penso di riuscirci con questo..."
+
+msgid "@niko_speak Good thing I kept this crowbar!"
+msgstr "@niko_speak Meno male che ho conservato questo piede di porco!"
+
+msgid "@niko_eyeclosed What a workout..."
+msgstr "@niko_eyeclosed Che fatica..."
+
+msgid "@niko The door is all boarded up..."
+msgstr "@niko La porta è sbarrata..."
+
+msgid "@niko_speak The boards seem loose, though! I should be able to pull them off with the right tool..."
+msgstr "@niko_speak Queste tavole di legno sembrano allentate... Dovrei riuscire a tirarle via con lo strumento giusto..."
+
+msgid "[WELCOME TO THE OLD CHEMICAL PROCESSING PLANT.]"
+msgstr "[BENVENUTO NEL VECCHIO IMPIANTO DI TRATTAMENTO CHIMICO.]"
+
+msgid "[MOST OF THE EQUIPMENT HAS ALREADY BEEN RELOCATED.]"
+msgstr "[LA MAGGIOR PARTE DELL'ATTREZZATURA È GIÀ STATA SPOSTATA.]"
+
+msgid "@niko It's a pair of rubber gloves.\\nThey're a bit heavy."
+msgstr "@niko Un paio di guanti di gomma.\\nSono un po' pesanti."
+

@@ -1,0 +1,18 @@
+msgid "[HELLO, PERSON!]"
+msgstr "[SALVE, PERSONA!]"
+
+msgid "[PLEASE DO NOTE THAT THE RUINS BELOW ARE PARTIALLY FLOODED.]"
+msgstr "[DEVO INFORMARTI CHE LE ROVINE QUI SOTTO SONO PARZIALMENTE ALLAGATE.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh!"
+
+msgid "@niko Should we... not be here?"
+msgstr "@niko Dovremmo... andarcene?"
+
+msgid "[THERE IS NO IMMEDIATE DANGER.]"
+msgstr "[NON SI TRATTA DI UN PERICOLO IMMEDIATO.]"
+
+msgid "[USING THIS AREA AS A DWELLING IS NOT RECOMMENDED, HOWEVER.]"
+msgstr "[TUTTAVIA, RISIEDERE IN QUEST'AREA È FORTEMENTE SCONSIGLIATO.]"
+

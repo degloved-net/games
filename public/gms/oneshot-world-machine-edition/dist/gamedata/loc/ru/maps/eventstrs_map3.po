@@ -1,0 +1,18 @@
+msgid "@ed [There's no water in the toilet.]"
+msgstr "@ed [В туалете нет воды.]"
+
+msgid "@ed [The tub won't run.]"
+msgstr "@ed [Воды в кране нет.]"
+
+msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
+msgstr "@ed [Здесь \\c[7]находится\\c[0] увядшее растение, сухое и жёсткое.]"
+
+msgid "@ed [There's no need to do anything else to it.]"
+msgstr "@ed [Больше ничего делать не нужно.]"
+
+msgid "@ed [A branch snaps off.]"
+msgstr "@ed [Отламывается ветка.]"
+
+msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
+msgstr "@ed [Пара \\c[3]светящихся жёлтых глаз\\c[0] смотрит на Нико.]"
+

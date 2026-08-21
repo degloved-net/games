@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko 一台機器人，已經徹底壞了……"
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh 只有頭……"
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh ……只有頭。唉唷。"
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko 機器人殘片，損壞嚴重……"
+
+msgid "@niko A big machine..."
+msgstr "@niko 大型機器……"
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko 看起來是用來壓扁金屬的沖床。"
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak 啊……\\>\\@niko \\p，你要我用這個把鐵管壓扁嗎？"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh 喔喔，但我不敢靠太近……"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed 好可怕……"
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf ……\\p！"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed 我絕對不會把太陽放在這裡。"
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko 為什麼……\\.\\.要把瓶子在這裡砸破呢，\\p？"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak 碎片會噴得到處都是！"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed \\p，但願我們不需要再用這個了……"
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak 喔！這台機器還在運轉！"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko 也許我不應該靠太近……"
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf 萬、萬一我的圍巾被捲進去的話？機器會把我也捲進去，然後……"
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh ……我不想往下講。"
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed 機器人的手臂殘骸。"
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed 我都不知道這到底本來應該是什麼了……"
+

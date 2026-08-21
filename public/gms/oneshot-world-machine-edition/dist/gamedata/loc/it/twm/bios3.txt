@@ -1,0 +1,4 @@
+
+Tutte le texture di sistema sono state caricate. @WAIT 0.2 
+
+Sequenza di avvio finale.@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.4 

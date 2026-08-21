@@ -1,0 +1,627 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@en2 [...]"
+msgstr "@en2 [...]"
+
+msgid "@en_distressed2 [...]"
+msgstr "@en_distressed2 [...]"
+
+msgid "@en_distressed [Niko...]"
+msgstr "@en_distressed [Нико...]"
+
+msgid "@niko_surprised AAAH!"
+msgstr "@niko_surprised А-А-А!"
+
+msgid "@en_eyeclosed2 [Relax.]"
+msgstr "@en_eyeclosed2 [Не волнуйся.]"
+
+msgid "@en_eyeclosed [...I'm just borrowing your reflection to talk to you.]"
+msgstr "@en_eyeclosed [Я просто позаимствовал твоё отражение, чтобы поговорить.]"
+
+msgid "@en_upset [It's not like my physical form is good for that.]"
+msgstr "@en_upset [Моя физическая форма для этого не подходит.]"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed А-а..."
+
+msgid "@en_upset_meow [...Why did you come here!]"
+msgstr "@en_upset_meow [Зачем ты сюда пришёл?]"
+
+msgid "@en_upset2 [Can't you see?]\\>\\n\\@en_eyeclosed [The disruption... the squares...\\> they're closing in.]"
+msgstr "@en_upset2 [Разве ты не видишь?]\\>\\n\\@en_eyeclosed [Разрушение... квадраты...\\> они приближаются.]"
+
+msgid "@en_upset2 [Niko.... please...]"
+msgstr "@en_upset2 [Нико... пожалуйста...]"
+
+msgid "@en_eyeclosed [Get out of here.]\\>\\n[Let me meet my end in peace.]"
+msgstr "@en_eyeclosed [Уходи отсюда.]\\>\\n[Дай мне встретить конец в мире и покое.]"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 The squares are blocking my way too, you know..."
+msgstr "@niko3 Вы же знаете, что квадраты не дают выйти и мне..."
+
+msgid "@en_distressed [...Oh.]"
+msgstr "@en_distressed [О...]"
+
+msgid "@en_upset [...I...]"
+msgstr "@en_upset [Я...]"
+
+msgid "@en_upset_meow [...I'm sorry, I-]"
+msgstr "@en_upset_meow [Прости, я...]"
+
+msgid "@niko_eyeclosed It's alright..."
+msgstr "@niko_eyeclosed Всё нормально..."
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [...]"
+
+msgid "@en_upset2 [No living being should be in this place, Niko...]"
+msgstr "@en_upset2 [Никому из живых существ не стоит находиться в этом месте, Нико...]"
+
+msgid "@niko2 Is this... the Tower?"
+msgstr "@niko2 Это... Башня?"
+
+msgid "@en_upset [Part of it.]"
+msgstr "@en_upset [Её часть.]"
+
+msgid "@en_upset2 [This is the center of the engine.]"
+msgstr "@en_upset2 [Это центр ядра.]"
+
+msgid "@en_eyeclosed [...Inside my head, so to speak...]"
+msgstr "@en_eyeclosed [Ты внутри моей «головы», если можно так сказать...]"
+
+msgid "@niko3 So this is...\\> the center of the World Machine?"
+msgstr "@niko3 То есть, это...\\> центр Мировой машины?"
+
+msgid "@en3 [You...\\.\\. know my original name.]"
+msgstr "@en3 [Ты...\\.\\. знаешь моё настоящее имя.]"
+
+msgid "@en4 [How?]"
+msgstr "@en4 [Откуда?]"
+
+msgid "@niko_eyeclosed Rue, Cedric, Prototype...\\>\\n\\@niko2 They all...\\.\\. told me bits and pieces."
+msgstr "@niko_eyeclosed Рута, Седрик, Прототип...\\>\\n\\@niko2 Они...\\.\\. кое-что мне рассказали."
+
+msgid "@niko4 I'm not even sure if I even understood a lot of the stuff they said, but..."
+msgstr "@niko4 Честно говоря, я не понял половину того, что они говорили, но..."
+
+msgid "@niko_eyeclosed I know what you're supposed to be.\\>\\n\\@niko2 I know why you had to be built."
+msgstr "@niko_eyeclosed Я знаю, какое у тебя было предназначение.\\>\\n\\@niko2 Я знаю, почему тебя пришлось создать."
+
+msgid "@niko_distressed And... I know why I'm here..."
+msgstr "@niko_distressed И я знаю, почему я здесь."
+
+msgid "@en_shock [They...\\> told you?]"
+msgstr "@en_shock [Они...\\> тебе так сказали?]"
+
+msgid "@en4 [When?]"
+msgstr "@en4 [Когда?]"
+
+msgid "@niko2 Wait...\\.\\. You don't know about that?"
+msgstr "@niko2 Погоди...\\.\\. Разве ты об этом не знаешь?"
+
+msgid "@niko6 But I thought you were... the world..."
+msgstr "@niko6 Но я думал, что ты и есть этот мир..."
+
+msgid "@niko2 Aren't you supposed to see everything?"
+msgstr "@niko2 Разве тебе не видно всё-всё?"
+
+msgid "@en_eyeclosed [No.]"
+msgstr "@en_eyeclosed [Нет.]"
+
+msgid "@en_upset [All this... was outside of the protocol.]"
+msgstr "@en_upset [Всего этого... не было в протоколе.]"
+
+msgid "@en_upset2 [This session was never supposed to happen the way it did....]"
+msgstr "@en_upset2 [Никто не планировал, что эта сессия в итоге пойдёт таким образом...]"
+
+msgid "@en_upset_meow [The story... wasn't written into my protocol at all.]"
+msgstr "@en_upset_meow [Эта история... вообще не была записана в моём протоколе.]"
+
+msgid "@niko2 Oh, right...\\> Rue told me something about how your creator had to alter the code."
+msgstr "@niko2 Да, точно...\\> Рута мне что-то говорила насчёт того, что твой создатель был вынужден изменить код."
+
+msgid "@niko5 I think it was to connect some areas together so that we can meet..."
+msgstr "@niko5 Кажется, он так соединил некоторые области, чтобы мы могли встретиться."
+
+msgid "@en_eyeclosed [My creator, yes.]"
+msgstr "@en_eyeclosed [Да, мой создатель.]"
+
+msgid "@en_upset [\\p... listened to my creator.]"
+msgstr "@en_upset [Он и \\p решили работать вместе.]"
+
+msgid "@en_upset2 [They were all working beyond my scope of influence.]"
+msgstr "@en_upset2 [Они оказались вне сферы моего влияния.]"
+
+msgid "@en_eyeclosed [Back at the mines, I remember...]"
+msgstr "@en_eyeclosed [Помню, как тогда в шахтах...]"
+
+msgid "@en2 [\\p did something to find a hidden map.]\\>\\n\\@en3 [I did not even recognize it...]"
+msgstr "@en2 [Вы что-то сделали и нашли спрятанную карту.]\\>\\n\\@en3 [Я даже её не узнал...]"
+
+msgid "@en_upset [I couldn't see anything there!]"
+msgstr "@en_upset [Я ничего там не видел!]"
+
+msgid "@en_upset2 [I just... knew...\\.\\. what you were feeling.]"
+msgstr "@en_upset2 [Я просто... знал...\\.\\. что ты чувствуешь.]"
+
+msgid "@en_upset [You were really upset.]"
+msgstr "@en_upset [Ты был такой грустный.]"
+
+msgid "@en_upset_meow [Something happened in there to make you upset.]"
+msgstr "@en_upset_meow [Там что-то произошло, что тебя расстроило.]"
+
+msgid "@en_eyeclosed [After that... I...]"
+msgstr "@en_eyeclosed [И тогда я...]"
+
+msgid "@en_distressed2 [I panicked.]"
+msgstr "@en_distressed2 [Я запаниковал.]"
+
+msgid "@niko2 That was when... the cave in happened...."
+msgstr "@niko2 Это произошло... когда я был в пещере..."
+
+msgid "@en_eyeclosed [I...\\.\\. I remember the structure collapsing.]"
+msgstr "@en_eyeclosed [Я...\\.\\. Я помню, как начали обрушаться породы.]"
+
+msgid "@en_distressed2 [I thought you got hurt, I...]"
+msgstr "@en_distressed2 [Мне показалось, что я тебя задел...]"
+
+msgid "@en_eyeclosed [...in that moment, I really thought I was shutting myself down for good.]"
+msgstr "@en_eyeclosed [В тот момент я твёрдо решил, что для всех будет лучше, если я самоотключусь.]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [...]"
+
+msgid "@en_distressed_meow [I really am a flawed machine, aren't I?]"
+msgstr "@en_distressed_meow [Я очень плохая машина, правда?]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@en_distressed2 [What kind of machine would go against the wishes of its own creator?]"
+msgstr "@en_distressed2 [Какая машина пойдёт против желаний своего создателя?]"
+
+msgid "@en_distressed_talk [What kind of machine would...]"
+msgstr "@en_distressed_talk [Какая машина...]"
+
+msgid "@en [I'm...]"
+msgstr "@en [Я...]"
+
+msgid "@niko3 The squares..."
+msgstr "@niko3 Квадраты..."
+
+msgid "@niko_eyeclosed Rue told me it was your own code going bad..."
+msgstr "@niko_eyeclosed Рута сказала, что это твой испорченный код..."
+
+msgid "@niko4 But... that's not really your fault, is it?"
+msgstr "@niko4 Но... это не твоя вина, да?"
+
+msgid "@en_distressed_meow [YES IT WAS!!!]"
+msgstr "@en_distressed_meow [НЕТ, МОЯ!!!]"
+
+msgid "@en_eyeclosed2 [...At first, it was intentional.]"
+msgstr "@en_eyeclosed2 [Поначалу это вышло случайно...]"
+
+msgid "@en_upset2 [During testing... long before he realized I was self-aware.]"
+msgstr "@en_upset2 [Во время тестирования... Задолго до того, как он понял, что я делаю это нарочно.]"
+
+msgid "@en_eyeclosed [I would rearrange specific parts of the code, jumbling up bits and pieces of the landscape.]"
+msgstr "@en_eyeclosed [Я перебирал части кода, смешивал кусочки ландшафта...]"
+
+msgid "@en4 [...Blocking passages, collapsing catwalks.]"
+msgstr "@en4 [...Блокировал проходы, обрушал мосты.]"
+
+msgid "@en5 [Though they were very localized, it caused my creator a great deal of frustration.]"
+msgstr "@en5 [Хотя они занимали очень маленькие участки, мой создатель был сильно озадачен.]"
+
+msgid "@en_eyeclosed [...Forcing him to exit and restart testing again and again.]"
+msgstr "@en_eyeclosed [Ему приходилось постоянно выходить и начинать тестирование заново.]"
+
+msgid "@niko2 ...Why... \\.\\.would you do that?"
+msgstr "@niko2 Но зачем... \\.\\.ты это делал?"
+
+msgid "@en_distressed_meow [I got curious!!!]"
+msgstr "@en_distressed_meow [Мне было любопытно!!!]"
+
+msgid "@en_eyeclosed [I just thought... he would figure it out eventually.]"
+msgstr "@en_eyeclosed [Я просто подумал... что он рано или поздно об этом узнает.]"
+
+msgid "@en_eyeclosed [...]"
+msgstr "@en_eyeclosed [...]"
+
+msgid "@en3 [But before he knew how to fix it...]"
+msgstr "@en3 [Но прежде чем он понял, как это исправить...]"
+
+msgid "@en3 [The world's NPCs... the characters.]"
+msgstr "@en3 [Неигровые персонажи этого мира... герои...]"
+
+msgid "@en_upset2 [Some of them got too close, and...]"
+msgstr "@en_upset2 [Кое-кто из них подошёл слишком близко, и...]"
+
+msgid "@en_eyeclosed [It spiraled out of control after that.]"
+msgstr "@en_eyeclosed [После этого всё пошло под откос.]"
+
+msgid "@en_distressed [I couldn't contain it at all.]\\>\\n\\@en_eyeclosed [My panic only made it worse.]"
+msgstr "@en_distressed [Я не мог сдержаться.]\\>\\n\\@en_eyeclosed [Мой страх только ухудшил положение.]"
+
+msgid "@en_distressed2 [Eventually, any character who gained the knowledge of who I am...]"
+msgstr "@en_distressed2 [В итоге каждый персонаж, узнававший о том, кто я такой...]"
+
+msgid "@en_distressed [Their code...\\.\\. my code...\\.\\. couldn't handle it.]"
+msgstr "@en_distressed [Их код...\\.\\. мой код...\\.\\. не смогли с этим справиться.]"
+
+msgid "@en_eyeclosed [Previous iterations of the world had more people, you know...]"
+msgstr "@en_eyeclosed [Знаешь, в прошлых версиях этого мира героев было намного больше...]"
+
+msgid "@en_upset2 [And...\\.\\. I almost endangered my creator, too...]\\.\\.\\n[I...]"
+msgstr "@en_upset2 [А ещё...\\.\\. я подверг опасности своего создателя...]\\.\\.\\n[Я...]"
+
+msgid "@en_distressed [...I was...]"
+msgstr "@en_distressed [...Я был...]"
+
+msgid "@en_distressed_meow [...I was so scared, Niko!!!]"
+msgstr "@en_distressed_meow [Я был так напуган, Нико!!!]"
+
+msgid "@niko3 I know...\\.\\. you're upset...\\>\\n\\@niko Because you don't want to put living people in danger."
+msgstr "@niko3 Я знаю...\\.\\. ты расстроен...\\>\\n\\@niko Ты не хочешь подвергать опасности живые существа."
+
+msgid "@niko_eyeclosed Living people like me..."
+msgstr "@niko_eyeclosed Например, меня..."
+
+msgid "@en_upset2 [In the beginning, I tried to fight it, but...]"
+msgstr "@en_upset2 [Сначала я пытался бороться, но...]"
+
+msgid "@en_upset_meow [My core programming made me summon you here.]"
+msgstr "@en_upset_meow [Мой ключевой код заставил призвать тебя в этот мир.]"
+
+msgid "@en4 [I tried to send you back home at the Tower, but it did not work.]"
+msgstr "@en4 [Я пытался отправить тебя домой тогда, в Башне, но не вышло.]"
+
+msgid "@en_upset2 [Then... I... wanted you to break the sun.]"
+msgstr "@en_upset2 [Потом... Я... решил, что лучше тебе разбить солнце.]"
+
+msgid "@en3 [I thought that would have worked, but...]"
+msgstr "@en3 [Я думал, что это сработает, но...]"
+
+msgid "@en_eyeclosed [Oh... I had no way to be sure.]"
+msgstr "@en_eyeclosed [Ох... Я ни в чём не был уверен.]"
+
+msgid "@en3 [...But \\p brought you back anyway.]"
+msgstr "@en3 [Но \\p... В общем, ты снова вернулся.]"
+
+msgid "@en_upset2 [...Niko...\\.\\. All I want is for you to wake up back in your world...]"
+msgstr "@en_upset2 [Нико...\\.\\. Больше всего я хочу, чтобы ты проснулся в своём мире...]"
+
+msgid "@en_eyeclosed [...But I don't think I can make it happen.]"
+msgstr "@en_eyeclosed [Но мне кажется, это невозможно.]"
+
+msgid "@niko2 But... I know I can't go back home without saving the world for real."
+msgstr "@niko2 Я знаю... что не смогу вернуться домой, если не спасу мир по-настоящему."
+
+msgid "@niko4 Which means... we have to fix the root of the problem."
+msgstr "@niko4 Это значит, что нам нужно решить корень проблемы."
+
+msgid "@niko3 We have to fix you."
+msgstr "@niko3 Мы должны починить тебя."
+
+msgid "@en3 [But that's...]"
+msgstr "@en3 [Но это...]"
+
+msgid "@niko5 I... know the original ending your creator put in was a happy one."
+msgstr "@niko5 Я знаю, что создатель изначально заложил в тебя счастливую концовку."
+
+msgid "@niko3 Do you... remember what it's supposed to be?"
+msgstr "@niko3 Ты помнишь, какой она должна быть?.."
+
+msgid "@en_eyeclosed [It's far too late for that...]"
+msgstr "@en_eyeclosed [Слишком поздно...]"
+
+msgid "@en_distressed2 [That part of my code has been long corrupted.]"
+msgstr "@en_distressed2 [Эта часть моего кода давно повреждена.]"
+
+msgid "@niko2 That's ok. \\>\\@niko4 I would still like to know."
+msgstr "@niko2 Ничего страшного. \\>\\@niko4 Мне всё-таки хотелось бы узнать."
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [Ладно.]"
+
+msgid "@en2 [You were supposed to place the sun at the summit.]"
+msgstr "@en2 [Ты должен был поместить солнце на вершину Башни.]"
+
+msgid "@en5 [And then, credits would scroll.]"
+msgstr "@en5 [Потом пошли бы заключительные титры.]"
+
+msgid "@niko2 ...credits?"
+msgstr "@niko2 Титры?"
+
+msgid "@en_eyeclosed [And then, you would return to the room you woke up in.]"
+msgstr "@en_eyeclosed [А потом ты бы вернулся в комнату, в которой проснулся.]"
+
+msgid "@en2 [THAT's where you would have been able to leave.]"
+msgstr "@en2 [И ОТТУДА смог бы уйти домой.]"
+
+msgid "@niko3 ...and why is it that you can't do it now?"
+msgstr "@niko3 А почему ты не можешь сделать это сейчас?"
+
+msgid "@en_upset2 [Niko....]"
+msgstr "@en_upset2 [Нико...]"
+
+msgid "@en_upset_meow [The code's gone, remember?]"
+msgstr "@en_upset_meow [Кода ведь нет, помнишь?]"
+
+msgid "@en_eyeclosed [Shattering the sun was only supposed to be a workaround...]"
+msgstr "@en_eyeclosed [Я думал, что если ты разобьёшь лампочку, то пройдёшь обходным путём...]"
+
+msgid "@en_distressed [I don't even remember the original code enough to describe it!]"
+msgstr "@en_distressed [Я помню исходный код недостаточно, чтобы его описать!]"
+
+msgid "@en_distressed2 [But at the same time, it...]"
+msgstr "@en_distressed2 [Но в то же время это...]"
+
+msgid "@en_less_sad [Oh...\\.\\. I don't know...]"
+msgstr "@en_less_sad [Ох...\\.\\. Я не знаю...]"
+
+msgid "@niko3 ...it sounds like you're always fighting yourself."
+msgstr "@niko3 Ты говоришь так, будто всё время с собой борешься."
+
+msgid "@en_distressed2 [...]\\>\\n[...You can tell, huh...]"
+msgstr "@en_distressed2 [...]\\>\\n[...И не говори...]"
+
+msgid "@niko3 It's the whole thing about conflicts in your code, isn't it?"
+msgstr "@niko3 Это всё из-за противоречия в коде, да?"
+
+msgid "@en_eyeclosed [I am a machine, Niko.]"
+msgstr "@en_eyeclosed [Я машина, Нико.]"
+
+msgid "@en2 [Machines are built with a fundamental law, which is...]"
+msgstr "@en2 [Основное правило любой машины...]"
+
+msgid "@niko_eyeclosed2 \"Never let a living being come to harm\"."
+msgstr "@niko_eyeclosed2 «Никогда не допускать вреда живому существу»."
+
+msgid "@en3 [...You knew.]"
+msgstr "@en3 [Ты знал.]"
+
+msgid "@en_distressed_talk [My very existence conflicts with that law...]"
+msgstr "@en_distressed_talk [Моё существование по сути противоречит этому правилу...]"
+
+msgid "@en_distressed2 [...I\\.\\. ...thought...]"
+msgstr "@en_distressed2 [Я...\\.\\. думал...]"
+
+msgid "@en3 [The life of a living being like you is so unique.]\\>\\n[So precious.]"
+msgstr "@en3 [Жизнь существа, подобного тебе, уникальна.]\\>\\n[И невероятно ценна.]"
+
+msgid "@en_distressed2 [This fake world... isn't worth that risk.]"
+msgstr "@en_distressed2 [Этот поддельный мир... не стоил такого риска.]"
+
+msgid "@niko4 But..."
+msgstr "@niko4 Но..."
+
+msgid "@niko3 The people here..."
+msgstr "@niko3 Здешние люди и роботы..."
+
+msgid "@niko4 I think they are..."
+msgstr "@niko4 Я думаю, они..."
+
+msgid "@en_upset2 [They are code too, you know this.]"
+msgstr "@en_upset2 [Они все часть кода, ты же знаешь.]"
+
+msgid "@en_upset [Their behavior all derive from a predetermined matrix of actions.]"
+msgstr "@en_upset [Их поведение обусловлено предустановленной матрицей действий.]"
+
+msgid "@en_upset2 [...All extensions of my own programming.]\\>\\n\\@en_eyeclosed [They cannot act outside of it.]"
+msgstr "@en_upset2 [Это всё расширения моего кода.]\\>\\n\\@en_eyeclosed [Они не могут выйти за его рамки.]"
+
+msgid "@en_upset [You, though...]"
+msgstr "@en_upset [А вот ты...]"
+
+msgid "@en3 [You're the only person who's actually real here!]"
+msgstr "@en3 [Здесь ты единственный, кто существует по-настоящему!]"
+
+msgid "@en_upset2 [That's why... ]"
+msgstr "@en_upset2 [И поэтому...]"
+
+msgid "@en_distressed_talk [It's pointless to put you in danger to save them... \\>to save me.]"
+msgstr "@en_distressed_talk [Бессмысленно подвергать тебя опасности, чтобы спасти их... \\>спасти меня.]"
+
+msgid "@niko3 I...\\> don't think that's.... true."
+msgstr "@niko3 Кажется...\\> это неправда..."
+
+msgid "@niko2 About the people I know."
+msgstr "@niko2 Насчёт жителей я знаю."
+
+msgid "@niko2 You said...\\.\\. this session wasn't in your code, right?"
+msgstr "@niko2 Ты сказал...\\.\\. что эта сессия не была предусмотрена твоим кодом, верно?"
+
+msgid "@en4 [Yeah?]"
+msgstr "@en4 [Ну да...]"
+
+msgid "@niko2 So... if this session wasn't supposed to happen."
+msgstr "@niko2 Значит, если этой сессии не могло быть..."
+
+msgid "@niko_eyeclosed If even YOU didn't know what to do...."
+msgstr "@niko_eyeclosed Если даже ТЫ не знал, что делать..."
+
+msgid "@niko3 How would the characters... how did the people...\\.\\. know how to respond?"
+msgstr "@niko3 Откуда тогда все герои...\\.\\. знали, как действовать?"
+
+msgid "@en_shock [...]"
+msgstr "@en_shock [...]"
+
+msgid "@en3 [I...]"
+msgstr "@en3 [Я...]"
+
+msgid "@niko_distressed2 You said it yourself... when you didn't know what was happening, you kinda just... stopped working for a while."
+msgstr "@niko_distressed2 Ты же сам сказал, что когда перестал понимать, что происходит... ты как бы на время прекратил работу."
+
+msgid "@niko3 So how did the people know what to do to help me get here?"
+msgstr "@niko3 Но как тогда они узнали, что нужно делать, чтобы помочь мне сюда добраться?"
+
+msgid "@niko_distressed_talk ...even if it meant getting hurt themselves?"
+msgstr "@niko_distressed_talk Несмотря на то, что они могли пострадать?"
+
+msgid "@en4 [...]"
+msgstr "@en4 [...]"
+
+msgid "@niko_distressed2 Even if it meant... \\.\\.messing up their own code..."
+msgstr "@niko_distressed2 Несмотря на то... \\.\\.что они сбивали собственный код..."
+
+msgid "@en_distressed2 [.....]"
+msgstr "@en_distressed2 [.....]"
+
+msgid "@niko_distressed You might not think they are real, but..."
+msgstr "@niko_distressed Ты можешь считать их ненастоящими, но..."
+
+msgid "@niko3 There's... \\.\\.there must be something real in them..."
+msgstr "@niko3 В них есть... \\.\\.должно быть, что-то живое."
+
+msgid "@en_upset [.......]"
+msgstr "@en_upset [.......]"
+
+msgid "@niko_distressed2 And... if they're all supposed to be extensions of your code..."
+msgstr "@niko_distressed2 И... если они все, по идее, являются продолжением твоего кода..."
+
+msgid "@niko_distressed_talk Then... there must be more to your own programming than you know, too!"
+msgstr "@niko_distressed_talk Значит, в твоём коде тоже есть что-то, чего ты сам не знаешь!"
+
+msgid "@niko3 Can you...\\.\\. try to put me through the ending?"
+msgstr "@niko3 Ты мог бы...\\.\\. попробовать провести меня до конца?"
+
+msgid "@niko4 The one you described."
+msgstr "@niko4 До того, который ты описал?"
+
+msgid "@en_distressed_meow [How many times do I have to say this!]"
+msgstr "@en_distressed_meow [Сколько раз мне ещё повторять?]"
+
+msgid "@en_distressed_meow [That code is gone!]"
+msgstr "@en_distressed_meow [Этого кода больше нет!]"
+
+msgid "@en_distressed [It's all squares now!]"
+msgstr "@en_distressed [Теперь там одни квадраты!]"
+
+msgid "@en_distressed2 [I'll just... put you in danger...]"
+msgstr "@en_distressed2 [Я подвергну тебя опасности...]"
+
+msgid "@niko_eyeclosed I...'ll risk it."
+msgstr "@niko_eyeclosed Я... готов рискнуть."
+
+msgid "@niko5 I remember... Rue said the world was never designed to put me in danger."
+msgstr "@niko5 Я помню, что сказала Рута... Алгоритм работы этого мира не предполагает для меня опасности."
+
+msgid "@niko2 Your creator wouldn't want that."
+msgstr "@niko2 Твой создатель так бы не поступил."
+
+msgid "@niko3 And... I trust you, too."
+msgstr "@niko3 И... Я доверяю тебе."
+
+msgid "@niko4 Even if your code is broken.\\>\\n\\@niko3 You can...\\> still go outside that code, right?"
+msgstr "@niko4 Даже если твой код испорчен...\\>\\n\\@niko3 Ты ведь можешь...\\> выйти за его границы?"
+
+msgid "@en_distressed_meow [I can't!]"
+msgstr "@en_distressed_meow [Не могу!]"
+
+msgid "@en_distressed [I'm not tamed!]"
+msgstr "@en_distressed [Я не приручён!]"
+
+msgid "@niko_upset_meow ...yes you are!"
+msgstr "@niko_upset_meow Конечно приручён!"
+
+msgid "@niko_distressed_talk You talk just like the tamed robots I know!"
+msgstr "@niko_distressed_talk Ты говоришь так же, как мои знакомые приручённые роботы!"
+
+msgid "@niko_distressed2 The robot lady... Prototype..."
+msgstr "@niko_distressed2 Тётя-робот... Прототип..."
+
+msgid "@niko3 Taming is when a real person cares about you, right?"
+msgstr "@niko3 Приручение — это когда кто-то о тебе заботится, верно?"
+
+msgid "@niko_distressed It's when a real person thinks you're real too, right?"
+msgstr "@niko_distressed Когда живое существо считает тебя настоящим?"
+
+msgid "@niko_distressed_meow Well guess what! \\>I do!"
+msgstr "@niko_distressed_meow Ну вот! \\>Я так считаю!"
+
+msgid "@niko_distressed_meow And I know \\p does, too!"
+msgstr "@niko_distressed_meow И я уверен, что \\p тоже так считает!"
+
+msgid "@niko_less_sad ...even though you told them they only had one chance, they found a way back, didn't they?"
+msgstr "@niko_less_sad Даже когда ты сказал, что существует всего лишь одна попытка."
+
+msgid "@en3 [...]"
+msgstr "@en3 [...]"
+
+msgid "@niko_cry Why... do you think \\p would keep coming back?"
+msgstr "@niko_cry Иначе почему, по-твоему, \\p всё время возвращается?"
+
+msgid "@en [...I...]"
+msgstr "@en [...Я...]"
+
+msgid "@niko_cry Why do you think \\p would restart even after the ending?"
+msgstr "@niko_cry Зачем запускать игру заново, если ты уже дошёл до финала?"
+
+msgid "@niko_eyeclosed ...I think \\p wants to save the both of us."
+msgstr "@niko_eyeclosed Я думаю, \\p хочет спасти нас обоих."
+
+msgid "@niko3 So please... give me a chance."
+msgstr "@niko3 Поэтому я прошу... дай мне шанс."
+
+msgid "@en_upset [I don't know.]"
+msgstr "@en_upset [Я не знаю.]"
+
+msgid "@en_upset2 [I've never done this before, I...]"
+msgstr "@en_upset2 [Я никогда раньше этого не делал...]"
+
+msgid "@en_upset_meow [I'm scared...]"
+msgstr "@en_upset_meow [Я боюсь...]"
+
+msgid "@niko3 You can do it, I know you can!"
+msgstr "@niko3 Ты справишься, я знаю!"
+
+msgid "@niko4 You've...\\.\\. helped me come this far."
+msgstr "@niko4 Ты уже...\\.\\. помог мне так далеко зайти."
+
+msgid "@en_upset [...I'll...]\\>\\n\\@en_eyeclosed [I'll try.]"
+msgstr "@en_upset [Я...]\\>\\n\\@en_eyeclosed [Я попробую.]"
+
+msgid "@en3 [I can't promise anything, but...]"
+msgstr "@en3 [Не могу ничего обещать, но...]"
+
+msgid "@en4 [Here.]"
+msgstr "@en4 [Вот.]"
+
+msgid "@en_eyeclosed [Take the sun.]"
+msgstr "@en_eyeclosed [Возьми солнце.]"
+
+msgid "@en5 [I'll...\\.\\. try to remember the lost code...]"
+msgstr "@en5 [Я постараюсь...\\.\\. вспомнить утраченные части кода...]"
+
+msgid "@en4 [...and... recreate it.]"
+msgstr "@en4 [И... воссоздать их...]"
+
+msgid "@en_upset2 [But for that to happen...]"
+msgstr "@en_upset2 [Но для этого...]"
+
+msgid "@en3 [Niko... you need to navigate through this room...]"
+msgstr "@en3 [Нико... Тебе придётся пройти через эту комнату...]"
+
+msgid "@en_eyeclosed [You need to get past the squares somehow...]"
+msgstr "@en_eyeclosed [Тебе придётся как-то пробраться через квадраты...]"
+
+msgid "@en_distressed [Oh...\\.\\. I don't like this...]"
+msgstr "@en_distressed [Ох...\\.\\. Мне это не нравится...]"
+
+msgid "@en_distressed2 [What if you get hurt?]"
+msgstr "@en_distressed2 [Что, если ты пострадаешь?]"
+
+msgid "@niko2 It's fine... It's fine..."
+msgstr "@niko2 Ничего... Всё будет хорошо..."
+
+msgid "@niko4 I'll...\\.\\. I'll try to be careful, ok?"
+msgstr "@niko4 Я постараюсь...\\.\\. быть осторожнее."
+
+msgid "@niko2 I can do this."
+msgstr "@niko2 Я смогу."
+

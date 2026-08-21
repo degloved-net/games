@@ -1,0 +1,84 @@
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko 병 안에서 작고 반짝이는 새우들이 잔뜩 헤엄치고 있어요."
+
+msgid "@niko A page with faded ink."
+msgstr "@niko 종이에 빛바랜 잉크로 글이 쓰여 있어요."
+
+msgid "$-able to provide power to all robots and machinery in the area via a large electromagnetic field."
+msgstr "$...대형 자기장을 통해 인근의 모든 로봇과 기계에 전력을 공급할 수 있습니다."
+
+msgid "$Maintenance efforts are quite high, as expected."
+msgstr "$예상대로 유지보수에는 적지 않은 지원이 필요합니다."
+
+msgid "$We have provided customized backup cells for the few most important robots."
+msgstr "$주요 로봇 몇 기에는 전용 예비 전지로 동력을 공급합니다."
+
+msgid "$Their electromagnetic fields are much weaker, and the signals are highly specific."
+msgstr "$이런 소형 전지는 자기장이 훨씬 약하고, 신호도 매우 특수합니다."
+
+msgid "$In other words, these small cells can only charge one single-"
+msgstr "$즉, 이 소형 전지로는 특정 로봇 한 대에만-"
+
+msgid "@niko The rest of the page is unreadable."
+msgstr "@niko 나머지 부분은 알아볼 수가 없어요."
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak \\p 님! 전 또 감전되기 싫다고요!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 아얏!"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed 방금 감전됐어요..."
+
+msgid "@niko Dusty shelves."
+msgstr "@niko 먼지 쌓인 책장이에요."
+
+msgid "@niko_speak The battery fits the slot perfectly!"
+msgstr "@niko_speak 이 배터리, 여기에 딱 맞네요!"
+
+msgid "@niko Looks like we're on the right track."
+msgstr "@niko 우리가 제대로 하고 있나 봐요."
+
+msgid "@niko ...but ...nothing happened."
+msgstr "@niko ...하지만... 아무 일도 일어나지 않네요."
+
+msgid "@niko_speak Let's hope the charged battery does something!"
+msgstr "@niko_speak 충전한 배터리가 제 역할을 해 주길 빌어야겠네요!"
+
+msgid "@niko_pancakes Whoa!"
+msgstr "@niko_pancakes 우와!"
+
+msgid "@niko_speak That's a big machine!"
+msgstr "@niko_speak 엄청나게 큰 기계예요!"
+
+msgid "@niko It doesn't seem to be doing anything, though..."
+msgstr "@niko 하지만 작동하지 않는 것 같네요..."
+
+msgid "@niko There's a rectangle-shaped hole in the middle."
+msgstr "@niko 가운데에 사각형 모양의 구멍이 있어요."
+
+msgid "@niko_speak Looks like something used to fit in here..."
+msgstr "@niko_speak 아무래도 뭔가 있던 자리 같아요..."
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko 작은 기계예요."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko 무슨 기계일까요?"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 머리카락이 뻣뻣해진 느낌이에요..."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 이건 전원 장치예요...\\n아마도요."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak \"예언봇\"이라는 단어가 옆에 쓰여 있었네."
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko 전에는 몰랐는데."
+

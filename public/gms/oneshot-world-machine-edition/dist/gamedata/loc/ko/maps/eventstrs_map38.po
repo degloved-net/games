@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[구조 요청의 출처는 찾으셨습니까?]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[이 덩굴은 몇 분 전에 나타났습니다.]"
+
+msgid "@niko Really?"
+msgstr "@niko 정말요?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 출입구랑 여기저기에서 많이 보았는데요..."
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko 전 여기가 버려져서 그런 거라고 생각했는데요..."
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[구조 요청입니다.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ...네?"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[살아있는 생명이 도움을 요청하고 있습니다.]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[하지만 저는 그 출처를 파악할 수 없습니다.]"
+
+msgid "@niko ...ah."
+msgstr "@niko ...아."
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[덩굴이 사라졌습니다.]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[원인을 아십니까?]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko 제가... 식물 같은 사람을 하나 발견했어요."
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed 그 분은 생명이 꺼져 가고 있었어요..."
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko 제가 태양을 빌려줬지만..."
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed 그 사람은 이미 늦었다고 했어요..."
+
+msgid "[I UNDERSTAND.]"
+msgstr "[이해했습니다.]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[도시에 이 사건을 보고하겠습니다.]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko 덩굴이 길을 막고 있어요..."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[어린이 둘이 이 근처에 삽니다.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak 내가 그중 한 명이야!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+

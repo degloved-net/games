@@ -1,0 +1,249 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown 阿露？\\>\\n阿露？你跑去哪了？"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p，你有聽見嗎？"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown 阿露！"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko 好像是從東南方方向傳來的。"
+
+msgid "@niko It's full of eels!"
+msgstr "@niko 裡面都是鰻魚！"
+
+msgid "@niko_what Wait, no..."
+msgstr "@niko_what 等等，不對……"
+
+msgid "@niko_wtf2 It's full of snakes..."
+msgstr "@niko_wtf2 滿滿都是蛇……"
+
+msgid "@niko_eyeclosed Snakes..."
+msgstr "@niko_eyeclosed 是蛇……"
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[水樣本採集進行中……]"
+
+msgid "@calamus_speak Hey! You there!"
+msgstr "@calamus_speak 喂！那邊那個人！"
+
+msgid "@calamus Have you seen a little girl?"
+msgstr "@calamus 你有沒有看見一個小女孩？"
+
+msgid "@calamus She's a little bit shorter than you, and-"
+msgstr "@calamus 她比你矮一點點，還有──"
+
+msgid "@calamus_speak Wait...\\.! That's... the sun."
+msgstr "@calamus_speak 等等……\\.！那是……太陽。"
+
+msgid "@calamus Are you our savior?"
+msgstr "@calamus 你就是我們的救世主？"
+
+msgid "@niko I... yeah?"
+msgstr "@niko 我……是吧？"
+
+msgid "@calamus_shame Oh my stars!"
+msgstr "@calamus_shame 喔，天啊！"
+
+msgid "@calamus_shame Sorry for my rudeness!"
+msgstr "@calamus_shame 對不起，我太無禮了！"
+
+msgid "@niko Huh? It's alright..."
+msgstr "@niko 咦？沒關係啦……"
+
+msgid "@niko_speak Are you looking for someone?"
+msgstr "@niko_speak 你在找人嗎？"
+
+msgid "@calamus_sad My little sister... she's been gone for three days now."
+msgstr "@calamus_sad 我妹妹……她已經失蹤三天了。"
+
+msgid "@calamus I've been looking all over, but..."
+msgstr "@calamus 我到處找，可是……"
+
+msgid "@niko What does she look like?"
+msgstr "@niko 她長什麼樣子呢？"
+
+msgid "@calamus_speak Um...\\. a little shorter than you, long blue hair, two blue feathers on top of her head..."
+msgstr "@calamus_speak 嗯……\\.比你矮一點點，有藍色長頭髮、頭頂有兩根藍色羽毛……"
+
+msgid "@niko I'm sorry, I haven't seen anyone like that..."
+msgstr "@niko 對不起喔，我沒有看到那樣的人……"
+
+msgid "@niko_speak Where was the last place you saw her?"
+msgstr "@niko_speak 你最後一次看到她是在哪呢？"
+
+msgid "@calamus_speak Back inside the ruins."
+msgstr "@calamus_speak 在廢墟裡。"
+
+msgid "@calamus She said she was headed towards the forest, so I'm waiting here now."
+msgstr "@calamus 她說她要前往森林，所以我現在在這裡等她。"
+
+msgid "@calamus_sad I ran out of places to look..."
+msgstr "@calamus_sad 能找的地方我都找過了……"
+
+msgid "@alula_gasp Calamus!"
+msgstr "@alula_gasp 卡羽！"
+
+msgid "@calamus_speak Alula!"
+msgstr "@calamus_speak 阿露！"
+
+msgid "@calamus You're okay!"
+msgstr "@calamus 妳平安無事！"
+
+msgid "@calamus_sad Thank goodness..."
+msgstr "@calamus_sad 謝天謝地……"
+
+msgid "@niko Are you from the village?"
+msgstr "@niko 你們是從村莊來的嗎？"
+
+msgid "@calamus No..."
+msgstr "@calamus 不是……"
+
+msgid "@calamus_speak I don't remember why, but our father left the village while we were still young."
+msgstr "@calamus_speak 雖然不記得原因，不過我們的爸爸在我們小時候就離開了村莊。"
+
+msgid "@calamus We've lived in the ruins ever since."
+msgstr "@calamus 從此我們就住在廢墟裡。"
+
+msgid "@calamus_sad ...Well, it's just Alula and I now."
+msgstr "@calamus_sad ……嗯，現在只剩我和阿露了。"
+
+msgid "@calamus_sad I can't lose her too..."
+msgstr "@calamus_sad 我不能連她也失去……"
+
+msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
+msgstr "@calamus_speak 我只剩阿露這個家人。\\n我不能失去她……"
+
+msgid "@alula_pout I was trapped inside this room and it was really scary..."
+msgstr "@alula_pout 我被困在一間房間裡，真的好可怕……"
+
+msgid "@alula ...but then, the messiah saved me!"
+msgstr "@alula ……可是之後救世主救了我！"
+
+msgid "@calamus ...trapped?\\> In the ruins?"
+msgstr "@calamus ……困住？\\>在廢墟嗎？"
+
+msgid "@alula_oh Yeah!\\|"
+msgstr "@alula_oh 對啊！\\|"
+
+msgid "@alula_pout There was that weird stuff in the door!"
+msgstr "@alula_pout 門口被那種怪東西堵住了！"
+
+msgid "@alula_oh You know, the floating squares we see next to the ocean sometimes?"
+msgstr "@alula_oh 你知道的，就是我們有時候在海邊看到那種飄來飄去的方塊！"
+
+msgid "@alula_oh The stuff you told me to stay away from?"
+msgstr "@alula_oh 你都叫我不要靠近那玩意。"
+
+msgid "@calamus_shock What!?"
+msgstr "@calamus_shock 什麼！？"
+
+msgid "@calamus_shock It's... spread to the ruins now?"
+msgstr "@calamus_shock 它們……散播到廢墟來了？"
+
+msgid "@calamus_sad This isn't good..."
+msgstr "@calamus_sad 這可不妙啊……"
+
+msgid "@alula_speak Don't worry! I didn't touch it!"
+msgstr "@alula_speak 別擔心！我沒碰！"
+
+msgid "@alula I'm not hurt or anything..."
+msgstr "@alula 我沒有受傷喔……"
+
+msgid "@calamus_sad Still... If it gets any worse, we might have to find somewhere else to live..."
+msgstr "@calamus_sad 可是……如果情況繼續惡化，我們可能得另外找地方住了……"
+
+msgid "@niko What is this... square... stuff, exactly?"
+msgstr "@niko 你們說的……方塊，到底是什麼？"
+
+msgid "@calamus_sad Bad."
+msgstr "@calamus_sad 是壞東西。"
+
+msgid "@calamus Anything that touches them just... sorta..."
+msgstr "@calamus 不管是什麼東西，只要碰到它們……都會……"
+
+msgid "@calamus_sad ...Gets... messed up."
+msgstr "@calamus_sad ……都會……壞掉。"
+
+msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
+msgstr "@calamus_sad 當你聽到別人說這個世界正在衰敗，指的就是這個情況……"
+
+msgid "@calamus_speak Obviously, you should avoid them too."
+msgstr "@calamus_speak 當然，你也該避開它們。"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 我會的！"
+
+msgid "@calamus_speak Anyway, ah..."
+msgstr "@calamus_speak 總之，哎……"
+
+msgid "@calamus I can't thank you enough for rescuing my sister, savior..."
+msgstr "@calamus 救世主，真的非常謝謝你救了我妹妹……"
+
+msgid "@niko_speak Just call me Niko!"
+msgstr "@niko_speak 叫我霓光就好囉！"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame 喔天啊！直呼你的名字不會太無禮嗎？"
+
+msgid "@niko Huh?\\>\\n\\@niko_speak Why would it be?"
+msgstr "@niko 啊？\\>\\n\\@niko_speak 為什麼這樣是無禮？"
+
+msgid "@niko I mean, I'm just a kid like you guys..."
+msgstr "@niko 你看，我跟你們一樣都是小孩啊……"
+
+msgid "@calamus_shame Ah..."
+msgstr "@calamus_shame 啊……"
+
+msgid "@calamus_smile Then... would you like to visit our house, Niko?"
+msgstr "@calamus_smile 那……霓光，你要來我們家嗎？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@alula_speak Yaaaay!"
+msgstr "@alula_speak 好耶！"
+
+msgid "@alula Let's go!"
+msgstr "@alula 走吧！"
+
+msgid "@niko_speak I'm sorry, but I think \\p might want to go somewhere else right now!"
+msgstr "@niko_speak 抱歉，我覺得\\p可能希望我現在去別的地方！"
+
+msgid "@calamus_smile That's fine.\\.\\. I'm sure you both have more important things to do right now."
+msgstr "@calamus_smile 沒關係。\\.\\.你們現在一定有更重要的事要做。"
+
+msgid "@calamus_smile But feel free to drop by if you change your mind."
+msgstr "@calamus_smile 可是如果你改變心意，隨時歡迎過來喔。"
+
+msgid "@alula_speak Yeah!\\.\\. We have something nice to give you, Niko!"
+msgstr "@alula_speak 對啊！\\.\\.霓光，我們有好東西要給你！"
+
+msgid "@alula We live in the ruins.\\| So don't forget!"
+msgstr "@alula 我們就住在廢墟裡。\\|別忘記囉！"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak 對了，太陽怎麼了？"
+
+msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel the sun again, before.\\..\\.."
+msgstr "@niko 我把它借給廢墟中的某個人了。\\n她說她想再一次感受太陽，趁她還.\\..\\.."
+
+msgid "@calamus Oh, Maize.\\nI've met her before, too."
+msgstr "@calamus 喔，你說麥茈。\\n我也見過她。"
+
+msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
+msgstr "@calamus 這一帶以前有很多植物族人居住……\\n我爸是這麼說的。"
+
+msgid "@calamus I guess they've all...\\. gone."
+msgstr "@calamus 我猜他們都……\\.不在了。"
+
+msgid "@niko_eyeclosed I'm glad she got to see the sun again, at least."
+msgstr "@niko_eyeclosed 我很慶應至少她還能再看到太陽。"
+
+msgid "This is the best fishing spot I've found yet!"
+msgstr "這是我找到最棒的釣魚地點！"
+
+msgid "All the fish I catch here are longer than my arm!"
+msgstr "在這裡抓到的魚都比我的手臂還長！"
+

@@ -1,0 +1,120 @@
+msgid "@niko A pile of large books."
+msgstr "@niko Стопка толстых книг."
+
+msgid "@niko One of them is a robot instruction manual..."
+msgstr "@niko Одна из них — инструкция к роботу..."
+
+msgid "@niko A painting of 4 robots playing cards."
+msgstr "@niko Картина с четырьмя роботами, играющими в карты."
+
+msgid "@niko A picture of many 1's and 0's."
+msgstr "@niko Картина с изображением единиц и нулей."
+
+msgid "[Hello. Would You Like To Play A Game?]"
+msgstr "[Приветствую. Хотите Сыграть В Игру?]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko Sure!"
+msgstr "@niko Конечно!"
+
+msgid "[What Game Would You Like To Play?]"
+msgstr "[В Какую Игру Вы Хотите Сыграть?]"
+
+msgid "@niko Hmm...."
+msgstr "@niko Хм-м..."
+
+msgid "@niko_speak Do you know rock paper scissors?"
+msgstr "@niko_speak Ты умеешь играть в «Камень, ножницы, бумага»?"
+
+msgid "[Desired Difficulty Level?]"
+msgstr "[Выберите Уровень Сложности.]"
+
+msgid "@niko Huh?"
+msgstr "@niko Что?"
+
+msgid "[Desired Duration Of Turns?]"
+msgstr "[Выберите Интервал Времени Для Ходов.]"
+
+msgid "@niko_speak Uh..."
+msgstr "@niko_speak Э-э..."
+
+msgid "[Please Set Your Timer.]"
+msgstr "[Установите Таймер.]"
+
+msgid "@niko_eyeclosed ...Nevermind..."
+msgstr "@niko_eyeclosed Ладно, проехали..."
+
+msgid "@niko How about... hide and seek?"
+msgstr "@niko Как насчёт... пряток?"
+
+msgid "@niko_speak Well... maybe not too easy?"
+msgstr "@niko_speak Хм... Или что-то посложнее?"
+
+msgid "[Initiating. Ruthless Mode.]"
+msgstr "[Активирую Беспощадный Режим.]"
+
+msgid "[TARGET: LOCKED.\\| YOU HAVE EXACTLY 14 SECONDS.\\nSTART.\\| RUNNING.]"
+msgstr "[ЦЕЛЬ: ОБНАРУЖЕНА.\\| У ВАС РОВНО 14 СЕКУНД.]\\n[БЫСТРЕЕ.\\| БЕГИТЕ.]"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ..."
+
+msgid "@niko_wtf2 ...I'm not sure if I want to play anymore."
+msgstr "@niko_wtf2 Не уверен, что хочу играть дальше..."
+
+msgid "[OH.\\| Session. Abort.]"
+msgstr "[О.\\| Прекратить. Сессию.]"
+
+msgid "[Are You. Feeling Unwell?]"
+msgstr "[Вы Плохо Себя Чувствуете?]"
+
+msgid "@niko No, it's not that..."
+msgstr "@niko Нет, дело не в этом..."
+
+msgid "@niko I'll... pass."
+msgstr "@niko Мне... не хочется."
+
+msgid "My parents are like, literally never home."
+msgstr "Мои родители никогда не бывают дома."
+
+msgid "But I don't mind! I'm used to it!"
+msgstr "Но я не против! Я уже привыкла!"
+
+msgid "Besides, I've got model C-WT 2nd gen unit 4E here to keep me company now!"
+msgstr "И потом, теперь у меня для компании есть робот модели C-WT 4Е второго поколения!"
+
+msgid "She still talks a little weird sometimes, but that's okay! She's learning!"
+msgstr "Она пока ещё иногда странно разговаривает, но ничего! Она быстро учится!"
+
+msgid "If I work real hard, she might even be tamed someday!"
+msgstr "Если я как следует постараюсь, однажды смогу её приручить!"
+
+msgid "@niko I keep hearing that word..."
+msgstr "@niko Я всё время слышу это слово..."
+
+msgid "What, tame?"
+msgstr "Какое? «Приручить»?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "@niko Nobody's told me what it means yet..."
+msgstr "@niko Никто так и не объяснил мне, что оно означает..."
+
+msgid "That's just a robot thing!\\n\\....I can't really explain it, either..."
+msgstr "Это просто такое слово для роботов!\\n\\.Я тоже не знаю, как его объяснить..."
+
+msgid "@niko Ah..."
+msgstr "@niko А..."
+
+msgid "What? Don't you like to play \"Run Away From The Killer Robot\"?"
+msgstr "Что? Ты не любишь играть в «Убеги от робота-убийцы»?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Well, at least *I* have fun with it."
+msgstr "Ну, а мне нравится."
+

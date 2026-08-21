@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るいね。"
+
+msgid "@niko Full of dried beans."
+msgstr "@niko 乾燥した豆でいっぱい。"
+
+msgid "@niko An empty jar."
+msgstr "@niko この壺は空っぽ。"
+
+msgid "I'm getting dizzy!"
+msgstr "目が回ってきた！"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed ほらあ！"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak どうしてそんなふうにクルクルしてるの？"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak 目が回っちゃうよ！"
+
+msgid "I'm the Tower!"
+msgstr "私は塔なの！"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak え？"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "太陽の光を世界中に広めるために、\nずーーっとぐるぐる回ってたんだって\nおじいちゃんが言ってた！"
+
+msgid "I wanna see it too!"
+msgstr "私も見てみたいなー！"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp あたしもー！"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout 太陽かあ、あたしが最後に見たの、\nまだすっごく小さかった頃ね…"
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko でも、ミーが来たから…"
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko もう時間の問題ってやつじゃないかな。"
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko そんなふうにクルクルしてると\n目が回っちゃうよ…"
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak 豆だ！"
+

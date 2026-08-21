@@ -1,0 +1,501 @@
+msgid "@prophet [Ah!]"
+msgstr "@prophet [ああ！]"
+
+msgid "@prophet [That Lightbulb...! You Are Here!]"
+msgstr "@prophet [その電球は…！いらしたのですね！]"
+
+msgid "@niko M-\\.\\.\\@niko2 me?"
+msgstr "@niko え… \\.\\.\\@niko2 ミーのこと？"
+
+msgid "@prophet [Yes!]"
+msgstr "@prophet [そうです！]"
+
+msgid "@prophet [Welcome To Our World, Friend!]"
+msgstr "@prophet [ワタクシたちの世界へようこそ！]"
+
+msgid "@prophet [I Am Most Humbled By Your Presence.\\. Yes!]"
+msgstr "@prophet [アナタサマにお会いできて、\n大変光栄でございます。\\.]"
+
+msgid "@niko Uh, thanks..."
+msgstr "@niko えっと、ありがとう…"
+
+msgid "@niko2 ..."
+msgstr "@niko2 …"
+
+msgid "@niko3 .\\..\\.."
+msgstr "@niko3 .\\..\\.."
+
+msgid "@niko_eyeclosed Sorry...\\.\\. I'm a little lost..."
+msgstr "@niko_eyeclosed ごめん…\\.\\.迷子なんだ…"
+
+msgid "@prophet [Ah Right!\\.\\. Allow Me To Explain Some Things.]"
+msgstr "@prophet [なるほど！\\.\\.では、\nいくつかご説明いたしましょう。]"
+
+msgid "@prophet [May I First Ask How You Arrived Here?]"
+msgstr "@prophet [まず、どうやってここへ来られたのか\nお聞きしても？]"
+
+msgid "@niko3 I'm... not sure..."
+msgstr "@niko3 よく…分からない…"
+
+msgid "@niko2 I woke up in this...\\.\\. weird house.\\>\\n\\@niko_speak It was really dark!"
+msgstr "@niko2 目が覚めたんだ、あの…\\.\\. 変な家で。\\>\\n\\@niko_speak すごく暗かった！"
+
+msgid "@prophet_omg [Oh!] \\>\\n\\@prophet [So You Woke Up In An Unfamiliar, Dark Location?]"
+msgstr "@prophet_omg [なんと！]　\\>\\n\\@prophet [では、見慣れない、暗い場所で\nお目覚めになられたと？]"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@prophet_omg [Just As My Prophecy Foretold. Yes!]"
+msgstr "@prophet_omg [ワタクシの預言通りです。]"
+
+msgid "@prophet [You Are The Savior We Have Been Waiting For!]"
+msgstr "@prophet [アナタサマこそが、ワタクシたちが待ち望んでいた\n救世主でございます！]"
+
+msgid "@prophet [You Will Be The One To Save Our World From Eternal Darkness.]"
+msgstr "@prophet [アナタサマが、この世界を永遠の暗闇から お救いになられるのです。]"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 …えっと。"
+
+msgid "@prophet [I Will Now Provide You With Vital Information!]"
+msgstr "@prophet [これより重要な情報をお伝えいたします！]"
+
+msgid "@prophet [Please Ask Me Anything!]"
+msgstr "@prophet [何でもお聞きください！]"
+
+msgid "@Niko Ah, well...."
+msgstr "@Niko えっと、じゃあ…"
+
+msgid "@niko_speak Can you tell me about..."
+msgstr "@niko_speak 何から聞こうかな……"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...about \\\\p\", \"...going home\"]"
+msgstr "[\"…この世界について\",\"…電球について\",\"\\\\p について…\",\"…家に帰る方法について\"]"
+
+msgid "@prophet [\\p Is The Name Of Our God.]"
+msgstr "@prophet [\\pは、 ワタクシたちの\n神様の名前でございます。]"
+
+msgid "@prophet [Always Look To Them For Guidance.]\\>\\n[You've Already Received More Than You Realize...]"
+msgstr "@prophet [いかなる時も、神様に導きをお求めください。]\\>\\n[気づかれていないだけで、\nアナタサマはすでに多くの導きを\n授かっておられます…]"
+
+msgid "@niko When I woke up in that house...\\>\\n\\@niko_speak For some reason, I called out a name."
+msgstr "@niko あの家で目が覚めた時に…\\>\\n\\@niko_speak どうしてか分からないんだけど、\n知らない名前を呼んだんだ。"
+
+msgid "@niko \"\\p\"."
+msgstr "@niko 「\\p」って。"
+
+msgid "@niko_eyeclosed I'm not sure why I did that.\\>\\n\\@niko_speak But then, I saw it on a computer too!"
+msgstr "@niko_eyeclosed どうしてそんな名前呼んじゃったんだろ。\\>\\n\\@niko_speak でもそしたら、コンピューターにも\nその名前が出てきた！"
+
+msgid "@prophet_omg [Ah,\\.\\. That Would Be Our God!]"
+msgstr "@prophet_omg [ああ、\\.\\. それは、ワタクシたちの\n神様のことでございます！]"
+
+msgid "@niko_pancakes Oh!\\> Right!\\>\\n\\@niko I... think I..."
+msgstr "@niko_pancakes あっ!\\> そっか！\\>\\n\\@niko え…っと、あれ…"
+
+msgid "@niko3 ...I feel like I remember something about that."
+msgstr "@niko3 …もうちょっとで何か思い出せそう。"
+
+msgid "@prophet_omg [You do?]"
+msgstr "@prophet_omg [そうなのですか？]"
+
+msgid "@prophet_hmm [But wait... Did You Not Just Arrive Here?]"
+msgstr "@prophet_hmm [しかし、お待ちください…\nアナタサマは、この世界にいらした\nばかりでは？]"
+
+msgid "@prophet_hmm [I Was The One Who Was Supposed To Inform You Of That.]"
+msgstr "@prophet_hmm [そのことについては、ワタクシが\nお伝えするはずでございました。]"
+
+msgid "@prophet [So... How Did You Know?]"
+msgstr "@prophet [どうして…ご存知だったのでしょう？]"
+
+msgid "@niko_speak ... \\>\\@niko ...hm..."
+msgstr "@niko_speak … \\>\\@niko …うーん…"
+
+msgid "@niko_eyeclosed It just made sense, I guess!"
+msgstr "@niko_eyeclosed 勝手に頭に浮かんできたんだ！"
+
+msgid "@prophet_hmm [Ah...]"
+msgstr "@prophet_hmm [そうですか…]"
+
+msgid "@prophet_omg [Have You Already Contacted \\p, Then?]"
+msgstr "@prophet_omg [ということは、 \\pとは\nすでに接触されたのですか？]"
+
+msgid "@niko Nope!\\>\\nI just have to close my eyes and focus, right?"
+msgstr "@niko ううん！\\>\\nえっと、目を閉じて集中したらいいんでしょ？"
+
+msgid "@niko_eyeclosed2 ...hey, \\p? ...God?"
+msgstr "@niko_eyeclosed2 …あの、 \\p？ …神様？"
+
+msgid "@niko_eyeclosed This is going to sound weird, but... \\>\\n\\@niko_eyeclosed2 Have we... met... before?"
+msgstr "@niko_eyeclosed 変なこと聞くけど… \\>\\n\\@niko_eyeclosed2 えっと…前に会ったこと…ある？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@niko_eyeclosed2 Ah!\\>\\n\\@niko_eyeclosed But... I don't know who you are, though..."
+msgstr "@niko_eyeclosed2 やっぱり！\\>\\n\\@niko_eyeclosed でも…神様のこと全然知らないんだ…"
+
+msgid "@niko_eyeclosed It's just a weird feeling that I have..."
+msgstr "@niko_eyeclosed ただ、すごく変な感じがするの…"
+
+msgid "@niko_eyeclosed2 Oh... I bet I'm just being silly, aren't I..."
+msgstr "@niko_eyeclosed2 はあ… ミーの頭が\nおかしくなっちゃったんだね、きっと…"
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed ごめんなさい…"
+
+msgid "@niko_eyeclosed Ah, I thought not..."
+msgstr "@niko_eyeclosed あっ、そうだよね…"
+
+msgid "@niko_eyeclosed2 That was a silly question..."
+msgstr "@niko_eyeclosed2 意味が分からない質問だったね…"
+
+msgid "@niko_eyeclosed But...\\.\\. it's nice to meet you, \\p!"
+msgstr "@niko_eyeclosed でも…\\.\\. 会えてうれしいよ、 \\p！"
+
+msgid "@niko_eyeclosed My name is Niko!"
+msgstr "@niko_eyeclosed ミーの名前はニコって言うんだ！"
+
+msgid "@niko_speak I just contacted \\p, yeah!"
+msgstr "@niko_speak 今 \\p とお話してきたよ。\nやった！"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\>\\n[You Are The Messiah After All.]"
+msgstr "@prophet [遠慮せず、 \\p に助けをお求めください。]\\>\\n[アナタサマは救世主なのですから。]"
+
+msgid "@prophet [Remember Your Duty.]"
+msgstr "@prophet [義務を忘れないでください。]"
+
+msgid "@prophet [Surely You Have More Questions!]"
+msgstr "@prophet [まだ他にも質問があるはずです！]"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...the computer\", \"...going home\"]"
+msgstr "[\"…この世界について\",\"…電球について\",\"…あのコンピューターについて\",\"…家に帰る方法について\"]"
+
+msgid "@prophet [The Name Of Our God Is Apparently \\p.\\nI Must Admit This Is A Surprise...]"
+msgstr "@prophet [ワタクシたちの神の名は\\n\\p のようです。]\\n[正直に言って、これは驚きです…]"
+
+msgid "@niko In the house, I found this... computer."
+msgstr "@niko 家の中で、その…\nコンピューターを見つけたんだ。"
+
+msgid "@niko It kept saying stuff like\\n\\>\\@niko_speak \"Your actions here will affect Niko.\""
+msgstr "@niko 「君の行動はニコに影響する。」\\n\\>\\@niko_speak …みたいなことが書かれてて…"
+
+msgid "@niko_speak But... \\.\\.\\c[3]I'm\\c[0] Niko!"
+msgstr "@niko_speak でも…、\\.\\. \\c[3]ミー\\c[0]がニコなんだ！"
+
+msgid "@niko Are those messages meant for someone else?"
+msgstr "@niko あれは他の人に宛てたものなの？"
+
+msgid "@prophet_hmm [Hm...]"
+msgstr "@prophet_hmm [ふむ…]"
+
+msgid "@prophet [If I Had To Guess, They Might Be Trying To Pass The Message To \\p.]"
+msgstr "@prophet [おそらく、 \\p へのメッセージだと\nワタクシは推測いたします。]"
+
+msgid "@niko ...\\p?"
+msgstr "@niko … \\p？"
+
+msgid "@prophet [If You Are Here, That Means \\p Is Here Also.]"
+msgstr "@prophet [アナタサマがここにいらっしゃるということは、\n\\p もここにいるということです。]"
+
+msgid "@prophet [\\p Will Provide Guidance For Your Journey.]"
+msgstr "@prophet [\\pが、\nアナタサマの旅を導いてくれるでしょう。]"
+
+msgid "@prophet [In Fact, They Already Have.]"
+msgstr "@prophet [といいますか、すでに導いています。]"
+
+msgid "@niko_speak Really?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@niko I haven't seen anyone though..."
+msgstr "@niko 誰にも会ってないけど…"
+
+msgid "@prophet [Have You...\\.\\. Not Contacted \\p Yet?]"
+msgstr "@prophet [アナタサマは…\\.\\.\\pと\nまだ接触しておられないのですか？]"
+
+msgid "@niko I don't think so."
+msgstr "@niko たぶん。"
+
+msgid "@prophet [Being The Bringer Of Our Sun, You Have The Sacred Ability To Communicate Directly With \\p.]"
+msgstr "@prophet [太陽をもたらす者として、アナタサマは\n\\p と直に対話できる聖なるチカラを\n持っておられます。]"
+
+msgid "@prophet_hmm [...An Ability That No One Else Possesses, Certainly Not I.]"
+msgstr "@prophet_hmm […他の誰も持っていないチカラです。\nワタクシなど、もってのほか。]"
+
+msgid "@prophet [Please Close Your Eyes And Focus.]"
+msgstr "@prophet [目を閉じて、集中するのです。]"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed そうだね…"
+
+msgid "@niko_eyeclosed Hello?"
+msgstr "@niko_eyeclosed こんばんは？"
+
+msgid "@niko_eyeclosed ...\\p?\\nAre you...\\| there?"
+msgstr "@niko_eyeclosed …\\p？\\n……いる？\\|"
+
+msgid "[\"Yes\", \"That is not my name\"]"
+msgstr "[\"はい\",\"それは私の名前ではない。\"]"
+
+msgid "@niko_eyeclosed2 Oh!"
+msgstr "@niko_eyeclosed2 おお！"
+
+msgid "@niko_eyeclosed2 N-\\.nice to meet you, \\p!"
+msgstr "@niko_eyeclosed2 は、\\. 初めまして、 \\p！"
+
+msgid "@niko_eyeclosed O-\\|oh..."
+msgstr "@niko_eyeclosed あ、\\|えっと…"
+
+msgid "@niko_eyeclosed Well.\\..\\..\\. what is your name, then?"
+msgstr "@niko_eyeclosed それじゃあ.\\..\\..\\. 君の名前は？"
+
+msgid "@niko_eyeclosed But that's... what I said."
+msgstr "@niko_eyeclosed でもそれは…ミーが言った通りだよ。"
+
+msgid "@niko_eyeclosed2 Oh! Your name is... \\>\\n\\@niko_what ..."
+msgstr "@niko_eyeclosed2 あぁ！君の名前は… \\>\\n\\@niko_what …"
+
+msgid "@niko_eyeclosed2 I don't think I'm supposed to say that word, but..."
+msgstr "@niko_eyeclosed2 …その言葉を言うべきじゃないと思うけど…"
+
+msgid "@niko_pancakes Really? \\>\\nThat's your name too?"
+msgstr "@niko_pancakes なるほど？ \\>\\n君もその名前なの？"
+
+msgid "@niko_speak Oh! \\>\\n\\@niko That's almost the same as my name..."
+msgstr "@niko_speak お！ \\>\\n\\@niko ミーの名前とほとんど同じだね…"
+
+msgid "@niko_speak In fact, I think they're actually pronounced the same!"
+msgstr "@niko_speak というか、発音は同じだと思う！"
+
+msgid "@niko_eyeclosed2 Is that your... name?"
+msgstr "@niko_eyeclosed2 それが君の…名前？"
+
+msgid "@niko_eyeclosed But I already have parents..."
+msgstr "@niko_eyeclosed でもミーにはもう親が…"
+
+msgid "@niko_eyeclosed This'll be confusing..."
+msgstr "@niko_eyeclosed 頭が混乱しそう…"
+
+msgid "@niko_eyeclosed Anyways..."
+msgstr "@niko_eyeclosed とにかく…"
+
+msgid "@niko_what ....really?\\>\\n\\@niko_what2 That's... your name?"
+msgstr "@niko_what …本当に？\\>\\n\\@niko_what2 それが…君の名前？"
+
+msgid "@niko_eyeclosed2 Gross!\\>\\n\\@niko_eyeclosed Er... I mean...."
+msgstr "@niko_eyeclosed2 おえっ！\\>\\n\\@niko_eyeclosed その…そうじゃなくて…"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p, though..."
+msgstr "@niko_speak 本当に聞こえた！\\>\\n\\@niko でも名前は \\p だって…"
+
+msgid "@niko_pancakes This is incredible..."
+msgstr "@niko_pancakes すごい…"
+
+msgid "@prophet_hmm [It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [記録していた名前が間違っていたようです。]"
+
+msgid "@prophet [Updating Database...]"
+msgstr "@prophet [データベースをアップデート中…]"
+
+msgid "@niko Hm?"
+msgstr "@niko うん？"
+
+msgid "@prophet [Update Complete.]"
+msgstr "@prophet [アップデート完了。]"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 本当に誰かの声が聞こえた！\\>\\n\\@niko_pancakes 名前は実は \\p なんだって！"
+
+msgid "@niko_pancakes The same as mine!"
+msgstr "@niko_pancakes ミーと同じ！"
+
+msgid "@prophet [Ah. Perhaps It Was Fate.]"
+msgstr "@prophet [ああ。それはおそらく\n運命なのでしょう。]"
+
+msgid "@prophet_hmm [But It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [ですが、記録していた名前は\n間違っていたようです。]"
+
+msgid "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 本当に誰かの声が聞こえた！\\>\\n\\@niko_pancakes 名前、ホントは \\p なんだって！"
+
+msgid "@niko_pancakes It sounds just like my name!"
+msgstr "@niko_pancakes ミーの名前と同じ響きだ！"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
+msgstr "@niko_speak 本当に誰かの声が聞こえた！\\>\\n\\@niko 名前は \\p だって言ってた…"
+
+msgid "@niko_wtf2 I still don't think I should be saying that..."
+msgstr "@niko_wtf2 やっぱり口に出しちゃダメだと思う…"
+
+msgid "@prophet [Why?]"
+msgstr "@prophet [なぜでしょう？]"
+
+msgid "@niko_eyeclosed It's a bad word!"
+msgstr "@niko_eyeclosed 良くない言葉だから！"
+
+msgid "@prophet [Bad...\\.\\. Word?]"
+msgstr "@prophet [良くない…\\.\\.言葉？]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 気にしないで。"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\n\\>[You Are The Messiah After All.]"
+msgstr "@prophet [遠慮せず、\n\\p に助けをお求めください。]\\n\\>[救世主なのですから。]"
+
+msgid "@niko I think that's all I have to ask for now."
+msgstr "@niko とりあえず今は大丈夫。"
+
+msgid "@prophet [Excellent!] \\>\\n[I Wish You Luck.]"
+msgstr "@prophet [それは良かった！] \\>\\n[幸運を祈っております。]"
+
+msgid "@prophet [I Wish You Luck On The Rest Of Your Journey.]"
+msgstr "@prophet [残りの旅路に幸多からんことを。]"
+
+msgid "@prophet [Hello Again.]"
+msgstr "@prophet [またお会いしましたね。]"
+
+msgid "@niko Hi!"
+msgstr "@niko こんばんは！"
+
+msgid "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
+msgstr "@niko_speak \\p とミーは出発するよ！ \\@niko 塔の近くまで連れて行ってくれるロボットを\n見つけたんだ！"
+
+msgid "@prophet_omg [Oh!]"
+msgstr "@prophet_omg [そうですか！]"
+
+msgid "@niko Thanks for helping me and answering my questions!"
+msgstr "@niko 助けてくれて、質問に答えてくれて、\nありがとう！"
+
+msgid "@prophet_omg [That Means I have Fulfilled My Purpose!]"
+msgstr "@prophet_omg [ワタクシの役割は果たされたということですね。]"
+
+msgid "@prophet [Are There More Questions You Wish To Ask?]"
+msgstr "@prophet [他に質問はございますか？]"
+
+msgid "@niko"
+msgstr "@niko"
+
+msgid "@prophet [Go On Then, Ask Away.]"
+msgstr "@prophet [どうぞ、何でもお聞きください。]"
+
+msgid "[\"...the barrens\", \"...the prophecy\", \"...the tower\"]"
+msgstr "[\"…不毛の地について\",\"…預言について\",\"…あの塔について\"]"
+
+msgid "@niko It's so...\\.\\. empty here..."
+msgstr "@niko ここはなんて…\\.\\. 空っぽなんだろう…"
+
+msgid "@prophet [That's Why It's Called The Barrens.]"
+msgstr "@prophet [不毛の地と呼ばれる所以でございます。]"
+
+msgid "@niko ...are there... ANY people living in this area?"
+msgstr "@niko 他に…住んでる人はいるの？"
+
+msgid "@niko ...besides robots, I mean."
+msgstr "@niko …ロボットの他に。"
+
+msgid "@prophet [I Do Not Know.]"
+msgstr "@prophet [存じ上げません。]"
+
+msgid "@prophet [I Was Not Built To Wander.]"
+msgstr "@prophet [徘徊するようには作られておりませんので。]"
+
+msgid "@niko ...not...\\. built to?"
+msgstr "@niko …作られて…\\.ない？"
+
+msgid "@niko So...\\.\\. you just stand here?\\>\\n\\@niko_eyeclosed Must be boring..."
+msgstr "@niko じゃあ… \\.\\.ただここに立ってるってこと？ \\>\\n\\@niko_eyeclosed 退屈そう…"
+
+msgid "@niko_speak Do you at least have friends?\\>\\n\\@niko Robot...\\. friends?"
+msgstr "@niko_speak せめて、お友達はいるでしょ？ \\>\\n\\@niko ロボット友達…\\. とか。"
+
+msgid "@prophet [I Cannot Desire Companionship.]\\>\\n\\@prophet_hmm [I Have Not Been Tamed.]"
+msgstr "@prophet [親交を求めることはできません。]\\n\\>\\@prophet_hmm [ワタクシは制御化されておりません。]"
+
+msgid "@niko Not... tamed?"
+msgstr "@niko …制御化されてない？"
+
+msgid "@prophet [There Was No Time.]"
+msgstr "@prophet [時間が足りなかったのでございます。]"
+
+msgid "@niko I see..."
+msgstr "@niko そうなんだ…"
+
+msgid "@niko So...\\.\\.\\n\\@niko_speak What is this prophecy, exactly?"
+msgstr "@niko それで…\\.\\.\\n\\@niko_speak その預言っていうのは、どういうお話なの？"
+
+msgid "@prophet [The Prophet Predicted That A Savior Will Arrive From Another Land.]"
+msgstr "@prophet [預言者は、救世主が他の大地から訪れてくる、\nと預言しました。]"
+
+msgid "@prophet [The Savior Will Wake Up In A Strange House, Find The Sun, And Illuminate The World.]"
+msgstr "@prophet [その救世主は奇妙な家で目覚め、\n太陽を見つけだし、そして世界を照らす、と。]"
+
+msgid "@niko Oh..."
+msgstr "@niko えっと…"
+
+msgid "@niko_speak What else did you... uh, foresee?"
+msgstr "@niko_speak 君は他に何を…その、予知したの？"
+
+msgid "@prophet [What Do You Mean?]"
+msgstr "@prophet [どういう意味でしょう？]"
+
+msgid "@niko_speak What else did you see in the prophecy?"
+msgstr "@niko_speak その預言で、他に何が見えたの？"
+
+msgid "@prophet [???]"
+msgstr "@prophet [？？？]"
+
+msgid "@niko_speak Wait...\\.\\. You ARE the prophet, right?"
+msgstr "@niko_speak 待って… \\.\\.君が預言者なんだよね？"
+
+msgid "@prophet [Good Heavens, No!]"
+msgstr "@prophet [まさか、違います！]"
+
+msgid "@niko_speak But you called it \"my prophecy\" earlier..."
+msgstr "@niko_speak でもさっき、「私の預言」って…"
+
+msgid "@prophet [That Just Means It Is Built Into My Programming.]"
+msgstr "@prophet [それはただ、ワタクシのプログラムに\n組み込まれている、という意味でございます。]"
+
+msgid "@niko ...Your... \\.\\.\\@niko_speak what?"
+msgstr "@niko プロ… \\.\\.\\@niko_speak なんて？"
+
+msgid "@prophet [Ah. My Programming Is What Guides Me.]"
+msgstr "@prophet [ワタクシを導くのは、\nワタクシのプログラムでございます。]"
+
+msgid "@prophet_hmm [I Am A Robot, After All.]"
+msgstr "@prophet_hmm [つまり、ワタクシはロボットなのでございます。]"
+
+msgid "@niko_speak How tall is the Tower?"
+msgstr "@niko_speak 塔ってどのくらい高いの？"
+
+msgid "@niko I can't seem to even see the top..."
+msgstr "@niko てっぺんまで見えないよ…"
+
+msgid "@prophet [I Am Not Allowed To Answer.]"
+msgstr "@prophet [それにお答えすることはできません。]"
+
+msgid "@niko But... how do I get up there?"
+msgstr "@niko でも… どうやって上まで登ればいいの？"
+
+msgid "@prophet [In Time, \\p Will Know What To Do.]"
+msgstr "@prophet [いずれ、 \\pが\n教えてくれるでしょう。]"
+
+msgid "@niko_eyeclosed I... see."
+msgstr "@niko_eyeclosed そっ…か。"
+
+msgid "@niko It's alright, thank you."
+msgstr "@niko 大丈夫、ありがとう。"
+
+msgid "@prophet [In That Case, I Wish You Safe Travels.]"
+msgstr "@prophet [それでは、\n安全な旅になるよう祈っております。]"
+
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [ロボットの残骸。]"
+
+msgid "@niko A robot."
+msgstr "@niko ロボットだ。"
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed 直せそうにないね。"
+

@@ -1,0 +1,60 @@
+msgid "@niko So this is the way out?"
+msgstr "@niko 그럼 이게 출구예요?"
+
+msgid "@silver [There wasn't any data on this path in the server room...]"
+msgstr "@silver [서버실에는 이 길에 대한 데이터가 전혀 없었어...]"
+
+msgid "@proto2 [It's new.]"
+msgstr "@proto2 [새로 생긴 길이거든.]"
+
+msgid "@proto1 [Niko, get in the minecart.]"
+msgstr "@proto1 [니코, 광산 수레에 타.]"
+
+msgid "@niko O-Okay."
+msgstr "@niko 알...겠어요..."
+
+msgid "@ed [I tried.]"
+msgstr "@ed [난 노력했어.]"
+
+msgid "@ed [I really did!]"
+msgstr "@ed [진짜야!]"
+
+msgid "@ed [But I...]"
+msgstr "@ed [하지만...]"
+
+msgid "@ed [...dE St ablIzi Nng]"
+msgstr "@ed [...난 불 ㅇㅏㄴ 정 해]"
+
+msgid "@ed [I'm sorry, Niko.]"
+msgstr "@ed [미안해, 니코.]"
+
+msgid "@ed [I    tR IE d tO PrOTE cT yOU.]"
+msgstr "@ed [널 ㅈㅣ키 ㄹ ㅕ 고했 어.]"
+
+msgid "@ed [...bu t c An't hold it o f f foRevER.]"
+msgstr "@ed [...하 지만 ㅇㅕㅇ 원 히ㅁㅏㄱ을 순 없 어.]"
+
+msgid "@niko3 What was that?"
+msgstr "@niko3 방금 뭐였지?"
+
+msgid "@proto_gasp2 [...HERE TOO?]"
+msgstr "@proto_gasp2 [...여기에도?]"
+
+msgid "@silver3 [Watch out!]"
+msgstr "@silver3 [조심해!]"
+
+msgid "@proto1 [Please keep moving forward.]"
+msgstr "@proto1 [계속 앞으로 가.]"
+
+msgid "@proto2b [...I would appreciate it if you do not linger here.]"
+msgstr "@proto2b [...꾸물거릴 시간이 없어.]"
+
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [안녕.]"
+
+msgid "@silver2 [I don't even know where this tunnel leads...]"
+msgstr "@silver2 [난 이 터널이 어디로 통하는지도 몰라...]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [가자.]"
+

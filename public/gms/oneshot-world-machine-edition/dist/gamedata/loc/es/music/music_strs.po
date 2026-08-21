@@ -1,0 +1,153 @@
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "Mi Carga Es Luz"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "Un Lugar Que Conozco"
+
+msgid "Phosphor=Phosphor"
+msgstr "Fósforo"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "La Profecía"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "Fábrica Abandonada"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "Silverpoint"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "La Máquina De La Divinidad"
+
+msgid "Rowbot=Rowbot"
+msgstr "Remobot"
+
+msgid "Geothermal=Geothermal"
+msgstr "Geotermia"
+
+msgid "Distant=Distant"
+msgstr "Distante"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "Hacia La Luz"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "Universo Autónomo (En Repetición)"
+
+msgid "Navigate=Navigate"
+msgstr "Navegar"
+
+msgid "ToSleep=To Sleep"
+msgstr "A Dormir"
+
+msgid "ToDream=To Dream"
+msgstr "A Soñar"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "Alula"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "Los Niños Y Niñas De Las Ruinas"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "Bastante Mal"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "En Los Pies Del Gatito"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "En El Interior"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "La Escalera Oscura"
+
+msgid "Sonder=Sonder"
+msgstr "Sonder"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "Un día bastante bueno, eh..."
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "Paseo Por La Biblioteca"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "Los Secretos"
+
+msgid "Factory=Factory"
+msgstr "La Fábrica"
+
+msgid "TheTower=The Tower"
+msgstr "La Torre"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "Niko Y La Máquina Del Mundo"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "Estoy aquí"
+
+msgid "Pretty=Pretty"
+msgstr "Bonito"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "Mundo Autónomo"
+
+msgid "Home=Thanks For Everything"
+msgstr "Gracias Por Todo"
+
+msgid "Countdown=Countdown"
+msgstr "Cuenta Atrás"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "Minas Profundas"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "Vestigio"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "Sonder (Extendida)"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "Fuera De Protocolo"
+
+msgid "Panic=Panic"
+msgstr "Pánico"
+
+msgid "Collapse=Collapse"
+msgstr "Collapso"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "Navegar (Extendida)"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "El Primer Universo"
+
+msgid "Aviator=Aviator"
+msgstr "Aviador"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "Último Momento"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "Rue"
+
+msgid "TheAuthor=The Author"
+msgstr "El Autor"
+
+msgid "computer_room=The World Machine"
+msgstr "La Máquina Del Mundo"
+
+msgid "Encounter=Encounter"
+msgstr "Encuentro"
+
+msgid "Solstice=Solstice"
+msgstr "Solsticio"
+
+msgid "Sunrise=Sunrise"
+msgstr "El Amanecer"
+
+msgid "InMemory=In Memory"
+msgstr "En La Memoria"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "ES HORA DE LUCHAR CONTRA LA SUCIEDAD"
+

@@ -1,0 +1,54 @@
+msgid "@niko It's the lightbulb.\\>\\n\\@niko_eyeclosed2 Thank goodness it's safe..."
+msgstr "@niko 是燈泡。\\>\\n\\@niko_eyeclosed2 它平安無事真是太好了……"
+
+msgid "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+msgstr "@niko_distressed2 ……\\>\\n\\@niko_sad ……"
+
+msgid "@niko_distressed2 ...I guess \\p isn't coming back..."
+msgstr "@niko_distressed2 ……\\p大概不會回來了……"
+
+msgid "[\"Niko, I'm here.\"]"
+msgstr "[\"霓光，我在這。\"]"
+
+msgid "@niko_pancakes ...\\p?"
+msgstr "@niko_pancakes ……\\p？"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"嗯？\"]"
+
+msgid "@niko_pancakes Is that... really you?"
+msgstr "@niko_pancakes 真的……是你嗎？"
+
+msgid "@niko_distressed2 I thought... you were gone..."
+msgstr "@niko_distressed2 我還以為……你不見了……"
+
+msgid "[\"I never left you.\", \"I'm back now.\"]"
+msgstr "[\"我從來沒有離開你身邊。\",\"我回來了。\"]"
+
+msgid "@niko_speak Oh! \\@niko_eyeclosed I was... feeling a bit scared back there..."
+msgstr "@niko_speak 喔！\\@niko_eyeclosed 我剛剛……覺得有點害怕……"
+
+msgid "@niko_speak I thought I was completely alone!"
+msgstr "@niko_speak 我以為我是孤單一個人！"
+
+msgid "@niko_eyeclosed But that was silly of me to assume, wasn't it?"
+msgstr "@niko_eyeclosed 不過我這樣假設有點蠢對不對？"
+
+msgid "@niko_speak Where did you go?"
+msgstr "@niko_speak 你去哪了啊？"
+
+msgid "@niko_eyeclosed I was so scared all by myself..."
+msgstr "@niko_eyeclosed 我一個人覺得好害怕……"
+
+msgid "@niko_speak ...but I guess... it's okay now."
+msgstr "@niko_speak ……不過我想……現在已經沒事了。"
+
+msgid "@niko Ah, guess we need to figure out where to go now, and-"
+msgstr "@niko 啊，我們應該弄清楚接下來要去哪，還有──"
+
+msgid "@niko The sun!\\>\\n\\@niko_speak It lit up on its own!"
+msgstr "@niko 太陽！\\>\\n\\@niko_speak 它自己亮起來了！"
+
+msgid "@niko Guess I should pick it up, right \\p?"
+msgstr "@niko 我應該把它拿起來，對不對，\\p？"
+

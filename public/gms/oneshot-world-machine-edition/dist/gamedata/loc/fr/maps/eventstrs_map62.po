@@ -1,0 +1,84 @@
+msgid "@niko ...\\>\\n\\@niko_speak Sure is taking a while..."
+msgstr "@niko ...\\>\\n\\@niko_speak Ça prend du temps..."
+
+msgid "@niko I guess this elevator leads to the top of the Tower, \\p..."
+msgstr "@niko J'imagine que cet ascenseur mène au sommet de la Tour, \\p..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...are you excited, \\p?\\>\\n\\@niko We're finally gonna save the world..."
+msgstr "@niko_speak ... Vous réalisez, \\p ?\\>\\n\\@niko Nous allons enfin sauver le monde..."
+
+msgid "@niko_speak And I know it's for real this time, cuz you're here!"
+msgstr "@niko_speak Et je sais que cette fois est la bonne, parce que vous êtes là !"
+
+msgid "@niko And then...\\>\\n\\@niko_speak ...I'll get to go home for real this time, too!"
+msgstr "@niko Et puis après...\\>\\n\\@niko_speak ... je pourrai rentrer chez moi pour de bon !"
+
+msgid "@niko I can't wait to see everyone again..."
+msgstr "@niko J'ai hâte de revoir tout le monde..."
+
+msgid "@niko_speak Are you okay, \\p?\\>\\n\\@niko You seem a little quiet..."
+msgstr "@niko_speak Est-ce que tout va bien, \\p ?\\>\\n\\@niko Vous ne dites plus rien..."
+
+msgid "[\"Niko.\", \"...\"]"
+msgstr "[\"Niko.\",\"...\"]"
+
+msgid "@niko_speak ...yeah?"
+msgstr "@niko_speak ... Oui ?"
+
+msgid "@niko_speak ...?"
+msgstr "@niko_speak ... ?"
+
+msgid "[\"I need to tell you something.\", \"...\"]"
+msgstr "[\"Je dois vous parler de quelque chose.\",\"...\"]"
+
+msgid "@niko ...I'm listening."
+msgstr "@niko ... J'écoute."
+
+msgid "@niko_speak What's going on, \\p?"
+msgstr "@niko_speak Que se passe-t-il, \\p ?"
+
+msgid "[\"We can't save both.\"]"
+msgstr "[\"Nous ne pouvons pas sauver les deux.\"]"
+
+msgid "@niko ...?"
+msgstr "@niko ... ?"
+
+msgid "[\"The world... and you...\"]"
+msgstr "[\"Le monde... et vous...\"]"
+
+msgid "@niko ...wh \\>\\@niko3 ...what's that supposed to mean, \\p?"
+msgstr "@niko ... Qu...\\>\\@niko3 ... Qu'est-ce que vous voulez dire, \\p ?"
+
+msgid "[\"To send you home...\"]"
+msgstr "[\"Pour vous renvoyer chez vous...\"]"
+
+msgid "[\"We must break the lightbulb.\"]"
+msgstr "[\"Nous devons briser l'ampoule.\"]"
+
+msgid "@niko_shock What??\\>\\n\\@niko3 ...But won't that... \\>\\n\\@niko_distressed2 ...But won't that end the world?"
+msgstr "@niko_shock Comment ?!\\>\\n\\@niko3 ... Mais ce serait...\\>\\n\\@niko_distressed2 ... Ce serait la fin du monde ?"
+
+msgid "[\"Yeah.\", \"...\"]"
+msgstr "[\"Oui.\",\"...\"]"
+
+msgid "@niko_eyeclosed I don't want that to happen..."
+msgstr "@niko_eyeclosed Je ne veux surtout pas que ça arrive..."
+
+msgid "@niko2 So... what happens when we save the world?\\>\\n\\@niko_distressed ...what happens to me...?"
+msgstr "@niko2 Alors... que se passera-t-il quand nous sauverons le monde ?\\>\\n\\@niko_distressed ... Que m'arrivera-t-il... ?"
+
+msgid "[\"I don't know.\", \"...\"]"
+msgstr "[\"Je l'ignore.\",\"...\"]"
+
+msgid "@niko_shock You... don't?"
+msgstr "@niko_shock Vous... l'ignorez ?"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed2 ....."
+msgstr "@niko_distressed2 ..."
+

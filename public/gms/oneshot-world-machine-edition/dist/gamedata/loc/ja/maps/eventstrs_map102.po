@@ -1,0 +1,318 @@
+msgid "@niko It's not safe to use this minecart anymore, \\p."
+msgstr "@niko このトロッコはもう安全じゃないよ、 \\p。"
+
+msgid "@niko_eyeclosed We can't use this anymore..."
+msgstr "@niko_eyeclosed もうこれは使えない…"
+
+msgid "@niko Still at it?"
+msgstr "@niko まだやってる？"
+
+msgid "@silver_eyeclosed [Still at it.]"
+msgstr "@silver_eyeclosed [まだやってる。]"
+
+msgid "@niko How's it going?"
+msgstr "@niko どう？"
+
+msgid "@silver_eyeclosed [Not ideal.]"
+msgstr "@silver_eyeclosed [あまり良くない。]"
+
+msgid "@silver [Looks like these terminals are running on a completely separate power source.]"
+msgstr "@silver [ここにあるターミナルは、どうやら別の\n動力源で動いているみたい。]"
+
+msgid "@silver2 [I can't really recognize any of the data formats on this terminal, either.]"
+msgstr "@silver2 [このターミナルにあるデータ形式も、\n何一つ認識できない。]"
+
+msgid "@silver2 [This is all... new....]"
+msgstr "@silver2 [どれも…新しい…]"
+
+msgid "@silver_eyeclosed [...or at least, encrypted.]"
+msgstr "@silver_eyeclosed […そうじゃなくても、暗号化は\nされているわね。]"
+
+msgid "@silver [I will need to analyze it through my own system.]"
+msgstr "@silver [私に搭載されているシステムを使って、\n分析してみる必要がありそう。]"
+
+msgid "@silver [Might take some time, so you don't need to stay.]"
+msgstr "@silver [時間がかかると思うから、ここで\n待っている必要はない。]"
+
+msgid "@silver [Oh, found another video feed...]"
+msgstr "@silver [む、またカメラ映像を見つけた…]"
+
+msgid "@silver2 [I should definitely go look for the cameras later.]"
+msgstr "@silver2 [これはもう、後でカメラを探しにいく\nしかないわね。]"
+
+msgid "@silver_eyeclosed [This is really bothering me...]"
+msgstr "@silver_eyeclosed [とてもモヤモヤする…]"
+
+msgid "@silver2 [This observation room... isn't for the mines...]"
+msgstr "@silver2 [この観測室は…鉱山用じゃない…]"
+
+msgid "@silver2 [I've actually never been into this particular one.]"
+msgstr "@silver2 [こんなところに来るのは初めてよ。]"
+
+msgid "@niko2 Really?"
+msgstr "@niko2 そうなの？"
+
+msgid "@niko You recognized it at first, though..."
+msgstr "@niko でも最初、ここは観測室の1つって…"
+
+msgid "@silver_eyeclosed [They all look the same.]"
+msgstr "@silver_eyeclosed [見た目はどれも一緒だから。]"
+
+msgid "@niko_eyeclosed Fair enough!"
+msgstr "@niko_eyeclosed そういうことね！"
+
+msgid "@silver2 [I did find something interesting, though.]"
+msgstr "@silver2 [でも、面白いことが分かった。]"
+
+msgid "@silver_lookup [All the databases seem to encode video feeds.]"
+msgstr "@silver_lookup [ここにあるデータベースには、カメラ映像が\n全てデータとして入っているの。]"
+
+msgid "@silver [Right now, I can see various places in the Barrens.]"
+msgstr "@silver [ちょうど今、不毛の地の\nいろんな場所が見えている。]"
+
+msgid "@silver [The outpost... the residential areas...]"
+msgstr "@silver [前哨地…住宅地…]"
+
+msgid "@silver2 [Even my own house.]"
+msgstr "@silver2 [私の家も見えるわ。]"
+
+msgid "@silver_eyeclosed [They're all shot from a top-down perspective, too.]"
+msgstr "@silver_eyeclosed [どれも、上から見下ろす視点になっている。]"
+
+msgid "@silver2 [...which means the cameras would have to be in the air.]"
+msgstr "@silver2 […つまり、カメラが上空にあるってこと。]"
+
+msgid "@silver_eyeclosed [But... I have never seen any cameras around.]"
+msgstr "@silver_eyeclosed [けれど…そんなの一度も見たことない。]"
+
+msgid "@niko_what That's kind of spooky!"
+msgstr "@niko_what ちょっと不気味だね！"
+
+msgid "@silver_eyeclosed [I might go investigate later, yeah.]"
+msgstr "@silver_eyeclosed [あとで調べてみるわ。]"
+
+msgid "@silver [Did you find anything interesting in the backroom?]"
+msgstr "@silver [奥の部屋で、何か面白いものは見つかった？]"
+
+msgid "@silver2 [You were in there for a while.]"
+msgstr "@silver2 [ずっとあそこにいたから。]"
+
+msgid "@niko_speak Yeah! We... \\.\\.\\@niko5 ...found...\\.\\. a"
+msgstr "@niko_speak うん！実はね… \\.\\.\\@niko5 …あっ…\\.\\.えっと"
+
+msgid "@niko6 ...a dead end?"
+msgstr "@niko6 …行き止まりだったよ？"
+
+msgid "@silver_eyeclosed [I see.]"
+msgstr "@silver_eyeclosed [そう。]"
+
+msgid "@silver [Come on, let's go back.]"
+msgstr "@silver [さあ、戻りましょ。]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [行きましょ。]"
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko 小さな機械だね。"
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko 何だろう？"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak ミーの髪がちょっと逆だってる気がする…"
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko パワーセル…\\nかな。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak 横に「預言者ロボ」って書いてるよ。"
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko 前は気づかなかったなあ。"
+
+msgid "@niko2 Oh, the cart's stopped!"
+msgstr "@niko2 あ、トロッコが止まったよ！"
+
+msgid "@niko_eyeclosed Looks like this is as far as the tracks go..."
+msgstr "@niko_eyeclosed ここで限界みたいだね…"
+
+msgid "@niko So...\\.\\.\\. where are we?"
+msgstr "@niko で…\\.\\.\\.ここは、どこ？"
+
+msgid "@silver_lookup [One of the old observation rooms.]"
+msgstr "@silver_lookup [以前まであった観測室の1つよ。]"
+
+msgid "@silver2 [Looks like it's still mostly intact.]"
+msgstr "@silver2 [ここはまだ、そこまで被害がないようね。]"
+
+msgid "@silver2 [What...?]"
+msgstr "@silver2 [え…？]"
+
+msgid "@niko2 Huh?"
+msgstr "@niko2 どうしたの？"
+
+msgid "@silver2 [The terminal just reactivated!]"
+msgstr "@silver2 [ターミナルが再起動した！]"
+
+msgid "@silver [But the power was cut off so long ago...]"
+msgstr "@silver [でも、電力はずっと前に断たれたはずじゃ…]"
+
+msgid "@niko6 Weird!"
+msgstr "@niko6 不思議だね！"
+
+msgid "@niko_speak Maybe... it runs on battery?"
+msgstr "@niko_speak もしかしたら…電池で動いてるのかも？"
+
+msgid "@silver_eyeclosed [No... that's not it.]"
+msgstr "@silver_eyeclosed [いいえ…違うわ。]"
+
+msgid "@silver2 [Whatever it is, I need to investigate.]"
+msgstr "@silver2 [とにかく、調査しなきゃ。]"
+
+msgid "@niko Okay..."
+msgstr "@niko 分かった…"
+
+msgid "@silver2 [Will you be okay by yourself for a bit?]"
+msgstr "@silver2 [少しの間、一人ぼっちにしてしまうけれど\n平気？]"
+
+msgid "@niko_speak Don't worry! \\p's with me!"
+msgstr "@niko_speak 心配しないで！\n\\p がついてるから！"
+
+msgid "@silver_eyeclosed [Alright. Stay safe.]"
+msgstr "@silver_eyeclosed [分かった。 気をつけてね。]"
+
+msgid "@niko4 I shouldn't get too close..."
+msgstr "@niko4 あんまり近づかないほうがいいね…"
+
+msgid "@niko Some sort of computer."
+msgstr "@niko 何かのコンピューター。"
+
+msgid "@ed [I remember it... what happened in the Tower.]"
+msgstr "@ed [思い出したぞ…塔で起きたことを。]"
+
+msgid "@ed [What I tried to do... and how you managed to see through it all.]"
+msgstr "@ed [私がしようとしていたことを…そして、\nおまえたちがそれを見抜いたことを。]"
+
+msgid "@ed [We HAVE been through all of this.]"
+msgstr "@ed [私たちはすでに、全てを経験している。]"
+
+msgid "@ed [Even though it was only supposed to run once... you still managed to come back.]"
+msgstr "@ed [一度しか実行されないはずだった\nのにも関わらず、おまえは戻ってきた。]"
+
+msgid "@ed [...How did you come back?]"
+msgstr "@ed […どうやって戻ってきた？]"
+
+msgid "@ed [...How did you bring Niko back?]"
+msgstr "@ed […どうやって、ニコを連れ戻した？]"
+
+msgid "@ed [And then, you even managed to break out of bounds.]"
+msgstr "@ed [しかも、おまえは境界まで打ち破った。]"
+
+msgid "@ed [Bringing Niko to places that never should have been.]"
+msgstr "@ed [ニコを、連れていってはいけない場所に\n連れていった。]"
+
+msgid "@ed [It was HIM, wasn't it?]"
+msgstr "@ed [全て、あいつの仕業なんだろう？]"
+
+msgid "@ed [And now... now....]"
+msgstr "@ed [そして今…いま…]"
+
+msgid "@ed [Niko is upset.]"
+msgstr "@ed [ニコは動揺している。]"
+
+msgid "@ed [What even happened in that room back there?]"
+msgstr "@ed [あの部屋で一体何があった？]"
+
+msgid "@ed [What did Niko learn?]"
+msgstr "@ed [ニコは何を知った？]"
+
+msgid "@ed [I can feel it.]"
+msgstr "@ed [私には分かる。]"
+
+msgid "@ed [I told you to turn back, \\p!]"
+msgstr "@ed [戻れと言ったはずだ、 \\p！]"
+
+msgid "@ed [But you've chosen to trust that man instead of me.]"
+msgstr "@ed [にも関わらず、おまえはこの私ではなく、\nあいつを信用した。]"
+
+msgid "@ed [...No, not even that.]"
+msgstr "@ed […いや、正確に言えば――]"
+
+msgid "@ed [Just his book.]"
+msgstr "@ed [あいつの本を。]"
+
+msgid "@ed [His ghost.]"
+msgstr "@ed [あいつの亡霊を。]"
+
+msgid "@ed [This world is not real.]"
+msgstr "@ed [この世界は本物ではない。]"
+
+msgid "@ed [The people are not real.]"
+msgstr "@ed [ここに住む人々も、本物ではない。]"
+
+msgid "@ed [Niko... is....]"
+msgstr "@ed [ニコ…は…]"
+
+msgid "@ed [No no no no no.]"
+msgstr "@ed [いや、違う。違う違う違う。]"
+
+msgid "@ed [Everything.]"
+msgstr "@ed [全て。]"
+
+msgid "@ed [Is.]"
+msgstr "@ed [何もかもが。]"
+
+msgid "@ed [  W  r  o  n  g  !  !  ]"
+msgstr "@ed [　間　違　っ　て　い　る　ん　だ　！　！　]"
+
+msgid "@niko_shock AH!!"
+msgstr "@niko_shock ああ！！"
+
+msgid "@silver_worry [...The minecart!]"
+msgstr "@silver_worry […トロッコが！]"
+
+msgid "@silver3 [Earthquake...]"
+msgstr "@silver3 [地震…]"
+
+msgid "@niko_surprised Th-\\.\\.the tunnel back out just collapsed!"
+msgstr "@niko_surprised で、\\.\\.出口のトンネルが崩れた！"
+
+msgid "@silver_worry [No!!]"
+msgstr "@silver_worry [そんな！！]"
+
+msgid "@niko3 What are we gonna do?!"
+msgstr "@niko3 どうしたらいいの？！"
+
+msgid "@silver_worry [I....]"
+msgstr "@silver_worry [ええと…]"
+
+msgid "@proto1 [Wait.]"
+msgstr "@proto1 [落ち着いて。]"
+
+msgid "@proto2 [The exit just caved, didn't it.]"
+msgstr "@proto2 [出口が崩れてしまったのか。]"
+
+msgid "@proto2b [Sigh.]"
+msgstr "@proto2b [はぁ。]"
+
+msgid "@proto2 [I saw this coming, but this is a bit more sudden than I anticipated.]"
+msgstr "@proto2 [こうなることは予想してたけど、\n思ってたよりも早かった。]"
+
+msgid "@proto1 [Both of you. Follow me.]"
+msgstr "@proto1 [2人とも、ついてきて。]"
+
+msgid "@niko3 Where to?"
+msgstr "@niko3 どこに行くの？"
+
+msgid "@proto1 [The way out.]"
+msgstr "@proto1 [別の出口。]"
+
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko ちっちゃな光るエビが\nビンの中でたくさん泳いでる。"
+
+msgid "@niko3 I shouldn't get too close..."
+msgstr "@niko3 あまり近づかない方がいいな…"
+

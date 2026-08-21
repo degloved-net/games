@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /maps/eventstrs_map228.po\n"
+"X-Crowdin-File-ID: 33\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-07-09 15:32\n"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh!"
+
+msgid "@niko So that's where this leads."
+msgstr "@niko Quindi è qui che porta."
+
+msgid "@plight Welp, looks like this elevator works alright."
+msgstr "@plight Beh, sembra che questo ascensore funzioni bene."
+
+msgid "@plight_2 I'll uh...\\.\\. go get the evacuees, I suppose..."
+msgstr "@plight_2 Ehm...\\.\\. Suppongo che andrò a prendere gli altri sfollati..."
+
+msgid "@niko Mhm!"
+msgstr "@niko Mhm!"
+
+msgid "@plight_worry UM."
+msgstr "@plight_worry EHM."
+
+msgid "@plight_scared WHAT IS GOING ON."
+msgstr "@plight_scared MA CHE SUCCEDE?"
+
+msgid "@niko_shock Nooo!!!!"
+msgstr "@niko_shock Nooo!!!!"
+
+msgid "@plight_scared It's... the square stuff, isn't it?"
+msgstr "@plight_scared È... quella roba quadrata, vero?"
+
+msgid "@plight_worry2 There aren't any in here but..."
+msgstr "@plight_worry2 Non è entrata qui, ma..."
+
+msgid "@plight_worry I can hear them just outside the door..."
+msgstr "@plight_worry Sento che è proprio fuori dalla porta..."
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 Già..."
+
+msgid "@niko3 H-hold on! \\@niko2 Maybe \\p and I can..."
+msgstr "@niko3 A-aspetta! \\@niko2 Forse \\p ed io possiamo..."
+
+msgid "@plight_worry No, no, it's okay!"
+msgstr "@plight_worry No, no, va tutto bene!"
+
+msgid "@plight_worry2 Looks like the squares aren't inside the elevator....\\>\\n\\@plight_sigh yet."
+msgstr "@plight_worry2 Sembra che i quadrati non siano ancora entrati dentro all'ascensore...\\>\\n\\@plight_sigh per ora."
+
+msgid "@plight_worry You're... in a hurry, right?"
+msgstr "@plight_worry Devi sbrigarti, giusto?"
+
+msgid "@plight_worry2 Go do...\\.\\. what you need to do...."
+msgstr "@plight_worry2 Vai...\\.\\. a fare quel che devi..."
+
+msgid "@niko3 But... what about you?"
+msgstr "@niko3 Ma... tu cosa farai?"
+
+msgid "@plight_worry I'll... \\.\\.figure something out..."
+msgstr "@plight_worry Beh... \\.\\.mi inventerò qualcosa..."
+
+msgid "@niko4 Okay..."
+msgstr "@niko4 Ok..."
+
+msgid "@niko This door won't budge..."
+msgstr "@niko Questa porta non si smuove..."
+
+msgid "@niko_distressed2 .\\..\\..\\.."
+msgstr "@niko_distressed2 .\\..\\.."
+
+msgid "@niko3 ...you okay in there?"
+msgstr "@niko3 ...Va tutto bene lì dentro?"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 ...hello?"
+msgstr "@niko3 ...Ci sei?"
+
+msgid "@plight_worry ...mostly."
+msgstr "@plight_worry ...Direi di sì."
+
+msgid "@plight_worry2 ...look, don't worry about me for now, okay?"
+msgstr "@plight_worry2 ...Senti, non preoccuparti per me adesso, ok?"
+
+msgid "@plight_sigh You got more important stuff to deal with..."
+msgstr "@plight_sigh Hai cose più importanti da fare..."
+
+msgid "@niko2 ...let's see if this elevator works."
+msgstr "@niko2 ...Vediamo se riusciamo a far funzionare questo ascensore."
+

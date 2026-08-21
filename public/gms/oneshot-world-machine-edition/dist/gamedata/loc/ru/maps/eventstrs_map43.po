@@ -1,0 +1,249 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown Алула?\\>\\nАлула? Куда ты делась?"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p, ты это слышишь?"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown Алула!"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko Думаю, этот звук идёт с юго-востока."
+
+msgid "@niko It's full of eels!"
+msgstr "@niko Тут полно угрей!"
+
+msgid "@niko_what Wait, no..."
+msgstr "@niko_what Ой, нет..."
+
+msgid "@niko_wtf2 It's full of snakes..."
+msgstr "@niko_wtf2 Тут полно змей..."
+
+msgid "@niko_eyeclosed Snakes..."
+msgstr "@niko_eyeclosed Змеи..."
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[ПРОИЗВОДИТСЯ СБОР ОБРАЗЦОВ ВОДЫ...]"
+
+msgid "@calamus_speak Hey! You there!"
+msgstr "@calamus_speak Эй! Эй ты!"
+
+msgid "@calamus Have you seen a little girl?"
+msgstr "@calamus Ты не видел маленькую девочку?"
+
+msgid "@calamus She's a little bit shorter than you, and-"
+msgstr "@calamus Она немного ниже тебя и..."
+
+msgid "@calamus_speak Wait...\\.! That's... the sun."
+msgstr "@calamus_speak Погоди-ка!..\\. Это же... солнце."
+
+msgid "@calamus Are you our savior?"
+msgstr "@calamus Ты наш спаситель?"
+
+msgid "@niko I... yeah?"
+msgstr "@niko Я... Да."
+
+msgid "@calamus_shame Oh my stars!"
+msgstr "@calamus_shame О, звёзды небесные!"
+
+msgid "@calamus_shame Sorry for my rudeness!"
+msgstr "@calamus_shame Прошу прощения за мою грубость!"
+
+msgid "@niko Huh? It's alright..."
+msgstr "@niko Эм? Всё в порядке..."
+
+msgid "@niko_speak Are you looking for someone?"
+msgstr "@niko_speak Ты кого-то ищешь?"
+
+msgid "@calamus_sad My little sister... she's been gone for three days now."
+msgstr "@calamus_sad Младшую сестру... Её нет уже три дня."
+
+msgid "@calamus I've been looking all over, but..."
+msgstr "@calamus Я всё вокруг обыскал, но..."
+
+msgid "@niko What does she look like?"
+msgstr "@niko Как она выглядит?"
+
+msgid "@calamus_speak Um...\\. a little shorter than you, long blue hair, two blue feathers on top of her head..."
+msgstr "@calamus_speak Эм...\\. Немного ниже тебя. Длинные синие волосы, а на голове два синих пера..."
+
+msgid "@niko I'm sorry, I haven't seen anyone like that..."
+msgstr "@niko Прости, но никого похожего я не видел..."
+
+msgid "@niko_speak Where was the last place you saw her?"
+msgstr "@niko_speak Где ты видел её в последний раз?"
+
+msgid "@calamus_speak Back inside the ruins."
+msgstr "@calamus_speak В руинах."
+
+msgid "@calamus She said she was headed towards the forest, so I'm waiting here now."
+msgstr "@calamus Она сказала, что идёт в лес, и вот я её тут жду."
+
+msgid "@calamus_sad I ran out of places to look..."
+msgstr "@calamus_sad Я везде её искал..."
+
+msgid "@alula_gasp Calamus!"
+msgstr "@alula_gasp Каламус!"
+
+msgid "@calamus_speak Alula!"
+msgstr "@calamus_speak Алула!"
+
+msgid "@calamus You're okay!"
+msgstr "@calamus Ты жива!"
+
+msgid "@calamus_sad Thank goodness..."
+msgstr "@calamus_sad Слава богу..."
+
+msgid "@niko Are you from the village?"
+msgstr "@niko Вы из деревни?"
+
+msgid "@calamus No..."
+msgstr "@calamus Нет..."
+
+msgid "@calamus_speak I don't remember why, but our father left the village while we were still young."
+msgstr "@calamus_speak Не помню почему, но наш отец ушёл из деревни, когда мы были ещё совсем маленькие."
+
+msgid "@calamus We've lived in the ruins ever since."
+msgstr "@calamus С тех пор мы живём в руинах."
+
+msgid "@calamus_sad ...Well, it's just Alula and I now."
+msgstr "@calamus_sad Ну... сейчас мы с Алулой остались одни."
+
+msgid "@calamus_sad I can't lose her too..."
+msgstr "@calamus_sad Я не могу потерять ещё и её..."
+
+msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
+msgstr "@calamus_speak Алула — всё, что у меня есть.\\nЯ не могу её потерять..."
+
+msgid "@alula_pout I was trapped inside this room and it was really scary..."
+msgstr "@alula_pout Я застряла в этой комнате. Было жутко страшно..."
+
+msgid "@alula ...but then, the messiah saved me!"
+msgstr "@alula Но потом пришёл мессия и спас меня!"
+
+msgid "@calamus ...trapped?\\> In the ruins?"
+msgstr "@calamus Застряла?\\> В руинах?"
+
+msgid "@alula_oh Yeah!\\|"
+msgstr "@alula_oh Ага!\\|"
+
+msgid "@alula_pout There was that weird stuff in the door!"
+msgstr "@alula_pout Там в дверях была такая странная штуковина!"
+
+msgid "@alula_oh You know, the floating squares we see next to the ocean sometimes?"
+msgstr "@alula_oh Знаешь, такой летающий квадрат, какие мы иногда видим у океана?"
+
+msgid "@alula_oh The stuff you told me to stay away from?"
+msgstr "@alula_oh От которых ты велел мне держаться подальше."
+
+msgid "@calamus_shock What!?"
+msgstr "@calamus_shock Что?!"
+
+msgid "@calamus_shock It's... spread to the ruins now?"
+msgstr "@calamus_shock Они уже... добрались до руин?"
+
+msgid "@calamus_sad This isn't good..."
+msgstr "@calamus_sad Это плохо..."
+
+msgid "@alula_speak Don't worry! I didn't touch it!"
+msgstr "@alula_speak Не волнуйся! Я его не трогала!"
+
+msgid "@alula I'm not hurt or anything..."
+msgstr "@alula Я не ранена, ничего такого..."
+
+msgid "@calamus_sad Still... If it gets any worse, we might have to find somewhere else to live..."
+msgstr "@calamus_sad И всё же... Если ситуация ухудшится, нам придётся искать себе другой дом..."
+
+msgid "@niko What is this... square... stuff, exactly?"
+msgstr "@niko А что это за квадраты?"
+
+msgid "@calamus_sad Bad."
+msgstr "@calamus_sad Они плохие."
+
+msgid "@calamus Anything that touches them just... sorta..."
+msgstr "@calamus Всё, к чему они прикасаются, просто... как бы..."
+
+msgid "@calamus_sad ...Gets... messed up."
+msgstr "@calamus_sad Запутывается..."
+
+msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
+msgstr "@calamus_sad Когда ты слышишь, как люди говорят, что мир распадается, именно это они и имеют в виду..."
+
+msgid "@calamus_speak Obviously, you should avoid them too."
+msgstr "@calamus_speak И тебе тоже лучше к ним не приближаться."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Конечно!"
+
+msgid "@calamus_speak Anyway, ah..."
+msgstr "@calamus_speak В общем, ладно..."
+
+msgid "@calamus I can't thank you enough for rescuing my sister, savior..."
+msgstr "@calamus Я не знаю, как тебя благодарить, спаситель, за то, что ты помог моей сестре..."
+
+msgid "@niko_speak Just call me Niko!"
+msgstr "@niko_speak Зови меня просто Нико!"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame Во дела! А это не слишком грубо — называть тебя по имени?"
+
+msgid "@niko Huh?\\>\\n\\@niko_speak Why would it be?"
+msgstr "@niko Что?\\>\\n\\@niko_speak Почему это должно звучать грубо?"
+
+msgid "@niko I mean, I'm just a kid like you guys..."
+msgstr "@niko Ребята, я такой же ребёнок, как вы..."
+
+msgid "@calamus_shame Ah..."
+msgstr "@calamus_shame А-а..."
+
+msgid "@calamus_smile Then... would you like to visit our house, Niko?"
+msgstr "@calamus_smile Тогда... Нико, ты не хотел бы заглянуть к нам в гости?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@alula_speak Yaaaay!"
+msgstr "@alula_speak Ура-а-а!"
+
+msgid "@alula Let's go!"
+msgstr "@alula Идём!"
+
+msgid "@niko_speak I'm sorry, but I think \\p might want to go somewhere else right now!"
+msgstr "@niko_speak Прошу прощения, но сейчас \\p и я должны идти в другое место!"
+
+msgid "@calamus_smile That's fine.\\.\\. I'm sure you both have more important things to do right now."
+msgstr "@calamus_smile Ничего страшного.\\.\\. Я уверен, у вас обоих сейчас полно более важных дел."
+
+msgid "@calamus_smile But feel free to drop by if you change your mind."
+msgstr "@calamus_smile Но если передумаешь, заходи обязательно."
+
+msgid "@alula_speak Yeah!\\.\\. We have something nice to give you, Niko!"
+msgstr "@alula_speak Да!\\.\\. У нас для тебя есть кое-что прикольное, Нико!"
+
+msgid "@alula We live in the ruins.\\| So don't forget!"
+msgstr "@alula Мы живём в руинах.\\| Не забудь!"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak О, кстати, что случилось с солнцем?"
+
+msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel the sun again, before.\\..\\.."
+msgstr "@niko Я одолжил его одной девушке в руинах.\\nОна сказала, что хотела бы снова ощутить солнце, прежде чем.\\..\\.."
+
+msgid "@calamus Oh, Maize.\\nI've met her before, too."
+msgstr "@calamus А, Маиза.\\nЯ тоже её видел."
+
+msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
+msgstr "@calamus Раньше тут было намного больше людей-растений...\\nТак мне говорил отец."
+
+msgid "@calamus I guess they've all...\\. gone."
+msgstr "@calamus Думаю, они все...\\. погибли."
+
+msgid "@niko_eyeclosed I'm glad she got to see the sun again, at least."
+msgstr "@niko_eyeclosed Я рад, что ей удалось ещё раз посмотреть на солнце."
+
+msgid "This is the best fishing spot I've found yet!"
+msgstr "Это лучшее место для рыбалки из тех, что мне попадались!"
+
+msgid "All the fish I catch here are longer than my arm!"
+msgstr "Вся рыба, которую я тут ловлю, длиннее моей руки!"
+

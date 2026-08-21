@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [\\c[7]TV 리모컨\\c[0]이 놓여 있다.]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [니코는 리모컨을 집어 들었다.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak 저, 저기요?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [먼지투성이 책들이다.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [여긴 너무 어두워 책을 읽을 수 없다.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 안 켜지네."
+
+msgid "Input Password:"
+msgstr "비밀번호를 입력하십시오."
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]접근 승인."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop 날 찾았구나."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop ...왜지?"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop 너무 늦었어.\\n이 세계는\\n거의 붕괴됐어."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 여기서 나가는 순간\\n확실히 알게 될 거야."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop 이젠 구해야 할\\n의미도 없어졌어."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop ...그래도 시도해 보고 싶어?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop 그렇다면, 이것만 기억해."
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 네가 여기서 하는 행동은\\n니코에게 영향을 미칠 거야."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 너의 \"임무\"는,\\n니코가 떠날 수 있게 돕는 거지."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop 무엇보다 중요한 건..."
+
+msgid "You only have one shot, \\p."
+msgstr "기회는 한 번뿐이야, \\p."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [니코는 문의 잠금장치가 열리는 소리를 들었다.]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]접근 거부."
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [니코가 방금 전에 일어난 곳이다.]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [문이 굳게 잠겨 있다.]"
+

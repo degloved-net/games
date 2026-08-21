@@ -1,0 +1,156 @@
+msgid "@niko The pathway is blocked...."
+msgstr "@niko O caminho está bloqueado..."
+
+msgid "@niko_speak ...by blocks!"
+msgstr "@niko_speak ... por blocos!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_what2 Waaaait a minute.\\>\\n\\@niko_eyeclosed I remember something about this..."
+msgstr "@niko_what2 Espeeera aí.\\>\\n\\@niko_eyeclosed Lembro de alguma coisa sobre isso..."
+
+msgid "@niko_83c Never knew it'd be so easy!"
+msgstr "@niko_83c Nunca pensei que seria tão fácil!"
+
+msgid "@niko_what ...\\>(ow my foot ow)"
+msgstr "@niko_what ...\\>(ai, ai, meu pé)"
+
+msgid "@niko3 The squares are blocking the doorway..."
+msgstr "@niko3 Os quadrados estão bloqueando a entrada..."
+
+msgid "@alula_pout Oh...\\>\\nThe door..."
+msgstr "@alula_pout Ah... \\>\\nA porta..."
+
+msgid "@calamus_sad I knew we'd lose our home eventually, but...\\>\\nI wasn't expecting it to happen so soon..."
+msgstr "@calamus_sad Sabia que perderíamos nossa casa uma hora, mas... \\>\\nNão esperava que fosse tão cedo..."
+
+msgid "@niko_shock Oh jeez! \\>\\n\\@niko3 Are you guys okay?"
+msgstr "@niko_shock Nossa! \\>\\n\\@niko3 Vocês estão bem?"
+
+msgid "@calamus_shame Oh my stars!\\>\\nYou're... the savior!"
+msgstr "@calamus_shame Pelas estrelas!\\>\\nVocê é... o messias!"
+
+msgid "@alula_gasp !!!"
+msgstr "@alula_gasp !!!"
+
+msgid "@calamus Um....\\.\\. uh...."
+msgstr "@calamus Ahm....\\.\\.é...."
+
+msgid "@calamus_shame It's an honor to meet you!"
+msgstr "@calamus_shame É uma honra te conhecer!"
+
+msgid "@alula_gasp Yes!"
+msgstr "@alula_gasp Sim!"
+
+msgid "@calamus_heh I'd invite you inside, but as you can see, our home is..."
+msgstr "@calamus_heh Eu te convidaria para entrar, mas como pode ver, nossa casa está..."
+
+msgid "@alula_gasp It's got squares in it!"
+msgstr "@alula_gasp Está cheia de quadrados!"
+
+msgid "@calamus_sad Yes, Alula, thank you."
+msgstr "@calamus_sad Isso, Alula, obrigado."
+
+msgid "@niko3 It's... \\.\\.getting everywhere now... isn't it?"
+msgstr "@niko3 Está... \\.\\.se espalhando por toda a parte... não é?"
+
+msgid "@calamus Hm?"
+msgstr "@calamus Hm?"
+
+msgid "@niko3 The squares... there are way more than before!"
+msgstr "@niko3 Os quadrados... tem muito mais do que antes!"
+
+msgid "@niko_speak Even the gate to the Refuge is destroyed now. \\>\\n\\@niko3 That didn't happen last time!"
+msgstr "@niko_speak Até o portão para o Refúgio foi destruído. \\>\\n\\@niko3 Isso não aconteceu da última vez!"
+
+msgid "@calamus_speak ...last time?"
+msgstr "@calamus_speak ... última vez?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@calamus ....."
+msgstr "@calamus ....."
+
+msgid "@niko5 Uhh...\\> \\@niko6 nothing!"
+msgstr "@niko5 Ahm... \\>\\@niko6 nada!"
+
+msgid "@niko_what2 (almost let that slip, \\p...)"
+msgstr "@niko_what2 (quase falei demais, \\p...)"
+
+msgid "@niko Guess I should introduce myself again...\\>\\n\\@niko_speak My name is Niko!"
+msgstr "@niko Vou me apresentar de novo... \\>\\n\\@niko_speak Meu nome é Niko!"
+
+msgid "@calamus_speak Ni...\\.\\.ko..."
+msgstr "@calamus_speak Ni... \\.\\.ko..."
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame Oh, céus! Não seria rude chamar você pelo nome?"
+
+msgid "@niko_speak No worries, Calamus!"
+msgstr "@niko_speak Tudo bem, Calamus!"
+
+msgid "@calamus_shame HOW DID YOU KNOW MY NAME!?"
+msgstr "@calamus_shame COMO VOCÊ SABE MEU NOME?!"
+
+msgid "@niko2 I... \\.\\.um... \\.\\.\\@niko_what uh..."
+msgstr "@niko2 Eu... \\.\\.ahm... \\.\\.\\@niko_what ahm..."
+
+msgid "@niko_what2 (not again!)"
+msgstr "@niko_what2 (de novo não!)"
+
+msgid "@alula_speak The messiah just knows these things, Calamus!"
+msgstr "@alula_speak O messias sabe das coisas, Calamus!"
+
+msgid "@alula Riiiight?"
+msgstr "@alula Não é?"
+
+msgid "@niko_speak Y-yes! Of course!"
+msgstr "@niko_speak ... É! Sim!"
+
+msgid "@niko_eyeclosed (phew)"
+msgstr "@niko_eyeclosed (ufa)"
+
+msgid "@calamus Ah... you were saying... about the gate?"
+msgstr "@calamus Ah... você tava falando... do portão?"
+
+msgid "@niko_speak Oh, right!"
+msgstr "@niko_speak Ah, isso!"
+
+msgid "@niko_eyeclosed Looks like I can't get in the city through the old gate anymore..."
+msgstr "@niko_eyeclosed Parece que não consigo mais entrar na cidade pelo antigo portão..."
+
+msgid "@niko_speak Do... either of you know another way to get in?"
+msgstr "@niko_speak Vocês... conhecem outro jeito de entrar?"
+
+msgid "@niko I remember... \\.\\.\\@niko_speak I mean, I HEARD that there's some sort of hidden passage around here somewhere!"
+msgstr "@niko Eu me lembro... \\.\\.\\@niko_speak Quer dizer, OUVI dizer que tem uma passagem secreta em algum lugar!"
+
+msgid "@calamus_speak Oh!\\>\\nThe passage to the burial grounds?"
+msgstr "@calamus_speak Ah!\\>\\nA passagem no cemitério?"
+
+msgid "@niko_speak That's the one!"
+msgstr "@niko_speak Essa mesmo!"
+
+msgid "@calamus Oh... but I'm not sure if that'll be of any use here..."
+msgstr "@calamus Ah... mas não sei se ela vai mesmo servir..."
+
+msgid "@calamus_sad It's been flooded for a long time, and there's no boat..."
+msgstr "@calamus_sad Ela está inundada há muito tempo e não temos nenhum barco..."
+
+msgid "@calamus Not to mention, the burial grounds itself is pretty far from the city!"
+msgstr "@calamus Sem falar que o cemitério fica muito longe da cidade!"
+
+msgid "@niko_speak That's ok! I would still like to see it!"
+msgstr "@niko_speak Sem problema! Mesmo assim eu quero dar uma olhada!"
+
+msgid "@niko_eyeclosed It's the only lead we have..."
+msgstr "@niko_eyeclosed É a única pista que nós temos..."
+
+msgid "@calamus Alright, in that case..."
+msgstr "@calamus Tudo bem nesse caso..."
+
+msgid "@calamus_smile ...please follow us."
+msgstr "@calamus_smile ... siga-nos."
+

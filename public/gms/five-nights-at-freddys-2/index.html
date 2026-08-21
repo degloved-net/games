@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>FNaF 2</title>
+
+    <!-- Local styles -->
+    <link rel="stylesheet" href="scripts/style.css">
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="favicon/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+
+    <!-- Runtime engine -->
+    <script src="src/Runtime.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #000;
+            text-align: center;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+
+<div style="display: inline-block; -webkit-user-select: none; text-align: left;">
+    <canvas id="MMFCanvas" width="1024" height="768">
+        Your browser does not support Canvas.
+    </canvas>
+</div>
+
+<script>
+    // Start engine when the page loads
+    window.addEventListener("load", function () {
+        new Runtime("MMFCanvas", "resources/FNAF2HTML5.cch");
+    });
+</script>
+
+</body>
+</html>

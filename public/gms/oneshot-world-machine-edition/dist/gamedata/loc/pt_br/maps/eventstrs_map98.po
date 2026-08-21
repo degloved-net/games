@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31] LUZES CORRETAS.]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][ACESSO CONCEDIDO!]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][ACESSO NEGADO. \\v[37] TENTATIVAS RESTANTES.]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][INTRUSO DETECTADO. REDEFININDO MECANISMO DE TRAVAMENTO.]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed Ah... Hora de começar de novo..."
+
+msgid "[HALT!]"
+msgstr "[PARE!]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[AGUARDE MAIS INFORMAÇÕES DO TESTE DE SEGURANÇA.]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[FALE COM O ROBÔ DA PORTA.]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko Abrimos a fechadura!"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[O SISTEMA DE SEGURANÇA FOI TEMPORARIAMENTE DESATIVADO.]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[REINICIÁ-LO?]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ... eu não quero passar por ISSO novamente..."
+
+msgid "@niko_what um..."
+msgstr "@niko_what Hm..."
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko Como vou... resolver isso..."
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[ISSO FAZ PARTE DO TESTE.]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed Poxa."
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[PARA GARANTIR MAIS ACESSO AOS LABORATÓRIOS...]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[É NECESSÁRIO PASSAR PELO TESTE DO SISTEMA DE SEGURANÇA.]"
+
+msgid "@niko The... huh?"
+msgstr "@niko O... hm?"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[É NECESSÁRIO ALTERAR A COR DAS LUZES PARA UMA CONFIGURAÇÃO ESPECÍFICA.]"
+
+msgid "[ALLOW ME.]"
+msgstr "[PERMITA-ME.]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed Trancado."
+

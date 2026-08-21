@@ -1,0 +1,297 @@
+msgid "@niko_speak A streetlamp!\\>\\n\\@niko This one seems taller than the others..."
+msgstr "@niko_speak 가로등이에요!\\>\\n\\@niko 보통 가로등보다 키가 커요..."
+
+msgid "@niko \\p and I fixed the camera!"
+msgstr "@niko \\p 님과 제가 카메라를 고쳤어요!"
+
+msgid "Aw, sweet!"
+msgstr "오, 잘됐네!"
+
+msgid "Are you here for your photos?"
+msgstr "사진을 찍으러 왔니?"
+
+msgid "@niko_speak Actually, yeah!"
+msgstr "@niko_speak 네, 맞아요!"
+
+msgid "@niko I need to take a picture for....\\. reasons."
+msgstr "@niko 여러 가지 일이 있어서...\\. 사진을 찍으려고요."
+
+msgid "Well, I got good news and bad news."
+msgstr "음, 좋은 소식과 나쁜 소식이 있어."
+
+msgid "The good news is that the photo center is right behind me."
+msgstr "좋은 소식은 사진관이 내 바로 뒤에 있다는 거야."
+
+msgid "@niko The bad news is that.... it doesn't work, right?"
+msgstr "@niko 나쁜 소식은... 카메라가 작동하지 않는다는 것, 맞죠?"
+
+msgid "Heh, you're catching on quick."
+msgstr "헤헤, 눈치 한번 빠르구나."
+
+msgid "After operations ended in the Barrens, this place got shut down."
+msgstr "불모지에서의 작업이 중단되면서 여기도 폐쇄됐거든."
+
+msgid "All of the engineers lost their jobs and became street vendors."
+msgstr "일자리를 잃은 기술자들이 지금은 노점상을 하고 있어."
+
+msgid "@niko_speak Maybe \\p and I can figure it out from them!"
+msgstr "@niko_speak 아마 \\p 님과 제가 그 분들에게서 정보를 알아낼 수 있을 것 같아요!"
+
+msgid "That's good!"
+msgstr "좋은 생각이야!"
+
+msgid "It would certainly help out people with expired IDs."
+msgstr "카메라를 고치면 신분증이 만료돼 버린 사람들에게 도움이 되겠지."
+
+msgid "...Like me."
+msgstr "...나처럼."
+
+msgid "@niko No?"
+msgstr "@niko 아뇨."
+
+msgid "Alrighty then."
+msgstr "그럼, 좋아."
+
+msgid "I'll just... uh..."
+msgstr "난... 그냥... 어..."
+
+msgid "...stand here."
+msgstr "...여기 있을게."
+
+msgid "@niko This stand smells a bit like burnt sugar..."
+msgstr "@niko 이 가판대에서는 설탕이 타는 냄새가 나네요..."
+
+msgid "Yup... still gettin' the hang of making these fried candy skewers..."
+msgstr "맞아. 이 사탕 꼬치 만드는 법을 배우는 중이거든..."
+
+msgid "They don't taste too bad, though! Do you want one?"
+msgstr "맛은 괜찮단다! 하나 줄까?"
+
+msgid "@niko It's okay, thank you!"
+msgstr "@niko 괜찮아요. 고맙습니다!"
+
+msgid "@niko_speak You used to be one of the camera engineers, right?"
+msgstr "@niko_speak 카메라 기술자 중 한 분이셨죠?"
+
+msgid "The camera? Oh, joyous memories. We went through thick and thin together."
+msgstr "카메라라고? 아, 옛날 생각이 나는군."
+
+msgid "And by that I mean the concave lens did."
+msgstr "오목렌즈는 두꺼운 것과 얇은 것 사이에 와야 돼."
+
+msgid "@niko_speak This smells kinda nice!"
+msgstr "@niko_speak 냄새가 참 좋네요!"
+
+msgid "@niko What is it?"
+msgstr "@niko 그건 뭔가요?"
+
+msgid "Breaded fish!"
+msgstr "빵가루를 입힌 생선이란다!"
+
+msgid "I toasted the bread myself!"
+msgstr "빵가루는 내가 직접 만든 거야!"
+
+msgid "@niko_what ...I... see..."
+msgstr "@niko_what ...그렇군요..."
+
+msgid "@niko_speak Is there anything you remember about how to work the camera?"
+msgstr "@niko_speak 카메라를 어떻게 작동시키는지 혹시 기억하세요?"
+
+msgid "Let me see... When arranging the lenses, make sure that the thin lens is positioned between the two curved ones."
+msgstr "어디... 렌즈를 배치할 때, 얇은 렌즈가 볼록렌즈와 오목렌즈 사이에 있는지부터 확인하렴."
+
+msgid "Hey kid!"
+msgstr "이봐, 꼬마야!"
+
+msgid "Want some soup dumplings? They're guaranteed to contain only a minimal amount of industrial byproducts!"
+msgstr "따끈한 물만두 어떠니? 산업 부산물은 극미량만 들어 있단다!"
+
+msgid "@niko I'll... pass..."
+msgstr "@niko 전... 사양할게요..."
+
+msgid "@niko Can you tell me how to get the camera working again?"
+msgstr "@niko 카메라를 다시 작동시킬 방법을 알려 주시겠어요?"
+
+msgid "Yes, yes, certainly. The thick lens should be positioned to the left of both of the curved lenses."
+msgstr "그래, 물론이지. 두꺼운 렌즈는 볼록렌즈와 오목렌즈의 왼쪽에 있어야 한단다."
+
+msgid "@niko Actually... I do want to hear about it!"
+msgstr "@niko 실은... 그 이야기를 듣고 싶어요!"
+
+msgid "Curiosity killed the cat, eh?"
+msgstr "호기심이 고양이를 죽인다, 라던가?"
+
+msgid "@niko_eyeclosed I'm not a cat..."
+msgstr "@niko_eyeclosed 전 고양이 아닌데요..."
+
+msgid "Ok so!"
+msgstr "그렇다면 좋아!"
+
+msgid "I've invented a medicine to prepare everyone for the upcoming water shortage!"
+msgstr "난 다가올 물 부족 현상에 대비하기 위한 약을 발명했지!"
+
+msgid "All you gotta do is dissolve one of these pills in water."
+msgstr "이 약을 물에 녹이기만 하면 돼."
+
+msgid "And then you drink the water."
+msgstr "그다음 그걸 마시는 거지."
+
+msgid "And then you never need to drink water again!"
+msgstr "그럼 다시는 물을 마실 필요가 없게 돼!"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak 헉!"
+
+msgid "It also makes plants grow faster!"
+msgstr "게다가 식물도 빨리 자라게 만들지!"
+
+msgid "@niko How... does it work?"
+msgstr "@niko 원리가... 뭐죠?"
+
+msgid "Here, why don't you take a free sample?"
+msgstr "자, 이 무료 샘플을 받아 가렴."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko Thanks?"
+msgstr "@niko 음... 고마워요."
+
+msgid "Don't thank me! Go spread the word!"
+msgstr "고맙긴! 입소문이나 내 줘!"
+
+msgid "Hey hey!"
+msgstr "이봐, 이봐!"
+
+msgid "Ready for me to blow your mind?"
+msgstr "내가 깜짝 놀랄 이야기를 해 줄까?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "Aww, but..."
+msgstr "으, 그렇지만..."
+
+msgid "@niko_speak Can you tell me how to fix the camera?"
+msgstr "@niko_speak 카메라를 고치는 방법을 알려 주시겠어요?"
+
+msgid "Hmm... It's been a while."
+msgstr "흠... 오랜만이네."
+
+msgid "I'm pretty sure that the bulgy lens goes on one of the ends, but I forget which."
+msgstr "배불뚝이 렌즈는 반드시 끝에 온다는 것까지는 기억하지만 어느 쪽 끝인지는 잊어버렸어."
+
+msgid "This is going to help so many people..."
+msgstr "이건 많은 사람들에게 도움이 될 거야..."
+
+msgid "...and also make me rich and famous and cool."
+msgstr "...그리고 난 유명해지고 부유해지고 더욱 멋져지겠지."
+
+msgid "Actually... I exaggerated."
+msgstr "사실... 뻥을 좀 보태긴 했어."
+
+msgid "The effects of the pill wears off in like a week."
+msgstr "이 약의 효과는 1주일이 지나면 사라지게 돼."
+
+msgid "But all you have to do is just take another pill!"
+msgstr "하지만 그 후에 다시 약을 먹으면 해결되지!"
+
+msgid "@plight_2 Well, good luck..."
+msgstr "@plight_2 뭐, 행운을 빌게..."
+
+msgid "@niko_speak You too! \\>\\@niko With the lamp."
+msgstr "@niko_speak 당신도요! \\>\\@niko 아, 가로등도요."
+
+msgid "@plight Hey, you lookin for something?"
+msgstr "@plight 뭐 찾는 거라도 있어?"
+
+msgid "@niko_eyeclosed Yeah... I need to go find a library card now...\\>\\n\\@niko Any idea where I can get one?"
+msgstr "@niko_eyeclosed 네... 전 지금 도서관 출입증이 필요하거든요...\\>\\n\\@niko 어디서 구할 수 있는지 아세요?"
+
+msgid "@plight From...\\> the...\\> library?"
+msgstr "@plight 아마도...\\> 음...\\> 도서관 아닐까?"
+
+msgid "@niko_eyeclosed I tried that already!\\>\\n\\@niko The person in charge wasn't here."
+msgstr "@niko_eyeclosed 이미 가 봤어요!\\>\\n\\@niko 하지만 책임자가 거기 없었어요."
+
+msgid "@plight Oh, uh..."
+msgstr "@plight 아, 그렇군..."
+
+msgid "@plight_2 Maybe check out the factory? You just take the stairs at the end of this street and make a turn."
+msgstr "@plight_2 공장에 가 보면 어때? 이 거리 끝에 있는 계단으로 가서 모퉁이를 돌면 돼."
+
+msgid "@plight There's a lot of scientists there.\\>\\n\\@plight_worry Scientists... read books, right?"
+msgstr "@plight 거기에는 과학자들이 많이 있어.\\>\\n\\@plight_worry 과학자들은... 책을 읽을 테니까. 안 그래?"
+
+msgid "@plight They might help you..."
+msgstr "@plight 그 사람들이 도와줄지도 모르지..."
+
+msgid "@niko He looks busy..."
+msgstr "@niko 바빠 보이시네요..."
+
+msgid "@plight_why You can tell, huh..."
+msgstr "@plight_why 그래, 네 말대로야..."
+
+msgid "@plight Oh, hey there."
+msgstr "@plight 오, 안녕."
+
+msgid "@plight_2 You, uh... \\.\\.doing okay?"
+msgstr "@plight_2 너구나... \\.\\.좀 어때?"
+
+msgid "@niko Yup!\\>\\n\\@niko_speak What are you doing?"
+msgstr "@niko 괜찮아요!\\>\\n\\@niko_speak 당신은요?"
+
+msgid "@plight Just filling this lamp here..."
+msgstr "@plight 이 가로등을 채우는 중이야..."
+
+msgid "@plight_2 It's...\\.\\.\\. taking a while..."
+msgstr "@plight_2 시간이...\\.\\.\\. 좀 걸리네..."
+
+msgid "@plight_worry I...\\.\\. think it might be leaking..."
+msgstr "@plight_worry 아무래도...\\.\\. 어딘가가 새는 것 같거든..."
+
+msgid "@plight Well, good luck..."
+msgstr "@plight 뭐, 행운을 빌게..."
+
+msgid "@plight Thanks for taking them off my hands, I guess?\\>\\nThe lenses, that is."
+msgstr "@plight 이걸 가져가 줘서 고마워, 알지?\\>\\n그러니까 렌즈 말이야."
+
+msgid "@plight_2b The scientists wanted me to use them to fix the camera in the photo booth, but..."
+msgstr "@plight_2b 과학자들이 그걸로 사진관에 있는 카메라를 고쳐 달라고 했는데..."
+
+msgid "@plight_why ...you can imagine how that went."
+msgstr "@plight_why ...결과가 어땠는지는 모르는 게 좋아."
+
+msgid "@plight_worry I'm just glad I didn't break anything..."
+msgstr "@plight_worry 아무것도 깨트리지 않은 게 참 다행이지..."
+
+msgid "@plight_shock Hey! Isn't that..."
+msgstr "@plight_shock 이봐! 그건 설마..."
+
+msgid "@plight_wtf ..."
+msgstr "@plight_wtf ..."
+
+msgid "@plight_worry (oH GOODNESS GRACIOUS DID THE MESSIAH AND LITERALLY GOD THEMSELF JUST BREAK INTO MY HOUSE.)"
+msgstr "@plight_worry (오, 세상에. 지금 구원자와 신이 우리 집에 쳐들어온 거야?)"
+
+msgid "@niko_speak Oh! Was that... your..."
+msgstr "@niko_speak 아, 방금 그건... 혹시..."
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf 내가 소리 내서 말했던가??"
+
+msgid "@plight_worry (IT KEEPS HAPPENING.)"
+msgstr "@plight_worry (자꾸 이러는군.)"
+
+msgid "@niko_eyeclosed ...sorry about breaking into your house.\\>\\n\\@niko We didn't actually break anything, but..."
+msgstr "@niko_eyeclosed ...저기, 집에 마음대로 들어와서 죄송해요.\\>\\n\\@niko 아무것도 망가트린 건 없지만, 그래도요..."
+
+msgid "@niko_speak \\p said I should take these plastic disks, for some reason?\\>\\n\\@niko Should we put them back?"
+msgstr "@niko_speak 이유는 모르겠지만 \\p 님이 이 플라스틱 판을 가져가야 한다고 했거든요.\\>\\n\\@niko 이거, 다시 여기 둘까요?"
+
+msgid "@plight_2 It's okay, keep 'em."
+msgstr "@plight_2 ...괜찮아, 가져가."
+
+msgid "@plight_worry I wouldn't have been able to fix that machine anyway..."
+msgstr "@plight_worry 어차피 내가 갖고 있어도 기계를 고치진 못할 테니까..."
+

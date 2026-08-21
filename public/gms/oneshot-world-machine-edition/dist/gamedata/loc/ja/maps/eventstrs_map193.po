@@ -1,0 +1,15 @@
+msgid "@niko It's a staff."
+msgstr "@niko 杖だ。"
+
+msgid "@niko_speak Reminds me of the one that robot from the Barrens was holding!"
+msgstr "@niko_speak 不毛の地にいたロボットが\n持ってたやつみたいだね！"
+
+msgid "@niko_speak It's an orb! \\>\\@niko The material looks like amber."
+msgstr "@niko_speak オーブだ！ \\>\\@niko 琥珀でできてるみたい。"
+
+msgid "@niko Some kind of cloak or shawl, folded neatly."
+msgstr "@niko ショールかマントかな？綺麗にたたまれてる。"
+
+msgid "@niko A pair of shoes and some jewelry."
+msgstr "@niko 靴が一足と、宝石がちょっとだけある。"
+

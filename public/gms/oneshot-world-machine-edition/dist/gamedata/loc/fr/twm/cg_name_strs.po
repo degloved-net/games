@@ -1,0 +1,264 @@
+msgid "cg_wake1=Wake"
+msgstr "Éveil"
+
+msgid "cg_wake2=Wake"
+msgstr "Éveil"
+
+msgid "cg_wake3=Wake"
+msgstr "Éveil"
+
+msgid "cg_wake4=Wake"
+msgstr "Éveil"
+
+msgid "cg_wake5=Wake"
+msgstr "Éveil"
+
+msgid "cg_desktop=Desktop"
+msgstr "Bureau"
+
+msgid "b0=Basement"
+msgstr "Sous-sol"
+
+msgid "b1=Basement"
+msgstr "Sous-sol"
+
+msgid "b2=Basement"
+msgstr "Sous-sol"
+
+msgid "b3=Basement"
+msgstr "Sous-sol"
+
+msgid "b4=Basement"
+msgstr "Sous-sol"
+
+msgid "b5=Basement"
+msgstr "Sous-sol"
+
+msgid "b6=Basement"
+msgstr "Sous-sol"
+
+msgid "b7=Basement"
+msgstr "Sous-sol"
+
+msgid "b8=Basement"
+msgstr "Sous-sol"
+
+msgid "b9=Basement"
+msgstr "Sous-sol"
+
+msgid "cg_door1=Door"
+msgstr "Porte"
+
+msgid "cg_door2=Door"
+msgstr "Porte"
+
+msgid "cg_blue=Barrens Reveal"
+msgstr "Révélation de la Lande"
+
+msgid "cg_map=Map of the World"
+msgstr "Carte du monde"
+
+msgid "cg_amber=Amber Pendant"
+msgstr "Pendentif en ambre"
+
+msgid "cg_boat1=Rowbot"
+msgstr "Ramebot"
+
+msgid "cg_boat2=Rowbot"
+msgstr "Ramebot"
+
+msgid "cg_boat3=Rowbot"
+msgstr "Ramebot"
+
+msgid "cg_green=Glen Reveal"
+msgstr "Révélation du Vallon"
+
+msgid "cg_afeather=Feather"
+msgstr "Plume"
+
+msgid "cg_red=Refuge Reveal"
+msgstr "Révélation du Refuge"
+
+msgid "cg_adice=Dice"
+msgstr "Dé"
+
+msgid "cg_tower1=Tower"
+msgstr "Tour"
+
+msgid "cg_tower2=Tower"
+msgstr "Tour"
+
+msgid "cg_tower3=Tower"
+msgstr "Tour"
+
+msgid "cg_tower4=Tower"
+msgstr "Tour"
+
+msgid "cg_tower5=Tower"
+msgstr "Tour"
+
+msgid "choice00=Choice"
+msgstr "Choix"
+
+msgid "remember5=Memory"
+msgstr "Souvenir"
+
+msgid "cg_credits1=Credits"
+msgstr "Générique"
+
+msgid "cg_credits1B=Credits"
+msgstr "Générique"
+
+msgid "cg_credits2=Credits"
+msgstr "Générique"
+
+msgid "cg_credits3=Credits"
+msgstr "Générique"
+
+msgid "cg_credits4=Credits"
+msgstr "Générique"
+
+msgid "cg_credits5=Credits"
+msgstr "Générique"
+
+msgid "sol_journal_glow1=Journal"
+msgstr "Journal"
+
+msgid "sol_journal_glow2=Journal"
+msgstr "Journal"
+
+msgid "sol_mine1=Minecart"
+msgstr "Wagonnet de mine"
+
+msgid "sol_mine2=Minecart"
+msgstr "Wagonnet de mine"
+
+msgid "sol_mine3=Minecart"
+msgstr "Wagonnet de mine"
+
+msgid "sol_mine4=Minecart"
+msgstr "Wagonnet de mine"
+
+msgid "sol_mine5=Minecart"
+msgstr "Wagonnet de mine"
+
+msgid "sol_glenboat1=Boat"
+msgstr "Bateau"
+
+msgid "sol_glenboat2=Boat"
+msgstr "Bateau"
+
+msgid "sol_glenboat3=Boat"
+msgstr "Bateau"
+
+msgid "sol_glenboat4=Boat"
+msgstr "Bateau"
+
+msgid "sol_flight1=Flight"
+msgstr "Vol"
+
+msgid "sol_flight2=Flight"
+msgstr "Vol"
+
+msgid "sol_flight3=Flight"
+msgstr "Vol"
+
+msgid "sol_flight4=Flight"
+msgstr "Vol"
+
+msgid "sol_rue=Rue"
+msgstr "Rue"
+
+msgid "cg_dream1_1=Dream 1"
+msgstr "Rêve 1"
+
+msgid "cg_dream1_2=Dream 1"
+msgstr "Rêve 1"
+
+msgid "cg_dream1_3=Dream 1"
+msgstr "Rêve 1"
+
+msgid "cg_dream1_4=Dream 1"
+msgstr "Rêve 1"
+
+msgid "cg_dream2_1=Dream 2"
+msgstr "Rêve 2"
+
+msgid "cg_dream2_2=Dream 2"
+msgstr "Rêve 2"
+
+msgid "cg_dream2_3=Dream 2"
+msgstr "Rêve 2"
+
+msgid "cg_dream2_4=Dream 2"
+msgstr "Rêve 2"
+
+msgid "cg_dream2_5=Dream 2"
+msgstr "Rêve 2"
+
+msgid "cg_dream3_1=Dream 3"
+msgstr "Rêve 3"
+
+msgid "cg_dream3_2=Dream 3"
+msgstr "Rêve 3"
+
+msgid "cg_dream3_3=Dream 3"
+msgstr "Rêve 3"
+
+msgid "cg_dream3_4=Dream 3"
+msgstr "Rêve 3"
+
+msgid "cg_dream4_1=Dream 4"
+msgstr "Rêve 4"
+
+msgid "cg_dream4_2=Dream 4"
+msgstr "Rêve 4"
+
+msgid "cg_dream4_3=Dream 4"
+msgstr "Rêve 4"
+
+msgid "cg_dream4_4=Dream 4"
+msgstr "Rêve 4"
+
+msgid "cg_dream5_1=Dream 5"
+msgstr "Rêve 5"
+
+msgid "cg_dream5_2=Dream 5"
+msgstr "Rêve 5"
+
+msgid "cg_dream5_3=Dream 5"
+msgstr "Rêve 5"
+
+msgid "cg_dream5_4=Dream 5"
+msgstr "Rêve 5"
+
+msgid "book_clover=Clover"
+msgstr "Trèfle "
+
+msgid "book_dice=Dice"
+msgstr "Dé"
+
+msgid "book_fauna=Fauna"
+msgstr "Faune"
+
+msgid "book_phosphor1=Phosphor 1"
+msgstr "Phosphore 1"
+
+msgid "book_phosphor2=Phosphor 2"
+msgstr "Phosphore 2"
+
+msgid "book_phosphor3=Phosphor 3"
+msgstr "Phosphore 3"
+
+msgid "book_phosphor4=Phosphor 4"
+msgstr "Phosphore 4"
+
+msgid "book_prophet=Prophet"
+msgstr "Prophète"
+
+msgid "book_prophetbot=ProphetBot"
+msgstr "ProphèteBot"
+
+msgid "book_sketch=Sketch"
+msgstr "Croquis"
+

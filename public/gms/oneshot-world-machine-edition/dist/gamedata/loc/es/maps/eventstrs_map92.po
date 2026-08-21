@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko Un robot. Irreparable..."
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh Solo es una cabeza..."
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh ... solo es una cabeza. ¡Cielos!"
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko Parte de un robot. Está bastante dañada..."
+
+msgid "@niko A big machine..."
+msgstr "@niko Una máquina grande..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko Parece una prensa para aplastar metal."
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak Eh... \\>\\@niko ¿Quieres que aplaste aquí la tubería, \\p?"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh Mmm, pero no quiero acercarme demasiado..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed Sí que daba miedo..."
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf ¡... \\p!"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed NO voy a colocar el sol aquí."
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko ¿Por qué...\\.\\. querrías romper aquí una botella, \\p?"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak ¡Todo se llenaría de trocitos!"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed Espero no tener que volver a usar esto, \\p..."
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak ¡Anda! ¡Esta máquina todavía funciona!"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko Tal vez no debería acercarme tanto..."
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf ¿Y si... se me queda la bufanda atascada? Luego tiraría de mí, y..."
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh ... mejor no termino esa frase."
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed Lo que queda del brazo de un robot."
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed Ni siquiera sé lo que se supone que es esto..."
+

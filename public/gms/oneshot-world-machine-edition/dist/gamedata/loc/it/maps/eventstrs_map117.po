@@ -1,0 +1,54 @@
+msgid "@watcher Good morning."
+msgstr "@watcher Buongiorno."
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher Buon pomeriggio."
+
+msgid "@watcher Good evening."
+msgstr "@watcher Buonasera."
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher ...È molto tardi."
+
+msgid "@watcher But... good day, I suppose."
+msgstr "@watcher Suppongo di doverti comunque...\\. augurare una buona giornata."
+
+msgid "@watcher Your time here is precious."
+msgstr "@watcher Il tuo tempo qui è prezioso."
+
+msgid "@watcher Please, do cherish it."
+msgstr "@watcher Per favore, sfruttalo al meglio."
+
+msgid "@niko I will!"
+msgstr "@niko Certo!"
+
+msgid "@watcher It's not healthy for children such as yourself to stay up at this hour."
+msgstr "@watcher Non è salutare per i bambini come te stare svegli a quest'ora."
+
+msgid "@niko ...Really?"
+msgstr "@niko ...Davvero?"
+
+msgid "@niko_eyeclosed ...I... didn't realize..."
+msgstr "@niko_eyeclosed ...Io... non me ne ero accorto..."
+
+msgid "@watcher Can't blame you."
+msgstr "@watcher Non posso incolparti."
+
+msgid "@watcher With the sun gone, the night never seems to end."
+msgstr "@watcher Senza il sole la notte sembra non finire mai."
+
+msgid "@niko_speak Then... how can you tell?"
+msgstr "@niko_speak Ma allora... come fai a saperlo?"
+
+msgid "@niko Time, I mean."
+msgstr "@niko L'orario, intendo."
+
+msgid "@watcher I have my ways."
+msgstr "@watcher Ho i miei mezzi."
+
+msgid "@watcher ...Well, the time of day doesn't really mean anything now."
+msgstr "@watcher ...Non che ormai voglia dire molto, sai."
+
+msgid "@niko_speak Then... How can you tell?"
+msgstr "@niko_speak Ma allora... come fai a saperlo?"
+

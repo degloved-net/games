@@ -1,0 +1,69 @@
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [私の忍耐力を試しているんだろう。]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [本当に答えが知りたいのか？]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [フィルムを見ると、我々の世界を写し出す\n窓を埋め尽くすように、それが表示される、そうだな？]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [私が説明した動作は「ドラッグ」と\n呼ばれているはずだ。]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [虚空は君の視界を超えたところにある。]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [虚空を通り抜け、また戻る…]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [君は、ただ私の時間を無駄にする\nためだけにここにいるのか？]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [やれやれ…]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [未だに分からないか？]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [だろうな。]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [ヒントが欲しいか？]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [我々の世界と、君の世界を結びつける\n4つの壁の向こうに、虚空がある。\n君の視界の端、何もかもが見えなくなる\n場所だ…]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [君なら、私の言っている意味が分かるはずだ。]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [フィルムを虚空に通し、また戻す。]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [いいだろう、頑張りたまえ。]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [私はどこにも行ったりしない。]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [コードを探してるのだろう？]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [もうじき、これが必要になる。]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [このフィルムを虚空に晒したまえ。]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [またフィルムを戻せば、\n答えが明らかになる。]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko コンピューターから\n変な透明のシートが出てきた…"
+
+msgid "@niko The screen is off."
+msgstr "@niko 画面がついてない。"
+

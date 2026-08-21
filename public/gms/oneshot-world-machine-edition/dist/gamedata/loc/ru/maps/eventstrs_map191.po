@@ -1,0 +1,75 @@
+msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
+msgstr "[ФОСФОРНЫЕ ДЕРЕВЬЯ ЗАЩИЩЕНЫ НОВЫМИ ЗАКОНАМИ.]"
+
+msgid "[PLEASE DO NOT HARVEST THEM.]"
+msgstr "[ПОЖАЛУЙСТА, НЕ СОБИРАЙТЕ С НИХ УРОЖАЙ.]"
+
+msgid "@niko I'm... not?"
+msgstr "@niko Я и не собирался..."
+
+msgid "[HAVE A NICE DAY.]"
+msgstr "[ХОРОШЕГО ДНЯ.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak И вам тоже!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[ПРИВЕТ, ЧЕЛОВЕК.]"
+
+msgid "[WELCOME TO THE RESEARCH STATION.]"
+msgstr "[ДОБРО ПОЖАЛОВАТЬ НА НАУЧНУЮ СТАНЦИЮ.]"
+
+msgid "@niko Hello!"
+msgstr "@niko Привет!"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[ВАС ПРИСЛАЛА ДОКТОР СИЛЬВЕРПОЙНТ?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak Нет?.."
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[О, ТОГДА ИДИТЕ.]"
+
+msgid "[MONITORING ANOMALY...]"
+msgstr "[МОНИТОРИНГ АНОМАЛИИ...]"
+
+msgid "@niko_speak What IS that thing?"
+msgstr "@niko_speak Что это за штука?"
+
+msgid "[AN ANOMALY.]"
+msgstr "[АНОМАЛИЯ.]"
+
+msgid "@niko_eyeclosed Well, yeah, but..."
+msgstr "@niko_eyeclosed Да, но..."
+
+msgid "[I WILL RETURN TO MY STATION IN THE CITY SOON.]"
+msgstr "[СКОРО Я ВЕРНУСЬ НА СВОЮ СТАНЦИЮ В ГОРОДЕ.]"
+
+msgid "@niko_speak How come you're red instead of green?"
+msgstr "@niko_speak Как получилось, что ты красный, а не зелёный?"
+
+msgid "@niko Well... more of a purple than red...\\>\\n\\@niko_speak But your eyes and stuff are red!"
+msgstr "@niko Ну... скорее даже фиолетовый...\\>\\n\\@niko_speak Но с красными глазами и деталями!"
+
+msgid "[I AM ONLY HERE TO PICK UP THIS WEEK'S MOSS SAMPLES.]"
+msgstr "[Я ЗДЕСЬ ТОЛЬКО ДЛЯ ТОГО, ЧТОБЫ СОБРАТЬ ОБРАЗЦЫ МХА НА ЭТОЙ НЕДЕЛЕ.]"
+
+msgid "@niko_speak I see!"
+msgstr "@niko_speak Понятно!"
+
+msgid "[I AM IN CHARGE OF COLLECTING THE MOSS SAMPLES.]"
+msgstr "[Я ЗАНИМАЮСЬ СБОРОМ ОБРАЗЦОВ МХА.]"
+
+msgid "@niko_speak Cool!"
+msgstr "@niko_speak Круто!"
+
+msgid "[DID DR. SILVERPOINT SEND YOU?]"
+msgstr "[ВАС ПОСЛАЛА ДОКТОР СИЛЬВЕРПОЙНТ?]"
+
+msgid "@niko_speak No? I'm with \\p..."
+msgstr "@niko_speak Нет. Со мной \\p..."
+
+msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
+msgstr "[ЗА ПОСЛЕДНЕЕ ВРЕМЯ НАБЛЮДАЕТСЯ СНИЖЕНИЕ ТЕМПОВ РОСТА ФОСФОРНЫХ ДЕРЕВЬЕВ...]"
+

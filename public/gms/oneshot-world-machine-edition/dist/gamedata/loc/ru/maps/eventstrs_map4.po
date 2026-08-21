@@ -1,0 +1,51 @@
+msgid "@ed [The wood in the fireplace looks like it was never used.]"
+msgstr "@ed [Похоже, что дрова в камине никогда не использовали.]"
+
+msgid "@ed [Perhaps it could be \\c[6]lit\\c[0].]"
+msgstr "@ed [Возможно, их можно \\c[6]зажечь\\c[0].]"
+
+msgid "@ed [The \\c[6]flames\\c[0] are dim but comforting.]"
+msgstr "@ed [\\c[6]Пламя\\c[0] неяркое, но умиротворяющее.]"
+
+msgid "@niko_speak Helloooo?\\>\\n\\@niko ...anyone?"
+msgstr "@niko_speak Приве-е-е-т?\\>\\n\\@niko Кто-нибудь?.."
+
+msgid "@ed [The sink won't turn on.]"
+msgstr "@ed [Вода в раковине не включается.]"
+
+msgid "@ed [Something on the ground glimmers in the firelight.]"
+msgstr "@ed [В свете камина на полу что-то блестит.]"
+
+msgid "@ed [It appears to be a small metallic object,\\nwedged into a crack in the floor.]"
+msgstr "@ed [Похоже, это небольшой металлический предмет...]\\n[Он застрял в трещине на полу.]"
+
+msgid "@ed [Niko digs it out.]"
+msgstr "@ed [Нико достаёт его.]"
+
+msgid "@ed [The refrigerator is empty.]"
+msgstr "@ed [В холодильнике пусто.]"
+
+msgid "@ed [Inside the refrigerator is a \\c[2]bottle of alcohol\\c[0].]"
+msgstr "@ed [В холодильнике стоит \\c[2]бутылка со спиртом\\c[0].]"
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [Нико берёт её.]"
+
+msgid "@ed [Niko readies the branch...]"
+msgstr "@ed [Нико готовит ветку...]"
+
+msgid "@ed [It doesn't manage to light.]"
+msgstr "@ed [Не получается зажечь.]"
+
+msgid "@niko_speak Ah!"
+msgstr "@niko_speak Ах!"
+
+msgid "@ed [The TV gives off a dangerous-looking \\c[3]spark\\c[0].]"
+msgstr "@ed [Из телевизора вылетает опасный сноп \\c[3]искр\\c[0].]"
+
+msgid "@ed [Just a table.]"
+msgstr "@ed [Просто стол.]"
+
+msgid "@ed [Just a chair.]"
+msgstr "@ed [Просто стул.]"
+

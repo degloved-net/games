@@ -1,0 +1,24 @@
+msgid "Nope... not looking forward to that water shortage."
+msgstr "Нет... Совсем не хочется, чтобы отключали воду."
+
+msgid "Oh, hey there."
+msgstr "О, привет."
+
+msgid "@niko_pancakes You have a lot of fish!"
+msgstr "@niko_pancakes У тебя так много рыбы!"
+
+msgid "Yeah... I'm worried about them."
+msgstr "Да... Я за неё волнуюсь."
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "I heard something about how the square particle stuff just took out a major pipeline."
+msgstr "Говорят, эти квадратные штуки только что пробили центральный водопровод."
+
+msgid "I guess I should take advantage of the running water while I still can..."
+msgstr "Думаю, лучше не упускать шанс и использовать воду, пока она ещё идёт..."
+
+msgid "@niko_speak It's a big fishtank!"
+msgstr "@niko_speak Какой большой аквариум!"
+

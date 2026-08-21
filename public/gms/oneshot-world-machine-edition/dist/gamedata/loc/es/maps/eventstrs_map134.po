@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko Se ha quedado sin carrete..."
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ...\\>\\nSupongo que esa no era la combinación correcta, \\p."
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ...\\>\\nNo ha hecho nada."
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak Mmm... pa-ta-ta."
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf ¡Ay, mis ojos...!"
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak ¡Es una foto mía!"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko ... ¿Mis ojos son siempre así de grandes?"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak ¡Es otra foto mía!"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko Bien pensado, \\p. Tener un plan B es una buena idea."
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko Es otra foto mía..."
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak Con tres es suficiente, ¿no?"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c ¡Esto parece divertido!"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko Es una foto mía."
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak ¡Esta ha salido bastante bien!"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak ¡Qué mal!\\>\\n\\@niko_eyeclosed He cerrado los ojos..."
+
+msgid "@niko Nice."
+msgstr "@niko Está muy bien."
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak ¡Todas estas están saliendo bastante bien!"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak ¿Cuántas necesitamos, \\p?"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko Es una foto mía..."
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed Y ahora la cámara se ha quedado sin carrete..."
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko Aquí hay una ranura.\\>\\nPodría salir de ahí papel u otra cosa."
+

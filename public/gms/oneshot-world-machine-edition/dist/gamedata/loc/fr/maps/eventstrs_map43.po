@@ -1,0 +1,249 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown Alula ?\\>\\nAlula ? Où es-tu ?"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p, vous avez entendu ?"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown Alula !"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko Je crois que ça vient du sud-est."
+
+msgid "@niko It's full of eels!"
+msgstr "@niko C'est plein d'anguilles !"
+
+msgid "@niko_what Wait, no..."
+msgstr "@niko_what Ah, non..."
+
+msgid "@niko_wtf2 It's full of snakes..."
+msgstr "@niko_wtf2 C'est plein de serpents..."
+
+msgid "@niko_eyeclosed Snakes..."
+msgstr "@niko_eyeclosed Des serpents..."
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[COLLECTE D'ÉCHANTILLON D'EAU EN COURS...]"
+
+msgid "@calamus_speak Hey! You there!"
+msgstr "@calamus_speak Hé ! Toi là !"
+
+msgid "@calamus Have you seen a little girl?"
+msgstr "@calamus T'aurais pas vu une petite fille ?"
+
+msgid "@calamus She's a little bit shorter than you, and-"
+msgstr "@calamus Elle est un peu plus petite que toi, et..."
+
+msgid "@calamus_speak Wait...\\.! That's... the sun."
+msgstr "@calamus_speak Attends...\\. Mais c'est... le soleil !"
+
+msgid "@calamus Are you our savior?"
+msgstr "@calamus C'est toi le messie ?"
+
+msgid "@niko I... yeah?"
+msgstr "@niko Je... Oui ?"
+
+msgid "@calamus_shame Oh my stars!"
+msgstr "@calamus_shame Par les étoiles !"
+
+msgid "@calamus_shame Sorry for my rudeness!"
+msgstr "@calamus_shame Pardon de t'avoir parlé de cette façon !"
+
+msgid "@niko Huh? It's alright..."
+msgstr "@niko Euh... Ce n'est pas grave..."
+
+msgid "@niko_speak Are you looking for someone?"
+msgstr "@niko_speak Qui cherches-tu ?"
+
+msgid "@calamus_sad My little sister... she's been gone for three days now."
+msgstr "@calamus_sad Ma petite sœur... Ça fait trois jours que je ne l'ai pas vue."
+
+msgid "@calamus I've been looking all over, but..."
+msgstr "@calamus J'ai cherché partout, mais..."
+
+msgid "@niko What does she look like?"
+msgstr "@niko Peux-tu me la décrire ?"
+
+msgid "@calamus_speak Um...\\. a little shorter than you, long blue hair, two blue feathers on top of her head..."
+msgstr "@calamus_speak Euh...\\. Elle est un peu plus petite que toi, elle a de longs cheveux bleus, deux plumes sur la tête..."
+
+msgid "@niko I'm sorry, I haven't seen anyone like that..."
+msgstr "@niko Non, mais je n'ai vu personne qui lui ressemble..."
+
+msgid "@niko_speak Where was the last place you saw her?"
+msgstr "@niko_speak Où l'as-tu vue pour la dernière fois ?"
+
+msgid "@calamus_speak Back inside the ruins."
+msgstr "@calamus_speak À l'intérieur des ruines."
+
+msgid "@calamus She said she was headed towards the forest, so I'm waiting here now."
+msgstr "@calamus Elle a dit qu'elle allait vers la forêt, c'est pour ça que je l'attends ici."
+
+msgid "@calamus_sad I ran out of places to look..."
+msgstr "@calamus_sad Je ne sais plus où chercher..."
+
+msgid "@alula_gasp Calamus!"
+msgstr "@alula_gasp Calamus !"
+
+msgid "@calamus_speak Alula!"
+msgstr "@calamus_speak Alula !"
+
+msgid "@calamus You're okay!"
+msgstr "@calamus Te voilà saine et sauve !"
+
+msgid "@calamus_sad Thank goodness..."
+msgstr "@calamus_sad Dieu merci..."
+
+msgid "@niko Are you from the village?"
+msgstr "@niko Tu habites au village ?"
+
+msgid "@calamus No..."
+msgstr "@calamus Non..."
+
+msgid "@calamus_speak I don't remember why, but our father left the village while we were still young."
+msgstr "@calamus_speak Je ne sais plus pourquoi, mais notre père a quitté le village quand nous étions plus jeunes."
+
+msgid "@calamus We've lived in the ruins ever since."
+msgstr "@calamus Depuis, nous vivons dans les ruines."
+
+msgid "@calamus_sad ...Well, it's just Alula and I now."
+msgstr "@calamus_sad ... Enfin, il n'y a plus qu'Alula et moi maintenant."
+
+msgid "@calamus_sad I can't lose her too..."
+msgstr "@calamus_sad Je ne peux pas la perdre, elle aussi..."
+
+msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
+msgstr "@calamus_speak Alula est tout ce qu'il me reste.\\nJe ne veux pas la perdre..."
+
+msgid "@alula_pout I was trapped inside this room and it was really scary..."
+msgstr "@alula_pout J'étais prise au piège dans cette pièce, c'était vraiment effrayant..."
+
+msgid "@alula ...but then, the messiah saved me!"
+msgstr "@alula ... Mais le Messie m'a sauvée !"
+
+msgid "@calamus ...trapped?\\> In the ruins?"
+msgstr "@calamus ... Prise au piège ?\\> Dans les ruines ?"
+
+msgid "@alula_oh Yeah!\\|"
+msgstr "@alula_oh Ouais !\\|"
+
+msgid "@alula_pout There was that weird stuff in the door!"
+msgstr "@alula_pout Il y avait un truc bizarre sur la porte !"
+
+msgid "@alula_oh You know, the floating squares we see next to the ocean sometimes?"
+msgstr "@alula_oh Tu sais, les carrés flottants qu'on voit parfois près de l'océan."
+
+msgid "@alula_oh The stuff you told me to stay away from?"
+msgstr "@alula_oh Les trucs que tu m'as dit de ne pas approcher."
+
+msgid "@calamus_shock What!?"
+msgstr "@calamus_shock Quoi ?!"
+
+msgid "@calamus_shock It's... spread to the ruins now?"
+msgstr "@calamus_shock C... C'est arrivé jusqu'aux ruines ?"
+
+msgid "@calamus_sad This isn't good..."
+msgstr "@calamus_sad Ça ne présage rien de bon..."
+
+msgid "@alula_speak Don't worry! I didn't touch it!"
+msgstr "@alula_speak T'en fais pas ! Je n'y ai pas touché !"
+
+msgid "@alula I'm not hurt or anything..."
+msgstr "@alula Je ne suis pas blessée ou quoi que ce soit..."
+
+msgid "@calamus_sad Still... If it gets any worse, we might have to find somewhere else to live..."
+msgstr "@calamus_sad Certes... mais si ça empire, nous risquons de devoir trouver un autre endroit où vivre..."
+
+msgid "@niko What is this... square... stuff, exactly?"
+msgstr "@niko Que sont ces... trucs carrés, exactement ?"
+
+msgid "@calamus_sad Bad."
+msgstr "@calamus_sad Rien de bon."
+
+msgid "@calamus Anything that touches them just... sorta..."
+msgstr "@calamus Tout ce que ça touche se..."
+
+msgid "@calamus_sad ...Gets... messed up."
+msgstr "@calamus_sad ... détraque."
+
+msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
+msgstr "@calamus_sad Lorsque les gens disent que le monde se délabre, c'est à ça qu'ils font référence..."
+
+msgid "@calamus_speak Obviously, you should avoid them too."
+msgstr "@calamus_speak Évidemment tu devrais les éviter, toi aussi."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Compris !"
+
+msgid "@calamus_speak Anyway, ah..."
+msgstr "@calamus_speak Bref, ah..."
+
+msgid "@calamus I can't thank you enough for rescuing my sister, savior..."
+msgstr "@calamus Je ne saurais te remercier dignement d'avoir sauvé ma sœur, messie..."
+
+msgid "@niko_speak Just call me Niko!"
+msgstr "@niko_speak Tu peux m'appeler Niko !"
+
+msgid "@calamus_shame Oh gosh! Would it not be rude to call you by name?"
+msgstr "@calamus_shame Oh ! Ce serait impoli de t'appeler par ton prénom..."
+
+msgid "@niko Huh?\\>\\n\\@niko_speak Why would it be?"
+msgstr "@niko Hein ?\\>\\n\\@niko_speak Pourquoi ça le serait ?"
+
+msgid "@niko I mean, I'm just a kid like you guys..."
+msgstr "@niko On a presque le même âge tous les trois..."
+
+msgid "@calamus_shame Ah..."
+msgstr "@calamus_shame Ah..."
+
+msgid "@calamus_smile Then... would you like to visit our house, Niko?"
+msgstr "@calamus_smile Alors... ça te dit de venir voir notre maison, Niko ?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@alula_speak Yaaaay!"
+msgstr "@alula_speak Ouaaaais !"
+
+msgid "@alula Let's go!"
+msgstr "@alula Allons-y !"
+
+msgid "@niko_speak I'm sorry, but I think \\p might want to go somewhere else right now!"
+msgstr "@niko_speak Ah, mais \\p veut aller ailleurs, je crois !"
+
+msgid "@calamus_smile That's fine.\\.\\. I'm sure you both have more important things to do right now."
+msgstr "@calamus_smile Ce n'est pas grave.\\.\\. Je suis sûr que vous avez des choses plus importantes à faire."
+
+msgid "@calamus_smile But feel free to drop by if you change your mind."
+msgstr "@calamus_smile Mais n'hésite pas à passer si tu changes d'avis."
+
+msgid "@alula_speak Yeah!\\.\\. We have something nice to give you, Niko!"
+msgstr "@alula_speak Ouais !\\.\\. On a quelque chose de sympa à te donner, Niko !"
+
+msgid "@alula We live in the ruins.\\| So don't forget!"
+msgstr "@alula On vit dans les ruines.\\| N'oublie pas !"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak Oh, au fait, qu'est-il arrivé au soleil ?"
+
+msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel the sun again, before.\\..\\.."
+msgstr "@niko Je l'ai prêté à quelqu'un dans les ruines.\\n Elle a dit qu'elle voulait sentir à nouveau le soleil avant de...\\..\\.."
+
+msgid "@calamus Oh, Maize.\\nI've met her before, too."
+msgstr "@calamus Oh, Maize.\\nJe l'ai rencontrée aussi."
+
+msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
+msgstr "@calamus Il y avait beaucoup plus de personnes-plantes ici, autrefois...\\nC'est ce que m'a dit mon père."
+
+msgid "@calamus I guess they've all...\\. gone."
+msgstr "@calamus J'imagine qu'ils ont tous...\\. disparu."
+
+msgid "@niko_eyeclosed I'm glad she got to see the sun again, at least."
+msgstr "@niko_eyeclosed Ça me fait plaisir qu'elle ait pu revoir le soleil."
+
+msgid "This is the best fishing spot I've found yet!"
+msgstr "C'est le meilleur endroit que j'ai trouvé pour pêcher !"
+
+msgid "All the fish I catch here are longer than my arm!"
+msgstr "Ici, tous les poissons que je pêche sont plus longs que mon bras !"
+

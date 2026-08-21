@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/themes_strs.po\n"
+"X-Crowdin-File-ID: 19\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:59\n"
+
+msgid "purple=Purple"
+msgstr "Viola"
+
+msgid "blue=Blue"
+msgstr "Blu"
+
+msgid "teal=Cyan"
+msgstr "Ciano"
+
+msgid "green=Green"
+msgstr "Verde"
+
+msgid "yellow=Yellow"
+msgstr "Giallo"
+
+msgid "red=Red"
+msgstr "Rosso"
+
+msgid "pink=Pink"
+msgstr "Rosa"
+
+msgid "orange=Orange"
+msgstr "Arancione"
+
+msgid "white=White"
+msgstr "Bianco"
+
+msgid "rainbow=Rainbow"
+msgstr "Arcobaleno"
+

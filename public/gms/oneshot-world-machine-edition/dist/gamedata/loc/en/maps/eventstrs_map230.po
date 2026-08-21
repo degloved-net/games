@@ -1,0 +1,5 @@
+
+msgid "@kip_worry Please! \\.\\.You musn't!!!"
+msgstr "@kip_worry Please! \\.\\.You mustn't!!!"
+
+

@@ -1,0 +1,705 @@
+msgid "Hopefully one day he'll show up!"
+msgstr "いつか姿を見せてくれたらなー！"
+
+msgid "I mean, I don't think many people have ever seen him in person."
+msgstr "何というか、彼を実際に見た人ってあんまりいないと思うの。"
+
+msgid "...or know what he looks like!"
+msgstr "…どんな容姿をしてるのかすら、知らない人がほとんど！"
+
+msgid "Everyone's heard OF him through secondhand accounts, though."
+msgstr "みんな、噂では彼のことを\n聞いたことがあるんだけどね。"
+
+msgid "...oh! But he did reply to my letter that one time!"
+msgstr "…そうだ！一度だけ手紙の返事を\nもらったことがあるの！"
+
+msgid "I got it framed immediately."
+msgstr "すぐさま額に入れたわ。"
+
+msgid "@niko Nice."
+msgstr "@niko すごいね。"
+
+msgid "Oh, hello! Do you need directions?"
+msgstr "やあ、こんばんは！案内してあげましょうか？"
+
+msgid "Let's see... this area here is mostly historical accounts, the reference section is downstairs, and, uh..."
+msgstr "えっとね…このエリアには歴史に関する本がたくさんあって、\n参考図書は下の階。それで、えっと…"
+
+msgid "I'm not sure where the children's section is... sorry!"
+msgstr "子供向けの場所が分からないや…ごめんね！"
+
+msgid "@niko_speak That's ok! \\.\\.\\@niko I'm not really looking for books."
+msgstr "@niko_speak 大丈夫だよ！ \\.\\.\\@niko 本を探してるわけじゃないから。"
+
+msgid "Oh! Are you here to... look for the Author, then?"
+msgstr "あっ！じゃ、もしかして…\n「作者」を探しにきたのかな？"
+
+msgid "@niko ...no?"
+msgstr "@niko …ううん？"
+
+msgid "Oh, that's good!"
+msgstr "あ、なら良かった！"
+
+msgid "Er, I mean... that means you won't be disappointed!"
+msgstr "えっと、その…がっかりしなくて済みそうだな、って！"
+
+msgid "I've been volunteering here for months, and I've never seen him, not even once!"
+msgstr "ここで数ヵ月ボランティアしてるんだけどね、\n未だに彼を一度も見かけたことがないの！"
+
+msgid "He works together with the head librarian on publishing, so you'd think he would at least show up once in a while..."
+msgstr "図書館長と出版作業を進めてるらしくてね、\nたまには姿を見せるんじゃないかって\n普通は思うでしょ…"
+
+msgid "@niko_speak But... he doesn't?"
+msgstr "@niko_speak でも…違った？"
+
+msgid "Yeah... he seems kiiinda reclusive."
+msgstr "うん…彼って、引きこもり…的な感じみたい。"
+
+msgid "...which is weird for a guy who supposedly travels the world."
+msgstr "…世界中を旅してる人にしては変だけどね。"
+
+msgid "Maybe it's just around people..."
+msgstr "あれかな、人前だとそうなのかも…"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf その本に…何を…してるの？"
+
+msgid "Don't worry, these are my own books. That I wrote."
+msgstr "心配すんな、これは俺の本だ。俺が書いた。"
+
+msgid "I just pulled them off the shelves to modify them. I have to cross out some sections..."
+msgstr "修正しようと思ってな、本棚から引っ張り出してきた。\n段落にいくつか線を…"
+
+msgid "...most sections."
+msgstr "…いや、ほぼ全てに線を引いて、消していかなきゃなんねえ。"
+
+msgid "@niko_speak Eh? How come?"
+msgstr "@niko_speak え？どうして？"
+
+msgid "Cuz otherwise they'll think I copied HIM."
+msgstr "だって、そうしないと俺が「あいつ」の真似を\nしたと思われるだろ。"
+
+msgid "@niko Him?"
+msgstr "@niko あいつ？"
+
+msgid "The Author!"
+msgstr "「作者」のことさ！"
+
+msgid "I mean, I really don't see the point of writing anything anymore!"
+msgstr "これ以上本を書く意味があるのか、もう分からねえんだ！"
+
+msgid "The Author is just gonna write about the same thing, and then everyone will love it!"
+msgstr "「作者」が同じことを書けば、みんなは\n結局そっちを好きになる！"
+
+msgid "And nobody's gonna remember the books that came out before his!"
+msgstr "あいつのより前に出版された本なんて\n誰も覚えちゃいないんだ！"
+
+msgid "@niko Oh, uh..."
+msgstr "@niko えっ、と…"
+
+msgid "I mean, I ain't hatin'."
+msgstr "別に、憎んでるわけじゃねえよ。"
+
+msgid "I can see why people go nuts over his stuff. That guy's got major talent."
+msgstr "みんながあいつの本に熱狂する理由は分かる。\nあの男は素晴らしい才能の持ち主だ。"
+
+msgid "But... it just... hurts, y'know?"
+msgstr "だが…何と言うか、傷つくのさ。"
+
+msgid "It's never fun when people call you a copycat for something you wrote about first."
+msgstr "最初に書いたのはこっちなのに、\nまねっこの泥棒猫と呼ばれるのが\n悔しくて仕方がない。"
+
+msgid "@niko I can see that..."
+msgstr "@niko その気持ち、分かるよ…"
+
+msgid "@niko_speak People call me a cat all the time!"
+msgstr "@niko_speak みんな、ミーのことをネコって呼ぶんだ！"
+
+msgid "@niko_eyeclosed Even though I'm a person, and cats are pets."
+msgstr "@niko_eyeclosed 人なのに。ネコって、ペットだよ。"
+
+msgid "@niko ...and mousers."
+msgstr "@niko …ネズミも捕るし。"
+
+msgid "@niko_eyeclosed I sure hope people don't think I eat mice..."
+msgstr "@niko_eyeclosed ミーがネズミを食べると\n思われてなければいいけど…"
+
+msgid "Heh, then I guess we're in the same boat, kiddo."
+msgstr "はは、ってことは俺らは\n同じ目に遭ってるってわけだな。"
+
+msgid "Well, I think I changed at least half a book's worth of content."
+msgstr "ふう、とりあえず半分は修正し終わったかな。"
+
+msgid "And even then, it's still too similiar!"
+msgstr "それでも、あいつの本とそっくりなんだぜ！"
+
+msgid "Looks like I'll just have to accept my fate..."
+msgstr "どうやら俺は、運命を受け入れないと\nいけないみたいだな…"
+
+msgid "@niko Well, I guess being a called a cat isn't all that bad..."
+msgstr "@niko まぁ、ネコって呼ばれるのも\nそんなに悪くないのかも…"
+
+msgid "@niko_eyeclosed ...as long as people don't assume you eat mice."
+msgstr "@niko_eyeclosed …ネズミを食べてると思われなければね。"
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko 羽ペン付きのインクボトルだ。"
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c いろいろ思い出すね、 \\p？"
+
+msgid "...y'know, I've tried looking for the flying machine with my binoculars for ages!"
+msgstr "…空飛ぶ機械を見つけようと、双眼鏡を使って\nずーーーっと探してたんだけどさ！"
+
+msgid "Never saw such a thing, though..."
+msgstr "全く見つからなかったよ…"
+
+msgid "The Author is so cool!"
+msgstr "「作者」ってカッコいいよな！"
+
+msgid "I heard he can travel all over the world with a flying machine!"
+msgstr "世界中を、空飛ぶ機械で旅してるらしいぜ！"
+
+msgid "That's how he gathers material for his books."
+msgstr "そうやって本の資料や題材を集めてるんだ。"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak わあ！"
+
+msgid "@niko A small pile of books."
+msgstr "@niko 小さく積まれた本。"
+
+msgid "@bookbot !"
+msgstr "@bookbot ！"
+
+msgid "@bookbot [UNAUTHORIZED ENTRY.]"
+msgstr "@bookbot [関係者以外、立入禁止でス。]"
+
+msgid "@bookbot [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]"
+msgstr "@bookbot [ここを通るには、図書館カードが必要でス。]"
+
+msgid "@niko_eyeclosed I know, I know..."
+msgstr "@niko_eyeclosed うん、分かってるよ…"
+
+msgid "@niko Wait, what?"
+msgstr "@niko えっ、ほんとに？"
+
+msgid "@niko_speak I don't have a library card, though!"
+msgstr "@niko_speak 図書館カードなんて持ってないよ！"
+
+msgid "@niko Where can I get one?"
+msgstr "@niko どこでもらえるの？"
+
+msgid "@bookbot [THIS IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [それは、図書館長ジョージに聞くべき質問でス。]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER.]"
+msgstr "@bookbot [彼女にお繋ぎしまス。]"
+
+msgid "@niko_huh . . ."
+msgstr "@niko_huh ………"
+
+msgid "@niko_wtf2 . . . . ."
+msgstr "@niko_wtf2 ………………"
+
+msgid "@bookbot [SHE IS NOT PICKING UP.]"
+msgstr "@bookbot [応答しませン。]"
+
+msgid "@niko_eyeclosed I figured..."
+msgstr "@niko_eyeclosed だろうね…"
+
+msgid "@niko Are you sure you can't just... let me through?"
+msgstr "@niko 本当に…通っちゃダメなの？"
+
+msgid "@bookbot [LETTING YOU THROUGH WITHOUT A LIBRARY CARD IS AGAINST MY PROGRAMMING.]"
+msgstr "@bookbot [図書館カードをお持ちでない\nアナタを通すことは、\nワタシのプログラミングに反しまス。]"
+
+msgid "@niko_what Wh-"
+msgstr "@niko_what え――"
+
+msgid "@niko Even in an emergency?"
+msgstr "@niko 緊急のときも？"
+
+msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
+msgstr "@bookbot [ワタシのプログラミングは融通が利きませン。]"
+
+msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@bookbot [制御化されていないのでス。]"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed はぁ…"
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[何カ必要なのですカ？\n正面ニ来てくださイ。]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko There's this book I found back in the barrens area."
+msgstr "@niko 不毛の地でこの本を見つけたんだ。"
+
+msgid "@niko_speak Since this is a place for books, would you happen to know what it says?"
+msgstr "@niko_speak ここなら、何が書いてあるのか\n分かるかなと思って。"
+
+msgid "@bookbot [I DO NOT RECOGNIZE THIS LANGUAGE]"
+msgstr "@bookbot [この言語は認識できませン。]"
+
+msgid "@bookbot [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]"
+msgstr "@bookbot [ですが、表紙のシンボルはとても\n重要なものでス。]"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, CAN EXPLAIN IT.]"
+msgstr "@bookbot [図書館長ジョージなら、解読できるはずでス。]"
+
+msgid "@bookbot [WOULD YOU LIKE ME TO CALL HER?]"
+msgstr "@bookbot [彼女にお繋ぎしましょうカ？]"
+
+msgid "@niko_eyeclosed Please don't."
+msgstr "@niko_eyeclosed お願い、やめて。"
+
+msgid "@bookbot [AUTHENTICATING BARCODE...]"
+msgstr "@bookbot [バーコードを認証中…]"
+
+msgid "@bookbot [EXECUTING FACIAL RECOGNITION...]"
+msgstr "@bookbot [顔認証を実行中…]"
+
+msgid "@bookbot [PHOTO MATCH...\\. FAILED.]"
+msgstr "@bookbot [写真照合… \\.失敗。]"
+
+msgid "@bookbot [IT SEEMS YOU DO NOT RESEMBLE THE OWNER OF THE CARD.]"
+msgstr "@bookbot [カードの所有者と顔が一致しませン。]"
+
+msgid "@bookbot [YOU CANNOT USE THIS CARD.]"
+msgstr "@bookbot [アナタはこのカードを使用できませン。]"
+
+msgid "@niko_eyeclosed Bummer..."
+msgstr "@niko_eyeclosed 残念…"
+
+msgid "@bookbot [INVALID CARD!]"
+msgstr "@bookbot [無効なカードでス！]"
+
+msgid "@bookbot [PHOTO IS MISSING.]"
+msgstr "@bookbot [写真がありませン。]"
+
+msgid "@niko_eyeclosed ...why did I do that."
+msgstr "@niko_eyeclosed …ミーは何でこんなことを…"
+
+msgid "@bookbot [HAVE A NICE DAY, MISS KIP.]"
+msgstr "@bookbot [良い一日を、キップさン。]"
+
+msgid "@niko Yup, that's... totally me."
+msgstr "@niko うん、それは…完全にミーのことだね。"
+
+msgid "@bookbot [PHOTO MATCH...\\. SUCCESSFUL]"
+msgstr "@bookbot [写真照合… \\.成功]"
+
+msgid "@bookbot [YOU'RE GOOD TO GO!]"
+msgstr "@bookbot [どうぞお通りくださイ！]"
+
+msgid "@niko_what ..."
+msgstr "@niko_what …"
+
+msgid "@niko_eyeclosed ...maybe I should've changed the name."
+msgstr "@niko_eyeclosed …名前も変えたほうが良かったね。"
+
+msgid "@niko So I'm guessing you don't give out library cards?"
+msgstr "@niko 図書館カードを作ってくれたりはしないよね？"
+
+msgid "@bookbot [I ONLY HANDLE BOOK TRANSACTIONS.]"
+msgstr "@bookbot [ワタシは本だけを取り扱っていまス。]"
+
+msgid "@bookbot [...FOR PEOPLE WHO ALREADY POSSESS CARDS.]"
+msgstr "@bookbot […カード所有者向けに、でス。]"
+
+msgid "@niko Ah."
+msgstr "@niko そっか。"
+
+msgid "@bookbot [TO ACQUIRE A CARD, YOU WOULD NEED TO CONTACT THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [カードを入手するには、図書館長ジョージに\n連絡する必要がありまス。]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER-"
+msgstr "@bookbot [彼女にお繋ぎしま――"
+
+msgid "@niko_surprised Don't!!"
+msgstr "@niko_surprised やめて！！"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [図書館長ジョージは、上階の収蔵庫にいまス。]"
+
+msgid "@niko Excuse me!"
+msgstr "@niko あの！"
+
+msgid "@bookbot [OH. YOU ARE THE MESSIAH.]"
+msgstr "@bookbot [おお。救世主。]"
+
+msgid "@bookbot [WELCOME.]"
+msgstr "@bookbot [ようこソ。]"
+
+msgid "@niko_speak When I first entered the city, a big robot told me to look for a library on the surface!"
+msgstr "@niko_speak 初めて街に入ったときにね、\n地表の図書館を探すようにって\n大きなロボットに言われたんだ！"
+
+msgid "@niko This is the same library, right?"
+msgstr "@niko ここがその図書館…だよね？"
+
+msgid "@bookbot [AFFIRMATIVE.]"
+msgstr "@bookbot [その通りでス。]"
+
+msgid "@niko_speak Oh, goody!"
+msgstr "@niko_speak おおっ、良かったー！"
+
+msgid "@niko Well... we're here... what do we do now?"
+msgstr "@niko それで…やっと着いたけど…\nこれからどうすればいいのかな？"
+
+msgid "@niko_eyeclosed The big robot only said there'd be clues here..."
+msgstr "@niko_eyeclosed 大きなロボットは、\nここに手掛かりがあるって言ってたけど…"
+
+msgid "@bookbot [THAT IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [それは、図書館長ジョージに聞くべきことでス。]"
+
+msgid "@niko_speak Is she... not here?"
+msgstr "@niko_speak いない…ってこと？"
+
+msgid "@bookbot [SHE IS HERE. SHE IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [彼女ハいまス。上階の収蔵庫ニ。]"
+
+msgid "@bookbot [WHEN SHE IS CONCENTRATING ON HER WORK, SHE WILL IGNORE ANY AND ALL PHONECALLS.]"
+msgstr "@bookbot [仕事に集中している際、彼女は\nあらゆる電話を無視しまス。]"
+
+msgid "@bookbot [...FOR SEVERAL DAYS.]"
+msgstr "@bookbot […数日間続くこともありまス。]"
+
+msgid "@niko_what Yikes!"
+msgstr "@niko_what えぇっ！"
+
+msgid "@niko Can you go get her in person, then?"
+msgstr "@niko じゃあ、直接呼びにいってくれない？"
+
+msgid "@bookbot [LEAVING THIS POST IS NOT IN MY PROGRAMMING.]"
+msgstr "@bookbot [持ち場を離れてもいいように\nプログラムされていませン。]"
+
+msgid "@niko Then... can I go myself?"
+msgstr "@niko それじゃ…ミーが行ってもいい？"
+
+msgid "@bookbot [OF COURSE.]"
+msgstr "@bookbot [もちろんでス。]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS ACCESSIBLE THROUGH THE STAIRWELL BEHIND ME.]"
+msgstr "@bookbot [収蔵庫には、ワタシの後ろにある\n階段から行くことができまス。]"
+
+msgid "@niko_speak Gotcha, thanks!"
+msgstr "@niko_speak 分かった、ありがとう！"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko コンピューターだ。今は電源が切れてる。"
+
+msgid "I guess that's why the library is always so packed."
+msgstr "だから図書館は、いつも混んでるのね。"
+
+msgid "...and this is a slow day, mind you!"
+msgstr "…ちなみに、今日は暇なほうですからね！"
+
+msgid "The Author's books cover a wide range of topics."
+msgstr "「作者」の本には、さまざまなジャンルがあるの。"
+
+msgid "It seems there are no subjects he does not write about."
+msgstr "彼が書かない題材はないみたいね。"
+
+msgid "Quite the renaissance man, don't you think?"
+msgstr "とっても博識な方だと思わない？"
+
+msgid "@niko I guess so!"
+msgstr "@niko そうだね！"
+
+msgid "But he's been focusing on documenting the world, as of late."
+msgstr "けれど最近の彼は、\n世界情勢を記録することに集中しているの。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak そうなの？"
+
+msgid "They say this city is the last bastion of civilization."
+msgstr "この街が、文明の最後の砦だって\n言われているんですって。"
+
+msgid "Soon, these books may be the only thing we have to remember the rest of the world by."
+msgstr "近い将来、ここにある本はもしかすると、\nこの世界に佇む他の地域のことを思い出せる、\n唯一のものになるかもしれないわ。"
+
+msgid "@niko ...ah."
+msgstr "@niko …そっか。"
+
+msgid "@niko I haven't seen any superheroes in this world."
+msgstr "@niko スーパーヒーローは\nこの世界でまだ見たことないや。"
+
+msgid "@niko_speak Saw a lot of robots, though!"
+msgstr "@niko_speak ロボットはたくさん見たけどね！"
+
+msgid "Well, I guess robots are more plausible than superpowers..."
+msgstr "まぁ、スーパーヒーローよりもロボットの方が\nまだマトモに聞こえるな…"
+
+msgid "@niko True!"
+msgstr "@niko だね！"
+
+msgid "The Author publishes books at a highly accelerated, almost inhuman pace."
+msgstr "「作者」はものすごい速いペースで本を\n出版しているんだ。もはや人間業じゃないよ。"
+
+msgid "In fact, he has put out more books in one year than most authors do in a lifetime."
+msgstr "それどころか、彼が1年間で出版する本の数は、\nほとんどの作家が生涯のうちに出す\n本の数よりも多いんだ。"
+
+msgid "According to the head librarian, there is still a large amount of material he has written, but not yet published."
+msgstr "図書館長が言うには、まだ出版されていない\n彼の原稿がまだ大量にあるらしい。"
+
+msgid "One cannot help but to wonder where he can get so much done in so little time."
+msgstr "短い時間でどうしてあれだけの執筆ができるのか、\nみんなが不思議に思うのも当然さ。"
+
+msgid "I did the calculations, and the numbers simply do not add up."
+msgstr "計算してみたけど、どうやってもつじつまが合わない。"
+
+msgid "@niko Maybe he... \\.\\.\\@niko_speak can stop time?"
+msgstr "@niko もしかしたら… \\.\\.\\@niko_speak 時間を止められるのかも？"
+
+msgid "No such mechanism exists in this world."
+msgstr "そんなことができる装置なんて、\nこの世界には存在しない。"
+
+msgid "...Is that actually possible in your home dimension?"
+msgstr "…君の世界ではできるの？"
+
+msgid "@niko_eyeclosed Nah, I just saw it in a movie once..."
+msgstr "@niko_eyeclosed ううん、映画で一度見ただけ…"
+
+msgid "@niko About... superheroes and stuff."
+msgstr "@niko あの…スーパーヒーローみたいなのが\n出てくる映画でね。"
+
+msgid "There's a couple of his books in this room that aren't occupied yet."
+msgstr "「作者」の本でまだ貸し出されていないのが\nまだ何冊かこの部屋にあるよ。"
+
+msgid "Hurry before someone takes them!"
+msgstr "急いで急いで！誰かに持っていかれちゃうよ！"
+
+msgid "So, what do you think about the Author?"
+msgstr "でさ、「作者」についてどう思う？"
+
+msgid "@niko I... don't know?"
+msgstr "@niko え…さあ？"
+
+msgid "Have you read his stuff yet?"
+msgstr "「作者」の本はもう読んだ？"
+
+msgid "If not, you should!"
+msgstr "まだなら、読んだ方がいいよ！"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko 本が棚にきちんとに並んでる。"
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko 本がきちんと棚に並んでる。"
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko 並べられた本がきちんと棚にある。"
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko 棚にはきちんと並べられた本がある。"
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko きちんと並べられた本が棚にある。"
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko きちんと棚には並べられた本がある。"
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko 並べられた本が棚にきちんとある。"
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko 本が棚にあって、きちんと並べられてる。"
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko 本が床に山積みになってる。"
+
+msgid "@niko A book!"
+msgstr "@niko 本だ！"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[本ヲ棚に戻していまス…]"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko 高く山積みされた本。"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "@niko Hi."
+msgstr "@niko やあ。"
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[本ヲ棚に戻していまス。]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[本の落下ニご注意くださイ。]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 分かった！"
+
+msgid "@niko Coffee cups."
+msgstr "@niko コーヒーカップだ。"
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak コーヒーは大人の飲み物だよね！"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed うん…まだハシゴは怖いや。"
+
+msgid "@niko A coffee machine."
+msgstr "@niko コーヒーを作る機械。"
+
+msgid "@niko It's almost empty..."
+msgstr "@niko ほとんど空っぽだ…"
+
+msgid "@niko A photo of some plants."
+msgstr "@niko 植物の写真。"
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko 何かの飾り版。"
+
+msgid "@niko_huh He just glared at me."
+msgstr "@niko_huh 睨まれちゃった。"
+
+msgid "@niko_eyeclosed I don't think we should bother him, \\p..."
+msgstr "@niko_eyeclosed 邪魔しないほうがいいかも、 \\p…"
+
+msgid "..."
+msgstr "…"
+
+msgid ".....WHAT??!?"
+msgstr "…は？？！？"
+
+msgid "@niko_huh Wh-\\.\\.\\@niko I didn't say anything."
+msgstr "@niko_huh えっ…\\.\\.\\@niko ミーは何も言ってないよ。"
+
+msgid "Well stop staring at me then!"
+msgstr "ならこっち見んなよ！"
+
+msgid "@niko_speak I was just looking at your book..."
+msgstr "@niko_speak 本を見てただけだよ…"
+
+msgid "Yes. You are in a library. There's books. In the library."
+msgstr "そうだ。ここは図書館だ。\n本がたくさんある。図書館だからな。"
+
+msgid "...Go bug the chatty one upstairs."
+msgstr "…上の階の\nおしゃべりなやつとお喋りしてな。"
+
+msgid "@niko A photo of some people."
+msgstr "@niko 人の写真。"
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko 本のタイトル一覧が\nここに書かれているみたい…"
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [何かご質問ですカ。\n正面に来てくださイ。]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko 大丈夫、ありがとう！"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak 表紙に黒いクローバーが描かれた大きな本。"
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko タイトルは「蛍光体の総合ガイド」だって。"
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko マーカーで描かれたクローバーの絵。"
+
+msgid "@niko A marker eraser."
+msgstr "@niko ホワイトボード消し。"
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko タイトルは「太陽消滅後の世界における、\n新しい生態的地位の出現」だって。"
+
+msgid "@niko A green marker."
+msgstr "@niko 緑色のマーカー。"
+
+msgid "kip card"
+msgstr "キップのカード"
+
+msgid "I just like looking at pictures."
+msgstr "絵を見るのが好きなんだ。"
+
+msgid "@niko Same."
+msgstr "@niko ミーも。"
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak 読むのがすごく早いね！"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "だって、ほとんど絵だもん！"
+
+msgid "Yeah! The author doesn't only write books, he also illustrates them!"
+msgstr "うん！「作者」は本だけじゃなくて、絵も描くんだ！"
+
+msgid "Sometimes he makes books out of only pictures."
+msgstr "絵だけの本も作ったりするんだよ。"
+
+msgid "@niko Neat!"
+msgstr "@niko すごいね！"
+
+msgid "@niko A blue marker."
+msgstr "@niko 青色のマーカー。"
+
+msgid "niko card"
+msgstr "ニコのカード"
+
+msgid "@niko A red marker."
+msgstr "@niko 赤色のマーカー。"
+
+msgid "glittery"
+msgstr "キラキラ光る"
+
+msgid "Oh, and picture books, those too."
+msgstr "あっ、それに絵本もね。"
+
+msgid "@niko_speak I like pictures!"
+msgstr "@niko_speak ミーも絵は好き！"
+
+msgid "The Author's latest books are really something, yeah?"
+msgstr "「作者」が新しく出した本、何とも素晴らしいじゃないか？"
+
+msgid "The head librarian just released a bunch last week!"
+msgstr "先週、図書館長が何冊か発表したのさ！"
+
+msgid "They're big compendiums, you'll see them if you look around."
+msgstr "どれも分厚い概論書なんだ。\nそのへん探せば見つかると思うよ。"
+
+msgid "Kinda different from his earlier works, though."
+msgstr "初期のころの作風とは少し違うけどね。"
+
+msgid "I'm used to reading his travel logs and novels, mostly."
+msgstr "僕は旅行記や小説ばかりを読んでいたよ。"
+
+msgid "I'm on my 3rd cup."
+msgstr "これで3杯目だ。"
+
+msgid "I can't feel my limbs..."
+msgstr "手足の感覚がない…"
+
+msgid "@niko um..."
+msgstr "@niko あの…"
+
+msgid "BUT I HAVE TO STAY AWAKE."
+msgstr "だが寝てる場合じゃない！"
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "この本がどんな結末を迎えるのか、\nどうしても知りたいんだよ…"
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 うーん…"
+
+msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
+msgstr "「作者」め…ページをめくるのが止められない…\n絶対に呪ってやる…"
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko このホワイトボードは金属製だね。"
+
+msgid "cardquest + desk"
+msgstr "カードクエスト + デスク"
+

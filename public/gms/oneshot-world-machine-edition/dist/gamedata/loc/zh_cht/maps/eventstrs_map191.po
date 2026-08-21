@@ -1,0 +1,75 @@
+msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
+msgstr "[燐樹現在受到新的法律保護。]"
+
+msgid "[PLEASE DO NOT HARVEST THEM.]"
+msgstr "[請勿採收。]"
+
+msgid "@niko I'm... not?"
+msgstr "@niko 我……沒有啊？"
+
+msgid "[HAVE A NICE DAY.]"
+msgstr "[祝你有美好的一天。]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 你也是！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+
+msgid "[WELCOME TO THE RESEARCH STATION.]"
+msgstr "[歡迎光臨研究站。]"
+
+msgid "@niko Hello!"
+msgstr "@niko 你好！"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[是希維波特博士派你來的嗎？]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ……不是耶。"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[喔，那請便吧。]"
+
+msgid "[MONITORING ANOMALY...]"
+msgstr "[正在監控異常狀況……]"
+
+msgid "@niko_speak What IS that thing?"
+msgstr "@niko_speak 那到底是什麼啊？"
+
+msgid "[AN ANOMALY.]"
+msgstr "[異常。]"
+
+msgid "@niko_eyeclosed Well, yeah, but..."
+msgstr "@niko_eyeclosed 嗯，是沒錯，可是……"
+
+msgid "[I WILL RETURN TO MY STATION IN THE CITY SOON.]"
+msgstr "[我很快就會返回城市中的派駐點。]"
+
+msgid "@niko_speak How come you're red instead of green?"
+msgstr "@niko_speak 你為什麼不是綠色，而是紅色呢？"
+
+msgid "@niko Well... more of a purple than red...\\>\\n\\@niko_speak But your eyes and stuff are red!"
+msgstr "@niko 嗯……應該說更偏紫色，不是那麼紅……\\>\\n\\@niko_speak 但你眼睛那些是紅的！"
+
+msgid "[I AM ONLY HERE TO PICK UP THIS WEEK'S MOSS SAMPLES.]"
+msgstr "[我只是來這裡拿本週的苔癬樣本。]"
+
+msgid "@niko_speak I see!"
+msgstr "@niko_speak 原來如此！"
+
+msgid "[I AM IN CHARGE OF COLLECTING THE MOSS SAMPLES.]"
+msgstr "[我負責收集苔癬樣本。]"
+
+msgid "@niko_speak Cool!"
+msgstr "@niko_speak 酷耶！"
+
+msgid "[DID DR. SILVERPOINT SEND YOU?]"
+msgstr "[是希維波特博士派你來的嗎？]"
+
+msgid "@niko_speak No? I'm with \\p..."
+msgstr "@niko_speak 不是耶，我是跟\\p一起來的……"
+
+msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
+msgstr "[最近燐樹的生長率變慢了……]"
+

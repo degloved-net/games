@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko 何かの穀物が入った壺。"
+
+msgid "@niko This looks like flour!"
+msgstr "@niko 小麦粉みたい！"
+
+msgid "@niko Oats."
+msgstr "@niko 麦だね。"
+
+msgid "@niko Heads of wheat."
+msgstr "@niko 小麦の先っぽ。"
+
+msgid "A cat does sound nice..."
+msgstr "確かに、猫はありだな…"
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "1匹、街で探してくれと\nいとこに頼んでみようかな。"
+
+msgid "He just moved there."
+msgstr "最近そいつがそこに引っ越したんだ。"
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "これで全部だ…穀物の備蓄はこれしか残っていない…"
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "しかもネズミが出てきて困ってる…"
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko それなら、ネコを飼うのはどう？"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed ミーはネコじゃないよ、えっと…"
+
+msgid "@alula What's a cat?"
+msgstr "@alula ネコってなあに？"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed ミーとは違う生き物のこと！"
+
+msgid "@alula ?"
+msgstr "@alula ？"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak ネズミを捕まえる、4足歩行の動物だよ！"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp キツネみたいな？"
+
+msgid "@niko I... guess?"
+msgstr "@niko そう…たぶん？"
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak キツネ、かっこいいよね！"
+

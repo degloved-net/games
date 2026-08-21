@@ -1,0 +1,81 @@
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [안녕.]"
+
+msgid "@niko_shock AAAAAAA!!!!!"
+msgstr "@niko_shock 아아아아아!!!!!"
+
+msgid "@proto_gasp2 [...No!!]"
+msgstr "@proto_gasp2 [...안 돼!!.]"
+
+msgid "@niko_shock What do we do!!!"
+msgstr "@niko_shock 어떡하죠!!!"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [...]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk [...]"
+
+msgid "@proto2 [You have to take this.]"
+msgstr "@proto2 [이걸 가져가.]"
+
+msgid "@niko3 Wh-\\.\\.what?"
+msgstr "@niko3 ...\\.\\.네?"
+
+msgid "@niko3 The memory disk? But-"
+msgstr "@niko3 메모리 디스크를요? 하지만..."
+
+msgid "@niko_surprised Eek!"
+msgstr "@niko_surprised 윽!"
+
+msgid "@proto2b [This is where we part ways.]"
+msgstr "@proto2b [우린 여기서 헤어져야 돼.]"
+
+msgid "@proto2b [Niko, the path ahead will lead you to the Glen, right by the city gate.]"
+msgstr "@proto2b [니코, 앞에 있는 길을 따라가면 협곡으로 갈 수 있어. 도시 정문 바로 옆 말이지.]"
+
+msgid "@proto1C [When you're in the city, go find someone named Cedric. Give him the disk.]"
+msgstr "@proto1C [도시에 도착하면, 세드릭이라는 사람을 찾아. 그에게 디스크를 줘.]"
+
+msgid "@niko3 But... what happens if I..."
+msgstr "@niko3 하지만... 혹시라도... 제가..."
+
+msgid "@niko_distressed What if the squares..."
+msgstr "@niko_distressed 만에 하나 사각형이 나타나기라도 하면..."
+
+msgid "@proto_gasp2 [Hurry!]"
+msgstr "@proto_gasp2 [서둘러!]"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko And that robot was saying something."
+msgstr "@niko 저 로봇이 무슨 말을 했어요."
+
+msgid "@niko That you keep bringing me back."
+msgstr "@niko 당신이 절 계속 데려오는 거라고요."
+
+msgid "@niko We've been through all this before, haven't we."
+msgstr "@niko 이거, 전에도 있었던 일이죠?"
+
+msgid "@niko How many times?"
+msgstr "@niko 몇 번 있었던 거예요?"
+
+msgid "[\"1\", \"So Many\"]"
+msgstr "[\"한 번\",\"아주 여러 번\"]"
+
+msgid "@niko I see."
+msgstr "@niko 그렇군요."
+
+msgid "@niko_speak That's a lot of times!"
+msgstr "@niko_speak 엄청나네요!"
+
+msgid "@niko That robot told me to try and remember, so I will."
+msgstr "@niko 저 로봇이 기억을 해 보라고 했어요. 그래서 그러려고 해요."
+
+msgid "@niko_eyeclosed Sleepy time."
+msgstr "@niko_eyeclosed 졸리네요."
+

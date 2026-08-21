@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd というわけで…"
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd また会ったな。"
+
+msgid "@niko Hello..."
+msgstr "@niko こんばんは…"
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko あの…村にいた人だよね？"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd ああ。\nだが、ラムはいたるところに存在している。\\>\\n村にも、街にも…"
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd そして…\\.\\. 君の心の中にも。"
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed …分かった。"
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd もしラムが\nフロップサンダルを履いたら…"
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd やつらは… \\.Sラムになるだろう？"
+
+msgid "@niko ...I don't get it."
+msgstr "@niko …意味が分からない。"
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd 僕はかつて、オフィシャルラムクラブ\nwikiサイトを運営していた…"
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd …だが、ラムがサーバールームから逃げてしまい、\nページエラーが発生し続けるように\nなってしまった。"
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak …えっ？"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd \"404 RAM Not Found\"とな。"
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed 本当に意味がよく分からないよ。"
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd さて、ジョークはここまでにしないと。"
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd でも止められないんだ…\\n\\>\\@shepherd …ダメエェーって言ってもな。"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c 今のは分かった！"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what いっ！"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd 気をつけろ、Sラムを素手で触ると… \\.\\.\\n電気を食らうぞ！"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd 静電気だ！"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed ミーに「メエーッ」てしないでよ…"
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed ど…どうも初めまして…"
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak この羊さんはまったく反応してくれない…"
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko その代わり、\n毛に「ベェエー」って書いてあるよ。"
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd そいつはラムじゃない。"
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd そいつは…\\. \\.読み取り専用だ。"
+
+msgid "@niko I... see..."
+msgstr "@niko そっ…か…"
+
+msgid "@niko An electric kettle."
+msgstr "@niko 電気ポットだ。"
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko お湯を沸かしてるみたい。"
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd おお、そうだ、もうすぐ昼飯か。"
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd よかったら食べていくかい？最高に美味い…"
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\.…\\.ラームメンを。"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed あの…やめとくよ…"
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd よく考えると、ラーメンは切らしていたな。"
+

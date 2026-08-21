@@ -1,0 +1,57 @@
+msgid "@niko Lots of tiny shrimp swimming in this jar..."
+msgstr "@niko В этой банке много маленьких креветок..."
+
+msgid "@niko It's looking a little dim..."
+msgstr "@niko Какие-то они тусклые..."
+
+msgid "$Apparently, phase 1 of the evacuation ended prematurely."
+msgstr "$По-видимому, первая фаза эвакуации завершилась преждевременно."
+
+msgid "$The big ships started malfunctioning only after a few round trips."
+msgstr "$Большие корабли вышли из строя всего лишь после нескольких рейсов туда-обратно."
+
+msgid "$They said it was due to... something with squares?"
+msgstr "$Они сказали, что это как-то связано... с квадратами?"
+
+msgid "$I'm not sure what they mean by that."
+msgstr "$Не знаю, что именно они имели в виду."
+
+msgid "$Bummer, looks like they won't be able to transport most of these surplus bots to the city at this rate."
+msgstr "$Дело дрянь. Похоже, они не смогут перевести большинство лишних ботов в город."
+
+msgid "$And we worked so hard on those!"
+msgstr "$А мы так много над ними работали!"
+
+msgid "$But I suppose the rowbots are busy enough with transporting people as is."
+msgstr "$Но я думаю, что роботам-перевозчикам хватает работы, чтобы перевозить людей без каких-либо гарантий."
+
+msgid "$I think it's going to be our turn soon..."
+msgstr "$Думаю, скоро придёт наш черёд..."
+
+msgid "$Looks like they're evacuating the few tamed robots we have here."
+msgstr "$Кажется, они будут эвакуировать нескольких приручённых роботов, которые у нас тут есть."
+
+msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
+msgstr "$Это логично... Какой смысл держать их в Пустоши, если все люди уже уехали."
+
+msgid "$I wonder if the engineer is going too..."
+msgstr "$Интересно, едет ли инженер..."
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko Я боюсь лестниц..."
+
+msgid "@niko Oh! It's another one of these small machines."
+msgstr "@niko О! Это ещё одно из этих маленьких устройств."
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Я чувствую, как у меня волосы шевелятся на голове."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko Это силовая ячейка...\\nЯ полагаю."
+
+msgid "@niko_speak There's writing on this one too!"
+msgstr "@niko_speak Тут тоже что-то написано!"
+
+msgid "@niko It says \"Guardian of Residential Area\"."
+msgstr "@niko Тут написано «Охранник Жилого района»."
+

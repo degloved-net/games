@@ -1,0 +1,297 @@
+msgid "@niko_speak A streetlamp!\\>\\n\\@niko This one seems taller than the others..."
+msgstr "@niko_speak Фонарь!\\>\\n\\@niko Кажется, этот выше остальных..."
+
+msgid "@niko \\p and I fixed the camera!"
+msgstr "@niko \\p и я починили камеру!"
+
+msgid "Aw, sweet!"
+msgstr "О, блеск!"
+
+msgid "Are you here for your photos?"
+msgstr "Ты здесь, чтобы сделать фото?"
+
+msgid "@niko_speak Actually, yeah!"
+msgstr "@niko_speak Вообще-то да!"
+
+msgid "@niko I need to take a picture for....\\. reasons."
+msgstr "@niko Мне нужно сфотографироваться...\\. по определённым причинам."
+
+msgid "Well, I got good news and bad news."
+msgstr "Что ж, у меня для тебя хорошая новость и плохая новость."
+
+msgid "The good news is that the photo center is right behind me."
+msgstr "Хорошая новость: фотоцентр прямо за моей спиной."
+
+msgid "@niko The bad news is that.... it doesn't work, right?"
+msgstr "@niko А плохая, что он не работает, да?"
+
+msgid "Heh, you're catching on quick."
+msgstr "Хе-хе, схватываешь на лету."
+
+msgid "After operations ended in the Barrens, this place got shut down."
+msgstr "После того как промышленность в Пустоши заглохла, это место закрыли."
+
+msgid "All of the engineers lost their jobs and became street vendors."
+msgstr "Все инженеры потеряли работу и стали уличными торговцами."
+
+msgid "@niko_speak Maybe \\p and I can figure it out from them!"
+msgstr "@niko_speak Может, я и \\p придумаем, как им помочь!"
+
+msgid "That's good!"
+msgstr "Это хорошо!"
+
+msgid "It would certainly help out people with expired IDs."
+msgstr "Вы поможете многим людям с просроченными документами."
+
+msgid "...Like me."
+msgstr "...Например, мне."
+
+msgid "@niko No?"
+msgstr "@niko Нет..."
+
+msgid "Alrighty then."
+msgstr "Ну ладно тогда."
+
+msgid "I'll just... uh..."
+msgstr "Я просто... э-э..."
+
+msgid "...stand here."
+msgstr "Постою тут рядом..."
+
+msgid "@niko This stand smells a bit like burnt sugar..."
+msgstr "@niko От этого прилавка пахнет жжёным сахаром..."
+
+msgid "Yup... still gettin' the hang of making these fried candy skewers..."
+msgstr "Ага... Всё ещё пытаюсь наловчиться делать леденцы на палочке..."
+
+msgid "They don't taste too bad, though! Do you want one?"
+msgstr "На вкус не так уж и плохи! Хочешь один?"
+
+msgid "@niko It's okay, thank you!"
+msgstr "@niko Нет, спасибо!"
+
+msgid "@niko_speak You used to be one of the camera engineers, right?"
+msgstr "@niko_speak Вы — один из инженеров камеры, да?"
+
+msgid "The camera? Oh, joyous memories. We went through thick and thin together."
+msgstr "Камеры? О, счастливые были денёчки. Через что мы только не прошли вместе."
+
+msgid "And by that I mean the concave lens did."
+msgstr "Я имею в виду вогнутую линзу."
+
+msgid "@niko_speak This smells kinda nice!"
+msgstr "@niko_speak Пахнет вкусно!"
+
+msgid "@niko What is it?"
+msgstr "@niko Что это?"
+
+msgid "Breaded fish!"
+msgstr "Рыба в хлебе!"
+
+msgid "I toasted the bread myself!"
+msgstr "Я сам жарил хлеб!"
+
+msgid "@niko_what ...I... see..."
+msgstr "@niko_what А... Ясно..."
+
+msgid "@niko_speak Is there anything you remember about how to work the camera?"
+msgstr "@niko_speak Вы что-нибудь помните о том, как работать с камерой?"
+
+msgid "Let me see... When arranging the lenses, make sure that the thin lens is positioned between the two curved ones."
+msgstr "Дай-ка подумать... При установке линз тонкую нужно расположить между двумя изогнутыми."
+
+msgid "Hey kid!"
+msgstr "Эй, парень!"
+
+msgid "Want some soup dumplings? They're guaranteed to contain only a minimal amount of industrial byproducts!"
+msgstr "Хочешь суп с пельмешками? Гарантирую минимальное содержание побочных продуктов производства!"
+
+msgid "@niko I'll... pass..."
+msgstr "@niko Я... воздержусь..."
+
+msgid "@niko Can you tell me how to get the camera working again?"
+msgstr "@niko Вы не подскажете, как починить камеру?"
+
+msgid "Yes, yes, certainly. The thick lens should be positioned to the left of both of the curved lenses."
+msgstr "Да-да, конечно. Толстую линзу нужно разместить слева от обеих изогнутых линз."
+
+msgid "@niko Actually... I do want to hear about it!"
+msgstr "@niko Вообще-то... Я хочу послушать!"
+
+msgid "Curiosity killed the cat, eh?"
+msgstr "Любопытство кошку сгубило, хе-хе."
+
+msgid "@niko_eyeclosed I'm not a cat..."
+msgstr "@niko_eyeclosed Я не кошка..."
+
+msgid "Ok so!"
+msgstr "Итак!"
+
+msgid "I've invented a medicine to prepare everyone for the upcoming water shortage!"
+msgstr "Я изобрёл лекарство, чтобы спасти всех от надвигающейся нехватки воды!"
+
+msgid "All you gotta do is dissolve one of these pills in water."
+msgstr "Всё, что тебе нужно сделать, это растворить в воде одну такую таблетку."
+
+msgid "And then you drink the water."
+msgstr "И потом выпить."
+
+msgid "And then you never need to drink water again!"
+msgstr "После этого тебе больше никогда не захочется пить!"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak Что?"
+
+msgid "It also makes plants grow faster!"
+msgstr "А ещё это лекарство ускоряет рост растений!"
+
+msgid "@niko How... does it work?"
+msgstr "@niko Как оно работает?"
+
+msgid "Here, why don't you take a free sample?"
+msgstr "Вот, возьми бесплатный образец."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko Thanks?"
+msgstr "@niko Спасибо."
+
+msgid "Don't thank me! Go spread the word!"
+msgstr "Не благодари меня! Расскажи о нём всем!"
+
+msgid "Hey hey!"
+msgstr "Хей-хей!"
+
+msgid "Ready for me to blow your mind?"
+msgstr "Готов к абсолютному взрыву мозга?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "Aww, but..."
+msgstr "Ой, но..."
+
+msgid "@niko_speak Can you tell me how to fix the camera?"
+msgstr "@niko_speak Подскажите, пожалуйста, как починить камеру?"
+
+msgid "Hmm... It's been a while."
+msgstr "Хм-м... Прошло столько времени."
+
+msgid "I'm pretty sure that the bulgy lens goes on one of the ends, but I forget which."
+msgstr "Я точно помню, что выпуклая линза должна стоять с края. Но я забыл... с какого именно..."
+
+msgid "This is going to help so many people..."
+msgstr "Эта вещь поможет многим людям..."
+
+msgid "...and also make me rich and famous and cool."
+msgstr "И сделает меня богатым и крутым..."
+
+msgid "Actually... I exaggerated."
+msgstr "Вообще-то... я преувеличиваю."
+
+msgid "The effects of the pill wears off in like a week."
+msgstr "Действие таблетки длится около недели."
+
+msgid "But all you have to do is just take another pill!"
+msgstr "Но тогда тебе просто нужно принять ещё одну."
+
+msgid "@plight_2 Well, good luck..."
+msgstr "@plight_2 Что ж, удачи..."
+
+msgid "@niko_speak You too! \\>\\@niko With the lamp."
+msgstr "@niko_speak И тебе! \\>\\@niko С фонарём."
+
+msgid "@plight Hey, you lookin for something?"
+msgstr "@plight Эй, ты что-то ищешь?"
+
+msgid "@niko_eyeclosed Yeah... I need to go find a library card now...\\>\\n\\@niko Any idea where I can get one?"
+msgstr "@niko_eyeclosed Ага... Теперь мне нужен библиотечный абонемент...\\>\\n\\@niko Ты не знаешь, где такой достать?"
+
+msgid "@plight From...\\> the...\\> library?"
+msgstr "@plight Может...\\> в...\\> библиотеке?"
+
+msgid "@niko_eyeclosed I tried that already!\\>\\n\\@niko The person in charge wasn't here."
+msgstr "@niko_eyeclosed Я пытался!\\>\\n\\@niko Человека, который за это отвечает, не было на месте."
+
+msgid "@plight Oh, uh..."
+msgstr "@plight О..."
+
+msgid "@plight_2 Maybe check out the factory? You just take the stairs at the end of this street and make a turn."
+msgstr "@plight_2 Тогда, может, проверишь фабрику? Поднимись по лестнице в конце этой улицы и поверни."
+
+msgid "@plight There's a lot of scientists there.\\>\\n\\@plight_worry Scientists... read books, right?"
+msgstr "@plight Там полно всяких учёных.\\>\\n\\@plight_worry А учёные... читают книги, так?"
+
+msgid "@plight They might help you..."
+msgstr "@plight Возможно, они смогут помочь..."
+
+msgid "@niko He looks busy..."
+msgstr "@niko Кажется, он занят..."
+
+msgid "@plight_why You can tell, huh..."
+msgstr "@plight_why Это точно..."
+
+msgid "@plight Oh, hey there."
+msgstr "@plight О, привет!"
+
+msgid "@plight_2 You, uh... \\.\\.doing okay?"
+msgstr "@plight_2 Как... \\.\\.у тебя дела?"
+
+msgid "@niko Yup!\\>\\n\\@niko_speak What are you doing?"
+msgstr "@niko Всё хорошо!\\>\\n\\@niko_speak Что ты делаешь?"
+
+msgid "@plight Just filling this lamp here..."
+msgstr "@plight Просто заполняю этот фонарь..."
+
+msgid "@plight_2 It's...\\.\\.\\. taking a while..."
+msgstr "@plight_2 Это...\\.\\.\\. небыстрая работа..."
+
+msgid "@plight_worry I...\\.\\. think it might be leaking..."
+msgstr "@plight_worry Я думаю...\\.\\. что он где-то протекает..."
+
+msgid "@plight Well, good luck..."
+msgstr "@plight Что ж, удачи..."
+
+msgid "@plight Thanks for taking them off my hands, I guess?\\>\\nThe lenses, that is."
+msgstr "@plight Спасибо, что забрал их у меня.\\>\\nЯ про линзы."
+
+msgid "@plight_2b The scientists wanted me to use them to fix the camera in the photo booth, but..."
+msgstr "@plight_2b Учёные хотели, чтобы я с их помощью починил камеру в фотоцентре, но..."
+
+msgid "@plight_why ...you can imagine how that went."
+msgstr "@plight_why Можешь представить, чем это всё закончилось..."
+
+msgid "@plight_worry I'm just glad I didn't break anything..."
+msgstr "@plight_worry Я рад, что хотя бы ничего не сломал..."
+
+msgid "@plight_shock Hey! Isn't that..."
+msgstr "@plight_shock Эй! Разве это не..."
+
+msgid "@plight_wtf ..."
+msgstr "@plight_wtf ..."
+
+msgid "@plight_worry (oH GOODNESS GRACIOUS DID THE MESSIAH AND LITERALLY GOD THEMSELF JUST BREAK INTO MY HOUSE.)"
+msgstr "@plight_worry (О ГОСПОДИ, НАШЕ БОЖЕСТВО И МЕССИЯ ТОЛЬКО ЧТО ВЛОМИЛИСЬ В МОЙ ДОМ)."
+
+msgid "@niko_speak Oh! Was that... your..."
+msgstr "@niko_speak Ой! Это были... твои..."
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf Ты меня услышал???"
+
+msgid "@plight_worry (IT KEEPS HAPPENING.)"
+msgstr "@plight_worry (ЭТО ОПЯТЬ ПРОИЗОШЛО)."
+
+msgid "@niko_eyeclosed ...sorry about breaking into your house.\\>\\n\\@niko We didn't actually break anything, but..."
+msgstr "@niko_eyeclosed Прости, что мы залезли в твой дом.\\>\\n\\@niko Мы ничего тут не сломали, но..."
+
+msgid "@niko_speak \\p said I should take these plastic disks, for some reason?\\>\\n\\@niko Should we put them back?"
+msgstr "@niko_speak \\p говорит, что я должен зачем-то взять эти три пластиковых диска.\\>\\n\\@niko Нам положить их обратно?"
+
+msgid "@plight_2 It's okay, keep 'em."
+msgstr "@plight_2 Да ладно, берите."
+
+msgid "@plight_worry I wouldn't have been able to fix that machine anyway..."
+msgstr "@plight_worry Я всё равно не смог бы починить этот аппарат..."
+

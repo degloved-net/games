@@ -1,0 +1,252 @@
+msgid "@niko We made it!"
+msgstr "@niko On a réussi !"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go see mom."
+msgstr "@calamus Allez, Alula.\\>\\nAllons voir maman."
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak D'accord !"
+
+msgid "@cedric ...it's fixed."
+msgstr "@cedric ... C'est réparé."
+
+msgid "@cedric We can leave in the next five minutes, if you are ready."
+msgstr "@cedric On peut partir dans cinq minutes si tu veux."
+
+msgid "@niko_eyeclosed ...alright."
+msgstr "@niko_eyeclosed ... D'accord."
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@cedric_sigh I understand if you are upset."
+msgstr "@cedric_sigh Je comprends que tu sois en colère."
+
+msgid "@cedric3 But please...\\.\\. try to understand."
+msgstr "@cedric3 Mais s'il te plaît...\\.\\. essaie de comprendre."
+
+msgid "@cedric_sigh My father is doing this to help all of us."
+msgstr "@cedric_sigh Mon père fait cela pour nous venir en aide à tous."
+
+msgid "@cedric And that includes you, Niko."
+msgstr "@cedric Toi inclus, Niko."
+
+msgid "@cedric_sigh2 The fact that you can't even go back home...\\> I'm sure it upsets him greatly."
+msgstr "@cedric_sigh2 Le fait que tu ne puisses pas rentrer chez toi...\\> Je suis certain que cela l'agace beaucoup."
+
+msgid "@cedric It's..."
+msgstr "@cedric C'est..."
+
+msgid "@cedric_sigh Sigh..."
+msgstr "@cedric_sigh *Soupir* ..."
+
+msgid "@cedric_sigh2 The world means a lot to him, you know..."
+msgstr "@cedric_sigh2 Tu sais, le monde compte beaucoup pour lui..."
+
+msgid "@niko2 So... \\.\\.how does flying...\\.\\. work?"
+msgstr "@niko2 Donc... \\.\\.comment est-ce qu'on...\\.\\. vole ?"
+
+msgid "@cedric_talk ...wait, don't these machines already exist in your world? \\>\\n\\@cedric_hmm You should already know what to expect..."
+msgstr "@cedric_talk ... Ces machines existent dans ton monde, non ? \\>\\n\\@cedric_hmm Tu devrais savoir à quoi t'attendre..."
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed Pas vraiment..."
+
+msgid "@niko I've only heard about them!"
+msgstr "@niko J'en ai juste entendu parler !"
+
+msgid "@niko_eyeclosed They're usually... a lot bigger than this one, anyway."
+msgstr "@niko_eyeclosed Et elles sont généralement bien plus... grandes que celles-là, de toute façon."
+
+msgid "@cedric3 Ah..."
+msgstr "@cedric3 Ah..."
+
+msgid "@cedric_talk Well, a word of precaution, before we take to the air..."
+msgstr "@cedric_talk Bon, un petit conseil avant qu'on décolle..."
+
+msgid "@cedric_talk Please try not to panic."
+msgstr "@cedric_talk Essaie de ne pas paniquer."
+
+msgid "@cedric_smile It takes a few minutes of getting used to, but it's not that bad once you are in the air."
+msgstr "@cedric_smile Il faut quelques minutes pour s'y habituer, mais c'est plutôt pas mal une fois dans les airs."
+
+msgid "@niko_eyeclosed I'll... try."
+msgstr "@niko_eyeclosed Je... vais essayer..."
+
+msgid "@niko_speak Oh! I should probably tell Calamus and Alula where I'm going."
+msgstr "@niko_speak Oh ! Je devrais dire à Calamus et Alula où je vais."
+
+msgid "@cedric_talk You mean those two running over here now?"
+msgstr "@cedric_talk Tu parles de ces deux qui se dirigent vers nous ?"
+
+msgid "@alula_oh Niko!!!!"
+msgstr "@alula_oh Niko !!"
+
+msgid "@alula_oh Bad news!"
+msgstr "@alula_oh Mauvaise nouvelle !"
+
+msgid "@calamus_shock The boat is gone!"
+msgstr "@calamus_shock Le bateau a disparu !"
+
+msgid "@niko3 What?!"
+msgstr "@niko3 Quoi ?!"
+
+msgid "@alula_oh It's the squares!"
+msgstr "@alula_oh C'est les carrés !"
+
+msgid "@calamus_speak It looks like they're headed in this direction!"
+msgstr "@calamus_speak Ils se dirigent dans cette direction !"
+
+msgid "@niko3 That's..."
+msgstr "@niko3 C'est..."
+
+msgid "@cedric_eek ...fast..."
+msgstr "@cedric_eek ... rapide..."
+
+msgid "@cedric_talk ...Calamus, right?"
+msgstr "@cedric_talk Calamus, c'est ça ?"
+
+msgid "@calamus Yeah?"
+msgstr "@calamus Oui ?"
+
+msgid "@cedric_talk How...\\.\\. bad, is it?"
+msgstr "@cedric_talk C'est...\\.\\. si mauvais que ça ?"
+
+msgid "@calamus Doesn't seem to be of immediate danger."
+msgstr "@calamus Ce n'est pas un danger immédiat."
+
+msgid "@cedric_sigh Then... it is of priority that I take you to the city first, Niko"
+msgstr "@cedric_sigh Alors la priorité est de t'emmener en ville, Niko."
+
+msgid "@niko2 But what about them...?"
+msgstr "@niko2 Et eux alors... ?"
+
+msgid "@cedric I can make a detour later and drop you guys off in the city too, if you want."
+msgstr "@cedric Je peux faire un détour plus tard et vous déposer vous aussi en ville, si vous voulez."
+
+msgid "@cedric_talk The city is better equipped to handle the squares, you'll be safer there."
+msgstr "@cedric_talk La ville est mieux équipée pour faire face aux carrés, vous serez plus en sécurité là-bas."
+
+msgid "@alula_gasp YOU'RE TAKING US TO THE CITY!!!"
+msgstr "@alula_gasp TU NOUS EMMÈNES EN VILLE ?!!"
+
+msgid "@cedric_smile If you wish."
+msgstr "@cedric_smile Si vous voulez."
+
+msgid "@alula_gasp OH YEAH!!!"
+msgstr "@alula_gasp OUAIS !!!"
+
+msgid "@cedric Alright."
+msgstr "@cedric Très bien."
+
+msgid "@cedric3 I will be back here in an hour, so please wait for me until then."
+msgstr "@cedric3 Je serai de retour dans une heure, attendez-moi."
+
+msgid "@niko You guys sure you'll be fine here?"
+msgstr "@niko Tout ira bien pour vous ici ?"
+
+msgid "@alula Mhm!"
+msgstr "@alula Oui !"
+
+msgid "@calamus_speak The squares are still moving pretty slowly for now..."
+msgstr "@calamus_speak Les carrés bougent assez lentement pour l'instant..."
+
+msgid "@niko2 Alright, then..."
+msgstr "@niko2 Très bien, dans ce cas..."
+
+msgid "@niko_speak Guess we'll run into each other again, soon..."
+msgstr "@niko_speak On se revoit bientôt..."
+
+msgid "@niko_speak I'm ready to go!"
+msgstr "@niko_speak C'est bon !"
+
+msgid "@cedric_smile Alright!"
+msgstr "@cedric_smile Bien !"
+
+msgid "@calamus This is her grave..."
+msgstr "@calamus C'est sa tombe..."
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus On a presque terminé ici, alors préviens-nous quand tu voudras retourner aux ruines."
+
+msgid "@niko Okay."
+msgstr "@niko D'accord."
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko Hé, est-ce que tu sais où je pourrais trouver une batterie ?"
+
+msgid "@calamus Good question.."
+msgstr "@calamus Très bonne question..."
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh Nous...\\.\\. n'avons pas vraiment accès à l'électricité dans le Vallon."
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed Ah."
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak Oh, mais il y a des robots au centre de recherche !\\>\\nS'il y a une batterie, ils sauront te dire où elle est."
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko Compris, merci !"
+
+msgid "@alula Hi mom..."
+msgstr "@alula Bonjour, maman..."
+
+msgid "@alula Didja find any...\\@alula_pout ...any..."
+msgstr "@alula Est-ce que t'as trouvé...\\@alula_pout ... tes..."
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh ... Qu'est-ce que tu cherchais, déjà ?"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak Des rouages ?"
+
+msgid "@alula_speak Gears!\\> \\@alula Didja find any of those?"
+msgstr "@alula_speak Des rouages !\\>\\@alula Tu en as trouvé ?"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko Non, mais... J'ai trouvé cette boîte à musique, en revanche !"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp Oooh !"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko Est-ce que tu sais où je peux trouver des rouages ?"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula Des rouages ?\\>\\nQu'est-ce que c'est ?"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak Ça ressemble...\\.\\. à des cercles de métal avec des dents !"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak Des cercles... avec des dents ?!"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak Haha, ça a l'air amusant !\\>\\nC'est le genre d'objets que Magpie aurait !"
+
+msgid "@niko Magpie?"
+msgstr "@niko Magpie ?"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula Tu sais, le marchand !"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula Il récupère toutes sortes de choses amusantes !"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak Il conserve même du verre cassé et de la camelote !"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...Oh yeah! \\@niko\\>I think I know who you're talking about."
+msgstr "@niko_speak ... Oh oui ! \\@niko\\>Je crois que je vois de qui tu parles."
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak Il est tellement bizarre !"
+
+msgid "@niko It's a fire."
+msgstr "@niko C'est un feu."
+

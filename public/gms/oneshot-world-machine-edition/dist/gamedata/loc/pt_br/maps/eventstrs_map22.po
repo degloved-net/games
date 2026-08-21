@@ -1,0 +1,147 @@
+msgid "@plight .\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\.."
+msgstr "@niko  .\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@niko  .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight Sure is taking a while..."
+msgstr "@plight Com certeza vai levar um tempo..."
+
+msgid "@niko m-hm!"
+msgstr "@niko M-hm!"
+
+msgid "@plight_worry (oh goodness gracious I'm stuck in an elevator with the messiah and also literally god themself this is awkward)"
+msgstr "@plight_worry (Ai, minha nossa, estou preso num elevador com o Messias e, literalmente, uma divindade. Isso é muito estranho.)"
+
+msgid "@niko Oh, maybe we can chat to pass the time, then?"
+msgstr "@niko Poderíamos conversar para passar o tempo."
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf Você consegue me ouvir??"
+
+msgid "@plight_worry I mean, sure..."
+msgstr "@plight_worry Digo... claro..."
+
+msgid "@niko Alright, \\p, should I..."
+msgstr "@niko Certo, \\p, será que eu deveria..."
+
+msgid "[\"Ask about his job\", \"Ask about this city\", \"Ask about the library\", \"Resume awkward silence\"]"
+msgstr "[\"Perguntar sobre o trabalho\",\"Perguntar sobre a cidade\",\"Perguntar sobre a biblioteca\",\"Continuar o silêncio constrangedor\"]"
+
+msgid "@niko So... what do you do at your job?"
+msgstr "@niko Então... o que você faz aqui?"
+
+msgid "@niko_speak You seem really busy!"
+msgstr "@niko_speak Você parece muito ocupado!"
+
+msgid "@plight_2 I... uh...."
+msgstr "@plight_2 Eu... hm..."
+
+msgid "@plight I fix lights, mostly."
+msgstr "@plight Na maioria das vezes eu conserto luzes."
+
+msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
+msgstr "@plight_2b Mas eu também entrego e recarrego luminescência de alta energia nos prédios que precisam."
+
+msgid "@niko High energy?"
+msgstr "@niko Alta energia?"
+
+msgid "@plight Y'know, the super concentrated glowy stuff they had to process in factories, it's what powers most of this city's stuff."
+msgstr "@plight Sabe aquela coisa brilhante e superconcentrada que processam nas fábricas? É o que fornece energia para a maioria das coisas na cidade."
+
+msgid "@niko Oooh!"
+msgstr "@niko Aaah!"
+
+msgid "@plight We used to have a small army of delivery robots doing that..."
+msgstr "@plight Tínhamos uma pequena equipe de robôs para fazer essas entregas..."
+
+msgid "@plight_worry But lately a bunch of them have been breaking down?"
+msgstr "@plight_worry Mas ultimamente eles estão dando defeito."
+
+msgid "@plight_2 So until they fix them, I'll just have more work on my plate."
+msgstr "@plight_2 Então, até consertá-los, terei que fazer mais esse trabalho."
+
+msgid "@plight_why I haven't slept in so long..."
+msgstr "@plight_why Eu não durmo há tanto tempo..."
+
+msgid "@niko_speak When will the robots get fixed?"
+msgstr "@niko_speak Quando consertarão os robôs?"
+
+msgid "@plight_2 I have no idea, it's all up to the scientists over at the labs."
+msgstr "@plight_2 Não faço ideia... Isso é com os cientistas do laboratório."
+
+msgid "@plight_worry But they seem REALLY concerned about something else lately..."
+msgstr "@plight_worry Mas parece que eles estão mais preocupados com outra coisa..."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Hm?"
+
+msgid "@plight_worry ...Never a good sign when even the smart folks are worried."
+msgstr "@plight_worry ... Não é um bom sinal quando até o pessoal mais inteligente está preocupado."
+
+msgid "@niko This city is very big!"
+msgstr "@niko A cidade é grande demais!"
+
+msgid "@plight_2b It's smaller than it looks."
+msgstr "@plight_2b É menor do que você imagina."
+
+msgid "@plight_2 Getting pretty crowded too..."
+msgstr "@plight_2 Cada vez mais populosa também..."
+
+msgid "@plight_2 First there was the refugees from the Barrens, and now more Glen folks are moving in too."
+msgstr "@plight_2 Primeiro os refugiados das Terras Áridas e agora o pessoal do Vale que está se mudando para cá também."
+
+msgid "@niko Oh?"
+msgstr "@niko É?"
+
+msgid "@plight It's just safer here, y'know?"
+msgstr "@plight É mais seguro aqui, entende?"
+
+msgid "@plight I mean, it's not a haven by any means."
+msgstr "@plight Digo, não é nenhum tipo de refúgio."
+
+msgid "@plight_worry That square stuff that we just saw?"
+msgstr "@plight_worry Aquela coisa quadrada que acabamos de ver?"
+
+msgid "@plight_worry We get more of that here than anywhere else, apparently."
+msgstr "@plight_worry Parece que conseguimos mais daquilo aqui do que em outro lugar."
+
+msgid "@niko_eyeclosed I noticed..."
+msgstr "@niko_eyeclosed Eu percebi..."
+
+msgid "@plight_2 ...We're lucky it only seems to affect the city's infrastructure."
+msgstr "@plight_2 ... Temos sorte porque isso parece afetar apenas a infraestrutura da cidade."
+
+msgid "@plight The landmass itself is still holding up."
+msgstr "@plight A terra ainda está aguentando."
+
+msgid "@plight_2b Which is good, since there isn't much solid land here in the first place."
+msgstr "@plight_2b O que é bom, já que não temos muita terra sólida por aqui."
+
+msgid "@niko Can you tell me about the library?"
+msgstr "@niko Pode me falar a respeito da biblioteca?"
+
+msgid "@niko_speak I'm supposed to go there!"
+msgstr "@niko_speak Eu tenho que ir para lá!"
+
+msgid "@plight Oh yeah, that's one of my main delivery spots."
+msgstr "@plight Ah, claro, é um dos meus lugares principais de entrega."
+
+msgid "@plight Those reading lights are pretty high-maintenance."
+msgstr "@plight Aquelas luzes de leitura exigem muita manutenção."
+
+msgid "@plight_worry But I always feel out of place surrounded by smart people!"
+msgstr "@plight_worry Mas eu sempre me sinto deslocado quando estou com gente inteligente!"
+
+msgid "@plight Well, I guess you're pretty smart yourself, so you'll fit in fine."
+msgstr "@plight Bem, acho você bastante inteligente, então você se encaixa na situação."
+
+msgid "@plight_2b You and \\p."
+msgstr "@plight_2b Você e \\p."
+

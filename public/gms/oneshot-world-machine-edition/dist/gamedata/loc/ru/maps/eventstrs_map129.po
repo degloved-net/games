@@ -1,0 +1,42 @@
+msgid "@niko_eyeclosed ...The remains of a potted plant."
+msgstr "@niko_eyeclosed Остатки растения в горшке..."
+
+msgid "@niko The title is \"City Life: What to Expect\""
+msgstr "@niko Название «Жизнь в городе: чего ожидать»."
+
+msgid "@niko_speak Something has been chewing on this plant..."
+msgstr "@niko_speak Кто-то ел это растение..."
+
+msgid "I just moved here from the Glen. Things are so different in the city...."
+msgstr "Я только переехал сюда из Долины. В городе всё по-другому..."
+
+msgid "You've been to the Glen, right?"
+msgstr "Ты ведь был в Долине, верно?"
+
+msgid "@niko Yeah!"
+msgstr "@niko Ага!"
+
+msgid "Everything's so green back there...."
+msgstr "Там всё такое зелёное..."
+
+msgid "I really miss it!"
+msgstr "Я скучаю по тем местам!"
+
+msgid "My neighbor gave me some plants to cheer me up, but..."
+msgstr "Мой сосед дал мне кое-какие растения, чтобы подбодрить, но..."
+
+msgid ".....I should probably get a muzzle for Betsy there."
+msgstr "Наверное, лучше надеть на Бетси намордник."
+
+msgid "@niko It's a landscape portrait of the Glen."
+msgstr "@niko Это пейзаж Долины."
+
+msgid "@niko A picture of a ram, wearing a little pink bow."
+msgstr "@niko Рисунок барана с маленьким розовым бантиком."
+
+msgid "@niko_eyeclosed Not much is left of this plant..."
+msgstr "@niko_eyeclosed От этого растения мало что осталось..."
+
+msgid "@niko_eyeclosed ...The entire plant was eaten..."
+msgstr "@niko_eyeclosed Всё растение съедено..."
+

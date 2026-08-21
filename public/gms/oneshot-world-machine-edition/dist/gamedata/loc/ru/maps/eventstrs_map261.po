@@ -1,0 +1,120 @@
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "@niko2 It's a big penguin....\\.\\.plush?"
+msgstr "@niko2 Это большой пингвин...\\.\\. из плюша?"
+
+msgid "@niko6 No wait, it's just a penguin."
+msgstr "@niko6 А, нет, это просто пингвин."
+
+msgid "@niko_speak Hello\\..\\..\\.. penguin?"
+msgstr "@niko_speak Привет\\..\\..\\.. пингвин?"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko6 ...wait \\p didn't we see a plush like that in the apartments?"
+msgstr "@niko6 Погоди, \\p, разве мы уже не видели такую же игрушку в одной из квартир?"
+
+msgid "@niko3 H-hello?"
+msgstr "@niko3 П-привет!"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko_what Say... what is this place?"
+msgstr "@niko_what Кстати... Что это за место?"
+
+msgid "@niko_eyeclosed I sure wasn't expecting all this to be behind that big door!"
+msgstr "@niko_eyeclosed Я вообще не ожидал увидеть такое за той большой дверью!"
+
+msgid "@niko_what This place doesn't even look like the rest of the world, come to think of it."
+msgstr "@niko_what Если так подумать, это место даже не похоже на остальной мир."
+
+msgid "@niko_eyeclosed No answer, huh..."
+msgstr "@niko_eyeclosed Никакого ответа..."
+
+msgid "@niko2 \\p... Do YOU know where this is?"
+msgstr "@niko2 \\p... ТЫ знаешь, где это?"
+
+msgid "[\"Somewhere important\", \"I have no idea\", \"HELLO\"]"
+msgstr "[\"В каком-то важном месте.\",\"Понятия не имею.\",\"ПРИВЕТ.\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko ...where?"
+msgstr "@niko_speak Правда?\\>\\n\\@niko А где?"
+
+msgid "@niko_eyeclosed Worth a shot!"
+msgstr "@niko_eyeclosed Попытка не пытка!"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ..."
+
+msgid "@niko_eyeclosed Anyway."
+msgstr "@niko_eyeclosed Неважно."
+
+msgid "@niko_what2 ...the penguin won't stop staring at me!"
+msgstr "@niko_what2 Этот пингвин таращится на меня!"
+
+msgid "@niko5 What... should I do now, \\p?"
+msgstr "@niko5 \\p... Что мне теперь делать?"
+
+msgid "[\"Story of penguin\", \"Play penguin's game\", \"HELLO\"]"
+msgstr "[\"История пингвина.\",\"Сыграть в игру пингвина.\",\"ПРИВЕТ.\"]"
+
+msgid "@niko_speak I like stories!"
+msgstr "@niko_speak Я люблю истории!"
+
+msgid "[\"Once upon a time.\"]"
+msgstr "[\"Давным-давно.\"]"
+
+msgid "[\"There was a game.\"]"
+msgstr "[\"Существовала игра.\"]"
+
+msgid "[\"Where you talk\"]"
+msgstr "[\"Где можно было говорить.\"]"
+
+msgid "[\"...To penguin.\"]"
+msgstr "[\"Говорить с пингвином.\"]"
+
+msgid "@niko A game?\\> What happened when you talk to it?"
+msgstr "@niko Игра?\\> А что происходило, если с ним поговорить?"
+
+msgid "[\"HELLO\"]"
+msgstr "[\"ПРИВЕТ.\"]"
+
+msgid "@niko3 ...Hello."
+msgstr "@niko3 Привет..."
+
+msgid "@niko2 Alright..."
+msgstr "@niko2 Ладно..."
+
+msgid "[\"Fly penguin\", \"Melt penguin\", \"Become penguin\", \"HELLO\"]"
+msgstr "[\"Запустить пингвина в полёт.\",\"Растопить пингвина.\",\"Стать пингвином.\",\"ПРИВЕТ.\"]"
+
+msgid "@niko Fly penguin?"
+msgstr "@niko Запустить пингвина в полёт?"
+
+msgid "@niko_pancakes IT FLIES!"
+msgstr "@niko_pancakes ОН ЛЕТАЕТ!"
+
+msgid "@niko_what2 ...wait."
+msgstr "@niko_what2 Погодите..."
+
+msgid "@niko_what I don't think... \\.\\.I don't think penguins are supposed to do that."
+msgstr "@niko_what Мне кажется... \\.\\.пингвины не должны такое вытворять."
+
+msgid "@niko3 ...\\.\\.Wait what?"
+msgstr "@niko3 ...\\.\\.Что-что?"
+
+msgid "@niko_wtf2 ..."
+msgstr "@niko_wtf2 ..."
+
+msgid "...\\> ...\\> UM."
+msgstr "...\\> ...\\> ХМ-М."
+
+msgid "@niko_eyeclosed ...we should go, \\p."
+msgstr "@niko_eyeclosed \\p, мы должны идти."
+
+msgid "@niko_speak Goodbye, penguin!"
+msgstr "@niko_speak Прощай, пингвин!"
+

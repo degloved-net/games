@@ -1,0 +1,36 @@
+msgid "[I HAVE LOST COMMUNICATION WITH THE GUARDIAN OUTSIDE THE CITY GATE.]"
+msgstr "[J'AI PERDU CONTACT AVEC LE GARDIEN HORS DE LA PORTE DE LA VILLE.]"
+
+msgid "@niko2 The... big robot, right?"
+msgstr "@niko2 Le... grand robot, c'est bien ça ?"
+
+msgid "[PLEASE HELP ME CHECK ON THEM.]"
+msgstr "[S'IL VOUS PLAÎT, ALLEZ LE VOIR POUR MOI.]"
+
+msgid "[I CANNOT LEAVE MY STATION.]"
+msgstr "[JE NE PEUX PAS QUITTER MON POSTE.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Très bien..."
+
+msgid "[THE DEEPER RUINS ARE AHEAD.]"
+msgstr "[LES RUINES SONT LÀ-BAS.]"
+
+msgid "[DO NOTE THAT THEY ARE PARTIALLY FLOODED.]"
+msgstr "[VEUILLEZ NOTER QU'ELLES SONT PARTIELLEMENT INONDÉES.]"
+
+msgid "@niko3 There's squares all over the big robot..."
+msgstr "@niko3 Le grand robot est recouvert de carrés..."
+
+msgid "[AH.]"
+msgstr "[AH.]"
+
+msgid "[THAT IS OUTSIDE MY CAPACITY FOR HELP.]"
+msgstr "[JE NE SUIS PAS EN CAPACITÉ DE VOUS AIDER.]"
+
+msgid "[YOU MAY PROCEED TO THE DEEPER RUINS.]"
+msgstr "[VOUS POUVEZ VOUS RENDRE AUX RUINES.]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 D'accord..."
+

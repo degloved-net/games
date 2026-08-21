@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[LE COMUNICAZIONI CON IL PIANOTERRA SONO STATE INTERROTTE.]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[NON POSSO FARE NIENTE.]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$CHI HA PRESO LA MIA SPILLATRICE"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko Una specie di terminale..."
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko Ci sono dei piccoli buchi sul tavolo..."
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko Sembra che prima qua ci fosse imbullonato qualcosa..."
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko Ci sono dei piccoli buchi sul tavolo..."
+

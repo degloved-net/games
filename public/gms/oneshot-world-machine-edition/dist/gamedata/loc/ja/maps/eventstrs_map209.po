@@ -1,0 +1,51 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 魚が入ったシチューだ！"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 釣り竿だ。"
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp お兄ちゃんも釣りが得意なのよ！"
+
+msgid "@alula But I don't!"
+msgstr "@alula あたしはできないけどー！"
+
+msgid "@niko Same!"
+msgstr "@niko ミーも！"
+
+msgid "@niko An empty jar."
+msgstr "@niko この壺は空っぽ。"
+
+msgid "@niko A jar of worms."
+msgstr "@niko ミミズでいっぱいのビン。"
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed うええ！"
+
+msgid "Oh, hello, messiah."
+msgstr "やあ、こんばんは。救世主さん。"
+
+msgid "Would you like some stew?"
+msgstr "シチューでも食べる？"
+
+msgid "I made enough to feed a whole village!"
+msgstr "村人みんなの分、作ったの！"
+
+msgid "...literally!"
+msgstr "…本当だよ！"
+
+msgid "@niko_speak It's ok, thanks!"
+msgstr "@niko_speak ううん、大丈夫。ありがとう！"
+
+msgid "Looks like the Glen is deteriorating faster than ever, now..."
+msgstr "峡谷は、前よりも急速に悪化を始めているみたいね…"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱいだ。"
+
+msgid "@niko6 At least... I think it's fish!"
+msgstr "@niko6 うーん… たぶん魚！"
+
+msgid "@niko_eyeclosed They look kinda like snakes..."
+msgstr "@niko_eyeclosed ヘビに見えてきたけど…"
+

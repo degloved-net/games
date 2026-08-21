@@ -1,0 +1,138 @@
+msgid "@niko A bulletin board with lots of papers on it."
+msgstr "@niko 一塊佈告欄，上面有很多紙。"
+
+msgid "@niko It's a piece of amber on a string."
+msgstr "@niko 一塊琥珀繫在繩子上。"
+
+msgid "@niko_eyeclosed Looks just like that necklace the robot lady showed me..."
+msgstr "@niko_eyeclosed 看起來就像機器人女士給我看的項鍊一樣……"
+
+msgid "@niko It's a big photo."
+msgstr "@niko 一大張照片。"
+
+msgid "@niko2 Wait, no...\\.\\. it's a painting!"
+msgstr "@niko2 等一下，不對……\\.\\.它其實是一張畫！"
+
+msgid "@niko_eyeclosed Hard to tell at first..."
+msgstr "@niko_eyeclosed 第一眼真看不出來……"
+
+msgid "@niko A coat rack with a scarf and a big jacket."
+msgstr "@niko 衣帽架，上面掛了圍巾和一件大衣。"
+
+msgid "@rue_talk The room ahead doesn't really lead anywhere, but..."
+msgstr "@rue_talk 前面的房間不會真的通往任何地方，不過……"
+
+msgid "@rue \\p should still remember what to do here."
+msgstr "@rue \\p應該還記得在這裡該做什麼。"
+
+msgid "@niko It's a stack of books."
+msgstr "@niko 一疊書。"
+
+msgid "@niko_speak They're watercolor sticks!"
+msgstr "@niko_speak 是水彩蠟筆耶！"
+
+msgid "@cedric_sigh Of course, this is just a copy of it..."
+msgstr "@cedric_sigh 當然，這只是複製品而已……"
+
+msgid "@cedric This is my father's study."
+msgstr "@cedric 這裡是我父親的書房。"
+
+msgid "@cedric_sigh It feels like...\\.\\. he's still here, doesn't it?"
+msgstr "@cedric_sigh 感覺就像……\\.\\.他還在這裡，不是嗎？"
+
+msgid "@cedric_sigh ...like he's still with us."
+msgstr "@cedric_sigh ……就像他還在我們身邊。"
+
+msgid "@rue_sad ...Yeah."
+msgstr "@rue_sad ……是啊。"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [……]"
+
+msgid "@niko_speak Photos too!"
+msgstr "@niko_speak 還有照片！"
+
+msgid "@niko It's a shelf full of books."
+msgstr "@niko 書架上放滿了書。"
+
+msgid "@niko It's a tea set."
+msgstr "@niko 茶具組。"
+
+msgid "@niko There's a glass tea set on the table."
+msgstr "@niko 桌上有一組玻璃茶具。"
+
+msgid "@cedric_hmm Tea DOES sound really nice right now..."
+msgstr "@cedric_hmm 現在喝茶聽起來是個很誘人的主意……"
+
+msgid "@cedric_sigh Too bad there's no water in here..."
+msgstr "@cedric_sigh 只可惜這裡沒有水。"
+
+msgid "@niko Black clovers in a glass case."
+msgstr "@niko 玻璃盒子裡裝著黑苜蓿。"
+
+msgid "@niko It's a big book on the table."
+msgstr "@niko 桌上有一本大書。"
+
+msgid "@niko It's a pilot's helmet."
+msgstr "@niko 飛行員頭盔。"
+
+msgid "@niko The door is gone."
+msgstr "@niko 門不見了。"
+
+msgid "@niko2 The door is... gone?"
+msgstr "@niko2 門……不見了？"
+
+msgid "@proto2b [Well, the door does not exist without us there.]"
+msgstr "@proto2b [我們不在那裡，門就不會存在。]"
+
+msgid "@niko_eyeclosed Guess I can't go back out, huh..."
+msgstr "@niko_eyeclosed 看來我不能回去外面了，對不對……"
+
+msgid "@proto2 [...Do you need to?]"
+msgstr "@proto2 [……你需要回去嗎？]"
+
+msgid "@niko_eyeclosed ...not really."
+msgstr "@niko_eyeclosed ……也不是。"
+
+msgid "@rue_sigh That was... quite peculiar..."
+msgstr "@rue_sigh 那還真是……相當奇特……"
+
+msgid "@cedric_sigh2 I'll say!"
+msgstr "@cedric_sigh2 就是啊！"
+
+msgid "@proto_jealous [...]"
+msgstr "@proto_jealous [……]"
+
+msgid "@cedric_talk Hey, this is..."
+msgstr "@cedric_talk 嘿，這是……"
+
+msgid "@rue_oh ...The World Machine."
+msgstr "@rue_oh ……世界機器。"
+
+msgid "@niko_speak It's a blueprint!"
+msgstr "@niko_speak 一張藍圖！"
+
+msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
+msgstr "@niko 很大張、很詳細的圖，畫了有很多電視螢幕的機器。"
+
+msgid "@proto2b [...That's called a blueprint, Niko.]"
+msgstr "@proto2b [……霓光，那個叫藍圖。]"
+
+msgid "@niko_pancakes ...So THAT's what a blueprint is!"
+msgstr "@niko_pancakes ……原來這就是藍圖啊！"
+
+msgid "@proto2b [...This place contains a lot of memories.]"
+msgstr "@proto2b [……這個地方充滿許多回憶。]"
+
+msgid "@proto_eyeclosed [I am... grateful, to see it again.]"
+msgstr "@proto_eyeclosed [我……能再次看到這間房間，覺得很感激。]"
+
+msgid "@niko A box filled with folders and loose paper."
+msgstr "@niko 裝滿資料夾和活頁紙的箱子。"
+
+msgid "@niko A scribbly drawing is pinned up here."
+msgstr "@niko 這裡釘了一張潦草的圖。"
+
+msgid "@niko A box full of notebooks and sketchbooks."
+msgstr "@niko 裝滿筆記本和素描本的箱子。"
+

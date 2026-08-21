@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko Sabe onde encontro uma bateria para uma máquina voadora?"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[EU TENHO UMA BATERIA INTEGRADA AO MEU SISTEMA.]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[NÃO É POSSÍVEL USÁ-LA PARA ALIMENTAR OUTRAS COISAS.]"
+
+msgid "@niko Ah..."
+msgstr "@niko Ah..."
+
+msgid "[STAY SAFE.]"
+msgstr "[FIQUE BEM.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak Você também!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[OLÁ, PESSOA.]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[A ESTAÇÃO DE PESQUISA ESTÁ PASSANDO POR DIFICULDADES TÉCNICAS.]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 Dá para ver..."
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed Até a ponte para cá estava..."
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[FOI A DRA. SILVERPOINT QUE MANDOU VOCÊ?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ... não?"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[AH, MUITO BEM. FIQUE À VONTADE.]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko Falando nisso, sabe onde encontro uma bateria para uma máquina voadora?"
+
+msgid "[I DO NOT.]"
+msgstr "[NÃO.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Certo..."
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[HÁ CADA VEZ MAIS ANOMALIAS...]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak Sabe onde encontro uma bateria para uma máquina voadora?"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[JÁ VERIFICOU A SALA DE ENERGIA?]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko Sabe dizer onde consigo achar uma bateria para uma máquina voadora?"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[O QUE É UMA MÁQUINA VOADORA.]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Deixa para lá."
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[ALGUMAS TREPADEIRAS ACABARAM DE CRESCER AO REDOR DESTA PONTE.]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[COMO SE TIVESSEM A INTENÇÃO DE CONSERTÁ-LA.]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Sim..."
+

@@ -1,0 +1,264 @@
+﻿Титры
+=======
+
+Программирование
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+Графика
+--------
+
+* Nightmargin (Casey Gu)
+
+Дизайн персонажей
+----------------
+
+* Nightmargin
+* Дизайн Маизы и Джордж — Eliza
+
+Саундтрек
+----------
+
+* Nightmargin
+* Дополнительные треки — Eliza и Michael
+* Часть семплов предоставили пользователи FreeSound.org
+  Jovica, Dymewiz, hanstimm и Freed
+
+История
+-----
+
+* Техническая концепция: Eliza
+* Общий сюжет и устройство мира: Nightmargin, Eliza
+* Сценарий: Nightmargin, Eliza, Michael
+* Сценарий (профили друзей): Taeler Dixon
+
+Дополнительный вклад
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+Системное программирование
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+Продюсер версии 2016 года
+-----------------------
+
+* Mark Conforti
+
+Тестировщики версии 2016 года
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+Тестировщики версии для консолей
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+АВТОРЫ ФОНОВ
+----------------
+
+Marina "Sylladexter" K
+* Маиза
+* Тайное общество баранов
+
+Missusruin
+* Прогулка по библиотеке
+
+Saren Stone
+* Пророки
+
+Temmie Chang
+* Кафе
+
+T. C.
+* Посёлок
+* Завод
+
+
+Перевод OneShot для консолей и систем
+------------------------------------
+
+Перевод на французский
+* Mahmoud Khabatou
+
+Корректура французского
+* Mohamed Khabatou
+
+Контроль качества на французском языке
+* Mahmoud Khabatou
+
+Перевод на испанский
+* Edgar Rangel
+
+Корректура испанского
+* Sebastián Herrera
+
+Контроль качества на испанском языке
+* Jair Casillas
+
+Перевод на корейский
+* So-jung Jung
+
+Корректура корейского, контроль качества
+* Seo-Mi Ha
+
+Перевод на португальский
+* Jay Ruas
+
+Корректура португальского, контроль качества
+* Karina Peixe
+* Jay Ruas
+
+Перевод на японский, контроль качества
+* Sakura Yamaguchi
+
+Корректура японского
+* Yoshiki Kono
+
+Перевод на итальянский
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+Корректура итальянский
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+Контроль качества на итальянский языке
+* Giammaria Angeloni
+
+
+Ресурсы
+---------
+
+* Пиксельный системный шрифт — Volter (Goldfish).
+* Шрифт для текста на латинице — Terminus. Шрифт для восточноазиатских языков — WenQuanYi Micro Hei. Шрифты для дополнительного графического текста — The Jenna Sue и RM Typerighter. Подробнее в \[разделе лицензий\].
+* Шрифт для текста на японском языке — HigashiOme-Gothic.
+* Резервные шрифты для специальных символов — Noto Sans и Noto Sans JP.
+* Семплы FreeSound.org предоставили пользователи...
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* Дополнительные звуковые эффекты были созданы с помощью \[Bfxr\] (http://www.bfxr.net/).
+* Текстуры для карты и двери взяты с \[wildtextures\] (http://www.wildtextures.com/). Дополнительные ресурсы взяты с Textures.com.
+* Devin Elle Kurtz (кисти текстур)
+* Dalton Maag LtD (шрифт Aller Display)
+
+Отдельная благодарность
+-----------------
+
+* Saniblues: тестирование и обратная связь
+* Redoplus: тестирование и обратная связь
+* Almond-Goddess: тестирование и обратная связь
+* FelixTheJudge: замечания по музыке
+* Albatrosssoup: замечания по музыке
+* Sauraen: замечания по музыке
+* Stanhoff: эксперт по физике
+* Kalkie: второстепенный персонаж
+* Kitsiinabox: второстепенный персонаж
+* Noxid: за то, что ты Noxid
+* Тестировщики оригинальной игры *OneShot*:
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* Всем, кто поддерживал нас с выхода оригинальной игры.
+* Вам!
+
+Лицензии
+--------
+
+Создано с помощью FMOD Studio от Firelight Technologies Pty Ltd.
+(https://www.fmod.com/attribution).
+
+Звуки с FreeSound.org использованы в игре на основании одной из следующих лицензий:
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/).
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/).
+
+Terminus использован на основании лицензии \[Open Font License\] (http://scripts.sil.org/OFL).
+
+Noto Sans и Noto Sans JP использованы на основании лицензии \[Open Font License\] (http://scripts.sil.org/OFL).
+
+HigashiOme Gothic использован на основании лицензии \[SIL Open Font License\] (https://scripts.sil.org/OFL_web).
+
+Jenna Sue куплен и использован на основании лицензии (http://www.jennasuedesign.com/).
+
+RM Typerighter использован на основании лицензии \[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/).
+
+The FontStruction Thirteen Pixel Fonts (http://fontstruct.com/fontstructions/show/761985) (автор 30100flo) использован на основании лицензии Creative Commons Attribution Share Alike (http://creativecommons.org/licenses/by-sa/3.0/).
+
+WenQuanYi Micro Hei использован на основании лицензии \[Apache License 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0) и \[GNU General Public License v3\] (http://www.gnu.org/copyleft/gpl.html) (действуют исключения на внедрение шрифтов).
+
+Ресурсы wildtextures
+\[бесплатны для коммерческого использования\] (http://www.wildtextures.com/terms-of-use/).
+
+Условия использования Textures.com доступны \[здесь\] (https://www.textures.com/about/terms-of-use).

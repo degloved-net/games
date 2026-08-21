@@ -1,0 +1,60 @@
+msgid "@niko So this is the way out?"
+msgstr "@niko ¿Es esta la salida?"
+
+msgid "@silver [There wasn't any data on this path in the server room...]"
+msgstr "@silver [No había información sobre este camino en la sala del servidor...]"
+
+msgid "@proto2 [It's new.]"
+msgstr "@proto2 [Es nuevo.]"
+
+msgid "@proto1 [Niko, get in the minecart.]"
+msgstr "@proto1 [Niko, sube al vagón.]"
+
+msgid "@niko O-Okay."
+msgstr "@niko V... vale."
+
+msgid "@ed [I tried.]"
+msgstr "@ed [Lo he intentando.]"
+
+msgid "@ed [I really did!]"
+msgstr "@ed [¡De verdad!]"
+
+msgid "@ed [But I...]"
+msgstr "@ed [Pero...]"
+
+msgid "@ed [...dE St ablIzi Nng]"
+msgstr "@ed [... dE sEs taBilI zAc iÓn]"
+
+msgid "@ed [I'm sorry, Niko.]"
+msgstr "@ed [Lo siento, Niko.]"
+
+msgid "@ed [I    tR IE d tO PrOTE cT yOU.]"
+msgstr "@ed [He   inT eN tAdO Pr oTe GerTe.]"
+
+msgid "@ed [...bu t c An't hold it o f f foRevER.]"
+msgstr "@ed [... pe r O nO puE d o coN tE NerL o.]"
+
+msgid "@niko3 What was that?"
+msgstr "@niko3 ¿Qué ha sido eso?"
+
+msgid "@proto_gasp2 [...HERE TOO?]"
+msgstr "@proto_gasp2 [... ¿AQUÍ TAMBIÉN?]"
+
+msgid "@silver3 [Watch out!]"
+msgstr "@silver3 [¡Cuidado!]"
+
+msgid "@proto1 [Please keep moving forward.]"
+msgstr "@proto1 [Sigue avanzando, por favor.]"
+
+msgid "@proto2b [...I would appreciate it if you do not linger here.]"
+msgstr "@proto2b [... Preferiría que no te quedaras mucho por aquí.]"
+
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [Hola.]"
+
+msgid "@silver2 [I don't even know where this tunnel leads...]"
+msgstr "@silver2 [Ni siquiera sé a dónde lleva este túnel...]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [Vamos]."
+

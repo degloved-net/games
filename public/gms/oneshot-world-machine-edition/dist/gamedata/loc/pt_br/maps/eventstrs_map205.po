@@ -1,0 +1,21 @@
+msgid "@calamus_sad At least the courtyard is unaffected for now..."
+msgstr "@calamus_sad Pelo menos o pátio não foi afetado por enquanto..."
+
+msgid "@niko It's a ball."
+msgstr "@niko Uma bola."
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula É minha!\\>\\n\\@alula_pout Mas ela não quica mais como antes..."
+
+msgid "@alula_pout We usually get to the burial grounds through our friend, but..."
+msgstr "@alula_pout Normalmente é nosso amigo que leva a gente até o cemitério, mas..."
+
+msgid "@alula_oh ...he hasn't been here in forever!"
+msgstr "@alula_oh ... já faz uma eternidade que ele não aparece aqui!"
+
+msgid "@calamus Normally this courtyard would be where we meet up..."
+msgstr "@calamus A gente costuma se encontrar nesse jardim..."
+
+msgid "@alula I hope he comes back soon..."
+msgstr "@alula Espero que ele não demore..."
+

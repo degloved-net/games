@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd Então..."
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd Encontramo-nos novamente."
+
+msgid "@niko Hello..."
+msgstr "@niko Olá..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak Espere!"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko Você não é da... aldeia?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd Sim, mas os carneiros estão em todo lugar.\\>\\nNa aldeia, na cidade..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd até mesmo...\\.\\. em seu coração."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ... certo."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd Se os carneiros tivessem trabalho..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd Seria... \\.esvaziamento de pilha."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ... eu não entendi."
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd Eu era o proprietário de um site wiki sobre carneiros..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ... mas tivemos muitos problemas na páginas por causa dos carneirinhos saltando da sala do servidor."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ... o quê?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd 404 carneiro não encontrado."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed Eu não faço ideia do que isso quer dizer."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd Hm. Acho que isso é uma piada interna."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd Não há como ajudar... \\n\\>\\@shepherd ... eles eram bé-é-em ruins."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c Essa eu entendi!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Ah!"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd Os carneiros são muito amigos... \\.\\.\\nA gente pode sempre contar com eles!"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd Infinitamente!"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed Não venha com “bé” para cima de mim..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed É bom ver você também..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak Esse carneiro não esboça nenhuma reação..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko Embora a palavra “bé” esteja escrita em sua lã."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd Isso não é um CARNEIRO."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd Ele é...\\. \\. Uma unidade binária de contagem."
+
+msgid "@niko I... see..."
+msgstr "@niko Hm... entendo..."
+
+msgid "@niko An electric kettle."
+msgstr "@niko Uma chaleira elétrica."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko Parece água fervente."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd Ah, certo, está quase na hora do almoço."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd Gostaria de tomar uma sopa e depois..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.Contar carneirinhos para dormir?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed Agora não..."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd Por falar nisso, acho que estamos sem sopa."
+

@@ -1,0 +1,171 @@
+msgid "My mommy is making food for everyone!"
+msgstr "엄마가 모두를 위해 음식을 만들고 있어!"
+
+msgid "I want to help her catch fish, but I'm not a grownup yet!"
+msgstr "엄마가 낚시하는 것을 돕고 싶은데, 나는 아직 어려! "
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko 지평선이 푸르게 빛나고 있어요."
+
+msgid "Hm..."
+msgstr "흐음..."
+
+msgid "Nothing's biting..."
+msgstr "입질이 없네..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "안녕, 난 접근할 수 없는 NPC야."
+
+msgid "*sniff*"
+msgstr "*훌쩍*"
+
+msgid "@niko Are you okay?"
+msgstr "@niko 괜찮아요?"
+
+msgid "I WANNA GO BACK HOME!!!"
+msgstr "집에 가고 싶어!!!"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko 항아리 바닥에 작은 생선 몇 마리가 있어요."
+
+msgid "This island has more moss covering than our village did."
+msgstr "마을보다 이 섬에 이끼가 더 많아."
+
+msgid "Would've been nice to build a settlement here."
+msgstr "여기에 마을을 세우면 괜찮겠는걸."
+
+msgid "...too late now, I guess."
+msgstr "...이제 너무 늦었겠지만."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 말린 생선으로 가득해요."
+
+msgid "The land fragmentation is happening faster and faster now..."
+msgstr "땅의 파편화가 점점 더 빨라지고 있어..."
+
+msgid "But...\\.\\. looks like the vines are slowing it down..."
+msgstr "하지만...\\.\\. 덩굴이 겨우 저지하고 있는 것 같아..."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak 생선 머리가 가득해요!"
+
+msgid "Our village was ransacked by the squares not long ago..."
+msgstr "우리 마을은 얼마 전에 사각형에게 유린당했어..."
+
+msgid "Most of us made it out alive, but we can't really go back anymore."
+msgstr "대부분 살아남긴 했지만, 이제 마을로는 돌아갈 수가 없어."
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 아..."
+
+msgid "Squares are bad news, man."
+msgstr "사각형들은 나쁜 징조야."
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko 말린 생선이 가득 차 있어요."
+
+msgid "Sigh..."
+msgstr "하아..."
+
+msgid "We won't last long now, will we?"
+msgstr "우리는 오래 살아남지 못할 거야, 그렇지?"
+
+msgid "The sun can't fix the squares..."
+msgstr "태양이 사각형을 없앨 순 없어..."
+
+msgid "The sun can't restore the land..."
+msgstr "태양이 땅을 복구할 순 없어..."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak 게 껍질 같아요."
+
+msgid "@magpie By the way... if you ever see a big guy with goggles and a cool helmet.."
+msgstr "@magpie 그건 그렇고... 혹시 고글을 쓰고 멋진 헬멧을 쓴 사람을 만나면..."
+
+msgid "@magpie_smile Tell him the trader in the Glen said hi!"
+msgstr "@magpie_smile 협곡의 교역상이 안부를 전하더라고 해 줘!"
+
+msgid "@magpie Also ask him if he has any more music boxes for trading."
+msgstr "@magpie 교환할 오르골이 더 있는지도 물어봐 주고."
+
+msgid "@niko Will do!"
+msgstr "@niko 그럴게!"
+
+msgid "@niko_speak Oh! You're the trader guy!"
+msgstr "@niko_speak 아! 당신이 그 교역상이군요!"
+
+msgid "@magpie_smile Sure am!\\>\\n\\@magpie You here to trade?"
+msgstr "@magpie_smile 그렇지!\\>\\n\\@magpie 물물교환을 하러 온 거야?"
+
+msgid "@magpie_hm 'Cause if you are, then I got bad news for ya."
+msgstr "@magpie_hm 그렇다면 나쁜 소식이 있거든."
+
+msgid "@magpie_hm A lot of my stuff is back at my cart, which was sadly abandoned when I was running for my life."
+msgstr "@magpie_hm 내 물건들은 아직 내 수레에 실려 있어. 죽어라 달아나느라 미처 수레를 못 챙겼지."
+
+msgid "@magpie So my collection is...\\.\\. very limited right now."
+msgstr "@magpie 그래서 내 컬렉션은...\\.\\. 매우 부족한 상황이야."
+
+msgid "@magpie_smile Managed to grab some of my favorite things before I left, though!"
+msgstr "@magpie_smile 하지만 내가 제일 좋아하는 물건들은 겨우 챙겼지!"
+
+msgid "@niko_speak Oh! Uh..."
+msgstr "@niko_speak 아! 어..."
+
+msgid "@niko Do you have anything like...\\.\\. gears?"
+msgstr "@niko 혹시 기어 같은...\\.\\. 것도 있어요?"
+
+msgid "@magpie_oh Gears?\\.\\. Like... the metal spinny things? \\>\\@magpie I don't think I have anything like that..."
+msgstr "@magpie_oh 기어?\\.\\. 삐죽삐죽한 금속 물체... 말이야? \\>\\@magpie 그런 건 없을 텐데..."
+
+msgid "@magpie_oh Wait."
+msgstr "@magpie_oh 잠깐."
+
+msgid "@magpie I do have this box thing that you can wind up and play a song."
+msgstr "@magpie 태엽을 감으면 노래가 나오는 이 상자는 있어."
+
+msgid "@niko_speak That's a music box!"
+msgstr "@niko_speak 오르골이네요!"
+
+msgid "@magpie_smile Yeah!\\n\\>\\@magpie I bet there's lots of little metal bits in there!"
+msgstr "@magpie_smile 그래!\\n\\>\\@magpie 이 안에 작은 금속들이 많이 있을 거야!"
+
+msgid "@niko_speak Oh! That might work!"
+msgstr "@niko_speak 오! 그거면 되겠어요!"
+
+msgid "@magpie_hm But I'm not sure if I want to trade it away...\\>\\nIt's one of my favorite things!"
+msgstr "@magpie_hm 하지만 이걸 줘 버려도 괜찮으려나...\\>\\n내가 가장 좋아하는 거거든!"
+
+msgid "@niko_eyeclosed Aw..."
+msgstr "@niko_eyeclosed 이런..."
+
+msgid "@magpie_hm ..."
+msgstr "@magpie_hm ..."
+
+msgid "@magpie_oh Oh, what am I saying!\\>\\n\\@magpie_smile You're the savior!"
+msgstr "@magpie_oh 아, 내가 무슨 소릴!\\>\\n\\@magpie_smile 넌 구원자잖아!"
+
+msgid "@magpie_hm Things have been getting bad around here lately."
+msgstr "@magpie_hm 최근에 이 주변 상황이 악화되고 있어."
+
+msgid "@magpie_smile If I don't help you, I might not even be around much longer..."
+msgstr "@magpie_smile 널 돕지 않으면 난 어차피 오래 살지 못하겠구나..."
+
+msgid "@magpie You need this to save the world, right?\\>\\nTake it."
+msgstr "@magpie 세상을 구하기 위해 필요한 거지?\\>\\n받아."
+
+msgid "@niko_speak Ah! Thank you!"
+msgstr "@niko_speak 아! 고마워요!"
+
+msgid "The vines are everywhere!"
+msgstr "사방에 덩굴이야!"
+
+msgid "The plant lady must be protecting us!"
+msgstr "식물 아가씨가 우리를 보호하는 게 분명해!"
+
+msgid "@niko_upset ...yeah..."
+msgstr "@niko_upset ...맞아요..."
+
+msgid "@shepherd What a day..."
+msgstr "@shepherd 대단한 날이네..."
+

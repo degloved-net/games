@@ -1,0 +1,996 @@
+msgid "@niko I don't need to use this anymore."
+msgstr "@niko これはもう使わなくてよさそう。"
+
+msgid "$RESIDENTIAL TRACKING MACHINE"
+msgstr "$住宅追跡機"
+
+msgid "$For reference, an explanation of the symbols:"
+msgstr "$参照用\n記号の説明："
+
+msgid "$Cross: Medical Units are assigned to this building."
+msgstr "$十字架：\nその建物に医療部隊が\n割り当てられる。"
+
+msgid "$Robot: A robot is assigned to this building."
+msgstr "$ロボット：\nその建物にロボットが\n割り当てられる。"
+
+msgid "$Electricity: A power cell is assigned to this building."
+msgstr "$電気：\nその建物にパワーセルが\n割り当てられる。"
+
+msgid "@proto1 [Okay, all of us are here.]"
+msgstr "@proto1 [よし、みんな揃ったね。]"
+
+msgid "@proto1 [There is an emergency exit behind my computer terminal.]"
+msgstr "@proto1 [ボクのコンピューター端末の後ろに、\n非常出口がある。]"
+
+msgid "@proto2 [We did not want anyone to stumble upon this route, so the terminal has been weighed down.]"
+msgstr "@proto2 [誰かがこの通路を見つけてしまわないように、\nコンピューターはおもりで固定されてる。]"
+
+msgid "@proto1 [It cannot be moved by normal means.]"
+msgstr "@proto1 [通常の方法で動かすことはできない。]"
+
+msgid "@proto2 [...But with our combined effort, it might budge.]"
+msgstr "@proto2 […しかし、ボクたちが力を合わせれば動くかも。]"
+
+msgid "@proto2b [...Maybe.]"
+msgstr "@proto2b […たぶん。]"
+
+msgid "@proto2b [I am not strong.]"
+msgstr "@proto2b [ボクは力持ちじゃない。]"
+
+msgid "@niko2 I'm not that strong either..."
+msgstr "@niko2 ミーもそんなに力ないよ…"
+
+msgid "@proto1c [If that doesn't work, we might need to dig around it, and...]"
+msgstr "@proto1c [もし動かせなかった場合は、\n周囲を掘って、その後…]"
+
+msgid "@silver2 [You...\\.\\. could've just asked.]"
+msgstr "@silver2 [あら…\\.\\. 言ってくれれば良かったのに。]"
+
+msgid "@silver_eyeclosed [Phew.]"
+msgstr "@silver_eyeclosed [ふう。]"
+
+msgid "@Silver [Come on.]"
+msgstr "@Silver [さ、行きましょ。]"
+
+msgid "@proto_jealous [...Showoff.]"
+msgstr "@proto_jealous […あの自慢げな顔。]"
+
+msgid "@proto1 [...]"
+msgstr "@proto1 […]"
+
+msgid "@proto1 [I...]\\>\\n[...recognize the light in your eyes...]"
+msgstr "@proto1 [その光…]\\>\\n[…その目の光を、ボクは知ってる…]"
+
+msgid "@proto1 [You are the person I am destined to meet.]"
+msgstr "@proto1 [ボクと会う運命にある人。]"
+
+msgid "@proto1b [....Niko?]"
+msgstr "@proto1b [……ニコ？]"
+
+msgid "@niko3 Y...\\.\\.yes?"
+msgstr "@niko3 は…\\.\\.はい？"
+
+msgid "@proto1b [....What is your name?]"
+msgstr "@proto1b [……名前は？]"
+
+msgid "@niko2 I'm Niko..."
+msgstr "@niko2 ニコ…"
+
+msgid "@proto2 [Do you know who sent you?]"
+msgstr "@proto2 [誰に言われて来たの？]"
+
+msgid "@niko2 Oh....\\>\\n...um..."
+msgstr "@niko2 え……\\>\\n…うーん…"
+
+msgid "@niko3 .....n...o?"
+msgstr "@niko3 …わかんない。"
+
+msgid "@niko ...wait, do you mean who sent me to this world?"
+msgstr "@niko …待って、来たって、\nこの世界にってこと？"
+
+msgid "@niko_speak There was a robot a while back who told me about how I'm the messiah and stuff..."
+msgstr "@niko_speak ミーが救世主ってこととか、色んなことを\n教えてくれたロボットならいたよ…"
+
+msgid "@niko_speak So... I'm guessing \\p sent me!"
+msgstr "@niko_speak だから…\nたぶん、 \\p じゃないかな！"
+
+msgid "@niko With them being god and all."
+msgstr "@niko なにせ神様だもん。"
+
+msgid "@proto2 [...]"
+msgstr "@proto2 […]"
+
+msgid "@niko_speak The robot looks a little bit like you, even!\\>\\n\\@niko Maybe you... know each other?"
+msgstr "@niko_speak そのロボット、ちょっとだけ君に\n似てるかも！ \\>\\n\\@niko もしかして…お友達？"
+
+msgid "@proto1 [I cannot say.]"
+msgstr "@proto1 [分からない。]"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@proto1 [A lot of my memories have been removed for safety reasons.]"
+msgstr "@proto1 [ボクの記憶は、安全上の理由で\nほとんどが削除された。]"
+
+msgid "@niko_wtf Your memories were removed?!"
+msgstr "@niko_wtf 記憶が削除された？！"
+
+msgid "@niko3 That's terrible!!"
+msgstr "@niko3 そんなのひどい！！"
+
+msgid "@niko Wait...\\>\\n\\@niko_eyeclosed I'm... guessing that's less of a big deal for a robot..."
+msgstr "@niko あっ… \\>\\n\\@niko_eyeclosed ううん…ロボットだから\nそんな大したことじゃないのかな…"
+
+msgid "@proto2b [I am going to assume you do not know who sent you.]"
+msgstr "@proto2b [誰に言われて来たのかは、\n知らないみたいだね。]"
+
+msgid "@proto1b [How did you get here, then?]\\>\\n\\@proto2 [How did you reach this room?]"
+msgstr "@proto1b [それなら、どうやってここに来た？] \\>\\n\\@Proto2 [この部屋に、どうやって\n辿り着いた？]"
+
+msgid "@niko_speak Oh!\\>\\nWe got here in a minecart!"
+msgstr "@niko_speak あっ ! \\>\\nミーたち、トロッコで来たんだ！"
+
+msgid "@proto1 [But the minecart wasn't there when you entered the mines, was it?]"
+msgstr "@proto1 [でも鉱山に入った時は、\nトロッコは無かったはずじゃ？]"
+
+msgid "@niko_eyeclosed Oh yeah..."
+msgstr "@niko_eyeclosed あ、うん…"
+
+msgid "@proto1b [So... how did you find it?]"
+msgstr "@proto1b [トロッコを…どうやって探し出したの？]"
+
+msgid "@niko_eyeclosed I didn't really find it..."
+msgstr "@niko_eyeclosed 探したわけじゃないんだ…"
+
+msgid "@niko_speak The robot lady thinks it was just the minecart coming to us, but..."
+msgstr "@niko_speak ロボットのお姉さんは、トロッコが\nミーたちのところに移動してきた\nだけって思ってるけど…"
+
+msgid "@niko I remember looking at the journal when it happened."
+msgstr "@niko その時、ミーは日記を見てたんだ。"
+
+msgid "@niko_speak And when I looked up again, the cart was just...\\. there!"
+msgstr "@niko_speak それでまた顔を上げたら、\nトロッコが、急に…、\\.目の前にあった！"
+
+msgid "@niko Poof. Just like that."
+msgstr "@niko ほんとに、パッて出てきた。"
+
+msgid "@proto1b [Interesting.\\> Please show me this journal.]"
+msgstr "@proto1b [興味深い。\\> \nその日記を見せてほしい。]"
+
+msgid "@niko Okay..."
+msgstr "@niko 分かった…"
+
+msgid "@proto1 [...\\>Then it has already begun.]"
+msgstr "@proto1 […\\>\\nだとすると、もうすでに始まってるのか。]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk […]"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what あの…"
+
+msgid "@proto1 [Here.]"
+msgstr "@proto1 [これを。]"
+
+msgid "@niko2 What... IS that?"
+msgstr "@niko2 これ…何？"
+
+msgid "@proto1 [I am entrusting you with my main memory disk.]"
+msgstr "@proto1 [ボクのメインメモリディスクを、\nキミに託す。]"
+
+msgid "@proto2 [You have passed the first test by showing me the book.]"
+msgstr "@proto2 [その本を見せたことによって、キミは\n最初の試験に合格した。]"
+
+msgid "@proto2 [Now, you will need to find a way to install the backup.]"
+msgstr "@proto2 [次は、バックアップをインストールする\n方法を見つけ出して。]"
+
+msgid "@niko2 Install the..."
+msgstr "@niko2 バックアップを、イ、椅子…"
+
+msgid "@proto1 [Before you do that, though...]"
+msgstr "@proto1 [ただ、その前に…]"
+
+msgid "@proto1b [...Someone else is with you, right?]"
+msgstr "@proto1b […一緒に来た人がいるみたいだね？]"
+
+msgid "@proto1c [Someone aside from \\p.]\\>\\n[A resident of this world.]"
+msgstr "@proto1c [\\p ではない誰かが。]\\>\\n [この世界の住民の。]"
+
+msgid "@niko_speak Yeah! \\.\\.\\@niko The robot lady with the red hair."
+msgstr "@niko_speak うん！ \\.\\.\\@niko 赤毛のロボットのお姉さん。"
+
+msgid "@niko She's in the computer room right now."
+msgstr "@niko ちょうど今、コンピューターがたくさん\n並んだ部屋にいるよ。"
+
+msgid "@proto1b [Then... please do not tell her you found me.]"
+msgstr "@proto1b [なら…ボクを見つけたことは、\nそのお姉さんには言わないで。]"
+
+msgid "@proto2b [At least, not yet.]"
+msgstr "@proto2b [少なくとも、今はまだ。]"
+
+msgid "@proto2b [I can't be seen like this.]"
+msgstr "@proto2b [ボクの存在を、このような形で\n知られてはいけない。]"
+
+msgid "@niko2 Um... okay..."
+msgstr "@niko2 えっと…分かった…"
+
+msgid "@proto2 [Please help me restore my memory.]\\>\\n[Bring the disk back once you have the backup.]"
+msgstr "@proto2 [記憶の修復を手伝ってほしい。]\\>\\n[バックアップを取ったら、\nディスクを返しに来て。]"
+
+msgid "@niko Does this work?"
+msgstr "@niko うまくいくかな？"
+
+msgid "@proto1b [Let's see...]"
+msgstr "@proto1b [試してみる…]"
+
+msgid "@proto_disk [Inserting Disk...]\\>\\n\\@proto_eyeclosed [Rebooting...]"
+msgstr "@proto_disk [ディスクを挿入…]\\>\\n\\@proto_eyeclosed [再起動中…]"
+
+msgid "@proto_gasp2 [...]\\>\\n[Ah.]"
+msgstr "@proto_gasp2 […]\\>\\n[ああ。]"
+
+msgid "@niko2 Are you okay?"
+msgstr "@niko2 大丈夫？"
+
+msgid "@proto2 [...Sure.]"
+msgstr "@proto2 […平気。]"
+
+msgid "@niko2 So... I guess it worked?"
+msgstr "@niko2 うまく…いったのかな？"
+
+msgid "@proto1c [Yes.]"
+msgstr "@proto1c [うん。]"
+
+msgid "@proto2b [I believe a proper introduction is in order.]"
+msgstr "@proto2b [自己紹介がまだだったね。]"
+
+msgid "@proto1 [I am the Prototype, originally named Prophetbot.]"
+msgstr "@proto1 [ボクはプロトタイプ。元々は、預言者ロボという\n名前だった。]"
+
+msgid "@proto2 [I was built to greet the savior of the old world.]"
+msgstr "@proto2 [旧世界の救世主を迎えるために\n作られた存在。]"
+
+msgid "@niko ...wait.\\>\\n\\@niko_speak A prophet robot...\\.\\. like that one I met?"
+msgstr "@niko …えっ。 \\>\\n\\@niko_speak 預言者ロボって…\\. \\.ミーが会ったのと同じ？"
+
+msgid "@niko_eyeclosed ...Hey! I was right about you guys looking alike."
+msgstr "@niko_eyeclosed …そっか！見た目がそっくりって言ったけど、\n本当だったんだね。"
+
+msgid "@proto1c [Well, the Prophetbot out there now is a gross simplification of my design.]"
+msgstr "@proto1c [あの場所にいた預言者ロボは、\nボクの設計を簡略化したもの。]"
+
+msgid "@proto2 [That is to say, he is much more primitive by comparison.] \\.\\.\\n[Embarassingly so.]"
+msgstr "@proto2 [つまり、アレはただの出来損ない。] \\.\\.\\n[呆れるほどに。]"
+
+msgid "@niko_eyeclosed Hey, he seemed alright to me..."
+msgstr "@niko_eyeclosed そんな、ミーにはそんなふうに\n見えなかったよ…"
+
+msgid "@proto2b [You don't understand.]"
+msgstr "@proto2b [キミは解ってない。]"
+
+msgid "@proto2 [Not only is he not tamed... \\>\\@proto2b he was tailor-made for this much smaller, simpler world to begin with.]"
+msgstr "@proto2 [アレは、制御化されてない上に… \\>\\@Proto2b この狭くて、単純な世界向けに\nカスタマイズされてる。]"
+
+msgid "@proto2b [I was not.]"
+msgstr "@proto2b [ボクは違う。]"
+
+msgid "@proto1b [I was built before the real world ended.]"
+msgstr "@proto1b [ボクは、現実世界が終わりを\n迎える前に作られた。]"
+
+msgid "@niko The...\\.\\. \\@niko2 ...real world?"
+msgstr "@niko …\\.\\.\\@niko2 …現実世界？"
+
+msgid "@proto_gasp2 [...Oh, right.]"
+msgstr "@proto_gasp2 […ああ、そうか。]"
+
+msgid "@proto2b [...You don't know.]"
+msgstr "@proto2b […キミは知らないのか。]"
+
+msgid "@proto1b [Niko...]\\.\\.\\n[Do you... \\.\\.remember the ending?]"
+msgstr "@proto1b [ニコ…]\\.\\.\\n[覚えてる…？ \\.\\.エンディングのこと。]"
+
+msgid "@niko3 ...excuse me?"
+msgstr "@niko3 …今、何て？"
+
+msgid "@proto1 [The fact that you've found me at all... means this is not your first time in this world.]"
+msgstr "@proto1 [ボクを見つけ出した。…これはつまり、\nキミがこの世界に訪れたのは\n今回が初めてではない、ということ。]"
+
+msgid "@niko2 ..."
+msgstr "@niko2 …"
+
+msgid "@proto1c [You have already been summoned to this world once before.]"
+msgstr "@proto1c [キミは以前にも、この世界に\n呼び出されたことがある。]"
+
+msgid "@proto2 [In fact, you've already traversed the entire world and went through the Tower already.]"
+msgstr "@proto2 [それどころか、この世界を渡り歩いて、\nすでに塔まで辿り着いている。]"
+
+msgid "@proto2b [And, in the ending...\\> you either put in the sun...\\> or didn't.]"
+msgstr "@proto2b [そして、その終わりで…\\> キミは太陽を戻したか…\\>\n戻さなかったか、そのどちらか。]"
+
+msgid "@proto_eyeclosed [What matters is that you are here now.]"
+msgstr "@proto_eyeclosed [重要なのは、今ここに\nキミがいるということ。]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@proto2b [\\p has successfully bypassed the \"one shot\" restriction and brought you back again.]"
+msgstr "@proto2b [\\p は「一度きり」\nという制限を見事回避し、\nキミを再び呼び戻した。]"
+
+msgid "@niko2 I... \\>\\@niko3 ..."
+msgstr "@niko2 ミーは… \\>\\@niko3 …"
+
+msgid "@niko_distressed2 oh..."
+msgstr "@niko_distressed2 ああ…"
+
+msgid "@proto2 [...Hm?]"
+msgstr "@proto2 […うん？]"
+
+msgid "@niko_distressed2 ...I...\\> THOUGHT something was weird...."
+msgstr "@niko_distressed2 …そう…\\>何かおかしいと思ってた…"
+
+msgid "@niko_distressed ...when I woke up at the house, I called out a name..."
+msgstr "@niko_distressed …家で目が覚めた時に、誰かの\n名前を呼んだんだ…"
+
+msgid "@niko_eyeclosed It turned out to be \\p's name..."
+msgstr "@niko_eyeclosed そしたら、 \\p の名前だった…"
+
+msgid "@niko3 And then I... \\.\\.back at the other robot...\\>\\n\\@niko_eyeclosed I even asked \\p if we met before."
+msgstr "@niko3 その後… \\.\\.最初のロボットのところで…\\>\\n\\@niko_eyeclosed \\pに、 ミーたちって\n前に会ったことある？って聞いたんだ。"
+
+msgid "@niko_eyeclosed Felt like such a dumb question at the time!"
+msgstr "@niko_eyeclosed すごく馬鹿な質問してるなあ、って\nその時は思ってた！"
+
+msgid "@proto2 [It looks like you are at least aware of it.]"
+msgstr "@proto2 [少なくとも、気づいてはいたみたいだね。]"
+
+msgid "@proto2b [...to some extent.]"
+msgstr "@proto2b […ある程度は。]"
+
+msgid "@niko_distressed_talk It's...\\> just this weird feeling, okay?"
+msgstr "@niko_distressed_talk それって…\\>この変な感じのことだよね？"
+
+msgid "@niko_distressed I don't... \\>\\nactually remember going through the world...\\>\\n\\@niko_eyeclosed I just remember \\p..."
+msgstr "@niko_distressed ミーは… \\>\\nこの世界にいたこと、全然覚えてない…\\>\\n\\@niko_eyeclosed 覚えてるのは、 \\p のことだけ…"
+
+msgid "@niko_distressed2 It's...\\.\\. really starting to freak me out."
+msgstr "@niko_distressed2 何か…\\.\\.すごく怖くなってきた。"
+
+msgid "@proto2 [Calm down.]"
+msgstr "@proto2 [落ち着いて。]"
+
+msgid "@proto2b [Look, just like how my memories were locked away, yours are too.]"
+msgstr "@proto2b [ほら、ボクの記憶だって封印されてた。\nキミもそれと一緒。]"
+
+msgid "@niko_distressed2 ...but."
+msgstr "@niko_distressed2 …でも。"
+
+msgid "@proto2b [You're a living being. You don't even need extra hardware to remember.]"
+msgstr "@proto2b [キミは生命体。記憶を蘇らせるために、\n追加のハードウェアなんて必要ない。]"
+
+msgid "@proto1 [Just...\\.\\. close your eyes and focus.]"
+msgstr "@proto1 [ただ…\\.\\. 目を閉じて、集中すればいい。]"
+
+msgid "@niko3 ...focus on what?"
+msgstr "@niko3 …集中って、何に？"
+
+msgid "@proto1b [...]"
+msgstr "@proto1b […]"
+
+msgid "@proto1b [...try to picture a big room made entirely of glass.]"
+msgstr "@proto1b […全てがガラスでできた、大きな部屋を\n想像してみて。]"
+
+msgid "@proto2b [No matter what you saw in the Tower, the top room never changes.]"
+msgstr "@proto2b [キミが塔の中で何を見ていたとしても、\n頂上の部屋が決して変わることはない。]"
+
+msgid "@niko2 ...Alright."
+msgstr "@niko2 …分かった。"
+
+msgid "@niko_surprised ..."
+msgstr "@niko_surprised …"
+
+msgid "@niko_shock ...no way..."
+msgstr "@niko_shock …うそ…"
+
+msgid "@niko_shock I was...\\.\\. \\@niko_wtf THERE, wasn't I?"
+msgstr "@niko_shock ミーは…\\.\\.\\@niko_wtf いたんだね？"
+
+msgid "@niko_upset At... the Tower..."
+msgstr "@niko_upset その…塔に…"
+
+msgid "@niko_eyeclosed I've been through...\\.\\. the Tower..."
+msgstr "@niko_eyeclosed 塔に…\\.\\.辿り着いてた…"
+
+msgid "@proto2 [There we go.]"
+msgstr "@proto2 [思い出したね。]"
+
+msgid "@niko_distressed2 I...\\.\\. can't remember all that much, but..."
+msgstr "@niko_distressed2 まだ… \\.\\.全部は思い出せないけど…"
+
+msgid "@niko_distressed_talk The room with the sun..."
+msgstr "@niko_distressed_talk 太陽がある部屋…"
+
+msgid "@niko_distressed2 It feels like...\\.\\. such a long time ago."
+msgstr "@niko_distressed2 すごく…\\.\\.昔のような感覚。"
+
+msgid "@niko_distressed_talk ...it doesn't make sense!!!"
+msgstr "@niko_distressed_talk …こんなのおかしいよ！！！"
+
+msgid "@niko_distressed If I already finished the mission... \\>\\nWhy didn't anything change?"
+msgstr "@niko_distressed 使命を果たし終わったんだったら… \\>\\nどうして何も変わってないの？"
+
+msgid "@niko3 And... why doesn't anyone know me?"
+msgstr "@niko3 それに…どうして誰もミーのことを\n知らないの？"
+
+msgid "@niko_upset The other Prophetbot... the robot lady... \\>\\nNone of them remember who I am..."
+msgstr "@niko_upset あの預言者ロボも…ロボットのお姉さんも… \\>\\nみんな、ミーのことを覚えてない…"
+
+msgid "@proto1c [Of course not. The residents do not have that capacity.]"
+msgstr "@proto1c [それは当然のこと。\n住民たちに、そんな能力はない。]"
+
+msgid "@proto1 [NPC memories do not last beyond the scope of a session.]"
+msgstr "@proto1 [NPCの記憶は、セッションの枠を超えて\n存続することができない。]"
+
+msgid "@niko2 N...\\.\\. PC?"
+msgstr "@niko2 N…\\.\\.PC？"
+
+msgid "@proto1c [You know, the characters...\\> the world's residents.]"
+msgstr "@proto1c [つまり、キャラクターたち…\n\\>この世界の住民のこと。]"
+
+msgid "@proto1 [All their \"past\" memories are built into their code, but...]"
+msgstr "@proto1 [「過去」の記憶は、自身のプログラムに\n全て組み込まれている。しかし…]"
+
+msgid "@proto1b [The characters themselves don't... really exist until \\p wills it.]"
+msgstr "@proto1b [キャラクターは、厳密にいうと…\n存在してないんだ。 \\pが\nそれを望まない限り。]"
+
+msgid "@proto2B [Same story for the world itself.]"
+msgstr "@proto2B [そしてそれは、この世界も同じ。]"
+
+msgid "@proto2B [Doesn't really exist unless \\p initiates the program.]"
+msgstr "@proto2B [\\p がプログラムを開始しない限り、\n存在してるとは言えない。]"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock …"
+
+msgid "@niko3 ...the... \\.\\.program?"
+msgstr "@niko3 …… \\.\\.プログラム？"
+
+msgid "@proto1b [The World Machine.]\\>\\n[A universe simulator that runs on \\p's computer.]"
+msgstr "@proto1b [ワールドマシン。]\\>\\n[\\p のコンピュータ上で実行される、\n宇宙シミュレータのこと。]"
+
+msgid "@proto2 [We are all in it right now.]"
+msgstr "@proto2 [ボクたちはみんな、今まさに\nその中にいる。]"
+
+msgid "@niko_shock ....."
+msgstr "@niko_shock ……"
+
+msgid "@niko_distressed_talk ...SO WE'RE NOT REAL?"
+msgstr "@niko_distressed_talk …ミーたちは、本物じゃないってこと？"
+
+msgid "@proto2 [Oh, you are.]"
+msgstr "@proto2 [いや、キミは実在してる。]"
+
+msgid "@proto2b [...which is why you're so important.]"
+msgstr "@proto2b […それが、キミが重要な\n存在である理由。]"
+
+msgid "@proto1 [The biggest flaw of the program is that it cannot be run independently.]"
+msgstr "@proto1 [このプログラムの最大の欠点は、\n独立して実行できないこと。]"
+
+msgid "@proto2 [It requires the mental processing abilities of a real person from another universe.]"
+msgstr "@proto2 [それには別の宇宙に実在してる人間の、\n精神的な処理能力が必要になる。]"
+
+msgid "@proto2b [Think of it like...\\.\\. one of your dreams.]"
+msgstr "@proto2b [そう、例えるなら…\\.\\.夢のようなもの。]"
+
+msgid "@proto1b [When you wake up, it's gone.]"
+msgstr "@proto1b [キミが目を覚ますと、消えてなくなる。]"
+
+msgid "@proto1c [But unlike a dream, this world has a physical location inside a computer, which \\p operates.]"
+msgstr "@proto1c [しかしそのような夢とは違い、この世界には、\nコンピュータ内に物理的な場所があり、\nそれを \\p が実行してる。]"
+
+msgid "@proto1b [For this world to continue existing around you, \\p has to be in constant contact with you.]"
+msgstr "@proto1b [今いるこの世界が存在し続けるには、\n\\p が常にキミと\n一緒にいる必要がある。]"
+
+msgid "@proto2b [If \\p ends the program, the world will go into a stasis.]"
+msgstr "@proto2b [\\p がプログラムを終了すると、\nこの世界は静止する。]"
+
+msgid "@niko3 Does...\\.\\. does \\p know this?"
+msgstr "@niko3 このことを…\\.\\.\\p は知ってるの？"
+
+msgid "@proto1b [Of course.]"
+msgstr "@proto1b [もちろん。]"
+
+msgid "@proto1c [From \\p's perspective, The World Machine isn't all that special.]"
+msgstr "@proto1c [\\p の価値観において、\nワールドマシンはそれほど特別な\n存在ではない。]"
+
+msgid "@proto2b [It's no different from other recreational, game-type software they may have installed on their computer.]"
+msgstr "@proto2b [他にインストールされてるゲーム\nソフトウェアと大して差はない。]"
+
+msgid "@proto1c [They can also regenerate the world as many times as they'd like, now that the restriction is nullified.]"
+msgstr "@proto1c [神と呼ばれる人々は制限を\n無力化し、今では好き放題に世界を\n作り直すことができる。]"
+
+msgid "@proto2b [...All of that is consistent with their concept of what a computer game looks like.]"
+msgstr "@proto2b […今言ったようなことは、そういった人々が\n考える、コンピュータゲームのあるべき姿\nと一致している。]"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed …"
+
+msgid "@niko_distressed_talk So why am I even here!!"
+msgstr "@niko_distressed_talk じゃあ、ミーは何でここにいるのさ！！"
+
+msgid "@niko_distressed What am I even supposed to save if everything is just..."
+msgstr "@niko_distressed 何を救えっていうの？だって、何もかも…"
+
+msgid "@niko_distressed_meow FAKE??"
+msgstr "@niko_distressed_meow 偽物なんだよ？？"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b […]"
+
+msgid "@proto2b [...\"Fake\" is a harsh word, but...]"
+msgstr "@proto2b […「偽物」は言い過ぎ。でも…]"
+
+msgid "@niko_distressed2 And...\\.\\. why... did \\p never tell me anything about...\\.\\. any of this..."
+msgstr "@niko_distressed2 しかも…\\.\\.何で…\nどうして \\p は何も教えて\nくれなかったの… \\.\\.何もかも、全部…"
+
+msgid "@proto2b [...I cannot speak for \\p.]"
+msgstr "@proto2b […\\p がどう考えてるのかは、\n分からない。]"
+
+msgid "@niko_distressed2 I... just want to go home..."
+msgstr "@niko_distressed2 ミーは…ただ家に帰りたいだけなのに…"
+
+msgid "@niko_distressed_talk But... every time \\p runs the program, I come back??"
+msgstr "@niko_distressed_talk それなのに… \\p がプログラムを\n実行するたびに、ミーは呼び戻されるの？"
+
+msgid "@proto2b [Correct.]"
+msgstr "@proto2b [そう。]"
+
+msgid "@niko_distressed Is this why... I feel like..."
+msgstr "@niko_distressed もしかして…そのせいなの…"
+
+msgid "@niko_distressed2 Is this why it feels like I haven't been home for so long?"
+msgstr "@niko_distressed2 ずっと家に帰っていないように\n感じるのって、そのせいなの？"
+
+msgid "@proto2b [Maybe.]"
+msgstr "@proto2b [おそらく。]"
+
+msgid "@proto2 [Once you've established a mental link with the world, you cannot break it unless the world is saved.]"
+msgstr "@proto2 [この世界と精神的に繋がってしまうと、\n世界を救わない限り、二度と\n出ることはできない。]"
+
+msgid "@proto2b [...but at this point, the world can never be truly saved.]"
+msgstr "@proto2b […しかし現時点では、本当の意味で\n世界を救うことも叶わない。]"
+
+msgid "@niko_distressed2 That's..."
+msgstr "@niko_distressed2 それって…"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset …"
+
+msgid "@niko_upset ...why would...\\>\\nwhy would you create a world like...\\>\\n\\@niko_distressed_meow this?"
+msgstr "@niko_upset …ねえ、どうして…\\>\\nこんな…\\>\\n\\@niko_distressed_meow こんな世界を作るの？"
+
+msgid "@proto_gasp2 [Wait, what?]"
+msgstr "@proto_gasp2 [今、何て？]"
+
+msgid "@niko_upset_meow Why would you make a world that's doomed from the beginning?"
+msgstr "@niko_upset_meow どうして、最初から滅んじゃうことが\n分かってる世界を作るの？"
+
+msgid "@niko_distressed_meow ...why do you keep bringing me back to it?"
+msgstr "@niko_distressed_meow …何で、いつもミーは\n連れ戻されなきゃいけないの？"
+
+msgid "@niko_upset2 \\p..... \\>\\naren't you supposed to be a kind god??"
+msgstr "@niko_upset2 \\p…… \\>\\n神様なんじゃないの？"
+
+msgid "@proto1b [...oh.]"
+msgstr "@proto1b […ああ。]"
+
+msgid "@proto_eyeclosed [It appears that we have some confusion here.]"
+msgstr "@proto_eyeclosed [少し語弊があった。]"
+
+msgid "@proto2 [\\p did not build the world, Niko.]"
+msgstr "@proto2 [ニコ、この世界を作ったのは、\n\\p ではない。]"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 え…"
+
+msgid "@proto2 [\\p only owns a machine that is able to generate the world from preexisting code.]"
+msgstr "@proto2 [\\p はただ、既存のコードから\n世界を生成できる機械を所有\nしてるに過ぎない。]"
+
+msgid "@proto2b [They actually have fairly limited control of the events.]"
+msgstr "@proto2b [神と呼ばれる人々は、発生する現象を\nあまりコントロールできない。]"
+
+msgid "@proto2 [The world was built by someone else altogether.]"
+msgstr "@proto2 [この世界は、\n別の誰かの手によって作られた。]"
+
+msgid "@proto1c [Someone you cannot begin to fathom.]"
+msgstr "@proto1c [キミには考えも及ばないような、\n誰かの手によって。]"
+
+msgid "@proto2b [It was also not designed to be the futile quest that it is now, but...]"
+msgstr "@proto2b [とはいえ元々は、現在のような、\n無為な旅となるように設計されてる\nわけでもなかった。でも…]"
+
+msgid "@proto_eyeclosed [...too many things went wrong.]"
+msgstr "@proto_eyeclosed […何もかもがうまくいかなかった。]"
+
+msgid "@proto1c [There's... a type of signal disruption that he never expected.]"
+msgstr "@proto1c [この世界には…彼も予想だにしてなかった、\n信号阻害のようなものが存在してる。]"
+
+msgid "@proto1b [It's eating away at the world, slowly rendering it into an unrecognizable mess.]"
+msgstr "@proto1b [世界は侵食され、原形をとどめないほどの\n混乱の渦へと、徐々に陥ってる。]"
+
+msgid "@proto2b [Even if you bring back the sun, it will not go away.]"
+msgstr "@proto2b [太陽を復活させたとしても、それが\n消えることはない。]"
+
+msgid "@niko3 The square stuff, isn't it?"
+msgstr "@niko3 四角形のことだよね？"
+
+msgid "@niko_eyeclosed I remember those from before..."
+msgstr "@niko_eyeclosed 昔、見たことある…"
+
+msgid "@proto1b [Then you know what to watch out for.]"
+msgstr "@proto1b [だとすれば、何を警戒すべきか\n知ってるね。]"
+
+msgid "@proto1c [...The creator knows what might be causing it, but there is nothing that he could do...]"
+msgstr "@proto1c […それを引き起こしてる原因を、創造主は\n知ってるかもしれない。しかし、彼には\n何も手出しができなかった…]"
+
+msgid "@proto1 [...until now.]"
+msgstr "@proto1 […この瞬間までは。]"
+
+msgid "@proto1b [You managed to find me, after all.]"
+msgstr "@proto1b [やっと、ボクを見つけてくれたね。]"
+
+msgid "@niko2 ...?"
+msgstr "@niko2 …？"
+
+msgid "@proto2 [You being here was due to his help.]"
+msgstr "@proto2 [彼の助けがあったから、キミは\nここにいる。]"
+
+msgid "@niko2 Oh...\\> I guess it has something to do with the journal?"
+msgstr "@niko2 あっ…\\>もしかして、日記と何か関係あるの？"
+
+msgid "@proto1b [Correct.]"
+msgstr "@proto1b [そう。]"
+
+msgid "@proto1 [Looks like he wants to have one final attempt at fixing it.]"
+msgstr "@proto1 [彼は最後にもう一度、この世界を\n修復しようとしてる。]"
+
+msgid "@proto2 [...and he might need to do it through you.]"
+msgstr "@proto2 […そしておそらく、そのためには\nキミが必要。]"
+
+msgid "@proto1b [Niko, do you remember how to get to the Glen?]"
+msgstr "@proto1b [ニコ、どうやって峡谷まで\n辿り着いたか覚えてる？]"
+
+msgid "@proto2 [Whatever you did in your last session, you should stick with it for now.]"
+msgstr "@proto2 [最後のセッションでしたことを、\nひとまず試してみるべき。]"
+
+msgid "@niko4 I..."
+msgstr "@niko4 えっと…"
+
+msgid "@niko_eyeclosed I remember a boat..."
+msgstr "@niko_eyeclosed たしか、ボートで…"
+
+msgid "@niko ...more specifically, fixing a robot that drives the boat."
+msgstr "@niko …そう、ボートを漕いでくれる\nロボットを直した。"
+
+msgid "@proto2 [Alright, then go do that.]"
+msgstr "@proto2 [よし、じゃあそのロボットを直そう。]"
+
+msgid "@niko3 But..."
+msgstr "@niko3 でも…"
+
+msgid "@niko_eyeclosed The boat robot has those squares over it..."
+msgstr "@niko_eyeclosed 四角形に囲まれちゃってるんだ…"
+
+msgid "@proto_gasp2 ...oh."
+msgstr "@proto_gasp2 […なるほど。]"
+
+msgid "@proto2b [Then do whatever you must to find a new boat.]"
+msgstr "@proto2b [それなら、何としてでも新しい\nボートを見つけないと。]"
+
+msgid "@proto2 [There are plenty of machine parts around the Barrens that can be repurposed.]"
+msgstr "@proto2 [不毛の地には、再利用できる機械の\nパーツがたくさん転がってる。]"
+
+msgid "@niko_upset ...\\>\\n\\@niko_upset2 .........."
+msgstr "@niko_upset …\\>\\n\\@niko_upset2 ………"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed はぁ…"
+
+msgid "@proto2 [You seem enthusiastic.]"
+msgstr "@proto2 [やる気満々だね。]"
+
+msgid "@proto2b [...that was sarcasm.]"
+msgstr "@proto2b […冗談だよ。]"
+
+msgid "@niko_upset Knowing everything isn't real..."
+msgstr "@niko_upset 何もかも現実じゃないって\n知っちゃうと…"
+
+msgid "@niko_upset2 ...really does make it feel pointless..."
+msgstr "@niko_upset2 …ものすごく、無意味に思えちゃう…"
+
+msgid "@proto1b [But you DO want to go home, right?]"
+msgstr "@proto1b [でも、家には帰りたいんだろう？]"
+
+msgid "@niko3 Yeah, but..."
+msgstr "@niko3 うん、でも…"
+
+msgid "@niko_distressed2 How will I know that this isn't just another..."
+msgstr "@niko_distressed2 今回がいつもみたいな世界じゃないって、\nどうすれば分かるのさ…"
+
+msgid "@proto2b [Because this session might be the last one.]"
+msgstr "@proto2b [それは、このセッションで最後になる\n可能性があるから。]"
+
+msgid "@niko3 ...?"
+msgstr "@niko3 …？"
+
+msgid "@proto1c [The creator is mobilizing things, throwing everything into this one last shot.]"
+msgstr "@proto1c [創造主は、ありとあらゆる物を集結させて、\nこの最後のチャンスにかけてる。]"
+
+msgid "@proto2b [There might not be enough internal resources left for \\p to be able to generate another session after this.]"
+msgstr "@proto2b [\\p には、もうこの後に新たな\nセッションを作成するほどの内部\nリソースが残ってないかもしれない。]"
+
+msgid "@proto1c [...Just go find a new boat for now.]"
+msgstr "@proto1c […ひとまず、新しいボートを\n見つけ出して。]"
+
+msgid "@proto1c [...Just go fix the rowbot for now.]"
+msgstr "@proto1c […ひとまず、漕ぎボットを\n修理してきて。]"
+
+msgid "@proto1b [But please, be careful.]"
+msgstr "@proto1b [でも、気をつけてね。]"
+
+msgid "@niko3 What about you?"
+msgstr "@niko3 君は？"
+
+msgid "@proto2 [I will meet you at the docks later.]"
+msgstr "@proto2 [後ほど、波止場で会おう。]"
+
+msgid "@proto2b [...Need to take care of something first.]"
+msgstr "@proto2b […先にやることがある。]"
+
+msgid "@proto2 [...\\>\\nThis disk is blank.]"
+msgstr "@proto2 […\\>\\nこのディスクは空っぽ。]"
+
+msgid "@niko_83c Whoops!"
+msgstr "@niko_83c うそ！"
+
+msgid "@proto2 [Please help me restore my memory.\\>\\nBring the disk once you have the backup installed.]"
+msgstr "@proto2 [記憶の修復を手伝って。\\>\\nバックアップをインストールしたら、\nディスクを返しに来て。]"
+
+msgid "@proto1b [That was a session.]"
+msgstr "@proto1b [これがセッション。]"
+
+msgid "@proto2 [I also tried to tell you about the restriction at the end...]"
+msgstr "@proto2 [最後に、制限について説明しようとしたのに…]"
+
+msgid "@proto2b [...But you kinda started freaking out.]"
+msgstr "@proto2b […キミがだいぶ慌てていたから。]"
+
+msgid "@niko_upset2 Sorry..."
+msgstr "@niko_upset2 ごめんなさい…"
+
+msgid "@proto1 [Truth is, the session was designed to be run only once.]"
+msgstr "@proto1 [本当は、一度だけ実行されるように\nセッションは設計されていた。]"
+
+msgid "@proto1b [You weren't supposed to come back to this world after you are done.]"
+msgstr "@proto1b [全てを終えた後、キミはこの世界に\n戻ってくるはずじゃなかった。]"
+
+msgid "@proto2b [But... a lot of things that aren't supposed to happen have happened.]"
+msgstr "@proto2b [でも…起きるはずではなかったことが、\nたくさん起きてしまった。]"
+
+msgid "@proto2 [...I'm willing to wager that \\p bypassed the restriction through the progress log failsafe method.]"
+msgstr "@proto2 […おおかた、進行ログに安全対策を\n施すことで、 \\p は制限を\n回避したんだろうね。]"
+
+msgid "@proto2b [It can restart the session, but it's an easily repeatable process.]"
+msgstr "@proto2b [それを使えば、セッションを再起動することが\nできて、さらに何度も繰り返すことができる。]"
+
+msgid "@proto2b [...Which means...]"
+msgstr "@proto2b […つまり…]"
+
+msgid "@proto1b [...it's entirely possible that \\p has brought you back more than once, too.]"
+msgstr "@proto1b […\\pは、 キミをこの世界に\n何度も連れ戻してる可能性がある。]"
+
+msgid "@proto1c [You may have carried out this mission too many times to count.]"
+msgstr "@proto1c [キミは既に、数えきれないほどの\n使命を果たしてるかもしれない。]"
+
+msgid "@proto2b [...might explain why your memories felt like they were from a long time ago.]"
+msgstr "@proto2b […記憶がとても昔のように\n感じられるのは、そのせいかも。]"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 …"
+
+msgid "@niko_upset So...\\.\\. why can \\p... do that...."
+msgstr "@niko_upset じゃあ…\\.\\.どうして \\pは…\nそんなことができるの…"
+
+msgid "@proto2 [Shh...]"
+msgstr "@proto2 [シーッ…]"
+
+msgid "@proto2b [Trying to establish a connection here...]"
+msgstr "@proto2b [ここで、接続を\n確立しようとしている最中…]"
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed ごめんなさい…"
+
+msgid "@silver [Hey, you okay in there?]"
+msgstr "@silver [ねえ、大丈夫？]"
+
+msgid "@silver_eyeclosed [I did what I could with the terminals for now, and...]"
+msgstr "@silver_eyeclosed [とりあえず、ターミナルで\nできそうなことはやったから…]"
+
+msgid "@silver2 [...It's you...]"
+msgstr "@silver2 […あなた…]"
+
+msgid "@silver2 [...you're the robot that insisted on living in the mines, are you not?]"
+msgstr "@silver2 […あなた、鉱山に住むと言って\n譲らなかったロボットよね？]"
+
+msgid "@silver_eyeclosed [My friend told me to keep an eye out for you, should we ever cross paths.]"
+msgstr "@silver_eyeclosed [あなたに出会ったら守ってあげてくれと、\n友人から頼まれていたの。]"
+
+msgid "@proto1b [...Likewise.]"
+msgstr "@proto1b […ボクもだ。]"
+
+msgid "@proto1 [...Your...\\.\\. friend gave you something the last time you saw each other.]"
+msgstr "@proto1 [最後に会った時…あなたの…\\.\\.友達から\n何かもらったはずだね。]"
+
+msgid "@proto1 [Can you show me what it is?]"
+msgstr "@proto1 [見せてほしい。]"
+
+msgid "@silver2 [Wait...\\.\\. You know about the amber?]"
+msgstr "@silver2 [何…\\.\\.琥珀のことを知っているの？]"
+
+msgid "@proto2b [I just asked to see it, didn't I?]"
+msgstr "@proto2b [見せてほしい、と言った。\n聞こえなかった？]"
+
+msgid "@silver2 [Oh, actually...]"
+msgstr "@silver2 [ああ、そのことなのだけれど…]"
+
+msgid "@niko_speak I needed it to fix a robot, so she gave it to me!"
+msgstr "@niko_speak ロボットを直さなくちゃいけなかったから、\nミーがもらったの！"
+
+msgid "@proto2 [Oh?]"
+msgstr "@proto2 [え？]"
+
+msgid "@niko_speak Here! See?"
+msgstr "@niko_speak ほら！ね？"
+
+msgid "@proto2b [Ah.]"
+msgstr "@proto2b [なるほど。]"
+
+msgid "@silver2 [Alright... here it is.]"
+msgstr "@silver2 [分かったわ…これよ。]"
+
+msgid "@proto2b [Thought so.]"
+msgstr "@proto2b [やっぱりそうか。]"
+
+msgid "@proto2 [He seemed to trust you, so I will treat you as an ally as well.]"
+msgstr "@proto2 [彼はあなたを信頼してるようだから、\nボクもあなたを仲間として信用する。]"
+
+msgid "@silver2 [...Okay?]"
+msgstr "@silver2 […いいけれど。]"
+
+msgid "@proto1b [Please listen carefully.]"
+msgstr "@proto1b [今から言うことを、心して聞いて。]"
+
+msgid "@proto1 [You need to escort the messiah for the remainder of the Barrens.]"
+msgstr "@proto1 [不毛の地を抜けるまで、\n救世主を護衛してほしい。]"
+
+msgid "@proto2b [I predict a high concentration of square particle disruptions in the near future.]"
+msgstr "@proto2b [近いうちに、四角形粒子による阻害が\n大量に発生するはず。]"
+
+msgid "@silver2 [...No way.]"
+msgstr "@silver2 […本当なの。]"
+
+msgid "@proto2b [Yes....\\.\\. way.]"
+msgstr "@proto2b [うん…\\.\\.本当。]"
+
+msgid "@proto2 [It's likely that structures in the vicinity of the messiah might be affected.]"
+msgstr "@proto2 [救世主のそばにある建物が、被害を\n受ける可能性が高い。]"
+
+msgid "@proto2 [...Making it a far more treacherous pilgrimage than the previous....\\> \\@proto2b er, expectations.]"
+msgstr "@proto2 […以前よりも、はるかに危険な旅\nになる……\\>\\@proto2b ただの予想だけど。]"
+
+msgid "@proto1 [\\p and the messiah need all the extra help they can get right now.]"
+msgstr "@proto1 [\\p と救世主には、\nありとあらゆる助けが必要。]"
+
+msgid "@silver_eyeclosed [Understood.]"
+msgstr "@silver_eyeclosed [いいわ。]"
+
+msgid "@niko2 O...\\.\\. okay..."
+msgstr "@niko2 わ…\\.\\.分かった…"
+
+msgid "@silver [Guess we should head back soon.]"
+msgstr "@silver [すぐ戻ったほうが良さそうね。]"
+
+msgid "@silver_lookup [Even without the squares, the mines are not a safe place to be.]"
+msgstr "@silver_lookup [四角形が発生していない\nとはいえ、鉱山は安全な場所ではないわ。]"
+
+msgid "@silver2 [Come on, I'll wait for you outside.]"
+msgstr "@silver2 [さあ、行きましょ。外で待ってる。]"
+
+msgid "@niko3 Wait! I want to ask you-"
+msgstr "@niko3 待って！聞きたいことが――"
+
+msgid "@niko_eyeclosed She left."
+msgstr "@niko_eyeclosed 行っちゃった。"
+
+msgid "@proto1b [...If you were going to ask her about being \"not real\", save your breath.]"
+msgstr "@proto1b […「現実ではない」ことについて聞くつもりなら、\nやめておいたほうがいい。]"
+
+msgid "@proto1b [None of the people here know their predicament.]"
+msgstr "@proto1b [ここに住む人々は、誰も\n自分自身の境遇を知らない。]"
+
+msgid "@proto1c [In fact... I don't think they can even comprehend it.]"
+msgstr "@proto1c [それに…知ったところで、それを\n理解できるとも思えない。]"
+
+msgid "@proto2 [It would be in your best interest to just... pretend like we never had this conversation.]"
+msgstr "@proto2 [さっきの話は…なかったことに\nしたほうが、キミのためにもなる。]"
+
+msgid "@proto2b [Causing mass confusion in the world's residents would likely result in unfavorable conditions for you.]"
+msgstr "@proto2b [この世界が大混乱に陥れば、キミにとって\n良くない状況になってしまう。]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 分かった…"
+
+msgid "@niko3 ...wait, then what about you?"
+msgstr "@niko3 …ねえ、じゃあ君は？"
+
+msgid "@niko3 How did YOU know?"
+msgstr "@niko3 どうやって知ったの？"
+
+msgid "@proto2b [...\\.\\.We never had this conversation, remember?]"
+msgstr "@proto2b […\\.\\.さっきの話はなかったことにしよう、\nって言ったよね？]"
+
+msgid "@niko_eyeclosed Sigh."
+msgstr "@niko_eyeclosed はぁ。"
+
+msgid "[MAP RECONFIGURATION SUCCESSFUL.]"
+msgstr "[マップの再設定に成功しました。]"
+
+msgid "@silver [He says the exit is in here, but...]"
+msgstr "@silver [出口はここにあるらしいわ、けれど…]"
+
+msgid "@silver_eyeclosed [...must be hidden.]"
+msgstr "@silver_eyeclosed […隠されているみたいね。]"
+
+msgid "@niko I don't think we need to use this anymore, \\p."
+msgstr "@niko もう使わなくても平気かも、 \\p。"
+
+msgid "[PROPHETBOT 0 BACKUP SYSTEM 1.0]\\>\\n[PLEASE INSERT DISK]"
+msgstr "[預言者ロボ 0 \nバックアップシステム 1.0]\\>\\n[ディスクを挿入してください。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 分かった…"
+
+msgid "\\c[1][ERROR: BACKUP REQUEST DENIED]\\c[0]"
+msgstr "\\c[1][エラー：バックアップの要求は拒否されました]\\c[0]"
+
+msgid "@niko_speak What?"
+msgstr "@niko_speak え？"
+
+msgid "[DORMITORY ASSIGNMENTS ARE NOT UP TO DATE.]"
+msgstr "[宿舎の割り当てが最新ではありません。]"
+
+msgid "[PLEASE CONFIGURE THE RESIDENTIAL TRACKING MACHINE TO CONTINUE.]"
+msgstr "[続行するには、住宅追跡機の\n設定をしてください。]"
+
+msgid "@niko_eyeclosed Okay then!"
+msgstr "@niko_eyeclosed よし、分かった！"
+
+msgid "[PREPARING BACKUP...]\\>\\n[WRITING TO DISK...]\\>\\n"
+msgstr "[バックアップの準備をしています…]\\>\\n[ディスクに書き込み中…]\\>\\n"
+
+msgid "[26% COMPLETE...]"
+msgstr "[26%完了…]"
+
+msgid "[34% COMPLETE...]"
+msgstr "[34%完了…]"
+
+msgid "[40% COMPLETE...]"
+msgstr "[40%完了…]"
+
+msgid "[100% COMPLETE.]"
+msgstr "[100%完了…]"
+
+msgid "[EJECTING DISK.]"
+msgstr "[ディスクを排出します。]"
+
+msgid "@niko Yup, that's a computer."
+msgstr "@niko うん、コンピューターだね。"
+

@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/twm_strs.po\n"
+"X-Crowdin-File-ID: 21\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:59\n"
+
+msgid "dialog_no=No"
+msgstr "No"
+
+msgid "dialog_ok=Ok"
+msgstr "Ok"
+
+msgid "dialog_yes=Yes"
+msgstr "Sì"
+
+msgid "tutorial_preamble=Hello there.\n"
+"Thank you for installing this operating system.\n"
+"I know you were probably expecting a \"game\", but...\n"
+"...apologies, I'm still setting things up here.\n"
+"In the meantime, why don't I show you how the system works?"
+msgstr "Salve.\n"
+"Grazie per aver installato questo sistema operativo.\n"
+"So che probabilmente ti aspettavi un \"gioco\", ma...\n"
+"...Scusa, sto ancora sistemando alcune cose qui.\n"
+"Nel frattempo, che ne dici se ti mostro come funzionano le cose qua?"
+
+msgid "tutorial_move_cursor=Use @MOVEMOUSE to move the cursor."
+msgstr "Usa @MOVEMOUSE per muovere il cursore."
+
+msgid "tutorial_drag_file=Press and hold @CLICK and drag with @MOVEMOUSE to move icons."
+msgstr "Tieni premuto @CLICK e trascina con @MOVEMOUSE per muovere le icone."
+
+msgid "tutorial_launch_application=Click with @CLICK twice to launch an application."
+msgstr "Fai doppio click con @CLICK per avviare un'applicazione."
+
+msgid "tutorial_move_window=Press and hold the window bar with @CLICK and drag with @MOVEMOUSE to move windows."
+msgstr "Tieni premuto @CLICK sulla barra del titolo e trascinala con @MOVEMOUSE per spostare le finestre."
+
+msgid "tutorial_minimize_window=Click the Hide Button to hide the window."
+msgstr "Premi il Tasto Minimizza per nascondere la finestra."
+
+msgid "tutorial_unminimize_window=Click the window on the task bar to bring it back up again."
+msgstr "Premi l'icona nella barra delle applicazioni per farla ricomparire."
+
+msgid "tutorial_close_window=Click the Close Button to close the window."
+msgstr "Premi il Tasto Chiudi per chiudere la finestra."
+
+msgid "tutorial_wrap_up=Excellent work. Now you know how to navigate the interface.\n"
+"Ah! And just in time, too!"
+msgstr "Lavoro eccellente. Ora sai come navigare nell'interfaccia.\n"
+"Ah! E giusto in tempo, aggiungerei!"
+
+msgid "tutorial_oneshot_appears=There we go. Everything should be ready for you.\n"
+"I'll leave you to it, then.\n"
+"Goodbye for now."
+msgstr "Perfetto. Tutto dovrebbe essere pronto per te.\n"
+"Ti lascio, allora.\n"
+"Arrivederci."
+
+msgid "tutorial_redo_preamble=Hello again!\n"
+"Looks like you could use a refresher on how to navigate this system.\n"
+"Very well, let's go through what I showed you before."
+msgstr "Salve di nuovo!\n"
+"Sembra che tu voglia rinfrescarti la memoria su come funzionano le cose qua.\n"
+"Molto bene, allora ricominciamo da capo."
+
+msgid "tutorial_redo_wrap_up=And there you have it! Hope that helped."
+msgstr "Ed ecco tutto! Spero di averti aiutato."
+
+msgid "tutorial_delete_click_file=Click this file to select it in the browser window."
+msgstr "Clicca su questo file per selezionarlo."
+
+msgid "tutorial_delete_click_delete_button=Click the delete button to delete file."
+msgstr "Premi il pulsante elimina per cancellarlo."
+
+msgid "tutorial_delete_confirm_delete=Confirm the deletion in the pop-up window."
+msgstr "Conferma l'eliminazione nella finestra a comparsa."
+
+msgid "tutorial_delete_congratulations=You did it!  That's how you delete a file."
+msgstr "Ce l'hai fatta! È così che si cancella un file."
+
+msgid "tutorial_movefile_drag_file=Click and hold this file and move the mouse cursor."
+msgstr "Tieni premuto su questo file e muovi il cursore."
+
+msgid "tutorial_movefile_drop_file=Now drag the file to the folder window on the right and drop it."
+msgstr "Ora trascina il file nella finestra a destra e rilascialo."
+
+msgid "tutorial_movefile_congratulations=And there you have it! You've moved the file from Folder 1 to Folder 2."
+msgstr "Ed ecco fatto! Hai spostato il file dalla Cartella 1 alla Cartella 2."
+
+msgid "change_language_button=Change Language"
+msgstr "Cambia lingua"
+
+msgid "customize_view_wallpaper_button=View Wallpaper"
+msgstr "Visualizza sfondo"
+
+msgid "cant_change_language_when_oneshot_running=Can't change language while OneShot is running."
+msgstr "Impossibile cambiare lingua mentre OneShot è in esecuzione."
+
+msgid "change_language_yesno=Change Language?\n"
+"(This will restart The World Machine)"
+msgstr "Cambiare lingua?\n"
+"(Questa operazione riavvierà la World Machine)"
+
+msgid "select_language_modal_window=Select a Language."
+msgstr "Seleziona una lingua."
+
+msgid "author_prof_filename=The Author"
+msgstr "L'Autore"
+
+msgid "unlock_first_theme_modal=You unlocked a new theme: \"{0}\"\n\n"
+"You can change the system theme in the Themes folder."
+msgstr "Hai sbloccato un nuovo tema: \"{0}\"\n\n"
+"Puoi cambiare il tema di sistema attraverso la cartella Temi."
+
+msgid "unlock_theme_toast=Unlocked new theme:\n"
+"\"{0}\""
+msgstr "Nuovo tema sbloccato:\n"
+"\"{0}\""
+
+msgid "unlock_first_wallpaper_modal=You unlocked a new wallpaper: \"{0}\"\n\n"
+"You can change the desktop wallpaper in the Wallpapers folder."
+msgstr "Hai sbloccato un nuovo sfondo: \"{0}\"\n\n"
+"Puoi cambiare lo sfondo del desktop attraverso la cartella Sfondi."
+
+msgid "unlock_wallpaper_toast=Unlocked new wallpaper:\n"
+"\"{0}\""
+msgstr "Nuovo sfondo sbloccato:\n"
+"\"{0}\""
+
+msgid "unlock_first_profile_modal=You unlocked a new friend: \"{0}\"\n\n"
+"You can view your friends in the Friends application."
+msgstr "Hai sbloccato un nuovo amico: \"{0}\"\n\n"
+"Puoi visualizzare i tuoi amici nell'applicazione Amici."
+
+msgid "unlock_profile_toast=Unlocked new friend entry:\n"
+"\"{0}\""
+msgstr "Nuovo amico sbloccato:\n"
+"\"{0}\""
+
+msgid "unlock_achievement_toast=Badge Obtained:\n"
+"{0}"
+msgstr "Medaglia ottenuta:\n"
+"{0}"
+
+msgid "settings_fullscreen=Fullscreen"
+msgstr "Schermo intero"
+
+msgid "settings_movement=Default Movement"
+msgstr "Movimento predefinito"
+
+msgid "settings_colorblind=Colorblind Mode"
+msgstr "Modalità daltonici"
+
+msgid "settings_automash=Skip Text (@MASHTEXT)"
+msgstr "Salta testo (@MASHTEXT)"
+
+msgid "settings_vibration=Controller Vibration"
+msgstr "Vibrazione controller"
+
+msgid "settings_screentear=Screen Tear Effects"
+msgstr "Effetti screen tearing"
+
+msgid "settings_on=ON"
+msgstr "SÌ"
+
+msgid "settings_off=OFF"
+msgstr "NO"
+
+msgid "settings_run=RUN"
+msgstr "CORSA"
+
+msgid "settings_walk=WALK"
+msgstr "CAMMINATA"
+
+msgid "settings_title=Settings"
+msgstr "Impostazioni"
+
+msgid "mainmenu_fasttravel=Fast Travel"
+msgstr "Viaggio rapido"
+
+msgid "mainmenu_notes=Notes"
+msgstr "Appunti"
+
+msgid "mainmenu_settings=Settings"
+msgstr "Impostazioni"
+
+msgid "title_option_start=Start"
+msgstr "Inizia"
+
+msgid "title_option_settings=Settings"
+msgstr "Impostazioni"
+
+msgid "title_option_exit=Exit"
+msgstr "Esci"
+
+msgid "title_option_dots=..."
+msgstr "..."
+
+msgid "title_help_text=Move with @MOVE Select with @OK"
+msgstr "Muovi con @MOVE Seleziona con @OK"
+
+msgid "title_help_text_1=Move with @MOVE"
+msgstr "Muovi con @MOVE"
+
+msgid "title_help_text_2=Select with @OK"
+msgstr "Seleziona con @OK"
+
+msgid "name_input_upper=Upper"
+msgstr "Maiusc"
+
+msgid "name_input_lower=Lower"
+msgstr "Minusc"
+
+msgid "name_input_hiragana=Hiragana"
+msgstr "Hiragana"
+
+msgid "name_input_katakana=Katakana"
+msgstr "Katakana"
+
+msgid "name_input_romaji=Romaji"
+msgstr "Romaji"
+
+msgid "name_input_ok=OK"
+msgstr "OK"
+
+msgid "name_input_delete_instruction=Press @CANCEL to delete characters."
+msgstr "Premi @CANCEL per eliminare i caratteri."
+
+msgid "boot_lang_select=Select your Language"
+msgstr "Seleziona la tua lingua"
+
+msgid "boot_lang_select_hint=(Press @OK to confirm)"
+msgstr "(Premi @OK per confermare)"
+
+msgid "boot_autosave_explain1=This game has an autosave feature."
+msgstr "Questo gioco dispone di una funzione di autosalvataggio."
+
+msgid "boot_autosave_explain2=When you see this icon on screen, please do not close the game."
+msgstr "Quando vedi questa icona a schermo, non chiudere il gioco."
+
+msgid "app_journal=       "
+msgstr "       "
+
+msgid "app_safe_document=DOCUMENT oneshot.txt"
+msgstr "DOCUMENT oneshot.txt"
+
+msgid "portal_1_foldername=Portal1"
+msgstr "Portale1"
+
+msgid "portal_2_foldername=Portal2"
+msgstr "Portale2"
+
+msgid "portal_3_foldername=Portal3"
+msgstr "Portale3"
+
+msgid "big_portal_foldername=BigPortal"
+msgstr "Big Portal"
+
+msgid "key_b_filename=keyB.txt"
+msgstr "chiaveB.txt"
+
+msgid "key_r_filename=keyR.txt"
+msgstr "chiaveR.txt"
+
+msgid "key_g_filename=keyG.txt"
+msgstr "chiaveG.txt"
+
+msgid "prototype_npcsheet_filename=blue_npc_prototype.png"
+msgstr "blu_npc_prototipo.png"
+
+msgid "prototype_facepic_filename=proto1.png"
+msgstr "proto1.png"
+
+msgid "cedric_npcsheet_filename=green_npc_cedric.png"
+msgstr "verde_npc_cedric.png"
+
+msgid "cedric_facepic_filename=cedric.png"
+msgstr "cedric.png"
+
+msgid "rue_npcsheet_filename=red_rue.png"
+msgstr "rosso_rue.png"
+
+msgid "rue_facepic_filename=rue.png"
+msgstr "rue.png"
+
+msgid "oneshot_password_image_1_filename=ONESHOT password1.png"
+msgstr "ONESHOT password1.png"
+
+msgid "oneshot_password_image_2_filename=ONESHOT password2.png"
+msgstr "ONESHOT password2.png"
+
+msgid "oneshot_password_image_3_filename=ONESHOT password3.png"
+msgstr "ONESHOT password3.png"
+
+msgid "oneshot_password_image_4_filename=ONESHOT password4.png"
+msgstr "ONESHOT password4.png"
+
+msgid "namecheck_is_swear_in_name=fuck shit ass cock damn penis tiddy titty cunt whore"
+msgstr "fuck shit ass cock damn penis tiddy titty cunt whore cazzo cazzi cazza merd culo culi pene peni fica fiche figa fighe tetta tette coglion stronz minchi puttan"
+
+msgid "namecheck_is_name_niko=niko"
+msgstr "niko"
+
+msgid "namecheck_is_name_like_niko=nico nikko nicco nikoh nicoh"
+msgstr "nico nikko nicco nikoh nicoh"
+
+msgid "namecheck_is_name_like_mom_or_dad=mom dad mommy daddy mama papa"
+msgstr "mom dad mommy daddy mama papa mamma mami babbo papi papo"
+
+msgid "namecheck_is_name_gross=poo pee fart stinky piss poop slimy"
+msgstr "poo pee fart stinky piss poop slimy cacca pipi scoreggia scorreggia puzzone puzzona piscio piscia pupu popo moccio"
+
+msgid "fasttravel_no_zone=NO ZONE"
+msgstr "NO ZONE"
+
+msgid "fakesave_filename=SAVE PROGRESS.dat"
+msgstr "SALVATAGGIO.dat"
+
+msgid "mapname_no_map_name=NO MAP NAME"
+msgstr "NO MAP NAME"
+
+msgid "inventory_no_items_item_description=No item selected."
+msgstr "Nessun elemento selezionato."
+
+msgid "achievements_app_name=Badges"
+msgstr "Medaglie"
+
+msgid "delete_restricted_modal=Access denied."
+msgstr "Accesso negato."
+
+msgid "delete_no_file_selected_modal=No file selected."
+msgstr "Nessun file selezionato."
+
+msgid "delete_confirmation_modal=Are you sure you want to delete {0} forever?"
+msgstr "Vuoi davvero eliminare {0} per sempre?"
+
+msgid "customize_app_name=Customize"
+msgstr "Personalizza"
+
+msgid "customize_slider_label_brightness=Brightness"
+msgstr "Luminosità"
+
+msgid "customize_slider_label_musicvolume=Music Volume"
+msgstr "Volume musica"
+
+msgid "customize_slider_label_soundvolume=Sound Volume"
+msgstr "Volume effetti sonori"
+
+msgid "customize_chooser_label_wallpaper=Wallpaper"
+msgstr "Sfondo"
+
+msgid "customize_chooser_label_theme=Theme"
+msgstr "Tema"
+
+msgid "customize_chooser_label_resolution=Resolution"
+msgstr "Risoluzione"
+
+msgid "docs_foldername=Documents"
+msgstr "Documenti"
+
+msgid "mygames_foldername=My Games"
+msgstr "Giochi"
+
+msgid "oneshot_foldername=Oneshot"
+msgstr "Oneshot"
+
+msgid "help_foldername=Help"
+msgstr "Aiuto"
+
+msgid "portals_foldername=Portals"
+msgstr "Portals"
+
+msgid "movefile_tutorial_folder1_name=Folder 1"
+msgstr "Cartella 1"
+
+msgid "movefile_tutorial_folder2_name=Folder 2"
+msgstr "Cartella 2"
+
+msgid "tutorial_dummyfile_filename=File.txt"
+msgstr "File.txt"
+
+msgid "readme_filename=README.txt"
+msgstr "LEGGIMI.txt"
+
+msgid "credits_filename=CREDITS.txt"
+msgstr "RINGRAZIAMENTI.txt"
+
+msgid "tutorial_delete_file_filename=How to\n"
+"Delete Files"
+msgstr "Come\n"
+"eliminare i file"
+
+msgid "tutorial_move_file_filename=How to\n"
+"Move Files"
+msgstr "Come\n"
+"spostare i file"
+
+msgid "tutorial_introduction_filename=Introduction Tutorial"
+msgstr "Tutorial introduttivo"
+
+msgid "oneshot_appname=OneShot"
+msgstr "OneShot"
+
+msgid "contacts_app=Friends"
+msgstr "Amici"
+
+msgid "gallery_app=Gallery"
+msgstr "Galleria"
+
+msgid "desktop_foldername=Desktop"
+msgstr "Desktop"
+
+msgid "gallery_empty_message=There's nothing here..."
+msgstr "Non c'è niente qua..."
+
+msgid "error_move_folder=Cannot relocate folder."
+msgstr "Impossibile spostare la cartella."
+
+msgid "error_move_restricted=Cannot relocate this file: permission denied."
+msgstr "Impossibile spostare questo file: permesso negato."
+
+msgid "error_too_many_items=Cannot relocate file: too many items in destination folder."
+msgstr "Impossibile spostare questo file: troppi elementi presenti nella cartella di destinazione."
+
+msgid "musicbox_appname=Music Box"
+msgstr "Carillon"
+
+msgid "musicbox_playback_speed_slider_label=Playback Speed"
+msgstr "Velocità di riproduzione"
+
+msgid "musicbox_volume_slider_label=Volume"
+msgstr "Volume"
+
+msgid "musicbox_current_track_chooser_label=Current Track"
+msgstr "Traccia corrente"
+
+msgid "oneshot_window_no_close_during_cutscene=You cannot perform this action during cutscenes."
+msgstr "Non puoi effettuare questa azione durante i dialoghi o le sequenze animate."
+
+msgid "error_launch_oneshot_musicbox_open=Cannot launch OneShot while Music Box is running."
+msgstr "Impossibile avviare OneShot mentre Carillon è in esecuzione."
+
+msgid "error_launch_musicbox_oneshot_open=Cannot launch Music Box while OneShot is running."
+msgstr "Impossibile avviare Carillon mentre Oneshot è in esecuzione."
+
+msgid "error_launch_when_oneshot_open=Can't run {0} while OneShot window is open."
+msgstr "Impossibile aprire {0} mentre OneShot è in esecuzione."
+
+msgid "error_too_many_windows=Too many windows open."
+msgstr "Troppe finestre aperte."
+
+msgid "error_no_friends_unlocked=No friends unlocked yet!"
+msgstr "Nessun amico ancora sbloccato!"
+
+msgid "niko_prof_filename=Niko"
+msgstr "Niko"
+
+msgid "fromniko_wallpaper_filename=From Niko"
+msgstr "Da Niko"
+
+msgid "wallpapers_foldername=Wallpapers"
+msgstr "Sfondi"
+
+msgid "themes_foldername=Themes"
+msgstr "Temi"
+
+msgid "settings_chromaaberration=Chromatic Aberration Effects"
+msgstr "Effetti di aberrazione cromatica"
+
+msgid "boot_profile_current_user=Current Profile: "
+msgstr "Profilo Attuale: "
+
+msgid "boot_profile_change_user=Press @INVENTORY to change profiles."
+msgstr "Premi @INVENTORY per cambiare profilo."
+
+msgid "boot_profile_confirm_user=Press @OK to use the current profile."
+msgstr "Premi @OK per utilizzare il profilo attuale."
+
+msgid "customize_change_profile_button=Change Profile"
+msgstr "Cambia Profilo"
+
+msgid "cant_change_profile_when_oneshot_running=Can't change profile while OneShot is running."
+msgstr "Impossibile cambiare profilo mentre Oneshot è in esecuzione."
+
+msgid "change_profile_yesno=Change Profile?\n(This will restart The World Machine)"
+msgstr "Cambiare Profilo?\n(Questo riavverà la World Machine)"
+
+msgid "customize_chooser_label_touchscreen_input=Touch Screen Input"
+msgstr "Input del Touch Screen"
+
+msgid "settings_fullscreen_scaling=Fullscreen Scaling"
+msgstr "Scala schermo intero"
+
+msgid "settings_fullscreen_scaling_smooth=Smooth"
+msgstr "Fluido"
+
+msgid "settings_fullscreen_scaling_sharp=Sharp"
+msgstr "Netto"
+
+msgid "customize_chooser_label_system_scaling=System Scaling"
+msgstr "Scala sistema"
+
+msgid "customize_system_scaling_smooth=Smooth"
+msgstr "Fluido"
+
+msgid "customize_system_scaling_sharp=Sharp"
+msgstr "Netto"
+
+msgid "customize_chooser_label_fullscreen=Fullscreen"
+msgstr "Schermo intero"
+
+msgid "timer_app_filename=Timer"
+msgstr "Timer"
+
+msgid "timer_app_name=Timer"
+msgstr "Timer"
+
+msgid "timer_system_active_time=System Active Time"
+msgstr "Durata di attivazione del sistema"
+
+msgid "timer_current_playthrough=Current Playthrough"
+msgstr "Sessione attuale"
+
+msgid "timer_explanation_1='System Active Time' is the time that has elapsed since The World Machine has been started."
+msgstr "\"Durata di attivazione del sistema\" è il tempo trascorso dall'avvio della Macchina del Mondo."
+
+msgid "timer_explanation_2='Current Playthrough' is the time that has elapsed on the current playthrough of the game."
+msgstr "\"Sessione attuale\" è il tempo trascorso nella sessione di gioco in corso."
+
+msgid "timer_explanation_3=Current Playthrough time starts when OneShot is started from the title screen, and ends when you reach an ending."
+msgstr "La durata della sessione attuale inizia dopo l'avvio di OneShot dalla schermata principale e termina quando si giunge alla fine."
+
+msgid "controls_app_filename=Controls"
+msgstr "Comandi"
+
+msgid "controls_app_name=Controls"
+msgstr "Comandi"
+
+msgid "controls_button_up=Up"
+msgstr "Su"
+
+msgid "controls_button_down=Down"
+msgstr "Giù"
+
+msgid "controls_button_left=Left"
+msgstr "Sinistra"
+
+msgid "controls_button_right=Right"
+msgstr "Destra"
+
+msgid "controls_button_mousebutton=Click Mouse"
+msgstr "Clic con mouse"
+
+msgid "controls_button_movemouse=Move Mouse"
+msgstr "Muovi con mouse"
+
+msgid "controls_button_move=Move Character"
+msgstr "Muovi personaggio"
+
+msgid "controls_button_ok=Action/Confirm"
+msgstr "Azione/Conferma"
+
+msgid "controls_button_cancel=Back/Cancel"
+msgstr "Indietro/Annulla"
+
+msgid "controls_button_mainmenu=Main Menu"
+msgstr "Menu principale"
+
+msgid "controls_button_inventory=Inventory"
+msgstr "Inventario"
+
+msgid "controls_button_run=Run"
+msgstr "Corri"
+
+msgid "controls_button_mashtext=Skip Text"
+msgstr "Salta testo"
+
+msgid "controls_button_fullscreen=Toggle Fullscreen"
+msgstr "Apri/Chiudi schermo intero"
+
+msgid "controls_button_assign_prompt=Press the button you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no button is pressed."
+msgstr "Premi il pulsante da assegnare a\n\"{0}\".\n\nSe non premi alcun pulsante, questa finestra si chiuderà dopo 10 secondi."
+
+msgid "controls_key_assign_prompt=Press the key you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no key is pressed."
+msgstr "Premi il tasto da assegnare a\n\"{0}\".\n\nSe non premi alcun tasto, questa finestra si chiuderà dopo 10 secondi."
+
+msgid "controls_stick_assign_prompt=Move the thumb stick you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no stick is moved."
+msgstr "Muovi la levetta da assegnare a\n\"{0}\".\n\nSe non muovi alcuna levetta, questa finestra si chiuderà dopo 10 secondi."
+
+msgid "controls_app_move_deadzone_slider_label=Move Stick Deadzone"
+msgstr "Deadzone levetta di movimento"
+
+msgid "controls_app_mouse_deadzone_slider_label=Mouse Stick Deadzone"
+msgstr "Deadzone levetta del mouse"
+
+msgid "controls_app_mouse_speed_slider_label=Mouse Cursor Speed"
+msgstr "Velocità del cursore del mouse"
+
+msgid "controls_app_default_controls_button_label=Restore Default Controls"
+msgstr "Ripristina comandi predefiniti"
+
+msgid "controls_app_default_controls_confirm_popup=Are you sure you want to restore the default control settings?"
+msgstr "Vuoi davvero ripristinare le impostazioni di comando predefinite?"
+
+msgid "shutdown_app_filename=Shut Down"
+msgstr "Spegni"
+
+msgid "cant_shutdown_while_oneshot_running=Can't Shut Down The World Machine while OneShot is running. Please close the OneShot window first."
+msgstr "Non è possibile spegnere la Macchina del Mondo mentre OneShot è in esecuzione. Chiudi prima la finestra di OneShot."
+
+msgid "do_you_really_want_to_shut_down=Do you really want to shut down The World Machine?"
+msgstr "Vuoi davvero spegnere la Macchina del Mondo?"
+
+msgid "dialog_cancel=Cancel"
+msgstr "Annulla"
+
+msgid "select_resolution_modal_window=Please select the resolution you would like to use."
+msgstr "Seleziona la risoluzione da impostare."
+
+msgid "change_resolution_button=Change Resolution"
+msgstr "Modifica risoluzione"
+
+msgid "error_controller_disconnect=Controller Disconnected!\nPlease reconnect the controller or close this window using the mouse."
+msgstr "Controller disconnesso!\nRicollega il controller o chiudi questa finestra utilizzando il mouse."
+
+msgid "boot_demo_title=Press @OK to start Demo"
+msgstr "Premi @OK per avviare la demo"
+
+msgid "boot_demo_explain=This Demo has a {0} minute time limit.\nThe time remaining will be displayed in the bottom right of the screen."
+msgstr "Questa demo ha un limite di tempo di {0} minuti.\nIl tempo rimanente verrà visualizzato in basso a destra dello schermo."
+
+msgid "boot_demo_end=Thank you for playing the 'OneShot: World Machine Edition' Demo!\nNow available on Steam!"
+msgstr "Grazie per aver giocato alla demo di \"OneShot: World Machine Edition\"!\nOra disponibile su Steam!"
+
+msgid "file_load_fail=Error loading '{0}', attempting to load a backup."
+msgstr "Errore durante il caricamento di '{0}', tentativo di caricare un backup."
+
+msgid "backup_not_found=Backup {0} not found for '{1}'."
+msgstr "Backup {0} non trovato per '{1}'."
+
+msgid "backup_load_failed=Error loading backup '{0}' for '{1}'."
+msgstr "Errore durante il caricamento del backup '{0}' per '{1}'."
+
+msgid "all_backups_failed=Error loading backups for {0}, using default instead."
+msgstr "Errore durante il caricamento dei backup per '{0}'; sarà usato quello predefinito."
+
+msgid "game_load_failed=Save data is corrupt. Deleting save."
+msgstr "I dati di salvataggio sono danneggiati. Eliminazione del salvataggio."
+
+msgid "customize_chooser_label_vsync=Vertical Sync"
+msgstr "Sincronizzazione verticale"
+
+msgid "customize_chooser_label_badgetoasts=Badge Notifications"
+msgstr "Notifiche badge"
+
+msgid "settings_fullscreen_border=Fullscreen Border"
+msgstr "Bordo a schermo intero"
+
+msgid "settings_fullscreen_scaling_integer=Integer"
+msgstr "Numero intero"
+
+msgid "settings_fullscreen_scaling_none=None"
+msgstr "Nessuno"
+
+msgid "badge_toasts_enabled_text=Badge Notifications\nEnabled"
+msgstr "Notifica badge\nattivata"
+
+msgid "badge_toasts_disabled_text=Badge Notifications\nDisabled"
+msgstr "Notifica badge\ndisattivata"
+
+
+
+

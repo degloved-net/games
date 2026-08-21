@@ -1,0 +1,93 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak Uno stufato di pesce!"
+
+msgid "@niko A fishing pole."
+msgstr "@niko Una canna da pesca."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp Anche mio fratello sa pescare!"
+
+msgid "@alula But I don't!"
+msgstr "@alula Invece io no!"
+
+msgid "@niko Same!"
+msgstr "@niko Lo stesso vale per me!"
+
+msgid "@niko An empty jar."
+msgstr "@niko Un vaso vuoto."
+
+msgid "@niko A jar of worms."
+msgstr "@niko Un vaso di vermi."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed Ew, che schifo!"
+
+msgid "There was a time where our people used to live in these ruins."
+msgstr "Un tempo la nostra gente viveva in queste rovine."
+
+msgid "But due to flooding, most of us have moved to less permanent settlements."
+msgstr "Ma a causa delle inondazioni, la maggior parte di noi si è trasferita verso insediamenti meno permanenti."
+
+msgid "@niko Flooding?"
+msgstr "@niko Inondazioni?"
+
+msgid "Aye, the land has gotten brittle..."
+msgstr "Sì, il terreno è diventato friabile..."
+
+msgid "The Glen used to be in one piece, you know?"
+msgstr "Sapevi che la Valle una volta era un blocco unico?"
+
+msgid "But now it's just a bunch of islands that get smaller and smaller."
+msgstr "Ma ora è solo un gruppo di isole che diventano via via sempre più piccole."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko Do you still live here?"
+msgstr "@niko Abiti ancora qui?"
+
+msgid "Sort of."
+msgstr "Più o meno."
+
+msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
+msgstr "Le popolazioni di pesci vicino al villaggio si sono ridotte di molto, quindi noi pescatori abbiamo deciso di rifugiarci qui temporaneamente."
+
+msgid "@niko_speak Makes sense!"
+msgstr "@niko_speak Ha senso!"
+
+msgid "The deeper ruins have been abandoned for a while, though."
+msgstr "Le rovine più interne, invece, sono state abbandonate un bel po' di tempo fa."
+
+msgid "...but I do see some kids coming in and out of those."
+msgstr "...Ma a volte vedo dei bambini girare da quelle parti."
+
+msgid "I think they actually live there?"
+msgstr "Chissà, forse vivono lì...?"
+
+msgid "... hey, now that I think about it..."
+msgstr "...Ehi, ora che ci penso..."
+
+msgid "Aren't YOU one of those kids?"
+msgstr "TU non sei una di quei bambini?"
+
+msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
+msgstr "@alula_speak Sì! \\@alula Nelle rovine siamo solo io e mio fratello! \\>\\n\\@alula_pout O si diceva... \"mio fratello e io\"?"
+
+msgid "Well, I hope you kids stay safe!"
+msgstr "Beh, spero che voi bambini restiate al sicuro!"
+
+msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
+msgstr "Se avete bisogno di un luogo meno pericoloso dove vivere, un buon posto potrebbe essere il villaggio o la città."
+
+msgid "I hope you and your brother stay safe!"
+msgstr "Spero che tu e tuo fratello restiate al sicuro!"
+
+msgid "I hope those kids are safe..."
+msgstr "Spero che quei bambini siano al sicuro..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Questi sono riempiti con piccoli pesci essiccati."
+
+msgid "@niko Warm coals."
+msgstr "@niko Carbone caldo."
+

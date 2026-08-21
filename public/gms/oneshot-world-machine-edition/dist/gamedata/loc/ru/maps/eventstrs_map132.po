@@ -1,0 +1,249 @@
+msgid "@niko A watering can. It's half full."
+msgstr "@niko Садовая лейка. Наполовину полная."
+
+msgid "@niko Filled with plant clippings."
+msgstr "@niko Тут много обрезков растений."
+
+msgid "@niko It's a pink flower."
+msgstr "@niko Это розовый цветок."
+
+msgid "@mason Good luck with that seed, now!"
+msgstr "@mason Удачи тебе с зерном!"
+
+msgid "@mason Most of the plants in our world tend to grow in The Glen."
+msgstr "@mason Большинство растений в нашем мире обычно растут в Долине."
+
+msgid "@mason Even if it's facing the flooding issues, it's still in better condition than the other two areas."
+msgstr "@mason Даже несмотря на периодические затопления, там всё равно условия получше, чем в других районах."
+
+msgid "@mason The Barrens is... well, the barrens."
+msgstr "@mason Пустошь это... Ну, обычная пустошь."
+
+msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
+msgstr "@mason А в Пристанище еле хватает земли для самого города, не говоря уже о том, чтобы там что-то выращивать!"
+
+msgid "@mason ...On a larger scale than this, I mean."
+msgstr "@mason Я имею в виду, в более крупных масштабах..."
+
+msgid "@niko_speak Oh! \\.\\.\\@niko You're a gardener, right?"
+msgstr "@niko_speak O! \\.\\.\\@niko Ты садовник, да?"
+
+msgid "@mason Yup!"
+msgstr "@mason Ага!"
+
+msgid "@niko_speak Do you... happen to have any dirt?\\>\\n\\@niko For growing plants, I mean!"
+msgstr "@niko_speak А у тебя, случайно, нет... немного грунта?\\>\\n\\@niko Ну, для выращивания растений!"
+
+msgid "@mason Yup!\\>\\nDo you need some?"
+msgstr "@mason Имеется!\\>\\nТебе дать?"
+
+msgid "@niko_speak Yes!\\>\\n\\@niko I'm supposed to plant this seed left behind by a plant lady..."
+msgstr "@niko_speak Да!\\>\\n\\@niko Я должен посадить это зёрнышко, которое оставила девушка-растение..."
+
+msgid "@niko_eyeclosed ...but the pot in the garden doesn't have any soil..."
+msgstr "@niko_eyeclosed Но в горшке в саду нет земли..."
+
+msgid "@mason I see...."
+msgstr "@mason Понятно..."
+
+msgid "@mason I know who you're talking about, yeah."
+msgstr "@mason Да, я понимаю, о ком ты говоришь."
+
+msgid "@mason Here, take this whole bag!"
+msgstr "@mason Вот, возьми этот мешок!"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak Спасибо!"
+
+msgid "@mason Feel free to ask me about the plants!"
+msgstr "@mason Если хочешь узнать что-нибудь насчёт растений, можешь смело спрашивать!"
+
+msgid "@mason Hello there!"
+msgstr "@mason Привет!"
+
+msgid "@niko_speak You have a lot of plants!"
+msgstr "@niko_speak У вас так много растений!"
+
+msgid "@mason I do!\\nGrew all of these myself, y'see."
+msgstr "@mason Это верно!\\nЯ их все вырастил собственными руками."
+
+msgid "@mason Feel free to ask me about them!"
+msgstr "@mason Если что-то интересно, спрашивай!"
+
+msgid "@niko Empty flowerpot..."
+msgstr "@niko Пустой цветочный горшок..."
+
+msgid "@niko Cactus."
+msgstr "@niko Кактус."
+
+msgid "@mason Cactus."
+msgstr "@mason Кактус."
+
+msgid "@niko_eyeclosed Cactus."
+msgstr "@niko_eyeclosed Кактус."
+
+msgid "@niko So... is it a tree?"
+msgstr "@niko Значит... это дерево?"
+
+msgid "@mason Only in name!"
+msgstr "@mason Чисто номинально!"
+
+msgid "@mason That's a phosphor tree."
+msgstr "@mason Это фосфорное дерево."
+
+msgid "@niko_speak Oh! Like the ones we saw in the glen!"
+msgstr "@niko_speak Ой! Мы видели такое же в Долине!"
+
+msgid "@niko I always wondered... where are the leaves?"
+msgstr "@niko Мне всегда было интересно... куда подевались листья?"
+
+msgid "@niko2 They're not... dead, are they?"
+msgstr "@niko2 Они же... не умерли, правда?"
+
+msgid "@mason Oh, not at all!"
+msgstr "@mason О, вовсе нет!"
+
+msgid "@mason Although these trees are composed of a woody tissue, they're closer to grass, anatomy-wise."
+msgstr "@mason Несмотря на свою древесную структуру, эти деревья ближе к травам."
+
+msgid "@niko ...So the branches are actually leaves?"
+msgstr "@niko То есть, ветки — это на самом деле листья?"
+
+msgid "@mason Sorta!"
+msgstr "@mason Типа того!"
+
+msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
+msgstr "@mason Что любопытно, эти растения производят большое количество фосфорного сока."
+
+msgid "@niko Phosphor... that's the glowy stuff, right?"
+msgstr "@niko Фосфор... Это штука, которая светится в темноте?"
+
+msgid "@mason Phosphor can store light energy and slowly emit it over time."
+msgstr "@mason Фосфор может накапливать энергию света и излучать её некоторое время."
+
+msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
+msgstr "@mason Большая часть фосфора в этом мире ещё хранит в себе энергию погасшего солнца."
+
+msgid "@mason Without the sun to recharge them, though..."
+msgstr "@mason Правда, перезарядить его уже невозможно..."
+
+msgid "@mason ...well, let's talk about something else."
+msgstr "@mason Давай лучше поговорим о чём-нибудь другом."
+
+msgid "@niko The pots are labeled with different species names."
+msgstr "@niko На горшках этикетки с названиями разных видов."
+
+msgid "@niko Oh! The sprouts are stretching towards the sun..."
+msgstr "@niko Ой! Ростки тянутся к солнцу..."
+
+msgid "@mason Be sure not to touch these!"
+msgstr "@mason Вот эти не трогай!"
+
+msgid "@mason These are the plants have only recently sprouted."
+msgstr "@mason Эти растения только-только дали ростки."
+
+msgid "@mason It's not easy for a plant to make it out there these days."
+msgstr "@mason Сегодня растению не так-то просто выжить в нашем мире."
+
+msgid "@mason We got these growing lamps, but they're a poor substitute for the sun!"
+msgstr "@mason У нас есть эти лампы для проращивания, но это всё лишь жалкая замена солнца!"
+
+msgid "@mason Ah, black clovers..."
+msgstr "@mason А, чёрный клевер..."
+
+msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
+msgstr "@mason Вероятно, единственное растение, достаточно выносливое, чтобы свободно произрастать за пределами Долины."
+
+msgid "@mason Personally? I think they're really boring to look at."
+msgstr "@mason Я считаю, что оно очень скучное."
+
+msgid "@mason One of my customers really loves them though."
+msgstr "@mason Но одному из моих клиентов нравится."
+
+msgid "@mason I think all of the black clovers I'm growing here are for him, actually."
+msgstr "@mason Мне кажется, весь чёрный клевер, который я тут выращиваю, это для него."
+
+msgid "@mason ...Come to think of it, I haven't seen him in a while."
+msgstr "@mason Кстати говоря, давненько я его не видел..."
+
+msgid "@mason I wonder when is he coming to pick these up?"
+msgstr "@mason Интересно, когда он собирается забрать эти растения?"
+
+msgid "@mason The clover guy... he's actually pretty cool!"
+msgstr "@mason Этот парень с клевером... Вообще он крутой!"
+
+msgid "@mason He's an author, and apparently he's some sort of big deal? Or at least he's really passionate about his work."
+msgstr "@mason Он писатель и вроде бы даже известный. Ну, по крайней мере, он очень любит свою работу."
+
+msgid "@mason I don't know him that well, although sometimes I stumble across articles about him in the news..."
+msgstr "@mason Я не так уж хорошо его знаю, но иногда натыкаюсь на статьи о нём..."
+
+msgid "@mason I'd love to chat with him, if I run into him again!"
+msgstr "@mason Надо бы с ним поболтать, надеюсь я встречу его ещё раз!"
+
+msgid "@niko Black clovers."
+msgstr "@niko Чёрный клевер."
+
+msgid "@niko They're kinda shiny."
+msgstr "@niko Он как будто светится."
+
+msgid "@niko It's wheat."
+msgstr "@niko Это пшеница."
+
+msgid "@mason That golden color is quite something, no?"
+msgstr "@mason Потрясающий золотистый цвет, правда?"
+
+msgid "@niko_speak It's wheat!"
+msgstr "@niko_speak Это пшеница!"
+
+msgid "@niko Why is it in a flowerpot?"
+msgstr "@niko Почему она в цветочном горшке?"
+
+msgid "@mason Well, doesn't it look nice?"
+msgstr "@mason Разве она не чудесно выглядит?"
+
+msgid "@niko I guess!"
+msgstr "@niko Согласен!"
+
+msgid "@niko I like to stand in the middle of the wheat field back in my village."
+msgstr "@niko Я люблю стоять посреди пшеничного поля за моей деревней."
+
+msgid "@niko_speak It goes on for miles!"
+msgstr "@niko_speak Оно простирается на много километров!"
+
+msgid "@mason Ah... I wish I could have seen it!"
+msgstr "@mason А... Хотел бы я на это посмотреть!"
+
+msgid "@mason In our world, wheat is usually only grown in small isolated plots."
+msgstr "@mason В нашем мире пшеница обычно растёт на небольших изолированных участках земли."
+
+msgid "@mason ...Or in a flowerpot."
+msgstr "@mason Или в горшках..."
+
+msgid "@niko A small tree with leaves."
+msgstr "@niko Маленькое деревце с листочками."
+
+msgid "@niko_eyeclosed ...Apparently they are rare."
+msgstr "@niko_eyeclosed ...Их явно очень мало."
+
+msgid "@niko This tree has leaves!"
+msgstr "@niko У этого дерева есть листья!"
+
+msgid "@mason Ah yes, true foliage is hard to come by nowadays."
+msgstr "@mason А, да. В наши дни трудно найти настоящую листву."
+
+msgid "@mason You hardly ever see trees like these in the wild anymore."
+msgstr "@mason В дикой природе такие деревья больше не встретишь."
+
+msgid "@mason And the ones you do see are pretty much all raised artificially by people like me, mostly for nostalgia purposes."
+msgstr "@mason А те, что ещё встречаются, обычно выращены искусственным образом людьми вроде меня. Просто из чувства ностальгии."
+
+msgid "@niko A small garden trowel. The handle part is shaped like... an owl?"
+msgstr "@niko Маленький совок. У него ручка сделана в виде... совы?"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak ..."
+
+msgid "@niko_83c I get it!"
+msgstr "@niko_83c А, я понял!"
+

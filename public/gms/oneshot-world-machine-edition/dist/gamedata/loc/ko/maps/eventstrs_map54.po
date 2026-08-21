@@ -1,0 +1,45 @@
+msgid "@niko_speak Time to put the seed in the planter."
+msgstr "@niko_speak 화분에 씨앗을 심어야겠어요."
+
+msgid "@niko ...\\>\\nThere's no dirt in this pot.\\>\\nWill the seed really grow like this?"
+msgstr "@niko ...\\>\\n화분에 흙이 없어요.\\>\\n이 상태로 씨앗이 제대로 자랄 수 있을까요?"
+
+msgid "@niko \\p, I need to put in the seed first before I put in the dirt."
+msgstr "@niko \\p 님, 흙을 넣기 전에 씨앗부터 넣어야 해요."
+
+msgid "@niko This is where I'm supposed to put the seed... \\>\\nBut there's no dirt in this pot."
+msgstr "@niko 씨앗을 여기에 넣어야 하는데... \\>\\n화분에 흙이 없네요."
+
+msgid "@niko_speak I hope this helps you grow, little seed."
+msgstr "@niko_speak 이게 자라는 데 도움이 되면 좋겠구나, 작은 씨앗아."
+
+msgid "@niko The seed's in the soil, but it looks a bit dry."
+msgstr "@niko 씨앗을 흙에 심었지만, 흙이 말라 있네요."
+
+msgid "@niko I can't just pour the water on the seed.\\>\\nIt needs dirt before we can water it."
+msgstr "@niko 씨앗 위에 바로 물을 부을 순 없어요.\\>\\n물을 주기 전에 흙부터 넣어야 해요."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko Water should help this seed grow."
+msgstr "@niko_speak 좋은 생각이에요, \\p 님!\\>\\n\\@niko 수분이 씨앗의 성장을 촉진하겠죠."
+
+msgid "@niko Hmm... the dirt's nice and moist now, but..."
+msgstr "@niko 흐음... 이제 흙도 충분하고, 수분도 충분하긴 한데..."
+
+msgid "@niko_speak What if it dries out?\\.\\. \\@niko_eyeclosed There's only so much water from this little tube..."
+msgstr "@niko_speak 수분이 다 말라버리면 어쩌죠? \\.\\. \\@niko_eyeclosed 이 시험관만으로는 물을 충분히 줄 수 없어요..."
+
+msgid "@niko ...I'll hold on to the tube for now, just in case..."
+msgstr "@niko ...그래도 혹시 모르니 시험관을 갖고 있을게요..."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko This water should really help this seed grow."
+msgstr "@niko_speak 좋은 생각이에요, \\p 님!\\>\\n\\@niko 이 물이라면 씨앗이 자라는 데 정말 도움이 되겠어요."
+
+msgid "@niko_speak It sprouted a tiny leaf!"
+msgstr "@niko_speak 조그만 잎이 돋아났어요!"
+
+msgid "@niko We've given it dirt and water.\\>\\nBut will that be enough?"
+msgstr "@niko 흙과 물을 주긴 했지만...\\>\\n이걸로 충분할까요?"
+
+msgid "@niko_speak Good luck, little plant!"
+msgstr "@niko_speak 힘내, 작은 새싹아!"
+

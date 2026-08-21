@@ -1,0 +1,63 @@
+{
+  "files": [
+    {
+      "target": "dataUrl",
+      "type": "application/octet-stream",
+      "size": 848714717,
+      "parts": [
+        "YandereSim.data.part000",
+        "YandereSim.data.part001",
+        "YandereSim.data.part002",
+        "YandereSim.data.part003",
+        "YandereSim.data.part004",
+        "YandereSim.data.part005",
+        "YandereSim.data.part006",
+        "YandereSim.data.part007",
+        "YandereSim.data.part008",
+        "YandereSim.data.part009",
+        "YandereSim.data.part010",
+        "YandereSim.data.part011",
+        "YandereSim.data.part012",
+        "YandereSim.data.part013",
+        "YandereSim.data.part014",
+        "YandereSim.data.part015",
+        "YandereSim.data.part016",
+        "YandereSim.data.part017",
+        "YandereSim.data.part018",
+        "YandereSim.data.part019",
+        "YandereSim.data.part020",
+        "YandereSim.data.part021",
+        "YandereSim.data.part022",
+        "YandereSim.data.part023",
+        "YandereSim.data.part024",
+        "YandereSim.data.part025",
+        "YandereSim.data.part026",
+        "YandereSim.data.part027",
+        "YandereSim.data.part028",
+        "YandereSim.data.part029",
+        "YandereSim.data.part030",
+        "YandereSim.data.part031",
+        "YandereSim.data.part032",
+        "YandereSim.data.part033",
+        "YandereSim.data.part034",
+        "YandereSim.data.part035",
+        "YandereSim.data.part036",
+        "YandereSim.data.part037",
+        "YandereSim.data.part038",
+        "YandereSim.data.part039",
+        "YandereSim.data.part040",
+        "YandereSim.data.part041",
+        "YandereSim.data.part042"
+      ]
+    },
+    {
+      "target": "codeUrl",
+      "type": "application/wasm",
+      "size": 38634554,
+      "parts": [
+        "YandereSim.wasm.part000",
+        "YandereSim.wasm.part001"
+      ]
+    }
+  ]
+}

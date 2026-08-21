@@ -1,0 +1,36 @@
+msgid "@niko A robot sitting on the conveyor belt."
+msgstr "@niko Un robot en la cinta transportadora."
+
+msgid "@niko_eyeclosed Doesn't seem to have power."
+msgstr "@niko_eyeclosed Parece que no tiene energía."
+
+msgid "[OH. HELLO.]"
+msgstr "[AH. HOLA.]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak ¡Hola!"
+
+msgid "[I HAVE POWER AGAIN.]"
+msgstr "[TENGO ENERGÍA DE NUEVO.]"
+
+msgid "@niko Yup!"
+msgstr "@niko ¡Sí!"
+
+msgid "@niko A robot."
+msgstr "@niko Un robot."
+
+msgid "@niko It seems to be ok! Just doesn't have power."
+msgstr "@niko ¡Parece que está bien! Es solo que no tiene energía."
+
+msgid "[HELLO. ORGANIC LIFE FORM.]"
+msgstr "[HOLA, FORMA DE VIDA ORGÁNICA.]"
+
+msgid "@niko Hello!"
+msgstr "@niko ¡Hola!"
+
+msgid "@niko A big machine..."
+msgstr "@niko Una máquina grande..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko Parece una prensa para aplastar metal."
+

@@ -1,0 +1,42 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko En este tarro hay algunas luciérnagas revoloteando."
+
+msgid "[I AM THE GENERATOR MAINTENANCE UNIT.]"
+msgstr "[YO SOY LA UNIDAD DE MANTENIMIENTO DEL GENERADOR.]"
+
+msgid "[EVERYTHING IS FINE HERE.]"
+msgstr "[TODO ESTÁ EN ORDEN AQUÍ.]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[HOLA, INDIVIDUO.]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[ESTE ES EL GENERADOR PRINCIPAL DEL VALLE.]"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak ¡Hala!"
+
+msgid "@niko \\p and I actually fixed one of these earlier, in that place across the ocean..."
+msgstr "@niko En realidad, \\p y yo arreglamos uno de estos antes, en ese sitio al otro lado del océano..."
+
+msgid "[THIS GENERATOR DOES NOT NEED TO BE FIXED RIGHT NOW.]"
+msgstr "[NO HACE FALTA ARREGLAR ESTE GENERADOR AHORA MISMO.]"
+
+msgid "@niko Right... You guys already have power and all..."
+msgstr "@niko Vale... Vosotros ya tenéis energía y eso..."
+
+msgid "@niko A generator."
+msgstr "@niko Un generador."
+
+msgid "@niko_speak This one's got a working battery!"
+msgstr "@niko_speak ¡Este tiene una batería que funciona!"
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak ¡No quiero recibir otra descarga, \\p!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what ¡Ay!"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed Me acaba de dar un calambre..."
+

@@ -1,0 +1,18 @@
+msgid "$Evacuation? At such short notice?"
+msgstr "$Une évacuation ? Aussi rapidement ?"
+
+msgid "$I can't believe this..."
+msgstr "$Je n'arrive pas à y croire..."
+
+msgid "$First the sun dies, now I'm out of a job..."
+msgstr "$D'abord le soleil meurt, et maintenant, je perds mon travail..."
+
+msgid "@niko Some sort of mechanical drawing."
+msgstr "@niko Une sorte de schéma mécanique."
+
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko Un robot. Il est irréparable..."
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko J'ai peur des échelles..."
+

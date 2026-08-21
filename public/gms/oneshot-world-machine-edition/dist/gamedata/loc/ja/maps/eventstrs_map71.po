@@ -1,0 +1,159 @@
+msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
+msgstr "[どうモ、生存中の有機生命体。]"
+
+msgid "[THE INFIRMARY IS UP AHEAD.]"
+msgstr "[診療所ハこの先にありまス。]"
+
+msgid "INFIRMARY"
+msgstr "診療所"
+
+msgid "[HELLO. DO YOU NEED ANY HELP?]"
+msgstr "[どうモ。何かお困りですカ？]"
+
+msgid "@niko_speak I'm good, thanks!"
+msgstr "@niko_speak ミーは大丈夫、ありがとう！"
+
+msgid "[UNIT RM-2883417 REPORTING FOR DUTY!]"
+msgstr "[ユニットRM-2883417、\n任務ニ参りましタ！]"
+
+msgid "[I SAW THAT YOU SPOKE WITH THE GUARDIAN OF THE SETTLEMENT.]"
+msgstr "[アナタガ居住地の守護者と\n話しているのを見かけましタ。]"
+
+msgid "[I WILL NOW ESCORT YOU UNTIL YOU REACH YOUR DORMITORY.]"
+msgstr "[寄宿舎ニ到着するまで護衛いたしまス。]"
+
+msgid "@niko um... what?"
+msgstr "@niko えっと…何？"
+
+msgid "@niko_speak So you're just gonna... follow me?"
+msgstr "@niko_speak つまり…ミーについてくるってこと？"
+
+msgid "[YES.]"
+msgstr "[はイ。]"
+
+msgid "[UNTIL YOU SAFELY REACH A BUILDING OF YOUR DESTINATION.]"
+msgstr "[アナタガ目的の建物に\n安全に到着するまででス。]"
+
+msgid "@niko Alright."
+msgstr "@niko わかった。"
+
+msgid "@niko Hello"
+msgstr "@niko こんばんは"
+
+msgid "[BOOP]"
+msgstr "[ブーッ]"
+
+msgid "[UNIT RT-3847201 REPORTING FOR DUTY!]"
+msgstr "[ユニットRT-3847201、\n任務ニ参りましタ！]"
+
+msgid "[IT SEEMS THAT YOU ALREADY HAVE AN ASSIGNED ESCORT, UNIT RM-2883417]"
+msgstr "[アナタニハすでニ、\n護衛ユニットRM-2883417が\nついているようですネ。]"
+
+msgid "[WOULD YOU LIKE ME TO LEAVE?]"
+msgstr "[私ハ必要ありませんカ？]"
+
+msgid "@niko You can follow me if you want..."
+msgstr "@niko ついて来たいなら、来てもいいよ…"
+
+msgid "[UNDERSTOOD.]"
+msgstr "[承知しましタ。]"
+
+msgid "@niko_speak Are you guys not supposed to go in buildings?"
+msgstr "@niko_speak 君たちは建物の中には入れないの？"
+
+msgid "[CORRECT.]"
+msgstr "[その通りでス。]"
+
+msgid "[WE ARE BUILT FOR OUTDOOR USE ONLY.]"
+msgstr "[ワタシたちハ屋外専用でス。]"
+
+msgid "[ENTERING BUILDINGS IS NOT PART OF OUR PROGRAMMING.]"
+msgstr "[建物ノ中に入るようニハ\nプログラムされていませン。]"
+
+msgid "@niko That's... strange."
+msgstr "@niko なんかいうか…変だね。"
+
+msgid "[BEEP]"
+msgstr "ビーッ"
+
+msgid "@blue_gatekeeper [Oh, Hello.]"
+msgstr "@blue_gatekeeper [オオ、コレハ。]"
+
+msgid "@blue_gatekeeper [What Are You Doing Here?]"
+msgstr "@blue_gatekeeper [ココデ何ヲシテイル？]"
+
+msgid "@niko Hm?"
+msgstr "@niko うん？"
+
+msgid "@blue_gatekeeper [A Living Person Such As Yourself Should Have Evacuated This Place Long Ago.]"
+msgstr "@blue_gatekeeper [オマエノヨウナ人間族ハ、ズット昔ニ\n避難シタハズダ。]"
+
+msgid "@niko_speak Oh, but I just got here! \\>\\n\\@niko To this world, I mean!"
+msgstr "@niko_speak えっ、でも\nミーはここに来たばっかりだよ！ \\>\\n\\@niko あ、この世界にって意味ね！"
+
+msgid "@niko_speak See?\\.\\. I have the sun!"
+msgstr "@niko_speak ほら、\\.\\.太陽を持ってるんだ！"
+
+msgid "@blue_gatekeeper [Oh, The Messiah.]"
+msgstr "@blue_gatekeeper [オオ、救世主。]"
+
+msgid "@blue_gatekeeper [I...\\. Do Not Know What To Say.]"
+msgstr "@blue_gatekeeper [何ト… \\.何ト言エバイイノダロウカ。]"
+
+msgid "@blue_gatekeeper [Greeting You Was Not Part Of My Programming.]"
+msgstr "@blue_gatekeeper [オマエニ対スル挨拶方法ハ\nプログラムサレテイナイ。]"
+
+msgid "@blue_gatekeeper [Have You\\.\\. Spoken To Prophetbot?]"
+msgstr "@blue_gatekeeper [ソレデ\\.\\. 預言者ロボトハ、話シタカ？]"
+
+msgid "@niko_speak I think so, yeah!"
+msgstr "@niko_speak うん、たぶん！"
+
+msgid "@blue_gatekeeper [Prophetbot Was Built With The Sole Purpose Of Greeting You.]"
+msgstr "@blue_gatekeeper [預言者ロボハ、オマエニ挨拶スル\nトイウ役割ノタメダケニ作ラレタ。]"
+
+msgid "@niko Really?"
+msgstr "@niko そうなの？"
+
+msgid "@blue_gatekeeper [Yes. He Cannot Speak With Anyone Else.] \\>\\n[At Least, Not With Ease.]"
+msgstr "@blue_gatekeeper [アア。ソシテ他ノ者トハ話スコトガデキナイ。] \\>\\n[少ナクトモ、楽デハナイ。]"
+
+msgid "@niko Oh...\\n\\>\\@niko_eyeclosed that's...\\.\\. kind of sad..."
+msgstr "@niko えっ…\\n\\>\\@niko_eyeclosed それって…\\.\\.なんか悲しいね…"
+
+msgid "@niko_speak What are you built for, then?"
+msgstr "@niko_speak じゃあ、あなたは何のために作られたの？"
+
+msgid "@blue_gatekeeper [My Purpose Is To Guard This Settlement.]"
+msgstr "@blue_gatekeeper [ワタシノ役割ハ、コノ居住地ヲ守ルコト。]"
+
+msgid "@blue_gatekeeper [Even Though The Residents Have Long Gone, I Must Remain.]"
+msgstr "@blue_gatekeeper [住人ハ既ニイナイガ、ワタシハ\nココニ残ラナクテハナラナイ。]"
+
+msgid "@niko Ah..."
+msgstr "@niko そっか…"
+
+msgid "@niko_speak Why, though?"
+msgstr "@niko_speak でも、なんで？"
+
+msgid "@blue_gatekeeper [I Have Not Been Tamed.]"
+msgstr "@blue_gatekeeper [ワタシハ制御化サレテイナイ。]"
+
+msgid "@niko_speak Tamed?"
+msgstr "@niko_speak 制御化？"
+
+msgid "@blue_gatekeeper [It Was Not Worth The Effort.]"
+msgstr "@blue_gatekeeper [ワザワザ制御化スルホドノ価値ハナイト\n判断サレタ。]"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@blue_gatekeeper [Stay Safe.]"
+msgstr "@blue_gatekeeper [無事ヲ祈ッテイル。]"
+
+msgid "@blue_gatekeeper [By The Way, Some Robots May Start Following You Around This Settlement As Well.]"
+msgstr "@blue_gatekeeper [ソシテ、コノ居住地デハ、オマエノ\n後ヲツケルロボットモ現レルダロウ。]"
+
+msgid "@blue_gatekeeper [Do Not Be Alarmed.]\\n\\>[It Is Their Job To Keep People Safe.]"
+msgstr "@blue_gatekeeper [心配スル必要ハナイ。]\\n\\>[人々ノ安全ヲ守ルノガ、彼ラノ仕事ダ。]"
+

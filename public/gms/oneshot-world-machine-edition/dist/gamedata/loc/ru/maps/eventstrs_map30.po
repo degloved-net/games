@@ -1,0 +1,33 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Эту комнату освещают светлячки."
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko В этой банке мечется несколько светлячков."
+
+msgid "Don't be afraid to ask if you guys want some stew!"
+msgstr "Ребята, если хотите рагу, не стесняйтесь, говорите!"
+
+msgid "@alula_speak Thank you!"
+msgstr "@alula_speak Спасибо!"
+
+msgid "Don't be afraid to ask if you want some stew!"
+msgstr "Если хочешь рагу, только скажи!"
+
+msgid "It's not ready yet, but...\\nWould you kids like some stew?"
+msgstr "Ещё не готово, но...\\nРебята, вы не хотели бы немного рагу?"
+
+msgid "@niko_speak I'm not hungry...\\nBut thank you!"
+msgstr "@niko_speak Я не голоден...\\nНо всё равно спасибо!"
+
+msgid "@alula Same!"
+msgstr "@alula И я!"
+
+msgid "Well, don't be afraid to ask when you do get hungry!"
+msgstr "Не стесняйтесь. Скажите, если проголодаетесь."
+
+msgid "It's not ready yet, but...\\nWould you like some stew?"
+msgstr "Ещё не готово, но...\\nНе хочешь немного рагу?"
+
+msgid "It's the least I can offer the savior!"
+msgstr "Это меньшее, что я могу предложить спасителю!"
+

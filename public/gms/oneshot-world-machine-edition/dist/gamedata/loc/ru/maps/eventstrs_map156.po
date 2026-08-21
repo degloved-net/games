@@ -1,0 +1,54 @@
+msgid "@niko It's the lightbulb.\\>\\n\\@niko_eyeclosed2 Thank goodness it's safe..."
+msgstr "@niko Это лампочка.\\>\\n\\@niko_eyeclosed2 Как хорошо, что с ней всё в порядке..."
+
+msgid "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+msgstr "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+
+msgid "@niko_distressed2 ...I guess \\p isn't coming back..."
+msgstr "@niko_distressed2 Думаю... \\p больше не вернётся..."
+
+msgid "[\"Niko, I'm here.\"]"
+msgstr "[\"Нико, я здесь.\"]"
+
+msgid "@niko_pancakes ...\\p?"
+msgstr "@niko_pancakes \\p?.."
+
+msgid "[\"Yes?\"]"
+msgstr "[\"Да?\"]"
+
+msgid "@niko_pancakes Is that... really you?"
+msgstr "@niko_pancakes Это... правда ты?"
+
+msgid "@niko_distressed2 I thought... you were gone..."
+msgstr "@niko_distressed2 Я думал... что больше тебя не услышу..."
+
+msgid "[\"I never left you.\", \"I'm back now.\"]"
+msgstr "[\"Я всегда рядом.\",\"Мне пришлось уйти.\"]"
+
+msgid "@niko_speak Oh! \\@niko_eyeclosed I was... feeling a bit scared back there..."
+msgstr "@niko_speak O! \\@niko_eyeclosed Мне было немного страшно..."
+
+msgid "@niko_speak I thought I was completely alone!"
+msgstr "@niko_speak Я думал, что остался совсем один!"
+
+msgid "@niko_eyeclosed But that was silly of me to assume, wasn't it?"
+msgstr "@niko_eyeclosed Глупо было так считать, да?"
+
+msgid "@niko_speak Where did you go?"
+msgstr "@niko_speak Куда?"
+
+msgid "@niko_eyeclosed I was so scared all by myself..."
+msgstr "@niko_eyeclosed Я так перепугался, когда остался один..."
+
+msgid "@niko_speak ...but I guess... it's okay now."
+msgstr "@niko_speak Но думаю... теперь всё в порядке."
+
+msgid "@niko Ah, guess we need to figure out where to go now, and-"
+msgstr "@niko А, теперь нам надо понять, куда теперь идти и..."
+
+msgid "@niko The sun!\\>\\n\\@niko_speak It lit up on its own!"
+msgstr "@niko Солнце!\\>\\n\\@niko_speak Оно зажглось само по себе!"
+
+msgid "@niko Guess I should pick it up, right \\p?"
+msgstr "@niko Надо бы его поднять, верно, \\p?"
+

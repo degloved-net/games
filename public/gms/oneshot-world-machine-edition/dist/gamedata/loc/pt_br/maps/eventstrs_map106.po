@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$Uma cor por vez talvez seja a melhor opção! – A gerência"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$Também é interessante anotar as tentativas anteriores. – A gerência"
+
+msgid "[BEEP BOOP]"
+msgstr "[BIP BUP]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[ESTA É A SALA DE PRENSAGEM ONDE AS PEÇAS SÃO PRODUZIDAS.]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[E ROBÔS TAMBÉM.]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$Se nada funcionar, espere o quebra-cabeça reiniciar."
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$Pode ser que o próximo seja mais fácil..."
+

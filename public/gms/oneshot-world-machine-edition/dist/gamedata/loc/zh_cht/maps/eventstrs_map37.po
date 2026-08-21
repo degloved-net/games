@@ -1,0 +1,303 @@
+msgid "@niko I think I have something I'd like to trade!\\>\\n\\@niko_speak You'll take wool, right?\\>\\n\\@niko What can this wool get me?"
+msgstr "@niko 我想我有可以交易的東西！\\>\\n\\@niko_speak 你收羊毛，對吧？\\>\\n\\@niko 用這些羊毛可以換到什麼？"
+
+msgid "@magpie_hm Wool, huh?"
+msgstr "@magpie_hm 羊毛啊？"
+
+msgid "@magpie That'll get you.\\..\\..\\.\\. This fine vial of..."
+msgstr "@magpie 你可以換到.\\..\\..\\.\\.這一小管……"
+
+msgid "@magpie_smile I'm not sure what this is, actually!\\>\\nSome sort of fabric dye?"
+msgstr "@magpie_smile 其實我不確定裡面裝的是什麼！\\>\\n應該是某種布料染劑吧？"
+
+msgid "@niko Hmm... How about it, \\p?"
+msgstr "@niko 嗯……\\p，你覺得呢？"
+
+msgid "[\"Take the offer!\", \"Ehh...\"]"
+msgstr "[\"成交！\",\"呃……\"]"
+
+msgid "@niko_speak I'll do it!"
+msgstr "@niko_speak 我接受！"
+
+msgid "@magpie_smile Pleasure doing business!"
+msgstr "@magpie_smile 交易愉快！"
+
+msgid "@niko Wait, \\p... you want to... haggle?\\>\\n\\@niko_what ...really?"
+msgstr "@niko 等等，\\p，你想……討價還價？\\>\\n\\@niko_what ……真的嗎？"
+
+msgid "@niko_eyeclosed Alright then..."
+msgstr "@niko_eyeclosed 好吧……"
+
+msgid "@niko_speak \\p said they wanted a better offer!"
+msgstr "@niko_speak \\p說這樣不划算！"
+
+msgid "@magpie_oh ...holy smokes!\\>\\n\\@magpie_smile Forgot I was doing a trade with god for a second there..."
+msgstr "@magpie_oh ……天啊！\\>\\n\\@magpie_smile 差點忘了，我是在和神交易呢……"
+
+msgid "@magpie Okay, okay...\\>\\n\\@magpie_smile In that case, I'll also throw in this commemorative T-shirt!"
+msgstr "@magpie 好，好……\\>\\n\\@magpie_smile 既然如此，我就再加碼這件紀念T恤吧！"
+
+msgid "@niko Uh..."
+msgstr "@niko 呃……"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@magpie Oh well, then.\\nCome back anytime."
+msgstr "@magpie 那就這樣囉。\\n歡迎隨時再光臨啊。"
+
+msgid "@niko_eyeclosed \\p, no..."
+msgstr "@niko_eyeclosed \\p，不……"
+
+msgid "@magpie_oh Hey! I just gave that to you!"
+msgstr "@magpie_oh 喂！我才剛把它交給你耶！"
+
+msgid "@magpie_smile What, you wanna trade it back?"
+msgstr "@magpie_smile 怎麼了，想拿它跟我交易嗎？"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed 倒不是……"
+
+msgid "@magpie Good, cuz I wasn't gonna!"
+msgstr "@magpie 很好，因為我也不會答應！"
+
+msgid "@magpie I ain't takin that back!"
+msgstr "@magpie 我可不要收回那玩意！"
+
+msgid "@magpie_hm The shepherd was handing those out a while ago.\\>\\n\\@magpie_smile But does it LOOK like it'll fit me?"
+msgstr "@magpie_hm 牧羊人之前到處發這衣服。\\>\\n\\@magpie_smile 可是這看起來適合我嗎？"
+
+msgid "@niko Huh?"
+msgstr "@niko 咦？"
+
+msgid "@magpie_smile T-Shirts aren't exactly made for people with wings!"
+msgstr "@magpie_smile T恤可不是為了背後長翅膀的人做的！"
+
+msgid "@niko Wait, trade this?"
+msgstr "@niko 等等，拿這個交易？"
+
+msgid "@niko_speak Don't you want to find out what it says first, \\p?"
+msgstr "@niko_speak \\p，你不想先弄懂上面寫什麼嗎？"
+
+msgid "@magpie What's that? A book?"
+msgstr "@magpie 那是什麼？書嗎？"
+
+msgid "@magpie_smile Uh, not sure if I wanna take books, I can't read!"
+msgstr "@magpie_smile 嗯，我不太想收書喔，因為我不識字！"
+
+msgid "@magpie_oh I can't take this!"
+msgstr "@magpie_oh 我不能收這個！"
+
+msgid "@niko_eyeclosed I'm not trading that, \\p!"
+msgstr "@niko_eyeclosed \\p，我才不要拿這個交易！"
+
+msgid "@magpie You're not trading what?"
+msgstr "@magpie 你說不要拿什麼交易？"
+
+msgid "@magpie What's that? A feather?"
+msgstr "@magpie 那是啥？羽毛？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 對啊！"
+
+msgid "@magpie_hm Wait... \\.\\.\\@magpie_oh Oh my stars!"
+msgstr "@magpie_hm 等等……\\.\\.\\@magpie_oh 喔，天啊！"
+
+msgid "@magpie_oh That is NOT \"a\" feather!"
+msgstr "@magpie_oh 那不是普通羽毛！"
+
+msgid "@magpie That is a feather from the late Prophet!"
+msgstr "@magpie 那是已故先知的羽毛！"
+
+msgid "@magpie_oh Probably one of the most sacred items there is!"
+msgstr "@magpie_oh 可說是世界上最神聖的物品之一！"
+
+msgid "@magpie_oh How in the WORLD did you get a hold of THAT?"
+msgstr "@magpie_oh 你們是怎麼弄到這玩意的？"
+
+msgid "@magpie_hm ...Wait, I guess it would make sense for you to have one."
+msgstr "@magpie_hm ……等等，仔細想想你有這個也很合理。"
+
+msgid "@magpie_smile Y'know, with you being the savior and all."
+msgstr "@magpie_smile 你知道，因為你是救世主嘛。"
+
+msgid "@niko Um... okay."
+msgstr "@niko 呃……好吧。"
+
+msgid "@niko The seed left behind by the plant lady?"
+msgstr "@niko 植物女士留下的種子？"
+
+msgid "@niko_huh Oh, but what if...\\. it's like...\\. her baby..."
+msgstr "@niko_huh 喔，可是如果……\\.這就像是……\\.她的寶寶……"
+
+msgid "@niko_speak I can't give away someone's baby like that!"
+msgstr "@niko_speak 我不能就這樣把別人的寶寶交出去！"
+
+msgid "@niko_wtf2 Especially not to a bird..."
+msgstr "@niko_wtf2 尤其不能交給一隻鳥……"
+
+msgid "@magpie_oh ...hey!"
+msgstr "@magpie_oh ……喂！"
+
+msgid "@niko_eyeclosed I don't think it's right to trade this away, \\p ..."
+msgstr "@niko_eyeclosed \\p，我覺得拿這個交易是不對的……"
+
+msgid "@magpie_oh Oh hey! You have one of those coin things!"
+msgstr "@magpie_oh 喔，哇！你有這種硬幣！"
+
+msgid "@magpie I've dug up a couple of these before."
+msgstr "@magpie 我以前也挖到過這玩意。"
+
+msgid "@niko Oh?"
+msgstr "@niko 是嗎？"
+
+msgid "@magpie_smile Yeah! There's this guy who would trade me the BEST things for them."
+msgstr "@magpie_smile 對啊！有個傢伙願意拿最好的東西交換這些硬幣。"
+
+msgid "@magpie Like, one time he brought me this little machine that plays music!"
+msgstr "@magpie 像有一次，他拿來這台可以放音樂的小機器！"
+
+msgid "@magpie_hm I don't know what it's called, but you have to wind it up..."
+msgstr "@magpie_hm 我不知道這叫什麼名字，但是要轉發條……"
+
+msgid "@niko_speak Music box?"
+msgstr "@niko_speak 音樂盒？"
+
+msgid "@magpie_smile That's it!"
+msgstr "@magpie_smile 就是這個！"
+
+msgid "@magpie I wish that guy would come back soon, I haven't seen him in forever."
+msgstr "@magpie 我希望那傢伙可以快點回來，好久沒見到他了。"
+
+msgid "@magpie_smile I wanna do more trades with him!"
+msgstr "@magpie_smile 我還想跟他做更多交易！"
+
+msgid "@niko How about this... glass tube full of water I got from a robot?"
+msgstr "@niko 那這個呢？一個機器人給我的玻璃管，裡面裝滿了水。"
+
+msgid "@niko Do you like glass?"
+msgstr "@niko 你喜歡玻璃嗎？"
+
+msgid "@magpie_smile Do I!"
+msgstr "@magpie_smile 我喜歡嗎！"
+
+msgid "@niko ...do you?"
+msgstr "@niko ……你喜歡嗎？"
+
+msgid "@magpie I LOVE glass!"
+msgstr "@magpie 我愛死玻璃了！"
+
+msgid "@magpie_smile SO much."
+msgstr "@magpie_smile 超愛。"
+
+msgid "@magpie_hm ...so much that I have too much glass and not enough other things."
+msgstr "@magpie_hm ……喜歡到我已經有太多玻璃，但別的東西還是不夠。"
+
+msgid "@magpie_hm I gotta get rid of some of my old bottles and vials to make room for new stuff!"
+msgstr "@magpie_hm 我得處理掉一些舊瓶子和試管，才有地方放新的東西！"
+
+msgid "@magpie That's why I set up a tradepost in the first place."
+msgstr "@magpie 所以才會開設交易站啊。"
+
+msgid "@niko_eyeclosed So I guess that's a no-go..."
+msgstr "@niko_eyeclosed 意思是這個不能交易囉……"
+
+msgid "@niko_eyeclosed \\p... wasn't the whole point of trading was so that we could make a pen?"
+msgstr "@niko_eyeclosed \\p……我們交易的目的不就是為了要做一枝筆嗎？"
+
+msgid "@niko Let's not trade this away..."
+msgstr "@niko 還是別拿這個交易吧……"
+
+msgid "@magpie Heya!\\>\\nYou here to trade?"
+msgstr "@magpie 嗨！\\>\\n你們是來交易的嗎？"
+
+msgid "@niko Trade?"
+msgstr "@niko 交易？"
+
+msgid "@magpie_smile Yeah!\\>\\n\\@magpie Is there anything you want to get rid of?"
+msgstr "@magpie_smile 對啊！\\>\\n\\@magpie 你們手上有不要的東西嗎？"
+
+msgid "@magpie Make me an offer and I'll give you something in return!"
+msgstr "@magpie 拿出來我看看，我可以用別的東西跟你交換！"
+
+msgid "@niko Hm...\\>\\n\\@niko_speak Do we have something like that, \\p?"
+msgstr "@niko 嗯……\\>\\n\\@niko_speak \\p，我們有不要的東西嗎？"
+
+msgid "@niko It's a wagon stuffed with stuff!"
+msgstr "@niko 一整車的東西！"
+
+msgid "@magpie_smile It sure is!"
+msgstr "@magpie_smile 對啊！"
+
+msgid "@niko Shiny things are spread out on the rug."
+msgstr "@niko 亮晶晶的東西攤放在毯子上。"
+
+msgid "@niko They glimmer in the sunlight."
+msgstr "@niko 它們在陽光下閃爍著微光。"
+
+msgid "@niko They glimmer in the light of the lamp."
+msgstr "@niko 它們在燈光下微微閃爍著。"
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak 哇喔！"
+
+msgid "@niko_speak That's a lotta shiny things!"
+msgstr "@niko_speak 好多亮晶晶的東西！"
+
+msgid "@niko Glass shards, glass marbles..."
+msgstr "@niko 玻璃碎片、玻璃彈珠……"
+
+msgid "@niko ...empty glass bottles, mostly-empty glass bottles, glass bottles filled with different things..."
+msgstr "@niko ……玻璃空瓶、裡面還剩一點點液體的玻璃瓶、裝滿不同東西的玻璃瓶……"
+
+msgid "@niko ...bits of string, colored wool, plain wool, fabric scraps..."
+msgstr "@niko ……一些繩子、彩色羊毛、原色羊毛、碎布頭……"
+
+msgid "@niko ...a rusty bucket, scrap metal, shells, some rocks..."
+msgstr "@niko 一個生鏽的水桶、金屬廢料、貝殼、一些石頭……"
+
+msgid "@niko_speak What's all this for, by the way?"
+msgstr "@niko_speak 是說，這些是做什麼用的啊？"
+
+msgid "@magpie I just think they're neat!"
+msgstr "@magpie 我只是覺得它們很好看！"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed \\p，門口長滿了藤蔓……"
+
+msgid "@alula_oh Oh!"
+msgstr "@alula_oh 喔！"
+
+msgid "@alula_oh This is the shrine where the old prophet used to live..."
+msgstr "@alula_oh 這裡就是舊預言機以前居住的神殿……"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "@alula_pout I don't remember the last time I was here..."
+msgstr "@alula_pout 我都不記得上次來是什麼時候了……"
+
+msgid "@alula_speak Back when she was still alive, I think?"
+msgstr "@alula_speak 應該是她還活著的時候，大概吧？"
+
+msgid "The flood can take away our farmlands..."
+msgstr "洪水可以淹沒我們的農田……"
+
+msgid "...but it can't take away our fish!"
+msgstr "……但是帶不走我們的魚！"
+
+msgid "@niko These look like herrings."
+msgstr "@niko 這些看起來像鯡魚。"
+
+msgid "@niko_speak Or... anchovies?"
+msgstr "@niko_speak 還是……鯷魚？"
+
+msgid "@niko Maybe sardines..."
+msgstr "@niko 也許是沙丁魚……"
+
+msgid "@niko_eyeclosed I honestly have no clue!"
+msgstr "@niko_eyeclosed 其實我不知道！"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 有幾隻螢火蟲在這個罐子裡飛舞。"
+

@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31] LUMIÈRE(S) CORRECTE(S).]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][ACCÈS AUTORISÉ !]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][ACCÈS REFUSÉ. \\v[37] ESSAI(S) RESTANT(S).]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][INTRUS DÉTECTÉ. RÉINITIALISATION DU SYSTÈME DE FERMETURE.]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed *Soupir*... Nous devons tout recommencer maintenant..."
+
+msgid "[HALT!]"
+msgstr "[HALTE !]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[VEUILLEZ ATTENDRE LES INSTRUCTIONS SUPPLÉMENTAIRES DU TEST DE SÉCURITÉ.]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[VEUILLEZ VOUS ADRESSER AU ROBOT PORTIER.]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko Nous avons déverrouillé la serrure !"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[LE SYSTÈME DE SÉCURITÉ A ÉTÉ TEMPORAIREMENT DÉSACTIVÉ.]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[VOULEZ-VOUS LE RÉINITIALISER ?]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ... Je ne pense pas vouloir le refaire..."
+
+msgid "@niko_what um..."
+msgstr "@niko_what Hum..."
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko Comment... résoudre cela..."
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[CELA FAIT PARTIE DU TEST.]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed Dommage."
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[AFIN D'ACCÉDER PLUS AMPLEMENT AUX LABOS.]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[VOUS DEVEZ RÉUSSIR LE TEST DU SYSTÈME DE SÉCURITÉ.]"
+
+msgid "@niko The... huh?"
+msgstr "@niko Le... quoi ?"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[VOUS DEVEZ CHANGER LA COULEUR DES LUMIÈRES SELON UNE CONFIGURATION SPÉCIFIQUE.]"
+
+msgid "[ALLOW ME.]"
+msgstr "[PERMETTEZ-MOI.]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed C'est verrouillé."
+

@@ -1,0 +1,36 @@
+msgid "[I HAVE LOST COMMUNICATION WITH THE GUARDIAN OUTSIDE THE CITY GATE.]"
+msgstr "[Я ПОТЕРЯЛ СВЯЗЬ СО СТРАЖЕМ У ГОРОДСКИХ ВОРОТ.]"
+
+msgid "@niko2 The... big robot, right?"
+msgstr "@niko2 С тем большим роботом?"
+
+msgid "[PLEASE HELP ME CHECK ON THEM.]"
+msgstr "[ПОЖАЛУЙСТА, ПОМОГИТЕ МНЕ С НИМ СВЯЗАТЬСЯ.]"
+
+msgid "[I CANNOT LEAVE MY STATION.]"
+msgstr "[Я НЕ МОГУ ПОКИНУТЬ СВОЙ ПОСТ.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Ладно..."
+
+msgid "[THE DEEPER RUINS ARE AHEAD.]"
+msgstr "[ВПЕРЕДИ НАХОДЯТСЯ БОЛЕЕ ГЛУБОКИЕ РУИНЫ.]"
+
+msgid "[DO NOTE THAT THEY ARE PARTIALLY FLOODED.]"
+msgstr "[ОБРАТИТЕ ВНИМАНИЕ, ЧТО ОНИ ЧАСТИЧНО ЗАТОПЛЕНЫ.]"
+
+msgid "@niko3 There's squares all over the big robot..."
+msgstr "@niko3 Большой робот весь в квадратах..."
+
+msgid "[AH.]"
+msgstr "[ОХ.]"
+
+msgid "[THAT IS OUTSIDE MY CAPACITY FOR HELP.]"
+msgstr "[ОКАЗАНИЕ ЕМУ ПОМОЩИ НЕ ВХОДИТ В МОИ ПОЛНОМОЧИЯ.]"
+
+msgid "[YOU MAY PROCEED TO THE DEEPER RUINS.]"
+msgstr "[ВЫ МОЖЕТЕ ИДТИ ДАЛЬШЕ В РУИНЫ.]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 Хорошо..."
+

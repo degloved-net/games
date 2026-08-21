@@ -1,0 +1,63 @@
+msgid "I'm catching fireflies for mommy!"
+msgstr "ママのためにホタルを捕まえるんだ！"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko 水平線が青く光ってる。"
+
+msgid "@rowbot [HERE IS YOUR STOP. THE GLEN.]"
+msgstr "@rowbot [到着しましタ。峡谷でス。]"
+
+msgid "@niko Thank you!"
+msgstr "@niko ありがとう！"
+
+msgid "@rowbot [THERE SHOULD BE A VILLAGE TO THE NORTH. BUT THAT'S ALL I CAN RECALL.]"
+msgstr "@rowbot [北ノほうに村ガあるはずでス。\nそれ以上ハ何も覚えていませン。]"
+
+msgid "@niko_speak Oh, that's good to know!"
+msgstr "@niko_speak 教えてくれてありがとう！"
+
+msgid "@rowbot [FAREWELL.]"
+msgstr "@rowbot [それでハ。]"
+
+msgid "@rowbot [MAY YOUR MISSION BE A SUCCESS.]"
+msgstr "@rowbot [アナタノ使命ガ成功しますようニ。]"
+
+msgid "@niko_speak A-Are you leaving?"
+msgstr "@niko_speak か、帰っちゃうの？"
+
+msgid "@rowbot [YES.\\>\\nI MUST RETURN TO MY STATION.]"
+msgstr "@rowbot [ハイ。\\>\\n持ち場ニ戻らなければなりませン。]"
+
+msgid "@niko But you'll be all alone again..."
+msgstr "@niko でも、また一人ぼっちになっちゃうよ…"
+
+msgid "@rowbot [IT'S OKAY.]"
+msgstr "@rowbot [大丈夫でス。]"
+
+msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@rowbot [ワタシハ制御化されていませんかラ。]"
+
+msgid "Hm..."
+msgstr "うーん…"
+
+msgid "Nothing's biting..."
+msgstr "何も釣れねえな…"
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "やあ、私はアクセスできないNPCです。"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko 壺の底に、魚がちょっぴりいるよ。"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱいだ。"
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak 魚の頭がたくさん！"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱい。"
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak カニ殻みたい。"
+

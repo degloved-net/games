@@ -1,0 +1,90 @@
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "Caótico e mau"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "Não faça isso!"
+
+msgid "SHOCK:title=Shock"
+msgstr "Choque"
+
+msgid "SHOCK:description=Not fun."
+msgstr "Não é legal."
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "Barganha extrema"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "Esgotando todas as possibilidades?"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "Domador de carneiros"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "Pastoreie carneiros facilmente."
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "Panquecas"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "Prato predileto."
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "Andando na aurora"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "Nyooooom"
+
+msgid "SECRET:title=Secret"
+msgstr "Segredo"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "Traça de livros"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "Leia livros na biblioteca"
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "Renascimento"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "Uma missão secundária."
+
+msgid "ONESHOT:title=OneShot"
+msgstr "Oneshot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "De volta às raízes."
+
+msgid "RETURN:title=Return"
+msgstr "Voltar"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "Mago dos Wallpapers"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "Colete todos os papéis de parede"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "Coordenador de Cores"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "Colete todos os temas"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "Borboleta Social"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "Colete todos os registros de amigos"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "Valeu por Tudo"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "Colete todas as medalhas"
+

@@ -1,0 +1,84 @@
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko В банке плавает много маленьких светящихся креветок."
+
+msgid "@niko A page with faded ink."
+msgstr "@niko Страница с выцветшими чернилами."
+
+msgid "$-able to provide power to all robots and machinery in the area via a large electromagnetic field."
+msgstr "$...сможет обеспечить энергией всех роботов и машины в этой зоне с помощью большого электромагнитного поля."
+
+msgid "$Maintenance efforts are quite high, as expected."
+msgstr "$Как и ожидалось, работы по техническому обслуживанию требуют больших усилий."
+
+msgid "$We have provided customized backup cells for the few most important robots."
+msgstr "$Мы обеспечили самых важных роботов запасными силовыми ячейками, разработанными под их нужды."
+
+msgid "$Their electromagnetic fields are much weaker, and the signals are highly specific."
+msgstr "$Их электромагнитные поля намного слабее, а исходящие сигналы весьма специфичны."
+
+msgid "$In other words, these small cells can only charge one single-"
+msgstr "$Иными словами, эти небольшие ячейки могут заряжать только одного..."
+
+msgid "@niko The rest of the page is unreadable."
+msgstr "@niko Остальное прочесть невозможно."
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak \\p, я не хочу, чтобы меня снова било током!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Ой!"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed Меня только что дёрнуло током..."
+
+msgid "@niko Dusty shelves."
+msgstr "@niko Пыльные полки."
+
+msgid "@niko_speak The battery fits the slot perfectly!"
+msgstr "@niko_speak Батарея идеально подходит в это место!"
+
+msgid "@niko Looks like we're on the right track."
+msgstr "@niko Похоже, мы на верном пути."
+
+msgid "@niko ...but ...nothing happened."
+msgstr "@niko Но... ничего не произошло."
+
+msgid "@niko_speak Let's hope the charged battery does something!"
+msgstr "@niko_speak Будем надеяться, что заряженная батарея поможет!"
+
+msgid "@niko_pancakes Whoa!"
+msgstr "@niko_pancakes Ого!"
+
+msgid "@niko_speak That's a big machine!"
+msgstr "@niko_speak Какая огромная машина!"
+
+msgid "@niko It doesn't seem to be doing anything, though..."
+msgstr "@niko Хотя, кажется, она ничего не делает..."
+
+msgid "@niko There's a rectangle-shaped hole in the middle."
+msgstr "@niko Тут в середине отверстие прямоугольной формы."
+
+msgid "@niko_speak Looks like something used to fit in here..."
+msgstr "@niko_speak Кажется, раньше тут что-то было..."
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko Какое-то маленькое устройство."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko Интересно, зачем оно нужно?"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Я чувствую, как у меня волосы шевелятся на голове."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko Это силовая ячейка...\\nЯ полагаю."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak Сбоку написано: «Робот-пророк»."
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko Раньше я этого не замечал."
+

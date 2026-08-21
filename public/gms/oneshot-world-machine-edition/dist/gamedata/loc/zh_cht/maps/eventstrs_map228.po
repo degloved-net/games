@@ -1,0 +1,87 @@
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko So that's where this leads."
+msgstr "@niko 原來通到這裡啊。"
+
+msgid "@plight Welp, looks like this elevator works alright."
+msgstr "@plight 嗯，看來這台電梯運作沒問題。"
+
+msgid "@plight_2 I'll uh...\\.\\. go get the evacuees, I suppose..."
+msgstr "@plight_2 我、嗯……\\.\\.我去帶避難者過來喔……"
+
+msgid "@niko Mhm!"
+msgstr "@niko 對啊！"
+
+msgid "@plight_worry UM."
+msgstr "@plight_worry 呃。"
+
+msgid "@plight_scared WHAT IS GOING ON."
+msgstr "@plight_scared 這是怎麼回事！？"
+
+msgid "@niko_shock Nooo!!!!"
+msgstr "@niko_shock 不不不\n！！！！"
+
+msgid "@plight_scared It's... the square stuff, isn't it?"
+msgstr "@plight_scared 那個……是方塊對不對？"
+
+msgid "@plight_worry2 There aren't any in here but..."
+msgstr "@plight_worry2 這裡面是沒有，可是……"
+
+msgid "@plight_worry I can hear them just outside the door..."
+msgstr "@plight_worry 我可以聽到它們就在門外……"
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 是啊……"
+
+msgid "@niko3 H-hold on! \\@niko2 Maybe \\p and I can..."
+msgstr "@niko3 等、等一下！\\@niko2 說不定\\p和我可以……"
+
+msgid "@plight_worry No, no, it's okay!"
+msgstr "@plight_worry 不，不用，沒關係！"
+
+msgid "@plight_worry2 Looks like the squares aren't inside the elevator....\\>\\n\\@plight_sigh yet."
+msgstr "@plight_worry2 看起來方塊並沒有進入電梯……\\>\\n\\@plight_sigh 暫時還沒。"
+
+msgid "@plight_worry You're... in a hurry, right?"
+msgstr "@plight_worry 你們……在趕時間吧？"
+
+msgid "@plight_worry2 Go do...\\.\\. what you need to do...."
+msgstr "@plight_worry2 去吧……\\.\\.去忙你們的……"
+
+msgid "@niko3 But... what about you?"
+msgstr "@niko3 可是……那你怎麼辦？"
+
+msgid "@plight_worry I'll... \\.\\.figure something out..."
+msgstr "@plight_worry 我會……\\.\\.想辦法……"
+
+msgid "@niko4 Okay..."
+msgstr "@niko4 好……"
+
+msgid "@niko This door won't budge..."
+msgstr "@niko 門推不開……"
+
+msgid "@niko_distressed2 .\\..\\..\\.."
+msgstr "@niko_distressed2 \\..\\..\\.."
+
+msgid "@niko3 ...you okay in there?"
+msgstr "@niko3 ……你在裡面還好嗎？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@niko3 ...hello?"
+msgstr "@niko3 ……你聽得到嗎？"
+
+msgid "@plight_worry ...mostly."
+msgstr "@plight_worry ……大致還好。"
+
+msgid "@plight_worry2 ...look, don't worry about me for now, okay?"
+msgstr "@plight_worry2 ……聽我說，現在先別擔心我好嗎？"
+
+msgid "@plight_sigh You got more important stuff to deal with..."
+msgstr "@plight_sigh 你手上還有更重要的事要解決吧……"
+
+msgid "@niko2 ...let's see if this elevator works."
+msgstr "@niko2 ……看看這台電梯能不能用。"
+

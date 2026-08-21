@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[你找到了災害的來源嗎？]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[這些藤蔓幾分鐘前才出現的。]"
+
+msgid "@niko Really?"
+msgstr "@niko 真的嗎？"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 我在很多門口之類的地方看到這些東西……"
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko 我以為這是因為這裡荒廢了……"
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[求救訊號。]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ……咦？"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[有一個生物需要幫助。]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[但我追蹤不到來源。]"
+
+msgid "@niko ...ah."
+msgstr "@niko ……啊。"
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[藤蔓退開了。]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[你知道發生了什麼事嗎？]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko 我找到了這位……半植物的人。"
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed 她的狀況很糟……"
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko 我暫時把太陽給她了，可是……"
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed 她說太遲了，她不行了……"
+
+msgid "[I UNDERSTAND.]"
+msgstr "[我了解。]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[我必須向城市回報這件事。]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko 一團藤蔓擋住了路……"
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[你們好啊。]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[有兩位小朋友住在這附近。]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak 我就是其中一個！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人類，你好。]"
+

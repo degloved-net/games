@@ -1,0 +1,114 @@
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko Un pezzo di metallo incastonato nel muro, sembra pesante."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed Credo sia una porta o un qualche tipo di camera blindata."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko C'è un piccolo schermo qui al centro."
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko Sembra che serva una password."
+
+msgid "@niko That wasn't it..."
+msgstr "@niko Non è corretta..."
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed La porta è chiusa."
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 La parola \"DOCUMENTI\" è sullo schermo, sopra la richiesta della password."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak Sembra una specie di porta!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko C'è un simbolo di un lucchetto luminoso su un piccolo schermo."
+
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [Sappilo, stai mettendo alla prova la mia pazienza.]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [Vuoi davvero la soluzione?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sì\",\"No\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [Quando osservi la pellicola, questa riempie l'intera finestra del nostro mondo, giusto?]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [Ti aiuterà sapere che l'azione di cui sto parlando è comunemente chiamata \"trascinare\".]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [Il vuoto si trova oltre i limiti di ciò che puoi vedere.]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [Attraverso il vuoto, per poi tornare indietro...]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [Sei qui solo per farmi perdere altro tempo?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [Sigh.]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [Ancora senza idee?]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [Non avevo dubbi.]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [Vuoi un altro indizio?]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [Il vuoto è oltre le quattro mura che collegano il nostro mondo con il tuo. I confini del tuo schermo, dove tutto si interrompe...]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [Sono sicuro che tu sappia di cosa sto parlando.]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [\"Trascina\" la pellicola attraverso il vuoto per poi portarla indietro.]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [Continua pure.]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [Tanto non ho niente di meglio da fare.]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [Stai cercando un codice, non è così?]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [Avrai bisogno di questa.]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [Prendi questa pellicola ed esponila al vuoto.]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [La soluzione che cerchi sarà rivelata quando riporterai la pellicola indietro.]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko Il computer ha stampato uno strano foglio trasparente..."
+
+msgid "@ed [So, you figured out the code without fully exposing the film.]"
+msgstr "@ed [Quindi, hai scoperto il codice senza esporre completamente la pellicola.]"
+
+msgid "@ed [Good for you.]"
+msgstr "@ed [Buon per te.]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [You didn't need my help for this puzzle.]"
+msgstr "@ed [Non ti è servito il mio aiuto per questo rompicapo.]"
+
+msgid "@ed [And yet you're still here talking to me?]"
+msgstr "@ed [Eppure sei ancora qui a parlarmi?]"
+
+msgid "@ed [How quaint.]"
+msgstr "@ed [Curioso.]"
+
+msgid "@niko The screen is off."
+msgstr "@niko Lo schermo è spento."
+

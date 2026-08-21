@@ -1,0 +1,132 @@
+msgid "67=Burial Grounds"
+msgstr "墓地"
+
+msgid "70=Old Factory"
+msgstr "舊工廠"
+
+msgid "37=Ruins"
+msgstr "廢墟"
+
+msgid "71=Dormitories"
+msgstr "宿舍"
+
+msgid "205=Courtyard"
+msgstr "庭院"
+
+msgid "240=Forest"
+msgstr "森林"
+
+msgid "73=Swamp"
+msgstr "沼澤"
+
+msgid "43=Forest"
+msgstr "森林"
+
+msgid "44=The Gate"
+msgstr "大門"
+
+msgid "12=Entrance"
+msgstr "入口"
+
+msgid "213=Landing"
+msgstr "平台"
+
+msgid "214=City Gate"
+msgstr "城市大門"
+
+msgid "47=City Gate"
+msgstr "城市大門"
+
+msgid "14=Outpost"
+msgstr "前哨站"
+
+msgid "215=Elevator Deck"
+msgstr "電梯甲板"
+
+msgid "48=Elevator Deck"
+msgstr "電梯甲板"
+
+msgid "216=Office"
+msgstr "辦公室"
+
+msgid "49=Apartments"
+msgstr "公寓"
+
+msgid "116=Office"
+msgstr "辦公室"
+
+msgid "17=Mineshaft entrance"
+msgstr "礦坑入口"
+
+msgid "84=Elevator Street"
+msgstr "電梯街"
+
+msgid "219=Cafe"
+msgstr "咖啡館"
+
+msgid "85=Vendor Street"
+msgstr "商販街"
+
+msgid "18=Cliffs"
+msgstr "峭壁"
+
+msgid "52=Cafe"
+msgstr "咖啡館"
+
+msgid "19=Docks"
+msgstr "船塢"
+
+msgid "120=Observation Deck"
+msgstr "觀景台"
+
+msgid "87=Library"
+msgstr "圖書館"
+
+msgid "54=Garden"
+msgstr "花園"
+
+msgid "90=Factory"
+msgstr "工廠"
+
+msgid "23=Lookout point"
+msgstr "瞭望點"
+
+msgid "191=Research Station"
+msgstr "研究站"
+
+msgid "91=Back Alley"
+msgstr "後巷"
+
+msgid "225=Observation Deck"
+msgstr "觀景台"
+
+msgid "127=Research Station"
+msgstr "研究站"
+
+msgid "27=Dock"
+msgstr "船塢"
+
+msgid "128=Courtyard"
+msgstr "庭院"
+
+msgid "29=Village"
+msgstr "村莊"
+
+msgid "230=Vendor Street"
+msgstr "商販街"
+
+msgid "231=Elevator Street"
+msgstr "電梯街"
+
+msgid "232=Back Alley"
+msgstr "後巷"
+
+msgid "199=Gate"
+msgstr "大門"
+
+msgid "233=Library"
+msgstr "圖書館"
+
+msgid "200=Dock"
+msgstr "船塢"
+

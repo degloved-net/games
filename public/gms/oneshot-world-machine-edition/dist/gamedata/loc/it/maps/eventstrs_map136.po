@@ -1,0 +1,24 @@
+msgid "@niko_speak ...hey, \\p?"
+msgstr "@niko_speak ...Ehi \\p..."
+
+msgid "@niko When I was signing the scroll, there was already another name on it.\\>\\n\\@niko It was a little blurry, but..."
+msgstr "@niko Quando stavo firmando la pergamena, c'era già un altro nome scritto sopra.\\>\\n\\@niko Era un po' sfocato, ma..."
+
+msgid "@niko_speak I think that name was also \"Niko\"?"
+msgstr "@niko_speak Credo che quel nome fosse \"Niko\"?"
+
+msgid "@niko When I was signing the scroll, there was already another two names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko Quando stavo firmando la pergamena, c'erano già due nomi scritti sopra.\\>\\n\\@niko Erano un po' sfocati, ma..."
+
+msgid "@niko_speak I think they were BOTH \"Niko\"."
+msgstr "@niko_speak Penso che fossero ENTRAMBI \"Niko\"."
+
+msgid "@niko When I was signing the scroll, there was already a few other names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko Quando stavo firmando la pergamena, c'erano già alcuni nomi scritti sopra.\\>\\n\\@niko Erano un po' sfocati, ma..."
+
+msgid "@niko_speak I think they all said \"Niko\"!"
+msgstr "@niko_speak  Penso che fossero tutti \"Niko\"!"
+
+msgid "@niko_eyeclosed Weird..."
+msgstr "@niko_eyeclosed Strano..."
+

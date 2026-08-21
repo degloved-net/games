@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko Вы не знаете, где тут можно найти батарею для летающей машины?"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[У МЕНЯ ЕСТЬ БАТАРЕЯ, НО ОНА ИНТЕГРИРОВАНА В МОЮ СИСТЕМУ.]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[ЕЁ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ, ЧТОБЫ ЗАРЯЖАТЬ ДРУГИЕ ПРИБОРЫ.]"
+
+msgid "@niko Ah..."
+msgstr "@niko А..."
+
+msgid "[STAY SAFE.]"
+msgstr "[БЕРЕГИТЕ СЕБЯ.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak И вам тоже!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[ПРИВЕТ, ЧЕЛОВЕК.]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[В НАСТОЯЩЕЕ ВРЕМЯ НА НАУЧНОЙ СТАНЦИИ НАБЛЮДАЮТСЯ НЕКОТОРЫЕ ПРОБЛЕМЫ.]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 Я заметил..."
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed Да мост к ней был..."
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[ВАС ПРИСЛАЛА ДОКТОР СИЛЬВЕРПОЙНТ?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak Нет?.."
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[О, ТОГДА ИДИТЕ.]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko Кстати, вы не знаете, где тут можно найти батарею для летающей машины?"
+
+msgid "[I DO NOT.]"
+msgstr "[НЕТ.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Ладно..."
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[КОЛИЧЕСТВО АНОМАЛИЙ РАСТЁТ...]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak Вы не знаете, где тут можно найти батарею для летающей машины?"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[ВЫ ПРОВЕРИЛИ ГЕНЕРАТОРНУЮ?]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko Вы не знаете, где я могу взять батарею для летающей машины?"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[ЧТО ТАКОЕ ЛЕТАЮЩАЯ МАШИНА?]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Неважно."
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[НЕСКОЛЬКО ЛОЗ НЕОЖИДАННО ВЫРОСЛИ ВОКРУГ ЭТОГО МОСТА.]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[БУДТО КТО-ТО НАМЕРЕННО ПЫТАЛСЯ ЕГО ПОЧИНИТЬ.]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Ага..."
+

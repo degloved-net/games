@@ -1,0 +1,162 @@
+msgid "@niko It's a faded flyer."
+msgstr "@niko 빛바랜 전단지예요."
+
+msgid "I see you have the club uniform."
+msgstr "우리 동호회 복장을 입고 있구나."
+
+msgid "You may come in."
+msgstr "들어와도 좋아."
+
+msgid "@niko A curious marking on the wall."
+msgstr "@niko 벽에 이상한 그림이 있어요."
+
+msgid "@niko It looks like a... ram...?"
+msgstr "@niko 이 그림은... 양...?"
+
+msgid "@niko It's strangely warm in this room."
+msgstr "@niko 이 방은 이상하게 따뜻하네요."
+
+msgid "@niko_speak It's a big crack in the wall!"
+msgstr "@niko_speak 벽에 커다란 금이 가 있어요!"
+
+msgid "@niko I see bunch of mice, huddled together."
+msgstr "@niko 쥐가 한 무리 모여 있어요."
+
+msgid "@niko2 ...oh, but they scurried off..."
+msgstr "@niko2 ...앗, 도망가 버렸네요..."
+
+msgid "@niko_eyeclosed I hope they didn't think I was gonna eat them..."
+msgstr "@niko_eyeclosed 사람들이 내가 쥐를 잡아먹는다고 생각하지 않았으면 좋겠네요..."
+
+msgid "[P\\.\\.#L.%%E\\|AS;E D\\.O NO//T AP\\.\\.PR#OACH]"
+msgstr "[제\\.\\.#ㅂ.%%ㄹ\\|가; ㄲ\\.ㅏ이 오//ㅈ ㅣ마\\.\\.ㅅ#ㅔ요]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@kelvin [You have been here for a while...] \\>\\n[Are you sure you do not wish to stay?]"
+msgstr "@kelvin [이제 여기 온 지 좀 됐지...] \\>\\n[정말 함께 있지 않을 거니?]"
+
+msgid "@niko_speak I'm good, thanks for offering though!"
+msgstr "@niko_speak 전 괜찮아요. 신경을 써 주셔서 감사해요!"
+
+msgid "@niko So... where did you find all your cats?"
+msgstr "@niko 그런데... 이 고양이들은 다 어디서 찾으신 거예요?"
+
+msgid "@kelvin [They found me on their own.] \\>\\n[So I stay here now.]"
+msgstr "@kelvin [이 아이들이 알아서 날 찾아왔단다.] \\>\\n[난 그래서 여기 있는 거야.]"
+
+msgid "@niko2 Ah... \\>\\n\\@niko_speak Well, it's good that you're not alone, at least!"
+msgstr "@niko2 아... \\>\\n\\@niko_speak 어쨌든 혼자가 아닌 건 참 다행이네요!"
+
+msgid "@niko I met some robots in the other areas stationed all by themselves..."
+msgstr "@niko 다른 지역에서 혼자 근무하는 로봇들을 만난 적이 있어요..."
+
+msgid "@niko_eyeclosed I felt kinda... bad..."
+msgstr "@niko_eyeclosed 왠지... 안쓰러웠죠..."
+
+msgid "@kelvin [With robots, it is alright.]"
+msgstr "@kelvin [로봇은 그래도 괜찮아.]"
+
+msgid "@kelvin [We are not like people, we are typically unable to feel loneliness.]"
+msgstr "@kelvin [우리는 인간과 달리, 외로움을 느끼지 않거든.]"
+
+msgid "@niko Right..."
+msgstr "@niko 네..."
+
+msgid "@niko_speak Well, you talk less like a robot than most other robots I've met!"
+msgstr "@niko_speak 당신은 제가 지금껏 만난 로봇들보다는 말투가 덜 로봇 같네요!"
+
+msgid "@kelvin [Maybe.]"
+msgstr "@kelvin [그럴지도.]"
+
+msgid "@kelvin [Not many people frequent this part of the alley, but there are a few.]"
+msgstr "@kelvin [이 골목을 지나다니는 사람이 많지는 않지만, 아예 없진 않거든.]"
+
+msgid "@kelvin [One of them even lives here.]"
+msgstr "@kelvin [게다가 그중 하나는 여기 살고 있지.]"
+
+msgid "@niko I see..."
+msgstr "@niko 그렇구나..."
+
+msgid "@niko_speak It's warm here!"
+msgstr "@niko_speak 여기는 따뜻하네요!"
+
+msgid "@kelvin [Yeah.]"
+msgstr "@kelvin [그렇겠지.]"
+
+msgid "@kelvin [This was my original purpose.]"
+msgstr "@kelvin [그게 내가 만들어진 목적이거든.]"
+
+msgid "@niko_speak ...watching cats?"
+msgstr "@niko_speak ...고양이를 돌보는 거요?"
+
+msgid "@kelvin [Warmth.]"
+msgstr "@kelvin [온기 말이야.]"
+
+msgid "@niko Oooh!"
+msgstr "@niko 아!"
+
+msgid "@niko_speak It's a nice purpose!\\>\\n\\@niko ...\\>\\@niko_yawn  ...yawn..."
+msgstr "@niko_speak 정말 바람직한 목적인데요!...\\>\\@niko ... \\>\\n\\@niko_yawn ....흐암..."
+
+msgid "@kelvin [Oh, you look tired.]\\>\\n[Do you wish to rest?]"
+msgstr "@kelvin [아, 피곤해 보이는구나.] \\>\\n[좀 쉬고 갈래?]"
+
+msgid "@niko_speak I can't sleep now! \\p and I got stuff to do!"
+msgstr "@niko_speak 아직 잘 수 없어요! \\p 님과 제겐 할 일이 있으니까요!"
+
+msgid "@kelvin [I see.]"
+msgstr "@kelvin [그렇구나.]"
+
+msgid "@kelvin [Oh, a cat.]"
+msgstr "@kelvin [오, 고양이로구나.]"
+
+msgid "@kelvin [Are you lost?]"
+msgstr "@kelvin [길을 잃었니?]"
+
+msgid "@niko Me?"
+msgstr "@niko 저요?"
+
+msgid "@kelvin [Do you wish to join us?]"
+msgstr "@kelvin [우리와 함께 살래?]"
+
+msgid "@niko Join... \\.\\@niko_speak your cats?"
+msgstr "@niko 함께라니... \\.\\@niko_speak 그 고양이들과요?"
+
+msgid "@kelvin [Yes.]"
+msgstr "@kelvin [그래.]"
+
+msgid "@niko But I'm not a cat..."
+msgstr "@niko 전 고양이가 아닌데요."
+
+msgid "@niko_eyeclosed I don't walk on four legs like they do..."
+msgstr "@niko_eyeclosed 고양이처럼 네 발로 다니지 않잖아요..."
+
+msgid "@kelvin [You have cat eyes.]"
+msgstr "@kelvin [하지만 눈이 고양이인걸.]"
+
+msgid "@niko My eyes are normal people eyes..."
+msgstr "@niko 제 눈은 그냥 사람 눈이에요..."
+
+msgid "@niko_speak Well, normal back home!"
+msgstr "@niko_speak 우리 고향에서는요!"
+
+msgid "@kelvin [Your hat is shaped like a cat.]"
+msgstr "@kelvin [모자도 고양이 귀처럼 생겼는걸.]"
+
+msgid "@niko But I'm just a person!"
+msgstr "@niko 하지만 전 사람이에요!"
+
+msgid "@kelvin [You are still welcome here.]"
+msgstr "@kelvin [그래도 여기 있어도 좋아.]"
+
+msgid "@kelvin [I protect lost people as well.]"
+msgstr "@kelvin [난 길을 잃은 사람들도 지켜 주거든.]"
+
+msgid "@niko_speak Thanks! \\.\\.\\@niko But I'm not lost though!"
+msgstr "@niko_speak 고마워요! \\.\\.\\@niko 하지만 전 길을 잃은 게 아니에요!"
+
+msgid "@niko I've got \\p to guide me!"
+msgstr "@niko \\p 님이 길을 알려 주니까요!"
+

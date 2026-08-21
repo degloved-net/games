@@ -1,0 +1,15 @@
+msgid "@niko A small potted plant."
+msgstr "@niko Una piantina in un vaso."
+
+msgid "@niko There's a pair of scissors on the ground...."
+msgstr "@niko Qui a terra ci sono delle forbici..."
+
+msgid "@niko ...on... a pile of hair?"
+msgstr "@niko ...Sopra... un mucchio di capelli?"
+
+msgid "@niko I don't think anyone's using it anymore, so..."
+msgstr "@niko Non penso che qualcuno le usi ancora, quindi..."
+
+msgid "@niko Soap dispenser."
+msgstr "@niko Un dispenser di sapone."
+

@@ -1,0 +1,24 @@
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [機器人的殘骸。]"
+
+msgid "@niko A robot."
+msgstr "@niko 一台機器人。"
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed 已經徹底壞了。"
+
+msgid "@niko A depowered robot."
+msgstr "@niko 一個失去電力的機器人。"
+
+msgid "@ed [A robot. It no longer has power.]"
+msgstr "@ed [一個機器人，已經沒有動力了。]"
+
+msgid "[I AM FUNCTIONAL!]"
+msgstr "[我又能運作了！]"
+
+msgid "@niko M-hm!"
+msgstr "@niko 嗯哼！"
+
+msgid "@niko_what Just a head, yikes..."
+msgstr "@niko_what 只有頭，唉唷……"
+

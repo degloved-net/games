@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>PS2</title>
+	<style>
+		*, *::before, *::after { box-sizing: border-box; }
+		body, html {
+			margin: 0;
+			padding: 0;
+			background: #000;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+		canvas {
+			display: block;
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+		}
+		#status {
+			position: fixed;
+			inset: 0;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			color: #d4d4d4;
+			font-family: sans-serif;
+			font-size: 1.1rem;
+			gap: 1rem;
+			background: #000;
+			z-index: 10;
+		}
+		#progress {
+			width: 220px;
+			height: 4px;
+			background: rgba(255,255,255,0.1);
+			border-radius: 2px;
+			overflow: hidden;
+		}
+		#progress-bar {
+			height: 100%;
+			width: 0%;
+			background: #a78bfa;
+			border-radius: 2px;
+			transition: width 0.2s ease;
+		}
+	</style>
+</head>
+<body>
+
+<div id="status">
+	<div id="status-text">loading...</div>
+	<div id="progress"><div id="progress-bar"></div></div>
+</div>
+<canvas id="outputCanvas" width="640" height="480" tabindex="-1"></canvas>
+
+<script type="module">
+	import Play from '/emu/purei/Play.js';
+
+	const params  = new URLSearchParams(location.search);
+	const romUrl  = params.get('rom');
+
+	const statusEl    = document.getElementById('status');
+	const statusText  = document.getElementById('status-text');
+	const progressBar = document.getElementById('progress-bar');
+
+	function setStatus(msg, pct) {
+		statusText.textContent = msg;
+		if (pct !== undefined) progressBar.style.width = pct + '%';
+	}
+
+	if (!romUrl) {
+		setStatus('no rom specified');
+	} else {
+		try {
+			const fileName = romUrl.split('/').pop().split('?')[0] || 'game.iso';
+
+			setStatus('loading...', 10);
+
+			const headRes = await fetch(romUrl, { method: 'HEAD', cache: 'no-store' });
+			if (!headRes.ok) throw new Error('HEAD failed: ' + headRes.status);
+			const fileSize = parseInt(headRes.headers.get('content-length') || '0');
+			if (!fileSize) throw new Error('server did not return content-length');
+
+			const fileProxy = {
+				size: fileSize,
+				slice(start, end) {
+					return {
+						arrayBuffer() {
+							return fetch(romUrl, {
+								cache: 'no-store',
+								headers: { Range: `bytes=${start}-${end - 1}` }
+							}).then(r => r.arrayBuffer());
+						}
+					};
+				}
+			};
+
+			setStatus('starting emulator...', 40);
+
+			const playOpts = {
+				onRuntimeInitialized() {
+					playOpts.discImageDevice = discImageDevice;
+					playOpts.ccall('initVm', '', [], []);
+				}
+			};
+
+			const discImageDevice = {
+				doneFlag: false,
+				file: null,
+
+				read(ptr, position, length) {
+					this.doneFlag = false;
+					this.file.slice(position, position + length).arrayBuffer()
+						.then(buf => {
+							playOpts.HEAPU8.set(new Uint8Array(buf), ptr);
+							this.doneFlag = true;
+						})
+						.catch(() => { this.doneFlag = true; });
+				},
+
+				getFileSize() {
+					return this.file ? this.file.size : 0;
+				},
+
+				isDone() {
+					return this.doneFlag;
+				},
+
+				setFile(f) {
+					this.file = f;
+				}
+			};
+
+			await Play(playOpts);
+
+			discImageDevice.setFile(fileProxy);
+			playOpts.bootDiscImage(fileName);
+
+			statusEl.style.display = 'none';
+		} catch (e) {
+			setStatus('error: ' + e.message);
+			progressBar.style.background = '#f87171';
+		}
+	}
+</script>
+
+</body>
+</html>

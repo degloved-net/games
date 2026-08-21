@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko Банка с каким-то зерном."
+
+msgid "@niko This looks like flour!"
+msgstr "@niko Это похоже на муку!"
+
+msgid "@niko Oats."
+msgstr "@niko Овсянка."
+
+msgid "@niko Heads of wheat."
+msgstr "@niko Пшеничные колосья."
+
+msgid "A cat does sound nice..."
+msgstr "Кошка — это хорошо..."
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "Может, я попрошу кузена привезти мне одну из города."
+
+msgid "He just moved there."
+msgstr "Он только что туда переехал."
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "Вот и всё... Это наши последние запасы зерна..."
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "А теперь ещё и грызуны завелись..."
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko Может, вам завести кошек?"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed Сам-то я не кошка..."
+
+msgid "@alula What's a cat?"
+msgstr "@alula Что такое «кошка»?"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed То, чем я не являюсь!"
+
+msgid "@alula ?"
+msgstr "@alula ?"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak Это животное, которое ходит на четырёх лапах и охотится на крыс и мышей!"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp Как лиса?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Думаю... да?"
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak Лисы такие классные!"
+

@@ -1,0 +1,87 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko ホタルが数匹、ビンの中で飛び回ってる。"
+
+msgid "[DO WHAT YOU MUST.]"
+msgstr "[成すべきことヲ、するのでス。]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[これガ、峡谷の主要発電機でス。]"
+
+msgid "@niko Hello..."
+msgstr "@niko こんばんは…"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 空飛ぶ機械に使うバッテリーって、\nどこを探せばあるのかな？"
+
+msgid "@niko2 It's... kind of an emergency."
+msgstr "@niko2 一応…緊急事態なんだけど。"
+
+msgid "[I DO NOT KNOW WHAT A FLYING MACHINE IS.]"
+msgstr "[空飛ぶ機械ガ何なのか、ワタシニハ\n分かりませン。]"
+
+msgid "[BUT ANY SORT OF LARGE MACHINERY WOULD REQUIRE A HIGH CAPACITY POWER CELL.]"
+msgstr "[デスガ、いかなる大型電子機器にも、\n大容量の電池ハ必要でス。]"
+
+msgid "[FOR EXAMPLE, THE GENERATOR IN THIS ROOM UTILIZES SUCH A DEVICE.]"
+msgstr "[例エバ、この建物ニある発電機にも、\nそのような装置を使用していまス。]"
+
+msgid "@niko_eyeclosed Oh right... I almost forgot..."
+msgstr "@niko_eyeclosed あ、そっか…忘れるとこだったよ…"
+
+msgid "@niko We had to fix the battery for this thing in the Barrens, didn't we, \\p?"
+msgstr "@niko そういえば、不毛の地で何かの\nバッテリーを直さなかったっけ、 \\p？"
+
+msgid "[IF THIS IS AN EMERGENCY FOR LIVING BEINGS...] \\>\\n[YOU CAN USE THE BATTERY FROM THE GENERATOR.]"
+msgstr "[生命体ニ関わる緊急事態なのであれバ…] \\>\\n[この発電機ノバッテリーを使用してくださイ。]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko2 Wait... \\.\\.but if we take the battery here..."
+msgstr "@niko2 えっ… \\.\\.でも、そのバッテリーを使っちゃったら…"
+
+msgid "@niko3 ...all of you guys would lose power, wouldn't you?"
+msgstr "@niko3 …君たちの電力がなくなっちゃうんじゃ？"
+
+msgid "@niko4 Maybe \\p and I should go find another one."
+msgstr "@niko4 ミーと \\p で、他のを探すよ。"
+
+msgid "[NEGATIVE.]"
+msgstr "[それハ不可能でス。]"
+
+msgid "[THIS IS THE ONLY BATTERY IN THE GLEN POWERFUL ENOUGH TO BE USED AS A STANDALONE UNIT.]"
+msgstr "[峡谷区域デ、単独ユニットとして使用できるだけの\n電力ガあるバッテリーハ、これだけでス。]"
+
+msgid "[IF IT IS A DIRE SITUATION, THEN DO WHAT YOU MUST.]"
+msgstr "[危機的な状況ナラ、成すべきことをするのでス。]"
+
+msgid "@niko4 Oh..."
+msgstr "@niko4 うん…"
+
+msgid "@niko_eyeclosed ...we depowered it..."
+msgstr "@niko_eyeclosed …ミーのせいで…"
+
+msgid "@niko3 ...I guess we have no choice but to take this, \\p..."
+msgstr "@niko3 …もう、これを取り外すしか\nなさそうだね、 \\p…"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko Looks like a generator..."
+msgstr "@niko 発電機みたい…"
+
+msgid "[PLEASE DO NOT STAND TOO CLOSE TO THE GENERATOR.]"
+msgstr "[発電機ニハ、接近しすぎないよう\n注意してくださイ。]"
+
+msgid "[IF YOU HAVE INQUIRIES, PLEASE ASK ME INSTEAD.]"
+msgstr "[質問ガある場合ハ、\nワタシにお尋ねくださイ。]"
+
+msgid "@niko The battery's gone now..."
+msgstr "@niko バッテリーはもうないよ…"
+
+msgid "@niko_speak We should remember to bring it back once we're done with it!"
+msgstr "@niko_speak 使い終わったら、ちゃんと元に戻さなきゃね！"
+

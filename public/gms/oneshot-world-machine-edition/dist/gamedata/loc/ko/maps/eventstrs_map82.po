@@ -1,0 +1,57 @@
+msgid "@niko Lots of tiny shrimp swimming in this jar..."
+msgstr "@niko 작은 새우들이 병 안을 헤엄치고 있어요..."
+
+msgid "@niko It's looking a little dim..."
+msgstr "@niko 빛이 좀 희미해요..."
+
+msgid "$Apparently, phase 1 of the evacuation ended prematurely."
+msgstr "$대피 1단계는 예정보다 일찍 중단되고 말았다."
+
+msgid "$The big ships started malfunctioning only after a few round trips."
+msgstr "$선박이 몇 번 왕복한 시점에서 오작동을 일으키기 시작했기 때문이다."
+
+msgid "$They said it was due to... something with squares?"
+msgstr "$웬... 사각형 때문이라고 하던데?"
+
+msgid "$I'm not sure what they mean by that."
+msgstr "$나는 그게 무슨 말인지 모르겠다."
+
+msgid "$Bummer, looks like they won't be able to transport most of these surplus bots to the city at this rate."
+msgstr "$젠장, 이대로라면 로봇 대부분을 도시로 수송하지 못할 것 같다."
+
+msgid "$And we worked so hard on those!"
+msgstr "$우리가 얼마나 노력했는데!"
+
+msgid "$But I suppose the rowbots are busy enough with transporting people as is."
+msgstr "$하지만 운항봇은 사람들을 실어 나르는 것만으로도 이미 바쁘다."
+
+msgid "$I think it's going to be our turn soon..."
+msgstr "$곧 우리 차례가 올 것이다..."
+
+msgid "$Looks like they're evacuating the few tamed robots we have here."
+msgstr "$여기 있던 길든 로봇들도 대피시키고 있는 모양이다."
+
+msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
+msgstr "$하긴 그렇겠지... 사람들이 전부 사라지면 이들이 불모지에 있을 이유가 없으니까."
+
+msgid "$I wonder if the engineer is going too..."
+msgstr "$기술자도 따라가는지 궁금하다..."
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 사다리는 무서워요..."
+
+msgid "@niko Oh! It's another one of these small machines."
+msgstr "@niko 아! 그 작은 기계 중 하나예요."
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 머리카락이 뻣뻣해진 느낌이에요..."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 이건 전원 장치예요...\\n아마도요."
+
+msgid "@niko_speak There's writing on this one too!"
+msgstr "@niko_speak 여기에도 뭔가가 적혀 있어요!"
+
+msgid "@niko It says \"Guardian of Residential Area\"."
+msgstr "@niko \"주거 지역 수호자\"라고 쓰여 있어요."
+

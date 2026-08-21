@@ -1,0 +1,24 @@
+msgid "@niko_speak ...hey, \\p?"
+msgstr "@niko_speak ……嘿，\\p？"
+
+msgid "@niko When I was signing the scroll, there was already another name on it.\\>\\n\\@niko It was a little blurry, but..."
+msgstr "@niko 我要在捲軸上簽名的時候，看到上面已經有另一個簽名了。\\>\\n\\@niko 字跡有點模糊，可是……"
+
+msgid "@niko_speak I think that name was also \"Niko\"?"
+msgstr "@niko_speak 看起來另一個名字也是「霓光」？"
+
+msgid "@niko When I was signing the scroll, there was already another two names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko 我要在捲軸上簽名的時候，看到上面已經有另外兩個簽名了。\\>\\n\\@niko 字跡有點模糊，可是……"
+
+msgid "@niko_speak I think they were BOTH \"Niko\"."
+msgstr "@niko_speak 看起來兩個名字都是「霓光」。"
+
+msgid "@niko When I was signing the scroll, there was already a few other names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko 我要在捲軸上簽名的時候，看到上面已經有其他簽名了。\\>\\n\\@niko 字跡有點模糊，可是……"
+
+msgid "@niko_speak I think they all said \"Niko\"!"
+msgstr "@niko_speak 看起來那些名字都是「霓光」！"
+
+msgid "@niko_eyeclosed Weird..."
+msgstr "@niko_eyeclosed 太奇怪了……"
+

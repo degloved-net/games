@@ -1,0 +1,72 @@
+msgid "default=The World Machine"
+msgstr "世界機器"
+
+msgid "barrens=Barrens Craters"
+msgstr "藍荒坑"
+
+msgid "glen=Glen Shoreline"
+msgstr "綠沼澤海岸"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "紅城市景"
+
+msgid "niko=Messiah"
+msgstr "救世主"
+
+msgid "title=My Burden is Light"
+msgstr "如釋重負"
+
+msgid "planet=Asteroid"
+msgstr "小行星"
+
+msgid "black=Blank"
+msgstr "空白"
+
+msgid "lamp=Outpost"
+msgstr "前哨站"
+
+msgid "factory=Factory"
+msgstr "工廠"
+
+msgid "navigate=Navigate"
+msgstr "導航"
+
+msgid "courtyard=Courtyard"
+msgstr "庭院"
+
+msgid "ruins=Calamus and Alula"
+msgstr "卡羽和阿露"
+
+msgid "catwalks=Catwalks"
+msgstr "展示台"
+
+msgid "lamplighter=Lamplighter"
+msgstr "燈光師"
+
+msgid "cafe=Café"
+msgstr "咖啡廳"
+
+msgid "library=Library Stroll"
+msgstr "圖書館的漫步"
+
+msgid "secret=Secret RAM Club"
+msgstr "秘密公羊俱樂部"
+
+msgid "tower=Tower"
+msgstr "塔"
+
+msgid "plant=Maize"
+msgstr "梅絲"
+
+msgid "minecart=Prophets"
+msgstr "先知"
+
+msgid "siblings=Memory"
+msgstr "回憶"
+
+msgid "world_machine=Reflection"
+msgstr "倒影"
+
+msgid "from_niko=From Niko"
+msgstr "自霓光"
+

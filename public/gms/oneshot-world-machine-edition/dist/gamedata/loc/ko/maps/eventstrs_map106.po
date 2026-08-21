@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$한 번에 색상을 한 가지씩 시험해 보면 도움이 될 것입니다! - 관리 팀"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$또한 지난 시도를 기록해 두는 것도 도움이 될 것입니다. - 관리 팀"
+
+msgid "[BEEP BOOP]"
+msgstr "[삑, 삐빅]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[여기는 기계 부품을 만드는 인쇄실입니다.]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[물론 로봇도 만들죠.]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$모두 실패할 경우, 퍼즐이 초기화되길 기다리십시오."
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$아마 다음에는 더 쉬운 퍼즐이 나올지도 모르지요..."
+

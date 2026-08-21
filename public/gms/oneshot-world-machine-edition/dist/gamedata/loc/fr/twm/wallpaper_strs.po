@@ -1,0 +1,72 @@
+msgid "default=The World Machine"
+msgstr "La Machine-Monde"
+
+msgid "barrens=Barrens Craters"
+msgstr "Cratères de la Lande"
+
+msgid "glen=Glen Shoreline"
+msgstr "Rivage du Vallon"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "Ville du Refuge"
+
+msgid "niko=Messiah"
+msgstr "Messie"
+
+msgid "title=My Burden is Light"
+msgstr "Le fardeau de la lumière"
+
+msgid "planet=Asteroid"
+msgstr "Astéroïde"
+
+msgid "black=Blank"
+msgstr "Vierge"
+
+msgid "lamp=Outpost"
+msgstr "Avant-poste"
+
+msgid "factory=Factory"
+msgstr "Usine"
+
+msgid "navigate=Navigate"
+msgstr "Naviguer"
+
+msgid "courtyard=Courtyard"
+msgstr "Cour"
+
+msgid "ruins=Calamus and Alula"
+msgstr "Calamus et Alula"
+
+msgid "catwalks=Catwalks"
+msgstr "Passerelles"
+
+msgid "lamplighter=Lamplighter"
+msgstr "L'Allumeur"
+
+msgid "cafe=Café"
+msgstr "Café"
+
+msgid "library=Library Stroll"
+msgstr "Promenade bibliothèque"
+
+msgid "secret=Secret RAM Club"
+msgstr "Club RAM secret"
+
+msgid "tower=Tower"
+msgstr "Tour"
+
+msgid "plant=Maize"
+msgstr "Maize"
+
+msgid "minecart=Prophets"
+msgstr "Prophètes"
+
+msgid "siblings=Memory"
+msgstr "Mémoire"
+
+msgid "world_machine=Reflection"
+msgstr "Reflet"
+
+msgid "from_niko=From Niko"
+msgstr "De Niko"
+

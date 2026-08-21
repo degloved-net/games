@@ -1,0 +1,126 @@
+msgid "$Initially, the amount of noxious fumes emitted by the natural gas vents caught our team off-guard."
+msgstr "$Al principio, la cantidad de humos nocivos que emitían los conductos de gas natural nos pillaron por sorpresa."
+
+msgid "$Thank goodness the medical team reacted as quickly as they did."
+msgstr "$Por suerte, el equipo médico reaccionó en seguida."
+
+msgid "$Despite its failure, that first expedition did bring up some interesting observations about the Barrens."
+msgstr "$A pesar de su fracaso, la primera expedición trajo consigo algunas observaciones interesantes acerca de los Baldíos."
+
+msgid "$We found that there's not one, but two such vent zones."
+msgstr "$Descubrimos que no solo hay un conducto: hay dos."
+
+msgid "$With fumes being pumped out at such high concentrations..."
+msgstr "$Con tal alta concentración de humos expulsados..."
+
+msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
+msgstr "$...parece un milagro que el humo no se haya expandido a otros lugares."
+
+msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
+msgstr "$Nuestros biólogos concluyeron que el camarón de fósforo en las piscinas naturales de los cráteres estaban consumiendo activamente el gas."
+
+msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
+msgstr "$El camarón del océano también evita que el gas llegue al Valle."
+
+msgid "$If that's the case, then we owe a lot to these little guys!"
+msgstr "$Si ese es el caso, ¡le debemos mucho a esos pequeñines!"
+
+msgid "@niko_speak So...\\.\\. we're filling up the syringe, \\p?"
+msgstr "@niko_speak Bueno...\\.\\.¿lleno la jeringa, \\p?"
+
+msgid "@niko I guess it's kind of like a funnel..."
+msgstr "@niko Supongo que es una especie de embudo..."
+
+msgid "@niko But the liquid might be a bit too thick to fit in the needle..."
+msgstr "@niko Pero es posible que el líquido sea demasiado espeso para que quepa en la aguja..."
+
+msgid "@niko Hey, it actually went in!"
+msgstr "@niko ¡Ey, pues ha entrado!"
+
+msgid "@niko_eyeclosed Gross."
+msgstr "@niko_eyeclosed ¡Qué asco!"
+
+msgid "@niko You want me to fill the bottle with this stuff, \\p?"
+msgstr "@niko ¿Quieres que llene la botella con esto, \\p?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed It's too goopy to fit in the bottle opening..."
+msgstr "@niko_eyeclosed Es demasiado viscoso para que quepa por la boca de la botella..."
+
+msgid "@niko It's like that one time years ago when I tried to put tomato chowder in a baby bottle..."
+msgstr "@niko Es como aquella vez, hace unos años, cuando intenté poner sopa de tomate en un biberón..."
+
+msgid "@niko_speak ...and then it got everywhere!"
+msgstr "@niko_speak ...¡y al final hubo sopa por todas partes!"
+
+msgid "@niko_eyeclosed On the table, on my clothes, on the baby, on the baby's clothes..."
+msgstr "@niko_eyeclosed En la mesa, en mi ropa, en el bebé, en la ropa del bebé..."
+
+msgid "@niko The grown-ups thought it was hilarious.\\> \\@niko_eyeclosed They took a bunch of pictures."
+msgstr "@niko Los mayores consideraron que la situación era graciosísima.\\> \\@niko_eyeclosed Sacaron un montón de fotos."
+
+msgid "@niko_speak And then they taught me how to use funnels!"
+msgstr "@niko_speak ¡Y luego me enseñaron cómo usar un embudo!"
+
+msgid "@niko_eyeclosed And then they also told me I shouldn't try to babysit until I'm older."
+msgstr "@niko_eyeclosed Y también me dijeron que no debería cuidar niños hasta que fuera más mayor."
+
+msgid "@niko ...anyway we should probably look for a funnel or something!"
+msgstr "@niko ...da igual, ¡deberíamos buscar un embudo o algo similar!"
+
+msgid "@niko Alright... lemme just take out the cork, and..."
+msgstr "@niko Muy bien... déjame sacar el corcho, y..."
+
+msgid "@niko_eyeclosed ...all the smoke escaped."
+msgstr "@niko_eyeclosed ...todo el humo ha salido."
+
+msgid "@niko_speak There's already some of this stuff in the bottle, \\p!"
+msgstr "@niko_speak ¡Ya hay un poco dentro de la botella, \\p!"
+
+msgid "@niko This pond sure looks different..."
+msgstr "@niko Este estanque es distinto..."
+
+msgid "@niko The water looks like... jelly?"
+msgstr "@niko El agua parece... ¿gelatina?"
+
+msgid "@niko It's formed a bubble over the surface of the pond."
+msgstr "@niko Ha formado una burbuja sobre la superficie del estanque."
+
+msgid "@niko I guess you want me to fill the bottle with this gas, \\p?"
+msgstr "@niko Imagino que quieres que llene la botella con este gas, ¿no, \\p?"
+
+msgid "@niko That oughta do it."
+msgstr "@niko Con eso debería bastar."
+
+msgid "@niko This bottle is already full of this smoke!"
+msgstr "@niko ¡Esta botella ya está llena de humo!"
+
+msgid "@niko Alright lemme just...\\> turn this bottle upside down..."
+msgstr "@niko Vale, deja que...\\> ponga la botella boca abajo..."
+
+msgid "@niko_eyeclosed ...aaaaand there goes the pond water."
+msgstr "@niko_eyeclosed ... y adiós al agua del estanque."
+
+msgid "@niko But at least we have this smoke..."
+msgstr "@niko Pero al menos tenemos este humo..."
+
+msgid "@niko_speak This vent is on the ground!"
+msgstr "@niko_speak ¡Este conducto está en el suelo!"
+
+msgid "@niko All the others are taller than me."
+msgstr "@niko Todos los demás están más altos que yo."
+
+msgid "[THE SKY IS DARK.]"
+msgstr "[EL CIELO ESTÁ OSCURO.]"
+
+msgid "@niko That it is."
+msgstr "@niko Lo está."
+
+msgid "[DO YOU KNOW WHEN THE SUN WILL BE BACK UP?]"
+msgstr "[¿SABES CUÁNDO VOLVERÁ A SALIR EL SOL?]"
+
+msgid "@niko_speak We're working on it!"
+msgstr "@niko_speak ¡Estamos trabajando en ello!"
+

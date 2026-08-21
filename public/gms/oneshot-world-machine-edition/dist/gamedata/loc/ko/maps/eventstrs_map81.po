@@ -1,0 +1,15 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 사다리는 무서워요..."
+
+msgid "$I remember being taught in school about how the waters surrounding the forest stretched until the boundries of space."
+msgstr "$학교에서 숲을 둘러싸는 물이 이 지역의 경계까지 흘러간다고 배웠던 기억이 난다."
+
+msgid "$But at some point, the prehistoric oceans receded, forming what is now the Barrens."
+msgstr "$하지만 언젠가부터 고대의 바다가 메말라 버리고 그 자리에 지금의 불모지가 생겼다."
+
+msgid "$I wonder where all that water went..."
+msgstr "$그 물이 대체 어디로 사라졌는지 궁금하다..."
+
+msgid "@niko Tiny shrimp are swimming in this jar."
+msgstr "@niko 작은 새우들이 병 안에서 헤엄치고 있어요."
+

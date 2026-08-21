@@ -1,0 +1,1158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "@cedric_talk It's you!"
+msgstr "@cedric_talk 君は！"
+
+msgid "@niko !"
+msgstr "@niko ！"
+
+msgid "@cedric_smile You are Niko, right?"
+msgstr "@cedric_smile ニコ、だよね？"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak うん！"
+
+msgid "@cedric_hmm You... um..."
+msgstr "@cedric_hmm 君は…ええと…"
+
+msgid "@niko My name is Niko..."
+msgstr "@niko ミーの名前はニコ…"
+
+msgid "@cedric_smile Ah!"
+msgstr "@cedric_smile ああ！"
+
+msgid "@cedric_smile N-\\.\\.nice finally to meet you! \\@cedric_hmm \\>...no, wait."
+msgstr "@cedric_smile や、\\.\\.やっと会えた。すごく嬉しいよ！ \\@cedric_hmm \\>…あ、いや。"
+
+msgid "@cedric_sigh It is a pleasure to be of acquaintance at last, Niko."
+msgstr ""
+"@cedric_sigh ようやくお会いできて、とても光栄です、\n"
+"ニコさん。"
+
+msgid "@cedric_smile My name is Cedric."
+msgstr "@cedric_smile 僕の名前はセドリック。"
+
+msgid "@niko2 Oh!"
+msgstr "@niko2 あっ！"
+
+msgid "@niko I'm supposed to be looking for you too!"
+msgstr ""
+"@niko ミーも、君のことを\n"
+"見つけなきゃいけなかったんだ！"
+
+msgid "@cedric I am aware."
+msgstr "@cedric 承知しています。"
+
+msgid "@cedric_hmm Prototype had contacted me earlier, saying that you would be on your way to the city."
+msgstr ""
+"@cedric_hmm 先ほど、プロトタイプから連絡がありました。\n"
+"あなたが、もうすぐ街に訪れる、と。"
+
+msgid "@niko_speak He did?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@cedric He sent me a message after his memories were restored."
+msgstr ""
+"@cedric 記憶が修復された後、メッセージを\n"
+"送ってきたんです。"
+
+msgid "@niko Oh..."
+msgstr "@niko えっと…"
+
+msgid "@cedric_hmm He told me to wait in the city, but I thought it'd be faster for me to pick you guys up."
+msgstr ""
+"@cedric_hmm 街で待つように言われたんですが、僕が\n"
+"拾いにいったほうが早いかと思いまして。"
+
+msgid "@cedric_sigh ...Turns out, that was a terrible idea."
+msgstr "@cedric_sigh …結果的に言うと、愚策でしたが。"
+
+msgid "@niko2 Pick... us up?"
+msgstr "@niko2 ミーたちを…拾いに？"
+
+msgid "@niko_pancakes ...wait... YOU can fly that plane??"
+msgstr "@niko_pancakes …もしかして…あの飛行機を操縦できるの？？"
+
+msgid "@cedric_hmm What...\\.\\. is a plane?"
+msgstr "@cedric_hmm ええと…\\.\\.ヒコウキ、とは？"
+
+msgid "@niko_speak That thing behind you!"
+msgstr "@niko_speak その後ろにあるやつ！"
+
+msgid "@cedric_talk Oh! You mean the flying machine?"
+msgstr "@cedric_talk ああ！空飛ぶ機械のことですか？"
+
+msgid "@niko_speak They're called planes in my world!"
+msgstr "@niko_speak ミーの世界だと、飛行機って呼ばれてるんだ！"
+
+msgid "@cedric_hmm Oh..."
+msgstr "@cedric_hmm なるほど…"
+
+msgid "@cedric_sigh ...I did not realize they existed in other worlds..."
+msgstr ""
+"@cedric_sigh …他の世界にもあっただなんて、\n"
+"知りませんでした…"
+
+msgid "@niko_speak ...wait! Are you the friend that Calamus and Alula was talking about, then?"
+msgstr ""
+"@niko_speak …あっ！じゃあ、カラムスとアルーラの言ってた\n"
+"お友達って、君のこと？"
+
+msgid "@niko_speak Is this the same flying machine they were talking about?"
+msgstr ""
+"@niko_speak 2人が言ってた空飛ぶ機械って、\n"
+"もしかしてあれなのかな？"
+
+msgid "@cedric I do not know anyone named Calamus or Alula."
+msgstr ""
+"@cedric カラムスや、アルーラという名前の人は\n"
+"知りません。"
+
+msgid "@cedric_talk I think... they're meant to be friends with my father. \\>\\n\\@cedric_hmm ...in previous iterations of the..."
+msgstr ""
+"@cedric_talk おそらく…父のお知り合い\n"
+"なんだと思います。\\>\\n\\@cedric_hmm …以前のシミュレートで、その…"
+
+msgid "@niko2 ...your father?"
+msgstr "@niko2 …お父さん？"
+
+msgid "@cedric_talk He was the original owner of the flying machine... \\>\\n\\@cedric_hmm ...it's... one of his greatest inventions, actually."
+msgstr ""
+"@cedric_talk この空飛ぶ機械は、\n"
+"元々は父が所有していたんです… \\>\\n\\@cedric_hmm 中でもこれは…屈指の発明品でしょうね。"
+
+msgid "@niko_pancakes YOUR DAD INVENTED PLANES???"
+msgstr "@niko_pancakes 君のお父さんが飛行機を発明したの？！！？"
+
+msgid "@cedric_hmm ...flying machine."
+msgstr "@cedric_hmm …空飛ぶ機械です。"
+
+msgid "@niko_pancakes IT'S COOL EITHER WAY!!"
+msgstr "@niko_pancakes どっちにしても、すごいよ！！"
+
+msgid "@cedric_smile Thanks?"
+msgstr "@cedric_smile ありがとうございます。"
+
+msgid "@cedric_talk But to answer your earlier question... I am proficient in operating the machine."
+msgstr ""
+"@cedric_talk 先ほどの質問ですが…僕は、\n"
+"機械の操縦が得意なんです。"
+
+msgid "@cedric_hmm ...but ...something weird happened to the engine when I was in the air earlier..."
+msgstr ""
+"@cedric_hmm …しかし…先ほど空中を飛んでいたら、エンジンに\n"
+"何やらおかしなことが起きまして…"
+
+msgid "@cedric_sigh I had to make an emergency landing on this tiny island before I crashed into the city wall."
+msgstr ""
+"@cedric_sigh 街の壁に衝突してしまう前に、この小さな島に\n"
+"緊急着陸しなくてはいけませんでした。"
+
+msgid "@niko3 You almost crashed? \\>\\n\\@niko4 That's terrible!"
+msgstr "@niko3 衝突しそうになったの？ \\>\\n\\@niko4 大変だったね！"
+
+msgid "@cedric_sigh It was not pleasant, I will admit."
+msgstr "@cedric_sigh 確かに、いい気分ではありませんでしたね。\\n\\>"
+
+msgid "@cedric_hmm I wonder if the engine problem has to do with the square particle disruptions..."
+msgstr ""
+"@cedric_hmm このエンジントラブル、四角形粒子による阻害と\n"
+"何か関係しているんでしょうか…"
+
+msgid "@cedric I checked, but... there isn't any of that square stuff inside the machine itself."
+msgstr ""
+"@cedric チェックしてみたんですが…機械の中に、\n"
+"四角形は1つもありませんでした。"
+
+msgid "@cedric_hmm ...but I noticed some islands in the Glen are REALLY messed up now."
+msgstr ""
+"@cedric_hmm …しかし、峡谷にある島々が\n"
+"悲惨な状況にあることは確かです。"
+
+msgid "@niko_eyeclosed They are..."
+msgstr "@niko_eyeclosed そうだね…"
+
+msgid "@cedric_sigh Sigh. \\>\\nGuess I should have listened to Proto in the first place."
+msgstr ""
+"@cedric_sigh はぁ。 \\>\\n最初から、プロトの言うことを\n"
+"聞いていれば良かった。"
+
+msgid "@cedric_hmm ...say, where is he?"
+msgstr "@cedric_hmm …そういえば、彼は今どこに？"
+
+msgid "@cedric_talk He said he was coming with you..."
+msgstr ""
+"@cedric_talk あなたと一緒にやってくると\n"
+"聞きましたが…"
+
+msgid "@cedric Is he still back at the main islands?"
+msgstr "@cedric まだ本島にいるんですか？"
+
+msgid "@niko3 Oh... actually..."
+msgstr "@niko3 あの…えっとね…"
+
+msgid "@niko4 ...back at the Barrens, he..."
+msgstr "@niko4 …不毛の地で、プロトは…"
+
+msgid "@niko_upset There was a cave-in...\\.\\. and then a bunch of squares..."
+msgstr ""
+"@niko_upset 洞窟が崩れて…\\.\\. そしたら、四角形がたくさん\n"
+"現れて…"
+
+msgid "@niko_upset2 ...he...\\.\\. and the robot lady..."
+msgstr "@niko_upset2 …プロトと…\\.\\. ロボットのお姉さんが…"
+
+msgid "@niko_distressed_talk ...neither of them made it out."
+msgstr "@niko_distressed_talk …逃げ切れなかった。"
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek …"
+
+msgid "@cedric_eek No...."
+msgstr "@cedric_eek そんな…"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed …"
+
+msgid "@niko_distressed2 He...\\.\\. did give me this, though."
+msgstr "@niko_distressed2 あの…\\.\\. これをもらったんだ。"
+
+msgid "@niko3 This disk he pulled from his head..."
+msgstr "@niko3 頭から取り出したディスク…"
+
+msgid "@cedric_talk Oh!!!"
+msgstr "@cedric_talk ああ！！！"
+
+msgid "@cedric_sigh2 Oh thank goodness."
+msgstr "@cedric_sigh2 ああ、本当に良かった。"
+
+msgid "@cedric_talk He gave you his main drive!"
+msgstr "@cedric_talk メインドライブをあなたに渡したんですね！"
+
+msgid "@cedric_hmm As long as I have this, I should be able to bring him back."
+msgstr ""
+"@cedric_hmm これさえあれば、彼を復元することが\n"
+"できるはずです。"
+
+msgid "@niko2 R-really?"
+msgstr "@niko2 ほ…ほんと？"
+
+msgid "@cedric_sigh It's gonna be hard, but yes."
+msgstr "@cedric_sigh 大変な作業ですが、可能です。"
+
+msgid "@cedric You need all three of us for the big door."
+msgstr "@cedric 大型ドアには、人手が3人ほど必要になります。"
+
+msgid "@niko2 The...?"
+msgstr "@niko2 大型…え？"
+
+msgid "@cedric_hmm But first thing's first, we need to find a way to go to the city."
+msgstr ""
+"@cedric_hmm しかしまずは、街へと繋がる道を\n"
+"探さないといけませんね。"
+
+msgid "@niko_eyeclosed Right...\\>\\nThe city gate is kind of kaput now."
+msgstr "@niko_eyeclosed そうだね…\\>\\nゲートはもうダメみたいだし。"
+
+msgid "@cedric2 If this machine was working, we could just fly right in there..."
+msgstr ""
+"@cedric2 この機械が動けば、街まで\n"
+"ひとっ飛びなんですが…"
+
+msgid "@cedric_hmm I've isolated the issue with the machine, but I can't repair it with the stuff I have on hand."
+msgstr ""
+"@cedric_hmm 故障の原因は突き止めたのですが、\n"
+"手持ちの部品では修理できないんです。"
+
+msgid "@niko_speak Oh? What's wrong with it?"
+msgstr "@niko_speak え、どこが壊れてるの？"
+
+msgid "@cedric The \\c[2]battery\\c[0] in the engine is dead, and the engine has some \\c[2]gears\\c[0] that need to be replaced."
+msgstr ""
+"@cedric エンジンの\\c[2]バッテリー\\c[0]が切れていて、\n"
+"さらにエンジン用の\\c[2]歯車\\c[0]も、いくつか\n"
+"交換が必要なんです。"
+
+msgid "@niko ...\\>\\nDo you think you'll be able to fix it if \\p and I help you find those things?"
+msgstr ""
+"@niko …\\>\\nミーと \\pで\n"
+"その部品を探せば、何とか直せる？"
+
+msgid "@cedric_hmm ...maybe."
+msgstr "@cedric_hmm …おそらく。"
+
+msgid "@cedric_sigh Problem is... the Glen isn't exactly a very high-tech area."
+msgstr ""
+"@cedric_sigh ただ、問題は…峡谷がそこまで\n"
+"ハイテクな地域ではないということです。"
+
+msgid "@cedric_sigh ...I'm not sure if you'll be able to find anything so specialized here."
+msgstr ""
+"@cedric_sigh …ですから、ここで専用部品が見つかるとは\n"
+"あまり思えません。"
+
+msgid "@niko_speak We'll try anyway!"
+msgstr "@niko_speak とにかく探してみる！"
+
+msgid "@niko_eyeclosed We can't really do anything else right now..."
+msgstr "@niko_eyeclosed 他にできることもなさそうだし…"
+
+msgid "@niko2 We found a battery..."
+msgstr "@niko2 バッテリー、見つけたよ…"
+
+msgid "@cedric4 Another one?"
+msgstr "@cedric4 もう1つあるんですか？"
+
+msgid "@cedric_talk Oh, nice!"
+msgstr "@cedric_talk ああ、良かった！"
+
+msgid "@cedric3 I honestly wasn't expecting it..."
+msgstr "@cedric3 正直言って、あまり期待していませんでした…"
+
+msgid "@niko It's from the generator on one of the islands."
+msgstr "@niko 島にある発電機から取ってきたんだ。"
+
+msgid "@cedric_talk The research station?"
+msgstr "@cedric_talk 研究所のことですか？"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 うん。"
+
+msgid "@niko_speak It was powering all the robots there...\\>\\n\\@niko_eyeclosed I felt bad for taking it..."
+msgstr "@niko_speak あそこにいるロボットの動力になってたから…\\>\\n\\@niko_eyeclosed ちょっと、悪いことしちゃった…"
+
+msgid "@cedric_hmm Ah..."
+msgstr "@cedric_hmm ああ…"
+
+msgid "@cedric_smile ...we can always just give it back later."
+msgstr "@cedric_smile …後で、いつでも返せますよ。"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed そうだね…"
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together.\\>\\nPlease do what you must to find some."
+msgstr ""
+"@cedric_hmm エンジンを直すには、まだ\n"
+"いくつか \\c[2]歯車\\c[0]が足りません。\\>\\nどうにか、見つけてきていただけませんか。"
+
+msgid "@niko We found this one in the Barrens.\\>\\nIt wasn't working at first, but \\p and I managed to fix it!"
+msgstr ""
+"@niko これは不毛の地で見つけたんだ。\\>\\n最初は動かなかったけど、ミーと\n"
+"\\pで何とか直せた！"
+
+msgid "@cedric_smile ...it's good that you thought to bring it with you then."
+msgstr "@cedric_smile …たまたま持っていて、本当に良かった。"
+
+msgid "@niko_speak Yup!"
+msgstr "@niko_speak うん！"
+
+msgid "@niko_speak We found a music box!"
+msgstr "@niko_speak オルゴールを見つけたよ！"
+
+msgid "@niko It... should have gears in it, right?"
+msgstr "@niko これに…入ってる歯車、使えるよね？"
+
+msgid "@cedric I assume so, but...\\>\\n..."
+msgstr "@cedric おそらく使えますが、しかし…\\>\\n…"
+
+msgid "@cedric_hmm This looks like one of the ones that my father made."
+msgstr ""
+"@cedric_hmm このオルゴール、父が作ったものと\n"
+"そっくりですね。"
+
+msgid "@niko_pancakes YOUR DAD MAKES MUSIC BOXES TOO?"
+msgstr "@niko_pancakes 君のお父さん、オルゴールも作ってるの！？？！"
+
+msgid "@cedric_smile My dad makes a lot of things!"
+msgstr "@cedric_smile 僕の父は、本当に色んな物を作ってるんです！"
+
+msgid "@cedric_hmm Where did you get this from, by the way?"
+msgstr "@cedric_hmm ところで、これはどこで見つけたんですか？"
+
+msgid "@niko_speak A trader from the village gave it to me!"
+msgstr "@niko_speak 村の商人さんにもらったんだ！"
+
+msgid "@cedric I see.\\>\\nI remember father saying that he used to trade with some of the people here."
+msgstr ""
+"@cedric なるほど。\\>\\nそういえば、昔ここの住民と貿易していたと\n"
+"父が言っていました。"
+
+msgid "@cedric_smile He did always love traveling this world, despite..."
+msgstr ""
+"@cedric_smile あの方は、世界中を旅するのが\n"
+"大好きでしたから…"
+
+msgid "@cedric_hmm ...well."
+msgstr "@cedric_hmm …あれがあったのにも関わらず…"
+
+msgid "@cedric_sigh Ah, sorry, I started rambling."
+msgstr "@cedric_sigh ああいや、すみません。こっちの話です。"
+
+msgid "@cedric_talk The gears in there are compatible with the engine."
+msgstr ""
+"@cedric_talk これに入っている歯車は、どうやら\n"
+"エンジンとも合うようですね。"
+
+msgid "@cedric_sigh Although it pains me to have to take it apart..."
+msgstr "@cedric_sigh 分解するのは、少し骨が折れますが…"
+
+msgid "@niko2 Oh...\\.\\. I'm sorry!"
+msgstr "@niko2 あっ…\\.\\. ごめんなさい！"
+
+msgid "@cedric_hmm It's fine..."
+msgstr "@cedric_hmm いえ…"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running.\\>\\nPlease do what you must to find one."
+msgstr ""
+"@cedric エンジンを稼動させるには、まだ\n"
+"\\c[3]バッテリー\\c[0]が足りていません。\\>\\nどうにか、見つけてきていただけませんか。"
+
+msgid "@niko_eyeclosed Sorry... I forgot..."
+msgstr "@niko_eyeclosed ごめんなさい…思い出せなくて…"
+
+msgid "@niko What parts do we need to find again?"
+msgstr "@niko どの部品が必要なんだっけ？"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running."
+msgstr ""
+"@cedric エンジンを稼動させるには、まだ\n"
+"\\c[3]バッテリー\\c[0]が足りていません。"
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together."
+msgstr ""
+"@cedric_hmm エンジンを直すには、まだ\n"
+"\\c[2]歯車\\c[0]がいくつか足りていません。"
+
+msgid "@cedric_hmm A \\c[2]battery\\c[0] for the engine, and a few \\c[2]gears\\c[0] to replace the broken ones."
+msgstr ""
+"@cedric_hmm エンジンの\\c[2]バッテリー\\c[0]、\n"
+"そしてボロボロになった\\c[2]歯車\\c[0]を\n"
+"いくつか交換する必要があります。"
+
+msgid "@cedric If you could find me the parts I need, I should be able to get this machine off the ground again."
+msgstr ""
+"@cedric 必要な部品を探し出していただければ、また\n"
+"この機械を飛ばすことができるはずです。"
+
+msgid "@niko We made it!"
+msgstr "@niko 着いた！"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go pay our respects..."
+msgstr "@calamus さあ、アルーラ。\\>\\nお参りに行こう…"
+
+msgid "@alula Okay!"
+msgstr "@alula うん！"
+
+msgid "@cedric_smile Looks like the flying machine has a chance after all!"
+msgstr "@cedric_smile ようやくこれで、空飛ぶ機械が動きそうです！"
+
+msgid "@cedric I just have to assemble the pieces now, but it might take a while..."
+msgstr ""
+"@cedric あとは部品を組み立てるだけですが、\n"
+"少し時間がかかるかもしれません…"
+
+msgid "@cedric_smile Do you mind keeping me company?"
+msgstr "@cedric_smile 付き合ってもらえますか？"
+
+msgid "@niko How's it going?"
+msgstr "@niko どう？"
+
+msgid "@cedric Slow..."
+msgstr "@cedric 順調とは言えませんね…"
+
+msgid "@cedric_hmm The connectors in the battery were not designed for this type of engine, so I have to shift around some of these ports."
+msgstr ""
+"@cedric_hmm バッテリーの接続端子が\n"
+"このエンジン用に設計されていないので、\n"
+"ポートをいくつか差し替える必要があります。"
+
+msgid "@cedric_sigh ...and there's this bolt that keeps getting stuck, and..."
+msgstr "@cedric_sigh …あと、このボルトがいっつも引っかかって…"
+
+msgid "@niko_eyeclosed ...ah."
+msgstr "@niko_eyeclosed …そっか。"
+
+msgid "@cedric_smile ...don't worry! I am making decent progress!"
+msgstr ""
+"@cedric_smile …心配しないでください！\n"
+"作業は着々と進んでいますから！"
+
+msgid "@cedric We should be able to make it to the city by tonight."
+msgstr "@cedric 今夜中には、街に行けるはずです。"
+
+msgid "@niko_eyeclosed If you say so..."
+msgstr "@niko_eyeclosed それならいいんだけど…"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@niko3 ...what...\\.\\. will happen once we get there?"
+msgstr "@niko3 …街に着いたら…\\.\\.どうなるのかな？"
+
+msgid "@cedric_hmm We need to bring Proto back first."
+msgstr "@cedric_hmm まずは、プロトを復元しないといけませんね。"
+
+msgid "@cedric_talk And then we need to go find one more person."
+msgstr "@cedric_talk それから、あともう1人見つけないと。"
+
+msgid "@cedric You may have already met her, actually..."
+msgstr ""
+"@cedric 彼女とは、すでに会ったことが\n"
+"あるかもしれませんね…"
+
+msgid "@cedric_talk Do you remember her from the last time you were in this world?"
+msgstr ""
+"@cedric_talk この世界に前回いた時のこと、\n"
+"覚えていませんか？"
+
+msgid "@niko I..."
+msgstr "@niko えっと…"
+
+msgid "@niko3 ...what does she...\\> look like?"
+msgstr "@niko3 …その子は…\\> どんな人？"
+
+msgid "@cedric2 This is going to sound strange, but..."
+msgstr "@cedric2 変に思われるかもしれませんが…"
+
+msgid "@cedric_talk She is a fox."
+msgstr "@cedric_talk キツネです。"
+
+msgid "@niko_speak ...Rue?"
+msgstr "@niko_speak …ルエ？"
+
+msgid "@cedric_talk You've met?"
+msgstr "@cedric_talk 会ったんですか？"
+
+msgid "@niko_eyeclosed I... think so..."
+msgstr "@niko_eyeclosed うん…たぶん…"
+
+msgid "@niko_eyeclosed The memories are still really blurry, though..."
+msgstr "@niko_eyeclosed まだ記憶がぼやけちゃってるけど…"
+
+msgid "@niko2 ...oh..."
+msgstr "@niko2 …あ…"
+
+msgid "@niko_eyeclosed I.... DO remember talking to a fox at one point..."
+msgstr ""
+"@niko_eyeclosed そういえば… やっぱりどこかでキツネと喋ったのを\n"
+"覚えてる…"
+
+msgid "@cedric_talk You've met Rue?"
+msgstr "@cedric_talk ルエに会ったんですか？"
+
+msgid "@cedric_sigh I see..."
+msgstr "@cedric_sigh なるほど…"
+
+msgid "@niko2 Oh, um..."
+msgstr "@niko2 えっ、と…"
+
+msgid "@niko_eyeclosed I... don't think I know what you're talking about."
+msgstr "@niko_eyeclosed やっぱり…誰のことか分かんないや…"
+
+msgid "@cedric_sigh Worth a shot."
+msgstr "@cedric_sigh もしかしたらと思ったんですが。"
+
+msgid "@cedric_hmm Rue can be... elusive."
+msgstr ""
+"@cedric_hmm ルエは…彼女は…\n"
+"ちょっと神出鬼没なんです。"
+
+msgid "@cedric_talk Even if she IS the least hidden one of us..."
+msgstr ""
+"@cedric_talk 僕たちの中では、\n"
+"最も見つけやすくはあるのですが…"
+
+msgid "@niko_eyeclosed My memories are still really blurry, though..."
+msgstr "@niko_eyeclosed まだ、記憶が微妙にぼやけてて…"
+
+msgid "@niko_upset ....sigh."
+msgstr "@niko_upset ……はぁ。"
+
+msgid "@niko_distressed2 It's just... hard... y'know?"
+msgstr "@niko_distressed2 これ…結構…つらいんだよ。"
+
+msgid "@niko_eyeclosed Proto told me to think of this world like a dream."
+msgstr ""
+"@niko_eyeclosed プロトには、この世界を夢のようなものだと\n"
+"考えればいい、って言われた。"
+
+msgid "@niko_distressed2 But then I get so caught up with..."
+msgstr "@niko_distressed2 だけど、頭がグチャグチャになっちゃって…"
+
+msgid "@niko_distressed And I just...\\.\\. kinda...\\> forget..."
+msgstr "@niko_distressed それで…\\.\\.何か… \\> 忘れちゃう感じがして…"
+
+msgid "@niko_distressed2 I forget that everything here is supposed to be...\\.\\. not real..."
+msgstr ""
+"@niko_distressed2 ここにある何もかもが…\\.\\.現実じゃないってことも、\n"
+"忘れそうになって…"
+
+msgid "@niko_distressed ...and then... I remember."
+msgstr "@niko_distressed …その後…思い出すんだ。"
+
+msgid "@niko_eyeclosed ...and then I just get really sad..."
+msgstr "@niko_eyeclosed …そうすると、すごく悲しい気持ちになって…"
+
+msgid "@niko_upset2 ...I know this is for me to go home, but..."
+msgstr ""
+"@niko_upset2 …ミーが家に帰るためだって、\n"
+"分かってるのに…"
+
+msgid "@niko_upset Knowing that none of it mattered in the first place..."
+msgstr ""
+"@niko_upset 最初から、全部どうでもいいこと\n"
+"だったんだって思うと…"
+
+msgid "@niko_eyeclosed ...am I just\\.\\. trapped here for no reason...?"
+msgstr ""
+"@niko_eyeclosed …ミーはただ\\.\\.何の意味もなく、ここに\n"
+"捕われ続けてるの…？"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 … "
+
+msgid "@niko_eyeclosed Proto also told me to not ask anyone in the world about this..."
+msgstr ""
+"@niko_eyeclosed プロトは、このことを誰にも聞いちゃいけない\n"
+"とも言ってた…"
+
+msgid "@niko_distressed2 Saying how \"they don't understand\"..."
+msgstr "@niko_distressed2 「この世界の人には理解できない」って…"
+
+msgid "@niko_distressed But... what about him?"
+msgstr "@niko_distressed でも…プロトは？"
+
+msgid "@niko_distressed2 How did HE know....?"
+msgstr "@niko_distressed2 プロトは、どうやって知ったの？"
+
+msgid "@cedric ..."
+msgstr "@cedric …"
+
+msgid "@niko3 ...How do YOU know?"
+msgstr "@niko3 …君は、どうして知ってるの？"
+
+msgid "@niko_eyeclosed Aren't you guys ALL supposed to be code?"
+msgstr "@niko_eyeclosed みんな、コードで作られてるんじゃないの？"
+
+msgid "@cedric_hmm ...well..."
+msgstr "@cedric_hmm …ええと…"
+
+msgid "@niko_eyeclosed I'm not sure what to even believe anymore..."
+msgstr "@niko_eyeclosed 何を信じればいいのかも分かんない…"
+
+msgid "@cedric_sigh ..."
+msgstr "@cedric_sigh …"
+
+msgid "@cedric_sigh I wish Rue was here..."
+msgstr "@cedric_sigh ルエがここにいれば…"
+
+msgid "@cedric3 She's SO much better at explaining this sort of thing."
+msgstr ""
+"@cedric3 彼女は、こういうことを説明するのが\n"
+"とても上手ですから。"
+
+msgid "@cedric_sigh I'm doing a terrible job of it!"
+msgstr "@cedric_sigh 僕には全く向いていないんです！"
+
+msgid "@cedric_sigh2 I bet Proto was even less tactful, wasn't he..."
+msgstr ""
+"@cedric_sigh2 プロトだったら、さらに機転が\n"
+"利かなかったでしょうし…"
+
+msgid "@cedric_sigh I'm afraid I must risk sounding callous, but..."
+msgstr "@cedric_sigh 無神経に聞こえるかもしれませんが…"
+
+msgid "@cedric2 ...please, you need not concern yourself with how \"real\" everything is, for now."
+msgstr ""
+"@cedric2 …どうか、何が「現実」なのかと悩み続けるのは\n"
+"やめてくれませんか。今だけは。"
+
+msgid "@cedric_talk The plan is already in motion, we cannot allow for distractions."
+msgstr ""
+"@cedric_talk 計画は既に進行中です。他のことに気を\n"
+"取られてはいけません。"
+
+msgid "@cedric_hmm Father is putting everything into this one last run of the world."
+msgstr ""
+"@cedric_hmm 父は、この世界における最後のセッションに\n"
+"全てを注ぎ込んでいます。"
+
+msgid "@cedric_sigh The last chance for him to fix everything."
+msgstr ""
+"@cedric_sigh あらゆることを正す、最後の\n"
+"チャンスなんです。"
+
+msgid "@niko2 Your father... is involved in the World Machine?"
+msgstr ""
+"@niko2 君のお父さんは…ワールドマシンに\n"
+"関わってるの？"
+
+msgid "@cedric3 You... \\.\\.could say that."
+msgstr "@cedric3 まあ… \\.\\.そうとも言えます。"
+
+msgid "@cedric_sigh The acceleration of square particle anomalies was not accounted for at all, though."
+msgstr ""
+"@cedric_sigh とはいえ、四角形粒子の異常現象が加速したことに\n"
+"ついては、全く説明がついていません。"
+
+msgid "@cedric The patch was only built to accomodate the normal rate they appear, but..."
+msgstr ""
+"@cedric あのパッチは、通常の出現率に\n"
+"適応するために作られたんです。なのに…"
+
+msgid "@cedric_sigh2 ...they're accumulating at frightening speeds, now."
+msgstr ""
+"@cedric_sigh2 …やつらは、恐ろしい速度で\n"
+"増殖を繰り返しはじめた。"
+
+msgid "@cedric_sigh Proto even lost his body..."
+msgstr "@cedric_sigh プロトは体までも失ってしまった…"
+
+msgid "@cedric2 Thankfully, he gave you the disk just in time."
+msgstr ""
+"@cedric2 幸い、ギリギリのところで\n"
+"あなたにディスクを渡せたようですが。"
+
+msgid "@niko3 So... what happened to him anyway?"
+msgstr "@niko3 プロトは…どうなっちゃったの？"
+
+msgid "@niko3 What happens to...\\.\\. ANYONE who gets caught in the squares?"
+msgstr ""
+"@niko3 他の人は…\\.\\. 四角形に捕まった人たちは、\n"
+"どうなっちゃうの？"
+
+msgid "@niko_eyeclosed I only know it's bad..."
+msgstr ""
+"@niko_eyeclosed 良くないことが起きる\n"
+"ってことしか、ミーには分からない…"
+
+msgid "@cedric_hmm Well, you know how the simulation works, right?"
+msgstr ""
+"@cedric_hmm ええと、シミュレーションの仕組みは\n"
+"知っていますよね？"
+
+msgid "@niko_upset2 How everything...\\.\\. is code....?"
+msgstr "@niko_upset2 みんな…\\.\\.コードでできてるってこと…？"
+
+msgid "@cedric Specifically, everything is generated from pre-existing code."
+msgstr ""
+"@cedric 具体的に言えば、あらゆるモノは\n"
+"既存のコードから生成されています。"
+
+msgid "@cedric The squares can cause damage to that code..."
+msgstr ""
+"@cedric 四角形は、そのコードにダメージを\n"
+"与えてしまうんです…"
+
+msgid "@cedric_sigh ...most of the time, irreversible damage."
+msgstr "@cedric_sigh …ほとんどの場合、修復できません。"
+
+msgid "@cedric_sigh Father has lost some friends in previous iterations of the simulation."
+msgstr ""
+"@cedric_sigh 父さんは以前のシミュレーションで、\n"
+"数々の友人を失ってしまった。"
+
+msgid "@cedric3 It took him forever to develop the current, much more stable version."
+msgstr ""
+"@cedric3 現在のような、さらに安定したバージョンの\n"
+"開発に、父は人生のすべてを費やしました。"
+
+msgid "@niko4 ...you're making it sound like...\\.\\. your dad built the simulation himself..."
+msgstr ""
+"@niko4 …それってまるで…\\.\\.君のお父さんが\n"
+"シミュレーションを作った、みたいな言い方だね…"
+
+msgid "@niko3 ...wait, DID he?"
+msgstr "@niko3 …えっ、もしかしてそうなの？"
+
+msgid "@cedric_sigh Yeah..."
+msgstr "@cedric_sigh はい…"
+
+msgid "@niko4 But... how?"
+msgstr "@niko4 でも…どうやって？"
+
+msgid "@niko_what If everyone in this world is code..."
+msgstr "@niko_what この世界にいる人たち、みんなコードなら…"
+
+msgid "@niko2 ...how can he build...\\.\\. \\@niko_what himself...?"
+msgstr "@niko2 …どうやって…\\.\\.\\@niko_what 自分自身を作ったの…？"
+
+msgid "@cedric2 That's...\\.\\. um...\\>\\n\\@cedric_sigh not really what happened."
+msgstr "@cedric2 それは… \\.\\.ええと…\\>\\n\\@cedric_sigh 厳密に言うと、そうじゃないんです。"
+
+msgid "@niko3 So... what happened?"
+msgstr "@niko3 じゃあ…どういうこと？"
+
+msgid "@cedric_sigh2 ...like I said, you shouldn't concern yourself with..."
+msgstr ""
+"@cedric_sigh2 …先ほども言いましたが、今はあまり\n"
+"気にしないほうが…"
+
+msgid "@cedric4 ...with"
+msgstr "@cedric4 …いいと…"
+
+msgid "@niko_distressed ....."
+msgstr "@niko_distressed ……"
+
+msgid "@cedric_sigh ...alright, alright...."
+msgstr "@cedric_sigh …分かりました。分かりましたから…"
+
+msgid "@cedric3 Did Prototype....\\.\\. ever tell you about the old world?"
+msgstr ""
+"@cedric3 プロトタイプから…\\.\\.昔の世界について、何か\n"
+"聞いていますか？"
+
+msgid "@niko3 He... DID say something about being built to greet the messiah of the old world."
+msgstr ""
+"@niko3 えっと…昔の世界にいた救世主を迎えるために\n"
+"ボクは作られた、って言ってた。"
+
+msgid "@niko_eyeclosed I was um...\\.\\. too caught up with the other stuff at the time to think about it..."
+msgstr ""
+"@niko_eyeclosed その時は…\\.\\.他のことでいっぱいいっぱい\n"
+"だったから、あんまり気にしてなかった…"
+
+msgid "@cedric2 Ah, you know OF it at least, then."
+msgstr "@cedric2 ああ、一応知ってはいるんですね。"
+
+msgid "@cedric_sigh Alright... here we go."
+msgstr "@cedric_sigh 分かりました…それではお話します。"
+
+msgid "@cedric My father... myself... the other two..."
+msgstr "@cedric 僕の父と…僕と…そしてあの2人は…"
+
+msgid "@cedric3 None of us are part of the simulation itself."
+msgstr "@cedric3 全員、シミュレーションの一部ではないんです。"
+
+msgid "@cedric_sigh Our home world....\\> the \"real\" world... \\.\\.was actually destroyed a long time ago."
+msgstr ""
+"@cedric_sigh 僕たちの世界…\\>「現実の」世界は… \\.\\.ずっと前に\n"
+"破壊されてしまいました。"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock …"
+
+msgid "@cedric In the years leading up to the calamity, scientists from all over the world tried to stop it, but the outlook was bleak."
+msgstr ""
+"@cedric 大惨事が起きるまでの数年間、世界中の\n"
+"科学者たちはそれを食い止めようと必死でしたが、\n"
+"その展望は絶望的でした。"
+
+msgid "@cedric A vague prophecy about a messiah from another world became everyone's last bastion of hope."
+msgstr ""
+"@cedric 別の世界から救世主が訪れる、という\n"
+"謎めいた預言が、最後の希望の砦となりました。"
+
+msgid "@cedric3 Prophetbot....\\.\\. er, Prototype... \\.\\.was built to predict the future, about the specifics of this messiah."
+msgstr ""
+"@cedric3 預言者ロボ…\\.\\.いや、プロトタイプは… \\.\\.その救世主に\n"
+"関する情報を預言するために作られたんです。"
+
+msgid "@cedric_sigh2 But as his predictions turned out, the messiah would not have been able to arrive to our world in time."
+msgstr ""
+"@cedric_sigh2 しかしその預言は、救世主が間に合うことは\n"
+"ないだろう、というものでした。"
+
+msgid "@cedric4 In fact, the messiah would not even have been born before our world ended."
+msgstr ""
+"@cedric4 救世主は、僕たちの世界が終わるまでに、\n"
+"誕生してすらもいなかったんです。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@cedric Disheartened, most people abandoned their research and resolved to peacefully live out their final years."
+msgstr ""
+"@cedric みな絶望し、多くが研究をやめ、余生を\n"
+"平和に生きようと決心しました。"
+
+msgid "@cedric3 But... some people did the opposite."
+msgstr "@cedric3 しかし…そうしなかった者もいました。"
+
+msgid "@cedric_sigh Even though saving the world was impossible, they didn't want our existence to be in vain."
+msgstr ""
+"@cedric_sigh 世界を救うことが不可能でも、自分たちの存在を\n"
+"無為なものにしたくなかったんです。"
+
+msgid "@cedric2 And that's...\\.\\. where my father came in."
+msgstr "@cedric2 そしてその中に…\\.\\. 父がいました。"
+
+msgid "@cedric_talk With the last of his resources...\\>\\nhe built his most ambitious project yet."
+msgstr ""
+"@cedric_talk 全ての資源を使って…\\>\\n父は、かつてないほど\n"
+"大がかりなプロジェクトを立てました。"
+
+msgid "@cedric ...\"The World Machine\"."
+msgstr "@cedric …「ワールドマシン」"
+
+msgid "@cedric2 A large, detailed facsimile of the old world, generated from a pool of memories collected from everyone he knew."
+msgstr ""
+"@cedric2 大規模かつ精密な、旧世界の複製物…\n"
+"父の知人全員から集めた\n"
+"記憶の海によって、作り上げられました。"
+
+msgid "@cedric4 ...after a heavy amount of modification and an added narrative, my father was able to convert the entire structure into code."
+msgstr ""
+"@cedric4 …気が遠くなるほどの、改良とシナリオ追加作業\n"
+"のおかげで、父はその構造全体をコードに\n"
+"置き換えることに成功しました。"
+
+msgid "@niko3 ...how did that code.... escape the old world?"
+msgstr ""
+"@niko3 …そのコードは…どうやって前の世界を\n"
+"抜け出せたの？"
+
+msgid "@cedric_hmm I have no idea."
+msgstr "@cedric_hmm さあ…全く分かりません。"
+
+msgid "@cedric What I do know is, there is no equipment back home that was powerful enough to run the code independently."
+msgstr ""
+"@cedric 僕が知っているのは、独立してコードを実行できる\n"
+"ほどの強力な機器が、僕の世界にはなかった\n"
+"ということだけです。"
+
+msgid "@cedric So, asides from the standard hardware, it also needed to borrow the mental processing abilities of a living person."
+msgstr ""
+"@cedric ですので、標準的なハードウェアの他に、\n"
+"生きている人間の精神処理能力も\n"
+"借りる必要があったんです。"
+
+msgid "@cedric Father used himself for that, during the initial testing phases."
+msgstr ""
+"@cedric 試験の初期段階で、父は自分自身を\n"
+"利用しました。"
+
+msgid "@cedric2 Like I said, it took many iterations for him to make the experience stable enough."
+msgstr ""
+"@cedric2 先ほども言ったように、十分に安定するまで\n"
+"かなりのシミュレートを要しました。"
+
+msgid "@cedric_sigh2 ...but as you can see, even that's breaking down."
+msgstr ""
+"@cedric_sigh2 …しかし見ての通り、それでも\n"
+"崩壊は続いています。"
+
+msgid "@niko2 Ah..."
+msgstr "@niko2 そうなんだ…"
+
+msgid "@cedric Father caught on to the issue in the last minute, but did not have enough time to fix it."
+msgstr ""
+"@cedric 父は最後の最後で問題を突き止めましたが、\n"
+"修復するには時間が足りませんでした。"
+
+msgid "@cedric4 After the world ended...\\.\\. the code kinda just ended up...\\>\\n\\@cedric3 floating in the void, indefinitely."
+msgstr ""
+"@cedric4 世界が終焉を迎えた後…\\.\\. コードは、ただ…\\>\\n\\@cedric3 永久に、無の空間に浮遊する存在\n"
+"となってしまいました。"
+
+msgid "@cedric_sigh ...waiting for a willing operator to install it onto their own hardware."
+msgstr ""
+"@cedric_sigh …自らのハードウェアにインストール\n"
+"してくれる実行者を、待ち続ける存在に。"
+
+msgid "@niko3 ...\\p?"
+msgstr "@niko3 …\\pのこと？"
+
+msgid "@cedric Yeah."
+msgstr "@cedric そうです。"
+
+msgid "@cedric The operator... \\.\\.\\p.... \\.\\.would then generate the universe using the code, becoming god in the process."
+msgstr ""
+"@cedric 実行者は… \\.\\.\\pは… \\.\\.\n"
+"その後、コードを使って宇宙を\n"
+"生成し、その過程で神となりました。"
+
+msgid "@niko So... \\p was the living person you needed to borrow?"
+msgstr ""
+"@niko じゃあ…力を貸してくれる生きた人っていうのは、\n"
+"\\pのことだったの？"
+
+msgid "@cedric3 ....No?"
+msgstr "@cedric3 …分かりませんか？"
+
+msgid "@cedric That.... would be you."
+msgstr "@cedric それは…あなたのことです。"
+
+msgid "@niko3 But why me?"
+msgstr "@niko3 え、どうしてミーなの？"
+
+msgid "@niko ...."
+msgstr "@niko …"
+
+msgid "@niko_eyeclosed (I... should've asked that question a long time ago, shouldn't I...)"
+msgstr ""
+"@niko_eyeclosed （この質問…もっと前に\n"
+"しておくべきだったかな…）"
+
+msgid "@cedric3 I do not know."
+msgstr "@cedric3 分かりません。"
+
+msgid "@cedric_hmm ...we...\\.\\. really need to get going."
+msgstr "@cedric_hmm …とにかく…\\.\\.もう急がないと…"
+
+msgid "@niko_speak It's a plane!"
+msgstr "@niko_speak 飛行機だ！"
+
+msgid "@cedric2 ...flying machine!"
+msgstr "@cedric2 …空飛ぶ機械です！"
+
+msgid "@niko Right."
+msgstr "@niko そうだったね。"
+
+msgid "@niko It's a tent."
+msgstr "@niko テントだ。"
+
+msgid "@niko Just a wrench."
+msgstr "@niko ただのレンチだ。"
+
+msgid "@calamus_smile2 At least I still got my sister..."
+msgstr "@calamus_smile2 ま、オレにはまだ妹がいるから…"
+
+msgid "@calamus_sad This is her grave..."
+msgstr "@calamus_sad これが、母さんのお墓さ…"
+
+msgid "@niko3 Ah..."
+msgstr "@niko3 そうなんだ…"
+
+msgid "@calamus_sad It's been years, but..."
+msgstr "@calamus_sad もう何年も経つけど…"
+
+msgid "@calamus_sad ...It's still... \\.\\.hard, y'know?"
+msgstr "@calamus_sad …まだ… \\.\\.つらいものはつらいな。"
+
+msgid "@calamus_sad Sigh..."
+msgstr "@calamus_sad はぁ…"
+
+msgid "@calamus_sad Alula....\\.\\.\\n\\@calamus_smile wanna help me look for some flowers for mom later?"
+msgstr ""
+"@calamus_sad アルーラ…\\.\\.\\n\\@calamus_smile 母さんにあげる花を摘むの、\n"
+"後で手伝ってくれないか？"
+
+msgid "@alula_gasp \\.\\.Y\\.E\\.S"
+msgstr "@alula_gasp \\.\\.う\\.ん\\.。"
+
+msgid "@calamus_smile2 ..."
+msgstr "@calamus_smile2 …"
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr ""
+"@calamus お参りはもう終わるから、遺跡に\n"
+"戻りたくなったら言ってくれ。"
+
+msgid "@niko Okay."
+msgstr "@niko 分かった。"
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko あの、バッテリーってどこを探せばあるかな？"
+
+msgid "@calamus Good question.."
+msgstr "@calamus そうだな…"
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh 峡谷だと…\\.\\.電気はあまり使わないんだ。"
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed そうなんだ。"
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak あ、でも研究所にはロボットがいたな！\\>\\n彼らなら知ってるかも。"
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko わかった、ありがとう！"
+
+msgid "@alula_speak I hope she can see us wherever she is!"
+msgstr ""
+"@alula_speak 天国からあたしたちのこと\n"
+"見てくれてるといいな！"
+
+msgid "@alula_gasp MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND"
+msgstr ""
+"@alula_gasp お母さん！今日何があったと思う？！\n"
+"今日はね、救世主さまと会ってね、"
+
+msgid "@alula_oh ..."
+msgstr "@alula_oh …"
+
+msgid "@alula_speak ...hi Niko!"
+msgstr "@alula_speak …やっほ、ニコ！"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak こんばんは！"
+
+msgid "@alula Didja find any... \\@alula_pout ...any..."
+msgstr "@alula そいえば、あれ見つけた？\\@alula_pout …えっと…"
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh …何だっけ？"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak 歯車？"
+
+msgid "@alula_speak Gears!\\>\\n\\@alula Didja find any of those?"
+msgstr "@alula_speak 歯車！\\>\\n\\@alula 歯車は見つかった？"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko ううん、でも…このオルゴールは見つけた！"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp おおおー！"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko 歯車って、どこに行けば見つかるかな？"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula 歯車？\\>\\nって…なあに？"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr ""
+"@niko_speak えっとね…\\.\\. 歯がついた、\n"
+"鉄の輪っかみたいなやつ！"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak 輪っかに…歯がついてるの？！"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak あはは、変なの！\\>\\nマグパイなら持ってそうね！"
+
+msgid "@niko Magpie?"
+msgstr "@niko マグパイ？"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula ほら、あの商人さんのこと！"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula 面白いもの、たーっくさん持ってるのよ！"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr ""
+"@alula_speak えっとね、割れたガラスとか、\n"
+"よく分かんないものがいっぱい！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_speak ...Oh yeah!\\>\\n\\@niko I think I know who you're talking about."
+msgstr "@niko_speak …あっ！\\>\\n\\@niko 誰のことか分かったかも。"
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak ホント、変な人よ！"
+
+msgid "@niko It's a crowbar."
+msgstr "@niko 金てこだ。"
+
+msgid "@niko_eyeclosed Looks like a piece from this plane."
+msgstr "@niko_eyeclosed 飛行機の一部みたい。"
+
+msgid "@niko It's a fire."
+msgstr "@niko 火だ。"

@@ -1,0 +1,15 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko ハシゴ、怖い…"
+
+msgid "$I remember being taught in school about how the waters surrounding the forest stretched until the boundries of space."
+msgstr "$森を囲む海が、宇宙との\n境界にまで伸びていた。\nそんなふうに学校で\n教わったことを\n覚えてる。"
+
+msgid "$But at some point, the prehistoric oceans receded, forming what is now the Barrens."
+msgstr "$しかしある時、\n先史時代の海は\n後退し、それにより\n不毛の地が形成された。"
+
+msgid "$I wonder where all that water went..."
+msgstr "$あれだけあった水は\nどこに消えて\nしまったんだろう…。"
+
+msgid "@niko Tiny shrimp are swimming in this jar."
+msgstr "@niko 小さなエビがビンの中で泳いでる。"
+

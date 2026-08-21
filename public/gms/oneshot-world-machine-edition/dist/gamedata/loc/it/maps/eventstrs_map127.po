@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko Sai dove posso trovare una batteria per una macchina volante?"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[HO UN BATTERIA INTEGRATA NEL MIO SISTEMA.]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[NON PUÒ ESSERE UTILIZZATA PER FORNIRE ENERGIA AD ALTRE COSE.]"
+
+msgid "@niko Ah..."
+msgstr "@niko Ah..."
+
+msgid "[STAY SAFE.]"
+msgstr "[RESTA AL SICURO.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak Grazie!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[LA STAZIONE DI RICERCA STA ATTUALMENTE AFFRONTANDO DELLE DIFFICOLTÀ TECNICHE.]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 Lo vedo..."
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed Anche il ponte sulla strada qui era..."
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[SEI STATO MANDATO QUI DALLA DOTTORESSA SILVERPOINT?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ...No?"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[OH, VAI PURE AVANTI, ALLORA.]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko A proposito, sai dove posso trovare una batteria per una macchina volante?"
+
+msgid "[I DO NOT.]"
+msgstr "[NON LO SO.]"
+
+msgid "@niko Alright..."
+msgstr "@niko D'accordo..."
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[LE ANOMALIE AUMENTANO...]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak Sai dove posso trovare una batteria per una macchina volante?"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[HAI CONTROLLATO LA SALA MACCHINE?]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko Sai dove potrei trovare una batteria per una macchina volante?"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[CHE COS'È UNA MACCHINA VOLANTE.]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Lascia perdere."
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[ALCUNI ROVI SONO CRESCIUTI SU QUESTO PONTE.]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[QUASI COME SE FOSSE UN METODO DI RIPARAZIONE INTENZIONALE.]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Sì..."
+

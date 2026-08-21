@@ -1,0 +1,39 @@
+msgid "@niko This robot looks kind of rusty..."
+msgstr "@niko Questo robot sembra piuttosto arrugginito..."
+
+msgid "@niko A bunch of robots without power."
+msgstr "@niko Un sacco di robot senza energia."
+
+msgid "@niko_eyeclosed I guess the generator can only do so much..."
+msgstr "@niko_eyeclosed Immagino che il generatore non possa fare di meglio..."
+
+msgid "@niko A cleaning sponge with a rough surface."
+msgstr "@niko Una spugna per pulire dalla superficie ruvida."
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko Una pagina.\\> Sembra strappata da un libro."
+
+msgid "$2) Without breaking the seal, inject the liquid phosphor into the container."
+msgstr "$2) Senza rompere il sigillo, iniettare il fosforo liquido nel contenitore."
+
+msgid "$3) Shake vigorously to initiate the reaction."
+msgstr "$3) Agitare energicamente per dare inizio alla reazione."
+
+msgid "$4) Use as soon as possible."
+msgstr "$4) Utilizzare il prima possibile."
+
+msgid "$Note: If elements begin to separate, further shaking is required."
+msgstr "$Nota: Se gli elementi iniziano a separarsi, è necessario agitare ulteriormente."
+
+msgid "$Also note: Hand protection is critical after this step."
+msgstr "$Nota bene: Proteggere le mani è fondamentale dopo questo passaggio."
+
+msgid "$The resulting acid is moderately stronger than common household cleaners."
+msgstr "$L'acido risultante è moderatamente più forte dei comuni detergenti domestici."
+
+msgid "@niko_eyeclosed I... don't know what half of these words mean..."
+msgstr "@niko_eyeclosed Io... non capisco la metà di quel che c'è scritto..."
+
+msgid "@niko_speak It's a good thing you're here, \\p!"
+msgstr "@niko_speak Meno male che ci sei tu, \\p!"
+

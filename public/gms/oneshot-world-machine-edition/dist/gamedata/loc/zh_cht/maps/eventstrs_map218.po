@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[已失去和地面的通訊。]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[我無能為力。]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$誰拿了我的釘書機"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko 某種電腦終端機……"
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko 桌上有些小洞……"
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko 看來以前有東西釘在這裡……"
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko 桌上有些小洞……"
+

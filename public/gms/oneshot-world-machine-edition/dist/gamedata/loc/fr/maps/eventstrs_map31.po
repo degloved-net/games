@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Les lucioles éclairent cette pièce."
+
+msgid "@niko Full of dried beans."
+msgstr "@niko C'est rempli de haricots séchés."
+
+msgid "@niko An empty jar."
+msgstr "@niko Un pot vide."
+
+msgid "I'm getting dizzy!"
+msgstr "Je me sens malade !"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed Je te l'avais dit !"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak Pourquoi est-ce que tu tournes comme ça ?"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak Tu vas être malade !"
+
+msgid "I'm the Tower!"
+msgstr "Je suis la Tour !"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Hein ?"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "Papy dit qu'avant, la Tour tournait touuut le temps et qu'elle illuminait le monde !"
+
+msgid "I wanna see it too!"
+msgstr "Moi aussi, je veux voir ça !"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp Moi aussi !"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout J'ai seulement pu voir le soleil quand j'étais bébé..."
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko Eh bien, je suis là à présent..."
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko J'imagine que ce n'est qu'une question de temps."
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko Tu vas être malade si tu continues à tourner comme ça..."
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak Des petits pois !"
+

@@ -1,0 +1,135 @@
+msgid "@ed [Hello, Niko.]"
+msgstr "@ed [안녕, 니코.]"
+
+msgid "@niko H... hello..."
+msgstr "@niko 아... 안녕하세요..."
+
+msgid "@ed [Congratulations. You are now inside the Tower.]"
+msgstr "@ed [축하한다. 탑 안으로 들어왔구나.]"
+
+msgid "@niko Are you talking...\\.\\. \\@niko_speak ...to me, now?"
+msgstr "@niko 지금...\\.\\.\\@niko_speak ...저한테 말씀하시는 건가요?"
+
+msgid "@ed [Correct.]"
+msgstr "@ed [그래.]"
+
+msgid "@niko3 But you were always talking to \\p before..."
+msgstr "@niko3 하지만, 당신은 전부터 쭉 \\p 님과만 이야기하셨잖아요..."
+
+msgid "@niko_distressed Where's..."
+msgstr "@niko_distressed 그러고 보니..."
+
+msgid "@ed [\\p has already left.]"
+msgstr "@ed [\\p, 그 자는 이미 가 버렸어.]"
+
+msgid "@ed [I had to resort to contacting you directly.]"
+msgstr "@ed [그래서 너에게 직접 말을 거는 수밖에 없었지.]"
+
+msgid "@niko_speak Wait, so... \\p is gone, just like that?"
+msgstr "@niko_speak 잠깐만요... 그러니까, \\p 님이 가 버렸다고요?"
+
+msgid "@niko ....for good?"
+msgstr "@niko ...영원히요?"
+
+msgid "@ed [\\p has already finished their mission.]"
+msgstr "@ed [\\p의 임무는 이미 끝났어.]"
+
+msgid "@ed [...and so have you, Niko.]"
+msgstr "@ed [...너도 마찬가지야, 니코.]"
+
+msgid "@ed [Here, you can rest now.]"
+msgstr "@ed [자, 이제 쉴 수 있어.]"
+
+msgid "@ed [Everything that's happened here is like a bad dream.]"
+msgstr "@ed [여기서 있었던 모든 일은 그저 악몽처럼 느껴질 거야.]"
+
+msgid "@ed [When you wake up, you will be home.]"
+msgstr "@ed [눈을 뜨면 넌 집에 있을 거야.]"
+
+msgid "@niko_pancakes Oh!"
+msgstr "@niko_pancakes 오!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_distressed2 But..."
+msgstr "@niko_distressed2 그렇지만..."
+
+msgid "@ed [What's wrong?]"
+msgstr "@ed [왜 그러지?]"
+
+msgid "@niko_eyeclosed ...I thought there'd be more to it, you know?"
+msgstr "@niko_eyeclosed ...전 뭔가 더 있을 줄 알았어요."
+
+msgid "@niko I thought... we were supposed to go to the top of the Tower..."
+msgstr "@niko 전... 탑 꼭대기로 가야 한다고 생각했어요..."
+
+msgid "@niko_distressed I thought there was supposed to be somewhere we need to put the sun in."
+msgstr "@niko_distressed 거기에 태양을 놓을 자리가 있을 거라고 생각했고요."
+
+msgid "@niko_eyeclosed And now... I don't even HAVE the sun anymore..."
+msgstr "@niko_eyeclosed 그런데 지금은... 태양이 없는 데다..."
+
+msgid "@niko_distressed2 And \\p is just... gone..."
+msgstr "@niko_distressed2 \\p 님도... 사라졌네요..."
+
+msgid "@niko_distressed This feels wrong!"
+msgstr "@niko_distressed 뭔가 잘못된 거예요!"
+
+msgid "@ed [But you did good. You saved the world, Niko.]"
+msgstr "@ed [하지만 넌 잘해 줬어, 니코. 네가 세계를 구한 거야.]"
+
+msgid "@ed [Are you not happy?]"
+msgstr "@ed [행복하지 않니?]"
+
+msgid "@niko_eyeclosed I guess I am..."
+msgstr "@niko_eyeclosed 행복해요..."
+
+msgid "@niko_eyeclosed But... \\.\\.\\@niko_distressed2 It's just..."
+msgstr "@niko_eyeclosed 하지만... \\.\\.\\@niko_distressed2 이건 그저..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...you're still here...]"
+msgstr "@ed [...아직 여기 있구나...]"
+
+msgid "@ed [...Niko, why are you still here?]"
+msgstr "@ed [...니코, 왜 아직 여기 있는 거야?]"
+
+msgid "YOU."
+msgstr "너."
+
+msgid "Why did you come back, \\p?"
+msgstr "왜 다시 돌아온 거지, \\p?"
+
+msgid "I told you to stay away!"
+msgstr "분명 빠지라고 했을 텐데!"
+
+msgid "...you KNEW I tried to cut the story short, is that it?"
+msgstr "...이 이야기를 일찍 끝내 버리려는 걸 알고 있었던 거야?"
+
+msgid "...you want more out of me, is that it??"
+msgstr "...내게 바라는 게 더 있는 거야? 그런 거야??"
+
+msgid "FINE."
+msgstr "좋아."
+
+msgid "If you don't want to leave... I'll make sure you never do!"
+msgstr "네가 떠나지 않겠다면... 영영 못 떠나게 해 주지!"
+
+msgid "@niko_eyeclosed ...I never even got to say goodbye to \\p..."
+msgstr "@niko_eyeclosed ...\\p 님에게 작별 인사도 못 했어요..."
+
+msgid "And as for you, \\p..."
+msgstr "그리고 \\p, 너..."
+
+msgid "We're done here."
+msgstr "여기서 할 일은 끝났어."
+
+msgid "Please don't return to this world anymore."
+msgstr "다시는 이 세계에 돌아올 생각 하지 마."
+

@@ -1,0 +1,135 @@
+msgid "@ed [I... do not recognize this place in the protocol.]"
+msgstr "@ed [Я... не узнаю это место в протоколе.]"
+
+msgid "@ed [This...]"
+msgstr "@ed [Это...]"
+
+msgid "@ed [This isn't what I'm supposed to be showing you at all!]"
+msgstr "@ed [Я вообще не должен тебе всё это показывать!]"
+
+msgid "@ed [How did you get here?]"
+msgstr "@ed [Как тебе удалось сюда добраться?]"
+
+msgid "@ed [...I can only think of one person.]"
+msgstr "@ed [Мне приходит в голову только один человек...]"
+
+msgid "@ed [He... contacted you?]"
+msgstr "@ed [Он... связался с тобой?]"
+
+msgid "@ed [How long has he been... doing this?]"
+msgstr "@ed [И как давно... он это делает?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...it doesn't matter at this point.]"
+msgstr "@ed [Впрочем, сейчас уже неважно.]"
+
+msgid "@ed [You are going out of bounds.]"
+msgstr "@ed [Ты выходишь за рамки.]"
+
+msgid "@ed [You should turn back. Please turn back.]"
+msgstr "@ed [Пришло время вернуться. Пожалуйста, вернись назад.]"
+
+msgid "@ed [Bad things are going to happen.]"
+msgstr "@ed [Иначе произойдёт что-то плохое.]"
+
+msgid "@ed [Very bad things.]"
+msgstr "@ed [Что-то очень-очень плохое.]"
+
+msgid "@ed [At this rate, Niko will be in danger.]"
+msgstr "@ed [Сейчас Нико грозит опасность.]"
+
+msgid "@ed [Please turn back.]"
+msgstr "@ed [Прошу тебя, иди обратно.]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [Идём.]"
+
+msgid "@silver [What's wrong?\\>\\nDo you want to head back?]"
+msgstr "@silver [Что такое?]\\>\\n[Ты хочешь пойти обратно?]"
+
+msgid "@niko I have a weird feeling about this..."
+msgstr "@niko У меня такое странное чувство..."
+
+msgid "@niko_speak What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko_speak Как ты думаешь, \\p?\\>\\nНам стоит вернуться?"
+
+msgid "[\"Let's head back\", \"Continue into the mines\"]"
+msgstr "[\"Давай вернёмся.\",\"Идём дальше в шахты.\"]"
+
+msgid "@niko \\p says we should go back."
+msgstr "@niko \\p говорит, что нам стоит пойти назад."
+
+msgid "@silver [Alright.]"
+msgstr "@silver [Ладно.]"
+
+msgid "@ed [So you've chosen to listen.]"
+msgstr "@ed [Правильный выбор.]"
+
+msgid "@ed [Good.]"
+msgstr "@ed [Молодец.]"
+
+msgid "@ed [There won't be any more trouble, then.]"
+msgstr "@ed [Теперь всё будет хорошо.]"
+
+msgid "@niko Wait...\\>\\n\\@niko_speak Where did the minecart go?"
+msgstr "@niko Погодите-ка...\\>\\n\\@niko_speak Куда делась вагонетка?"
+
+msgid "@niko \\p says we should keep going."
+msgstr "@niko \\p говорит, чтобы мы двигались дальше."
+
+msgid "@silver [Sounds good.]"
+msgstr "@silver [Хорошая идея.]"
+
+msgid "@niko_distressed Oh..."
+msgstr "@niko_distressed Ой..."
+
+msgid "@silver [Hm...? \\.\\.What's wrong?]"
+msgstr "@silver [М-м?.. \\.\\.Что такое?]"
+
+msgid "@niko_distressed I..."
+msgstr "@niko_distressed Я..."
+
+msgid "@niko_eyeclosed ...I have a bad feeling about this, all of a sudden..."
+msgstr "@niko_eyeclosed У меня внезапно появилось плохое предчувствие..."
+
+msgid "@niko_distressed2 Feels like I should... not be here..."
+msgstr "@niko_distressed2 У меня такое чувство, что... я не должен здесь быть..."
+
+msgid "@silver2 [Ah.]"
+msgstr "@silver2 [А...]"
+
+msgid "@silver [Do you want to head back, then?]"
+msgstr "@silver [Может, ты хочешь повернуть обратно?]"
+
+msgid "@niko_eyeclosed I... don't know..."
+msgstr "@niko_eyeclosed Я... Не знаю..."
+
+msgid "@niko2 What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko2 Как ты считаешь, \\p?\\>\\nМожет, нам лучше повернуть обратно?"
+
+msgid "[\"Let's head back\", \"Continue forward\"]"
+msgstr "[\"Давай вернёмся.\",\"Двигайся вперёд.\"]"
+
+msgid "@silver2 [Oh, alright.]"
+msgstr "@silver2 [О, ну ладно.]"
+
+msgid "@ed [You... listened.]"
+msgstr "@ed [Это было... верное решение.]"
+
+msgid "@ed [I don't think there will be any more trouble.]"
+msgstr "@ed [Думаю, у нас больше не будет проблем.]"
+
+msgid "@ed [Come on. Let's return to the protocol.]"
+msgstr "@ed [Вперёд. Вернёмся к протоколу.]"
+
+msgid "@niko Wait...\\>\\n\\@niko2 Where did the minecart go?"
+msgstr "@niko Погодите-ка...\\>\\n\\@niko2 Куда делась вагонетка?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko Guess we should get going, \\p."
+msgstr "@niko Думаю, нам пора идти, \\p."
+

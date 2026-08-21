@@ -1,0 +1,813 @@
+msgid "Nightmargin"
+msgstr "Nightmargin"
+
+msgid "Icewolf"
+msgstr "Icewolf"
+
+msgid "Bloomy"
+msgstr "Bloomy"
+
+msgid "Porting Support"
+msgstr "Soutien du portage"
+
+msgid "Functional Testing"
+msgstr "Testing de fonctionnalité"
+
+msgid "Kyne"
+msgstr "Kyne"
+
+msgid "Dunc Graham"
+msgstr "Dunc Graham"
+
+msgid "Mahmoud Khabatou"
+msgstr "Mahmoud Khabatou"
+
+msgid "Marshie"
+msgstr "Marshie"
+
+msgid "OutlanderSES"
+msgstr "OutlanderSES"
+
+msgid "PR & Marketing"
+msgstr "RP & marketing"
+
+msgid "Compliance Testing"
+msgstr "Testing de conformité"
+
+msgid "Eliza Velasquez"
+msgstr "Eliza Velasquez"
+
+msgid "Konasumi"
+msgstr "Konasumi"
+
+msgid "Jay Ruas"
+msgstr "Jay Ruas"
+
+msgid "Programming:"
+msgstr "Programmation :"
+
+msgid "letty"
+msgstr "letty"
+
+msgid "plasterbrain"
+msgstr "plasterbrain"
+
+msgid "Salvador Garcia"
+msgstr "Salvador Garcia"
+
+msgid "Edgar Rangel"
+msgstr "Edgar Rangel"
+
+msgid "Writing:"
+msgstr "Écriture :"
+
+msgid "Schmuckloaf"
+msgstr "Schmuckloaf"
+
+msgid "Guest Artists (Wallpapers):"
+msgstr "Artistes invités (fonds d'écran) :"
+
+msgid "Spanish Translation"
+msgstr "Traduction espagnol"
+
+msgid "Michael"
+msgstr "Michael"
+
+msgid "Justin Pfeiffer"
+msgstr "Justin Pfeiffer"
+
+msgid "Bryan Carranza"
+msgstr "Bryan Carranza"
+
+msgid "RManReeves"
+msgstr "RManReeves"
+
+msgid "Brazilian Portuguese Proofreading, LQA"
+msgstr "Révision portugais brésilien, LQA"
+
+msgid "Michael Shirt"
+msgstr "Michael Shirt"
+
+msgid "psychoTR2"
+msgstr "psychoTR2"
+
+msgid "Marina \"Sylladexter\" K"
+msgstr "Marina \"Sylladexter\" K"
+
+msgid "Jair Casillas"
+msgstr "Jair Casillas"
+
+msgid "wisty"
+msgstr "wisty"
+
+msgid "Streaming Producer"
+msgstr "Producteur de streaming"
+
+msgid "Graphics:"
+msgstr "Graphismes :"
+
+msgid "Divinuss"
+msgstr "Divinuss"
+
+msgid "Missusruin"
+msgstr "Missusruin"
+
+msgid "Writing (Friend Profiles):"
+msgstr "Écriture (profils des amis) :"
+
+msgid "Bookkeeping"
+msgstr "Comptabilité"
+
+msgid "Francisco Uzarraga"
+msgstr "Francisco Uzarraga"
+
+msgid "Felix"
+msgstr "Felix"
+
+msgid "Roadcrosser"
+msgstr "Roadcrosser"
+
+msgid "Saren Stone"
+msgstr "Saren Stone"
+
+msgid "Karina Peixe"
+msgstr "Karina Peixe"
+
+msgid "Producer (2016 release):"
+msgstr "Producteur (version 2016) :"
+
+msgid "Taeler Dixon"
+msgstr "Taeler Dixon"
+
+msgid "Chad Porter"
+msgstr "Chad Porter"
+
+msgid "Character Design:"
+msgstr "Conception des personnages :"
+
+msgid "PurpleAlmonds"
+msgstr "PurpleAlmonds"
+
+msgid "Temmie Chang"
+msgstr "Temmie Chang"
+
+msgid "Mark Conforti"
+msgstr "Mark Conforti"
+
+msgid "Penguin Contributors:"
+msgstr "Pingouins contributeurs"
+
+msgid "Anna Riko"
+msgstr "Anna Riko"
+
+msgid "Sebastian Herrera"
+msgstr "Sebastian Herrera"
+
+msgid "FelixTheJudge"
+msgstr "FelixTheJudge"
+
+msgid "@silver2 ...Messiah?"
+msgstr "@silver2 ... Messie ?"
+
+msgid "@niko_surprised ROBOT LADY!!!!"
+msgstr "@niko_surprised DAME-ROBOT !!!!"
+
+msgid "@niko_pancakes You're.... okay?"
+msgstr "@niko_pancakes Vous... allez bien ?"
+
+msgid "@silver2 [I... think so.]"
+msgstr "@silver2 [Je... crois.]"
+
+msgid "@silver_eyeclosed [The last thing I remember was the squares closing in on me...]"
+msgstr "@silver_eyeclosed [La dernière chose dont je me souviens c'est les carrés s'approchant de moi...]"
+
+msgid "@silver2 [But then, I....\\.\\. ended up here unscathed.]"
+msgstr "@silver2 [Et puis, je... \\.\\.me suis retrouvée ici, saine et sauve.]"
+
+msgid "@niko3 Is that so..."
+msgstr "@niko3 Vraiment..."
+
+msgid "@silver_lookup [...This is such a strange room.]"
+msgstr "@silver_lookup [... Quelle pièce étrange.]"
+
+msgid "@silver2 [We can't be...\\.\\. in the Tower, can we?]"
+msgstr "@silver2 [Nous ne sommes pas... \\.\\.dans la Tour, si ?]"
+
+msgid "@niko6 I'm actually not sure myself..."
+msgstr "@niko6 Je ne sais pas moi-même..."
+
+msgid "@silver2 [...where did YOU come from, anyway?]"
+msgstr "@silver2 [... Comment VOUS avez atterri ici?]"
+
+msgid "@niko2 The room where the World Machine was..."
+msgstr "@niko2 La pièce dans laquelle se trouvait la Machine-monde..."
+
+msgid "@silver2 [...pardon?]"
+msgstr "@silver2 [... Pardon ?]"
+
+msgid "@niko5 I... think the World Machine is trying to remember, now..."
+msgstr "@niko5 Je... crois que la Machine-monde essaie maintenant de se souvenir..."
+
+msgid "@niko4 The code that went bad...\\.\\.\\>\\n\\@niko2 I think it's restoring it all."
+msgstr "@niko4 Le code qui a dégénéré...\\.\\.\\>\\n\\@niko2 Je crois qu'elle restaure toute ces mémoires."
+
+msgid "@niko6 That must've been why the squares were going away, \\p..."
+msgstr "@niko6 Ce doit être pour cette raison que les carrés se sont enfuis, \\p..."
+
+msgid "@niko2 And... it's why you're here, miss!"
+msgstr "@niko2 Et... c'est pour cette raison que vous êtes ici, madame !"
+
+msgid "@niko_speak I think the World Machine was able to recover your code, too...!"
+msgstr "@niko_speak Je crois que la Machine-monde a aussi récupéré votre code... !"
+
+msgid "@silver2 [World... Machine, huh...]"
+msgstr "@silver2 [La Machine... monde, hein...]"
+
+msgid "@niko2 Oh... I'm not sure if I should tell you this, but..."
+msgstr "@niko2 Oh... je ne sais pas si je devrais vous le dire, mais..."
+
+msgid "@silver2 [...What's that in the distance?]"
+msgstr "@silver2 [... Qu'y-a-t-il au loin ?]"
+
+msgid "@silver [It... looks like a few more people are showing up.]"
+msgstr "@silver [On... dirait que d'autres personnes approchent.]"
+
+msgid "@niko_pancakes Oh!!!"
+msgstr "@niko_pancakes Oh !!!"
+
+msgid "@silver2 [Are they... people you know?]"
+msgstr "@silver2 [Seraient-ce des... des gens que vous connaissez ?]"
+
+msgid "@niko It's... \\.\\.a bit too far to tell."
+msgstr "@niko Ils... \\.\\.sont trop loin pour le dire."
+
+msgid "@niko_speak Come on, \\p, let's go take a closer look!"
+msgstr "@niko_speak Venez, \\p, allons voir de plus près !"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME DO NOT WORRY.]"
+msgstr "@rowbot [L'INGÉNIEUR EN CHEF PEUT M'AIDER, NE VOUS EN FAITES PAS.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Très bien..."
+
+msgid "@rowbot [HELLO.]"
+msgstr "@rowbot [BONJOUR.]"
+
+msgid "@niko Hi!"
+msgstr "@niko Bonjour !"
+
+msgid "@rowbot [I...\\.\\. CANNOT MOVE.]"
+msgstr "@rowbot [JE...\\.\\. NE PEUX PAS BOUGER.]"
+
+msgid "@niko2 Oh, yeah..."
+msgstr "@niko2 Ah, oui..."
+
+msgid "@niko_eyeclosed I guess there's no water here..."
+msgstr "@niko_eyeclosed J'imagine qu'il n'y a pas d'eau ici..."
+
+msgid "@rowbot [IT'S FINE.]"
+msgstr "@rowbot [CE N'EST RIEN.]"
+
+msgid "@rowbot [THE HEAD ENGINEER CAN HELP ME LATER.]"
+msgstr "@rowbot [L'INGÉNIEUR EN CHEF POURRA M'AIDER PLUS TARD.]"
+
+msgid "@green_gatekeeper [Off you go, messiah...]"
+msgstr "@green_gatekeeper [Allez-vous-en, messie...]"
+
+msgid "@red_gatekeeper [Off you go, messiah...]"
+msgstr "@red_gatekeeper [Allez-vous-en, messie...]"
+
+msgid "@alula_pout I guess... you're leaving us now?"
+msgstr "@alula_pout J'imagine que... tu vas t'en aller maintenant ?"
+
+msgid "@calamus_smile We're glad we met you, Niko!"
+msgstr "@calamus_smile On est ravis d'avoir fait ta connaissance, Niko !"
+
+msgid "@niko_speak Same!"
+msgstr "@niko_speak Pareillement !"
+
+msgid "@alula_gasp Niko!!"
+msgstr "@alula_gasp Niko !!"
+
+msgid "@alula_gasp You're okay too!"
+msgstr "@alula_gasp Tu vas bien !"
+
+msgid "@niko2 Did you guys just get here?"
+msgstr "@niko2 Vous venez juste d'arriver ?"
+
+msgid "@calamus I... think so?"
+msgstr "@calamus Je... crois que oui."
+
+msgid "@calamus_sad The squares started multiplying around the island after you guys left..."
+msgstr "@calamus_sad Après votre départ, les carrés ont commencé à se démultiplier sur l'île..."
+
+msgid "@alula_oh It was so freaky!"
+msgstr "@alula_oh C'était effrayant !"
+
+msgid "@alula_oh I fell right into a bunch of em!"
+msgstr "@alula_oh Je suis tombée en plein dedans !"
+
+msgid "@alula_oh Calamus tried to save me, and then..."
+msgstr "@alula_oh Calamus a essayé de me sauver, et puis..."
+
+msgid "@calamus We... both ended up in this room."
+msgstr "@calamus Nous... avons tous les deux atterris dans cette pièce."
+
+msgid "@calamus_heh Biggest scare of my life, for sure..."
+msgstr "@calamus_heh J'ai eu la frayeur de ma vie, c'est certain..."
+
+msgid "@niko2 Ooh..."
+msgstr "@niko2 Oh..."
+
+msgid "@calamus Say, what is this place?"
+msgstr "@calamus Dites, on est où ?"
+
+msgid "@alula_gasp Are we in limboooooo?"
+msgstr "@alula_gasp Est-ce qu'on est dans les liiiiiiimbes ?"
+
+msgid "@calamus_heh Alula! \\>We're not dead!"
+msgstr "@calamus_heh Alula ! \\>Nous ne sommes pas morts !"
+
+msgid "@calamus_shame ...wait, \\.\\.are we?"
+msgstr "@calamus_shame ... Pas vrai, \\.\\.hein ?"
+
+msgid "@niko_speak No no, you're fine!"
+msgstr "@niko_speak Non non, vous allez bien !"
+
+msgid "@niko Everyone in this room is fine!"
+msgstr "@niko Tout le monde dans la pièce va bien !"
+
+msgid "@niko_speak You'll be able to go back home soon..."
+msgstr "@niko_speak Vous pourrez bientôt rentrez chez vous..."
+
+msgid "@alula_gasp That's even better than limbo!"
+msgstr "@alula_gasp C'est encore mieux que les limbes !"
+
+msgid "@niko_what Good...\\.\\. \\>\\@niko_what2 question."
+msgstr "@niko_what Bonne... \\.\\.\\>\\@niko_what2 question."
+
+msgid "@niko6 (hey \\p are they gonna be okay?)"
+msgstr "@niko6 (Hé, \\p, ça va aller pour eux ?)"
+
+msgid "[\"They're fine, Niko.\"]"
+msgstr "[\"Ils vont bien, Niko.\"]"
+
+msgid "[\"Everyone is fine.\"]"
+msgstr "[\"Tout le monde va bien.\"]"
+
+msgid "[\"The World Machine...\"]"
+msgstr "[\"La Machine-monde...\"]"
+
+msgid "[\"...will send them home soon.\"]"
+msgstr "[\"... les renverra bientôt chez eux.\"]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh !"
+
+msgid "@niko_speak Well, \\p says you're not dead!"
+msgstr "@niko_speak Bon, \\p dit que vous n'êtes pas morts !"
+
+msgid "@calamus_sad Phew."
+msgstr "@calamus_sad Pfiou."
+
+msgid "@niko They also said you'll be able to go back to your home very soon!"
+msgstr "@niko Vous pourrez bientôt rentrez chez vous !"
+
+msgid "T.C."
+msgstr "T.C."
+
+msgid "Spanish Proofreader"
+msgstr "Révision espagnol"
+
+msgid "2016 Build Testers:"
+msgstr "Équipe de test 2016"
+
+msgid "@silver [Off you go, now...]"
+msgstr "@silver [Tu peux y aller, maintenant...]"
+
+msgid "@niko So, um... \\>\\@niko5 You..."
+msgstr "@niko Donc, euh... \\>\\@niko5 Vous..."
+
+msgid "@silver [Silver.]"
+msgstr "@silver [Silver.]"
+
+msgid "@silver_eyeclosed [I don't believe I've ever actually properly introduced myself.\\>\\nSorry for that.]"
+msgstr "@silver_eyeclosed [Je ne crois pas m'être présentée correctement.\\>\\nPardon pour cela.]"
+
+msgid "@niko It's fine!"
+msgstr "@niko Ce n'est pas grave !"
+
+msgid "@niko_speak I'm Niko, by the way!"
+msgstr "@niko_speak Moi, je m'appelle Niko !"
+
+msgid "@niko_83c It's... \\.\\.nice to meet you?"
+msgstr "@niko_83c C'est... \\.\\.un plaisir de vous rencontrer ?"
+
+msgid "@silver [Nice to meet you, too.]"
+msgstr "@silver [Tout le plaisir est pour moi.]"
+
+msgid "Matthew Martinez"
+msgstr "Matthew Martinez"
+
+msgid "OneShot Console Version Translations"
+msgstr "OneShot traductions pour console"
+
+msgid "Maize and George's designs:"
+msgstr "Dessins de Maize et George :"
+
+msgid "Albatrosssoup"
+msgstr "Albatrosssoup"
+
+msgid "Ame"
+msgstr "Ame"
+
+msgid "Luc"
+msgstr "Luc"
+
+msgid "Japanese Translation, LQA"
+msgstr "Traduction japonais, LQA"
+
+msgid "Jason Black"
+msgstr "Jason Black"
+
+msgid "@proto2 [...]"
+msgstr "@proto2 [...]"
+
+msgid "@proto2b [Thank you for everything, Niko.]"
+msgstr "@proto2b [Merci pour tout, Niko.]"
+
+msgid "@niko_speak So... do you like being a robot?"
+msgstr "@niko_speak Est-ce que... vous aimez être un robot ?"
+
+msgid "@proto1 [Um.]"
+msgstr "@proto1 [Hum.]"
+
+msgid "@proto2 [Why this, all of a sudden?]"
+msgstr "@proto2 [Pourquoi cette question si soudaine ?]"
+
+msgid "@niko2 Well, I'm gonna leave soon, so I just wanted to ask one more question!"
+msgstr "@niko2 Eh bien, je vais bientôt m'en aller, alors je voulais vous poser une dernière question !"
+
+msgid "@niko_eyeclosed There aren't many robots in my home world..."
+msgstr "@niko_eyeclosed Il n'y a pas beaucoup de robots dans mon monde..."
+
+msgid "@proto2 [Ah.]"
+msgstr "@proto2 [Ah.]"
+
+msgid "@proto2b [It's... nice.]"
+msgstr "@proto2b [C'est... bien.]"
+
+msgid "@cedric_smile I suppose it's alright!"
+msgstr "@cedric_smile J'imagine que c'est pas mal !"
+
+msgid "@rue_smile Haha, that's a tough question, Niko!"
+msgstr "@rue_smile Haha, ce n'est pas une question facile, Niko !"
+
+msgid "@rue_smile I mean...\\.\\. do you like being a person?"
+msgstr "@rue_smile Et toi... \\.\\.ça te plaît d'être une personne ?"
+
+msgid "@niko_speak Of course!"
+msgstr "@niko_speak Bien sûr !"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko_what Wait.\\>\\nWhy did you two answer my robot question too?"
+msgstr "@niko_what Attendez.\\>\\nPourquoi vous répondez tous les deux à ma question de robot ?"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ..."
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ..."
+
+msgid "@rue_smile Don't worry about it!"
+msgstr "@rue_smile Ne t'en fais pas pour ça !"
+
+msgid "@proto2 [...In the end, the World Machine was starting to create its own code.]"
+msgstr "@proto2 [... À la fin, la Machine-monde commençait à écrire son propre code.]"
+
+msgid "@proto1c [Going above and beyond its programming, not as the result of error, but as a conscious choice on the part of the machine...]"
+msgstr "@proto1c [Outrepassant sa programmation, non pas à cause d'une erreur, mais car elle avait fait un choix conscient...]"
+
+msgid "@proto1b [...Being able to generate its own path forward.]"
+msgstr "@proto1b [... Capable de tracer son propre destin.]"
+
+msgid "@proto2b [That's...\\.\\. what being tamed is all about.]"
+msgstr "@proto2b [C'est... \\.\\.l'essence même de l'apprivoisement.]"
+
+msgid "@cedric_smile I couldn't have said it better myself."
+msgstr "@cedric_smile Je n'aurais pas dit mieux."
+
+msgid "Alexander McCaskey"
+msgstr "Alexander McCaskey"
+
+msgid "French Translation"
+msgstr "Traduction français"
+
+msgid "Stanhoff"
+msgstr "Stanhoff"
+
+msgid "DANGEN Entertainment"
+msgstr "DANGEN Entertainment"
+
+msgid "@maize_smile2 Off you go, now..."
+msgstr "@maize_smile2 Tu peux y aller, maintenant..."
+
+msgid "@maize_smile2 Hello, messiah..."
+msgstr "@maize_smile2 Bonjour, messie..."
+
+msgid "@niko_shock ...Plant lady? But I thought you..."
+msgstr "@niko_shock ... Dame-plante ? Mais je croyais que..."
+
+msgid "@niko_distressed2 I thought you..."
+msgstr "@niko_distressed2 Je pensais que..."
+
+msgid "@niko_eyeclosed It wasn't even squares that did it..."
+msgstr "@niko_eyeclosed Ce n'était même pas les carrés les responsables..."
+
+msgid "@maize ....."
+msgstr "@maize ..."
+
+msgid "@maize_smile2 .....no."
+msgstr "@maize_smile2 ... Non."
+
+msgid "@maize_smile2 I just...\\.\\. wanted to see you both again."
+msgstr "@maize_smile2 Je voulais simplement...\\.\\. vous revoir tous les deux."
+
+msgid "@maize_smile2 I just wanted to say... \\.\\.thank you..."
+msgstr "@maize_smile2 Je voulais simplement... \\.\\.vous remercier..."
+
+msgid "Korean Translation"
+msgstr "Traduction coréen"
+
+msgid "SinNoAria"
+msgstr "SinNoAria"
+
+msgid "CEO"
+msgstr "PDG"
+
+msgid "Sakura Yamaguchi"
+msgstr "Sakura Yamaguchi"
+
+msgid "Soundtrack:"
+msgstr "Bande originale :"
+
+msgid "Kitsiinabox"
+msgstr "Kitsiinabox"
+
+msgid "Systems Programming:"
+msgstr "Programmation des systèmes :"
+
+msgid "Omer Oztas"
+msgstr "Omer Oztas"
+
+msgid "COO"
+msgstr "DG"
+
+msgid "Spanish LQA"
+msgstr "LQA espagnol"
+
+msgid "DolphinsAreEvil"
+msgstr "DolphinsAreEvil"
+
+msgid "Special Thanks:"
+msgstr "Remerciements spéciaux :"
+
+msgid "So-jung Jung"
+msgstr "So-jung Jung"
+
+msgid "Max Harvey"
+msgstr "Max Harvey"
+
+msgid "Additional tracks:"
+msgstr "Pistes supplémentaires :"
+
+msgid "Japanese Proofreading"
+msgstr "Révision japonais"
+
+msgid "TangyOranges"
+msgstr "TangyOranges"
+
+msgid "French Proofreader"
+msgstr "Révision françias"
+
+msgid "Redoplus"
+msgstr "Redoplus"
+
+msgid "Dan Stern"
+msgstr "Dan Stern"
+
+msgid "ZeroGuilt"
+msgstr "ZeroGuilt"
+
+msgid "Korean Proofreading, LQA"
+msgstr "Révision coréen, LQA"
+
+msgid "Saniblues"
+msgstr "Saniblues"
+
+msgid "@cedric_talk \\p.... Niko...."
+msgstr "@cedric_talk \\p... Niko..."
+
+msgid "@cedric_smile We are forever in your debt."
+msgstr "@cedric_smile Nous te sommes éternellement redevables."
+
+msgid "@niko_speak I'm glad we could help!"
+msgstr "@niko_speak C'est un plaisir d'avoir pu vous aider !"
+
+msgid "@cedric_smile Looks like you managed to do it!"
+msgstr "@cedric_smile On dirait que tu as réussi !"
+
+msgid "@rue_smile You managed to tame the World Machine, Niko!"
+msgstr "@rue_smile Tu as réussi à apprivoiser la Machine-monde, Niko !"
+
+msgid "@niko2 I... feel like the World Machine has been tamed this whole time."
+msgstr "@niko2 J'ai... l'impression que la Machine-monde était déjà apprivoisée depuis tout ce temps."
+
+msgid "@niko6 ...Just by \\p and I being here."
+msgstr "@niko6 ... Simplement par notre présence, à \\p et moi."
+
+msgid "@niko_eyeclosed We... did spend a lot of time here, after all."
+msgstr "@niko_eyeclosed Après tout, nous... avons passé pas mal de temps ici."
+
+msgid "@niko2 Both of us...\\.\\. never really stopped believing in this world."
+msgstr "@niko2 Nous deux, nous n'avons... \\.\\.jamais vraiment arrêté de croire en ce monde."
+
+msgid "@niko_eyeclosed The World Machine just needed to realize that, I guess..."
+msgstr "@niko_eyeclosed Je suppose que la Machine-monde avait simplement besoin de le comprendre..."
+
+msgid "@rue That... \\>\\@rue_talk Sounds like a possibility..."
+msgstr "@rue C'est... \\>\\@rue_talk possibe..."
+
+msgid "@proto2b [...or not.]"
+msgstr "@proto2b [... Ou pas.]"
+
+msgid "@niko_eyeclosed Well, just throwing that idea out there!"
+msgstr "@niko_eyeclosed Bah, ce n'était qu'une suggestion !"
+
+msgid "Console build Testers:"
+msgstr "Équipe de test pour consoles :"
+
+msgid "Yoshiki Kono"
+msgstr "Yoshiki Kono"
+
+msgid "Developer Relations"
+msgstr "Relations developpeur"
+
+msgid "Mraof"
+msgstr "Mraof"
+
+msgid "Mohamed Khabatou"
+msgstr "Mohamed Khabatou"
+
+msgid "Noxid"
+msgstr "Noxid"
+
+msgid "@plight_2 Off you go, I guess...."
+msgstr "@plight_2 Tu peux t'en aller, j'imagine..."
+
+msgid "@plight_shock It's you!"
+msgstr "@plight_shock Te voilà !"
+
+msgid "@plight_sigh Glad to see you in one piece..."
+msgstr "@plight_sigh Content de te voir en un seul morceau..."
+
+msgid "@niko_speak Glad to see you're ok, too!\\>\\n\\@niko5 After the whole elevator thing."
+msgstr "@niko_speak Je suis content de voir que vous allez bien, vous aussi !\\>\\n\\@niko5 Après ce qui s'est passé dans l'ascenseur."
+
+msgid "@plight_worry That was uh...\\>\\nThat was the most awkward elevator ride I've been through."
+msgstr "@plight_worry C'était, euh... \\>\\nC'était le voyage en ascenseur le plus gênant de toute ma vie."
+
+msgid "@plight_why ...and by \"awkward\" I mean terrible bad awful the absolute worst."
+msgstr "@plight_why ... Et par « gênant », j'entends bien sûr horriblement atroce, le pire de tous les temps."
+
+msgid "@plight_worry The squares like, started leaking into the room, right?"
+msgstr "@plight_worry Les carrés ont commencé à s'infiltrer à l'intérieur."
+
+msgid "@plight_worry2 And I was trapped like a rat."
+msgstr "@plight_worry2 J'étais fait comme un rat."
+
+msgid "@plight_worry And they just kept filling in the room faster, right..."
+msgstr "@plight_worry Et ils remplissaient la pièce, de plus en plus vite..."
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry ..."
+
+msgid "@plight_wtf ...AM I DEAD!?"
+msgstr "@plight_wtf ... SUIS-JE MORT !?"
+
+msgid "@plight_sigh Oh thank goodness gracious."
+msgstr "@plight_sigh Oh, Dieu merci."
+
+msgid "@plight_worry I can't work when I'm dead!"
+msgstr "@plight_worry Je ne peux pas travailler en étant mort !"
+
+msgid "@niko6 (...\\p, IS he?)"
+msgstr "@niko6 (... \\p, c'est VRAI ?)"
+
+msgid "[\"He's fine, Niko\"]"
+msgstr "[\"Il va bien, Niko.\"]"
+
+msgid "[\"Everyone here is fine.\"]"
+msgstr "[\"Tout le monde va bien.\"]"
+
+msgid "@niko They said you'll be able to go back to your home very soon!"
+msgstr "@niko Et a dit que vous pourrez bientôt rentrez chez vous !"
+
+msgid "Robin \"Rezllen\" Crew"
+msgstr "Robin \"Rezllen\" Crew"
+
+msgid "Localization Manager"
+msgstr "Gestionnaire de la traduction"
+
+msgid "Story (Mechanics Concept):"
+msgstr "Histoire (conception des mécaniques) :"
+
+msgid "Nekkowe"
+msgstr "Nekkowe"
+
+msgid "Paul Kim"
+msgstr "Paul Kim"
+
+msgid "Gaming Quality Works"
+msgstr "Gaming Quality Works"
+
+msgid "Seo-Mi Ha"
+msgstr "Seo-Mi Ha"
+
+msgid "Sauraen"
+msgstr "Sauraen"
+
+msgid "@rue_smile Thank you for everything, Niko."
+msgstr "@rue_smile Merci pour tout, Niko."
+
+msgid "@rue_sad We'll miss you."
+msgstr "@rue_sad Tu vas nous manquer."
+
+msgid "@rue This path leads to the summit of the tower."
+msgstr "@rue Ce chemin mène au sommet de la Tour."
+
+msgid "@rue You... \\.\\.already know what to expect, right?"
+msgstr "@rue Tu... \\.\\.sais déjà ce qui t'attend, hein ?"
+
+msgid "@niko Mhm..."
+msgstr "@niko Hmm..."
+
+msgid "@niko2 It's the glass room, right?"
+msgstr "@niko2 La salle en verre, c'est bien ça ?"
+
+msgid "@rue_smile That's it!"
+msgstr "@rue_smile C'est ça !"
+
+msgid "@rue You can go through this portal when you are ready."
+msgstr "@rue Tu peux traverser ce portail dès que tu le souhaites."
+
+msgid "@rue Goodbye, Niko."
+msgstr "@rue Adieu, Niko."
+
+msgid "Hiino"
+msgstr "Hiino"
+
+msgid "Carrick Lomas"
+msgstr "Carrick Lomas"
+
+msgid "M3ltd0wn"
+msgstr "M3ltd0wn"
+
+msgid "Thank you for playing."
+msgstr "Merci d'avoir joué."
+
+msgid "QA Manager"
+msgstr "Gestionnaire d'assurance qualité"
+
+msgid "French LQA"
+msgstr "LQA français "
+
+msgid "Kalkie"
+msgstr "Kalkie"
+
+msgid "Laurie DeNicola"
+msgstr "Laurie DeNicola"
+
+msgid "Dan Luffey"
+msgstr "Dan Luffey"
+
+msgid "Story and Worldbuilding:"
+msgstr "Conception du monde :"
+
+msgid "Solstice Testers:"
+msgstr "Testeurs Solstice :"
+
+msgid "Cyzoran"
+msgstr "Cyzoran"
+
+msgid "Brazilian Portuguese Translation"
+msgstr "Traduction portugais brésilien"
+
+msgid "Testers of Original OneShot:"
+msgstr "Testeurs du OneShot original :"
+
+msgid "durrbill"
+msgstr "durrbill"
+

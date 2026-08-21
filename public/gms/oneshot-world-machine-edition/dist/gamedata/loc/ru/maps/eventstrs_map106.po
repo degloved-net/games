@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$Это поможет вам перейти на один цвет за раз! - Управление"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$Это также поможет вам записать предыдущие попытки. - Управление"
+
+msgid "[BEEP BOOP]"
+msgstr "[БИП-БУП]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[ЭТО КОМНАТА ПЕЧАТИ, ГДЕ СОЗДАЮТСЯ ДЕТАЛИ МАШИН.]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[И РОБОТОВ.]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$Если ничего не получается, подождите, пока головоломка сбросится."
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$Может быть, в следующий раз вам достанется задача полегче..."
+

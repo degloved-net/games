@@ -1,0 +1,15 @@
+msgid "@niko It's a staff."
+msgstr "@niko É um cajado."
+
+msgid "@niko_speak Reminds me of the one that robot from the Barrens was holding!"
+msgstr "@niko_speak Isso me lembra daquele que o robô das Terras Áridas carregava!"
+
+msgid "@niko_speak It's an orb! \\>\\@niko The material looks like amber."
+msgstr "@niko_speak É um orbe! \\>\\@niko Parece ser feito de âmbar."
+
+msgid "@niko Some kind of cloak or shawl, folded neatly."
+msgstr "@niko Um manto ou xale muito bem dobrado."
+
+msgid "@niko A pair of shoes and some jewelry."
+msgstr "@niko Um par de sapatos e algumas joias."
+

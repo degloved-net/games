@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /maps/eventstrs_map222.po\n"
+"X-Crowdin-File-ID: 31\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-07-09 15:32\n"
+
+msgid "@niko It looks like Proto is in the purple portal now.\\>\\n...\\>\\@niko_83c Proto in the purple portal."
+msgstr "@niko Sembra che adesso Proto sia nel portale viola.\\>\\n...\\>\\@niko_83c Proto nel portale viola."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows blue."
+msgstr "@niko Una strana luce quadrata nel pavimento.\\>\\nÈ di colore blu."
+
+msgid "@proto2 [This one would be configured to my code.]"
+msgstr "@proto2 [Questo dovrebbe essere configurato per il mio codice.]"
+
+msgid "@proto_eyeclosed [Having never done this before...\\>\\n\\@proto2b I can't help but feel a bit uneasy.]"
+msgstr "@proto_eyeclosed [Non avendolo mai fatto prima... \\>\\n\\@proto2b Non posso fare a meno di sentirmi un po' a disagio.]"
+
+msgid "@niko_eyeclosed I'm a little nervous too, to be honest..."
+msgstr "@niko_eyeclosed Anch'io sono un po' nervoso, ad essere onesto..."
+
+msgid "@proto1b [Misery loves company, I suppose.\\>\\n\\@proto1c Or in this case, anxiety.]"
+msgstr "@proto1b [Mal comune mezzo gaudio, direi.\\>\\n\\@proto1c O mezza ansia, in questo caso.]"
+
+msgid "@niko Is that Cedric?\\>\\nHe looks... different."
+msgstr "@niko Ma è Cedric?\\>\\nSembra... diverso."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows green."
+msgstr "@niko Una strana luce quadrata nel pavimento.\\>\\nÈ di colore verde."
+
+msgid "@cedric_hmm This one is configured to my code, I think."
+msgstr "@cedric_hmm Questo è configurato per il mio codice, penso."
+
+msgid "@cedric_hmm To be honest, I AM somewhat curious to see what's on the other side of these things."
+msgstr "@cedric_hmm Ad essere onesto, SONO in qualche modo curioso di sapere cosa c'è oltre queste cose."
+
+msgid "@niko2 Wait, do you... not know?"
+msgstr "@niko2 Aspetta, tu... non lo sai?"
+
+msgid "@cedric_hmm Nope!\\> This is the first time I've even seen them in person."
+msgstr "@cedric_hmm No!\\> Questa è la prima volta che le vedo di persona."
+
+msgid "@niko I think this one is Rue."
+msgstr "@niko Penso che questa sia Rue."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows red."
+msgstr "@niko Una strana luce quadrata nel pavimento.\\>\\nÈ di colore rosso."
+
+msgid "@rue_talk This one is meant for me, then."
+msgstr "@rue_talk Questo è per me, allora."
+
+msgid "@rue We have faith in you, Niko and \\p.\\>\\n\\@rue_smile Just do the best you can."
+msgstr "@rue Crediamo in voi, Niko e \\p.\\>\\n\\@rue_smile Fate del vostro meglio."
+
+msgid "@niko_eyeclosed Thank you..."
+msgstr "@niko_eyeclosed Grazie..."
+
+msgid "@niko_eyeclosed The squares are here too now..."
+msgstr "@niko_eyeclosed I quadrati sono arrivati anche qui..."
+
+msgid "@niko This elevator won't open."
+msgstr "@niko Questo ascensore non si vuole aprire."
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko Sembra bloccato su un altro piano..."
+
+msgid "@niko_eyeclosed There's squares here too, now..."
+msgstr "@niko_eyeclosed Ci sono quadrati anche qui..."
+
+msgid "@niko We need to find a way to reach that lever up there."
+msgstr "@niko Dobbiamo trovare un modo per raggiungere quella leva lì sopra."
+
+msgid "@niko6 We might need a grownup for this..."
+msgstr "@niko6 Potremmo aver bisogno di un adulto per questo..."
+
+msgid "@niko This elevator has no button panel."
+msgstr "@niko Questo ascensore non ha la pulsantiera."
+
+msgid "@niko Tapping the door doesn't open it either, hmm..."
+msgstr "@niko Non si apre nemmeno toccando la porta, mh..."
+
+msgid "@niko_eyeclosed That usually works..."
+msgstr "@niko_eyeclosed Di solito funziona..."
+
+msgid "@niko6 Wait..."
+msgstr "@niko6 Aspetta..."
+
+msgid "@niko_speak There's a lever hanging from the ceiling!"
+msgstr "@niko_speak C'è una leva che pende dal soffitto!"
+
+msgid "@niko_eyeclosed ...can't reach it."
+msgstr "@niko_eyeclosed ...Non riesco a raggiungerla."
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ..."
+
+msgid "@rue Where...\\.\\. are the other two?"
+msgstr "@rue Dove...\\.\\. sono gli altri due?"
+
+msgid "@rue Prototype? Cedric?"
+msgstr "@rue Prototipo? Cedric?"
+
+msgid "@rue_sad They're supposed to be here already..."
+msgstr "@rue_sad Sarebbero dovuti essere già qui..."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed2 They..."
+msgstr "@niko_distressed2 Loro..."
+
+msgid "@niko_eyeclosed Prototype's body was destroyed back in the Barrens."
+msgstr "@niko_eyeclosed Il corpo di Prototipo è stato distrutto alla Baia Desolata."
+
+msgid "@rue_oh ..."
+msgstr "@rue_oh ..."
+
+msgid "@niko_eyeclosed Cedric was going to bring him back with the memory disk, but..."
+msgstr "@niko_eyeclosed Cedric stava per riportarlo in vita con l'unità di memoria, ma..."
+
+msgid "@niko_distressed2 He was in the lab complex when it collapsed..."
+msgstr "@niko_distressed2 Era nel laboratorio quando è crollato tutto..."
+
+msgid "@niko_distressed I... \\.\\.don't think he made it..."
+msgstr "@niko_distressed E... \\.\\.non penso ce l'abbia fatta..."
+
+msgid "@rue_oh Oh.."
+msgstr "@rue_oh Oh..."
+
+msgid "@rue_sad No..."
+msgstr "@rue_sad No..."
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ..."
+
+msgid "@rue_sad There goes our only chance..."
+msgstr "@rue_sad Addio alla nostra unica possibilità..."
+
+msgid "@niko_upset2 I... \\.\\.I'm sorry..."
+msgstr "@niko_upset2 Mi... \\.\\.Mi dispiace..."
+
+msgid "@rue_sigh It's not your fault, Niko..."
+msgstr "@rue_sigh Non è colpa tua, Niko..."
+
+msgid "@rue_sad If anything... \\.\\.I should be apologizing to you."
+msgstr "@rue_sad Piuttosto... \\.\\.dovrei essere io a scusarmi con te."
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ..."
+
+msgid "@rue ...There's..."
+msgstr "@rue ...Ci sarebbe..."
+
+msgid "@rue One last thing I want to do."
+msgstr "@rue Un'ultima cosa che vorrei fare."
+
+msgid "@rue_talk Come on, let's go upstairs."
+msgstr "@rue_talk Forza, andiamo di sopra."
+
+msgid "@cedric_talk Oh...\\.\\. this is..."
+msgstr "@cedric_talk Oh...\\.\\. Ma è..."
+
+msgid "@proto1 [...no wonder he wanted us to all be here for this.]"
+msgstr "@proto1 [...Non c'è da stupirsi che ci volesse tutti qui.]"
+
+msgid "@niko2 Um... what are these things, anyway?"
+msgstr "@niko2 Ehm... Ma... cosa sono questi?"
+
+msgid "@proto2 [Code portals.]"
+msgstr "@proto2 [Portali di codice.]"
+
+msgid "@proto1c [They... \\.\\.temporarily remove us from the world.]"
+msgstr "@proto1c [Servono... \\.\\.a rimuoverci temporaneamente da questo mondo.]"
+
+msgid "@niko2 ....what?"
+msgstr "@niko2 ...Cosa?"
+
+msgid "@cedric_hmm It's... a bit hard to explain..."
+msgstr "@cedric_hmm È... un po' difficile da spiegare..."
+
+msgid "@cedric2 But... basically, my father has hidden a decryption key in our code, with a .txt file as its shell..."
+msgstr "@cedric2 Ma... in pratica, mio padre ha nascosto una chiave di decodifica nel nostro codice, con un file .txt a farle da involucro..."
+
+msgid "@proto2 [...But to get to them, we have to be removed from the world and decompiled.]"
+msgstr "@proto2 [...Ma, per trovarla, dobbiamo essere rimossi dal mondo e decompilati.]"
+
+msgid "@proto2b [...When our keys are combined into a central location, it will activate an encrypted part of this world, which will...]"
+msgstr "@proto2b [...Quando le nostre chiavi saranno riunite in una locazione centrale, si attiverà una parte criptata di questo mondo, che poi sarà...]"
+
+msgid "@niko_what *confused cat noises*"
+msgstr "@niko_what *suoni di gatto confuso*"
+
+msgid "@proto_eyeclosed [...]"
+msgstr "@proto_eyeclosed [...]"
+
+msgid "@proto2b [...Rue, maybe it's better if you explain.]"
+msgstr "@proto2b [...Rue, forse è meglio se glielo spieghi tu.]"
+
+msgid "@rue_sigh I'll attempt."
+msgstr "@rue_sigh Ci proverò."
+
+msgid "@rue Basically... these portals all represent a physical location on \\p's machine."
+msgstr "@rue In sostanza... ognuno di questi portali rappresenta un luogo fisico nella macchina di \\p."
+
+msgid "@niko2 ...oooh."
+msgstr "@niko2 ...Oooh."
+
+msgid "@rue_talk And... when we enter these portals, we will be sent to that location..."
+msgstr "@rue_talk E... quando entreremo in questi portali, verremo portati in quel luogo..."
+
+msgid "@proto2 [...Wherever that is.]"
+msgstr "@proto2 [...Ovunque esso sia.]"
+
+msgid "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their computer."
+msgstr "@rue Sono... sicura che \\p ormai abbia fatto il callo a recuperare parti dei puzzle di questo mondo sul proprio computer."
+
+msgid "@rue_talk ...But this time, \\p would need to move around some things, as well."
+msgstr "@rue_talk ...Ma questa volta, \\p dovrà anche fare qualche spostamento."
+
+msgid "@cedric_talk ...specifically, by moving the keys from the small portal to the big one."
+msgstr "@cedric_talk ...Nello specifico, dovrà spostare le chiavi dal portale piccolo a quello grande."
+
+msgid "@cedric_hmm I... don't know what happens next, though."
+msgstr "@cedric_hmm Però... non so cosa succederà dopo."
+
+msgid "@niko I see..."
+msgstr "@niko Capisco..."
+
+msgid "@niko_speak Does \\p know where these portals lead, at least?"
+msgstr "@niko_speak Almeno \\p lo sa dove conducono questi portali?"
+
+msgid "@rue You should probably ask \\p on this..."
+msgstr "@rue Dovresti chiederlo a \\p..."
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed Oh, giusto."
+
+msgid "@niko2 ...Hold on."
+msgstr "@niko2 ...Un momento."
+
+msgid "@niko6 The journal is glowing again, \\p..."
+msgstr "@niko6 Il diario si è illuminato di nuovo, \\p..."
+
+msgid "@niko A big rectangle-light on the floor.\\>\\nIt glows purple."
+msgstr "@niko Una grande luce rettangola nel pavimento.\\>\\nÈ di colore viola."
+
+msgid "@niko_eyeclosed The lever won't do much for us now, \\p..."
+msgstr "@niko_eyeclosed La leva non ci servirà adesso, \\p..."
+
+msgid "@niko There's a lever hanging from the ceiling..."
+msgstr "@niko C'è una leva che pende dal soffitto..."
+
+msgid "@niko_speak We should find someone tall to reach it for us, \\p!"
+msgstr "@niko_speak \\p, dovremmo trovare qualcuno di abbastanza alto che la tiri al posto nostro!"
+
+msgid "@plight_worry ...This room gives me the creeps, man..."
+msgstr "@plight_worry ...Questa stanza mi mette i brividi, amico..."
+
+msgid "@niko_speak Oh, same!"
+msgstr "@niko_speak Anche a me!"
+
+msgid "@plight_worry ....yup."
+msgstr "@plight_worry ...Ci credo."
+
+msgid "@plight3 So um... \\>\\@plight_2b what did you need help with again?"
+msgstr "@plight3 Allora, ehm... \\>\\@plight_2b puoi ripetermi per quale motivo ti serve aiuto?"
+
+msgid "@niko Can you reach the lever up there?"
+msgstr "@niko Puoi raggiungere quella la leva lassù?"
+
+msgid "@plight_worry Oh, right..."
+msgstr "@plight_worry Oh, giusto..."
+
+msgid "@plight_worry2 Wait..."
+msgstr "@plight_worry2 Aspetta..."
+
+msgid "@plight_why ...I'm not THAT tall!"
+msgstr "@plight_why ...Non sono COSÌ alto!"
+
+msgid "@niko_eyeclosed Oh... at least it was worth a shot..."
+msgstr "@niko_eyeclosed Oh... Beh, valeva comunque la pena tentare..."
+
+msgid "@plight_worry2 ..."
+msgstr "@plight_worry2 ..."
+
+msgid "@plight_2b ...wait, I got this."
+msgstr "@plight_2b ...Aspetta, ci sono!"
+
+msgid "@niko_speak Nice!"
+msgstr "@niko_speak Fantastico!"
+
+msgid "@niko Thank you, mister!"
+msgstr "@niko Grazie mille, signore!"
+
+msgid "@plight No prob, kid."
+msgstr "@plight Nessun problema, piccoletto."
+
+msgid "@plight3 So... you coming?"
+msgstr "@plight3 Allora... andiamo?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Mhm!"
+

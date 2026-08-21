@@ -1,0 +1,4 @@
+
+Texturas del sistema cargadas! @WAIT 0.2 
+
+Finalizando Secuencia de Arranque.@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.4 

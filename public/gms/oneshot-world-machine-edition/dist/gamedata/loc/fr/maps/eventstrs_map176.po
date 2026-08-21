@@ -1,0 +1,27 @@
+msgid "@niko We should get going now, \\p."
+msgstr "@niko Il faut qu'on y aille à présent, \\p."
+
+msgid "@niko_eyeclosed I don't think this is a good time for a nap, \\p..."
+msgstr "@niko_eyeclosed Je ne pense pas que ce soit le moment de faire une sieste, \\p..."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed J'en ai un peu marre de marcher."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak Je peux me reposer un peu ?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed Ah, eh bien... \\>\\n\\@niko Nous avons encore du pain sur la planche."
+
+msgid "@niko It's a stack of blank papers."
+msgstr "@niko C'est une pile de feuilles blanches."
+
+msgid "@niko Boxes full of manuscripts."
+msgstr "@niko Des boîtes pleines de manuscrits."
+
+msgid "@niko A book on the ground."
+msgstr "@niko Un livre au sol."
+

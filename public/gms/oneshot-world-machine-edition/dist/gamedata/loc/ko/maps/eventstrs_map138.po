@@ -1,0 +1,69 @@
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [내 인내심을 시험하는군.]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [정말로 답을 알고 싶어?]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [필름을 보면 네가 우리 세계를 보는 창이 필름으로 가득 차지?]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [내가 말하는 동작을 너희는 \"끌어다 놓기\"라고 하더군.]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [그 허공은 네 시야의 경계 너머에 있어.]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [허공을 통해서 다시 돌아와...]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [그냥 여기서 내 시간을 낭비하고 싶은 거야?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [하아.]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [아직도 답을 못 찾았어?]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [숫자야.]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [힌트 더 줘?]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [이 세계와 네 세계를 연결하는 네 개의 벽 너머에 허공이 있어. 네가 지금 보는 곳의 가장자리 너머, 모든 것이 불분명한 곳에 말이지...]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [무슨 말인지 이해했겠지.]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [필름을 허공에 비춘 다음 다시 돌아오면 돼.]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [좋아, 그대로 계속해.]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [내가 어디 가는 건 아니니까.]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [암호를 찾고 있군, 그렇지?]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [조만간 이게 필요할 거야.]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [이 필름을 가지고 가서 허공에 노출시켜 봐.]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [그걸 이 세계로 다시 가져오면 답이 보일 거야.]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko 컴퓨터가 투명한 종이 하나를 인쇄했어요..."
+
+msgid "@niko The screen is off."
+msgstr "@niko 화면이 꺼졌어요."
+

@@ -1,0 +1,33 @@
+msgid "@niko Strange black plants. They look like clovers."
+msgstr "@niko 変な黒い植物。クローバーみたいだね。"
+
+msgid "@niko A robot."
+msgstr "@niko ロボットだ。"
+
+msgid "@niko_eyeclosed No power, just like the rest..."
+msgstr "@niko_eyeclosed 動力がない。他のと一緒…"
+
+msgid "[I AM WATCHING OVER THE PLANTS.]"
+msgstr "[植物ノ世話をしていまス。]"
+
+msgid "[HELLO, SMALL PERSON.]"
+msgstr "[どうモ、小さな人間。]"
+
+msgid "@niko_eyeclosed You're not much bigger than I am..."
+msgstr "@niko_eyeclosed 君もミーとあんまり変わらないよ…"
+
+msgid "[WELCOME TO THE LOOKOUT POINT.]"
+msgstr "[見晴らし台ニようこソ。]"
+
+msgid "[BELOW US IS THE OLD QUARRY.]"
+msgstr "[下ニハ古い採石場がありまス。]"
+
+msgid "[THE HEAD ENGINEER LIVES A LITTLE MORE TO THE EAST.]"
+msgstr "[主任技術者ハここからやや東に住んでいまス。]"
+
+msgid "[THE ENTRANCE TO THE OLD MINES IS FURTHER TO THE EAST.]"
+msgstr "[旧鉱山ヘノ入り口はさらに東にありまス。]"
+
+msgid "@niko I see!"
+msgstr "@niko そうなんだ！"
+

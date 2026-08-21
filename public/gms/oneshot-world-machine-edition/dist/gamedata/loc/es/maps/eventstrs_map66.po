@@ -1,0 +1,90 @@
+msgid "@alula_pout Niko?"
+msgstr "@alula_pout ¿Niko?"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh ¿Niko? ¿Qué pasa?"
+
+msgid "@niko Huh?"
+msgstr "@niko Bueno..."
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock ¡Parece que estabas a punto de desmayarte!"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed Ha vuelto a pasar..."
+
+msgid "@niko_speak Earlier I was in the Barrens area, and I kind of... saw something?\\>\\n\\@niko It was like a dream, but only for a split second..."
+msgstr "@niko_speak Antes, estuve en la zona de los Baldíos y vi... algo.\\>\\n\\@niko Fue como un sueño, aunque solo por una milésima de segundo..."
+
+msgid "@calamus_speak A vision?"
+msgstr "@calamus_speak ¿Una visión?"
+
+msgid "@niko2 Vision?"
+msgstr "@niko2 ¿Visión?"
+
+msgid "@calamus Like something a prophet would see."
+msgstr "@calamus Como algo que un profeta vería."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak ¡Hala!"
+
+msgid "@calamus_speak I mean, if you can talk to \\p, it would make sense, right?"
+msgstr "@calamus_speak Quiero decir, si puedes hablar con \\p, tendría sentido, ¿no?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Supongo..."
+
+msgid "@calamus ...or not, I don't know. \\>\\n\\@calamus_smile I've only read about it before."
+msgstr "@calamus ... o no, no lo sé. \\>\\n\\@calamus_smile Lo que sé es de lo que he leído antes."
+
+msgid "@niko Oooh...\\>\\n\\@niko_speak Anyway, what is this place?"
+msgstr "@niko Oooh...\\>\\n\\@niko_speak De todas formas, ¿qué es este sitio?"
+
+msgid "@niko It looks like it used to lead somewhere."
+msgstr "@niko Parece que llevaba a algún lado."
+
+msgid "@alula_speak Yeah, the sacred grounds!\\>\\n\\@alula It's been a while since we went there..."
+msgstr "@alula_speak Sí, a las profundidades sagradas.\\>\\n\\@alula Ha pasado mucho tiempo desde la última vez que estuvimos allí..."
+
+msgid "@calamus We don't have a way getting there now, remember?\\>\\nThere isn't a boat and none of us can swim, and..."
+msgstr "@calamus Ahora no tenemos forma de llegar, ¿sabes?\\>\\nNo hay ningún bote y ninguna de nosotras sabe nadar y..."
+
+msgid "@niko_speak What's... the sacred grounds?"
+msgstr "@niko_speak ¿Qué son... las profundidades sagradas?"
+
+msgid "@calamus It's where our people are buried."
+msgstr "@calamus Es donde está enterrada nuestra gente."
+
+msgid "@alula Sometimes we go there to visit mom!\\>\\n\\@alula_oh Well, her grave, anyway."
+msgstr "@alula ¡A veces, vamos a visitar a mamá!\\>\\n\\@alula_oh Bueno, más bien, a su tumba."
+
+msgid "@niko_eyeclosed Oh....\\>\\n\\@niko_speak -wait, how do you get there?\\>\\n\\@niko I thought you said there isn't a boat?"
+msgstr "@niko_eyeclosed Oh...\\>\\n\\@niko_speak Espera, ¿cómo llegáis allí?\\>\\n\\@niko Creía que habíais dicho que no hay ningún bote."
+
+msgid "@alula Oh, our friend helps us!"
+msgstr "@alula Ah, ¡nuestro amigo nos ayuda!"
+
+msgid "@calamus He has some sort of machine that allows him to fly."
+msgstr "@calamus Tiene algún tipo de máquina que le permite volar."
+
+msgid "@alula Sometimes he takes us along!"
+msgstr "@alula ¡A veces, nos lleva con él!"
+
+msgid "@calamus But like I was about to say, we haven't seen him around for a while."
+msgstr "@calamus Pero, como iba a decir, hace mucho que no lo vemos."
+
+msgid "@alula I wonder when he'll come back?\\>\\nI wish we could go see mom again..."
+msgstr "@alula Me pregunto cuándo volverá.\\>\\nOjalá pudiéramos volver a ver a mamá..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@calamus Come on, Alula, let's go back to the courtyard now."
+msgstr "@calamus Vamos, Alula, volvamos al patio."
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak ¡Vale!"
+
+msgid "@niko It's a clover."
+msgstr "@niko Es un trébol."
+

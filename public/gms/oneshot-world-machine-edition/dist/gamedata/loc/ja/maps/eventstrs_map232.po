@@ -1,0 +1,21 @@
+msgid "@niko It's a faded flyer."
+msgstr "@niko 色あせたチラシだ。"
+
+msgid "@niko_speak It's a big crack in the wall!"
+msgstr "@niko_speak 壁に大きな割れ目がある！"
+
+msgid "@niko I see bunch of mice, huddled together."
+msgstr "@niko ネズミの群れが\n身を寄せ合っているのが見える。"
+
+msgid "@niko2 ...oh, but they scurried off..."
+msgstr "@niko2 …あって、慌てて逃げて行っちゃった…"
+
+msgid "@niko_eyeclosed I hope they didn't think I was gonna eat them..."
+msgstr "@niko_eyeclosed ミーが食べようとしたと\n思われてなければいいけど…"
+
+msgid "[P\\.\\.#L.%%E\\|AS;E D\\.O NO//T AP\\.\\.PR#OACH]"
+msgstr "[近\\.\\.#づ.%%い\\|てハ;\\.いけ//ま\\.\\.せ#ン]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+

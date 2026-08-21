@@ -1,0 +1,138 @@
+msgid "@niko A bulletin board with lots of papers on it."
+msgstr "@niko 종이가 잔뜩 붙은 게시판이에요."
+
+msgid "@niko It's a piece of amber on a string."
+msgstr "@niko 줄에 걸린 호박석 조각이에요."
+
+msgid "@niko_eyeclosed Looks just like that necklace the robot lady showed me..."
+msgstr "@niko_eyeclosed 로봇 아가씨가 보여 준 목걸이랑 똑같네요..."
+
+msgid "@niko It's a big photo."
+msgstr "@niko 큰 사진이에요."
+
+msgid "@niko2 Wait, no...\\.\\. it's a painting!"
+msgstr "@niko2 아니다, 이건...\\.\\. 그림이에요!"
+
+msgid "@niko_eyeclosed Hard to tell at first..."
+msgstr "@niko_eyeclosed 한눈에 분간하기 힘드네요..."
+
+msgid "@niko A coat rack with a scarf and a big jacket."
+msgstr "@niko 목도리와 큰 재킷이 걸려있는 코트 걸이예요."
+
+msgid "@rue_talk The room ahead doesn't really lead anywhere, but..."
+msgstr "@rue_talk 앞에 있는 방은 아무 데로도 통하지 않지만..."
+
+msgid "@rue \\p should still remember what to do here."
+msgstr "@rue \\p 님은 여기서 무얼 해야 하는지 기억할 거야."
+
+msgid "@niko It's a stack of books."
+msgstr "@niko 책이 쌓여 있어요."
+
+msgid "@niko_speak They're watercolor sticks!"
+msgstr "@niko_speak 수채 크레파스예요!"
+
+msgid "@cedric_sigh Of course, this is just a copy of it..."
+msgstr "@cedric_sigh 물론, 이건 복제일 뿐이지만..."
+
+msgid "@cedric This is my father's study."
+msgstr "@cedric 여긴 아버지의 서재야."
+
+msgid "@cedric_sigh It feels like...\\.\\. he's still here, doesn't it?"
+msgstr "@cedric_sigh 꼭...\\.\\. 아버지가 아직 여기 계신 거 같지 않아?"
+
+msgid "@cedric_sigh ...like he's still with us."
+msgstr "@cedric_sigh ...우리 곁에 계신 것 같아."
+
+msgid "@rue_sad ...Yeah."
+msgstr "@rue_sad ...그래."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko_speak Photos too!"
+msgstr "@niko_speak 사진도요!"
+
+msgid "@niko It's a shelf full of books."
+msgstr "@niko 책으로 가득 찬 책장이에요."
+
+msgid "@niko It's a tea set."
+msgstr "@niko 다기예요."
+
+msgid "@niko There's a glass tea set on the table."
+msgstr "@niko 테이블 위에 유리 다기가 있어요."
+
+msgid "@cedric_hmm Tea DOES sound really nice right now..."
+msgstr "@cedric_hmm 지금 차를 마시면 정말 좋겠네..."
+
+msgid "@cedric_sigh Too bad there's no water in here..."
+msgstr "@cedric_sigh 물이 없는 게 안타까울 뿐이야..."
+
+msgid "@niko Black clovers in a glass case."
+msgstr "@niko 유리 상자 안에 검은색 클로버가 있어요."
+
+msgid "@niko It's a big book on the table."
+msgstr "@niko 테이블 위에 큰 책이 있어요."
+
+msgid "@niko It's a pilot's helmet."
+msgstr "@niko 조종사 헬멧이에요."
+
+msgid "@niko The door is gone."
+msgstr "@niko 문이 없어졌어요."
+
+msgid "@niko2 The door is... gone?"
+msgstr "@niko2 문이... 없어져?"
+
+msgid "@proto2b [Well, the door does not exist without us there.]"
+msgstr "@proto2b [음, 우리가 거기 없으면 문은 존재하지 않아.]"
+
+msgid "@niko_eyeclosed Guess I can't go back out, huh..."
+msgstr "@niko_eyeclosed 다시 나갈 수가 없단 얘기네요..."
+
+msgid "@proto2 [...Do you need to?]"
+msgstr "@proto2 [...나가야 돼?]"
+
+msgid "@niko_eyeclosed ...not really."
+msgstr "@niko_eyeclosed ...아뇨."
+
+msgid "@rue_sigh That was... quite peculiar..."
+msgstr "@rue_sigh 참... 희한하네..."
+
+msgid "@cedric_sigh2 I'll say!"
+msgstr "@cedric_sigh2 그러게!"
+
+msgid "@proto_jealous [...]"
+msgstr "@proto_jealous [...]"
+
+msgid "@cedric_talk Hey, this is..."
+msgstr "@cedric_talk 이봐, 이건..."
+
+msgid "@rue_oh ...The World Machine."
+msgstr "@rue_oh 세상 기계야."
+
+msgid "@niko_speak It's a blueprint!"
+msgstr "@niko_speak 설계도예요!"
+
+msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
+msgstr "@niko TV 화면이 잔뜩 붙은 기계를 자세히 그린 그림이에요."
+
+msgid "@proto2b [...That's called a blueprint, Niko.]"
+msgstr "@proto2b [...그걸 설계도라고 하는 거야, 니코.]"
+
+msgid "@niko_pancakes ...So THAT's what a blueprint is!"
+msgstr "@niko_pancakes ...이런 게 설계도로군요!"
+
+msgid "@proto2b [...This place contains a lot of memories.]"
+msgstr "@proto2b [...이곳엔 많은 추억이 있어.]"
+
+msgid "@proto_eyeclosed [I am... grateful, to see it again.]"
+msgstr "@proto_eyeclosed [여길... 다시 보다니 기뻐.]"
+
+msgid "@niko A box filled with folders and loose paper."
+msgstr "@niko 서류철과 종이 낱장으로 가득 찬 상자예요."
+
+msgid "@niko A scribbly drawing is pinned up here."
+msgstr "@niko 휘갈겨 그린 그림이 핀으로 꽂혀 있어요."
+
+msgid "@niko A box full of notebooks and sketchbooks."
+msgstr "@niko 공책과 스케치북으로 가득 찬 상자예요."
+

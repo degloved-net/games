@@ -1,0 +1,57 @@
+msgid "@niko Lots of tiny shrimp swimming in this jar..."
+msgstr "@niko Des tas de petites crevettes nagent dans ce pot..."
+
+msgid "@niko It's looking a little dim..."
+msgstr "@niko C'est un peu sinistre..."
+
+msgid "$Apparently, phase 1 of the evacuation ended prematurely."
+msgstr "$Il semblerait que la phase 1 de l'évacuation ait pris fin prématurément."
+
+msgid "$The big ships started malfunctioning only after a few round trips."
+msgstr "$Les gros navires ont commencé à subir des dysfonctionnements après seulement quelques voyages."
+
+msgid "$They said it was due to... something with squares?"
+msgstr "$Ça aurait quelque chose à voir avec les... carrés ?"
+
+msgid "$I'm not sure what they mean by that."
+msgstr "$J'ignore ce que ça veut dire."
+
+msgid "$Bummer, looks like they won't be able to transport most of these surplus bots to the city at this rate."
+msgstr "$Dommage, ils n'arriveront pas à transporter le surplus de robots jusqu'en ville, à ce rythme-là."
+
+msgid "$And we worked so hard on those!"
+msgstr "$Nous avons tellement travaillé sur ces robots !"
+
+msgid "$But I suppose the rowbots are busy enough with transporting people as is."
+msgstr "$J'imagine que ces ramebots sont déjà assez débordés avec tous ces gens à transporter."
+
+msgid "$I think it's going to be our turn soon..."
+msgstr "$Je pense que ce sera bientôt à notre tour..."
+
+msgid "$Looks like they're evacuating the few tamed robots we have here."
+msgstr "$On dirait qu'ils évacuent le peu de robots apprivoisés que nous avons."
+
+msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
+msgstr "$Logique... Inutile de les laisser sur la Lande s'il n'y a plus personne là-bas."
+
+msgid "$I wonder if the engineer is going too..."
+msgstr "$Je me demande si l'ingénieur s'en va aussi..."
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko J'ai peur des échelles..."
+
+msgid "@niko Oh! It's another one of these small machines."
+msgstr "@niko Oh ! Encore une de ces petites machines."
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Je sens mes poils se dresser légèrement..."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko C'est une batterie...\\nJe crois."
+
+msgid "@niko_speak There's writing on this one too!"
+msgstr "@niko_speak Elle porte une inscription !"
+
+msgid "@niko It says \"Guardian of Residential Area\"."
+msgstr "@niko Il y est écrit « Gardien de zone résidentielle »."
+

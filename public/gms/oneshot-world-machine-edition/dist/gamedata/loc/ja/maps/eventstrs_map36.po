@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るいね。"
+
+msgid "Can you see \\p, too?"
+msgstr "\\p のこと、見えたりもする？"
+
+msgid "@niko_speak Nope! \\@niko I can only hear their voice in my head."
+msgstr "@niko_speak ううん！ \\@niko 頭の中で声が聞こえるだけ。"
+
+msgid "@alula_gasp That's still really cool!"
+msgstr "@alula_gasp それでもすごーい！"
+
+msgid "Daddy says the world is very sick.\\nBut \\p can make it better again!"
+msgstr "パパがね、この世界は重い病気に\nかかってるって言ってたの。\\nでも、 \\p がきっと治してくれるの！"
+
+msgid "...Are you \\p?"
+msgstr "…もしかして、 \\p？"
+
+msgid "@niko Uh... not really.\\nI'm just the \"messiah\" they sent."
+msgstr "@niko えっと…少し違うかな。\\nミーは神様が送った、ただの「救世主」。"
+
+msgid "@niko_speak I can talk with \\p, though!"
+msgstr "@niko_speak \\p とお話できるけどね！"
+
+msgid "Wow!"
+msgstr "わあ！"
+
+msgid "@alula_gasp Double wow!"
+msgstr "@alula_gasp おっどろき！"
+
+msgid "What's that like?"
+msgstr "それってどんな感じなの？"
+
+msgid "@niko_speak Really cool!"
+msgstr "@niko_speak すっごいよ！"
+
+msgid "@niko Fish heads and tails."
+msgstr "@niko お魚の頭としっぽ。"
+

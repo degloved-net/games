@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "@niko It looks like Proto is in the purple portal now.\\>\\n...\\>\\@niko_83c Proto in the purple portal."
+msgstr "@niko プロトは紫色のポータルに今いるみたい。\\>\\n...\\>\\@niko_83c パープルのポータルにプロト。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows blue."
+msgstr "@niko 床にへんな四角形の光があるよ。\\>\\n青色だね。"
+
+msgid "@proto2 [This one would be configured to my code.]"
+msgstr "@proto2 [ここはボクのコードに設定されてる。]"
+
+msgid "@proto_eyeclosed [Having never done this before...\\>\\n\\@proto2b I can't help but feel a bit uneasy.]"
+msgstr "@proto_eyeclosed [こんな経験は初めてだから…\\>\\n\\@proto2b 少し落ち着かないな。]"
+
+msgid "@niko_eyeclosed I'm a little nervous too, to be honest..."
+msgstr "@niko_eyeclosed 正直、ミーもちょっと不安だよ…"
+
+msgid "@proto1b [Misery loves company, I suppose.\\>\\n\\@proto1c Or in this case, anxiety.]"
+msgstr "@proto1b [不幸は仲間を呼ぶ、といったところか。\\>\\n\\@proto1c この場合は緊張だが。]"
+
+msgid "@niko Is that Cedric?\\>\\nHe looks... different."
+msgstr "@niko これはセドリック？\\>\\nなんだか…違う人に見えるね。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows green."
+msgstr "@niko 床にへんな四角形の光があるよ。\\>\\n緑色だね。"
+
+msgid "@cedric_hmm This one is configured to my code, I think."
+msgstr ""
+"@cedric_hmm このポータルはおそらく、僕のコードに\n"
+"設定されていますね。"
+
+msgid "@cedric_hmm To be honest, I AM somewhat curious to see what's on the other side of these things."
+msgstr "@cedric_hmm 正直言うと、この向こう側が\n"
+"どうなっているのか少し興味があります。"
+
+msgid "@niko2 Wait, do you... not know?"
+msgstr "@niko2 え、もしかして…分かってないの？"
+
+msgid "@cedric_hmm Nope!\\> This is the first time I've even seen them in person."
+msgstr "@cedric_hmm ええ！\\>実物を見るのも初めてです。"
+
+msgid "@niko I think this one is Rue."
+msgstr "@niko これはルエかな。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows red."
+msgstr "@niko 床にへんな四角形の光があるよ。\\>\\n赤色だね。"
+
+msgid "@rue_talk This one is meant for me, then."
+msgstr "@rue_talk なら、ここは私ね。"
+
+msgid "@rue We have faith in you, Niko and \\p.\\>\\n\\@rue_smile Just do the best you can."
+msgstr "@rue 信じてるからね、ニコ、\\p。\\>\\n\\@rue_smile 出来ることを精一杯やればいいから。"
+
+msgid "@niko_eyeclosed Thank you..."
+msgstr "@niko_eyeclosed ありがとう…"
+
+msgid "@niko_eyeclosed The squares are here too now..."
+msgstr "@niko_eyeclosed 四角形達は、もうここにもいる…"
+
+msgid "@niko This elevator won't open."
+msgstr "@niko このエレベーターは開かないね。"
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko 他の階で止まったままなのかな？"
+
+msgid "@niko_eyeclosed There's squares here too, now..."
+msgstr "@niko_eyeclosed ここにも四角形が…"
+
+msgid "@niko We need to find a way to reach that lever up there."
+msgstr "@niko あそこのレバーに届く方法を探さなきゃ。"
+
+msgid "@niko6 We might need a grownup for this..."
+msgstr "@niko6 大人の人を呼んだほうがいいかも…"
+
+msgid "@niko This elevator has no button panel."
+msgstr "@niko このエレベーター、ボタンパネルがないよ。"
+
+msgid "@niko Tapping the door doesn't open it either, hmm..."
+msgstr "@niko ドアを叩いても反応しないし、うーん…"
+
+msgid "@niko_eyeclosed That usually works..."
+msgstr "@niko_eyeclosed いつもこうすれば開くのに…"
+
+msgid "@niko6 Wait..."
+msgstr "@niko6 あっ…"
+
+msgid "@niko_speak There's a lever hanging from the ceiling!"
+msgstr "@niko_speak 天井から、レバーがぶら下がってるよ！"
+
+msgid "@niko_eyeclosed ...can't reach it."
+msgstr "@niko_eyeclosed …届かない。"
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk …"
+
+msgid "@rue Where...\\.\\. are the other two?"
+msgstr "@rue 他の…\\.\\. 他の2人はどこ？"
+
+msgid "@rue Prototype? Cedric?"
+msgstr "@rue プロトタイプ？セドリック？"
+
+msgid "@rue_sad They're supposed to be here already..."
+msgstr "@rue_sad もう、来ているはずなのだけど…"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@niko_distressed2 They..."
+msgstr "@niko_distressed2 あの…"
+
+msgid "@niko_eyeclosed Prototype's body was destroyed back in the Barrens."
+msgstr ""
+"@niko_eyeclosed プロトタイプは、不毛の地で体が\n"
+"なくなっちゃったんだ。"
+
+msgid "@rue_oh ..."
+msgstr "@rue_oh …"
+
+msgid "@niko_eyeclosed Cedric was going to bring him back with the memory disk, but..."
+msgstr ""
+"@niko_eyeclosed セドリックは、メモリーディスクで\n"
+"プロトを復元しようとしてた、けど…"
+
+msgid "@niko_distressed2 He was in the lab complex when it collapsed..."
+msgstr "@niko_distressed2 研究所が崩れる時に、中にいて…"
+
+msgid "@niko_distressed I... \\.\\.don't think he made it..."
+msgstr "@niko_distressed たぶん… \\.\\.巻き込まれちゃった…"
+
+msgid "@rue_oh Oh.."
+msgstr "@rue_oh うそ…"
+
+msgid "@rue_sad No..."
+msgstr "@rue_sad そんな…"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 …"
+
+msgid "@rue_sad There goes our only chance..."
+msgstr "@rue_sad 最後の希望が…"
+
+msgid "@niko_upset2 I... \\.\\.I'm sorry..."
+msgstr "@niko_upset2 あの… \\.\\.ごめんなさい…"
+
+msgid "@rue_sigh It's not your fault, Niko..."
+msgstr "@rue_sigh あなたのせいじゃないわ、ニコ…"
+
+msgid "@rue_sad If anything... \\.\\.I should be apologizing to you."
+msgstr "@rue_sad 謝るべきなのは… \\.\\.私の方よ。"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad …"
+
+msgid "@rue ...There's..."
+msgstr "@rue …最後に…"
+
+msgid "@rue One last thing I want to do."
+msgstr "@rue やっておきたいことがあるの。"
+
+msgid "@rue_talk Come on, let's go upstairs."
+msgstr "@rue_talk さ、階段を登りましょ"
+
+msgid "@cedric_talk Oh...\\.\\. this is..."
+msgstr "@cedric_talk ああ…\\.\\. これは…"
+
+msgid "@proto1 [...no wonder he wanted us to all be here for this.]"
+msgstr ""
+"@proto1 […なるほど。このために彼は、\n"
+"ボクたち全員に来てほしかったんだ。]"
+
+msgid "@niko2 Um... what are these things, anyway?"
+msgstr "@niko2 あの…これって、何なの？"
+
+msgid "@proto2 [Code portals.]"
+msgstr "@proto2 [コード・ポータル。]"
+
+msgid "@proto1c [They... \\.\\.temporarily remove us from the world.]"
+msgstr "@proto1c [ボクたちを… \\.\\.この世界から、一時的に消去する装置。]"
+
+msgid "@niko2 ....what?"
+msgstr "@niko2 …えっ？"
+
+msgid "@cedric_hmm It's... a bit hard to explain..."
+msgstr "@cedric_hmm ええと…少し説明が難しいのですが…"
+
+msgid "@cedric2 But... basically, my father has hidden a decryption key in our code, with a .txt file as its shell..."
+msgstr ""
+"@cedric2 つまり、簡単に言うとですね…父は、解読キーを\n"
+"僕たちのコードの中に隠したんです。\n"
+"「.txt」ファイル形式にして…"
+
+msgid "@proto2 [...But to get to them, we have to be removed from the world and decompiled.]"
+msgstr ""
+"@proto2 […しかしそれを手に入れるには、ボクたちを\n"
+"この世界から消去し、逆コンパイルする\n"
+"必要がある。]"
+
+msgid "@proto2b [...When our keys are combined into a central location, it will activate an encrypted part of this world, which will...]"
+msgstr ""
+"@proto2b […そして中心部で、そのキーを全て結合すると、\n"
+"この世界の暗号化された部分が\n"
+"起動する。つまり…]"
+
+msgid "@niko_what *confused cat noises*"
+msgstr "@niko_what うにゃにゃにゃ…？"
+
+msgid "@proto_eyeclosed [...]"
+msgstr "@proto_eyeclosed […]"
+
+msgid "@proto2b [...Rue, maybe it's better if you explain.]"
+msgstr "@proto2b […ルエ、君が説明した方がいいのでは。]"
+
+msgid "@rue_sigh I'll attempt."
+msgstr "@rue_sigh 分かったわ。"
+
+msgid "@rue Basically... these portals all represent a physical location on \\p's machine."
+msgstr ""
+"@rue つまりね…このポータルは \\pが\n"
+"使用している機械の、物理的な場所を\n"
+"表しているの。"
+
+msgid "@niko2 ...oooh."
+msgstr "@niko2 …ほおぉ。"
+
+msgid "@rue_talk And... when we enter these portals, we will be sent to that location..."
+msgstr ""
+"@rue_talk そして…ポータルに入ると、私たちは\n"
+"その場所に送信される。"
+
+msgid "@proto2 [...Wherever that is.]"
+msgstr "@proto2 […どんな場所でもね。]"
+
+msgid "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their computer."
+msgstr ""
+"@rue そうね… \\pは、\n"
+"コンピューター上でこの世界のパズルピースを\n"
+"集めるのにはもう慣れているはず。"
+
+msgid "@rue_talk ...But this time, \\p would need to move around some things, as well."
+msgstr ""
+"@rue_talk …けれど今回はさらに、\n"
+"色々と移動させなきゃいけないの。"
+
+msgid "@cedric_talk ...specifically, by moving the keys from the small portal to the big one."
+msgstr ""
+"@cedric_talk …具体的に言うと、小さなポータルから\n"
+"大きなポータルに、キーを移動させるんです。"
+
+msgid "@cedric_hmm I... don't know what happens next, though."
+msgstr ""
+"@cedric_hmm しかし…その後に何が起きるのかは、\n"
+"僕にも分かりません。"
+
+msgid "@niko I see..."
+msgstr "@niko そうなんだ…"
+
+msgid "@niko_speak Does \\p know where these portals lead, at least?"
+msgstr ""
+"@niko_speak \\pは、 このポータルがどこに\n"
+"繋がってるのか知ってるのかな？"
+
+msgid "@rue You should probably ask \\p on this..."
+msgstr ""
+"@rue それは、 \\pに直接\n"
+"聞いてみた方がいいと思うわ…"
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed そうだね。"
+
+msgid "@niko2 ...Hold on."
+msgstr "@niko2 …あれ。"
+
+msgid "@niko6 The journal is glowing again, \\p..."
+msgstr "@niko6 日記がまた光り始めたよ、 \\p…"
+
+msgid "@niko A big rectangle-light on the floor.\\>\\nIt glows purple."
+msgstr "@niko 床におっきな四角形の光があるよ。\\>\\n紫色だね。"
+
+msgid "@niko_eyeclosed The lever won't do much for us now, \\p..."
+msgstr ""
+"@niko_eyeclosed あのレバーはもう\n"
+"意味なさそうだね、 \\p…"
+
+msgid "@niko There's a lever hanging from the ceiling..."
+msgstr "@niko 天井からレバーがぶら下がってるよ…"
+
+msgid "@niko_speak We should find someone tall to reach it for us, \\p!"
+msgstr ""
+"@niko_speak あれに手が届くくらい背の高い人を\n"
+"呼んでこよう、 \\p！"
+
+msgid "@plight_worry ...This room gives me the creeps, man..."
+msgstr "@plight_worry …この部屋、何だか寒気がするな…"
+
+msgid "@niko_speak Oh, same!"
+msgstr "@niko_speak あ、ミーと一緒だ！"
+
+msgid "@plight_worry ....yup."
+msgstr "@plight_worry ……そうだな。"
+
+msgid "@plight3 So um... \\>\\@plight_2b what did you need help with again?"
+msgstr "@plight3 それで… \\>\\@plight_2b 何をすればいいんだっけ？"
+
+msgid "@niko Can you reach the lever up there?"
+msgstr "@niko あのレバー、届く？"
+
+msgid "@plight_worry Oh, right..."
+msgstr "@plight_worry ああ、あれか…"
+
+msgid "@plight_worry2 Wait..."
+msgstr "@plight_worry2 なあ…"
+
+msgid "@plight_why ...I'm not THAT tall!"
+msgstr "@plight_why …あんなに背が高いわけないだろ！"
+
+msgid "@niko_eyeclosed Oh... at least it was worth a shot..."
+msgstr "@niko_eyeclosed そっか…もしかしたらと思ったんだけど…"
+
+msgid "@plight_worry2 ..."
+msgstr "@plight_worry2 …"
+
+msgid "@plight_2b ...wait, I got this."
+msgstr "@plight_2b …いや、いけるかも。"
+
+msgid "@niko_speak Nice!"
+msgstr "@niko_speak やった！"
+
+msgid "@niko Thank you, mister!"
+msgstr "@niko ありがとう、お兄さん！"
+
+msgid "@plight No prob, kid."
+msgstr "@plight どういたしまして。"
+
+msgid "@plight3 So... you coming?"
+msgstr "@plight3 で…一緒に来るのか？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"

@@ -1,0 +1,54 @@
+msgid "@niko It's the lightbulb.\\>\\n\\@niko_eyeclosed2 Thank goodness it's safe..."
+msgstr "@niko Es la bombilla.\\>\\n\\@niko_eyeclosed2 Menos mal que está a salvo..."
+
+msgid "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+msgstr "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+
+msgid "@niko_distressed2 ...I guess \\p isn't coming back..."
+msgstr "@niko_distressed2 ... Supongo que \\p no va a volver..."
+
+msgid "[\"Niko, I'm here.\"]"
+msgstr "[\"Niko, estoy aquí.\"]"
+
+msgid "@niko_pancakes ...\\p?"
+msgstr "@niko_pancakes ... ¿\\p?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"¿Sí?\"]"
+
+msgid "@niko_pancakes Is that... really you?"
+msgstr "@niko_pancakes ¿Eres... tú de verdad?"
+
+msgid "@niko_distressed2 I thought... you were gone..."
+msgstr "@niko_distressed2 Pensaba... que te habías ido..."
+
+msgid "[\"I never left you.\", \"I'm back now.\"]"
+msgstr "[\"Nunca te he abandonado.\",\"Ya estoy de vuelta.\"]"
+
+msgid "@niko_speak Oh! \\@niko_eyeclosed I was... feeling a bit scared back there..."
+msgstr "@niko_speak ¡Oh! \\@niko_eyeclosed Estaba... un poco asustado antes..."
+
+msgid "@niko_speak I thought I was completely alone!"
+msgstr "@niko_speak ¡Pensaba que estaba completamente solo!"
+
+msgid "@niko_eyeclosed But that was silly of me to assume, wasn't it?"
+msgstr "@niko_eyeclosed Pero, ha sido una estupidez por mi parte asumir eso, ¿no?"
+
+msgid "@niko_speak Where did you go?"
+msgstr "@niko_speak ¿Dónde te has metido?"
+
+msgid "@niko_eyeclosed I was so scared all by myself..."
+msgstr "@niko_eyeclosed He pasado miedo mientras estaba solo..."
+
+msgid "@niko_speak ...but I guess... it's okay now."
+msgstr "@niko_speak ... pero creo que... ahora estoy bien."
+
+msgid "@niko Ah, guess we need to figure out where to go now, and-"
+msgstr "@niko Ah, creo que tenemos que averiguar a dónde dirigirnos ahora y..."
+
+msgid "@niko The sun!\\>\\n\\@niko_speak It lit up on its own!"
+msgstr "@niko ¡El sol!\\>\\n\\@niko_speak ¡Se ha iluminado solo!"
+
+msgid "@niko Guess I should pick it up, right \\p?"
+msgstr "@niko Creo que debería cogerlo, ¿verdad, \\p?"
+

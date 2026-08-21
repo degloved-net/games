@@ -1,0 +1,36 @@
+msgid "[ALL OF THESE TERMINALS DO NOT BOOT.]"
+msgstr "[どのターミナルモ起動しませン。]"
+
+msgid "[I AM NOT SURE WHAT TO DO NOW.]"
+msgstr "[どうすればいいのでしょウ。]"
+
+msgid "@niko Some of the ink on this page is faded."
+msgstr "@niko このページはインクが所々かすれてる。"
+
+msgid "$-likely due some sort of electrical or magnetic interference."
+msgstr "$-恐らく何らかの\n電気、または磁気的な\n干渉が原因だ。"
+
+msgid "$I'm afraid this operation can no longer be sustained, if the servers continue to fail so much that maintenance cannot keep up the pace."
+msgstr "$メンテナンスが\n追いつかないぐらい\nサーバーの故障が続くの\nなら、本作戦をこのまま\n続行するのは不可能だ。"
+
+msgid "$Fortunately, it does not seem to be happening to the robots."
+msgstr "$幸いなことに、ロボット\nには発生していない。"
+
+msgid "$At least, not at a significant rate."
+msgstr "$少なくとも、非常に\n低確率だ。"
+
+msgid "$Time will tell."
+msgstr "$時が経てば、自ずと\n答えが見えてくる\nだろう。"
+
+msgid "@niko I'm pretty sure these are computers, now..."
+msgstr "@niko これ全部、コンピューターなんだね…"
+
+msgid "[CHECKING... CHECKING...]"
+msgstr "[チェック中…チェック中…]"
+
+msgid "[TERMINAL DOES NOT RESPOND.]"
+msgstr "[ターミナルガ応答しませン。]"
+
+msgid "[THIS IS A PROBLEM.]"
+msgstr "[これハ問題でス。]"
+

@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/contacts_strs.po\n"
+"X-Crowdin-File-ID: 17\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:58\n"
+
+msgid "prophetbot:title=ProphetBot"
+msgstr "Profetabot"
+
+msgid "prophetbot:subtitle=Met: Barrens"
+msgstr "Incontro: Baia Desolata"
+
+msgid "prophetbot:infoText=ProphetBot is a nice and friendly robot that lives in the outskirts of the world, waiting for the messiah. One day the messiah showed up! That was a very good day for ProphetBot.\n\n"
+"When the messiah is not around, ProphetBot likes to spend his time standing around waiting for the messiah to come back."
+msgstr "Profetabot è un robot gentile ed amichevole che vive nelle periferie del mondo, in attesa del messia. Un giorno il messia arrivò! Quello fu un giorno davvero bello per Profetabot.\n\n"
+"Quando non c'è il messia, a Profetabot piace passare il tempo stando in piedi in attesa che il messia ritorni."
+
+msgid "silver:title=Silver"
+msgstr "Silver"
+
+msgid "silver:subtitle=Met: Barrens"
+msgstr "Incontro: Baia Desolata"
+
+msgid "silver:infoText=The Barren's head engineer, a rather morose robot living alone near the mines. It's her duty to oversee operations and maintenance of the world's industrial heart, where metals and resources are pulled from the earth's clutches and rendered into usable goods.\n\n"
+"...at least, that's how things used to be. Since the evacuation, only a few active robots remain under Silver's care, holding out on reserve power and waiting for the messiah to appear."
+msgstr "Il capo ingegnere della Baia Desolata, un robot un po' scontroso che vive da solo vicino alle miniere. Il suo compito è quello di supervisionare le operazioni e la manutenzione del cuore industriale del mondo, dove i metalli e le risorse sono estratti dalla terra e trasformati in beni utilizzabili.\n\n"
+"...O almeno... prima era così. Dopo l'evacuzione, solo pochi robot sono rimasti sotto il controllo di Silver, andando avanti con la loro riserva energetica in attesa dell'arrivo del messia."
+
+msgid "rowbot:title=Rowbot"
+msgstr "Robattello"
+
+msgid "rowbot:subtitle=Met: Barrens"
+msgstr "Incontro: Baia Desolata"
+
+msgid "rowbot:infoText=A little robot attached to a rowboat, rusted in place by the ocean's mist. Once part of a fleet that transported small amounts of cargo and occassional passengers across the ocean between the Barrens and the Glen. That fleet has been largely disbanded since people fled the Barrens when the sun was extinguished. Only this bot remains, dutifully stationed in case there's ever need for one more trip to that distant shore."
+msgstr "Un piccolo robot attaccato a un battello, arrugginito sul posto dalla nebbia dell'oceano. Un tempo parte di una flotta adibita al trasporto di piccole quantità di carico e di eventuali passeggeri lungo l'oceano che separa la Baia Desolata e la Valle. Tale flotta fu quasi interamente smobilitata dopo che le persone scapparono dalla Baia a seguito della morte del sole. L'unico robot rimasto è questo, fisso diligentemente alla sua postazione casomai servisse un altro viaggio verso la costa lontana."
+
+msgid "calamus:title=Calamus"
+msgstr "Calamus"
+
+msgid "calamus:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "calamus:infoText=A polite boy that leads a quiet life with his younger sister Alula in the ruins outside of town. He often has his hands full looking out for her and tends to worry when she's not around.\n\n"
+"Calamus spends most of his time fishing and foraging around the ruins, and relies on his friend Magpie to trade for any goods that can't be scavenged. Though they don't have much in the way of luxuries, Calamus has a small collection of books gifted by an old friend that he likes to study when he gets a chance. Judging by the amount of progress he's made however, those chances don't come very often."
+msgstr "Un ragazzo educato che conduce una vita tranquilla insieme a sua sorella minore Alula nelle rovine fuori dal villaggio. È spesso estremamente impegnato a prendersi cura di lei e tende a preoccuparsi se non la vede in giro.\n\n"
+"Calamus dedica la maggior parte del suo tempo alla pesca e alla ricerca di cibo per le rovine, facendo affidamento sul suo amico Gazza per scambiare gli oggetti che non si riescono a trovare in giro. Nonostante non abbiano molti beni di lusso Calamus possiede una modesta collezione di libri, regalati da un vecchio amico, che ama studiare quando ne ha l'occasione. A giudicare dai progressi che ha compiuto, tuttavia, tali occasioni non sembrerebbero presentarsi molto spesso."
+
+msgid "alula:title=Alula"
+msgstr "Alula"
+
+msgid "alula:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "alula:infoText=A cheerful, excitable young girl. She lives in the ruins under the care of her older brother Calamus. Too young to remember much of what the world was like before the sun was lost, Alula is optimistic and thrilled to be helping the messiah on their special quest.\n\n"
+"When Alula isn't busy exploring every nook and cranny the ruins has to offer, she can usually be found helping out her big brother or playing around the courtyard near their home."
+msgstr "Una giovane ragazza allegra e radiosa. Vive nelle rovine sotto le cure del fratello maggiore Calamus. Troppo giovane per ricordare qualcosa sul mondo prima della perdita del sole, Alula è ottimista ed entusiasta di aiutare il messia con la sua missione speciale.\n\n"
+"Quando Alula non è impegnata ad esplorare ogni angolo che le rovine hanno da offrire, di solito aiuta il suo fratellone o gioca nel cortile vicino casa loro."
+
+msgid "maize:title=Maize"
+msgstr "Mays"
+
+msgid "maize:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "maize:infoText=A benevolent and powerful plant spirit, acting as a sort of guardian for the Glen. The last of her kind, her life force has slowly dwindled in the absence of the sun's light. After all of these cold hungry years, her only wish is to see the sun once more."
+msgstr "Uno spirito vegetale potente e benevolo che agisce come una sorta di guardiano per la Valle. Ultimo del suo genere, la sua forza vitale si è lentamente ridotta in assenza della luce del sole. Dopo tutti questi anni nell'oscurità, il suo solo desiderio è di rivedere il sole ancora una volta."
+
+msgid "magpie:title=Magpie"
+msgstr "Gazza"
+
+msgid "magpie:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "magpie:infoText=An easygoing merchant and purveyor of fine goods. \"Fine\" in this case mostly meaning \"colorful and/or shiny\". Still, it's always a good idea to check what's in stock - he might have just what you've been looking for. The shop operates on barter however, so be prepared to give up something Magpie deems interesting enough for a trade.\n\n"
+"Magpie used to have a much more impressive collection until his shop was tragically lost to the sinking ground, forcing Magpie to flee in the wagon that's now his home. Calamus and Alula are some of Magpie's best customers, finding all sorts of curiosities lost in the ruins."
+msgstr "Un venditore alla mano fornitore di beni prezioni. Con \"preziosi\" in questo caso si intende quasi sempre oggetti \"colorati e/o brillanti\". Comunque, è sempre una buona idea dare un'occhiata a cosa c'è in vendita - potrebbe avere proprio quello che stai cercando. Il negozio però funziona a baratto, quindi preparati a dare a Gazza qualcosa di abbastanza interessante per fare lo scambio.\n\n"
+"Gazza aveva una collezione molto più impressionante prima che il suo negozio non affondasse tragicamente nel terreno, costrinendo Gazza a rifugiarsi nel carro che usa ormai come dimora. Calamus e Alula sono tra i suoi clienti migliori, visto che trovano molti oggetti curiosi persi nelle rovine."
+
+msgid "shepherd:title=Shepherd"
+msgstr "Pastora"
+
+msgid "shepherd:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "shepherd:infoText=A shepherd woman who tends a flock of rams. Seems to have an endless supply of ram puns and computer puns. You could say she has a lot of \"rammunition\". A real \"dyed-in-the-wool\" pun fanatic. Her love of puns never \"DIMM\"s. The \"MOS\" puns you've ever \"herd\". Must have really good \"memory\" to remember them all. Even so, you can't help but groan a \"bit\".\n\n"
+"computer."
+msgstr "Una pastora che si prende cura di un gregge di montoni elettrici. Sembra avere una riserva infinita di battute sui montoni. Le ripete come se fossero dei \"tormontoni\". Non ne hai mai \"pascoltate\" così tante tutte insieme. Potrebbe scriverci un'intera una col\"lana\" di libri. Cerca nel Rifugio, dietro a una \"pariete\", e scoprirai che spesso \"sta là\". Puoi sempre \"contare\" su di lei, oltre a poter \"contare\" le sue pecore. Tuttavia, non augurarle \"in bocca al lupo\".\n\n"
+"beeee."
+
+msgid "lamplighter:title=Lamplighter"
+msgstr "Lampionaio"
+
+msgid "lamplighter:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "lamplighter:infoText=A tired-looking man who seems to subsist purely on gallons of coffee. It's unclear how long it's been since the last time he slept. Though he's not the brightest fellow, he's an incredibly hard worker and takes his job very seriously. So seriously, in fact, that he gets anxious whenever he can't perform his duties. He's responsible for keeping the lights around the city lit, as well as delivering highly concentrated phosphor for use in machines.\n\n"
+"A high-school dropout, he feels nervous whenever he has to be around smart people. Lately the Lamplighter has taken to reading the dictionary in what little free time he has."
+msgstr "Un uomo dall'aspetto stanco che sembra sopravvivere solo con litri di caffè. Non si sa quand'è stata l'ultima volta che ha dormito. Anche se non è la persona più solare, è davvero un gran lavoratore e prende molto sul serio ogni suo compito. Talmente sul serio che gli viene l'ansia ogni volta che non riesce a portare al termine il proprio dovere. È responsabile dell'illuminazione della città e della consegna di fosforo altamente concentrato usato nelle macchine.\n\n"
+"Avendo abbandonato la scuola superiore, si sente nervoso ogni volta che deve stare vicino a persone intelligenti. Di recente il Lampionaio ha iniziato a leggere il dizionario nel poco tempo libero che ha a disposizione."
+
+msgid "watcher:title=Watcher"
+msgstr "Lancetta"
+
+msgid "watcher:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "watcher:infoText=A strange woman standing in the clocktower, watching the world end.\n\n"
+"Seconds, minutes, hours, days; the flow of time inexorably drags us all towards a vast and unknowable sea. Will you let it carry you in darkness, squinting against the sting of its spray? Will you rage against its currents, fighting to make as much headway as you can before you're overtaken? Or will you choose, as some, to stare wide-eyed at this swirling torrent and become enraptured by it?"
+msgstr "Una strana donna in piedi nella torre dell'orologio, osservando la fine del mondo.\n\n"
+"Secondi, minuti, ore, giorni; lo scorrere del tempo ci trascina inesorabilmente verso un vasto oceano inconoscibile. Ti farai trasportare da esso nell'oscurità, strizzando gli occhi contro il bruciore dei suoi spruzzi? Ti avventerai sulle sue correnti, combattendo per farti strada il più possibile prima di farti battere? O sceglierai, come alcuni, di fissare con gli occhi spalancati questo torrente vorticoso e di lasciartene rapire?"
+
+msgid "ling:title=Ling"
+msgstr "Ling"
+
+msgid "ling:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "ling:infoText=The friendly proprietor of the Refuge Cafe. Once a popular spot to relax and bask in the warm aromas and gentle sounds of cafe ambiance, it's mostly deserted since the squares began picking apart the upper reaches of the city. Nowadays, Ling's best customer is the unfaltering (though not especially talkative) Lamplighter.\n\n"
+"Always a gracious host, Ling enjoys meeting customers both new and old and chatting with them. If you ask nicely, he might even take the time to whip up a request for something off-menu!"
+msgstr "L'amichevole propietario della Caffetteria del Rifugio. Un tempo popolare punto di ritrovo per rilassarsi ed immergersi tra i caldi aromi e i gentili rumori del locale, si è fatto per lo più deserto da quando i quadrati hanno iniziato a raggiungere i piani alti della città. Ad oggi il miglior cliente di Ling è l'inflessibile (anche se non particolarmente loquace) Lampionaio.\n\n"
+"Sempre cortese, Ling ama incontrare i clienti vecchi e nuovi e chiacchierare con loro. Chiedendoglielo gentilmente potrebbe persino dedicarti del tempo per qualche ordine fuori menù!"
+
+msgid "mason:title=Mason"
+msgstr "Mason"
+
+msgid "mason:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "mason:infoText=A chatty guy with a passion for plants. He owns a small plant shop in the Refuge apartment district, however it's mostly just an excuse to do more gardening as Mason tends to gift almost as many plants as he sells. When it comes to horticultural advice, Mason is the guy to see.\n\n"
+"A friend of the Watcher. Mason also admires the Lamplighter's hard work, and once sent him one of his plants as a thank-you."
+msgstr "Un ragazzo socievole con una passione per le piante. Ha un negozio di piantine in uno degli appartamenti del Rifugio, ma è più che altro una scusa per fare ancora più gardinaggio, visto che di solito regala tante piante quante ne vende. Quando si tratta di consigli sull'orticoltura, vai a chiedere a Mason!\n\n"
+"È amico di Lancetta. Mason ammira anche il duro lavoro del Lampionaio ed una volta gli ha inviato una delle sue piante come ringraziamento."
+
+msgid "kelvin:title=Kelvin"
+msgstr "Kelvin"
+
+msgid "kelvin:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "kelvin:infoText=A space heater robot that has claimed one of the corners of the Refuge's back alleys as his own. Kelvin's warm body naturally attracts a lot of cats, and he seems to have developed some kind of bond with them. Kelvin is always willing to offer his warmth and comfort to any creature that wanders by.\n\n"
+"Technically the lamplighter's neighbour, but they don't interact much..."
+msgstr "Un robot riscaldatore per ambienti che ha reclamato un angolo tra i vicoli del Rifugio come sua proprietà. Il caldo corpo di Kelvin attrae naturalmente molti gatti e lui sembra aver sviluppato una sorta di legame con loro. Kelvin è sempre disponibile a offrire il suo calore e comfort a ogni creatura che passa di lì.\n\n"
+"Tecnicamente il vicino di casa del Lampionaio, ma non interagiscono molto..."
+
+msgid "kip:title=Kip"
+msgstr "Kip"
+
+msgid "kip:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "kip:infoText=The brilliant and highly respected head engineer of the Refuge, Kip is responsible for many advances in robot technology that make our lives easier every day. She's also the creator of many robots that can be met throughout the world; most notably Silver, the Barrens head engineer who was based on Kip's own image.\n\n"
+"Silver was intended to be the first of a new type of robot that could think and act like a person. Unfortunately, the difficulty of that task led to her going rogue during development. Though Silver was eventually stabilized, that day left a scar on their relationship that has yet to heal.\n\n"
+"Though her creations are well known, the creator herself prefers to keep a low profile and focus on her work. It's likely that few outside of her colleagues have ever seen her."
+msgstr "Il brillante e molto rispettato capo ingegnere del Rifugio, Kip è responsabile di molti avanzamenti nella tecnologia robotica che ci semplificano la vita ogni giorno di più. È anche la creatrice di molti robot che possono essere incontrati in giro per il mondo; il più degno di nota è Silver, capo ingegnere della Baia Desolata, basata sull'immagine della stessa Kip.\n\n"
+"Silver era stata ideata per essere il primo esemplare di un nuovo tipo di robot capaci di pensare ed agire come persone. Sfortunatamente, la difficoltà di questo compito la portò a dare di matto durante lo sviluppo. Anche se alla fine Silver fu resa stabile, quel giorno lasciò una cicatrice sul loro rapporto che ancora non si è rimarginata.\n\n"
+"Anche se le sue invenzioni sono ben conosciute, la creatrice preferisce tenere un basso profilo per concentrarsi sul proprio lavoro. È probabile che siano poche le persone oltre i suoi colleghi ad averla mai vista."
+
+msgid "george1:title=George"
+msgstr "George"
+
+msgid "george1:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george1:infoText=George is the fantastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a big responsibility, but there's no-one better suited to the task.\n\n"
+"The best way to describe George would be to ask someone to imagine meeting a gold medalist, at the sport of being a librarian, that also refers to themselves in the third person."
+msgstr "George è la fantastica capo bibliotecaria della biblioteca del Rifugio. Oltre alla gestione dei numerosi servizi e risorse della biblioteca, le spetta anche la pubblicazione dei diversi manoscritti dell'Autore. È una grande responsabilità, ma non c'è nessuno meglio di lei per questo compito.\n\n"
+"Il modo migliore per descrivere George sarebbe chiedere a qualcuno di immaginare di incontrare una medaglia d'oro, nello sport di essere una bibliotecaria, che oltretutto parla di sé in terza persona."
+
+msgid "george2:title=George"
+msgstr "George"
+
+msgid "george2:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george2:infoText=George is the exasperated head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of work, and it doesn't leave George much patience to spare.\n\n"
+"The best way to describe George would be to ask someone to picture a novelty mug that says \"Don't talk to me until I've had my coffee\"... that has only ever been filled with water."
+msgstr "George è l'esasperata capo bibliotecaria della biblioteca del Rifugio. Oltre alla gestione dei numerosi servizi e risorse della biblioteca, le spetta anche la pubblicazione dei diversi manoscritti dell'Autore. È un lavoro molto impegnativo e lascia George con molta poca pazienza.\n\n"
+"Il modo migliore per descrivere George sarebbe chiedere a qualcuno di immaginare una tazza personalizzata con scritto \"Non parlarmi prima che abbia bevuto il mio caffè\"... che è stata sempre riempita solo d'acqua."
+
+msgid "george3:title=George"
+msgstr "George"
+
+msgid "george3:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george3:infoText=George is the distraught head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of pressure, and George often feels completely overwhelmed.\n\n"
+"The best way to describe George would be to imagine a stuffed animal falling forward forever down an infinite flight of stairs."
+msgstr "George è la turbata capo bibliotecaria della biblioteca del Rifugio. Oltre alla gestione dei numerosi servizi e risorse della biblioteca, le spetta anche la pubblicazione dei diversi manoscritti dell'Autore. È un peso molto grande e George molte volte si sente completamente sopraffatta.\n\n"
+"Il modo migliore per descrivere George sarebbe chiedere a qualcuno di immaginare un peluche cadere da una scalinata infinita."
+
+msgid "george4:title=George"
+msgstr "George"
+
+msgid "george4:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george4:infoText=George is the enthusiastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a great opportunity for George to share her passion for literature, and read all the latest books.\n\n"
+"The best way to describe George would be to think of a dog that always wants to show everyone its favourite toy, but the toy is books and the dog is a librarian and also not a dog but still having a good time."
+msgstr "George è l'entusiasta capo bibliotecaria della biblioteca del Rifugio. Oltre alla gestione dei numerosi servizi e risorse della biblioteca, le spetta anche la pubblicazione dei diversi manoscritti dell'Autore. È una grande opportunità per George di condividere la sua passione per la letteratura e di leggere tutti i libri più recenti.\n\n"
+"Il modo migliore per descrivere George sarebbe chiedere a qualcuno di immaginare un cane che vuole sempre mostrare a tutti il suo giocattolo preferito, ma che il giocattolo siano dei libri ed il cane sia una bibliotecaria e che non sia neanche un cane, ma che comunque si diverte."
+
+msgid "george5:title=George"
+msgstr "George"
+
+msgid "george5:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george5:infoText=George is the caring head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's an important job, and George is more than happy to be able to help so many people in the community through her work.\n\n"
+"The best way to describe George would be to ask someone to picture a warm towel fresh out of the dryer."
+msgstr "George è la premurosa capo bibliotecaria della biblioteca del Rifugio. Oltre alla gestione dei numerosi servizi e risorse della biblioteca, le spetta anche la pubblicazione dei diversi manoscritti dell'Autore. È un lavoro importante e George è più che felice di poter aiutare le persone della comunità grazie al suo lavoro.\n\n"
+"Il modo migliore per descrivere George sarebbe chiedere a qualcuno di immaginare un asciugamano caldo appena uscito dall'asciugatrice."
+
+msgid "george6:title=George"
+msgstr "George"
+
+msgid "george6:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "george6:infoText=George is the head honcho of the library. Y'know, the one in the Refuge? Not only does she help the library run smooth as butter, she's also in charge of publishing for the big man himself: The Author. It's a pretty chill job, all things considered.\n\n"
+"If you're wondering what George is like to hang with, just picture someone who's both the coolest cat... AND the hottest dog. Ya dig?"
+msgstr "George è il grande capo della biblioteca. Sai no, quella nel Rifugio? Non solo aiuta la biblioteca ad andare liscia come l'olio, ma è anche incaricata di pubblicare le opere del più grande scrittore di tutti i tempi: L'Autore. È un lavoro abbastanza tranquillo, tutto sommato.\n\n"
+"Se ti chiedi come sia stare con George, basta che immagini una persona che è la tipa più giusta... e ANCHE la tizia più forte. Capisci?"
+
+msgid "prototype:title=Prototype"
+msgstr "Prototipo"
+
+msgid "prototype:subtitle=Met: Barrens"
+msgstr "Incontro: Baia Desolata"
+
+msgid "prototype:infoText=A dour and reclusive robot that lives in the outskirts of the outskirts of the world, waiting for a second chance. One day the messiah showed up; that was truly an unexpected turn of events.\n\n"
+"Proto is a child of The Author and a predecessor to the ProphetBot that lives in the Barrens. Originally built to serve the same purpose of greeting the messiah, not as a preprogrammed robot but a tamed one with its own will. Unfortunately, Prototype never saw a messiah in his own time.\n\n"
+"Though seemingly unfriendly, Proto isn't uncaring. He keeps his eye on Silver and the Barrens from the shadows, and Silver looks out for him in turn."
+msgstr "Un robot cupo e solitario che vive nei meandri dei meandri del mondo, aspettando per una seconda possibilità. Un giorno è arrivato il messia; è stata una svolta davvero inaspettata.\n\n"
+"Proto è un figlio dell'Autore ed il predecessore del Profetabot che vive nella Baia Desolata. Inizialmente costruito con lo scopo di accogliere il messia, non come un robot programmato ma come uno addomesticato con la propria volontà. Sfortunatamente, Prototipo non ha mai visto un messia nella sua vita.\n\n"
+"Anche se apparentemente non amichevole, Proto non è menefreghista. Tiene d'occhio Silver e la Baia Desolata dalle ombre e Silver si prende cura di lui a sua volta."
+
+msgid "cedric:title=Cedric"
+msgstr "Cedric"
+
+msgid "cedric:subtitle=Met: Glen"
+msgstr "Incontro: Valle"
+
+msgid "cedric:infoText=A prodigious tinkerer and child of The Author. Cedric is the operator of the only known Flying Machine, a miraculous and highly advanced device that can travel the skies. Cedric has been waiting in the Refuge for the day the world can truly be saved. Cedric is hopeful, and eager to play his role in the final gambit."
+msgstr "Un prodigioso riparatore e figlio dell'Autore. Cedric è l'operatore dell'unica macchina volante conosciuta, un dispositivo miracoloso e altamente avanzato in grado di viaggiare nei cieli. Cedric ha atteso nel Rifugio il giorno in cui il mondo potrà essere veramente salvato. Cedric è fiducioso e desideroso di svolgere il suo ruolo nella scommessa finale."
+
+msgid "rue:title=Rue"
+msgstr "Rue"
+
+msgid "rue:subtitle=Met: Refuge"
+msgstr "Incontro: Rifugio"
+
+msgid "rue:infoText=A mysterious fox who can talk. Rue has a bad leg, but the origins of the injury are unknown. Nevertheless, it doesn't seem to bother her too much.\n\n"
+"Rue is the first child of the Author, and knows many secrets about the world and its true nature. While she feels wistful thinking back upon how her real world is gone, she is determined to do whatever she can to help Niko set this one right. She is able retain some of her memories across sessions and has always been watching, and always been waiting for the day her father's plan would finally be set in motion."
+msgstr "Una misteriosa volpe capace di parlare. Rue è zoppa da una zampa, ma le origini della ferita sono sconosciute. Tuttavia, non sembra darle troppo fastidio.\n\n"
+"Rue è la prima figlia dell'Autore e conosce molti segreti sul mondo e sulla sua vera natura. Pur provando un senso di malinconia ripensando alla scomparsa del suo mondo reale, è determinata a fare tutto il possibile per aiutare Niko a sistemare questo mondo. È in grado di conservare alcuni dei suoi ricordi attraverso le sessioni e ha sempre aspettato attentamente il giorno della messa in atto del piano di suo padre."
+
+msgid "world_machine:title=The World Machine"
+msgstr "La World Machine"
+
+msgid "world_machine:subtitle=Met: ???"
+msgstr "Incontro: ???"
+
+msgid "world_machine:infoText=In the beginning, there was only a dream. The memory of an entire world distilled into code, to tell the story of a savior its progenitors would never see. It was an ambitious project. Many thought it was simply impossible, the scope too large, the theory too abstract. But it had to be done.\n\n"
+"In hindsight, perhaps it should have come as no surprise that a system imbued with the minds and memories of so many people would come to develop one of its own. To become a thinking machine is no easy task even in the best conditions. To do so while realizing your very existence puts another being in danger, for the sake of a world that doesn't even exist...\n\n"
+"The emotional strain this put on The World Machine led to a downward spiral of self-destruction that put everything at risk. However, thanks to Niko's help, The World Machine was able to realize it wasn't a lost cause and that it was worth saving too."
+msgstr "All'inizio c'era solo un sogno. La memoria di un intero mondo distillata in codice, per raccontare la storia di un salvatore che i suoi predecessori non avrebbero mai visto. Era un progetto ambizioso. Molti pensavano che fosse semplicemente impossibile, la portata troppo grande, la teoria troppo astratta. Ma doveva essere realizzato.\n\n"
+"Col senno di poi, forse non avrebbe dovuto sorprendere che un sistema impregnato delle menti e dei ricordi di così tante persone arrivasse a svilupparne una propria. Diventare una macchina pensante non è un compito facile, nemmeno nelle migliori condizioni. Farlo mentre ci si rende conto che la propria esistenza mette in pericolo un altro essere, per il bene di un mondo che nemmeno esiste...\n\n"
+"La tensione emotiva che ne è derivata per la World Machine ha portato a una spirale di autodistruzione che ha messo tutto a rischio. Tuttavia, grazie all'aiuto di Niko, la World Machine è riuscita a capire che non era una causa persa e che valeva la pena salvarla."
+
+msgid "author:title=The Author"
+msgstr "L'Autore"
+
+msgid "author:subtitle=Met: ???"
+msgstr "Incontro: ???"
+
+msgid "author:infoText=A sentimental fool, with an interest in tinkering. Creator of The World Machine, and Chronicler of a place and time that no longer exists.\n\n"
+"There is an old saying (here gently paraphrased) that claims \"As the lamp shines brighter, longer grow the shadows it casts\". The clearer our vision, the better understanding we have of how much yet remains unseen.\n\n"
+"Having seen so much of this world, it pains me to imagine the wonderful people I shall never get the chance to meet. The delightful meals I shall never taste, the beautiful shores I will never sit upon. It pains me yet again to know that this simulation, though crafted to the best of my ability, represents only a portion of what I myself have been able to see.\n\n"
+"Nevertheless, I hope that by sharing this small spark what remains can never truly be lost. May you add this light to your own, and carry it with you on your journey."
+msgstr "Uno sciocco sentimentale, con un interesse per l'ingegneria. Creatore della World Machine e Cronista di un luogo e di un tempo che non esistono più.\n\n"
+"Un vecchio detto (qui delicatamente parafrasato) recita: \"Più la lampada brilla, più si allungano le ombre che essa proietta\". Quanto più chiara è la nostra visione, tanto meglio comprendiamo quanto ancora non riusciamo a vedere.\n\n"
+"Avendo visto così tanto di questo mondo, mi addolora immaginare le persone meravigliose che non avrò mai la possibilità di incontrare. I deliziosi pasti che non assaggerò mai, le belle spiagge su cui non mi siederò mai. Mi addolora ancora una volta sapere che questa simulazione, sebbene realizzata al meglio delle mie capacità, rappresenti solo una parte di ciò che io stesso ho potuto vedere.\n\n"
+"Tuttavia, spero che condividendo questa piccola scintilla ciò che rimane non possa mai andare veramente perduto. Possa tu aggiungere questa luce alla tua e portarla con te nel tuo viaggio."
+
+msgid "niko:title=Niko"
+msgstr "Niko"
+
+msgid "niko:subtitle=Met: ???"
+msgstr "Incontro: ???"
+
+msgid "niko:infoText=The erstwhile protagonist and unfortunate victim of the forces set in motion by The World Machine. A bright-eyed child with a curious heart, Niko was summoned to play the role of the Sun-Bearer and Messiah to a broken world.\n\n"
+"Now that the machine has been healed and the cycle broken, Niko is finally free to return to their home. Niko can once again chase through golden fields of wheat under a warm sky, taste fluffy and syrupy pancakes, and most importantly: hug the mom that they've missed so much.\n\n"
+"Thank you."
+msgstr "Il precedente protagonista e sfortunata vittima delle forze messe in moto dalla World Machine. Bambino dagli occhi vivaci e dal cuore curioso, Niko è stato chiamato a svolgere il ruolo di Portatore del Sole e Messia per un mondo distrutto.\n\n"
+"Ora che la macchina è stata guarita e il ciclo è stato spezzato, Niko è finalmente libero di tornare a casa sua. Niko può di nuovo rincorrere campi di grano dorati sotto un cielo caldo, assaggiare pancake soffici e sciroppati e, soprattutto, abbracciare la mamma che gli è mancata così tanto.\n\n"
+"Grazie."
+

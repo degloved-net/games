@@ -1,0 +1,18 @@
+msgid "$Evacuation? At such short notice?"
+msgstr "$避難？こんなに急に？"
+
+msgid "$I can't believe this..."
+msgstr "$信じられない…"
+
+msgid "$First the sun dies, now I'm out of a job..."
+msgstr "$太陽が死んだと\n思ったら、今度は仕事が\nなくなるなんて…"
+
+msgid "@niko Some sort of mechanical drawing."
+msgstr "@niko 何かの図面だ。"
+
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko ロボットだ。直せそうにないね…"
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko ハシゴ、怖い…"
+

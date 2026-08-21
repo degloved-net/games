@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るいね。"
+
+msgid "Squares are bad news, man. \\>\\nStay away from 'em, kids!"
+msgstr "四角形は厄介だ。 \\>\\n絶対近づいたらダメだぞ！"
+
+msgid "@alula We will!"
+msgstr "@alula ラジャー！"
+
+msgid "Stay away from the squares, okay?"
+msgstr "四角形には近づくな、いいな？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "Last week, I saw more of those squares while out fishing."
+msgstr "先週、釣りに出かけたときに四角形を見た。"
+
+msgid "I knew better than to get too close, though."
+msgstr "危険だと分かっていたから、\n近寄らなかったけどな。"
+
+msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
+msgstr "@alula_oh あ！ \\>\\@alula_pout 入り口にあったのはそれね…"
+
+msgid "Oh, so you saw it too, huh..."
+msgstr "ほう、それじゃあ君も見たのか…"
+
+msgid "@alula_oh Yeah! \\>\\@alula_pout My brother told me not to touch those!"
+msgstr "@alula_oh うん！ \\>\\@alula_pout お兄ちゃんは触るなって言ってた！"
+
+msgid "Yeup. He gets it."
+msgstr "よし。君のお兄さんは分かってるな。"
+
+msgid "@niko Squares?"
+msgstr "@niko 四角形？"
+
+msgid "Squares, man.\\nThey're bad news."
+msgstr "そう、四角形。\\nあれはかなり厄介だ。"
+

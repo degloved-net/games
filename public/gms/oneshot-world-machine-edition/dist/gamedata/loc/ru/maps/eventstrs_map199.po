@@ -1,0 +1,39 @@
+msgid "@niko3 The bridge is out..."
+msgstr "@niko3 Мост разрушен..."
+
+msgid "@niko4 They're in the door..."
+msgstr "@niko4 Они в дверях..."
+
+msgid "@niko4 The bridge is broken..."
+msgstr "@niko4 Мост разрушен."
+
+msgid "@niko2 ...\\>\\nHe has no power..."
+msgstr "@niko2 ...\\>\\nОн разряжен..."
+
+msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
+msgstr "@green_gatekeeper [Н\\.#Е.%% \\.ПР;ИБ\\.o Ли//жАЙ\\.ТЕ#СЬ.]"
+
+msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
+msgstr "@green_gatekeeper [ВО\\.#р.%%О\\.Т;А За\\. К//РЫ Т\\.Ы НА\\. Не\\.#ОПРЕ\\.#ДЕ\\|ЛЁН\\.%Н\\.ЫЙ \\.С%%РОК.]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko3 Isn't that...\\.\\. the city gate?"
+msgstr "@niko3 Это же...\\.\\. городские ворота?"
+
+msgid "@niko4 It's..."
+msgstr "@niko4 Это..."
+
+msgid "@niko2 ...looks like parts of the ground is missing."
+msgstr "@niko2 Как будто не хватает кусков земли."
+
+msgid "@niko_eyeclosed I wonder if it's safe to walk across these vines..."
+msgstr "@niko_eyeclosed Не знаю, безопасно ли идти через эти лозы."
+
+msgid "@niko6 ...one way to find out, I guess..."
+msgstr "@niko6 Есть только один способ узнать..."
+
+msgid "@niko_eyeclosed They're safe..."
+msgstr "@niko_eyeclosed Они не опасны."
+

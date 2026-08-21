@@ -1,0 +1,81 @@
+msgid "@niko A stapler."
+msgstr "@niko Степлер."
+
+msgid "@niko_speak It's bolted to the table..."
+msgstr "@niko_speak Он прикреплён к столу..."
+
+msgid "[I AM THE POWER ROOM MECHANIC.]"
+msgstr "[Я МЕХАНИК ГЕНЕРАТОРНОГО ЗАЛА.]"
+
+msgid "[DO YOU HAVE AN ISSUE TO REPORT?]"
+msgstr "[ВЫ ХОТИТЕ СООБЩИТЬ О КАКОЙ-ТО ПРОБЛЕМЕ?]"
+
+msgid "@niko Do you know anything about an elevator code?"
+msgstr "@niko Вы ничего не знаете о коде в лифте?"
+
+msgid "[ELEVATOR CODE...]"
+msgstr "[КОД В ЛИФТЕ...]"
+
+msgid "[COMMAND NOT RECOGNIZED]"
+msgstr "[КОМАНДА НЕ РАСПОЗНАЁТСЯ]"
+
+msgid "@niko_eyeclosed Well, worth a shot."
+msgstr "@niko_eyeclosed Что ж, рискнуть стоило."
+
+msgid "@niko Yeah, actually..."
+msgstr "@niko Вообще-то да..."
+
+msgid "@niko_speak The surface access elevator appears to be broken!"
+msgstr "@niko_speak Лифт до поверхности сломался!"
+
+msgid "@niko There's a button missing, and..."
+msgstr "@niko Там нет кнопки и..."
+
+msgid "@niko_speak Can you go take a look?"
+msgstr "@niko_speak Вы не могли бы пойти посмотреть?"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "[LEAVING THIS ROOM IS NOT IN MY PROGRAMMING.]"
+msgstr "[МОЙ КОД ЗАПРЕЩАЕТ МНЕ ПОКИДАТЬ ЭТО ПОМЕЩЕНИЕ.]"
+
+msgid "@niko_eyeclosed Ah, nevermind..."
+msgstr "@niko_eyeclosed Ай, ладно..."
+
+msgid "[I AM ONLY ABLE TO FIX ISSUES IN THIS BUILDING.]"
+msgstr "[Я МОГУ УСТРАНЯТЬ ПРОБЛЕМЫ ТОЛЬКО В ПРЕДЕЛАХ ЭТОГО ЗДАНИЯ.]"
+
+msgid "[SORRY FOR THE INCONVENIENCE.]"
+msgstr "[ПРОШУ ПРОЩЕНИЯ ЗА ДОСТАВЛЕННЫЕ НЕУДОБСТВА.]"
+
+msgid "@niko It's okay..."
+msgstr "@niko Ничего страшного..."
+
+msgid "$They are just bolted so people won't steal them."
+msgstr "$Они прикреплены к столу, чтобы никто их не украл."
+
+msgid "$Feel free to use, though!"
+msgstr "$Пользуйтесь на здоровье!"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko Какой-то компьютерный терминал..."
+
+msgid "@niko A tape dispenser."
+msgstr "@niko Скотч."
+
+msgid "@niko Oh, of course! I gotta tape it together or it might fall apart."
+msgstr "@niko Ой, конечно! Я должен склеить их вместе, чтобы она не разваливалась."
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak Хорошая мысль, \\p!"
+
+msgid "@niko Oh, I could hold it together with tape."
+msgstr "@niko О, я мог бы склеить её скотчем."
+
+msgid "@niko_eyeclosed I should've done this in the first place..."
+msgstr "@niko_eyeclosed Надо было сразу это делать..."
+
+msgid "@niko If I cut off a piece of tape to keep it would just lose its stickiness."
+msgstr "@niko Если я вырежу кусок скотча про запас, он перестанет клеиться."
+

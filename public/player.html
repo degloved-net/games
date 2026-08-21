@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Player</title>
+	<style>
+		body, html {
+			height: 100%;
+			margin: 0;
+			background: #000;
+			overflow: hidden;
+		}
+		#game {
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+
+<div id="game"></div>
+<script>
+	(async () => {
+		const PORT_REDIRECTS = {
+			'animal crossing population growing':
+				'/rooms/gamecube/animal-crossing-population-growing/',
+			'super mario 64':
+				'/rooms/n64/super-mario-64/',
+			'gta vice city':
+				'/rooms/ps2/gta-vice-city/',
+		};
+		const params = new URLSearchParams(location.search);
+		const rom    = params.get('rom');
+		const system = params.get('system');
+		const name   = params.get('name');
+		const portUrl = name && PORT_REDIRECTS[name.toLowerCase()];
+		if (portUrl) {
+			location.replace(portUrl);
+			return;
+		}
+		if (system === '3ds') {
+			location.replace('/emu/azahar/?embed=1&autoload=' + encodeURIComponent(rom || ''));
+			return;
+		}
+		if (system === 'ps2') {
+			location.replace('/emu/purei/ps2-player.html?rom=' + encodeURIComponent(rom || '') + '&name=' + encodeURIComponent(name || ''));
+			return;
+		}
+		if (!rom || !system) {
+			document.body.innerHTML = '<p style="color:white;text-align:center;margin-top:50px;">error loading game</p>';
+			return;
+		}
+		window.EJS_player = '#game';
+		window.EJS_gameName = name;
+		window.EJS_biosUrl = '';
+		window.EJS_gameUrl = rom;
+		window.EJS_core = system;
+		window.EJS_pathtodata = '/emu/emulatorjs/data/';
+		window.EJS_startOnLoaded = true;
+		window.EJS_disableDatabases = true;
+		window.EJS_threads = true;
+
+		const script = document.createElement('script');
+		script.src = '/emu/emulatorjs/data/loader.js';
+		document.body.appendChild(script);
+	})();
+</script>
+</body>
+</html>

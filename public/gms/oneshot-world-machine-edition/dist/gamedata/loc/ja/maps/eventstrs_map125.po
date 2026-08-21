@@ -1,0 +1,120 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 大きな本がたくさん積まれてる。"
+
+msgid "@niko One of them is a robot instruction manual..."
+msgstr "@niko そのうち1つは、ロボットの取扱説明書だ…"
+
+msgid "@niko A painting of 4 robots playing cards."
+msgstr "@niko カード遊びをしている4体のロボットの絵。"
+
+msgid "@niko A picture of many 1's and 0's."
+msgstr "@niko 1と0がたくさんある絵。"
+
+msgid "[Hello. Would You Like To Play A Game?]"
+msgstr "[どうモ。ゲームで遊ぶカ？]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko Sure!"
+msgstr "@niko いいよ！"
+
+msgid "[What Game Would You Like To Play?]"
+msgstr "[どのゲームヲ遊ぶカ？]"
+
+msgid "@niko Hmm...."
+msgstr "@niko うーんと…"
+
+msgid "@niko_speak Do you know rock paper scissors?"
+msgstr "@niko_speak じゃんけんって知ってる？"
+
+msgid "[Desired Difficulty Level?]"
+msgstr "[希望する難易度ハ？]"
+
+msgid "@niko Huh?"
+msgstr "@niko え？"
+
+msgid "[Desired Duration Of Turns?]"
+msgstr "[希望するターンの長さハ？]"
+
+msgid "@niko_speak Uh..."
+msgstr "@niko_speak あー…"
+
+msgid "[Please Set Your Timer.]"
+msgstr "[タイマーをセットしロ。]"
+
+msgid "@niko_eyeclosed ...Nevermind..."
+msgstr "@niko_eyeclosed …なんでもない…"
+
+msgid "@niko How about... hide and seek?"
+msgstr "@niko じゃあ…かくれんぼとかは…？"
+
+msgid "@niko_speak Well... maybe not too easy?"
+msgstr "@niko_speak えっと…簡単すぎるのは嫌かな。"
+
+msgid "[Initiating. Ruthless Mode.]"
+msgstr "[開始中。ビシバシモード。]"
+
+msgid "[TARGET: LOCKED.\\| YOU HAVE EXACTLY 14 SECONDS.\\nSTART.\\| RUNNING.]"
+msgstr "[ターゲット:ロック済。\\|残り14秒。\\nスタート。\\|走っテ。]"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf …"
+
+msgid "@niko_wtf2 ...I'm not sure if I want to play anymore."
+msgstr "@niko_wtf2 …やっぱりやりたくないかも。"
+
+msgid "[OH.\\| Session. Abort.]"
+msgstr "[ナント！\\|セッション。中断。]"
+
+msgid "[Are You. Feeling Unwell?]"
+msgstr "[アナタ。気分ガ優れないのカ？]"
+
+msgid "@niko No, it's not that..."
+msgstr "@niko ううん、そういうのじゃなくて…"
+
+msgid "@niko I'll... pass."
+msgstr "@niko ミーは…やめとくよ。"
+
+msgid "My parents are like, literally never home."
+msgstr "私の両親はね、いつも家にいないの。"
+
+msgid "But I don't mind! I'm used to it!"
+msgstr "でも気にしてないわ！慣れっこだもの！"
+
+msgid "Besides, I've got model C-WT 2nd gen unit 4E here to keep me company now!"
+msgstr "それに、C-WT第2世代ユニット4Eが\n相手をしてくれているから！"
+
+msgid "She still talks a little weird sometimes, but that's okay! She's learning!"
+msgstr "たまに変な話し方をするけれど、\n別にいいの！だんだん学習してきているし！"
+
+msgid "If I work real hard, she might even be tamed someday!"
+msgstr "がんばれば、いつかこの子を\n制御化できるかもしれない！"
+
+msgid "@niko I keep hearing that word..."
+msgstr "@niko その言葉、よく耳にするけど…"
+
+msgid "What, tame?"
+msgstr "制御化のこと？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@niko Nobody's told me what it means yet..."
+msgstr "@niko ミーはその意味を、\nまだ誰からも教わってない…"
+
+msgid "That's just a robot thing!\\n\\....I can't really explain it, either..."
+msgstr "ロボット関連の単語よ！\\n\\.どうやって説明したらいいのか\n分からないけれど…"
+
+msgid "@niko Ah..."
+msgstr "@niko そっか…"
+
+msgid "What? Don't you like to play \"Run Away From The Killer Robot\"?"
+msgstr "どうしたの？「鬼ごっこ殺りくロボver.」が\n気に入らない？"
+
+msgid "..."
+msgstr "…"
+
+msgid "Well, at least *I* have fun with it."
+msgstr "まあ、少なくとも *私は* 楽しいわ。"
+

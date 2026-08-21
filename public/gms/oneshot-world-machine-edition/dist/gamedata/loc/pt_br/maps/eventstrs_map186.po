@@ -1,0 +1,15 @@
+msgid "@niko We should get going now, \\p."
+msgstr "@niko Acho melhor irmos andando, \\p."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed Eu me cansei de caminhar."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak Tudo bem se eu tirar um cochilo?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sim\",\"Não\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed Ah, bom... \\>\\n\\@niko Acho que temos mais trabalho a fazer."
+

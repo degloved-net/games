@@ -1,0 +1,201 @@
+msgid "@niko This bar should open it."
+msgstr "@niko これなら…"
+
+msgid "@niko_eyeclosed The pipe won't fit under the cracks, \\p!"
+msgstr "@niko_eyeclosed このパイプじゃ割れ目に\n入りそうにないよ、 \\p！"
+
+msgid "@niko We'll need to flatten it somehow..."
+msgstr "@niko どうにかして、平たくしないと…"
+
+msgid "@niko The screwdriver's not nearly big enough to pry it open."
+msgstr "@niko ドライバーが小さすぎてこじ開けられない。"
+
+msgid "@niko_speak This box looks interesting!"
+msgstr "@niko_speak 面白そうな箱だ！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_eyeclosed I wish I had something to pry it open with..."
+msgstr "@niko_eyeclosed 何かこじ開けるものがあればなあ…"
+
+msgid "@niko There's a little metal cube and some broken glass in here..."
+msgstr "@niko 金属製の小さな箱みたいなのと、\n割れたガラスが入ってる…"
+
+msgid "@niko_speak Looks like what used to be a machine part."
+msgstr "@niko_speak むかし使われてた機械の部品みたい。"
+
+msgid "@niko It says 'Solar Battery' on the side."
+msgstr "@niko 横に「太陽光バッテリー」って書いてあるよ。"
+
+msgid "@niko It's empty now."
+msgstr "@niko もう空っぽ。"
+
+msgid "@niko Still got some shards of glass at the bottom, though."
+msgstr "@niko でも、まだ底にはガラスの破片があるよ。"
+
+msgid "$1. A robot may not injure a living person or, through inaction, allow a person to come to harm."
+msgstr "$1. ロボットは人間に\n危害を加えては\nならない。また、人間に\n対する危害を看過しては\nならない。"
+
+msgid "$2. A robot must obey the orders given to it by people, except where such orders would conflict with the First Law."
+msgstr "$2. ロボットは人間の\n命令に従わなければ\nならない。ただし、\nその命令が第一条に\n反する場合を除く。"
+
+msgid "$3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+msgstr "$3. ロボットは、第一条\nまたは第二条に反する\nおそれのない限り、\nその存在を守らなければ\nならない。"
+
+msgid "@niko It's a faded poster."
+msgstr "@niko 色あせたポスターだ。"
+
+msgid "$REMINDER TO ALL WORKERS:"
+msgstr "$全作業員へ注意書き："
+
+msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
+msgstr "$最も珍しい形態の青色\n蛍光体は、蛍光エビの\n放卵周期に発見する\nことができます。"
+
+msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
+msgstr "$池の水面が泡で\n覆われているのを\n発見した時は、ただちに\n管理部門に\nご連絡ください！"
+
+msgid "$We will dispatch a harvest team ASAP."
+msgstr "$即時に採取チームを\n派遣します。"
+
+msgid "@niko A robot without power."
+msgstr "@niko 動力がないロボット。"
+
+msgid "[I AM FUNCTIONAL!]"
+msgstr "[機能ガ正常になりましタ！]"
+
+msgid "[DID YOU POWER THE GENERATOR?]"
+msgstr "[発電機ノ電源を入れたのですカ？]"
+
+msgid "@niko I...\\.\\. \\@niko_speak guess we did!"
+msgstr "@niko うん…\\.\\. \\@niko_speak たぶんそう！"
+
+msgid "@niko Right, \\p?"
+msgstr "@niko だよね、 \\p？"
+
+msgid "$Five new positions available at the mines."
+msgstr "$鉱山で、新たに\n5つの職種が\n募集を開始。"
+
+msgid "$Housing and other provisions are included upon hiring."
+msgstr "$待遇には、住居提供や\nその他の条件なども\n含まれます。"
+
+msgid "$First come, first serve."
+msgstr "$早い者勝ち！"
+
+msgid "@niko A robot."
+msgstr "@niko ロボットだ。"
+
+msgid "@niko It seems to be ok! Just doesn't have power."
+msgstr "@niko 大丈夫そう！動力がないだけ。"
+
+msgid "[I CAN WALK!]"
+msgstr "[歩けまス！]"
+
+msgid "$The use of a robot as our replacement head engineer seems unorthodox."
+msgstr "$主任技術者の\n後任としてロボットが\n任命されるのは、\n異例の処置だろう。"
+
+msgid "$...especially the one responsible for last year's incident."
+msgstr "$…ことさら、昨年起きた\n事件の当事者がその\n交代要員だなんて。"
+
+msgid "$I suppose they had to get her away from the city, but that doesn't make it easier to swallow for those of us who work here!"
+msgstr "$彼女を街から追放\nしなければならないのは\n理解できるが、その理由\nだけでここの従業員が\n納得いくはずがない！"
+
+msgid "$I hope that man knows what he's doing."
+msgstr "$あの男…自分が何をして\nいるのか分かっていると\nいいのだが。\n--管理部門"
+
+msgid "$--Management"
+msgstr "$"
+
+msgid "$SELF-CHARGING SOLAR BATTERY MODEL N-87\\n(One year warranty included)"
+msgstr "$自己充電型\n太陽光バッテリー\n モデル N-87\\n（1年間の保証付き）"
+
+msgid "$Simply place your self-charging battery in full daylight with the lens facing up."
+msgstr "$レンズを上向けにし、\n自己充電型バッテリーを\n陽の当たる場所に\n置いてください。"
+
+msgid "$Charges in seconds, no external power is needed."
+msgstr "$数秒で充電が完了し、\n外部電源は不要です。"
+
+msgid "$TROUBLESHOOTING MANUAL."
+msgstr "$トラブルシューティング\nマニュアル。"
+
+msgid "$If the battery fails to charge, check to see if the lens on the front side has not been dislodged during transport."
+msgstr "$バッテリーが充電\nされない場合、前面の\nレンズが輸送中に外れた\n可能性があるので、\nご確認ください。"
+
+msgid "$One charge cycle will last about ten days."
+msgstr "$一度の充電で\n10日間ほど持続します。"
+
+msgid "$If you notice a decline in the charge cycle within the warranty period, please contact the manufacturer."
+msgstr "$保証期間内に\n充電サイクルの低下に\nお気づきになった\n場合は、製造者に\nお問い合わせください。"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 電源が入らない。"
+
+msgid "@niko The screen says \"DOCUMENTS\"."
+msgstr "@niko 画面には「ドキュメント」って表示されてるよ。"
+
+msgid "@niko_eyeclosed I can't seem to make the computer do anything else..."
+msgstr "@niko_eyeclosed このコンピューター、他の操作は\nできないみたい…"
+
+msgid "@ed [The code is contained within a \\c[2]Document\\c[0].]"
+msgstr "@ed [コードは\\c[2]ドキュメント\\c[0]の中にある。]"
+
+msgid "@ed [The \\c[2]Document\\c[0] has found a place it belongs outside the game.]"
+msgstr "@ed [\\c[2]ドキュメント\\c[0]はゲームの外に\n居場所を見つけた。]"
+
+msgid "Do you know where to find Documents, \\p?"
+msgstr "ドキュメントの場所は分かるか、 \\p？"
+
+msgid "@ed [Good. Start looking.]"
+msgstr "@ed [よろしい。それではすぐに探したまえ。]"
+
+msgid "@ed [Don't you know that there's a designated area for \\c[2]Documents\\c[0] on your own machine?]"
+msgstr "@ed [君の機械に、\\c[2]ドキュメント\\c[0]用に指定された\n保管場所があることを知らないのか？]"
+
+msgid "@ed [Some god you are.]"
+msgstr "@ed [とんだ神様だな。]"
+
+msgid "@ed [...]"
+msgstr "@ed […]"
+
+msgid "@ed [Look in the Documents folder on your computer.]"
+msgstr "@ed [コンピューターのドキュメントフォルダ内を\n探してみたまえ。]"
+
+msgid "@ed [I don't think I could've made it any more clear.]"
+msgstr "@ed [これ以上、言いようがない。]"
+
+msgid "@ed [I see you've made progress in this world, \\p.]"
+msgstr "@ed [うまく進んでいるようじゃないか、 \\p。]"
+
+msgid "@ed [But that progress stops here.]"
+msgstr "@ed [だが、君はここで一度\n足踏みすることになる。]"
+
+msgid "@ed [I believe you need a code to unlock a certain box.]"
+msgstr "@ed [とある箱を開けるために\nコードが必要だ。]"
+
+msgid "@ed [Well, the code no longer exists in THIS world.]"
+msgstr "@ed [だが、そのコードは\nこの世界には既に存在しない。]"
+
+msgid "...Do you understand what this means, \\p?"
+msgstr "…これがどういう意味かわかるか、 \\p？"
+
+msgid "@ed [You... still don't know the extent of the world's deterioration, do you, \\p?]"
+msgstr "@ed [君は…世界がどれほどの規模で崩壊\nしているか、まだ知らないようだな。]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [やれやれ…]"
+
+msgid "@ed [...most of the time, stray pieces of this world would be lost to blissful nothingness.]"
+msgstr "@ed […この世界の迷える欠片は\nほとんどがめでたく消滅するだろう。]"
+
+msgid "@ed [But this code, this \\c[2]Document\\c[0], is an exception.]"
+msgstr "@ed [だが、このコード…\nこの\\c[2]ドキュメント\\c[0]は例外だ。]"
+
+msgid "@ed [I was able to salvage it, because Niko needs the code to progress.]"
+msgstr "@ed [私が回収したのさ。\nニコが先へ進むには、そのコードが必要になるからだ。]"
+
+msgid "@ed [Now, go find it.]"
+msgstr "@ed [さあ、探しに行きたまえ。]"
+
+msgid "@niko Dusty shelves."
+msgstr "@niko 埃っぽい棚。"
+

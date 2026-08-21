@@ -1,0 +1,51 @@
+msgid "@ed [By the way, the effect is temporary.]"
+msgstr "@ed [Por cierto, el efecto es temporal.]"
+
+msgid "@ed [It will be gone once you no longer need it.]"
+msgstr "@ed [Desaparecerá cuando ya no lo necesites.]"
+
+msgid "@ed [Still haven't figured it out?]"
+msgstr "@ed [¿Aún no lo has averiguado?]"
+
+msgid "@ed [...you remember the document, correct?]"
+msgstr "@ed [... recuerdas el documento, ¿verdad?]"
+
+msgid "@ed [This time it's even more obvious.]"
+msgstr "@ed [Esta vez es incluso más obvio.]"
+
+msgid "@ed [What's the most \\c[2]easily accessible\\c[0] place on your machine?]"
+msgstr "@ed [¿Cuál es el lugar más \\c[2]accesible\\c[0] de tu máquina?]"
+
+msgid "@ed [Hello again, \\p.]"
+msgstr "@ed [Hola de nuevo, \\p.]"
+
+msgid "@ed [It seems I need to help you again.]"
+msgstr "@ed [Parece que tengo que ayudarte de nuevo.]"
+
+msgid "@ed [Niko will not be able to progress otherwise.]"
+msgstr "@ed [De lo contrario, Niko no será capaz de progresar.]"
+
+msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
+msgstr "@ed [En esta ocasión, la información que necesitas se encuentra en el lugar más accesible de tu máquina.]"
+
+msgid "Do you see it?"
+msgstr "¿Lo ves?"
+
+msgid "@ed [You'll know what to do with it, then.]"
+msgstr "@ed [Ya sabrás lo que hay que hacer con esto.]"
+
+msgid "@ed [I know you're not exactly that bright for a god, \\p, but this shouldn't be difficult.]"
+msgstr "@ed [Sé que, para ser una divinidad, no eres precisamente brillante, \\p, pero no debería ser difícil.]"
+
+msgid "@ed [Just poke around a bit. It really isn't hard to miss.]"
+msgstr "@ed [Tan solo rebusca un poco. Puede que se te haya pasado por alto.]"
+
+msgid "@ed [...This...]"
+msgstr "@ed [... Esto es...]"
+
+msgid "@ed [How did you already know the answer?]"
+msgstr "@ed [¿Cómo sabías la respuesta?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+

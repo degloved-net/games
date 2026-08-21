@@ -1,0 +1,288 @@
+msgid "@shepherd My rams clock at 1333 megaherds."
+msgstr "@shepherd 내 양의 클락 수는 1333매애애애가헤르츠야."
+
+msgid "@niko ...what?"
+msgstr "@niko ...네?"
+
+msgid "@shepherd You're heading to the city, aren't you?"
+msgstr "@shepherd 도시로 가는 중이로구나, 그렇지?"
+
+msgid "@shepherd Been there, done that."
+msgstr "@shepherd 나도 가 봤지."
+
+msgid "@shepherd Too cramped, you know?"
+msgstr "@shepherd 비좁은 곳이야. 알고 있어?"
+
+msgid "@shepherd But it's not like this place is getting any bigger with the rising waters and all."
+msgstr "@shepherd 하긴, 여기도 물이 밀려들면서 점점 작아지고 있지만."
+
+msgid "@shepherd Hm...maybe the city isn't so bad after all..."
+msgstr "@shepherd 흐음... 어쩌면 도시도 그리 나쁘지 않을지도 모르겠네..."
+
+msgid "@shepherd The rams are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd 양들이 모두 운기가 나쁜 곳에 서 있어.\\n네가 할 일은 양들을 검은 이끼가 있는 곳으로 유도하는 거야."
+
+msgid "@shepherd If you get stuck, ring a bell and they'll all return to their original positions."
+msgstr "@shepherd 만약 막히면 종을 쳐. 그럼 양들이 원래 위치로 돌아갈 테니까."
+
+msgid "@shepherd Good luck."
+msgstr "@shepherd 행운을 빌게."
+
+msgid "@niko Hello."
+msgstr "@niko 안녕하세요."
+
+msgid "@shepherd Hm...\\nI need someone to help me herd my rams..."
+msgstr "@shepherd 흐음...\\n양을 몰아줄 사람이 필요한데..."
+
+msgid "@niko_speak Oh! \\.\\@niko I can do that!"
+msgstr "@niko_speak 아! \\.\\@niko 제가 도와드릴게요!"
+
+msgid "@niko I've seen some grownups do it back home... \\@niko_speak You kinda just push them around!"
+msgstr "@niko 고향에서 어른들이 하는 걸 봤어요... \\@niko_speak 그냥 양을 밀면 되던데요!"
+
+msgid "@shepherd Hmm...\\.\\. But you are carrying the sun."
+msgstr "@shepherd 흐음...\\.\\.하지만 너, 태양을 들고 있군."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@niko_speak Wait, can't you just... watch the sun for me?"
+msgstr "@niko_speak 잠깐만요. 그럼 이 태양을 잠깐만 봐 주시면 안 되나요?"
+
+msgid "@shepherd I cannot.\\nI am but a simple shepherd."
+msgstr "@shepherd 그건 안 돼.\\n난 그저 양치기일 뿐이니까."
+
+msgid "@niko_eyeclosed Um... okay..."
+msgstr "@niko_eyeclosed 어... 알았어요..."
+
+msgid "@shepherd Come back when your hands are free. You will be rewarded if you can herd my rams."
+msgstr "@shepherd 손이 비었을 때 다시 찾아오도록 해. 내 일을 도와주면 상을 줄게."
+
+msgid "@shepherd Oh. I see your hands are now free."
+msgstr "@shepherd 오, 이제 손이 비었구나."
+
+msgid "@shepherd Would you like to help me herd my rams?\\nThere's a great reward in store for you, I promise."
+msgstr "@shepherd 양을 모는 일을 좀 도와주겠어?\\n잘 끝내면 보수를 줄게. 약속하지."
+
+msgid "@niko Uh..."
+msgstr "@niko 어..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@shepherd Excellent!\\nTo the south is a peninsula inhabited by my rams."
+msgstr "@shepherd 고마워!\\n남쪽으로 내려가면 양 떼가 모여 있는 반도가 있어."
+
+msgid "@shepherd They are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd 그 애들은 모두 운기가 나쁜 곳에 서 있지.\\n네가 할 일은 양들을 검은 이끼가 있는 곳으로 유도하는 거야."
+
+msgid "@niko Looks like we gotta herd some rams now, Alula."
+msgstr "@niko 알룰라, 아무래도 우리가 저 양을 몰아야할 모양이야."
+
+msgid "@alula Can I help?"
+msgstr "@alula 내가 도와줄까?"
+
+msgid "@niko_speak Sure!"
+msgstr "@niko_speak 좋지!"
+
+msgid "@shepherd Very well.\\> Come back when you reconsider."
+msgstr "@shepherd 알았어.\\> 마음이 바뀌거든 언제든지 돌아와."
+
+msgid "The crops have been growing poorly without the sun...\\nAnd there's no telling how long our surpluses will last."
+msgstr "태양이 없어서 작물이 제대로 자라지 않아...\\n남은 식량으로 얼마나 버틸 수 있을지 알 수 없어."
+
+msgid "Please, savior, you have to hurry!"
+msgstr "구원자, 부탁인데 서둘러 줘!"
+
+msgid "@niko_speak I..."
+msgstr "@niko_speak 저기..."
+
+msgid "@niko I'll do my best."
+msgstr "@niko 최선을 다해 볼게요."
+
+msgid "The light from these lanterns will have to do for now."
+msgstr "당분간은 이 등의 불로 버텨야겠어."
+
+msgid "I'm starting to see some very small sprouts."
+msgstr "이제서야 작은 싹이 보이기 시작했어."
+
+msgid "It will probably take some time for these to bear fruit..."
+msgstr "열매를 맺으려면 아마 오랜 시간이 걸리겠지..."
+
+msgid "Most of the green moss covering our village has already lost its glow..."
+msgstr "우리 마을을 덮고 있던 녹색 이끼가 대부분 빛을 잃고 말았어..."
+
+msgid "If it wasn't for the thin strip left on the boundaries of the land, people could easily fall into the ocean."
+msgstr "땅과 바다의 경계선에 가늘게 남은 이끼가 없다면, 아마 사람들은 쉽게 바다에 빠지겠지."
+
+msgid "Without light, land and water becomes indistinguishable here."
+msgstr "빛이 사라지면 육지와 바다의 구분도 사라지거든."
+
+msgid "Wooow!"
+msgstr "와아!"
+
+msgid "Is that the sun?"
+msgstr "그거 태양이야?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak 네!"
+
+msgid "And you're holding it?"
+msgstr "태양을 들고 있네?"
+
+msgid "Isn't it hot?"
+msgstr "안 뜨거워?"
+
+msgid "@niko Not really!"
+msgstr "@niko 안 뜨거워!"
+
+msgid "@niko It's nice and warm!"
+msgstr "@niko 아주 기분 좋고 따뜻해!"
+
+msgid "Your eyes glow in the dark!"
+msgstr "네 눈이 어둠 속에서 빛나는데!"
+
+msgid "Just like the sun!"
+msgstr "마치 태양 같아!"
+
+msgid "@alula_speak That's what I said!"
+msgstr "@alula_speak 그러게 말이야!"
+
+msgid "The land is fragmenting at an alarming rate..."
+msgstr "대지가 빠른 속도로 무너지고 있어..."
+
+msgid "I don't like to think about the day when this town finally loses to the intruding sea."
+msgstr "이 마을이 바다에 잠기는 일 같은 건 상상도 하기 싫어..."
+
+msgid "We'll have to find another place to settle..."
+msgstr "새롭게 정착할 곳을 찾아야만 해..."
+
+msgid "@niko_speak Apparently this moss tastes like fish!"
+msgstr "@niko_speak 이끼에서 생선 맛이 난대요!"
+
+msgid "@niko_eyeclosed That's... actually kinda weird."
+msgstr "@niko_eyeclosed 이건... 굉장히 이상하네요."
+
+msgid "@niko I suppose I could just eat one, but..."
+msgstr "@niko 하나만 먹어 볼까 봐요..."
+
+msgid "@niko_speak You know what they say about curiosity and the cat!"
+msgstr "@niko_speak 근데 이럴 때면 사람들이 꼭 호기심이 고양이를 죽인다는 둥 하는 이야기를 해요!"
+
+msgid "@niko_eyeclosed Not that I'm a cat..."
+msgstr "@niko_eyeclosed 전 고양이가 아니란 말이에요..."
+
+msgid "@niko This ram is chewing on a ball of moss."
+msgstr "@niko 이 양은 이끼를 먹고 있어요."
+
+msgid "@alula_speak Moss is tasty!"
+msgstr "@alula_speak 이끼는 맛있어!"
+
+msgid "@niko_speak Oh? \\.\\.\\@niko What do they taste like?"
+msgstr "@niko_speak 정말? \\.\\.\\@niko 무슨 맛이 나?"
+
+msgid "@alula Fish!"
+msgstr "@alula 생선 맛이 나!"
+
+msgid "@niko_speak Seriously?"
+msgstr "@niko_speak 정말?"
+
+msgid "@alula_pout Oh, but you have to pick out the darker ones to eat."
+msgstr "@alula_pout 아, 하지만 정말 먹겠다면 어두운 색을 골라야 해."
+
+msgid "@alula_speak Wouldn't wanna eat the glowy stuff!"
+msgstr "@alula_speak 빛나는 건 먹지 않는 게 좋아!"
+
+msgid "@alula That'd be silly."
+msgstr "@alula 바보 같은 짓이지."
+
+msgid "@alula_pout And wasteful!"
+msgstr "@alula_pout 낭비기도 하고!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak Now I'm curious!"
+msgstr "@niko_speak 왠지 궁금해졌어!"
+
+msgid "@niko_speak What do you think they taste like, \\p?"
+msgstr "@niko_speak \\p 님, 어떤 맛이 날까요?"
+
+msgid "@niko_eyeclosed The moss, not the ram..."
+msgstr "@niko_eyeclosed 양 말고, 이끼 말이에요..."
+
+msgid "@niko An empty jar."
+msgstr "@niko 빈 항아리예요."
+
+msgid "@niko This jar is full of milk."
+msgstr "@niko 우유가 가득 든 항아리예요."
+
+msgid "@niko_speak Milk makes you grow taller!"
+msgstr "@niko_speak 우유를 마시면 키가 큰대요!"
+
+msgid "@niko That's what mama always says."
+msgstr "@niko 엄마가 늘 하시던 말씀이죠."
+
+msgid "@niko This jar is full of dry beans."
+msgstr "@niko 말린 콩이 가득 든 항아리예요."
+
+msgid "@niko Two jars."
+msgstr "@niko 항아리가 두 개 있네요."
+
+msgid "@niko I don't know what's in this jar, but it smells kinda like pickles!"
+msgstr "@niko 항아리에 뭐가 들었는지는 몰라도 왠지 오이지 냄새가 나요!"
+
+msgid "@alula_speak I like pickles!"
+msgstr "@alula_speak 난 오이지가 좋아!"
+
+msgid "@niko_eyeclosed I don't!"
+msgstr "@niko_eyeclosed 난 별로!"
+
+msgid "@niko These jars are filled with water."
+msgstr "@niko 물이 가득 든 항아리예요."
+
+msgid "@niko This jar smells like alcohol."
+msgstr "@niko 이 항아리에서는 술 냄새가 나요."
+
+msgid "@niko_speak ...gross!"
+msgstr "@niko_speak ...으웩!"
+
+msgid "@niko I wonder why grown-ups like to drink this stuff?"
+msgstr "@niko 왜 어른들은 이런 걸 마시고 싶어 하는 거지?"
+
+msgid "@niko Alcohol is for setting things on fire."
+msgstr "@niko 알코올 따위, 불을 붙일 때나 쓰는 건데."
+
+msgid "@alula What's a fire?"
+msgstr "@alula 불이 뭐야?"
+
+msgid "@niko_eyeclosed We have much to discuss."
+msgstr "@niko_eyeclosed 할 이야기가 많겠구나."
+
+msgid "@niko It smells nice!"
+msgstr "@niko 좋은 냄새가 나요!"
+
+msgid "@niko It's a firefly jar."
+msgstr "@niko 반딧불이 든 병이에요."
+
+msgid "@alula_gasp Gaaaaaaaasp!"
+msgstr "@alula_gasp 숨막혀어어어어!"
+
+msgid "@niko_speak There's peas in there!"
+msgstr "@niko_speak 콩 종류가 가득해요!"
+
+msgid "@niko Some jars filled with grains."
+msgstr "@niko 항아리 몇 개에 곡물이 들어 있어요."
+
+msgid "@niko There's water in this jar."
+msgstr "@niko 이 항아리에는 물이 있어요."
+
+msgid "@niko A jar full of small rocks."
+msgstr "@niko 작은 돌멩이가 가득한 항아리예요."
+
+msgid "@shepherd You've provided a great service for all of ramkind.\\nIn return...\\.\\nTake this fine ram wool."
+msgstr "@shepherd 양들을 위해 정말 훌륭한 일을 해줬구나.\\n그 답례로...\\.\\n이 양털을 줄게."
+
+msgid "@niko Oh, uh... thanks."
+msgstr "@niko 어, 음... 고마워요."
+

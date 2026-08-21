@@ -1,0 +1,36 @@
+msgid "[ALL OF THESE TERMINALS DO NOT BOOT.]"
+msgstr "[터미널 전체가 기동하지 않습니다.]"
+
+msgid "[I AM NOT SURE WHAT TO DO NOW.]"
+msgstr "[이럴 때 어떤 조치를 해야 하는지 모르겠습니다.]"
+
+msgid "@niko Some of the ink on this page is faded."
+msgstr "@niko 이 종이에 쓰인 글씨가 부분 부분 바랬어요."
+
+msgid "$-likely due some sort of electrical or magnetic interference."
+msgstr "$...일종의 전기 혹은 자기 간섭 때문일 수도 있다."
+
+msgid "$I'm afraid this operation can no longer be sustained, if the servers continue to fail so much that maintenance cannot keep up the pace."
+msgstr "$유지보수 속도보다 서버에서 오류가 발생하는 속도가 빠르다면 작업을 오래 지속할 수 없을 것 같다."
+
+msgid "$Fortunately, it does not seem to be happening to the robots."
+msgstr "$다행히 로봇들에게는 이 현상이 발생하지 않는 듯하다."
+
+msgid "$At least, not at a significant rate."
+msgstr "$발생한다 해도, 적어도 심각하지는 않다."
+
+msgid "$Time will tell."
+msgstr "$시간이 지나면 알 수 있겠지."
+
+msgid "@niko I'm pretty sure these are computers, now..."
+msgstr "@niko 이제 이게 컴퓨터라는 건 알겠어요..."
+
+msgid "[CHECKING... CHECKING...]"
+msgstr "[확인 중... 확인 중...]"
+
+msgid "[TERMINAL DOES NOT RESPOND.]"
+msgstr "[터미널이 응답하지 않습니다.]"
+
+msgid "[THIS IS A PROBLEM.]"
+msgstr "[문제가 발생했습니다.]"
+

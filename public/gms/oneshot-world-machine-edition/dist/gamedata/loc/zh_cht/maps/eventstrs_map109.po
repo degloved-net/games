@@ -1,0 +1,39 @@
+msgid "@Niko A landscape painting."
+msgstr "@niko 風景畫。"
+
+msgid "[Are You. An Intruder?]"
+msgstr "[你是入侵者嗎？]"
+
+msgid "[Because If You Are... I, Model 8-XM Home Security Bot (TM) Serial Number 39232B839W4, Will Have To Report You.]"
+msgstr "[因為是的話……我8-XM型家用保全機器人（TM）序號39232B839W4就必須檢舉你。]"
+
+msgid "@niko Oh, sorry..."
+msgstr "@niko 喔，抱歉……"
+
+msgid "@niko_eyeclosed I... kinda just walked in because the door was unlocked..."
+msgstr "@niko_eyeclosed 我……因為門沒鎖就直接進來了……"
+
+msgid "@niko_speak Do you want me to leave?"
+msgstr "@niko_speak 你要我離開嗎？"
+
+msgid "[Scanning for Suspicious Activity.\\..\\..\\.]"
+msgstr "[正在掃描可疑活動.\\..\\..\\.]"
+
+msgid "[Suspicious Activities Detected: 0 ]"
+msgstr "[已偵測到的可疑活動：0]"
+
+msgid "@niko_eyeclosed Well, I guess as long as I don't do anything bad..."
+msgstr "@niko_eyeclosed 嗯，我想只要我別做壞事……"
+
+msgid "[I Am. Still Monitoring You]"
+msgstr "[我仍然在監視你]"
+
+msgid "[Alert Level Has Been Set To Low]"
+msgstr "[警示層級設定為低]"
+
+msgid "@niko_speak Don't worry! I promise I'll be a good guest!"
+msgstr "@niko_speak 別擔心！我保證我是個好客人！"
+
+msgid "@niko An abstract painting."
+msgstr "@niko 抽象畫。"
+

@@ -1,0 +1,48 @@
+msgid "@niko It's a metal pipe."
+msgstr "@niko C'est un tuyau en métal."
+
+msgid "@niko Must've broken off from one of these terminals..."
+msgstr "@niko Il doit s'être détaché de l'un de ces terminaux..."
+
+msgid "@ed [It's a broken-off section of railing.]"
+msgstr "@ed C'est un morceau de rambarde cassé."
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [Niko prend l'objet.]"
+
+msgid "@niko I'm not sleepy anymore."
+msgstr "@niko Je n'ai plus sommeil."
+
+msgid "@ed [This bed probably looks familiar to you, \\p.]"
+msgstr "@ed [Ce lit vous semble probablement familier, \\p.]"
+
+msgid "@ed [Niko first woke up in this world here.]"
+msgstr "@ed [C'est ici que Niko a vu ce monde pour la première fois.]"
+
+msgid "@ed [It's important that you allow Niko to sleep once in a while.]"
+msgstr "@ed [Vous devez permettre à Niko de dormir de temps en temps, c'est très important.]"
+
+msgid "@ed [The game will exit automatically and can be continued later. Don't be alarmed.]"
+msgstr "@ed [Le jeu se fermera automatiquement et pourra être poursuivi ultérieurement. Pas d'inquiétude.]"
+
+msgid "@ed [But now is no time for rest.]"
+msgstr "@ed [Mais ce n'est pas le moment de se reposer.]"
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed J'en ai un peu marre de marcher."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak Je peux me reposer un peu ?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed Ah, eh bien... \\>\\n\\@niko Nous avons encore du pain sur la planche."
+
+msgid "@niko These machines look like computers."
+msgstr "@niko Ces machines ressemblent à des ordinateurs."
+
+msgid "@ed [What's left of a computer terminal.]"
+msgstr "@ed [Ce qu'il reste d'un terminal informatique.]"
+

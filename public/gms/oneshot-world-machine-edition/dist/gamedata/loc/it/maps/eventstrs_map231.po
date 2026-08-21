@@ -1,0 +1,3 @@
+msgid "@niko_eyeclosed The squares are here too..."
+msgstr "@niko_eyeclosed I quadrati sono anche qui..."
+

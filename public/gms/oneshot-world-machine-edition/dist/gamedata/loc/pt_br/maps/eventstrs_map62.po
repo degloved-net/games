@@ -1,0 +1,84 @@
+msgid "@niko ...\\>\\n\\@niko_speak Sure is taking a while..."
+msgstr "@niko ...\\>\\n\\@niko_speak Está mesmo demorado..."
+
+msgid "@niko I guess this elevator leads to the top of the Tower, \\p..."
+msgstr "@niko Acho que o elevador leva ao topo da Torre, \\p..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...are you excited, \\p?\\>\\n\\@niko We're finally gonna save the world..."
+msgstr "@niko_speak ... você está feliz, \\p?\\>\\n\\@niko Nós finalmente salvaremos o mundo..."
+
+msgid "@niko_speak And I know it's for real this time, cuz you're here!"
+msgstr "@niko_speak E, desta vez, eu sei que é verdade porque você está aqui!"
+
+msgid "@niko And then...\\>\\n\\@niko_speak ...I'll get to go home for real this time, too!"
+msgstr "@niko Então...\\>\\n\\@niko_speak ... Eu vou para minha casa de verdade, dessa vez!"
+
+msgid "@niko I can't wait to see everyone again..."
+msgstr "@niko Mal posso esperar para rever todo mundo..."
+
+msgid "@niko_speak Are you okay, \\p?\\>\\n\\@niko You seem a little quiet..."
+msgstr "@niko_speak Você esta bem, \\p?\\>\\n\\@niko Você não está falando nada..."
+
+msgid "[\"Niko.\", \"...\"]"
+msgstr "[\"Niko.\",\"...\"]"
+
+msgid "@niko_speak ...yeah?"
+msgstr "@niko_speak ... é?"
+
+msgid "@niko_speak ...?"
+msgstr "@niko_speak ...?"
+
+msgid "[\"I need to tell you something.\", \"...\"]"
+msgstr "[\"Eu preciso falar uma coisa.\",\"...\"]"
+
+msgid "@niko ...I'm listening."
+msgstr "@niko ... Estou ouvindo."
+
+msgid "@niko_speak What's going on, \\p?"
+msgstr "@niko_speak O que está acontecendo, \\p?"
+
+msgid "[\"We can't save both.\"]"
+msgstr "[\"Não podemos salvar os dois.\"]"
+
+msgid "@niko ...?"
+msgstr "@niko ...?"
+
+msgid "[\"The world... and you...\"]"
+msgstr "[\"O mundo... e você.\"]"
+
+msgid "@niko ...wh \\>\\@niko3 ...what's that supposed to mean, \\p?"
+msgstr "@niko ... o quê? \\>\\@niko3 ... o que você quer dizer com isso, \\p?"
+
+msgid "[\"To send you home...\"]"
+msgstr "[\"Para mandar você para casa...\"]"
+
+msgid "[\"We must break the lightbulb.\"]"
+msgstr "[\"Nós precisamos quebrar a lâmpada.\"]"
+
+msgid "@niko_shock What??\\>\\n\\@niko3 ...But won't that... \\>\\n\\@niko_distressed2 ...But won't that end the world?"
+msgstr "@niko_shock O quê?!\\>\\n\\@niko3 ... Mas isso... \\>\\n\\@niko_distressed2 ... Mas isso não causará o fim do mundo?"
+
+msgid "[\"Yeah.\", \"...\"]"
+msgstr "[\"Sim.\",\"...\"]"
+
+msgid "@niko_eyeclosed I don't want that to happen..."
+msgstr "@niko_eyeclosed Eu não queria que isso acontecesse..."
+
+msgid "@niko2 So... what happens when we save the world?\\>\\n\\@niko_distressed ...what happens to me...?"
+msgstr "@niko2 Então... o que acontecerá se salvarmos o mundo?\\>\\n\\@niko_distressed ... O que acontecerá comigo?"
+
+msgid "[\"I don't know.\", \"...\"]"
+msgstr "[\"Eu não sei.\",\"...\"]"
+
+msgid "@niko_shock You... don't?"
+msgstr "@niko_shock Você não sabe?"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed2 ....."
+msgstr "@niko_distressed2 ....."
+

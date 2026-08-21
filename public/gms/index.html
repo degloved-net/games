@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ4HJWL0BX"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-EQ4HJWL0BX');
+	</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>degloved</title>
+	<link rel="stylesheet" href="/css/styles.css">
+	<meta name="description" content="Your journey to new skills starts here. Explore courses, tutorials, and resources for lifelong learners.">
+</head>
+<body>
+<canvas id="bg"></canvas>
+<button class="clanker" type="button" onclick="go('/')">home</button>
+
+<div class="container">
+	<div class="hero">
+		<h1>games</h1>
+		<input type="text" class="search-box" id="search" placeholder="search...">
+		<div class="game-counter">games: <span id="game-count">0</span></div>
+	</div>
+	<div id="list"></div>
+</div>
+
+<script src="/js/leave.js"></script>
+<script src="/js/background.js"></script>
+<script src="/js/visit.js"></script>
+<script src="/js/search.js"></script>
+<script>
+	let allGames = [];
+
+	fetch('/api/gms')
+		.then(res => res.json())
+		.then(data => {
+			allGames = data;
+			renderGames(allGames);
+		});
+
+	function renderGames(games) {
+		document.getElementById('game-count').textContent = games.length;
+		let html = '<ul>';
+		for (const game of games) {
+			html += '<li><a href="' + game.url + '">';
+			if (game.icon) html += '<div class="img-container"><img src="' + game.icon + '"></div>';
+			html += '<div class="game-title">' + game.name + '</div></a></li>';
+		}
+		html += '</ul>';
+		document.getElementById('list').innerHTML = html;
+	}
+
+	searchUtils.setupSearch(
+		'search',
+		() => allGames,
+		(game, q) => game.name.toLowerCase().includes(q),
+		renderGames
+	);
+</script>
+
+<div id="ad-container">
+	<button id="ad-close">×</button>
+	<script src="/js/ads.js"></script>
+</div>
+<script>
+	document.getElementById('ad-close')?.addEventListener('click', () => {
+		document.getElementById('ad-container').style.display = 'none';
+	});
+</script>
+
+<script src="/js/iframe.js"></script>
+<script src="/js/settings.js"></script>
+<script src="/js/panicbtn.js"></script>
+</body>
+</html>

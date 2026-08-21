@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "206448176600-cqbu9di1mt0iidgv0ihto5531cvogpnj.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3WUbbSW7CgENuUSwuLqv5quDulsZwzE"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:206448176600:ios:58641bfea7d1d92a", 
+        "android_client_info": {
+          "package_name": "com.manapotionstudios.happyroom"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "happy-room-mobile.appspot.com", 
+    "project_id": "happy-room-mobile", 
+    "firebase_url": "https://happy-room-mobile.firebaseio.com", 
+    "project_number": "206448176600"
+  }
+}

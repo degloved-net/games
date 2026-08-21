@@ -1,0 +1,267 @@
+msgid "@niko Jars full of dried fish."
+msgstr "@niko 乾いた魚がいっぱい入った壺。"
+
+msgid "@niko Fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るい。"
+
+msgid "@niko It's a book with a clover on the cover."
+msgstr "@niko 表紙にクローバーがある本だ。"
+
+msgid "@calamus_heh I really need to finish this..."
+msgstr "@calamus_heh 早く読み終えないとな…"
+
+msgid "@niko There's a clover symbol on the cover of this book."
+msgstr "@niko 本の表紙にクローバーのシンボルがある。"
+
+msgid "@niko_speak Hey! Just like-"
+msgstr "@niko_speak ねえ！これって――"
+
+msgid "@calamus_speak Oh! My book!"
+msgstr "@calamus_speak あ！オレの本じゃないか！"
+
+msgid "@calamus_shame Gosh, I still need to finish studying it..."
+msgstr "@calamus_shame まだ研究し終わってないんだ…"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@calamus My friend gave it to me for Solstice Day."
+msgstr "@calamus 至点の日に友達がくれたんだ。"
+
+msgid "@calamus_speak He's the one who wrote it, actually!"
+msgstr "@calamus_speak というか、その友達が書いたものなんだ！"
+
+msgid "@calamus_smile He's also the one who taught me how to read!"
+msgstr "@calamus_smile 字の読み方も教えてくれた！"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak おおお！"
+
+msgid "@calamus_smile I have a few more of his books somewhere..."
+msgstr "@calamus_smile どっかに、そいつの本があと何冊かある…"
+
+msgid "@niko It's a jar full of worms!"
+msgstr "@niko この壺にはミミズがたくさん入ってる！"
+
+msgid "@niko_speak It's a plush toy!"
+msgstr "@niko_speak ぬいぐるみだ！"
+
+msgid "@niko I have one at home too..."
+msgstr "@niko ミーの家にも1つある…"
+
+msgid "@niko_83c But mine's an owl and not a fox!"
+msgstr "@niko_83c でもミーのはキツネじゃなくて\nフクロウなんだ！"
+
+msgid "@alula My fox is named Ruby, by the way!"
+msgstr "@alula ちなみに、あたしが飼ってるキツネの名前は、\nルビーって言うの！"
+
+msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
+msgstr "@alula_speak それあたしの！ \\>\\@alula 去年、お友達がくれたの！"
+
+msgid "@alula_gasp Yeah! He has a fox too!\\nAnd she can even talk!"
+msgstr "@alula_gasp うん！その人もキツネを飼っててね！\\nしかもしゃべれるの！"
+
+msgid "@niko ...what?"
+msgstr "@niko …えっ？"
+
+msgid "@alula_speak I know! I thought she was the coolest thing ever!"
+msgstr "@alula_speak びっくりよね！あんなの生まれて初めて！"
+
+msgid "@alula So he got me a fox plush for Solstice Day!"
+msgstr "@alula それで至点の日に、\nキツネのぬいぐるみをくれたの！"
+
+msgid "@niko_speak Oh! That's nice of him!"
+msgstr "@niko_speak へえ！良い人なんだね！"
+
+msgid "@alula_speak He's the best!"
+msgstr "@alula_speak 最高のお友達よ！"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak あ、ところで、太陽はどうしたんだ？"
+
+msgid "@niko I lent it to someone in the ruins.\\>\\n\\@niko_eyeclosed She said she wanted to feel the sun again, before she..."
+msgstr "@niko 遺跡にいた人に貸した。\\>\\n\\@niko_eyeclosed 太陽を感じたいって言ってたんだ、最後に…"
+
+msgid "@calamus_speak Oh, you must be talking about Maize."
+msgstr "@calamus_speak ああ、メイズのことかな。"
+
+msgid "@niko_speak Is that her name?"
+msgstr "@niko_speak それがあのお姉さんの名前？"
+
+msgid "@calamus_speak She's a powerful plant spirit. She used to protect the Glen."
+msgstr "@calamus_speak あの人はとても強い、植物の精霊なのさ。\n昔は峡谷を守ってたんだ。"
+
+msgid "@calamus_sad ...but once the sun died, her health rapidly deteriorated."
+msgstr "@calamus_sad …でも太陽が死んでから、体調が\n急速に悪化した。"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed そう…"
+
+msgid "@calamus I'm glad you were able to find her in time."
+msgstr "@calamus 手遅れになる前に、\nニコが見つけてくれて良かった。"
+
+msgid "@niko_eyeclosed I think we might be already too late to save her..."
+msgstr "@niko_eyeclosed 助けるには、もう手遅れだと思う…"
+
+msgid "@calamus_sad I know."
+msgstr "@calamus_sad そうだな。"
+
+msgid "@calamus But I'm glad she got to see the sun again."
+msgstr "@calamus でも、もう一度太陽を見ることが\nできたみたいで、良かったよ。"
+
+msgid "@calamus I hope the squares don't spread too fast..."
+msgstr "@calamus 四角形があまり速く広がらないといいけど…"
+
+msgid "@niko Jars full of dried moss."
+msgstr "@niko 乾いたコケがいっぱい入った壺。"
+
+msgid "@alula_speak You're here! You're here!"
+msgstr "@alula_speak やったあ！来てくれた！！"
+
+msgid "@alula I'll go get the thing!"
+msgstr "@alula あれを取ってくる！"
+
+msgid "@calamus_smile So uh... welcome to our home!\\>\\n\\@calamus_heh I know it's not much, but...\\>\\n\\@calamus_smile feel free to make yourself comfortable."
+msgstr "@calamus_smile えーと…我が家へようこそ！\\>\\n\\@calamus_heh 大した家じゃないけど…\\>\\n\\@calamus_smile 楽にしててくれ。"
+
+msgid "@alula Ah! There it is!"
+msgstr "@alula あー！ここにあった！"
+
+msgid "@alula_speak Here, we want you to have this!"
+msgstr "@alula_speak はい、これ、受け取って！"
+
+msgid "@niko Oh, a feather!\\>\\n\\@niko_speak The edges are glowing yellow!"
+msgstr "@niko わあ、羽根だ！\\>\\n\\@niko_speak 端っこが黄色く光ってる！"
+
+msgid "@calamus_speak It's a sacred feather from the great Prophet."
+msgstr "@calamus_speak 偉大な預言者の、聖なる羽根さ。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak うん！"
+
+msgid "@alula She's this old lady our dad used to know!"
+msgstr "@alula その人が、お父さんの昔知ってた\nおばあちゃんなの！"
+
+msgid "@alula_gasp Her feathers can glow in the dark and she can see into the future!"
+msgstr "@alula_gasp おばあちゃんはね、羽根が暗いところで光るし、\n未来のことも分かるんだよ！"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak すごい！"
+
+msgid "@alula Or... something like that!"
+msgstr "@alula とか…まあそんな感じね！"
+
+msgid "@calamus_speak She gave one of her feathers to father before she died."
+msgstr "@calamus_speak ばあちゃんは、死ぬ直前に父さんに\n羽根をあげたんだ。"
+
+msgid "@calamus Father wanted to pass this down as an heirloom, although...\\>\\n\\@calamus_smile ...it feels more fitting for you to have it."
+msgstr "@calamus 父さんは、これを家宝として下の代に\n受け継がせようと思ってたみたいだけど…\\>\\n\\@calamus_smile …ニコのほうが、ふさわしいと思う。"
+
+msgid "@niko A-are you sure?"
+msgstr "@niko ほ、本当にいいの？"
+
+msgid "@alula_speak Totally sure!"
+msgstr "@alula_speak あったりまえ！"
+
+msgid "@calamus I think that's what father would have wanted."
+msgstr "@calamus 父さんもそれを望んだと思う。"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak ありがとう！"
+
+msgid "@alula That's the sun!"
+msgstr "@alula 太陽だ！"
+
+msgid "@alula It's a book!"
+msgstr "@alula 本だ！"
+
+msgid "@alula_speak I can't read yet!"
+msgstr "@alula_speak あたしまだ読めないの！"
+
+msgid "@alula Our friend says he'll teach me when I'm older, though!"
+msgstr "@alula でも、大きくなったら\n友達が教えてくれるって！"
+
+msgid "@alula_speak It's a pretty feather, isn't it?"
+msgstr "@alula_speak 綺麗な羽根でしょ？"
+
+msgid "@alula_speak Wooow! \\>That's a pretty necklace!"
+msgstr "@alula_speak わあぁー！ \\>綺麗なネックレスね！"
+
+msgid "@niko The robot lady from the Barrens gave it to me!"
+msgstr "@niko 不毛の地にいたロボットのお姉さんがくれたんだ！"
+
+msgid "@alula_gasp You've been to the Barrens?"
+msgstr "@alula_gasp 不毛の地に行ったことあるの？"
+
+msgid "@niko_speak Yeah! \\p and I came from there, actually!"
+msgstr "@niko_speak うん！ミーと\n\\p はそこから来たんだ、実は！"
+
+msgid "@alula_pout But... I thought you came from another world..."
+msgstr "@alula_pout でも…他の世界から来たんだと思ってた…"
+
+msgid "@niko Ah, I just meant we were there first, before we got to the Glen!"
+msgstr "@niko あ、峡谷に来る前は\n不毛の地にいたってことだよ！"
+
+msgid "@alula_speak That makes more sense!"
+msgstr "@alula_speak そういうことね！"
+
+msgid "@alula_speak It's good to be home again!"
+msgstr "@alula_speak 家に帰れてよかった！"
+
+msgid "@niko Jars full of beans."
+msgstr "@niko 豆がたくさん入った壺。"
+
+msgid "@niko Fireflies!"
+msgstr "@niko ホタルだ！"
+
+msgid "@niko_eyeclosed Looks like spoiled food."
+msgstr "@niko_eyeclosed 腐った食べ物みたい。"
+
+msgid "@calamus_heh I'll... deal with it later."
+msgstr "@calamus_heh あ…あとで処理しとく。"
+
+msgid "@calamus_shame Oh no!"
+msgstr "@calamus_shame やっちまった！"
+
+msgid "@calamus_heh I guess that's what happens if you leave your house for three days..."
+msgstr "@calamus_heh 3日も家を空けるとそうなるんだな…"
+
+msgid "@niko_eyeclosed The back room is full of dust and cobwebs..."
+msgstr "@niko_eyeclosed 奥の部屋は埃とクモの巣だらけ…"
+
+msgid "@niko It's a fishing pole."
+msgstr "@niko 釣り竿だ。"
+
+msgid "@calamus That reminds me, I need to go fishing later..."
+msgstr "@calamus 思い出した、あとで釣りに行かなきゃ…"
+
+msgid "@alula Do you like fish, Niko?"
+msgstr "@alula ニコ、お魚は好き？"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak うん！"
+
+msgid "@alula_speak So do we! \\|\\@alula They're good in stews."
+msgstr "@alula_speak あたしたちも！ \\|\\@alula シチューに入れると美味しいの。"
+
+msgid "@niko_speak Or soups!"
+msgstr "@niko_speak それかスープ！"
+
+msgid "@niko_eyeclosed ...but I know some people back home who like to eat them raw."
+msgstr "@niko_eyeclosed …ミーの世界では、生で食べるのが\n好きな人もいたんだ。"
+
+msgid "@alula_speak Ewww!"
+msgstr "@alula_speak げーっ！"
+
+msgid "@niko_eyeclosed Yeup."
+msgstr "@niko_eyeclosed だよね。"
+
+msgid "@niko Coals."
+msgstr "@niko 石炭だ。"
+
+msgid "@niko They're cold now."
+msgstr "@niko 冷たくなってる。"
+

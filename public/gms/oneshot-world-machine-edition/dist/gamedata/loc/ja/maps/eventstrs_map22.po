@@ -1,0 +1,147 @@
+msgid "@plight .\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight Sure is taking a while..."
+msgstr "@plight けっこう時間かかるな…"
+
+msgid "@niko m-hm!"
+msgstr "@niko うん！"
+
+msgid "@plight_worry (oh goodness gracious I'm stuck in an elevator with the messiah and also literally god themself this is awkward)"
+msgstr "@plight_worry （なんてこった…エレベーターの中で\n救世主や本物の神様と一緒だなんて、\n…気まず過ぎる…）"
+
+msgid "@niko Oh, maybe we can chat to pass the time, then?"
+msgstr "@niko あっ、暇つぶしにおしゃべりする？"
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf 聞こえてたのか？？"
+
+msgid "@plight_worry I mean, sure..."
+msgstr "@plight_worry ああいや、いいぞ…"
+
+msgid "@niko Alright, \\p, should I..."
+msgstr "@niko よし、 \\p、\n何を聞こうかな…"
+
+msgid "[\"Ask about his job\", \"Ask about this city\", \"Ask about the library\", \"Resume awkward silence\"]"
+msgstr "[\"彼の仕事について\",\"この街について\",\"図書館について\",\"気まずい沈黙を続ける\"]"
+
+msgid "@niko So... what do you do at your job?"
+msgstr "@niko えっと…仕事は何してるの？"
+
+msgid "@niko_speak You seem really busy!"
+msgstr "@niko_speak すごく忙しそうだから！"
+
+msgid "@plight_2 I... uh...."
+msgstr "@plight_2 おれは…その…"
+
+msgid "@plight I fix lights, mostly."
+msgstr "@plight 大体は、電灯を修理してる。"
+
+msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
+msgstr "@plight_2b でも今は、高エネルギー蛍光体が\n必要な建物に、それを補充しに\n届けに行ったりもしてる。"
+
+msgid "@niko High energy?"
+msgstr "@niko 高エネルギー？"
+
+msgid "@plight Y'know, the super concentrated glowy stuff they had to process in factories, it's what powers most of this city's stuff."
+msgstr "@plight ほら、超濃縮された光るやつだよ。\n工場で加工してあげなきゃいけないが、\n街の大部分の動力源になってる。"
+
+msgid "@niko Oooh!"
+msgstr "@niko おおぉ！"
+
+msgid "@plight We used to have a small army of delivery robots doing that..."
+msgstr "@plight 前までは、配達ロボットがそれを\n担当してたんだけど…"
+
+msgid "@plight_worry But lately a bunch of them have been breaking down?"
+msgstr "@plight_worry 最近はみんな故障しちゃってるだろ？"
+
+msgid "@plight_2 So until they fix them, I'll just have more work on my plate."
+msgstr "@plight_2 だから、修理が終わるまでは、その分たくさん\n仕事しなきゃいけないんだ。"
+
+msgid "@plight_why I haven't slept in so long..."
+msgstr "@plight_why ずいぶん長いこと寝てないな…"
+
+msgid "@niko_speak When will the robots get fixed?"
+msgstr "@niko_speak 修理はいつ終わるの？"
+
+msgid "@plight_2 I have no idea, it's all up to the scientists over at the labs."
+msgstr "@plight_2 さあな、研究所にいる科学者次第だ。"
+
+msgid "@plight_worry But they seem REALLY concerned about something else lately..."
+msgstr "@plight_worry でも最近は何かに相当\n気をもんでるみたいなんだ…"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@plight_worry ...Never a good sign when even the smart folks are worried."
+msgstr "@plight_worry …頭のいい連中までそうなっちまうのは、\n良くない兆候だな。"
+
+msgid "@niko This city is very big!"
+msgstr "@niko この街はすごく大きいね！"
+
+msgid "@plight_2b It's smaller than it looks."
+msgstr "@plight_2b 見かけより小さいさ。"
+
+msgid "@plight_2 Getting pretty crowded too..."
+msgstr "@plight_2 近ごろ人も増えてきたし…"
+
+msgid "@plight_2 First there was the refugees from the Barrens, and now more Glen folks are moving in too."
+msgstr "@plight_2 最初のほうは不毛の地から避難者が来てたが、\n今じゃ峡谷の連中も引っ越してきてる。"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@plight It's just safer here, y'know?"
+msgstr "@plight ここのほうが安全なんだ。"
+
+msgid "@plight I mean, it's not a haven by any means."
+msgstr "@plight まあ、安息の地なんかじゃ決してないけどな。"
+
+msgid "@plight_worry That square stuff that we just saw?"
+msgstr "@plight_worry さっき見た四角形のやつあるだろ？"
+
+msgid "@plight_worry We get more of that here than anywhere else, apparently."
+msgstr "@plight_worry ここでは、他のどこよりも\n多く発生するらしい。"
+
+msgid "@niko_eyeclosed I noticed..."
+msgstr "@niko_eyeclosed たしかに…"
+
+msgid "@plight_2 ...We're lucky it only seems to affect the city's infrastructure."
+msgstr "@plight_2 …幸い、街のインフラ設備にしか\n影響がないみたいだけど。"
+
+msgid "@plight The landmass itself is still holding up."
+msgstr "@plight 大地そのものはまだ持ちこたえてる。"
+
+msgid "@plight_2b Which is good, since there isn't much solid land here in the first place."
+msgstr "@plight_2b 良かったよ、だってここには大地が\n元々あんまりないからさ。"
+
+msgid "@niko Can you tell me about the library?"
+msgstr "@niko 図書館のことを教えてくれる？"
+
+msgid "@niko_speak I'm supposed to go there!"
+msgstr "@niko_speak そこに行かなきゃダメなんだ！"
+
+msgid "@plight Oh yeah, that's one of my main delivery spots."
+msgstr "@plight ああ…おれがいつも配達してるとこだな。"
+
+msgid "@plight Those reading lights are pretty high-maintenance."
+msgstr "@plight あの読書灯はなかなか維持が大変なんだ。"
+
+msgid "@plight_worry But I always feel out of place surrounded by smart people!"
+msgstr "@plight_worry でも頭のいい人達に囲まれて、\nいつも場違いな気分になる！"
+
+msgid "@plight Well, I guess you're pretty smart yourself, so you'll fit in fine."
+msgstr "@plight まあ、君はけっこう賢そうだから、\n問題なく溶け込めるさ。"
+
+msgid "@plight_2b You and \\p."
+msgstr "@plight_2b 君と、 \\pは。"
+

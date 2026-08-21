@@ -1,0 +1,210 @@
+msgid "This plane doesn't have a runway because night said so that's why. -GIR"
+msgstr "У этого самолёта нет взлётно-посадочной полосы, потому что так сказала ночь."
+
+msgid "@cedric_sigh ...phew."
+msgstr "@cedric_sigh Фух!"
+
+msgid "@cedric_smile Made it!"
+msgstr "@cedric_smile Получилось!"
+
+msgid "@niko_pancakes ..."
+msgstr "@niko_pancakes ..."
+
+msgid "@cedric3 You...\\.\\. okay, there?"
+msgstr "@cedric3 Ты...\\.\\. как там?"
+
+msgid "@niko_pancakes ...\\>That was the coolest thing I have ever done in my entire life."
+msgstr "@niko_pancakes ...\\>Это самая крутая штука, которую я делал в своей жизни."
+
+msgid "@cedric_smile Heheh...\\.\\. reactions from first-timers are always delightful to watch."
+msgstr "@cedric_smile Хе-хе-хе...\\.\\. Всегда приятно смотреть на реакцию новичков."
+
+msgid "@niko5 ..."
+msgstr "@niko5 ..."
+
+msgid "@niko6 Hey, \\p?"
+msgstr "@niko6 Эй, \\p?"
+
+msgid "@niko2 That... was really fun."
+msgstr "@niko2 Это было так здорово!"
+
+msgid "@niko_speak Did you... have fun too?"
+msgstr "@niko_speak А тебе... было здорово?"
+
+msgid "@niko_eyeclosed I mean... you weren't on the plane with me, but..."
+msgstr "@niko_eyeclosed Ну... Конечно, тебя не было со мной на самолёте, но..."
+
+msgid "@niko_speak You got to watch it at least, right?"
+msgstr "@niko_speak Ты ведь можешь смотреть картинку, так?"
+
+msgid "@niko And... \\.\\.Cedric...?"
+msgstr "@niko И... \\.\\.Седрик?.."
+
+msgid "@cedric3 Yeah?"
+msgstr "@cedric3 Да?"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed Спасибо..."
+
+msgid "@cedric3 ....\\.\\.What for?"
+msgstr "@cedric3 ...\\.\\.За что?"
+
+msgid "@niko_speak Flying!"
+msgstr "@niko_speak За полёт!"
+
+msgid "@cedric Oh, um..."
+msgstr "@cedric О... Хм..."
+
+msgid "@cedric_smile You're... \\.\\.welcome?"
+msgstr "@cedric_smile Тогда... \\.\\.на здоровье."
+
+msgid "@niko_eyeclosed And... for answering my questions back there, too..."
+msgstr "@niko_eyeclosed И ещё за то, что отвечал на мои вопросы..."
+
+msgid "@niko5 And... \\.\\.for telling me more about the World Machine."
+msgstr "@niko5 И ещё... \\.\\.за то, что рассказал про Мировую машину."
+
+msgid "@niko_upset I'm just.... \\.\\.really sorry about what happened to your old world, though..."
+msgstr "@niko_upset Мне просто... \\.\\.ужасно жаль, что с твоим миром такое произошло..."
+
+msgid "@niko2 So...\\.\\. I'll help you the best that I can."
+msgstr "@niko2 Так что...\\.\\. я изо всех сил постараюсь тебе помочь."
+
+msgid "@cedric ..."
+msgstr "@cedric ..."
+
+msgid "@niko4 And...\\.\\. even if it's all just a machine, this world is still...\\.\\. \\@niko2 nice..."
+msgstr "@niko4 И...\\.\\. даже если всё это всего лишь программа, этот мир всё равно...\\.\\.\\@niko2 хороший..."
+
+msgid "@niko_eyeclosed I mean, I got to fly... \\.\\.I got to see the ocean..."
+msgstr "@niko_eyeclosed Я смог полетать... \\.\\.Я увидел океан..."
+
+msgid "@niko And...\\.\\. I got to meet a lot of nice people!\\n\\>\\@niko_speak People like you!"
+msgstr "@niko И...\\.\\. Я встретил столько замечательных людей!\\n\\>\\@niko_speak Например, тебя!"
+
+msgid "@niko_eyeclosed ...and Prototype, even if he's broken right now."
+msgstr "@niko_eyeclosed И Прототип... хотя сейчас он сломан."
+
+msgid "@cedric ...\\>\\@cedric_smile I'm glad you are taking it so well, Niko."
+msgstr "@cedric ...\\>\\@cedric_smile Я рад, что ты с этим так хорошо справляешься, Нико."
+
+msgid "@cedric2 And... I'm glad that we have met as well."
+msgstr "@cedric2 И... Я тоже рад, что мы встретились."
+
+msgid "@cedric_sigh ...Despite the...\\.\\. circumstances."
+msgstr "@cedric_sigh Несмотря...\\.\\. на обстоятельства."
+
+msgid "@cedric_talk Ah, speaking of Proto... \\@cedric_hmm I should probably head off now."
+msgstr "@cedric_talk О, кстати о Прото... \\@cedric_hmm Думаю, пора за ним отправляться."
+
+msgid "@cedric I need to go pick up the siblings too..."
+msgstr "@cedric И ещё мне надо забрать того братишку с сестрёнкой..."
+
+msgid "@niko2 That's true...\\.\\. those two have been waiting for a while now..."
+msgstr "@niko2 Точно...\\.\\. Те двое уже давно ждут..."
+
+msgid "@cedric_hmm In the meantime..."
+msgstr "@cedric_hmm А пока..."
+
+msgid "@cedric_smile Do you remember what to do to get to the surface?"
+msgstr "@cedric_smile Ты помнишь, что делать, чтобы добраться до поверхности?"
+
+msgid "@niko_speak I remember having to fix an elevator button!"
+msgstr "@niko_speak Я помню, что надо починить кнопку лифта!"
+
+msgid "@cedric_hmm Alright, you should attend to that, then."
+msgstr "@cedric_hmm Тогда пора этим заняться."
+
+msgid "@cedric_talk Let's meet up here in an hour, okay?"
+msgstr "@cedric_talk Встретимся здесь через час, хорошо?"
+
+msgid "@niko Got it!"
+msgstr "@niko Договорились!"
+
+msgid "@cedric Alright, now lemme just-"
+msgstr "@cedric Отлично, дай-ка я только..."
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ..."
+
+msgid "@niko_shock No!"
+msgstr "@niko_shock Нет!"
+
+msgid "@niko_shock ...\\.\\.they're...\\.\\. trapped on the island..."
+msgstr "@niko_shock ...\\.\\.Они...\\.\\. застряли на острове..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_distressed2 ......Calamus....\\> Alula...."
+msgstr "@niko_distressed2 Каламус...\\> Алула..."
+
+msgid "@niko_distressed2 ...they're..."
+msgstr "@niko_distressed2 Они..."
+
+msgid "@cedric_eek ....we\\.\\. ...don't have much time left."
+msgstr "@cedric_eek У нас...\\.\\. мало времени."
+
+msgid "@cedric_sigh2 Niko... change of plans."
+msgstr "@cedric_sigh2 Нико... Планы изменились."
+
+msgid "@cedric_sigh Please give me the memory disk."
+msgstr "@cedric_sigh Отдай мне, пожалуйста, диск памяти."
+
+msgid "@niko2 ...alright..."
+msgstr "@niko2 Хорошо."
+
+msgid "@cedric2 Listen carefully."
+msgstr "@cedric2 Слушай внимательно."
+
+msgid "@cedric_sigh2 It's likely I'll be targeted again, so we should split up to keep you safe."
+msgstr "@cedric_sigh2 Высока вероятность, что на меня снова нападут. Нам надо разделиться для твоей же безопасности."
+
+msgid "@cedric I want you to find a door under a large clock."
+msgstr "@cedric Ты должен найти дверь под большими часами."
+
+msgid "@cedric_sigh The room behind it houses a pair of ground access elevators."
+msgstr "@cedric_sigh В комнате за ней есть пара лифтов, ведущих на поверхность."
+
+msgid "@cedric Once you get to the ground, immediately find Rue and bring her back to the room."
+msgstr "@cedric Когда спустишься, срочно найди Руту и приведи её обратно в комнату."
+
+msgid "@cedric She will know what to do in the meantime."
+msgstr "@cedric Она знает, что делать."
+
+msgid "@niko2 Alright...\\.\\. \\@niko3 What about you, though?"
+msgstr "@niko2 Ладно...\\.\\.\\@niko3 А ты что будешь делать?"
+
+msgid "@cedric3 I'm going to bring Prototype back."
+msgstr "@cedric3 Я верну Прототип."
+
+msgid "@niko_surprised WH-"
+msgstr "@niko_surprised ЧТ..."
+
+msgid "@niko_surprised Are you okay???"
+msgstr "@niko_surprised Ты в порядке?!"
+
+msgid "@cedric_talk WHAAAAAT????"
+msgstr "@cedric_talk ЧТО-О-О-О?"
+
+msgid "@niko_speak ARE YOU OKAAAAAY???"
+msgstr "@niko_speak ТЫ В ПОРЯДКЕ-Е-Е-Е?"
+
+msgid "@cedric_talk DON'T WORRYYY I'M FINEEEE"
+msgstr "@cedric_talk НЕ ВОЛНУЙСЯ, ВСЁ ХОРОШО-О-О!"
+
+msgid "@niko_eyeclosed ...don't scare me like that..."
+msgstr "@niko_eyeclosed Не пугай меня так..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_upset2 ...."
+msgstr "@niko_upset2 ..."
+
+msgid "@niko2 Hey, \\p...?"
+msgstr "@niko2 Эй, \\p?.."
+
+msgid "@niko_eyeclosed Let's... do our best."
+msgstr "@niko_eyeclosed Давай очень сильно постараемся..."
+

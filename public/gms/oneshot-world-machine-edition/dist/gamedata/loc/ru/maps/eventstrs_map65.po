@@ -1,0 +1,267 @@
+msgid "@niko Jars full of dried fish."
+msgstr "@niko Банки с сушёной рыбой."
+
+msgid "@niko Fireflies light up this room."
+msgstr "@niko Эту комнату освещают светлячки."
+
+msgid "@niko It's a book with a clover on the cover."
+msgstr "@niko Книга с клевером на обложке."
+
+msgid "@calamus_heh I really need to finish this..."
+msgstr "@calamus_heh Давно пора её закончить..."
+
+msgid "@niko There's a clover symbol on the cover of this book."
+msgstr "@niko На обложке этой книги изображён клевер."
+
+msgid "@niko_speak Hey! Just like-"
+msgstr "@niko_speak Эй! Прямо как..."
+
+msgid "@calamus_speak Oh! My book!"
+msgstr "@calamus_speak О! Моя книга!"
+
+msgid "@calamus_shame Gosh, I still need to finish studying it..."
+msgstr "@calamus_shame Блин, я должен наконец её закончить..."
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "@calamus My friend gave it to me for Solstice Day."
+msgstr "@calamus Мне её дал друг на День Солнцестояния."
+
+msgid "@calamus_speak He's the one who wrote it, actually!"
+msgstr "@calamus_speak Вообще-то он её написал!"
+
+msgid "@calamus_smile He's also the one who taught me how to read!"
+msgstr "@calamus_smile А ещё он научил меня читать!"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak О-о-о!"
+
+msgid "@calamus_smile I have a few more of his books somewhere..."
+msgstr "@calamus_smile У меня тут где-то ещё несколько его книг..."
+
+msgid "@niko It's a jar full of worms!"
+msgstr "@niko В этой банке полно червей!"
+
+msgid "@niko_speak It's a plush toy!"
+msgstr "@niko_speak Это плюшевая игрушка!"
+
+msgid "@niko I have one at home too..."
+msgstr "@niko Дома у меня тоже такая есть..."
+
+msgid "@niko_83c But mine's an owl and not a fox!"
+msgstr "@niko_83c Только не лиса, а сова!"
+
+msgid "@alula My fox is named Ruby, by the way!"
+msgstr "@alula Кстати, мою лису зовут Руби!"
+
+msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
+msgstr "@alula_speak Это моё! \\>\\@alula Это мне в прошлом году дал наш друг."
+
+msgid "@alula_gasp Yeah! He has a fox too!\\nAnd she can even talk!"
+msgstr "@alula_gasp Да! У него тоже есть лиса!\\nОна даже умеет говорить!"
+
+msgid "@niko ...what?"
+msgstr "@niko Что?.."
+
+msgid "@alula_speak I know! I thought she was the coolest thing ever!"
+msgstr "@alula_speak Ага! Я думала, что это лучшая вещь на свете!"
+
+msgid "@alula So he got me a fox plush for Solstice Day!"
+msgstr "@alula Вот он и подарил мне плюшевую лису на День Солнцестояния!"
+
+msgid "@niko_speak Oh! That's nice of him!"
+msgstr "@niko_speak О! Как мило с его стороны!"
+
+msgid "@alula_speak He's the best!"
+msgstr "@alula_speak Он самый лучший!"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak О, кстати, что случилось с солнцем?"
+
+msgid "@niko I lent it to someone in the ruins.\\>\\n\\@niko_eyeclosed She said she wanted to feel the sun again, before she..."
+msgstr "@niko Я отдал солнце кое-кому в руинах.\\>\\n\\@niko_eyeclosed Она сказала, что хочет снова его почувствовать, прежде чем..."
+
+msgid "@calamus_speak Oh, you must be talking about Maize."
+msgstr "@calamus_speak О, ты имеешь в виду Маизу."
+
+msgid "@niko_speak Is that her name?"
+msgstr "@niko_speak Её так зовут?"
+
+msgid "@calamus_speak She's a powerful plant spirit. She used to protect the Glen."
+msgstr "@calamus_speak Она — мощный дух растений. Раньше она защищала Долину."
+
+msgid "@calamus_sad ...but once the sun died, her health rapidly deteriorated."
+msgstr "@calamus_sad ...Но когда солнце умерло, её здоровье стало быстро ухудшаться."
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed О..."
+
+msgid "@calamus I'm glad you were able to find her in time."
+msgstr "@calamus Я рад, что ты вовремя её нашёл."
+
+msgid "@niko_eyeclosed I think we might be already too late to save her..."
+msgstr "@niko_eyeclosed Думаю, мы уже не успеем её спасти..."
+
+msgid "@calamus_sad I know."
+msgstr "@calamus_sad Я знаю."
+
+msgid "@calamus But I'm glad she got to see the sun again."
+msgstr "@calamus Но я рад, что она снова увидела солнце."
+
+msgid "@calamus I hope the squares don't spread too fast..."
+msgstr "@calamus Надеюсь, эти квадраты не будут распространяться слишком быстро..."
+
+msgid "@niko Jars full of dried moss."
+msgstr "@niko Банки с высушенным мхом."
+
+msgid "@alula_speak You're here! You're here!"
+msgstr "@alula_speak Ты здесь! Ты здесь!"
+
+msgid "@alula I'll go get the thing!"
+msgstr "@alula Я сбегаю принесу подарок!"
+
+msgid "@calamus_smile So uh... welcome to our home!\\>\\n\\@calamus_heh I know it's not much, but...\\>\\n\\@calamus_smile feel free to make yourself comfortable."
+msgstr "@calamus_smile Ну что... добро пожаловать в наш дом!\\>\\n\\@calamus_heh Знаю, тут не слишком уютно, но...\\>\\n\\@calamus_smile Чувствуй себя как дома."
+
+msgid "@alula Ah! There it is!"
+msgstr "@alula А! Вот оно!"
+
+msgid "@alula_speak Here, we want you to have this!"
+msgstr "@alula_speak Вот, мы хотим, чтобы оно было у тебя!"
+
+msgid "@niko Oh, a feather!\\>\\n\\@niko_speak The edges are glowing yellow!"
+msgstr "@niko О, перо!\\>\\n\\@niko_speak Его края светятся жёлтым светом!"
+
+msgid "@calamus_speak It's a sacred feather from the great Prophet."
+msgstr "@calamus_speak Это священное перо великой Пророчицы."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Вот как?"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak Ага!"
+
+msgid "@alula She's this old lady our dad used to know!"
+msgstr "@alula Это старушка, с которой был знаком наш отец!"
+
+msgid "@alula_gasp Her feathers can glow in the dark and she can see into the future!"
+msgstr "@alula_gasp Её перья светятся в темноте, а сама она может увидеть будущее!"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak Что?"
+
+msgid "@alula Or... something like that!"
+msgstr "@alula Ну... Или что-то в этом духе!"
+
+msgid "@calamus_speak She gave one of her feathers to father before she died."
+msgstr "@calamus_speak Перед смертью она отдала одно из своих перьев отцу."
+
+msgid "@calamus Father wanted to pass this down as an heirloom, although...\\>\\n\\@calamus_smile ...it feels more fitting for you to have it."
+msgstr "@calamus Отец хотел, чтобы его передавали по наследству как фамильную реликвию, но...\\>\\n\\@calamus_smile У меня такое чувство, что тебе оно нужнее..."
+
+msgid "@niko A-are you sure?"
+msgstr "@niko Вы... Вы уверены?"
+
+msgid "@alula_speak Totally sure!"
+msgstr "@alula_speak Абсолютно!"
+
+msgid "@calamus I think that's what father would have wanted."
+msgstr "@calamus Отец хотел бы этого."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Спасибо!"
+
+msgid "@alula That's the sun!"
+msgstr "@alula Это солнце!"
+
+msgid "@alula It's a book!"
+msgstr "@alula Это книга!"
+
+msgid "@alula_speak I can't read yet!"
+msgstr "@alula_speak Я ещё не умею читать!"
+
+msgid "@alula Our friend says he'll teach me when I'm older, though!"
+msgstr "@alula Наш друг говорит, что научит меня, когда я подрасту!"
+
+msgid "@alula_speak It's a pretty feather, isn't it?"
+msgstr "@alula_speak Красивое перо, правда?"
+
+msgid "@alula_speak Wooow! \\>That's a pretty necklace!"
+msgstr "@alula_speak Ух ты! \\>Какое красивое ожерелье!"
+
+msgid "@niko The robot lady from the Barrens gave it to me!"
+msgstr "@niko Мне его дала тётя-робот в Пустоши!"
+
+msgid "@alula_gasp You've been to the Barrens?"
+msgstr "@alula_gasp Ты был в Пустоши?"
+
+msgid "@niko_speak Yeah! \\p and I came from there, actually!"
+msgstr "@niko_speak Да! \\p и я как раз пришли оттуда!"
+
+msgid "@alula_pout But... I thought you came from another world..."
+msgstr "@alula_pout Но... Я думала, ты пришёл из другого мира..."
+
+msgid "@niko Ah, I just meant we were there first, before we got to the Glen!"
+msgstr "@niko А! Я имел в виду, что сначала мы были там, а потом добрались до Долины!"
+
+msgid "@alula_speak That makes more sense!"
+msgstr "@alula_speak Теперь понятно!"
+
+msgid "@alula_speak It's good to be home again!"
+msgstr "@alula_speak Хорошо снова оказаться дома!"
+
+msgid "@niko Jars full of beans."
+msgstr "@niko Банки с фасолью."
+
+msgid "@niko Fireflies!"
+msgstr "@niko Светлячки!"
+
+msgid "@niko_eyeclosed Looks like spoiled food."
+msgstr "@niko_eyeclosed Похоже на испорченную еду."
+
+msgid "@calamus_heh I'll... deal with it later."
+msgstr "@calamus_heh Я... потом с этим разберусь."
+
+msgid "@calamus_shame Oh no!"
+msgstr "@calamus_shame О нет!"
+
+msgid "@calamus_heh I guess that's what happens if you leave your house for three days..."
+msgstr "@calamus_heh Вот что происходит с едой, когда уходишь из дома на три дня..."
+
+msgid "@niko_eyeclosed The back room is full of dust and cobwebs..."
+msgstr "@niko_eyeclosed Задняя часть комнаты вся в пыли и паутине..."
+
+msgid "@niko It's a fishing pole."
+msgstr "@niko Это удочка."
+
+msgid "@calamus That reminds me, I need to go fishing later..."
+msgstr "@calamus Я вспомнил, что надо бы сходить на рыбалку..."
+
+msgid "@alula Do you like fish, Niko?"
+msgstr "@alula Ты любишь рыбу, Нико?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak Ага!"
+
+msgid "@alula_speak So do we! \\|\\@alula They're good in stews."
+msgstr "@alula_speak И мы тоже! \\|\\@alula Очень вкусно, если положить её в рагу."
+
+msgid "@niko_speak Or soups!"
+msgstr "@niko_speak Или сварить суп!"
+
+msgid "@niko_eyeclosed ...but I know some people back home who like to eat them raw."
+msgstr "@niko_eyeclosed ...Но у меня дома есть люди, которые любят есть её сырой."
+
+msgid "@alula_speak Ewww!"
+msgstr "@alula_speak Фу-у-у!"
+
+msgid "@niko_eyeclosed Yeup."
+msgstr "@niko_eyeclosed Точно."
+
+msgid "@niko Coals."
+msgstr "@niko Угольки."
+
+msgid "@niko They're cold now."
+msgstr "@niko Теперь они холодные."
+

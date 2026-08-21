@@ -1,0 +1,54 @@
+msgid "@watcher Good morning."
+msgstr "@watcher 좋은 아침."
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher 안녕."
+
+msgid "@watcher Good evening."
+msgstr "@watcher 좋은 저녁."
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher ...시간이 늦었어."
+
+msgid "@watcher But... good day, I suppose."
+msgstr "@watcher 어쨌든... 즐거운 하루 보내."
+
+msgid "@watcher Your time here is precious."
+msgstr "@watcher 이곳에서 보내는 시간은 매우 소중하단다."
+
+msgid "@watcher Please, do cherish it."
+msgstr "@watcher 부디 소중히 여기렴."
+
+msgid "@niko I will!"
+msgstr "@niko 그럴게요!"
+
+msgid "@watcher It's not healthy for children such as yourself to stay up at this hour."
+msgstr "@watcher 너처럼 어린 아이가 이 시간에 깨어 있는 건 몸에 좋지 않아."
+
+msgid "@niko ...Really?"
+msgstr "@niko ...정말요?"
+
+msgid "@niko_eyeclosed ...I... didn't realize..."
+msgstr "@niko_eyeclosed ...전... 몰랐어요..."
+
+msgid "@watcher Can't blame you."
+msgstr "@watcher 너에게 뭐라 할 순 없지."
+
+msgid "@watcher With the sun gone, the night never seems to end."
+msgstr "@watcher 태양이 사라진 다음부터는 밤이 끝이 나지 않으니까."
+
+msgid "@niko_speak Then... how can you tell?"
+msgstr "@niko_speak 그럼... 어떻게 알죠?"
+
+msgid "@niko Time, I mean."
+msgstr "@niko 그러니까, 시간을요."
+
+msgid "@watcher I have my ways."
+msgstr "@watcher 나만의 방식이 있지."
+
+msgid "@watcher ...Well, the time of day doesn't really mean anything now."
+msgstr "@watcher ...사실, 시각 자체는 이제 아무 의미가 없단다."
+
+msgid "@niko_speak Then... How can you tell?"
+msgstr "@niko_speak 그럼... 어떻게 알죠?"
+

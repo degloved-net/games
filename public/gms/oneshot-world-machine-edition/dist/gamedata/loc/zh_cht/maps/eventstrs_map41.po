@@ -1,0 +1,51 @@
+msgid "@ed [By the way, the effect is temporary.]"
+msgstr "@ed [附帶一提，這個效果是暫時的。]"
+
+msgid "@ed [It will be gone once you no longer need it.]"
+msgstr "@ed [等你不需要的時候就會消失。]"
+
+msgid "@ed [Still haven't figured it out?]"
+msgstr "@ed [還是沒搞懂？]"
+
+msgid "@ed [...you remember the document, correct?]"
+msgstr "@ed [……你記得文件吧？]"
+
+msgid "@ed [This time it's even more obvious.]"
+msgstr "@ed [這次它應該更明顯了。]"
+
+msgid "@ed [What's the most \\c[2]easily accessible\\c[0] place on your machine?]"
+msgstr "@ed [你的電腦上最\\c[2]容易看見\\c[0]的是什麼地方？]"
+
+msgid "@ed [Hello again, \\p.]"
+msgstr "@ed [\\p，我們又見面了。]"
+
+msgid "@ed [It seems I need to help you again.]"
+msgstr "@ed [看來我又得幫你了。]"
+
+msgid "@ed [Niko will not be able to progress otherwise.]"
+msgstr "@ed [不然霓光沒有辦法前進。]"
+
+msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
+msgstr "@ed [這次，你需要的資訊就在你電腦中最容易存取的地方。]"
+
+msgid "Do you see it?"
+msgstr "你看到了嗎？"
+
+msgid "@ed [You'll know what to do with it, then.]"
+msgstr "@ed [那你就會知道該怎麼做。]"
+
+msgid "@ed [I know you're not exactly that bright for a god, \\p, but this shouldn't be difficult.]"
+msgstr "@ed [我知道你不是什麼聰明的神，\\p，但這應該沒那麼難。]"
+
+msgid "@ed [Just poke around a bit. It really isn't hard to miss.]"
+msgstr "@ed [找一找吧，真的沒那麼難找到。]"
+
+msgid "@ed [...This...]"
+msgstr "@ed [……這……]"
+
+msgid "@ed [How did you already know the answer?]"
+msgstr "@ed [你為什麼已經知道答案了？]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+

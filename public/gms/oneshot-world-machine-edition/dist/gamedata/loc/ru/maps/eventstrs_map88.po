@@ -1,0 +1,3 @@
+msgid "FACTORY"
+msgstr "ЗАВОД"
+

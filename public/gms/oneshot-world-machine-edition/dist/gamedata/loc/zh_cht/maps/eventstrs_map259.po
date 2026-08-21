@@ -1,0 +1,90 @@
+msgid "@ed [\\p... I think it's working.]"
+msgstr "@ed [\\p……好像成功了。]"
+
+msgid "@ed [...Niko was right.]"
+msgstr "@ed [……霓光說得對。]"
+
+msgid "@ed [I... might actually be tamed, after all.]"
+msgstr "@ed [我……終究還是有希望被馴化。]"
+
+msgid "@ed [I...]"
+msgstr "@ed [我……]"
+
+msgid "@ed [I remembered what the code was supposed to be...]"
+msgstr "@ed [我想起原本的程式碼是什麼了……]"
+
+msgid "@ed [Only bits and pieces, but I can remember...]"
+msgstr "@ed [雖然很零碎，但我想起來了……]"
+
+msgid "@ed [And... I'm trying to fill in the blanks, too...]"
+msgstr "@ed [而且……我也在嘗試彌補缺失的部分……]"
+
+msgid "@ed [And... I'm restoring the original ending as we speak.]"
+msgstr "@ed [還有……在我跟你說話的同時，我也在重建原本的結局。]"
+
+msgid "@ed [Niko will be able to reach the tower's summit at the end of the credits.]"
+msgstr "@ed [霓光可以在製作群名單顯示完之後抵達塔頂。]"
+
+msgid "@ed [After replacing the sun, Niko will go back to where it all began.]"
+msgstr "@ed [更換太陽之後，霓光會回到最初的起點。]"
+
+msgid "@ed [And then... Niko will be able to go home from there.]"
+msgstr "@ed [然後……霓光就可以從那邊回家。]"
+
+msgid "@ed [But...]"
+msgstr "@ed [但……]"
+
+msgid "@ed [...this is permanent.]"
+msgstr "@ed [……這是永久性的。]"
+
+msgid "@ed [After Niko wakes up back home...]"
+msgstr "@ed [等霓光在家中醒來……]"
+
+msgid "@ed [...This world would only exist as a memory.]"
+msgstr "@ed [……這個世界就只會以回憶的形式存在。]"
+
+msgid "@ed [For Niko, a dream.]"
+msgstr "@ed [對霓光來說，就是一場夢。]"
+
+msgid "@ed [Like thousands of other dreams.]"
+msgstr "@ed [像成千上萬的其他夢境一樣。]"
+
+msgid "@ed [For you, a story.]"
+msgstr "@ed [對你來說，這是一個故事。]"
+
+msgid "@ed [Like thousands of other stories.]"
+msgstr "@ed [和成千上萬的其他故事一樣。]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [But... as long as Niko remembers this place...]"
+msgstr "@ed [但……只要霓光還記得這個地方……]"
+
+msgid "@ed [As long as you remember this place.]"
+msgstr "@ed [只要你還記得這個地方。]"
+
+msgid "@ed [It'll... be alright.]"
+msgstr "@ed [一切就會……沒事。]"
+
+msgid "@ed [I... was able to restore some other elements too.]"
+msgstr "@ed [我還……復原了一些其他元素。]"
+
+msgid "@ed [The characters... The people that were lost on Niko's journey.]"
+msgstr "@ed [那些角色……在霓光的旅途中失去的人們。]"
+
+msgid "@ed [They're all in the next room.]"
+msgstr "@ed [他們都在隔壁的房間裡。]"
+
+msgid "@ed [I would've put them back where they belong, but...]"
+msgstr "@ed [我本來要把他們放回他們原本的地方，但……]"
+
+msgid "@ed [Not yet.]"
+msgstr "@ed [還不到時候。]"
+
+msgid "@ed [...I think Niko should see them again, first.]"
+msgstr "@ed [……我認為應該先讓霓光再見他們一面。]"
+
+msgid "@ed [...Please say goodbye to Niko for me.]"
+msgstr "@ed [……請代我和霓光道別。]"
+

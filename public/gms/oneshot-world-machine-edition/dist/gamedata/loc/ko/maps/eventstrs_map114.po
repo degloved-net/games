@@ -1,0 +1,27 @@
+msgid "@niko I want to press all of the buttons...\\>\\n\\@niko_eyeclosed But I must resist!"
+msgstr "@niko 버튼을 전부 다 눌러보고 싶어요...\\>\\n\\@niko_eyeclosed 하지만 참아야겠죠!"
+
+msgid "@niko There sure are a lot of computers here...\\>\\nAnd they look important, too."
+msgstr "@niko 컴퓨터가 많이 있어요...\\>\\n모두 중요해 보여요."
+
+msgid "Monitoring... monitoring...."
+msgstr "모니터링 중... 모니터링 중..."
+
+msgid "I'm picking up some more disruptions in sector 8 of the city."
+msgstr "도시 제8번 구역에서 이상 현상이 더 감지됐어."
+
+msgid "This is consistent with our earlier findings... not good at all..."
+msgstr "이전 연구 결과와 일치하는군... 좋지 않아..."
+
+msgid "The Barrens engineer just reported another sighting of the particles in the cliff area."
+msgstr "불모지의 기술자가 절벽 지역에서 문제의 입자를 또 목격했다는 보고야."
+
+msgid "...well, nothing unusal at this point."
+msgstr "...음, 이 시점에서는 이상할 것도 없지."
+
+msgid "Ugh, those squares particles just took out two of my robots in the Glen."
+msgstr "아, 그 망할 사각형 입자들이 협곡 지역에 있는 내 로봇 두 대를 망가트렸어."
+
+msgid "We might have to put off the water analysis project for now."
+msgstr "아무래도 물 분석 프로젝트는 연기해야 할 것 같아."
+

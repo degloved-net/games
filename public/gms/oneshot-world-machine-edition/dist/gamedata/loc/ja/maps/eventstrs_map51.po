@@ -1,0 +1,1728 @@
+msgid "@niko The fridge is full of bottled water and take-out boxes."
+msgstr "@niko 冷蔵庫は、ボトルに入った水と\nお持ち帰り用の箱でいっぱい。"
+
+msgid "@niko A small bed."
+msgstr "@niko 小さなベッド。"
+
+msgid "@niko I guess she lives here..."
+msgstr "@niko あの人、ここに住んでるみたいだね…"
+
+msgid "@george1_smug Thanks to my superb organizational skills..."
+msgstr "@george1_smug 私の卓越した整理整頓力のおかげで…"
+
+msgid "@george1 I have kept a copy of every single one of The Author's books in the archival room!"
+msgstr "@george1 「作者」の本は、一つ残らず\n収蔵庫に保管できているわ！"
+
+msgid "@george1 Feel free to peruse the mass sea of knowledge that I helped contribute!"
+msgstr "@george1 私も貢献した、知識の宝庫よ。\n自由に読み漁ってくれてかまわないわ！"
+
+msgid "@george2_grr Everything that I ever helped him publish is here."
+msgstr "@george2_grr アタシが出版を手伝った「作者」の本は、\nすべてここにある。"
+
+msgid "@george2_stress What? You wanna read them or something??"
+msgstr "@george2_stress え？もしかして読みたいの？？"
+
+msgid "@niko_speak"
+msgstr "@niko_speak"
+
+msgid "[\"Y-yes?\", \"N-no?\"]"
+msgstr "[\"う、うん…\",\"いや、別に…\"]"
+
+msgid "@george2_stress Well what are you waiting for!!"
+msgstr "@george2_stress ならとっとと読みなさいよ！！"
+
+msgid "@george2_grr And let all my hard work go to waste?"
+msgstr "@george2_grr で、アタシの努力の結晶を無駄にするわけね？"
+
+msgid "@george2_sigh Fiiiine."
+msgstr "@george2_sigh ふーーん。"
+
+msgid "@george3_sad I have a copy of everything I helped him publish so far."
+msgstr "@george3_sad 出版のお手伝いをした本は、\nすべてコピーを取っているわ。"
+
+msgid "@george3 It's not a lot, but you can read some if you want..."
+msgstr "@george3 そんなに多くないけど、\n読みたければ読んでいいわよ…"
+
+msgid "@george4 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george4 出版した本は、彼のために\nぜーんぶ収蔵庫にとってるんだよ！"
+
+msgid "@george4_smile You can read some of it if you want! \\>\\n\\@george4 Some of them are even illustrated!"
+msgstr "@george4_smile 読みたかったら読んでいいからね！\\>\\n\\@george4 イラスト付きの本もあるからネ！"
+
+msgid "@george4_smile Kids like pictures, right?"
+msgstr "@george4_smile 子供って、みんな絵本好きでしょ？"
+
+msgid "@george5 I keep a copy of every single book I helped him publish!"
+msgstr "@george5 私が出版を手伝った本は、一つ残さず\nコピーを取ってあるわよ！"
+
+msgid "@george5_smile Feel free to read anything you'd like, dear."
+msgstr "@george5_smile 自由に読んでちょうだいね。"
+
+msgid "@george5 There's a couple of picture books that you might be interested in!"
+msgstr "@george5 貴方が好きそうな絵本もあるわよ！"
+
+msgid "@niko Oh!"
+msgstr "@niko わあ！"
+
+msgid "@george6 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george6 アイツのために出版した本は、\nぜーんぶ収蔵庫にキープしてんのよー！"
+
+msgid "@george6_smile You can like, totally read some of it."
+msgstr "@george6_smile マジ、チョー読みたい放題だから、\n好きに読んでってよ。"
+
+msgid "@george6_shrug If you want, I mean."
+msgstr "@george6_shrug ま、読みたかったらの話だけどサ。"
+
+msgid "@niko There's a black clover symbol on the cover of this book."
+msgstr "@niko この本の表紙に黒いクローバーの\nシンボルがついてる。"
+
+msgid "@niko_speak Hey, and this other book has a clover on its spine!"
+msgstr "@niko_speak あっ、こっちの本は後ろにも\nクローバーがあるよ！"
+
+msgid "@niko And... the rest of these books too."
+msgstr "@niko あと…他の本にも。"
+
+msgid "@niko_speak Are they all... about clovers?"
+msgstr "@niko_speak 全部…クローバーのことを書いた本なの？"
+
+msgid "@george1_smile A black clover is the mark of The Author!"
+msgstr "@george1_smile 黒いクローバーは「作者」の印なのよ！"
+
+msgid "@niko Oh?"
+msgstr "@niko そうなの？"
+
+msgid "@george1_hm Since he never entrusted me or anyone else with his name, we identify his works by the mark."
+msgstr "@george1_hm 彼は、私や他の誰にも名前を明かさない。\nだから私たちは、その印を見て\n「作者」の本かどうか判別しているの。"
+
+msgid "@niko So... he wrote ALL of these books?"
+msgstr "@niko じゃあ…この本は全部、「作者」さんが\n書いたものなの？"
+
+msgid "@george1 I told you he was a genius!"
+msgstr "@george1 言ったでしょう、あの人は天才なの！"
+
+msgid "@george1_smug ....and, by extension, me!"
+msgstr "@george1_smug …それに、私もね！"
+
+msgid "@george2_stress WHAT? Of course not!!"
+msgstr "@george2_stress は？そんなワケないでしょ！！"
+
+msgid "@george2_grr That's just how The Author marks his work!"
+msgstr "@george2_grr 「作者」はそうやって\n自分の作品に印を付けるのよ！"
+
+msgid "@george2_sigh Because he has to keep up with his ~~~~MYSTERIOUS PERSONA~~~~ I GUESS!!!"
+msgstr "@george2_sigh 「謎の人物」ってイメージを崩したく\nないんでしょ、どうせ！！！"
+
+msgid "@george2 He's never even told me his name!"
+msgstr "@george2 名前すら教えてくんないのよ！"
+
+msgid "@niko_speak Wait, so he wrote ALL of these books?"
+msgstr "@niko_speak えっ、じゃあこの本は\nみんな「作者」さんが書いたの？"
+
+msgid "@george2_sigh ....*deep breath*"
+msgstr "@george2_sigh …（スゥーーー）"
+
+msgid "@george2_grr Yes, yes he did."
+msgstr "@george2_grr ええ、そうよ。"
+
+msgid "@george3_sad That's just what The Author uses to mark his works."
+msgstr "@george3_sad 「作者」は、自分の作品だってことの証明として\nその印を使うの。"
+
+msgid "@george3_sigh I don't even know his name..."
+msgstr "@george3_sigh 私、名前すら知らないもの…"
+
+msgid "@niko_speak Oh! So he wrote ALL of these books?"
+msgstr "@niko_speak えっ！じゃあ、この本は全部\n「作者」さんが書いたの？"
+
+msgid "@george3_sad Yeah..."
+msgstr "@george3_sad そう…"
+
+msgid "@george4_smile Oh no, no!"
+msgstr "@george4_smile あっ、違う違う！"
+
+msgid "@george4 A black clover symbol just means it's written by The Author."
+msgstr "@george4 黒いクローバーのシンボルはね、その本は\n「作者」が書いたものだぞー！っていう\n印なの。"
+
+msgid "@george4_golly He doesn't want to tell anyone his name. So he marks all his works with this symbol instead!"
+msgstr "@george4_golly カレ、誰にも名前を伝えたくないんだって。\nだから代わりに、自分の作品には全部\nこの印を付けてるの！"
+
+msgid "@niko_pancakes He wrote ALL of these books?"
+msgstr "@niko_pancakes この本みんな、「作者」さんが書いたものなの？"
+
+msgid "@george4_smile He sure did!"
+msgstr "@george4_smile そのとーりっ！"
+
+msgid "@george5_smile Of course not, dear!"
+msgstr "@george5_smile いいえ、そうじゃないのよ！"
+
+msgid "@george5 The black clover is sort of The Author's name, you see!"
+msgstr "@george5 黒いクローバーは、「作者」の\n名前みたいなものでしょうね！"
+
+msgid "@george5_hmm Actually, we don't know his name! He just uses a clover to mark his works is all."
+msgstr "@george5_hmm 実はね、私たちも彼の名前を知らないんですよ！\nあの御方はクローバーを使うことによって、\nこれは自分の作品だって印を付けているの。"
+
+msgid "@niko_speak So... he wrote ALL of these books?"
+msgstr "@niko_speak ということは…この本は全部\nその人が書いたの？"
+
+msgid "@george5_smile He's a trooper, that!"
+msgstr "@george5_smile 我慢強い人なのよ！"
+
+msgid "@george6_smile LOL nope."
+msgstr "@george6_smile アッハッハ！ちょ、それは違うって。"
+
+msgid "@george6 That's like, just what The Author calls himself."
+msgstr "@george6 「作者」が自分のコトそう呼んでんのよ。"
+
+msgid "@george6_shrug He don't tell anyone his name. He just uses this symbol on his works so we know it's him."
+msgstr "@george6_shrug アイツ、だーれにも名前教えてなくてさ。だから、\nこれがオレの本なんだぜ！って分かるように、\nこのシンボルを使ってるってワケ。"
+
+msgid "@niko_pancakes ...he wrote ALL of these books?"
+msgstr "@niko_pancakes …この本、全部「作者」さんが書いたの？"
+
+msgid "@george6_fingerguns I know right!!!"
+msgstr "@george6_fingerguns マジ、ハンパないっしょ！！！"
+
+msgid "@george1_smile I guess brilliant minds gotta stick together, eh?"
+msgstr "@george1_smile やはり、天才たちは手を取り合っていくべきよね？"
+
+msgid "@george2_no WORK! WORK! WORK! WORK!"
+msgstr "@george2_no 仕事！仕事！仕事！仕事！"
+
+msgid "@george3_sigh I wish I worked faster..."
+msgstr "@george3_sigh 私がもっと効率良く仕事できれば…"
+
+msgid "@george4_smile Work work work work work~!"
+msgstr "@george4_smile 仕事仕事仕事仕事だー！"
+
+msgid "@george5_hmm I hope that nice gentleman is alright!"
+msgstr "@george5_hmm あの素敵な御方、元気にしてるといいのだけれど！"
+
+msgid "@george5_hmm If I knew where he lived, I would've sent him some soup or a nice blanket..."
+msgstr "@george5_hmm 住んでいる場所を知っていたら、スープや\n暖かい毛布でも送って差し上げるのに…"
+
+msgid "@george6 I wish we could hang out sometime, he's a chill dude."
+msgstr "@george6 そのうち一緒にトークしたくない？\nアイツ、すっげーイイヤツなんだー。"
+
+msgid "@george1 I simply MUST finish all the manuscripts in that box by the end of the week!"
+msgstr "@george1 その箱にある原稿を、すべて今週末までに\n終わらせなければ！"
+
+msgid "@george1 There are literally people lining up to read his works, you know!"
+msgstr "@george1 みんな「作者」の作品を読みたくて、\n行列ができるほどなのよ！"
+
+msgid "@george1_smug They all have me to thank, of course."
+msgstr "@george1_smug 当然だけれど、みんな私に感謝しているわ。"
+
+msgid "@niko Oh? \\>\\@niko_speak What does he write about?"
+msgstr "@niko へえ。 \\>\\@niko_speak 「作者」さんは\nいつもどんなことを書くの？"
+
+msgid "@george1 What DOESN'T he write about?"
+msgstr "@george1 どんなことでも、よ。"
+
+msgid "@george1 He cranks out those scripts at the speed of light!"
+msgstr "@george1 「作者」は、原稿を光の速さで生み出すの！"
+
+msgid "@george1_hm Which is 299,792,458 meters per second, by the way."
+msgstr "@george1_hm ちなみに、光の速さは\n毎秒299,792,458メートルよ。"
+
+msgid "@george2_stress DON'T TOUCH THAT I HAVE TO FINISH THIS BY THE END OF THE WEEK."
+msgstr "@george2_stress ちょっと触らないで！！\n今週末までに仕上げなきゃいけないんだから！！"
+
+msgid "@niko_what Oh, sorry..."
+msgstr "@niko_what あっ、ごめんなさい…"
+
+msgid "@george2_stress PEOPLE ARE LITERALLY LINING UP TO READ HIS BOOKS!"
+msgstr "@george2_stress どいつもこいつも「作者」の本が読みたいって\n言って、いっつも長蛇の列なのよ！！"
+
+msgid "@george2_grr WHAT DOESN'T HE WRITE ABOUT."
+msgstr "@george2_grr どんなことですって？なんでもよ！"
+
+msgid "@george2_stress \"HEY GEORGE I JUST WROTE ABOUT THE ENTIRE UNIVERSE WHILE YOU WERE TAKING A COFFEE BREAK.\""
+msgstr "@george2_stress 「やぁジョージ、君がコーヒーを飲んで\n休憩している間に、全宇宙に関する本を\n書いてみたよ」"
+
+msgid "@george2_stress \"IT'S SEVERAL MILLION VOLUMES.\""
+msgstr "@george2_stress 「ざっと、数百万ページかな」"
+
+msgid "@george2_no WHERE DOES THAT GUY GET ALL THAT FREE TIME!!!"
+msgstr "@george2_no ど・こ・で・そんな時間作ってんのよ！！！"
+
+msgid "@george3_sad Sigh....... And I haven't even finished this box yet..."
+msgstr "@george3_sad はぁ………この箱に入ってる原稿すら、\nまだ終わっていない…\\>\\n"
+
+msgid "@george3_sigh ...maybe I shouldn't be his editor after all..."
+msgstr "\\@george3_sigh …やっぱり、私には編集担当なんて\n務まらないのよ…"
+
+msgid "@george3_sad His books are in such high demand all the time!"
+msgstr "@george3_sad あの人の本は、いつも大人気なの！"
+
+msgid "@george3 People would even wait in line to loan a copy...."
+msgstr "@george3 借りるために、長蛇の列に並ぶ人\nだって大勢いる…"
+
+msgid "@george3_sad What doesn't he write about..."
+msgstr "@george3_sad どんなことでも書くわ…"
+
+msgid "@george3_sigh He's just... too good..."
+msgstr "@george3_sigh あの人は…すごすぎるのよ…"
+
+msgid "@george4 Ah! That box is for the book I'll get to publish this week!"
+msgstr "@george4 あっ！その箱は、\n今週出版する本のためのものだよ！"
+
+msgid "@george4_omg I'm so excitedddd~"
+msgstr "@george4_omg ひゃーワクワクするね！"
+
+msgid "@george4_smile His books are in high demand, y'know?"
+msgstr "@george4_smile 「作者」の本はとっても人気なんだよ？"
+
+msgid "@george4 We literally have people lining up to read them!"
+msgstr "@george4 この本を読むためにわざわざ並ぶ人が、\nたっくさんいるの！"
+
+msgid "@george4_smile Haha, what DOESN'T he write about?"
+msgstr "@george4_smile ふっふっふ、どんなことでもね。"
+
+msgid "@george4 It's really impressive how fast he can crank these scripts out!"
+msgstr "@george4 カレが原稿を書く速さったら、\n本当に感動的なんだ！"
+
+msgid "@george4_golly Like, where does that guy get all that time?"
+msgstr "@george4_golly いやー、どうやってそんな時間\n作ってるんだろうね？"
+
+msgid "@george5_smile This is the box I'll get to publish this week!"
+msgstr "@george5_smile この箱に、今週出版する原稿が入っているのよ！"
+
+msgid "@george5 Oh, oh! Did I mention this gentleman's books are quite popular?"
+msgstr "@george5 あら、そうそう！この御方の本は\nとても人気なのよ？"
+
+msgid "@george5_smile You might be a little too young to understand them, but the older kids love them!"
+msgstr "@george5_smile 貴方にはまだ少し難しいかもしれないけれど、\n年長の子供たちには大人気なの！"
+
+msgid "@george5_smile Lots and lots of things!"
+msgstr "@george5_smile 本当にいろいろなことね！"
+
+msgid "@george5 Everything from plants and animals to machines and robots!"
+msgstr "@george5 植物や動物のことから、機械や\nロボットのことまで！"
+
+msgid "@george5_smile Some of his books even have pictures!"
+msgstr "@george5_smile 絵本もあるのよ！"
+
+msgid "@george6 That box's got stuff I can publish this week!"
+msgstr "@george6 その箱には、今週に出版できるやつが\n入ってんのヨ！"
+
+msgid "@george6_point I better up my game, dude.\\> Peeps are lining up to read his books!"
+msgstr "@george6_point ちょっと気合い入れなきゃなー。 \\>みんな、アイツの本を読みたくて\nウズウズしてんの。行列までできんのよ？！"
+
+msgid "@george6_shrug Dude, what DOESN'T he write about!"
+msgstr "@george6_shrug チビくーーん、アレよ、\nもう逆に、何を書いてねーのって感じ！"
+
+msgid "@george6_smile Like I said, he's got passion, lots of it!"
+msgstr "@george6_smile さっきも言ったけどさ、アイツってホンットーに\n情熱的なの！情熱の塊ってワケ！"
+
+msgid "@george6_shrug It's like every time I turn around he just writes another huge anthology about the universe."
+msgstr "@george6_shrug ウチが目を離した隙に、宇宙に関する大選集を\n書き上げてきちゃうくらいヤバイのよ。"
+
+msgid "@george6 Gotta respect that."
+msgstr "@george6 ホント、リスペクトしちゃうわ。"
+
+msgid "@niko These boxes are full of loose papers and notebooks."
+msgstr "@niko この箱には紙とノートが\nたくさん入ってるよ。"
+
+msgid "@george1 Oh! I see you are curious about my job."
+msgstr "@george1 なるほど！\nあなたは、ジョージの仕事に\n興味津々というわけね。"
+
+msgid "@george1_hm ...My very important job!"
+msgstr "@george1_hm …ジョージの、とても重要な仕事に！"
+
+msgid "@george1_smug You see, The Author has entrusted ME with his all his ideas!"
+msgstr "@george1_smug なんと「作者」は自身のアイデアを\nすべてこの私、ジョージに委ねているの！"
+
+msgid "@george1_hm That's right... the author sends his manuscripts directly to ME!"
+msgstr "@george1_hm そう、その通り…「作者」はこのジョージに\n原稿を直接送ってくるのよ！"
+
+msgid "@george1_smug I am in charge of publishing all of his books that everyone loves!"
+msgstr "@george1_smug 誰もが愛する「作者」の書籍…その出版は、\nすべてこの私が担当している！"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak わあ！"
+
+msgid "@george1 Although... he hasn't been sending me anything as of late!"
+msgstr "@george1 それなのに…近頃は何も送ってこない！"
+
+msgid "@george1_hm I wonder, I wonder..."
+msgstr "@george1_hm はて、何故なのかしら…"
+
+msgid "@george1_smile Perhaps he decided that, since I work so hard, I deserve a break?"
+msgstr "@george1_smile もしかすると、仕事熱心な私を気遣って、\nあえてそうしているのかも？"
+
+msgid "@george1 As brilliant as I am, I still can't keep up with him!"
+msgstr "@george1 天賦の才を持っている私でも、\n彼の速さにはついていけないのよ！"
+
+msgid "@george1 Even AFTER he stopped sending me things, I still can't catch up."
+msgstr "@george1 原稿を送ってくるのをやめた後でさえ、\nいまだに追いつけていないの。"
+
+msgid "@george1_hm Of course, I have published book after book after book, but..."
+msgstr "@george1_hm もちろん、息つく間もなく出版作業を\n続けているけれど…"
+
+msgid "@george1 The box of manuscripts just seems to be growing on its own!"
+msgstr "@george1 原稿の入った箱が、まるで繁殖している\nかのように増え続けるのよ！"
+
+msgid "@george2_grr What? You ain't never seen manuscripts before?"
+msgstr "@george2_grr え？アンタ、原稿を見たことないの？"
+
+msgid "@george2_sigh That's what books look like before they get published, kid."
+msgstr "@george2_sigh 本が出版される前はね、そういう状態なのよ。"
+
+msgid "@niko I see!"
+msgstr "@niko そうなんだ！"
+
+msgid "@niko Do you help him publish books?"
+msgstr "@niko その人の本の出版を手伝ってるの？"
+
+msgid "@george2_stress Well, DUH!\\>\\n\\@george2_grr Why do you THINK I have literal mountains of his manuscripts, here?"
+msgstr "@george2_stress 当たり前でしょ！\\>\\n\\@george2_grr ヤツの原稿が、どうして山ほど\nアタシのところにあると思ってんの？"
+
+msgid "@george2 He just WOULDN'T STOP SENDING ME THINGS!!!"
+msgstr "@george2 アイツが原稿を果てしなく\n送ってくるからよ！！！"
+
+msgid "@george2_grr Like, man oh MAN does that guy work fast.\\>\\n\\@george2_sigh I just couldn't keep up!"
+msgstr "@george2_grr まったくもう、あの仕事の速さは何なのよ。\\>\\n\\@george2_sigh 全然追いつけやしない！"
+
+msgid "@george2 But one day he just, stopped.\\>\\n\\@george2_sigh ABOUT TIME, I would say.\\>\\n\\@george2 But it's also weird since it's HIM."
+msgstr "@george2 だけどある日、それがピタッと止んだの。\\>\\n\\@george2_sigh 内心ほっとしたわ。\\>\\n\\@george2 でも少し変よね。だって、あの「作者」よ？"
+
+msgid "@george2_grr BUT! Worst part of all?"
+msgstr "@george2_grr しかーーし！何が最悪かって？"
+
+msgid "@george2_stress Even after he stopped bombarding me, the piles of material I have on hand never seem to get any smaller!"
+msgstr "@george2_stress 原稿攻めがやっと止まったのに、手元にある\n資料の山は一向に小さくならない！"
+
+msgid "@george2_no IT'S LIKE THE BOXES ARE MAGICALLY FILLING THEMSELVES BACK UP EVERY TIME I TURN AROUND!!!!"
+msgstr "@george2_no まるで魔法の箱ね！！！アタシが目を離すたびに\n原稿が補充されていく魔法の箱！！！！"
+
+msgid "@george2_stress WHAT IS EVEN HAPPENING!"
+msgstr "@george2_stress 一体何だっていうのよ！"
+
+msgid "@niko_huh Are you okay?"
+msgstr "@niko_huh だ、大丈夫？"
+
+msgid "@george2_no NO!!!!!!"
+msgstr "@george2_no 大丈夫なワケないでしょ！！！！"
+
+msgid "@george3_sad Siiiigh..."
+msgstr "@george3_sad はああぁ…"
+
+msgid "@george3_sigh You just had to remind me..."
+msgstr "@george3_sigh 急に思い出しちゃったじゃない…"
+
+msgid "@niko_speak What's wrong?"
+msgstr "@niko_speak どうしたの？"
+
+msgid "@george3_sad The author hasn't shown up lately, nor has he sent me any new manuscripts..."
+msgstr "@george3_sad 「作者」が最近顔を出さないし、\n新しい原稿も送ってこない…"
+
+msgid "@george3_sad I'm his editor and publisher, you know..."
+msgstr "@george3_sad 私、あの人の編集担当兼出版者なのよ…"
+
+msgid "@george3_cry What if he doesn't want me to help him anymore?"
+msgstr "@george3_cry もしかして…私はもう必要ない？"
+
+msgid "@george3_worry He's brilliant, he works so fast...."
+msgstr "@george3_worry あの人は才能があって、仕事もすごく早い…"
+
+msgid "@george3_worry I'm so behind with publishing his books... what if he thinks I'm too slow..."
+msgstr "@george3_worry 出版作業が大分遅れているせいで…ノロマだと\n思われているのかも…"
+
+msgid "@george3_sigh Even after he's stopped sending me things, I still can't keep up..."
+msgstr "@george3_sigh 原稿を送ってこなくなった今ですら、\n未だに追いつけてないし…"
+
+msgid "@george3_sad The pile seems to just keep growing..."
+msgstr "@george3_sad 原稿の山が、どんどん大きくなっていく…"
+
+msgid "@george4_omg Oh! These are the manuscripts The Author sent me!"
+msgstr "@george4_omg あっ！これはね、「作者」がわたしに\n送ってくれた原稿なの！"
+
+msgid "@george4 As the head librarian, it's my job to help him with the publication process."
+msgstr "@george4 図書館長として、カレの本の出版を\n手伝うのがわたしの仕事。"
+
+msgid "@george4_golly But ah... lately he hasn't been sending me anything."
+msgstr "@george4_golly なんだけど、むう…最近、何も\n送ってこないんだよねー。"
+
+msgid "@george4_golly This isn't like him..."
+msgstr "@george4_golly カレらしくない…"
+
+msgid "@george4 I mean, I guess it does give me some extra time to work through this backlog!"
+msgstr "@george4 まっ、溜まってる分を処理する時間が\nできたのは良かったけど！"
+
+msgid "@george4_oops To be honest, I'm a little behind, haha!"
+msgstr "@george4_oops ぶっちゃけると、作業が少し遅れてるんだよね、\nあっはっは！"
+
+msgid "@george4_omg That guy works really fast!"
+msgstr "@george4_omg あの人、ホントに仕事が早くてさ！"
+
+msgid "@niko I see..."
+msgstr "@niko そうなんだ…"
+
+msgid "@george4 ...the weird part is,\\>\\nI've been publishing book after book AFTER he stopped sending me things, right?"
+msgstr "@george4 …不思議なのはね、\\>\\n原稿が送られてこなくなった今も、\nずっとその作業をしてるの。変でしょ？"
+
+msgid "@george4_golly But the pile of manuscripts never seems to get any smaller!"
+msgstr "@george4_golly しかも、原稿の山が一向に減らない！"
+
+msgid "@george4_golly ...at all!"
+msgstr "@george4_golly …これっぽっちも！"
+
+msgid "@george4_oops Golly, you think I'm going bonkers?"
+msgstr "@george4_oops どうしよう、わたし、\n頭おかしくなっちゃったのかな？"
+
+msgid "@george5_smile I see you've taken an interest to the manuscripts!"
+msgstr "@george5_smile まぁ、原稿に興味があるのね！"
+
+msgid "@niko What are they for?"
+msgstr "@niko 何の原稿なの？"
+
+msgid "@george5_aww Well, aren't you curious, little one!"
+msgstr "@george5_aww ふふ、好奇心旺盛な子ね！"
+
+msgid "@george5 The Author passed these drafts to me, you see!"
+msgstr "@george5 これはね、「作者」が送ってきたものなの！"
+
+msgid "@george5_smile Since I'm the head librarian, I am supposed to help him publish these!"
+msgstr "@george5_smile 私は図書館長だから、彼の出版も\n手伝っているのよ！"
+
+msgid "@george5_hmm But... oh, I haven't seen that gentleman lately...."
+msgstr "@george5_hmm でも…あの方とは\nしばらく会ってないわね…"
+
+msgid "@george5 Which is quite strange! Usually he delivers these manuscripts to me faster than I can work on them!"
+msgstr "@george5 とても珍しいことなのよ！いつもなら、\n私の作業速度を超える速さで\n原稿を届けてくるっていうのに！"
+
+msgid "@george5_heh I guess now it just means I get a little more breathing room, hohoho!"
+msgstr "@george5_heh 一息つける時間ができたってことでも\nあるのだけれどね、うふふ！"
+
+msgid "@niko_speak That's good!\\> \\@niko ...right?"
+msgstr "@niko_speak それは良かった！\\>\\@niko …んだよね？"
+
+msgid "@george5_hmm I don't know! I AM quite worried about him."
+msgstr "@george5_hmm どうかしらね！ただ、あの御方のことは\nとても心配よ。"
+
+msgid "@george5_hmm I hope he hasn't fallen ill from all that stress!"
+msgstr "@george5_hmm ストレスで病気になっていなければ\nいいのだけれど！"
+
+msgid "@george5_smile At least I got my hands full for the time being."
+msgstr "@george5_smile でも、当分は私も手一杯なの。"
+
+msgid "@george5 Even though he's stopped sending me things, it doesn't feel like he did at all!"
+msgstr "@george5 原稿は送られてこなくなったのに、\nそんな感じがまったくしないの！"
+
+msgid "@george5_heh The pile of manuscripts I still need to proofread doesn't seem to get smaller, haha!"
+msgstr "@george5_heh 校正作業の必要な原稿の山が\nこれっぽっちも小さくならないのよ、ふふ！"
+
+msgid "@niko This box is full of loose papers and notebooks."
+msgstr "@niko この箱には紙とノートが\nいっぱい入ってる。"
+
+msgid "@george6_point Yo, these are the manuscripts The Author gave me."
+msgstr "@george6_point イエー。これは「作者」が送ってきた\n原稿ちゃんたちよん。"
+
+msgid "@george6_smile I'm supposed to like, help him publish and stuff."
+msgstr "@george6_smile ウチが、アイツの本の出版を手伝ってんの。"
+
+msgid "@george6 But he hasn't shown his face 'round these parts lately."
+msgstr "@george6 でも最近ぜーんぜん顔見せてくんないのよ。"
+
+msgid "@george6 That's like, throwin off my groove, man."
+msgstr "@george6 ちょっとチョーシ狂っちゃうよね。"
+
+msgid "@george6_shrug Like, I'm used to him sending me new stuff all the time."
+msgstr "@george6_shrug なんつーか、アイツが新しい原稿を\nガンガン送ってくるのに\n慣れっこになってたからサ。"
+
+msgid "@george6 I mean, of course I can't keep up with the pace that he's writin', but he don't mind."
+msgstr "@george6 まー、ウチじゃアイツのペースに\n追いつけるワケないんだけど、でも\nぜーんぜん気にしてないみたいでねー。"
+
+msgid "@george6_fingerguns Guy's just tooootally passionate 'bout his job!"
+msgstr "@george6_fingerguns 「作者」クンは、自分の仕事に\nめーっちゃ情熱注いでんのヨ！"
+
+msgid "@george6_smile Makes me wanna work hard too, so I do!"
+msgstr "@george6_smile それ見てっとさ、\nウチもチョーーやる気出てくんの！"
+
+msgid "@george6 I've been playin catchup with the stuff I haven't gotten to finish yet."
+msgstr "@george6 終わってない仕事がマジ山積みでさー、\n早く追いつかなきゃってずっと頑張ってんの。"
+
+msgid "@george6_point But you know what's weird?"
+msgstr "@george6_point でもさ、何がヤバいか分かる？"
+
+msgid "@niko What?"
+msgstr "@niko ううん？"
+
+msgid "@george6_shrug The stuff I'm supposed to finish don't get finished."
+msgstr "@george6_shrug 終わらせなきゃいけないことが、\nまーったく終わんないのヨ。"
+
+msgid "@george6 Like I've put out book after book but the work pile don't get any smaller."
+msgstr "@george6 次から次へと本を出版しまくってんのに、\n仕事の山がぜーんぜん小さくなんないの。"
+
+msgid "@george6_shrug ...Have I really been slackin' that much?"
+msgstr "@george6_shrug …ウチってそんなに怠けてたっけー？"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko 本棚。"
+
+msgid "@niko_speak The computer screen says something about \"updated databases\"."
+msgstr "@niko_speak コンピューターの画面に「更新された\nデータベース」のことが表示されてるよ。"
+
+msgid "@george1 So!\\>\\n\\@george1_smug Someone here to see the brilliant George, eh?"
+msgstr "@george1 さてと！\\>\\n\\@george1_smug 何者かが、この才能あふれる\nジョージに会いに来たようね？"
+
+msgid "@george1_smug Caught wind of my genius and couldn't help but come see for yourself, eh?"
+msgstr "@george1_smug ジョージの天才っぷりを風の便りに聞き、\nどうしても会いたくて\nここまで訪れてきた。そうなのでしょう？"
+
+msgid "@niko Um-"
+msgstr "@niko えっと…"
+
+msgid "@george1 ...don't answer!\\>\\n\\@george1_smug Of course you are."
+msgstr "@george1 …答えは要らない！\\>\\n\\@george1_smug もちろん、そうなのだから。"
+
+msgid "@george1_smile What else could you ~possibly~ want?"
+msgstr "@george1_smile だって、他に何を求めてくるっていうの？"
+
+msgid "@niko Actually... \\@niko_speak I need your help!\\>\\n\\@niko_speak Can you tell me what I need to do?"
+msgstr "@niko あのね… \\@niko_speak 実は、助けてほしいことがあって！\\>\\n\\@niko_speak これから何をしたらいいのかな？"
+
+msgid "@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko たぶん…ミーは、\n塔に行かないとダメなんだよね…？"
+
+msgid "@george1_smug Ah, but of course I can help!"
+msgstr "@george1_smug ええ、もちろん助けてあげる！"
+
+msgid "@george1 For I... the brilliant and intelligent head librarian George, beholder of all knowledge........"
+msgstr "@george1 この私…聡明で、\n才気あふれる図書館長ジョージが、\nあらゆる知識を持つ者として……"
+
+msgid "@george1_hm ...Believe you're supposed to go in the Tower!"
+msgstr "@george1_hm …君は、塔へ行くべきなのだと確信しているわ！"
+
+msgid "@niko_eyeclosed That's what I said...\\>\\n\\@niko_speak But how, exactly?"
+msgstr "@niko_eyeclosed それ、さっきミーが言ってたことだよ…\\>\\n\\@niko_speak でも、どうやって？"
+
+msgid "@george1 Through the Tower entrance room!"
+msgstr "@george1 塔の玄関となる部屋を通るのよ！"
+
+msgid "@george1_hm Alas, going beyond that small entrance room requires ancient, forbidden knowledge that eludes even George."
+msgstr "@george1_hm …ああ悲しきかな、その部屋の先へ進むには、\nこのジョージでさえ理解できない、\n禁断の古代知識が必要になる。"
+
+msgid "@george1 ...but fear not!"
+msgstr "@george1 …けれど、心配ご無用！"
+
+msgid "@george1 If that knowledge happens to be recorded in some cryptic tome in a long-dead language..."
+msgstr "@george1 もしその知識が、「秘密の書」なるものに、\nはるか昔に滅びた言語で\n記録されていたとしたら…"
+
+msgid "@george1_smug Then know that I, George, am fluent in several dead languages!"
+msgstr "@george1_smug その時は、今は亡き言語に精通している、\nこのジョージを頼りにするといいわ！"
+
+msgid "@niko I... see!"
+msgstr "@niko えっと…分かった！"
+
+msgid "@niko Excuse me..."
+msgstr "@niko あの…"
+
+msgid "@george2_stress Hey!!!"
+msgstr "@george2_stress ちょっと！！！"
+
+msgid "@george2_grr Who the heck do you think you are, barging in here like that?"
+msgstr "@george2_grr 勝手に入ってきて、アンタ一体何様のつもり？"
+
+msgid "@george2_NO I don't care if you're the Messiah, manners are still a thing!"
+msgstr "@george2_NO たとえ救世主であっても関係ない！マナーは大事！"
+
+msgid "@niko I'm... \\>\\@niko_speak sorry?"
+msgstr "@niko えっと… \\>\\@niko_speak ごめんなさい？"
+
+msgid "@george2 Well? Are you just here to apologize?"
+msgstr "@george2 それで？謝るためだけにここに来たのかしら？"
+
+msgid "@niko ...Yes? \\.\\.\\n\\@niko_speak I mean, no!"
+msgstr "@niko …うん？ \\.\\.\\n\\@niko_speak じゃなくて、違うよ！"
+
+msgid "@niko_eyeclosed I mean, I need your help...\\>\\n\\@niko I'm not sure what I need to do next."
+msgstr "@niko_eyeclosed あの、助けてほしくて…\\>\\n\\@niko この後、何をしたらいいのか\n分からないんだ。"
+
+msgid "@niko I think I need to go in the Tower?"
+msgstr "@niko たぶん、塔の中に行かなきゃダメなんだよね？"
+
+msgid "@george2 Seriously? You haven't figured that one out yet?"
+msgstr "@george2 正気？まだ見つけ出せていないの？"
+
+msgid "@niko_speak I don't know how to get in!"
+msgstr "@niko_speak 中にどうやって入ればいいのか分からなくて！"
+
+msgid "@george2_grr Well, I don't know either.\\n\\>\\@george2 Shouldn't \\p help you with that?"
+msgstr "@george2_grr ま、アタシも知りませんけど。\\n\\>\\@george2 \\p が助けてくれるんじゃないの？"
+
+msgid "@george2_sigh All I know is that nobody from this world can get in there."
+msgstr "@george2_sigh アタシが唯一知ってるのは、この世界の住人は\nあそこに入れないってことだけよ。"
+
+msgid "@george2_grr Not beyond that tiny entrance room, anyway."
+msgstr "@george2_grr 少なくとも、あの小さな部屋から\n先へは進めない。"
+
+msgid "@george2 If anything, there might be a book on how the Messiah of all people can get in."
+msgstr "@george2 もしかしたら、その方法を記した\n救世主向けの本ならあるかもね。"
+
+msgid "@george2_sigh But I don't got anything like that in MY collection."
+msgstr "@george2_sigh ま、アタシのコレクションにはないけど。"
+
+msgid "@george2_grr Would like to, though."
+msgstr "@george2_grr 1冊ぐらい欲しいものね。"
+
+msgid "@george3_sad Si\\.i\\.i\\.\\.i\\.\\.igh."
+msgstr "@george3_sad はあ\\.あ\\.あ\\.\\.あ\\.\\.ぁ…"
+
+msgid "@niko Um... hi?"
+msgstr "@niko あの…こんばんは？"
+
+msgid "@george3_sigh ...\\.Hi."
+msgstr "@george3_sigh …\\.こんばんは。"
+
+msgid "@niko_speak Are you alright?"
+msgstr "@niko_speak 大丈夫？"
+
+msgid "@george3_sad .\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\.."
+msgstr "@niko .\\..\\..\\.."
+
+msgid "@george3_worry Can I... help you..."
+msgstr "@george3_worry 何か…用…？"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak うん！"
+
+msgid "@niko I was wondering if you can tell me what I should do next?"
+msgstr "@niko ミーが次に何をしたらいいのか知ってたら\n教えてほしいなと思って。"
+
+msgid "@niko I... think I'm supposed to go in the Tower."
+msgstr "@niko たぶん…塔に行かなきゃダメなんだけど。"
+
+msgid "@george3_sad ...the Tower....\\>\\n\\@george3_sigh A grim obelisk... \\>\\@george3_sigh a solemn reminder of our fate."
+msgstr "@george3_sad 塔…\\>\\n\\@george3_sigh あの、残忍なオベリスク… \\>\\@george3_sigh 私たちの運命を、厳粛に知らせる存在…"
+
+msgid "@george3_cry We're all gonna dieeeeeee...."
+msgstr "@george3_cry みんな、死んじゃうのよぉぉぉ…"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what あの…"
+
+msgid "@niko_what ...so...\\> \\@niko_eyeclosed how do I... \\>\\@niko_speak get in?"
+msgstr "@niko_what その…\\>\\@niko_eyeclosed ミーは… \\>\\@niko_speak どうやって、入ればいいの？"
+
+msgid "@george3_cry I don't know...!!!\\>\\n\\@george3_sad I've been reading and studying all my life, and yet..."
+msgstr "@george3_cry そんなの…知らない…！！！\\>\\n\\@george3_sad 読書と勉学だけに人生を費やしてきたのに、\n未だに…"
+
+msgid "@george3_cry I haven't even found any books about entering the Tower!"
+msgstr "@george3_cry 塔への入り方が書かれた本を見たことがない！"
+
+msgid "@george3 Oh, I know there's a small room you can go in, but...\\>\\n\\@george3_cry Everybody knows that!"
+msgstr "@george3 そう、小さな部屋があって、そこに\n入れるのは知ってる、けど…\\>\\n\\@george3_cry そんなの常識だもの！"
+
+msgid "@george4_smile Helloooo~!\\>\\nYou must be the savior!"
+msgstr "@george4_smile やっほー！\\>\\nキミ、救世主ね！"
+
+msgid "@george4_omg I'm soooo happy I actually get to meet you! <3"
+msgstr "@george4_omg まさか会えるなんて、\nわたしとーってもうれしいよ！"
+
+msgid "@niko_speak It's nice to meet you too, miss!"
+msgstr "@niko_speak ミーも、会えてうれしいよ！"
+
+msgid "@george4 So! Are you here to check out the archives?\\>\\n\\@george4_omg I can give you a tour!"
+msgstr "@george4 それでそれで！収蔵庫を見にきたんでしょ？\\>\\n\\@george4_omg 案内してあげる！"
+
+msgid "@niko Actually... \\>\\n\\@niko_speak I need your help!"
+msgstr "@niko あの… \\>\\n\\@niko_speak 実は、助けてほしくて！"
+
+msgid "@niko_speak Can you tell me what I need to do next?\\>\\n\\@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko_speak 次に何をすればいいのか教えてほしい！\\>\\n\\@niko たぶんだけど…塔に行かなきゃ\nダメなんだよね…？"
+
+msgid "@george4 Yup!"
+msgstr "@george4 そ！"
+
+msgid "@niko Do you know how I can get in?"
+msgstr "@niko どうすれば中に入れるのか、知ってる？"
+
+msgid "@george4 Nope!"
+msgstr "@george4 全然！"
+
+msgid "@george4_golly Gosh, I don't think ANYONE's supposed to get inside the Tower!"
+msgstr "@george4_golly んーと、あの塔にはだーれも入れないかも！"
+
+msgid "@george4 I mean, there's a little room that you can go into...\\>\\n\\@george4_golly But there's no stairs or elevators or anything else..."
+msgstr "@george4 あのね、そこにちっちゃな部屋が\nあるのは知ってるんだけど…\\>\\n\\@george4_golly 階段もエレベーターも、何にもなくてね…"
+
+msgid "@george4 If you want my guess, you'll probably need \\p's help?"
+msgstr "@george4 わたしが思うに、 \\p に手伝って\nもらわないと無理なのかもね？"
+
+msgid "@george4_oops I don't know how exactly..."
+msgstr "@george4_oops それ以上のことは分かんないけど…"
+
+msgid "@george4 In my experience, that kind of knowledge is usually recorded in some sort of cryptic book."
+msgstr "@george4 わたしの経験だとね、そういう情報って普通、\n「秘密の書」みたいなのに記されてるの。"
+
+msgid "@george4_golly But I haven't read anything like that before...\\>\\n\\@george4_oops Sorry!"
+msgstr "@george4_golly でも、そんなの読んだことないな…\\>\\n\\@george4_oops ごめんね！"
+
+msgid "@niko Ah..."
+msgstr "@niko そっか…"
+
+msgid "@george5 Oh, hello there!"
+msgstr "@george5 あら、こんばんは！"
+
+msgid "@george5_smile You must be the savior!"
+msgstr "@george5_smile 貴方が救世主ね！"
+
+msgid "@george5_aww And also, the cutest darn thing I have ever seen!"
+msgstr "@george5_aww まぁ、なんて可愛らしい子なんでしょう！"
+
+msgid "@niko U-um... \\>\\n\\@niko_speak Thank you!"
+msgstr "@niko えっ、と… \\>\\n\\@niko_speak ありがとう！"
+
+msgid "@george5_smile Can I help you with anything, sweetie?"
+msgstr "@george5_smile 何か手伝えることはあるかしら？"
+
+msgid "@niko Mhm!\\>\\n\\@niko I want to know what I should do next!"
+msgstr "@niko うん！\\>\\n\\@niko 次にすることを教えてほしい！"
+
+msgid "@niko I think I'm supposed to go in the Tower?"
+msgstr "@niko ミーは塔に行かないとダメなんだよね？"
+
+msgid "@george5 Oooh that's right, the Tower!"
+msgstr "@george5 ええ、そうね。塔よ！"
+
+msgid "@george5_smile I know there's a small room that you can go into, but..."
+msgstr "@george5_smile 中に入ることのできる、小さな部屋が\nあるのだけれど…"
+
+msgid "@george5_hmm ...I'm afraid nobody knows how to get in beyond that!"
+msgstr "@george5_hmm …ごめんなさいね。そこから先へ進む方法を\n誰も知らないの！"
+
+msgid "@george5_heh Not even silly ol' me, who spent her entire life reading books about the world..."
+msgstr "@george5_heh この世界に関する本を読むことだけに人生を\n費やしてきた私でさえ…"
+
+msgid "@george5 I think you need some help from \\p, but I don't know any details!"
+msgstr "@george5 \\p の助けが必要だと思うのだけれど、\n詳しいことは分からないわ！"
+
+msgid "@george5_hmm I've never found any books about this before...\\>\\n\\@george5_smile You'd think there would be at least ONE book on this, but I guess that's just how it is!"
+msgstr "@george5_hmm そういう本は今まで読んだことがないの…\\>\\n\\@george5_smile 1冊ぐらいありそうなのにね。\n世の中そんなものなのでしょうね、きっと！"
+
+msgid "@george5_hmm Goodness, this is quite the dilemma!"
+msgstr "@george5_hmm うーん、ジレンマね！"
+
+msgid "@george6 Hey, lil' fella!"
+msgstr "@george6 やっほーーチビくん！"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak こんばんは！"
+
+msgid "@george6_point So you're gonna like, save the world and stuff!\\>\\n\\@george6_smile Didn't think I'd run into ya. But now I did!"
+msgstr "@george6_point Youが世界を救う救世主ってワケね！\\>\\n\\@george6_smile まっっさか会えるとは思ってなかった。\nけど、こうやって会えた！"
+
+msgid "@george6_fingerguns Eyyyyyy."
+msgstr "@george6_fingerguns イエーーーーイ。"
+
+msgid "@niko_speak Um, thanks?"
+msgstr "@niko_speak えっと、ありがとう？"
+
+msgid "@george6 So like, what up?\\>\\n\\@george6_smile Can I getcha anything?"
+msgstr "@george6 んで、今日はどしたの？\\>\\n\\@george6_smile 何か困りごと？"
+
+msgid "@niko_speak Yeah! I heard you can help me!"
+msgstr "@niko_speak うん！助けてくれるって聞いたから！"
+
+msgid "@niko I'm not sure what I'm supposed to do now..."
+msgstr "@niko 次にどうしたらいいか分からなくて…"
+
+msgid "@niko_speak I think I'm supposed to go in the Tower...\\>\\n\\@niko But how do I do that?"
+msgstr "@niko_speak たぶん、塔に入らないとダメなんだけど…\\>\\n\\@niko でも、どうやって入ればいいのかな？"
+
+msgid "@george6 Ya don't.\\>\\n\\@george6_shrug At least, WE don't."
+msgstr "@george6 ムリ！\\>\\n\\@george6_shrug 少なくとも、ウチらにはムリムリだね。"
+
+msgid "@george6 The Tower's only got one teeny room in it, it ain't even got stairs!"
+msgstr "@george6 塔にはチョーちっちゃい部屋が1つしかなくて、\nしかも階段すらないんだからサ！"
+
+msgid "@george6_point I bet you need \\p's help on this one, pal...\\>\\n\\@george6_shrug Exactly how? I dunno."
+msgstr "@george6_point …となると、やっぱ \\p の助けが\nいるんじゃない…\\>\\n\\@george6_shrug 具体的にどうするかって？\nウチにはサッパリ。"
+
+msgid "@george6 But I bet'cha anything that sorta knowledge is in some mystery book somewhere."
+msgstr "@george6 でもそういうのってさー、\nどっかの謎の本に書いてあるはずじゃない？"
+
+msgid "@george6_shrug Nothin' in my collection fits the description, tho."
+msgstr "@george6_shrug ウチのコレクションには無いけどさーー。"
+
+msgid "@niko A box full of notebooks."
+msgstr "@niko ノートがたくさん入った箱。"
+
+msgid "@niko A book is poking out from the shelf."
+msgstr "@niko 本が1冊飛び出てるよ。"
+
+msgid "@niko_speak Ah, this looks like a sketchbook of some sort!"
+msgstr "@niko_speak あっ、これは何かのスケッチブックみたい！"
+
+msgid "@george1 Oh, do you need George to tell you what to do again?"
+msgstr "@george1 あら？次に何をすべきか、ジョージの\n説明がもう一度必要かしら？"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak うん、お願い！"
+
+msgid "@george1 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george1 この日記によると、あなたは以前の\n太陽のかけらを3つ持って、塔のふもとに\nある小さな部屋に進む必要があるようね。"
+
+msgid "@george1 With those three items at hand, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george1 その3つをたずさえて部屋の\n中に立つと、 \\p が床の模様や\n窓を使って何かを行うの。"
+
+msgid "@niko Alright... thank you!"
+msgstr "@niko 分かった…ありがとう！"
+
+msgid "@george1_smile Good luck on your journey, small child!"
+msgstr "@george1_smile 小さき者よ、あなたの旅路に幸あれ！"
+
+msgid "@george1 George shall bid you farewell now."
+msgstr "@george1 ジョージは、\nあなたにさよならの挨拶を告げましょう。"
+
+msgid "@george1 I've done it!"
+msgstr "@george1 できた！\\>\\n"
+
+msgid "@george1_smile I have finished the daunting task of translating this journal!"
+msgstr "@george1_smile 厄介な解読が終わったわ！"
+
+msgid "@niko_speak Oh! That was fast!"
+msgstr "@niko_speak わあ！あっという間だったね！"
+
+msgid "@george1_smug But of course! I AM the speediest translator in recent history."
+msgstr "@george1_smug ま、当然のことね！私の解読速度は、ここ近年では\n世界一なのだから。"
+
+msgid "@george1 Anyway, I made you a line-by-line transcript. \\>\\nIt looks like this journal might be meant for \\p."
+msgstr "@george1 それはともかく、各行ごとに翻字してみたの。 \\>\\nこの日記はおそらく、\n\\p のために書かれたもののようだわ。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak そうなの？"
+
+msgid "@george1 Here, take a look yourself."
+msgstr "@george1 ほら、見てごらんなさい。"
+
+msgid "@george1 There, that's the last of it."
+msgstr "@george1 そこで終わりのようね。"
+
+msgid "@george1 The rest of the pages are torn out.\\>\\n\\@george1_hm You didn't do this, did you?"
+msgstr "@george1 残りのページは引きちぎられているみたい。\\>\\n\\@george1_hm まさか、あなたがやった、なんてことないわよね？"
+
+msgid "@niko_speak No!"
+msgstr "@niko_speak ううん！"
+
+msgid "@george1 A shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george1 Ah well, I guess \\p will have to figure out that one."
+msgstr "@george1 残念ね！「窓」が何を意味するのか\n考えていたの。\\>\\n\\@george1 仕方ない、そのうち \\pが\n解明してくれるでしょう。"
+
+msgid "@niko Right..."
+msgstr "@niko そうだね…"
+
+msgid "@niko_speak By the way, what does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak あの、「以前まであった太陽の\n3つのかけら」ってどういう意味？\\>\\n\\@niko ミーはこの太陽しか持ってないよ…"
+
+msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can answer!"
+msgstr "@george1_hm なるほど！\\>\\nその質問は… \\@george1_smug この私、ジョージが\n答えて差し上げましょう！"
+
+msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
+msgstr "@george1 蛍光体の中で最も珍しい、黄色の蛍光体が\n含まれたものが必要、というのがその答え。\\>\\n\\@george1 …それは太陽光を長時間吸収し、決して\n消えることがないと言われているわ。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak あっ！\\>\\n\\@niko ミー、琥珀と羽根なら持ってるよ。\n2つとも黄色に光ってる…"
+
+msgid "@george1_hm But alas, you are missing the third, no?"
+msgstr "@george1_hm 悲しきかな、\n3つ目はまだ持っていない。違うかしら？"
+
+msgid "@george1 Fear not! For George, collector of rare artifacts... \\@george1_hm will assist you!\\>\\n\\@george1 Here."
+msgstr "@george1 心配ご無用よ！なぜなら、希少芸術品コレクター\nであるこの私、ジョージが… \\@george1_hm あなたに力を貸すのだから！\\>\\n\\@george1 ほら。"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko_huh ...like you?"
+msgstr "@niko なんか…\\>\\n\\@niko_speak なんか…\\@niko_huh …あなたにそっくりだね？"
+
+msgid "@george1_smile Yes!"
+msgstr "@george1_smile その通り！"
+
+msgid "@george1_smile Now you'll never forget my face! \\>\\n\\@george1 The face... \\>\\@george1_hm of knowledge."
+msgstr "@george1_smile これでもう、私の顔を忘れないでしょう！ \\>\\n\\@george1 この… \\>\\@george1_hm 博学多才な顔をね。"
+
+msgid "@niko_speak Ah, thank you!"
+msgstr "@niko_speak うん、ありがとう！"
+
+msgid "@george1 Yes, even someone as great as I must put the proper thought and care into a task like this."
+msgstr "@george1 そう。私のように優れた人間でも、\nこういう作業に取り組むときには熟考し、\n細心の注意を払う必要があるのよ。\\>\\n"
+
+msgid "@niko_yawn *yawn*..."
+msgstr "@niko_yawn ふわぁ…"
+
+msgid "@niko_eyeclosed Excuse me.... \\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed ごめんなさい…\\>\\n\\@niko …またしちゃった。"
+
+msgid "@george1 Go take a nap, small child! \\>\\n\\@george1_smug Take a nap and appreciate my hospitality!"
+msgstr "@george1 お昼寝してくるといいわ！ \\>\\n\\@george1_smug 少し仮眠を取って、\n私のおもてなしに感謝することね！"
+
+msgid "@george1 Guest room's in the attic down the hall, in case you forgot."
+msgstr "@george1 ゲストルームは、通路をまっすぐ行った\nところの屋根裏。念のため、ね。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko I do have this book, though!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko この本なら持ってるよ！\\>\\n\\@niko_speak たぶん…ミーには分からない文字…みたいなので\n書かれているみたい？"
+
+msgid "@george1 Aha!\\>\\nAn ancient book!\\>\\nWritten by no less than the most ancient... wait a minute."
+msgstr "@george1 あら！\\>\\nこれは古代の本ね！\\>\\n著者は、最古の…いや、違うわね。"
+
+msgid "@george1_hm This isn't ancient at all!\\>\\n\\@george1 But it's written in a dead language nevertheless."
+msgstr "@george1_hm これはちっとも古いものではなさそうね！\\>\\n\\@george1 にもかかわらず、今はすでに失われた言葉で\n書かれている。"
+
+msgid "@george1_hm It's time... for me to unleash my brilliance!"
+msgstr "@george1_hm 私の…才気を解き放つ時がやってきたようね！"
+
+msgid "@george1 For George (me),\\npossessor of at least one PhD...\\>\\n\\@george1_smug shall translate this!"
+msgstr "@george1 ジョージ（つまりこの私）は、\\n少なくとも博士号を1つ持っている…\\>\\n\\@george1_smug すなわち、これは私が解読するということ！"
+
+msgid "@george1 ...this will take some time, however."
+msgstr "@george1 …けれど、少し時間がかかりそう。"
+
+msgid "@niko I see...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko そうなんだ…\\>\\n\\@niko_yawn ふわぁ…"
+
+msgid "@niko_eyeclosed Excuse me...."
+msgstr "@niko_eyeclosed ごめんなさい…"
+
+msgid "@george1_hm Oh? What's this? \\>\\nYou are sleepy?"
+msgstr "@george1_hm あら、どうしたの？ \\>\\n眠くなってきたのね？"
+
+msgid "@niko_eyeclosed A little...."
+msgstr "@niko_eyeclosed ちょっとだけね…"
+
+msgid "@george1_smile Fear not! \\>Because I have read a book on hospitality before!"
+msgstr "@george1_smile 心配ご無用よ！ \\>私は以前、おもてなしに関する\n本を読んだことがあるのだから！"
+
+msgid "@george1_smug ...and thus, have prepared for this exact situation!"
+msgstr "@george1_smug …そして、そう。\nまさにこうなることを予期していたの！"
+
+msgid "@george1 ...Guest room's in the attic down the hall."
+msgstr "@george1 …ゲストルームは、通路をまっすぐ\n行ったところの屋根裏にある。"
+
+msgid "@niko So...."
+msgstr "@niko えっと…"
+
+msgid "@george1 If you have any questions regarding books, then fear not."
+msgstr "@george1 本について質問があっても、\n心配は無用よ。"
+
+msgid "@george1_smug For I, George the head librarian, know a lot about \\c[3]books\\c[0]."
+msgstr "@george1_smug この私、図書館長ジョージは、\n\\c[3]本\\c[0]について知らないことは無いのだから。"
+
+msgid "@george2_grr What? You need me to explain again?"
+msgstr "@george2_grr はぁ？まーた説明しなきゃいけないの？"
+
+msgid "@george2_sigh FINE."
+msgstr "@george2_sigh …まあいいわ。"
+
+msgid "@george2 The Journal says you have to go to the small room at the base of the Tower while holding three pieces of the previous sun."
+msgstr "@george2 この日記よると、以前まであった太陽の\n3つのかけらを持って、塔のふもとにある\n小さな部屋に行けって書いてある。"
+
+msgid "@george2 Since you already have those, you must stand in the room and wait for \\p to do something about floor patterns and windows."
+msgstr "@george2 アンタはもう全部持ってるから、ただ部屋に\n突っ立って、 \\p が床の模様やら\n窓やらで、何かするのを待ってればいいの。"
+
+msgid "@niko Alright... that makes sense.\\>\\n\\@niko Thank you!"
+msgstr "@niko そっか…分かった。\\>\\n\\@niko ありがとう！"
+
+msgid "@george2_sigh Well, bye."
+msgstr "@george2_sigh じゃ、さよなら。"
+
+msgid "@george2_grr THERE. FINALLY.\\>\\n\\@george2_sigh ...the translation is done."
+msgstr "@george2_grr はぁーー！ようやく！！\\>\\n\\@george2_sigh …ようやく解読が終わったわ。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko That was faster than I thought!"
+msgstr "@niko_speak わぁ！\\>\\n\\@niko 思ってたよりあっという間だったね！"
+
+msgid "@george2_grr Well, YEAH!\\>\\n\\@george2_stress You've been asleep for hours!"
+msgstr "@george2_grr ええ、そうね！\\>\\n\\@george2_stress アンタはずーーっと寝てたからね！"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed そう…"
+
+msgid "@george2_sigh Anyway...\\>\\n\\@george2_grr It looks like this journal was meant for \\p."
+msgstr "@george2_sigh まあいいわ…\\>\\n\\@george2_grr この日記はね、 \\pの\nために書かれたものみたいよ。"
+
+msgid "@george2_sigh Here. Read it yourself."
+msgstr "@george2_sigh ほら。自分で読んでみなさいよ。"
+
+msgid "@george2_grr That's all there is.\\>\\n\\@george2_sigh Someone tore out the other pages."
+msgstr "@george2_grr そこで終わりよ。\\>\\n\\@george2_sigh 残りのページは誰かが破り取ったみたい。"
+
+msgid "@george2_grr Did YOU do this???"
+msgstr "@george2_grr もしかして、アンタが？？？"
+
+msgid "@niko_huh No!"
+msgstr "@niko_huh してないよ！"
+
+msgid "@george2_sigh Then you're on your own, kid. I'm not sure what \"window\" means here.\\>\\n\\@george2 Maybe \\p will have to figure out that one."
+msgstr "@george2_sigh じゃ、あとは自力で頑張りなさい。この「窓」って\n言葉の意味は、アタシには分からない。\\>\\n\\@george2 \\p に何とかして\nもらうしかないかもね。"
+
+msgid "@george2_grr Do I have to explain EVERYTHING..."
+msgstr "@george2_grr いちいち全部説明しなきゃいけないの…？"
+
+msgid "@george2_sigh Sigh.\\>\\n\\@george2_grr It's just a fancy word for objects containing yellow phosphor."
+msgstr "@george2_sigh はぁ。\\>\\n\\@george2_grr それは、黄色の蛍光体が含まれている物体を\n意味する、ただのオシャレな言葉よ。"
+
+msgid "@george2_sigh Y'know, stuff that glows yellow."
+msgstr "@george2_sigh ほら、アレよ。黄色に光るやつ。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather!"
+msgstr "@niko_speak あっ！\\>\\n\\@niko 琥珀と羽根なら1つずつ持ってるよ！"
+
+msgid "@niko_speak They fit the description, right...?"
+msgstr "@niko_speak いま説明してくれたのと、\n同じものだよね…？"
+
+msgid "@george2_grr Yeah, but you only have TWO of them."
+msgstr "@george2_grr そうね、でもアンタは「2つ」しか持っていない。"
+
+msgid "@george2_grr And they're super rare so it's not like you're just gonna find something like that on the ground."
+msgstr "@george2_grr それに、とても珍しいものだから、\nその辺で拾えるものじゃないわ。"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed そう…"
+
+msgid "@george2_sigh ...\\>\\@george2_grr ...okay."
+msgstr "@george2_sigh …\\>\\@george2_grr …分かったわよ。"
+
+msgid "@george2 Here. You can have this."
+msgstr "@george2 ほら。持っていきなさい。"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko ...kinda like you?"
+msgstr "@niko あっ…\\>\\n\\@niko_speak なんか、見た目が…\\@niko …そっくりだね？"
+
+msgid "@george2_grr What? Never seen dice before?"
+msgstr "@george2_grr は？サイコロを見たことないの？"
+
+msgid "@niko_speak No!\\> I mean yes!\\>\\n\\@niko I mean, it's just..."
+msgstr "@niko_speak ううん！\\>見たことある！\\>\\n\\@niko けど、ミーが言いたいのは、その…"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 気にしないで。"
+
+msgid "@george2_grr So... yeah.\\>\\nNeed anything else?"
+msgstr "@george2_grr ふーん…で。\\>\\n他に必要なものは？"
+
+msgid "@niko_speak I'm good, thank you!"
+msgstr "@niko_speak 大丈夫、ありがとう！"
+
+msgid "@george2_grr ...Off you go, then.\\>\\n\\@george2_sigh Don't screw this up, okay?"
+msgstr "@george2_grr …なら、とっとと行きなさい。\\>\\n\\@george2_sigh しくじるんじゃないわよ、分かった？"
+
+msgid "@george2_grr What? Couldn't find it?\\>\\n\\@george2_sigh It's down the hall and upstairs!"
+msgstr "@george2_grr は？どこにあるか分かんなかったの？\\>\\n\\@george2_sigh 通路をまっすぐ行って、階段を上がるの！"
+
+msgid "@george2_grr Just go take a nap. \\>\\@george2_sigh Translating's gonna take a while anyway."
+msgstr "@george2_grr いいから少し寝なさい。 \\>\\@george2_sigh どうせ解読には、しばらく時間がかかるわ。"
+
+msgid "@niko I have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko この本なら持ってるよ！\\>\\n\\@niko_speak たぶん…ミーには分からない文字…みたいなので\n書かれてるみたい？"
+
+msgid "@george2 Oh? \\>\\nLemme see..."
+msgstr "@george2 え？ \\>\\n見せてみなさい…"
+
+msgid "@george2_grr ...oh.\\>\\n\\@george2_stress Of course... \\>\\@george2_NO OF COURSE!!!"
+msgstr "@george2_grr …ああ。\\>\\n\\@george2_stress なるほど… \\>\\@george2_NO なるほどね！！！"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "@george2_sigh More work for George, FINE."
+msgstr "@george2_sigh ジョージの仕事が\nさらに増えたってわけね。\nいいわ。"
+
+msgid "@george2_grr Hey uh, \\>\\@george2 kid..."
+msgstr "@george2_grr ねえ、\\>\\@george2 チビすけ…"
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak ニコだよ！"
+
+msgid "@george2_grr Looks like I'm gonna have to translate this for you.\\>\\n\\@george2_sigh Might take a while."
+msgstr "@george2_grr どうやらアンタのために、これはアタシが\n解読しなきゃいけないみたい…\\>\\n\\@george2_sigh 時間はかかると思うけど。"
+
+msgid "@niko Alright...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko 分かった…\\>\\n\\@niko_yawn ふわぁ…"
+
+msgid "@george2_grr I know that feel, kid. \\>\\n\\@george2_stress I haven't had a good night's sleep in weeks!"
+msgstr "@george2_grr その気持ちは分かるわ。\\>\\n\\@george2_stress アタシもこの数週間ぜんっぜん寝てないし！"
+
+msgid "@niko_yawn *yawn*...\\>\\n\\@niko_eyeclosed ...\\.that's...\\.\\. not good..."
+msgstr "@niko_yawn ふわぁ…\\>\\n\\@niko_eyeclosed …\\.それは\\.\\.……良くないね…"
+
+msgid "@george2_grr ...You know what?\\>\\n\\@george2_sigh I have a guest room in the attic down the hall."
+msgstr "@george2_grr …そういえば、\\>\\n\\@george2_sigh 通路をまっすぐ行ったところの屋根裏に\nゲストルームがあるわ。"
+
+msgid "@george2 Go take a nap!\\>\\n\\@george2_stress Just looking at you getting tired is making me tired!"
+msgstr "@george2 そこでちょっと寝てきなさい！\\>\\n\\@george2_stress アンタを見てると、こっちまで疲れるわ！"
+
+msgid "@george2_sigh Well, since you're already here.\\>\\n\\@george2_grr It'd be rude for me to tell you to leave."
+msgstr "@george2_sigh ま、もうここにいるんだから、\\>\\n\\@george2_grr 出ていけって言うのはさすがに\nアンタに失礼だわ。"
+
+msgid "@george2 Do you uh...\\. got any questions about \\c[3]books\\c[0]..."
+msgstr "@george2 それで…\\. \\c[3]本\\c[0]について何か知りたいことがあるの…？"
+
+msgid "@george2_sigh Or you can read something here, I don't care. \\>\\n\\@george2_grr Just don't make a mess!"
+msgstr "@george2_sigh あと、ここの本なら好きに読んでいっていいわ。\nどうせ気にしないから。 \\>\\n\\@george2_grr けど、散らかさないでよね！"
+
+msgid "@george3_sad Ohh... are you still lost?"
+msgstr "@george3_sad あ…迷子なの？"
+
+msgid "@george3_sigh I KNEW I didn't explain it well enough..."
+msgstr "@george3_sigh そうよね…やっぱり私の説明不足だったのよ…"
+
+msgid "@george3_sad Alright... the journal says you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george3_sad そうね、ええと…日記には、以前まであった太陽の\nかけらを3つ持って、塔のふもとにある\n小さな部屋に行くように、って書いてあるわ。"
+
+msgid "@george3_sad And... since you have the three items... you need to stand in the room, and \\p will do something about floor patterns and windows..."
+msgstr "@george3_sad それで…その3つを持ってあなたは…\n部屋の中に立つの。そうすると \\pが\n床の模様や窓で何かをしてくれる…"
+
+msgid "@niko That makes sense, thank you!"
+msgstr "@niko 分かった。ありがとう！"
+
+msgid "@george3_sad Yeah... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad ええ… \\>\\@george3_sigh じゃ、また会えるといいわね…"
+
+msgid "@george3_sad .\\..\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\..\\.."
+
+msgid "@george3_sigh It's done..."
+msgstr "@george3_sigh できた…"
+
+msgid "@niko_speak That was fast! Thank you!"
+msgstr "@niko_speak すごいあっという間！ありがとう！"
+
+msgid "@george3_sad ...not... really."
+msgstr "@george3_sad …そんなこと…ない。"
+
+msgid "@george3_sigh You've just been sleeping...."
+msgstr "@george3_sigh だって、あなたは寝ていたから…"
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed そうだね。"
+
+msgid "@george3_worry Anyway... \\.he...\\. this person... wrote this journal for \\p... I think..."
+msgstr "@george3_worry それで… \\.彼…\\. この人は…\n\\p のために、この日記を書いた…\nと思う…"
+
+msgid "@george3 I made you a transcript... here."
+msgstr "@george3 あなたのために書き写しておいたの…これ。"
+
+msgid "@george3_cry Th...that was the last of it."
+msgstr "@george3_cry そ…それで終わり。"
+
+msgid "@george3_worry A lot of the pages were torn out...\\>\\n\\@george3_cry Do you know what happened?"
+msgstr "@george3_worry ページがたくさん破り取られてた…\\>\\n\\@george3_cry どうしてこうなったのか、何か知ってる？"
+
+msgid "@george3_sad Ah... I don't know what \"window\" is supposed to mean.\\>\\n\\@george3_worry Maybe \\p will know..."
+msgstr "@george3_sad そう…「窓」という言葉が、どういう意味なのか\n分からない。\\>\\n\\@george3_worry もしかしたら \\p が知ってるかも…"
+
+msgid "@george3 Oh."
+msgstr "@george3 ああ。"
+
+msgid "@george3_sigh That's just referring to things with yellow phosphor in them.\\>\\n\\@george3 They uh... they glow for a long time!"
+msgstr "@george3_sigh それは…黄色の蛍光体を含んだ物質のことを\n指している。\\>\\n\\@george3 えっと…とても長い時間、光るの！"
+
+msgid "@george3_worry But they're really rare..."
+msgstr "@george3_worry けど、かなり希少…"
+
+msgid "@niko_speak Ooooh.\\>\\n\\@niko I have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak あっ。\\>\\n\\@niko ミー、琥珀と羽根なら持ってるよ。\n2つとも黄色に光ってる…"
+
+msgid "@george3_worry But that's just two..."
+msgstr "@george3_worry でも、2つだけ…"
+
+msgid "@george3_sigh ...\\>\\n\\@george3 Here, you can have this."
+msgstr "@george3_sigh …\\>\\n\\@george3 はい、これあげるわ。"
+
+msgid "@george3_sigh I... guess? It's just a die..."
+msgstr "@george3_sigh そう…ね？でも、ただのサイコロ…"
+
+msgid "@george3_worry Ohhhh, but \"die\" isn't a good word!\\>\\nWhat if I jinx your mission by giving you this?"
+msgstr "@george3_worry ああぁ…でも「4」が出ちゃったらどうしよう！\\>\\nこれを渡したせいで、\nあなた達に「死」が訪れてしまったら…"
+
+msgid "@george3_cry THE WORLD IS GONNA DIE AND IT'S GONNA BE MY FAULT!"
+msgstr "@george3_cry 世界が滅びてしまう！私のせいで！！"
+
+msgid "@niko_what ..."
+msgstr "@niko_what …"
+
+msgid "@niko I... think we'll be fine, miss!"
+msgstr "@niko あの…ミーたちは、きっと大丈夫だよ！"
+
+msgid "@george3_sad Are you sure?"
+msgstr "@george3_sad 本当に？"
+
+msgid "@niko_speak Yeah!\\> Thank you for helping us, by the way!"
+msgstr "@niko_speak うん！\\>とにかく、助けてくれてありがとう！"
+
+msgid "@george3_sad Alright... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad そう… \\>\\@george3_sigh また、会えるといいわね…"
+
+msgid "@george3_cry I'm working as fast as I can...!!"
+msgstr "@george3_cry 全力で頑張ってるから…！！"
+
+msgid "@niko No worries!"
+msgstr "@niko 大丈夫だよ！"
+
+msgid "@niko_yawn *yawn*... \\>\\n\\@niko_eyeclosed Excuse me...\\. again."
+msgstr "@niko_yawn ふわぁ… \\>\\n\\@niko_eyeclosed ごめんなさい…\\. またしちゃった。"
+
+msgid "@george3_sad You can go take a nap if you want..."
+msgstr "@george3_sad 少し、休んできたら…"
+
+msgid "@george3_sad If you forgot, the guest room is down the hall and upstairs..."
+msgstr "@george3_sad 覚えてると思うけど、ゲストルームは通路を\nまっすぐ行って、階段を上がったところだから…"
+
+msgid "@niko_speak Excuse me!"
+msgstr "@niko_speak あの！"
+
+msgid "@niko I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko この本なら持ってるよ！\\>\\n\\@niko_speak たぶん…ミーには分からない文字…みたいなので\n書かれてるみたい？"
+
+msgid "@george3 Lemme see..."
+msgstr "@george3 見せて…"
+
+msgid "@george3_sad Oh...\\>\\n\\@george3_worry Oh, dear...."
+msgstr "@george3_sad あぁ…\\>\\n\\@george3_worry うそ、これって…"
+
+msgid "@niko Hm?"
+msgstr "@niko うん？"
+
+msgid "@george3_sad Hey uh... is it alright if I... borrow this..."
+msgstr "@george3_sad あの、その…これ…少し借りてもいいかしら…"
+
+msgid "@george3_worry There's no mistake... I have to translate it."
+msgstr "@george3_worry 絶対そうよ…これは、私が解読しないと。"
+
+msgid "@niko_speak Oh, no problem!"
+msgstr "@niko_speak うん、いいよ！"
+
+msgid "@george3_sad I'll try my best, but... \\>\\@george3_sigh It probably won't be very fast."
+msgstr "@george3_sad 頑張ってみるけど… \\>\\@george3_sigh すぐには終わらないかも。"
+
+msgid "@niko That's okay.\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko 大丈夫だよ。\\>\\n\\@niko_yawn ふわぁ…"
+
+msgid "@george3_worry Oh dear, are you... tired?"
+msgstr "@george3_worry あら、あなた…疲れてるの？"
+
+msgid "@george3_sad Ah, well...\\>\\n\\@george3 I do have a guest room upstairs...\\>\\n\\@george3_sad Ah, but it's in the attic though..."
+msgstr "@george3_sad そう、なら…\\>\\n\\@george3 上の階にゲストルームがあるから…\\>\\n\\@george3_sad あっ、でも屋根裏部屋だけど…"
+
+msgid "@george3_sigh Sorry if it's not very comfortable..."
+msgstr "@george3_sigh あまり寝心地が良くなかったらごめんなさい…"
+
+msgid "@george3_sigh So... do you have any questions about \\c[3]books\\c[0]..."
+msgstr "@george3_sigh それで…\\c[3]本\\c[0]についての質問はあるの…？"
+
+msgid "@george3_cry It's all I'm good forrrrrrr......."
+msgstr "@george3_cry 得意分野がこれしかないのよぉぉぉ……"
+
+msgid "@george4_golly Oh, do you need me to explain again?"
+msgstr "@george4_golly あは、また説明してほしい？"
+
+msgid "@george4 Alright!"
+msgstr "@george4 よしっ！"
+
+msgid "@george4_golly The journal says... you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george4_golly 日記にはね…以前まであった太陽の\n3つのかけらを持って、塔のふもとにある\n小さな部屋に行くように、って書いてあるの。"
+
+msgid "@george4 And then, you'll stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george4 あとは、部屋に立っていれば、\n\\p が床の模様とか窓で\n何かしてくれるってさ。"
+
+msgid "@george4_smile That's all there is to it!"
+msgstr "@george4_smile これで以上！"
+
+msgid "@niko Thank you!"
+msgstr "@niko ありがとう！"
+
+msgid "@george4 No problem! See you later!"
+msgstr "@george4 どういたしまして！またね！"
+
+msgid "@george4 Heya! Had a good nap?"
+msgstr "@george4 やっほ！よく眠れた？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@george4 Goody!\\>\\n\\@george4_smile I finished translating the journal, by the way!"
+msgstr "@george4 良かったー！\\>\\n\\@george4_smile あとね、日記の解読が終わったよ！"
+
+msgid "@george4_oops Well, you were out for a while.\\>\\n\\@george4_golly Anyway, it looks like this journal might be meant for \\p!"
+msgstr "@george4_oops キミが寝てた間にね。\\>\\n\\@george4_golly でね、この日記なんだけど、\n\\p のために書かれたものみたい！"
+
+msgid "@george4 Here, take a look yourself!"
+msgstr "@george4 ほら、見てみて！"
+
+msgid "@niko Is that all?"
+msgstr "@niko これで終わり？"
+
+msgid "@george4_golly Yeah... the rest of the pages were torn out..."
+msgstr "@george4_golly うん…残りのページは破られちゃってた…"
+
+msgid "@george4 I... guess you don't know what happened to those?"
+msgstr "@george4 むう…どこに消えちゃったか\n知らないよね？"
+
+msgid "@niko_eyeclosed Nope..."
+msgstr "@niko_eyeclosed うん…"
+
+msgid "@george4_oops Aww... I was wondering what \"window\" was supposed to mean.\\>\\n\\@george4_golly Ah well, I guess \\p will have to figure out that one."
+msgstr "@george4_oops そっか…「窓」ってどういう意味なんだろ。\\>\\n\\@george4_golly ま、きっと \\p が何とか\nしてくれるよ。"
+
+msgid "@george4_omg Oh! Of course!"
+msgstr "@george4_omg あっ！そうだよね！"
+
+msgid "@george4_smile That just means you need things that contain yellow phosphor!\\>\\n\\@george4 They glow for a long time!"
+msgstr "@george4_smile それはね、黄色の蛍光体を含んでいるものが\n必要っていう意味！\\>\\n\\@george4 ずーっと光ってるのよ！"
+
+msgid "@niko_speak Ooh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak あっ、それなら！\\>\\n\\@niko ミー、琥珀と羽根なら持ってるよ。\n2つとも黄色に光ってる…"
+
+msgid "@george4_golly Aww, just two?"
+msgstr "@george4_golly むむむ、2つだけ？"
+
+msgid "@george4 Here, you can have this then!"
+msgstr "@george4 じゃあ、これ。キミにあげる！"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks..."
+msgstr "@niko あっ…\\>\\n\\@niko_speak これって…"
+
+msgid "@george4_smile Like me, right?"
+msgstr "@george4_smile わたしに似てるでしょ？"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak うん！"
+
+msgid "@george4_smile Now you have a little keepsake from the library!"
+msgstr "@george4_smile これは、図書館からキミへの記念品ってことで！"
+
+msgid "@george4 No problem! Looks like you're all set!"
+msgstr "@george4 どういたしまして！もう準備万端って感じね！"
+
+msgid "@george4_smile Good luck now!"
+msgstr "@george4_smile じゃあ、頑張ってね！"
+
+msgid "@george4_oops Haha... it won't be done for a while, sorry!"
+msgstr "@george4_oops ハハ…ごめんね、しばらくかかりそう！"
+
+msgid "@niko_eyeclosed Excuse me...\\.\\. again...."
+msgstr "@niko_eyeclosed ごめんなさい…\\.\\. また…"
+
+msgid "@george4_golly Seriously, you should go take a nap before you overexert yourself!\\>\\n\\@george4 The guest room is in the attic down the hall, if you forgot!"
+msgstr "@george4_golly ほらほら、倒れちゃう前にお昼寝してきなよ！\\>\\n\\@george4 ゲストルームは、通路をまっすぐ行った\nところの屋根裏ね！"
+
+msgid "@niko_speak Oh! I do have this!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak 本…これなら持ってるよ！\\>\\n\\@niko_speak たぶん…ミーには分からない文字…みたいなので\n書かれてるみたい？"
+
+msgid "@george4_golly Oh my gosh!"
+msgstr "@george4_golly うっそ！"
+
+msgid "@george4 It's.... \\.\\.\\@george4_omg A book!"
+msgstr "@george4 それって… \\.\\.\\@george4_omg 本だよね！"
+
+msgid "@george4 And not just any book! \\>\\@george4_golly Golly... where did you find this?"
+msgstr "@george4 しかも、ただの本じゃない！ \\>\\@george4_golly ひゃー…これ、どこで見つけたの？"
+
+msgid "@niko I woke up with it."
+msgstr "@niko 起きたら手元にあったんだ。"
+
+msgid "@niko Somewhere in the barrens!\\>\\n\\@niko_speak Oh! We found it in a safe!\\> Right, \\p?"
+msgstr "@niko 不毛の地の、えっと…\\>\\n\\@niko_speak あっ！金庫で見つけたんだ！\n\\>だよね、 \\p？"
+
+msgid "@george4 Is that so!"
+msgstr "@george4 そういうことね！"
+
+msgid "@george4_smile In that case, I know what I have to do now!"
+msgstr "@george4_smile それなら、わたしのやることは決まりっ！"
+
+msgid "@george4 I need to borrow this journal for a bit, okay?\\>\\n\\@george4_omg Gotta translate it!"
+msgstr "@george4 この日記、少し借りてもいいかな？\\>\\n\\@george4_omg 解読しなきゃ！"
+
+msgid "@niko_speak Oh, cool!"
+msgstr "@niko_speak わあ、やった！"
+
+msgid "@george4_oops It... might take a while, though..."
+msgstr "@george4_oops むう…でも、ちょっと時間\nかかっちゃうかもね…"
+
+msgid "@niko_speak That's fine!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak 大丈夫だよ！\\>\\n\\@niko_yawn ふわぁ…"
+
+msgid "@george4_golly Gosh! You look really tired!"
+msgstr "@george4_golly ありゃ！だいぶ疲れちゃってるね！"
+
+msgid "@niko_eyeclosed A little, yeah...."
+msgstr "@niko_eyeclosed うん、ちょっとだけ…"
+
+msgid "@george4_smile No worries! I have a guest room in the attic down the hall!"
+msgstr "@george4_smile 心配ご無用っ！通路をまっすぐ行ったところの\n屋根裏にゲストルームがあるから！"
+
+msgid "@george4 If you want, you can go take a nap!\\>\\n\\@george4_smile ...a catnap!"
+msgstr "@george4 休みたかったら、そこでお昼寝しなさいなっ！\\>\\n\\@george4_smile …ネコちゃんみたいに体を丸くしてさ！"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@george4 Well, since you're already here, feel free to check out my archives!"
+msgstr "@george4 まっ、どうせここにいるんだから、収蔵庫も\n自由に見て回ってきなよ！"
+
+msgid "@george4_omg Or better yet! If you have any questions about \\c[3]books\\c[0], I can answer them!"
+msgstr "@george4_omg あとね！\\c[3]本\\c[0]について質問があるなら、\n答えてあげる！"
+
+msgid "@george4 I love books.... books books books!"
+msgstr "@george4 本、だーい好き…本、本、本！"
+
+msgid "@george5 Oh! Would you like me to explain again?"
+msgstr "@george5 あら！もう一度説明してあげましょうか？"
+
+msgid "@george5 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george5 この日記によると、貴方は以前あった太陽の\nかけらを3つ持って、塔のふもとにある\n小さな部屋に行かなきゃいけないみたいよ。"
+
+msgid "@george5 ...and then, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george5 …その後、部屋の中に立つの。そうすると、\n\\p が床の模様や窓で\n何かしてくれるみたいね。"
+
+msgid "@niko Ooo, makes sense, thank you!"
+msgstr "@niko おおお、分かった。ありがとう！"
+
+msgid "@george5 Best of luck, sweetie!"
+msgstr "@george5 じゃあ、頑張ってちょうだいね！"
+
+msgid "@george5_smile Had a good nap, dear?"
+msgstr "@george5_smile おちびさん、よく眠れた？"
+
+msgid "@george5_smile Wonderful!"
+msgstr "@george5_smile それは良かったわ！"
+
+msgid "@george5 I have the translation ready for you now.\\>\\n\\@george5_hmm It looks like this journal might be meant for \\p."
+msgstr "@george5 解読はもう終わっているわよ。\\>\\n\\@george5_hmm この日記は、 \\p のために\n書かれたものみたいね。"
+
+msgid "@george5 Here, why don't you take a look?"
+msgstr "@george5 はい、見てごらんなさい。"
+
+msgid "@george5_hmm That is all there is to translate...\\>\\nLooks like the other pages have been torn out."
+msgstr "@george5_hmm 解読できたのはそれだけ…\\>\\n他のページは、どうやら\n破り取られているみたいね。"
+
+msgid "@niko Oh..."
+msgstr "@niko えっと…"
+
+msgid "@george5_hmm Quite a shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george5 Ah well, I guess \\p can figure that one out!"
+msgstr "@george5_hmm とても残念！\n「窓」は何を意味していたのかしらね。\\>\\n\\@george5 まあ、 \\p がきっとすぐに\n解明してくれるわ！"
+
+msgid "@niko_speak Oh! What does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak あっ！\n「以前まであった太陽の3つのかけら」って\nどういう意味？\\>\\n\\@niko ミーはこの太陽しか持ってない…"
+
+msgid "@george5 That means the stuff containing yellow phosphor!\\>\\n\\@george5_smile They glow for a very long time, so people call them \"pieces of the sun\" sometimes!"
+msgstr "@george5 黄色の蛍光体を含んだ物体のことでしょうね！\\>\\n\\@george5_smile とても長い時間光るから、みんなはそれを\n「太陽のかけら」と呼んでいるの！"
+
+msgid "@george5 Very good, dear!\\>\\n\\@george5_smile And I can help you with the last one!"
+msgstr "@george5 素晴らしいわ、おちびさん！\\>\\n\\@george5_smile 最後のかけらは私に任せてちょうだい！"
+
+msgid "@george5_heh I know! Isn't it silly?\\>\\n\\@george5 But now you'll have something to remind you of the library!"
+msgstr "@george5_heh そうなの！おかしいでしょ？\\>\\n\\@george5 でも、これで図書館のことを思い出せるわね！"
+
+msgid "@george5_smile Good luck now, sweetie!\\>\\n\\@george5 I wish you safe travels!"
+msgstr "@george5_smile じゃあ、頑張ってね！\\>\\n\\@george5 無事を祈っているわ！"
+
+msgid "@george5_smile Don't wear yourself out now, dear!\\>\\n\\@george5 The guest room is just down the hall to the right."
+msgstr "@george5_smile あまり無理しちゃダメよ！\\>\\n\\@george5 ゲストルームは、右の通路をまっすぐ\n行くとあるからね。"
+
+msgid "@niko_speak Oh! I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak あっ！この本なら持ってるよ！\\>\\n\\@niko_speak たぶん…ミーには分からない文字…みたいなので\n書かれているみたい？"
+
+msgid "@george5 Really now!\\>\\n\\@george5_hmm May I take a closer look, dear?"
+msgstr "@george5 あら、そうなのね！\\>\\n\\@george5_hmm 少し見せてもらえるかしら？"
+
+msgid "@niko Here!"
+msgstr "@niko はい！"
+
+msgid "@george5 Oh!\\>\\n\\@george5_hmm Oh my! Where did you find this?"
+msgstr "@george5 まぁ！\\>\\n\\@george5_hmm 信じられないわ！どこで見つけたの？"
+
+msgid "@george5_hmm Hmm...\\>\\n\\@george5 I think...\\.\\. I'm supposed to translate this for you!"
+msgstr "@george5_hmm ふうむ…\\>\\n\\@george5 分かったわ…\\.\\.ここは一肌脱いで、\n貴方のために解読してあげましょう！"
+
+msgid "@george5_hmm Is it alright if I hold on to the journal for now, sweetheart?\\>\\n\\@george5 It might take a little while, I'm afraid!"
+msgstr "@george5_hmm この日記を少し借りてもいいかしら？\\>\\n\\@george5 しばらく時間はかかると思うけど、\n許してちょうだいね！"
+
+msgid "@niko_speak Go for it!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak 大丈夫だよ！\\>\\n\\@niko_yawn ふわぁ…"
+
+msgid "@george5_aww Aww, you poor baby!\\>\\n\\@george5 Goodness, you must've worked so hard to help us!"
+msgstr "@george5_aww あらら、かわいそうに！\\>\\n\\@george5 何とまあ、私たちのために頑張ってくれたのね！"
+
+msgid "@george5_smile I think you deserve a nap, no?"
+msgstr "@george5_smile 少しお昼寝してきたらどう？"
+
+msgid "@niko_yawn A nap does sounds nice..."
+msgstr "@niko_yawn お昼寝かぁ…そうだね…"
+
+msgid "@george5 I have a guest room upstairs! It's just down the hall to the right."
+msgstr "@george5 上の階にゲストルームがあるわ！\n右の通路をまっすぐね。"
+
+msgid "@george5_smile Can I help you with anything else, dear?"
+msgstr "@george5_smile 他に何か手伝えることはある？"
+
+msgid "@george5 If you have any questions about \\c[3]books\\c[0], well...\\>\\n\\@george5_heh I AM a librarian!"
+msgstr "@george5 \\c[3]本\\c[0]のことなら、ほら…\\>\\n\\@george5_heh 司書は私ですから！"
+
+msgid "@george6_point You look a lil' lost still. Want some hot tips?"
+msgstr "@george6_point もしかしちゃって迷子ってヤツー？\nタメになること教えてあげよっか？"
+
+msgid "@george6 Says here in this book that you gots'ta go to the teeny room at the base of the Tower, all while holding those three pieces of the awesome glowy stuff."
+msgstr "@george6 この本には、塔の下にあるミニミニな\n部屋に行けって書いてあんよ。キラッキラな\n3つのカケラも忘れないよーにって！"
+
+msgid "@george6 Once you got 'em (which you do), just stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george6 んで、それを持ったら（もう持ってるけど）、\n部屋の中でボーっとしてるだけで、\n\\p が床の模様やら窓やらで\n何かヤバいことするんだってー！"
+
+msgid "@niko Alright...\\.\\. \\@niko_speak Thank you!"
+msgstr "@niko 分かった…\\.\\.\\@niko_speak ありがとう！"
+
+msgid "@george6_fingerguns You're toooootally welcome!"
+msgstr "@george6_fingerguns こんぐらい、チョーーーーウェルカム！"
+
+msgid "@niko Well, I guess we'll be on our way?"
+msgstr "@niko じゃあ、ミーたちはそろそろ行こうかな？"
+
+msgid "@george6_smile Peace out, little fella!"
+msgstr "@george6_smile じゃーねー、チビくん！"
+
+msgid "@george6 You'll do us good, I know it."
+msgstr "@george6 アンタならマジ、絶対やってのけるわ。"
+
+msgid "@george6_fingerguns Eyyyyy, you're up!"
+msgstr "@george6_fingerguns イエーーイ、おっはー！"
+
+msgid "@george6 Just finished translating this book for ya!"
+msgstr "@george6 ちょうど解読が終わったとこよん！"
+
+msgid "@george6_fingerguns What can I say? I'm all that and a bag of chips!"
+msgstr "@george6_fingerguns まあ、なんつーの？\nやっぱ、ウチってトクベツな存在なのよ！"
+
+msgid "@george6 By the by, it looks like this journal might be meant for \\p."
+msgstr "@george6 でさ、この日記なんだけど、たぶん\n\\p のために\n書いたモノっぽいわ。"
+
+msgid "@george6_point Here, check it out."
+msgstr "@george6_point ほら、ココ！"
+
+msgid "@george6 That's all, we juiced it!"
+msgstr "@george6 それでおーしまい。マジ、\nめっちゃ絞り出したわ！"
+
+msgid "@niko_what ...juiced what?"
+msgstr "@niko_what …絞り出したって、何を？"
+
+msgid "@george6_fingerguns I'm just sayin' that's the end of the book!"
+msgstr "@george6_fingerguns まあアレよ、そこが本の最後ってことよ！"
+
+msgid "@george6_shrug Rest of the pages are torn out.\\>\\n\\@george6 Do you know what happened here?"
+msgstr "@george6_shrug 残りはぜーんぶ破られててさー。\\>\\n\\@george6 こうなったワケ、何か知らなーい？"
+
+msgid "@george6_shrug Bummer! I was hoping to figure out what he meant by saying \"window\" here.\\>\\n\\@george6 Guess we'll leave that up to \\p, huh?"
+msgstr "@george6_shrug ちぇー！この「窓」って意味、\nチョー知りたかったんだけどなー。\\>\\n\\@george6 ま、それは \\p に任せるわ！！"
+
+msgid "@george6_point Oh! That's just stuff with yellow phosphor in 'em!\\>\\n\\@george6 The kind of stuff that glows forever, dude."
+msgstr "@george6_point ワオ！それはねー、黄色の蛍光体っつーのが\n中に入ってるモノのことなんだわ！\\>\\n\\@george6 ずーっと光ってるんよ。マジヤバイっしょ。"
+
+msgid "@george6_fingerguns Eyyyy! Now that's what I'm talkin about!"
+msgstr "@george6_fingerguns イエエーーイ！まさにソレよ、ソレ！"
+
+msgid "@george6 ...Hold up, you only have two."
+msgstr "@george6 …ちょい待ち。アンタ、2つしか\n持ってないじゃん。"
+
+msgid "@george6_point But we coo'!\\>\\n\\@george6_fingerguns I gotcha covered, lil' fella!\\>\\n\\@george6 Here ya go."
+msgstr "@george6_point でもダイジョーーーブ！\\>\\n\\@george6_fingerguns ウチに任せなってー！\\>\\n\\@george6 ほら、これでイケるっしょ。"
+
+msgid "@george6_fingerguns The freshest face you've ever seen, ehhhhh?\\>\\n\\@george6 And it's all yours."
+msgstr "@george6_fingerguns チョー美顔っしょーーーー？\\>\\n\\@george6 アンタにあーげる。"
+
+msgid "@george6_smile Peace out, lil' fella!"
+msgstr "@george6_smile そんじゃね、チビくん！"
+
+msgid "@george6_shrug Bruh, it's gonna take some time to make this book readable, know what I'm sayin'?"
+msgstr "@george6_shrug チビくーん、この本を読めるようにすんには、\nちょっと時間かかんのよ。オッケー？"
+
+msgid "@niko_eyeclosed Excuse me....\\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed ごめんなさい…\\>\\n\\@niko …またしちゃった。"
+
+msgid "@george6 Don't sweat it!\\>\\n\\@george6_fingerguns Go catch some Z's!"
+msgstr "@george6 いいってことよー！\\>\\n\\@george6_fingerguns ほら、グースカモード入ってきな！"
+
+msgid "@george6 Guest room's in the attic down the hall, FYI."
+msgstr "@george6 ち・な・み・に…ゲストルームは、\n通路をズンッて行ったとこの屋根裏ネ。\n…え、覚えてるって？"
+
+msgid "@niko_speak Oh! I do have this book!"
+msgstr "@niko_speak あっ！この本なら持ってるよ！"
+
+msgid "@george6 ...yo."
+msgstr "@george6 …ワォ。"
+
+msgid "@george6_point .....YOOOOO."
+msgstr "@george6_point …ワーーーーォ。"
+
+msgid "@george6 Where'd you find this?"
+msgstr "@george6 アンタ、コレどこで見つけたの？"
+
+msgid "@niko Somewhere in the Barrens!"
+msgstr "@niko 不毛の地の…どこか！"
+
+msgid "@george6 Cuz that's..."
+msgstr "@george6 だって、ソレさあ…"
+
+msgid "@george6_point ...got that symbol and everything."
+msgstr "@george6_point …あの印がついてるじゃん。"
+
+msgid "@george6 Here, lemme read it..."
+msgstr "@george6 ねねね、ちょこーっと読ませてよ…"
+
+msgid "@george6 ...aw seriously? He even used that language..."
+msgstr "@george6 …え、マジで？\nアイツ、この言語も使えんの…"
+
+msgid "@george6 I gotta translate this, man.\\>\\nMind if I borrow this?"
+msgstr "@george6 解読しなきゃやってられんわ。\\>\\nコレ、借りてもいーい？"
+
+msgid "@niko_speak Not at all!"
+msgstr "@niko_speak いいよ！"
+
+msgid "@george6 Sweeeeet.\\>\\n\\@george6_point It's gon' take a while tho, you cool with that?"
+msgstr "@george6 ヨッシャーー。\\>\\n\\@george6_point ちょーっと時間かかるかもだけど、オッケー？"
+
+msgid "@george6 Whoa dude, you look wiped, kiddo!"
+msgstr "@george6 ちょっともー、アンタ疲れ切ってんじゃん！"
+
+msgid "@niko ...Huh?"
+msgstr "@niko …え？"
+
+msgid "@george6_point You look totally tapped out, dude!"
+msgstr "@george6_point 「バタン3秒前のチビすけ」ってカンジよー！"
+
+msgid "@niko_speak I look... what?"
+msgstr "@niko_speak ミーが…何て？"
+
+msgid "@george6 You look like you're ready to take five, bruh!"
+msgstr "@george6 少し休まないとヤバいって！"
+
+msgid "@niko_eyeclosed ...yeah I don't get it."
+msgstr "@niko_eyeclosed …うん、そうかも。"
+
+msgid "@george6 Don't worry I gotcha.\\>\\n\\@george6_smile I got a guest room in the attic down the hall!"
+msgstr "@george6 ダイジョーブ、ウチに任せな。\\>\\n\\@george6_smile 通路をズンッて行くと屋根裏があんのよ。\nそこがゲストルーーーム！"
+
+msgid "@george6 If you wanna crash there, go for it!"
+msgstr "@george6 グースカ寝たきゃ、そこ使いな！"
+
+msgid "@george6 So how do you like my books, bruh."
+msgstr "@george6 でさでさ、ウチの本…どんな感じよ？"
+
+msgid "@niko They're... nice?"
+msgstr "@niko えっと…どれもすごいと思う？"
+
+msgid "@niko Looks like a scanner."
+msgstr "@niko スキャナーみたいだね。"
+
+msgid "@niko_speak Hey!"
+msgstr "@niko_speak あ、これって！"
+
+msgid "@niko I think this book is actually about clovers..."
+msgstr "@niko たぶん、クローバーに関する本だよ…"
+
+msgid "@niko Even the painting is books."
+msgstr "@niko 絵にも本が描かれてるよ。"
+
+msgid "@niko Looks like a printer."
+msgstr "@niko プリンターかな。"
+

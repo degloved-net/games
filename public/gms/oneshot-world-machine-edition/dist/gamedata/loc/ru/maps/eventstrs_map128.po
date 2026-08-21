@@ -1,0 +1,30 @@
+msgid "@alula_speak Hey!"
+msgstr "@alula_speak Эй!"
+
+msgid "@alula I saw you going to the courtyard!\\>\\n\\@alula_speak So I thought I'd tag along!"
+msgstr "@alula Я видела, как ты пошёл во двор!\\>\\n\\@alula_speak И решила к тебе присоединиться!"
+
+msgid "@calamus_smile Same!"
+msgstr "@calamus_smile И я тоже!"
+
+msgid "@alula This is the courtyard.\\>\\n\\@alula It's got water... and... stuff..."
+msgstr "@alula Это двор.\\>\\n\\@alula Тут есть вода... и... всякие прочие штуки..."
+
+msgid "@alula_oh Oh, are you leaving now?"
+msgstr "@alula_oh Ой, ты уже уходишь?"
+
+msgid "@alula_speak Good luck, Niko! \\>\\n\\@alula We believe in you!"
+msgstr "@alula_speak Удачи, Нико! \\>\\n\\@alula Мы в тебя верим!"
+
+msgid "@niko It's a ball."
+msgstr "@niko Это мяч."
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula Он мой!\\>\\n\\@alula_pout Хотя он уже не так хорошо прыгает, как раньше..."
+
+msgid "@calamus There's an entrance to an underground passage here.\\>\\nIt's flooded, though."
+msgstr "@calamus Тут есть вход в подземный туннель.\\>\\nПравда, он затоплен."
+
+msgid "@calamus_speak Oh, are you leaving now?\\>\\n\\@calamus_smile It was... nice, to meet you.\\>\\n\\@calamus Really. Thanks for everything."
+msgstr "@calamus_speak О, ты уже уходишь?\\>\\n\\@calamus_smile Был рад... с тобой познакомиться.\\>\\n\\@calamus Честно. Спасибо за всё."
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Go to Terraria</title>
+    <style>
+        @font-face {
+            font-family: 'AnyBold';
+            src: url('AndyBold.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'AnyBold', "Comic Sans MS", sans-serif;
+            background: url('background.ico') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .description {
+            color: #ffffff;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        #terrariaButton {
+            padding: 15px 40px;
+            background-color: rgba(30, 35, 110, 0.85);
+            border: 2px solid #000;
+            border-radius: 10px;
+            color: #ffffff;
+            font-family: 'AnyBold', sans-serif;
+            font-size: 18px;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.4s ease;
+        }
+
+        #terrariaButton:hover {
+            background-color: rgba(40, 45, 150, 0.85);
+            transform: scale(1.05);
+        }
+        #terrariaButton:active {
+            background-color: rgba(40, 45, 150, 0.90);
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="description">Won't work on iframe so it has to be opened here</div>
+    <button id="terrariaButton" >Play Terraria</button>
+</div>
+<script>
+    const button = document.getElementById('terrariaButton');
+    button.addEventListener('click', () => {
+        window.top.location.href = '/gms/Terraria/';
+    });
+</script>
+<script src="/js/settings.js"></script>
+<script src="/js/panicbtn.js"></script>
+
+</body>
+</html>

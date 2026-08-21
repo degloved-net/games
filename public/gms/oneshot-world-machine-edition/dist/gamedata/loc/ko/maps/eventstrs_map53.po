@@ -1,0 +1,210 @@
+msgid "@niko Milk and sugar."
+msgstr "@niko 우유와 설탕이네요."
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak 전 둘 다 좋아해요!"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed ...커피에 타서는 말고요."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko 커피 머신이에요."
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak 거의 가득 차 있어요!"
+
+msgid "@ling_smile Hang in there.\\>\\nYou can do it."
+msgstr "@ling_smile 힘내.\\>\\n넌 할 수 있어."
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed 고마워요..."
+
+msgid "@ling_shock Oh hey, you're back!\\>\\n\\@ling Did you manage to fix the elevator?"
+msgstr "@ling_shock 아, 돌아왔구나!\\>\\n\\@ling 엘리베이터는 고쳤어?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak \\p and I went to the surface already!\\>\\n\\@niko And..."
+msgstr "@niko 네!\\>\\n\\@niko_speak \\p 님과 저는 이미 지상층에 다녀왔어요!\\>\\n\\@niko 그리고..."
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko_speak Well, I remembered there being a cafe here!\\>\\n\\@niko Do you have pancakes?"
+msgstr "@niko_eyeclosed ...\\>\\n\\@niko_speak 여기에 카페가 있다는 게 생각나서 잠시 들렀어요!\\>\\n\\@niko 혹시 팬케이크 있어요?"
+
+msgid "@ling We sure do!"
+msgstr "@ling 물론이지!"
+
+msgid "@niko_speak Wait! I don't have any money...\\>\\n\\@niko Maybe I can help you wash dishes... or... something?"
+msgstr "@niko_speak 잠깐만요! 돈이 한 푼도 없는데...\\>\\n\\@niko 설거지라도... 도울까요?"
+
+msgid "@ling_smile No, no! It's on the house!\\>\\n\\@ling The least I can do for the savior, right?"
+msgstr "@ling_smile 아냐, 그럴 필요 없어! 그냥 줄게!\\>\\n\\@ling 구원자를 위해서 이런 거라도 해야지. 안 그래?"
+
+msgid "@ling Here, why don't you take a seat?\\>\\nI'll go fry some up for you."
+msgstr "@ling 여기에 앉을래?\\>\\n금방 만들어 줄게."
+
+msgid "@niko_pancakes Pancakes..."
+msgstr "@niko_pancakes 팬케이크다..."
+
+msgid "@niko These pancakes are so good...\\>\\n\\@niko_speak Thank you so much!"
+msgstr "@niko 팬케이크가 정말 맛있어요...\\>\\n\\@niko_speak 정말 고맙습니다!"
+
+msgid "@ling No problem!\\>\\nYou looked really hungry."
+msgstr "@ling 천만에!\\>\\n너, 정말로 배가 고팠구나."
+
+msgid "@niko Yeah... I thought this would be my last chance to eat something before I go in the Tower."
+msgstr "@niko 네... 탑에 들어가기 전에 마지막으로 뭔가 먹어 둬야 할 것 같았거든요."
+
+msgid "@ling_hm2 Ah, gotcha."
+msgstr "@ling_hm2 아, 그랬구나."
+
+msgid "@ling So... I guess pancakes are your favorite food?"
+msgstr "@ling 가장 좋아하는 음식이 팬케이크니?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak ...well, almost!"
+msgstr "@niko 네!\\>\\n\\@niko_speak ...아, 거의 비슷해요!"
+
+msgid "@niko_pancakes My favorite food in the world are the special pancakes that my mama makes!"
+msgstr "@niko_pancakes 제가 세상에서 제일 좋아하는 음식은 엄마가 만들어 주시는 특제 팬케이크거든요!"
+
+msgid "@niko She likes to pick hazelnuts and grind them up into the batter."
+msgstr "@niko 엄마는 헤이즐넛 열매를 곱게 빻은 뒤에 반죽에 넣으셨어요."
+
+msgid "@ling_smile Oh, wow, that sounds amazing!"
+msgstr "@ling_smile 와우, 그거 굉장하겠는데!"
+
+msgid "@niko_pancakes They TASTE amazing!\\>\\n\\@niko She always made them when I was feeling sad.\\>\\n\\@niko Or lonely... or..."
+msgstr "@niko_pancakes 정말 환상적인 맛이 나요!\\>\\n\\@niko 엄마는 제가 슬플 때도 그걸 만들어 주셨고.\\>\\n\\@niko 외로울 때도... 또..."
+
+msgid "@niko_sad ..."
+msgstr "@niko_sad ..."
+
+msgid "@niko_sad Mama...\\>\\n\\@niko_sad I really miss her..."
+msgstr "@niko_sad 엄마...\\>\\n\\@niko_sad 엄마가 보고 싶어요..."
+
+msgid "@niko_less_sad ...I just...\\>\\n\\@niko_sad ...I just have a bad feeling all of a sudden!"
+msgstr "@niko_less_sad ...저는...\\>\\n\\@niko_sad ...전... 죄송해요. 갑자기 기분이 가라앉네요!"
+
+msgid "@niko_distressed_meow Am I... even here to save the world?\\>\\nPeople have been saying how the sun won't fix anything!"
+msgstr "@niko_distressed_meow 제가... 세상을 구하려고 여기 있는 게 맞긴 할까요?\\>\\n사람들은 태양을 되돌려도 세상이 나아지진 않을 거라고 말해요!"
+
+msgid "@niko_sad I don't even know why I'm here...\\>\\n\\@niko_less_sad I just wanna see my mama again..."
+msgstr "@niko_sad 제가 왜 여기 있는지도 모르겠어요...\\>\\n\\@niko_less_sad 그냥 엄마를 보고 싶어요..."
+
+msgid "@ling2 Oh, uh...\\>\\n\\@ling_oh There, there...\\>\\n\\@ling_smile It's gonna be okay!"
+msgstr "@ling2 오, 저런...\\>\\n\\@ling_oh 자, 진정해...\\>\\n\\@ling_smile 모두 괜찮아질 거야!"
+
+msgid "@ling_hm And... \\@ling I'm sure you'll be able to save the world! \\>\\n\\@ling_smile You're a tough kid, you managed to get this far already, right?"
+msgstr "@ling_hm 그리고...\\@ling 난 네가 세상을 구할 거라 믿고 있어! \\>\\n\\@ling_smile 넌 강한 아이야. 이렇게 먼 곳까지 왔잖아, 그렇지?"
+
+msgid "@niko_distressed_meow Yeah... \\.\\.but..."
+msgstr "@niko_distressed_meow 그랬죠... \\.\\. 하지만..."
+
+msgid "@ling And you'll get to go home afterwards, right?"
+msgstr "@ling 그리고 세상을 구한 후에 집으로 갈 수 있어. 그렇지?"
+
+msgid "@niko_less_sad Right..."
+msgstr "@niko_less_sad 네..."
+
+msgid "@ling_smile ...Hey, want some more pancakes?"
+msgstr "@ling_smile ...자, 팬케이크 더 먹을래?"
+
+msgid "@niko_cry It's ok...\\>\\n\\@niko_eyeclosed ...I'll be fine."
+msgstr "@niko_cry 괜찮아요...\\>\\n\\@niko_eyeclosed ...이제 괜찮아요."
+
+msgid "@ling_smile So... yeah!\\>\\nThanks for coming by!"
+msgstr "@ling_smile 그래... 알았어!\\>\\n들러 줘서 고마워!"
+
+msgid "@niko Mhm! Thanks for listening... \\>\\n\\@niko_speak ...AND for the pancakes!"
+msgstr "@niko 네! 이야기를 들어 주셔서 고마워요... \\>\\n\\@niko_speak ...그리고 팬케이크도요!"
+
+msgid "@ling No problem. Good luck!"
+msgstr "@ling 고맙긴. 행운을 빌게!"
+
+msgid "@ling_shock Oh, sorry about the trash on the floor..."
+msgstr "@ling_shock 이런, 쓰레기가 있었네. 미안해..."
+
+msgid "@ling3 I was gonna throw it out earlier, but...\\>\\n\\@ling_oh ...then my coworkers caught on fire and I had to drop everything to help them."
+msgstr "@ling3 진작에 치웠어야 하는데...\\>\\n\\@ling_oh ...동료들에게 불이 붙는 바람에 손에 들었던 걸 다 놓고 도와야 했거든."
+
+msgid "@ling_sigh They're fine now though...\\>\\n\\@ling It's a good thing fire doesn't hurt robots, huh?"
+msgstr "@ling_sigh 동료들은 이제 괜찮아...\\>\\n\\@ling 그나마 불이 로봇에게는 해롭지 않아서 다행이지. 안 그래?"
+
+msgid "@ling Oh, hi there!"
+msgstr "@ling 오, 안녕!"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak 안녕하세요!"
+
+msgid "@niko How come... there aren't any people here?"
+msgstr "@niko 여기는... 사람이 없나요?"
+
+msgid "@niko_speak Normally cafes have tons of people!"
+msgstr "@niko_speak 보통 카페에는 사람들이 많잖아요!"
+
+msgid "@ling_hm Yeah, it's a really slow day..."
+msgstr "@ling_hm 그래. 오늘은 많이 한가하네..."
+
+msgid "@niko_speak Do you think it's because the ground access elevator is broken?"
+msgstr "@niko_speak 지상층으로 가는 엘리베이터가 고장이 나서 그런 게 아닐까요?"
+
+msgid "@ling_sigh So I've been told."
+msgstr "@ling_sigh 그렇다고 들었어."
+
+msgid "@ling2 The city's infrastructure has been suffering a lot lately."
+msgstr "@ling2 최근 도시 내 기반 시설들이 자꾸 망가지는 모양이더라고."
+
+msgid "@ling_oh Skywalks and stairs breaking off left and right..."
+msgstr "@ling_oh 공중 통로와 계단도 이쪽, 저쪽이 다 무너졌고..."
+
+msgid "@ling3 Now the only reliable way of transport are those elevators..."
+msgstr "@ling3 이제 믿을 만한 이동 수단은 엘리베이터뿐이야..."
+
+msgid "@ling_sigh ...Until now, anyway..."
+msgstr "@ling_sigh ...그것도 이제 틀렸지만..."
+
+msgid "@ling_hm You know, the tall guy came in here earlier saying the same thing.\\>\\nHe asked me if I've seen a button that says \"ground\" on it."
+msgstr "@ling_hm 그러고 보니, 전에 그 키가 큰 남자가 찾아와서 똑같은 말을 했어.\\>\\n\"지상\"이라고 적힌 버튼을 본 적이 있냐고 물어 보더라."
+
+msgid "@ling He looked pretty stressed, so I wanted to cheer him up...\\>\\n\\@ling_smile I told him the only \"ground\" I've seen today is coffee grounds!"
+msgstr "@ling 그 사람은 굉장히 스트레스를 받은 것 같아서 위로를 해 주고 싶었지...\\>\\n\\@ling_smile 난 그 사람에게 내가 본 \"지상\"은 저기 있는 \"지상 최고의 커피\"뿐이라고 말해 줬어!"
+
+msgid "@ling3 He, um..."
+msgstr "@ling3 그 사람은, 음..."
+
+msgid "@ling_hm He didn't get it..."
+msgstr "@ling_hm 내 농담을 이해하지 못했지..."
+
+msgid "@ling3 I see him around a lot, but he never seems to have time to eat a proper meal..."
+msgstr "@ling3 그 사람을 자주 봤는데, 제대로 식사를 할 시간이 없는 모양이더라고..."
+
+msgid "@ling_hm He kinda just, rushes in here, drinks a whole pot of coffee, and then rushes back out?"
+msgstr "@ling_hm 늘 급하게 들어와서는 커피를 한 주전자 들이켜고 바로 나가 버리거든."
+
+msgid "@ling_hm2 He uh, he really... takes his job to the extreme."
+msgstr "@ling_hm2 그러니까... 일에 너무 열중하는 것 같더라고."
+
+msgid "@ling_oh ...I mean, it's an important job, but nothing is worth that amount of stress, I think..."
+msgstr "@ling_oh ...물론 중요한 일이긴 하지. 하지만 그만큼 스트레스 받을 만큼 가치 있는 일은 세상에 없다고 생각해..."
+
+msgid "@niko_speak What does he do?"
+msgstr "@niko_speak 그 아저씨는 무슨 일을 하는데요?"
+
+msgid "@ling_hm2 Maintenance, I believe.\\>\\n\\@ling_hm Something to do with the lights, but I don't know the details."
+msgstr "@ling_hm2 아마 유지보수일 거야.\\>\\n\\@ling_hm 조명 쪽과 관련이 있는 것도 같지만 자세한 건 잘 몰라."
+
+msgid "@ling Maybe you can ask him later?"
+msgstr "@ling 나중에 직접 물어보는 게 어때?"
+
+msgid "@ling2 Oh! You're still here...\\>\\n\\@ling_smile Would you, um, like anything?"
+msgstr "@ling2 아! 아직 여기 있었구나...\\>\\n\\@ling_smile 음, 뭐 좀 먹을래?"
+
+msgid "@ling I can cook something for you, if you want..."
+msgstr "@ling 원한다면 간단한 요리 정도는 해 줄 수 있는데..."
+
+msgid "@niko_speak It's alright, thank you!"
+msgstr "@niko_speak 괜찮아요. 정말 고마워요!"
+
+msgid "@ling_smile Well, don't be afraid to ask if you do get hungry!\\>\\nI'll be happy to make something for you!"
+msgstr "@ling_smile 그래, 배가 고프면 망설이지 말고 여기로 와!\\>\\n널 위한 요리라면 기쁘게 만들어 줄 테니까!"
+
+msgid "@niko It's an empty coffee tin."
+msgstr "@niko 빈 커피 캔이에요."
+

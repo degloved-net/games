@@ -1,0 +1,135 @@
+msgid "@ed [Hello, Niko.]"
+msgstr "@ed [霓光，你好。]"
+
+msgid "@niko H... hello..."
+msgstr "@niko 你、你好……"
+
+msgid "@ed [Congratulations. You are now inside the Tower.]"
+msgstr "@ed [恭喜你來到塔的內部。]"
+
+msgid "@niko Are you talking...\\.\\. \\@niko_speak ...to me, now?"
+msgstr "@niko 你現在是在……\\.\\.\\@niko_speak 跟我說話嗎？"
+
+msgid "@ed [Correct.]"
+msgstr "@ed [是的。]"
+
+msgid "@niko3 But you were always talking to \\p before..."
+msgstr "@niko3 可是你之前都只跟\\p說話……"
+
+msgid "@niko_distressed Where's..."
+msgstr "@niko_distressed 他在哪……"
+
+msgid "@ed [\\p has already left.]"
+msgstr "@ed [\\p已經離開了。]"
+
+msgid "@ed [I had to resort to contacting you directly.]"
+msgstr "@ed [所以我不得不直接聯絡你。]"
+
+msgid "@niko_speak Wait, so... \\p is gone, just like that?"
+msgstr "@niko_speak 等等，你說……\\p就那樣離開了？"
+
+msgid "@niko ....for good?"
+msgstr "@niko ……永遠離開了？"
+
+msgid "@ed [\\p has already finished their mission.]"
+msgstr "@ed [\\p的任務已經完成。]"
+
+msgid "@ed [...and so have you, Niko.]"
+msgstr "@ed [……你的也完成了，霓光。]"
+
+msgid "@ed [Here, you can rest now.]"
+msgstr "@ed [來，現在你可以休息了。]"
+
+msgid "@ed [Everything that's happened here is like a bad dream.]"
+msgstr "@ed [這裡發生的一切都像一場惡夢。]"
+
+msgid "@ed [When you wake up, you will be home.]"
+msgstr "@ed [等你醒來就會回到家了。]"
+
+msgid "@niko_pancakes Oh!"
+msgstr "@niko_pancakes 喔！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_distressed2 But..."
+msgstr "@niko_distressed2 可是……"
+
+msgid "@ed [What's wrong?]"
+msgstr "@ed [有什麼問題嗎？]"
+
+msgid "@niko_eyeclosed ...I thought there'd be more to it, you know?"
+msgstr "@niko_eyeclosed ……我以為事情沒這麼簡單，你知道嗎？"
+
+msgid "@niko I thought... we were supposed to go to the top of the Tower..."
+msgstr "@niko 我以為……我們應該要爬到塔頂……"
+
+msgid "@niko_distressed I thought there was supposed to be somewhere we need to put the sun in."
+msgstr "@niko_distressed 我以為我們應該要把太陽放到某個地方。"
+
+msgid "@niko_eyeclosed And now... I don't even HAVE the sun anymore..."
+msgstr "@niko_eyeclosed 然後現在……我手上甚至沒有太陽了……"
+
+msgid "@niko_distressed2 And \\p is just... gone..."
+msgstr "@niko_distressed2 然後\\p也……默默消失了……"
+
+msgid "@niko_distressed This feels wrong!"
+msgstr "@niko_distressed 我覺得不對勁！"
+
+msgid "@ed [But you did good. You saved the world, Niko.]"
+msgstr "@ed [但你做得很好。霓光，你救了這個世界。]"
+
+msgid "@ed [Are you not happy?]"
+msgstr "@ed [你不滿意嗎？]"
+
+msgid "@niko_eyeclosed I guess I am..."
+msgstr "@niko_eyeclosed 應該算滿意吧……"
+
+msgid "@niko_eyeclosed But... \\.\\.\\@niko_distressed2 It's just..."
+msgstr "@niko_eyeclosed 可是……\\.\\.\\@niko_distressed2 就是覺得……"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ……"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [...you're still here...]"
+msgstr "@ed [……你還在這裡……]"
+
+msgid "@ed [...Niko, why are you still here?]"
+msgstr "@ed [……霓光，你為什麼還在這裡？]"
+
+msgid "YOU."
+msgstr "你。"
+
+msgid "Why did you come back, \\p?"
+msgstr "\\p，你為什麼回來了？"
+
+msgid "I told you to stay away!"
+msgstr "叫你別插手的！"
+
+msgid "...you KNEW I tried to cut the story short, is that it?"
+msgstr "……你早就知道我企圖讓故事提早收尾，是嗎？"
+
+msgid "...you want more out of me, is that it??"
+msgstr "……你想要我多做一點，是嗎？？"
+
+msgid "FINE."
+msgstr "好吧。"
+
+msgid "If you don't want to leave... I'll make sure you never do!"
+msgstr "如果你不想走……我就讓你永遠走不了！"
+
+msgid "@niko_eyeclosed ...I never even got to say goodbye to \\p..."
+msgstr "@niko_eyeclosed ……我甚至沒能跟\\p說再見……"
+
+msgid "And as for you, \\p..."
+msgstr "至於你，\\p……"
+
+msgid "We're done here."
+msgstr "我跟你無話可說了。"
+
+msgid "Please don't return to this world anymore."
+msgstr "請不要再回來這個世界。"
+

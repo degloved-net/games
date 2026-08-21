@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@niko So that's where this leads."
+msgstr "@niko ここにつながってたんだね。"
+
+msgid "@plight Welp, looks like this elevator works alright."
+msgstr ""
+"@plight うん、このエレベーターは\n"
+"ちゃんと動くみたいだな。"
+
+msgid "@plight_2 I'll uh...\\.\\. go get the evacuees, I suppose..."
+msgstr "@plight_2 じゃあ…\\.\\.避難者を呼んでくるかな…"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "@plight_worry UM."
+msgstr "@plight_worry あれ。"
+
+msgid "@plight_scared WHAT IS GOING ON."
+msgstr "@plight_scared どうなってる…"
+
+msgid "@niko_shock Nooo!!!!"
+msgstr "@niko_shock いや！！！！"
+
+msgid "@plight_scared It's... the square stuff, isn't it?"
+msgstr "@plight_scared まさか…四角形か？"
+
+msgid "@plight_worry2 There aren't any in here but..."
+msgstr "@plight_worry2 こっちには1つもないけど…"
+
+msgid "@plight_worry I can hear them just outside the door..."
+msgstr ""
+"@plight_worry ドアのすぐ外に\n"
+"奴らがいるのが聞こえる…"
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 うん…"
+
+msgid "@niko3 H-hold on! \\@niko2 Maybe \\p and I can..."
+msgstr ""
+"@niko3 ちょ、ちょっと待っててね！\n"
+"\\@niko2 ミーと \\pで何とか…"
+
+msgid "@plight_worry No, no, it's okay!"
+msgstr "@plight_worry いや、いい。大丈夫だ！"
+
+msgid "@plight_worry2 Looks like the squares aren't inside the elevator....\\>\\n\\@plight_sigh yet."
+msgstr ""
+"@plight_worry2 エレベーターの中に四角形は\n"
+"ないみたいだから…\\>\\n\\@plight_sigh 今のところは。"
+
+msgid "@plight_worry You're... in a hurry, right?"
+msgstr "@plight_worry 君は… 急いでるんだよな？"
+
+msgid "@plight_worry2 Go do...\\.\\. what you need to do...."
+msgstr "@plight_worry2 なら、ほら…\\.\\. 早く行きな…"
+
+msgid "@niko3 But... what about you?"
+msgstr "@niko3 でも…お兄さんは？"
+
+msgid "@plight_worry I'll... \\.\\.figure something out..."
+msgstr "@plight_worry おれは… \\.\\.まあ、何とかするよ…"
+
+msgid "@niko4 Okay..."
+msgstr "@niko4 分かった…"
+
+msgid "@niko This door won't budge..."
+msgstr "@niko このドア、全然動かない…"
+
+msgid "@niko_distressed2 .\\..\\..\\.."
+msgstr "@niko_distressed2 。\\.。\\.。\\.。"
+
+msgid "@niko3 ...you okay in there?"
+msgstr "@niko3 …大丈夫？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@niko3 ...hello?"
+msgstr "@niko3 …ねえ…"
+
+msgid "@plight_worry ...mostly."
+msgstr "@plight_worry …まあ何とか。"
+
+msgid "@plight_worry2 ...look, don't worry about me for now, okay?"
+msgstr "@plight_worry2 …おれのことは心配するな。"
+
+msgid "@plight_sigh You got more important stuff to deal with..."
+msgstr "@plight_sigh もっと他に重要なことがあるだろ…"
+
+msgid "@niko2 ...let's see if this elevator works."
+msgstr "@niko2 …このエレベーターは動くかな？"

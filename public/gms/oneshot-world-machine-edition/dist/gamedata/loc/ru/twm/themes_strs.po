@@ -1,0 +1,30 @@
+msgid "purple=Purple"
+msgstr "Фиолетовая"
+
+msgid "blue=Blue"
+msgstr "Синяя"
+
+msgid "teal=Cyan"
+msgstr "Бирюзовая"
+
+msgid "green=Green"
+msgstr "Зелёная"
+
+msgid "yellow=Yellow"
+msgstr "Жёлтая"
+
+msgid "red=Red"
+msgstr "Красная"
+
+msgid "pink=Pink"
+msgstr "Розовая"
+
+msgid "orange=Orange"
+msgstr "Оранжевая"
+
+msgid "white=White"
+msgstr "Белая"
+
+msgid "rainbow=Rainbow"
+msgstr "Радужная"
+

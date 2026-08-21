@@ -1,0 +1,210 @@
+msgid "This plane doesn't have a runway because night said so that's why. -GIR"
+msgstr "이 비행기는 활주로가 없어. 밤에 그렇게 말했거든. 그게 이유야. -GIR"
+
+msgid "@cedric_sigh ...phew."
+msgstr "@cedric_sigh ...휴우."
+
+msgid "@cedric_smile Made it!"
+msgstr "@cedric_smile 해냈어!"
+
+msgid "@niko_pancakes ..."
+msgstr "@niko_pancakes ..."
+
+msgid "@cedric3 You...\\.\\. okay, there?"
+msgstr "@cedric3 너...\\.\\.괜찮아?"
+
+msgid "@niko_pancakes ...\\>That was the coolest thing I have ever done in my entire life."
+msgstr "@niko_pancakes ...\\>제 평생 최고로 멋진 경험이었어요."
+
+msgid "@cedric_smile Heheh...\\.\\. reactions from first-timers are always delightful to watch."
+msgstr "@cedric_smile 헤헤...\\.\\. 처음 하늘을 나는 사람들의 반응을 보면 늘 기분이 좋지."
+
+msgid "@niko5 ..."
+msgstr "@niko5 ..."
+
+msgid "@niko6 Hey, \\p?"
+msgstr "@niko6 저기, \\p 님?"
+
+msgid "@niko2 That... was really fun."
+msgstr "@niko2 정말... 재미있었어요."
+
+msgid "@niko_speak Did you... have fun too?"
+msgstr "@niko_speak \\p 님도 재미있었나요?"
+
+msgid "@niko_eyeclosed I mean... you weren't on the plane with me, but..."
+msgstr "@niko_eyeclosed 물론... 저랑 비행기에 타지는 않았지만..."
+
+msgid "@niko_speak You got to watch it at least, right?"
+msgstr "@niko_speak 보긴 하셨을 테니까요. 그렇죠?"
+
+msgid "@niko And... \\.\\.Cedric...?"
+msgstr "@niko 그리고... \\.\\.세드릭...?"
+
+msgid "@cedric3 Yeah?"
+msgstr "@cedric3 응?"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed 고마워요..."
+
+msgid "@cedric3 ....\\.\\.What for?"
+msgstr "@cedric3 ....\\.\\.뭐가?"
+
+msgid "@niko_speak Flying!"
+msgstr "@niko_speak 하늘을 날게 해 줘서요!"
+
+msgid "@cedric Oh, um..."
+msgstr "@cedric 음..."
+
+msgid "@cedric_smile You're... \\.\\.welcome?"
+msgstr "@cedric_smile 어... \\.\\.별말씀을."
+
+msgid "@niko_eyeclosed And... for answering my questions back there, too..."
+msgstr "@niko_eyeclosed 그리고... 아까 제 질문에 답해 준 것도요..."
+
+msgid "@niko5 And... \\.\\.for telling me more about the World Machine."
+msgstr "@niko5 그리고... \\.\\.세상 기계에 대해 자세히 말해 준 것도요."
+
+msgid "@niko_upset I'm just.... \\.\\.really sorry about what happened to your old world, though..."
+msgstr "@niko_upset 전... \\.\\.당신들의 옛 세상에 생긴 일이 안타까워요..."
+
+msgid "@niko2 So...\\.\\. I'll help you the best that I can."
+msgstr "@niko2 그래서 말인데...\\.\\. 최선을 다해 도울게요."
+
+msgid "@cedric ..."
+msgstr "@cedric ..."
+
+msgid "@niko4 And...\\.\\. even if it's all just a machine, this world is still...\\.\\. \\@niko2 nice..."
+msgstr "@niko4 그리고...\\.\\. 모두 하나의 기계에 불과하다 해도, 이 세상은 아직...\\.\\.\\@niko2 멋있어요..."
+
+msgid "@niko_eyeclosed I mean, I got to fly... \\.\\.I got to see the ocean..."
+msgstr "@niko_eyeclosed 제가 하늘을 날았잖아요... \\.\\.바다도 보고..."
+
+msgid "@niko And...\\.\\. I got to meet a lot of nice people!\\n\\>\\@niko_speak People like you!"
+msgstr "@niko 또...\\.\\.좋은 사람들도 많이 만났어요!\\n\\>\\@niko_speak 당신 같은 사람들이요!"
+
+msgid "@niko_eyeclosed ...and Prototype, even if he's broken right now."
+msgstr "@niko_eyeclosed ...프로토타입도요. 지금은 부서졌지만."
+
+msgid "@cedric ...\\>\\@cedric_smile I'm glad you are taking it so well, Niko."
+msgstr "@cedric ...\\>\\@cedric_smile 그렇게 잘 받아들이다니 정말 다행이야, 니코."
+
+msgid "@cedric2 And... I'm glad that we have met as well."
+msgstr "@cedric2 그리고... 나도 널 만나서 기뻐."
+
+msgid "@cedric_sigh ...Despite the...\\.\\. circumstances."
+msgstr "@cedric_sigh ...비록...\\.\\. 이런 상황이지만..."
+
+msgid "@cedric_talk Ah, speaking of Proto... \\@cedric_hmm I should probably head off now."
+msgstr "@cedric_talk 아, 프로토 이야기가 나와서 말인데... \\@cedric_hmm 난 이제 가야 돼."
+
+msgid "@cedric I need to go pick up the siblings too..."
+msgstr "@cedric 남매를 데려와야지..."
+
+msgid "@niko2 That's true...\\.\\. those two have been waiting for a while now..."
+msgstr "@niko2 맞아요...\\.\\. 오래 기다렸을 거예요..."
+
+msgid "@cedric_hmm In the meantime..."
+msgstr "@cedric_hmm 그런데..."
+
+msgid "@cedric_smile Do you remember what to do to get to the surface?"
+msgstr "@cedric_smile 지상층으로 가려면 뭘 해야 하는지 기억나?"
+
+msgid "@niko_speak I remember having to fix an elevator button!"
+msgstr "@niko_speak 엘리베이터 버튼을 고쳐야 한다는 거, 기억나요!"
+
+msgid "@cedric_hmm Alright, you should attend to that, then."
+msgstr "@cedric_hmm 좋아. 그럼 그렇게 해."
+
+msgid "@cedric_talk Let's meet up here in an hour, okay?"
+msgstr "@cedric_talk 한 시간 후에 여기에서 만나, 알겠지?"
+
+msgid "@niko Got it!"
+msgstr "@niko 네!"
+
+msgid "@cedric Alright, now lemme just-"
+msgstr "@cedric 그럼, 이제..."
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ..."
+
+msgid "@niko_shock No!"
+msgstr "@niko_shock 안 돼!"
+
+msgid "@niko_shock ...\\.\\.they're...\\.\\. trapped on the island..."
+msgstr "@niko_shock ...\\.\\.둘이...\\.\\. 섬에 갇혔어요..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_distressed2 ......Calamus....\\> Alula...."
+msgstr "@niko_distressed2 ......칼라무스....\\>알룰라...."
+
+msgid "@niko_distressed2 ...they're..."
+msgstr "@niko_distressed2 ...두 사람이...."
+
+msgid "@cedric_eek ....we\\.\\. ...don't have much time left."
+msgstr "@cedric_eek ....시간이\\.\\....별로 없네."
+
+msgid "@cedric_sigh2 Niko... change of plans."
+msgstr "@cedric_sigh2 니코... 계획이 바뀌었어."
+
+msgid "@cedric_sigh Please give me the memory disk."
+msgstr "@cedric_sigh 메모리 디스크를 나에게 줘."
+
+msgid "@niko2 ...alright..."
+msgstr "@niko2 ...알았어요..."
+
+msgid "@cedric2 Listen carefully."
+msgstr "@cedric2 잘 들어."
+
+msgid "@cedric_sigh2 It's likely I'll be targeted again, so we should split up to keep you safe."
+msgstr "@cedric_sigh2 내가 다시 표적이 될 가능성이 커. 그러니까 네 안전을 위해 갈라져야 돼."
+
+msgid "@cedric I want you to find a door under a large clock."
+msgstr "@cedric 큰 시계 아래에 있는 문을 찾아."
+
+msgid "@cedric_sigh The room behind it houses a pair of ground access elevators."
+msgstr "@cedric_sigh 그 문 너머의 방에 지상층으로 가는 엘리베이터가 있어."
+
+msgid "@cedric Once you get to the ground, immediately find Rue and bring her back to the room."
+msgstr "@cedric 지상층으로 가면, 바로 루를 찾아서 그 방으로 데려와."
+
+msgid "@cedric She will know what to do in the meantime."
+msgstr "@cedric 다음에 어떡해야 하는지는 루가 알려 줄 거야."
+
+msgid "@niko2 Alright...\\.\\. \\@niko3 What about you, though?"
+msgstr "@niko2 알겠어요...\\.\\.\\@niko3 그런데, 세드릭은요?"
+
+msgid "@cedric3 I'm going to bring Prototype back."
+msgstr "@cedric3 나는 프로토타입을 되살릴 거야."
+
+msgid "@niko_surprised WH-"
+msgstr "@niko_surprised 헉-"
+
+msgid "@niko_surprised Are you okay???"
+msgstr "@niko_surprised 괜찮아요???"
+
+msgid "@cedric_talk WHAAAAAT????"
+msgstr "@cedric_talk 뭐라고????"
+
+msgid "@niko_speak ARE YOU OKAAAAAY???"
+msgstr "@niko_speak 괜찮아요???"
+
+msgid "@cedric_talk DON'T WORRYYY I'M FINEEEE"
+msgstr "@cedric_talk 걱정하지 마. 난 괜찮으니까!!"
+
+msgid "@niko_eyeclosed ...don't scare me like that..."
+msgstr "@niko_eyeclosed ...그렇게 놀라게 하지 마요..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_upset2 ...."
+msgstr "@niko_upset2 ...."
+
+msgid "@niko2 Hey, \\p...?"
+msgstr "@niko2 저기, \\p 님?"
+
+msgid "@niko_eyeclosed Let's... do our best."
+msgstr "@niko_eyeclosed 우리... 최선을 다해 봐요."
+

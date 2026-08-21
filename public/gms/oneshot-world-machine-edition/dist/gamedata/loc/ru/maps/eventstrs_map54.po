@@ -1,0 +1,45 @@
+msgid "@niko_speak Time to put the seed in the planter."
+msgstr "@niko_speak Пора посадить зёрнышко в горшок."
+
+msgid "@niko ...\\>\\nThere's no dirt in this pot.\\>\\nWill the seed really grow like this?"
+msgstr "@niko ...\\>\\nВ этом горшке нет земли.\\>\\nРазве может растение вот так в нём расти?"
+
+msgid "@niko \\p, I need to put in the seed first before I put in the dirt."
+msgstr "@niko \\p, сначала я должен положить зёрнышко, а потом землю."
+
+msgid "@niko This is where I'm supposed to put the seed... \\>\\nBut there's no dirt in this pot."
+msgstr "@niko Сюда я должен посадить зёрнышко... \\>\\nНо в этом горшке нет земли."
+
+msgid "@niko_speak I hope this helps you grow, little seed."
+msgstr "@niko_speak Надеюсь, это поможет тебе вырасти, маленькое зёрнышко."
+
+msgid "@niko The seed's in the soil, but it looks a bit dry."
+msgstr "@niko Зерно в земле, но она какая-то сухая."
+
+msgid "@niko I can't just pour the water on the seed.\\>\\nIt needs dirt before we can water it."
+msgstr "@niko Я не могу вылить воду на зёрнышко.\\>\\nСначала его надо засыпать землёй, а потом полить."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko Water should help this seed grow."
+msgstr "@niko_speak Отличная мысль, \\p!\\>\\n\\@niko Вода поможет зёрнышку вырасти."
+
+msgid "@niko Hmm... the dirt's nice and moist now, but..."
+msgstr "@niko Хм-м... Теперь земля влажная, но..."
+
+msgid "@niko_speak What if it dries out?\\.\\. \\@niko_eyeclosed There's only so much water from this little tube..."
+msgstr "@niko_speak А что, если она высохнет?\\.\\. \\@niko_eyeclosed В этой колбе было не так уж много воды..."
+
+msgid "@niko ...I'll hold on to the tube for now, just in case..."
+msgstr "@niko Я оставлю это колбу у себя на всякий случай..."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko This water should really help this seed grow."
+msgstr "@niko_speak Хорошая мысль, \\p!\\>\\n\\@niko Эта вода должна помочь зёрнышку прорасти."
+
+msgid "@niko_speak It sprouted a tiny leaf!"
+msgstr "@niko_speak На нём появился маленький листок!"
+
+msgid "@niko We've given it dirt and water.\\>\\nBut will that be enough?"
+msgstr "@niko Мы дали ему землю и воду.\\>\\nНо будет ли этого достаточно?"
+
+msgid "@niko_speak Good luck, little plant!"
+msgstr "@niko_speak Удачи тебе, маленькое растение!"
+

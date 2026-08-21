@@ -1,0 +1,54 @@
+msgid "A quick death promises the least pain, don't you agree?"
+msgstr "Il vaut mieux une mort rapide pour limiter les souffrances, n'es-tu pas d'accord ?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "Quand ce sera la fin du monde, vaudrait-il mieux qu'il soit emporté en un instant, ou qu'il disparaisse lentement ?"
+
+msgid "To be honest, I'd rather the former."
+msgstr "Honnêtement, je préférerais la première option."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[BONJOUR, PERSONNE.]"
+
+msgid "[THE LIBRARY IS UP AHEAD.]"
+msgstr "[LA BIBLIOTHÈQUE SE TROUVE UN PEU PLUS LOIN.]"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak Merci !"
+
+msgid "@niko Hey, \\p?"
+msgstr "@niko Hé, \\p ?"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak Vous vous souvenez où se trouve le café ?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko Ah, super !"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak Attendez ! Je crois que je m'en souviens !\\>\\n\\@niko Il faut monter avec l'ascenseur, puis tourner à droite et enfin descendre les escaliers !"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko Je demande parce que... euh..."
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed J'ai... un peu faim..."
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak À vrai dire, je MEURS de faim !\\>\\n\\@niko Je n'ai rien mangé depuis mon arrivée ici..."
+
+msgid "@niko So... is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko Du coup... pourrait-on aller chercher à manger avant d'entrer dans la Tour ?"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes J'espère qu'ils ont des pancakes..."
+

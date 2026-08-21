@@ -1,0 +1,459 @@
+msgid "1:name=lightbulb"
+msgstr "전구"
+
+msgid "1:description=A large lightbulb. It's the sun."
+msgstr "커다란 전구. 태양이다."
+
+msgid "2:name=television remote"
+msgstr "TV 리모컨"
+
+msgid "2:description=It's too hard to read in the dark light."
+msgstr "어두워서 글자가 잘 보이지 않는다."
+
+msgid "3:name=bottle of alcohol"
+msgstr "술병"
+
+msgid "3:description=The smell of the liquid is repugnant."
+msgstr "안에 든 액체에서 고약한 냄새가 난다."
+
+msgid "4:name=dry branch"
+msgstr "마른 나뭇가지"
+
+msgid "4:description=A flaky, dry branch from the bathroom plant."
+msgstr "화장실에 있던 식물에서 꺾은 말라 버린 가지."
+
+msgid "5:name=wet branch"
+msgstr "젖은 나뭇가지"
+
+msgid "5:description=The tip of the branch is soaked with alcohol."
+msgstr "끝부분을 술에 적신 나뭇가지다."
+
+msgid "6:name=torch"
+msgstr "횃불"
+
+msgid "6:description=Doesn't give off much light."
+msgstr "그리 밝지는 않다."
+
+msgid "7:name=basement key"
+msgstr "지하실 열쇠"
+
+msgid "7:description=This thing looks old."
+msgstr "매우 낡아 보이는 열쇠다."
+
+msgid "8:name=camera"
+msgstr "카메라"
+
+msgid "8:description=A broken camera with a large screwed-in lens."
+msgstr "망가진 카메라. 대형 렌즈가 나사로 장착되어 있다."
+
+msgid "9:name=screwdriver"
+msgstr "드라이버"
+
+msgid "9:description=Phillips-head."
+msgstr "십자 드라이버."
+
+msgid "10:name=lens"
+msgstr "렌즈"
+
+msgid "10:description=A large glass lens."
+msgstr "커다란 유리 렌즈."
+
+msgid "11:name=empty bottle"
+msgstr "빈 병"
+
+msgid "11:description=The smell of alcohol lingers."
+msgstr "술 냄새가 아직도 남아 있다."
+
+msgid "12:name=broken battery"
+msgstr "망가진 배터리"
+
+msgid "12:description=Apparently a battery.  It has some broken glass in it."
+msgstr "배터리다. 깨진 유리가 붙어 있다."
+
+msgid "13:name=empty battery"
+msgstr "빈 배터리"
+
+msgid "13:description=An intact, rechargable battery. Currently empty."
+msgstr "망가지지 않은 충전식 배터리, 지금은 충전되어 있지 않다."
+
+msgid "14:name=charged battery"
+msgstr "충전된 배터리"
+
+msgid "14:description=A working, rechargable battery. Maximum power."
+msgstr "제대로 작동하는 충전식 배터리. 최대 출력 상태다."
+
+msgid "15:name=bottle of smoke"
+msgstr "연기가 든 병"
+
+msgid "15:description=It's full of noxious fumes."
+msgstr "유독 가스가 가득 차 있다."
+
+msgid "16:name=bottle of acid"
+msgstr "산성 액체가 든 병"
+
+msgid "16:description=It's full of a thick liquid acid."
+msgstr "걸죽한 산성 액체로 가득 차 있다."
+
+msgid "17:name=wet sponge"
+msgstr "젖은 스펀지"
+
+msgid "17:description=Sponge soaked with acidic cleaning solution."
+msgstr "산성 세제에 적신 스펀지."
+
+msgid "18:name=crowbar"
+msgstr "쇠지레"
+
+msgid "18:description=Makeshift crowbar made from a pipe."
+msgstr "쇠막대기를 지레 형태로 만든 것."
+
+msgid "19:name=metal rod"
+msgstr "쇠막대기"
+
+msgid "19:description=It weighs surprisingly little."
+msgstr "의외로 가볍다."
+
+msgid "20:name=sponge"
+msgstr "스펀지"
+
+msgid "20:description=A flat sponge with a rough surface."
+msgstr "표면이 거칠고 납작한 스펀지."
+
+msgid "21:name=empty syringe"
+msgstr "빈 주사기"
+
+msgid "21:description=The needle is particularly long."
+msgstr "바늘이 유난히 길다."
+
+msgid "22:name=filled syringe"
+msgstr "채운 주사기"
+
+msgid "22:description=It's full of the strange liquid from the pond."
+msgstr "연못에서 뽑아낸 정체불명의 액체로 가득하다."
+
+msgid "23:name=amber"
+msgstr "호박석"
+
+msgid "23:description=A piece of glowing amber with a black clover inside."
+msgstr "반짝이는 호박석 조각. 안에 검은 클로버가 들어 있다."
+
+msgid "24:name=strange journal"
+msgstr "이상한 일지"
+
+msgid "24:description=Found in the Barrens. It's written in an unknown language."
+msgstr "불모지에서 발견한 일지. 알 수 없는 언어로 쓰여 있다."
+
+msgid "25:name=feather"
+msgstr "깃털"
+
+msgid "25:description=A long and slender feather with glowing edges."
+msgstr "가장자리가 빛나는 길고 가느다란 깃털."
+
+msgid "26:name=bottle of dye"
+msgstr "염료가 든 병"
+
+msgid "26:description=A small vial filled with dark blue liquid used for dying wool."
+msgstr "작은 유리병. 양털 염색에 사용하는 진한 푸른색 액체가 들어 있다."
+
+msgid "27:name=tube of water"
+msgstr "물이 든 시험관"
+
+msgid "27:description=The label says \"water sample\"."
+msgstr "\"물 표본\"이라는 종이가 붙어 있다."
+
+msgid "28:name=seed"
+msgstr "씨앗"
+
+msgid "28:description=It's a seed apparently left behind by Maize."
+msgstr "메이즈가 남긴 듯한 씨앗이다."
+
+msgid "29:name=wool"
+msgstr "양털"
+
+msgid "29:description=It's... kind of useless."
+msgstr "이건... 쓸모가 없다."
+
+msgid "30:name=feather pen"
+msgstr "깃펜"
+
+msgid "30:description=A pen made from dipping a feather into ink."
+msgstr "깃털을 잉크에 찍어 만든 펜."
+
+msgid "31:name=die"
+msgstr "주사위"
+
+msgid "31:description=A die with glowing dots."
+msgstr "주사위 눈이 빛난다."
+
+msgid "32:name=button (?)"
+msgstr "버튼(?)"
+
+msgid "32:description=A simple button made from a coffee tin."
+msgstr "커피 캔으로 간단하게 만든 버튼."
+
+msgid "33:name=magnetized (?) button"
+msgstr "자석 부착(?) 버튼"
+
+msgid "33:description=A button with magnets loosely attached."
+msgstr "자석을 느슨하게 붙인 버튼."
+
+msgid "34:name=taped button"
+msgstr "테이프로 붙인 버튼"
+
+msgid "34:description=The magnets are secured with tape."
+msgstr "자석을 테이프로 고정했다."
+
+msgid "35:name=you tried"
+msgstr "노력한 흔적"
+
+msgid "35:description=It's the thought that counts."
+msgstr "중요한 것은 시도했다는 사실이다."
+
+msgid "36:name=magnets"
+msgstr "자석"
+
+msgid "36:description=An assortment of colorful magnets."
+msgstr "색색의 자석들."
+
+msgid "37:name=metal can"
+msgstr "금속 캔"
+
+msgid "37:description=Made of aluminum. Says \"COFFEE GROUNDS\"."
+msgstr "알루미늄 소재로, \"지상 최고의 커피\"라 쓰여 있다."
+
+msgid "38:name=scissors"
+msgstr "가위"
+
+msgid "38:description=A pair of scissors found amidst hair."
+msgstr "머리카락 속에서 발견한 가위."
+
+msgid "39:name=weird film"
+msgstr "이상한 필름"
+
+msgid "39:description=A transparent sheet filled with numbers."
+msgstr "숫자가 쓰여 있는 투명한 필름."
+
+msgid "40:name=concave lens"
+msgstr "오목 렌즈"
+
+msgid "40:description=A large lens, curved inward."
+msgstr "커다란 렌즈. 오목하다."
+
+msgid "41:name=convex lens"
+msgstr "볼록 렌즈"
+
+msgid "41:description=A large lens, curved outward"
+msgstr "커다란 렌즈. 볼록하다."
+
+msgid "42:name=thin lens"
+msgstr "얇은 렌즈"
+
+msgid "42:description=A delicately thin lens."
+msgstr "섬세하고 얇은 렌즈."
+
+msgid "43:name=thick lens"
+msgstr "두꺼운 렌즈"
+
+msgid "43:description=A large, thick lens."
+msgstr "크고 두꺼운 렌즈."
+
+msgid "44:name=glitter glue"
+msgstr "반짝이 접착제"
+
+msgid "44:description=A small tube of pink glitter glue."
+msgstr "작은 튜브 안에 든 분홍색 반짝이 접착제."
+
+msgid "45:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "45:description=Not a cat!"
+msgstr "고양이가 아니에요!"
+
+msgid "46:name=Kip's library card"
+msgstr "킵의 도서관 출입증"
+
+msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
+msgstr "\"킵 실버포인트 박사\"라는 이름이 적혀 있다."
+
+msgid "47:name=gas mask"
+msgstr "방독면"
+
+msgid "47:description=A mask used to filter air for breathing."
+msgstr "공기를 여과하여 호흡을 편하게 해 주는 마스크."
+
+msgid "48:name=rubber gloves"
+msgstr "고무장갑"
+
+msgid "48:description=Gloves designed to prevent chemical damage."
+msgstr "화학 물질로 인한 부상을 막아 주는 장갑."
+
+msgid "49:name=boots"
+msgstr "장화"
+
+msgid "49:description=These boots will make it possible to move quickly."
+msgstr "신으면 빨리 움직일 수 있다."
+
+msgid "50:name=novelty T-shirt"
+msgstr "장난스러운 티셔츠"
+
+msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
+msgstr "\"난 양떼를 모는 목동, 가진 거라곤 이 형편없는 티셔츠뿐!\""
+
+msgid "51:name=\"Kip\" 's library card"
+msgstr "\"킵\"의 도서관 출입증"
+
+msgid "51:description=Library card from Kip. Niko's own photo is glued on."
+msgstr "킵에게 받은 도서관 출입증. 니코의 사진을 붙였다."
+
+msgid "52:name=Library card (sticky)"
+msgstr "도서관 출입증 (끈적)"
+
+msgid "52:description=There's glitter glue all over her photo now..."
+msgstr "사진에 반짝이 접착제가 잔뜩 묻어 있다..."
+
+msgid "53:name=photo of Niko (sticky)"
+msgstr "니코의 사진 (끈적)"
+
+msgid "53:description=The back of the photo is covered in glitter glue."
+msgstr "사진 뒷면에 반짝이 접착제를 발랐다."
+
+msgid "54:name=DEBUG SAVE"
+msgstr "저장 (디버그)"
+
+msgid "54:description=USE THIS TO SAVE"
+msgstr "저장용으로 사용하세요"
+
+msgid "55:name=dirt"
+msgstr "흙"
+
+msgid "55:description=A bag of dirt, for growing plants"
+msgstr "식물 재배를 위한 흙을 담은 봉투."
+
+msgid "56:name=water pill"
+msgstr "물 알약"
+
+msgid "56:description=Goes in water, supposedly."
+msgstr "물에 넣으라는 것 같다."
+
+msgid "57:name=medicated water"
+msgstr "약을 탄 물"
+
+msgid "57:description=The water pill is dissolved in it."
+msgstr "물 알약이 녹아 있다."
+
+msgid "58:name=clover"
+msgstr "클로버"
+
+msgid "58:description=A black clover."
+msgstr "검은색 클로버."
+
+msgid "59:name=empty tube"
+msgstr "빈 시험관"
+
+msgid "59:description=An empty tube.  Used to hold water."
+msgstr "빈 시험관. 물을 담을 때 사용한다."
+
+msgid "60:name=bottle of pond water"
+msgstr "연못 물을 담은 병"
+
+msgid "60:description=It has the consistency of glue."
+msgstr "점도가 꼭 접착제 같다."
+
+msgid "61:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "61:description=Not a cat!"
+msgstr "고양이가 아니에요!"
+
+msgid "62:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "62:description=A backup!"
+msgstr "예비용 사진!"
+
+msgid "63:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "63:description=3rd time's the charm?"
+msgstr "역시 삼세판?"
+
+msgid "64:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "64:description=This is kind of fun."
+msgstr "이거 재미있네."
+
+msgid "65:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "65:description=Lookin' Good."
+msgstr "괜찮은데."
+
+msgid "66:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "66:description=Niko blinked in this one."
+msgstr "니코가 눈을 감은 사진."
+
+msgid "67:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "67:description=Nice."
+msgstr "좋다."
+
+msgid "68:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "68:description=Very photogenic."
+msgstr "굉장히 잘 나왔다."
+
+msgid "69:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "69:description=Can't have too much of a good thing!"
+msgstr "좋은 것은 많을수록 좋다!"
+
+msgid "70:name=photo of Niko"
+msgstr "니코의 사진"
+
+msgid "70:description=The ultimate photo."
+msgstr "최고로 잘 나온 사진이다."
+
+msgid "71:name=Key 1"
+msgstr "열쇠 1"
+
+msgid "72:name=Key 2"
+msgstr "열쇠 2"
+
+msgid "73:name=Key 3"
+msgstr "열쇠 3"
+
+msgid "74:name=glowing journal"
+msgstr "빛나는 일지"
+
+msgid "74:description=It's glowing now...?"
+msgstr "지금 빛나는 건가...?"
+
+msgid "75:name=memory disk"
+msgstr "메모리 디스크"
+
+msgid "75:description=A floppy disk."
+msgstr "플로피 디스크다."
+
+msgid "76:name=memory disk (backup)"
+msgstr "메모리 디스크(백업)"
+
+msgid "76:description=A floppy disk containing a backup."
+msgstr "백업 파일이 들어 있는 플로피 디스크다."
+
+msgid "77:name=charged battery"
+msgstr "충전된 배터리"
+
+msgid "77:description=A working, rechargable battery."
+msgstr "작동하는 충전지."
+
+msgid "78:name=music box"
+msgstr "오르골"
+
+msgid "78:description=A wind-up music box."
+msgstr "태엽으로 작동하는 오르골."
+

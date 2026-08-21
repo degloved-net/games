@@ -1,0 +1,216 @@
+msgid "@niko The elevator's button panel."
+msgstr "@niko Лифтовая панель с кнопками."
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry Эй, ты куда?"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown Дава-а-а-ай!"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown Ну дава-а-а-ай!"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown Работай уже!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Что?"
+
+msgid "@niko Oh right... \\@niko_eyeclosed The elevator guy."
+msgstr "@niko Ах да...\\@niko_eyeclosed Парень из лифта."
+
+msgid "@plight_unknown AAAAUHGGHHHH!!!!"
+msgstr "@plight_unknown А-А-А-А-А-У-У-У-Ф-Ф-Ф!!!"
+
+msgid "@niko_speak I think we should go talk to the guy first, \\p..."
+msgstr "@niko_speak \\p, давай сначала поговорим с ним..."
+
+msgid "PATH CLOSED"
+msgstr "ПРОХОД ЗАКРЫТ"
+
+msgid "TO: OFFICE"
+msgstr "К: ОФИСУ"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight Ну давай же..."
+
+msgid "@plight_wtf Come oonnnnnnn!"
+msgstr "@plight_wtf Дава-а-а-а-а-й!"
+
+msgid "@plight_wtf Now, of all times...!"
+msgstr "@plight_wtf Да в кои-то веки!.."
+
+msgid "@niko ...Uh"
+msgstr "@niko Э-э..."
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak Простите..."
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock Ничего себе!"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight Ты же... ты!"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry (Боже, я и не думал, что наткнусь на...)"
+
+msgid "@niko The elevator is missing a button, right?"
+msgstr "@niko На лифте нет кнопки, да?"
+
+msgid "@plight_worry ...how did you know?"
+msgstr "@plight_worry Откуда ты знаешь?"
+
+msgid "@niko_83c ..."
+msgstr "@niko_83c ..."
+
+msgid "@niko_speak \\p and I will help you fix it!"
+msgstr "@niko_speak \\p и я поможем тебе её починить!"
+
+msgid "@plight_worry2 ...seriously?"
+msgstr "@plight_worry2 Серьёзно?.."
+
+msgid "@plight_sigh Oh thank goodness."
+msgstr "@plight_sigh Ой, хвала Небесам!"
+
+msgid "@plight_worry2 The evacuees are counting on this...\\> on me..."
+msgstr "@plight_worry2 Выселенцы рассчитывают на него...\\> На меня..."
+
+msgid "@plight_worry But... I've been here for hours and can't figure out a thing!"
+msgstr "@plight_worry Но... Я тут торчу уже несколько часов и не могу ничего придумать!"
+
+msgid "@niko2 ....\\.\\.evacuees?"
+msgstr "@niko2 ...\\.\\.Выселенцы?"
+
+msgid "@plight Y'know... from the west apartments."
+msgstr "@plight Да... Из домов на западе."
+
+msgid "@plight_worry The square stuff wrecked the place yesterday..."
+msgstr "@plight_worry Вчера по ним прошлись квадраты."
+
+msgid "@niko3 Oh...."
+msgstr "@niko3 Ого..."
+
+msgid "@plight_sigh Right now everyone's crowded in the cafe.\\nWe really want to get everyone to the surface as soon as possible, though."
+msgstr "@plight_sigh Сейчас все собираются в кафе.\\nМы хотим как можно быстрее отправить всех на поверхность."
+
+msgid "@plight3 The library on the surface doubles as a shelter for situations like this."
+msgstr "@plight3 Для таких ситуаций библиотека служит нам убежищем."
+
+msgid "@niko I see..."
+msgstr "@niko Понятно..."
+
+msgid "@niko2 ...wait... didn't we find the magnets and stuff in the apartments, \\p?"
+msgstr "@niko2 Так, стоп... \\p, мы ведь нашли магниты и прочие вещи в тех квартирах?"
+
+msgid "@plight_worry The... what?"
+msgstr "@plight_worry Что-что?"
+
+msgid "@niko_eyeclosed Looks like we'll have to find some other way to fix the button, \\p..."
+msgstr "@niko_eyeclosed Придётся найти какой-то другой способ починить кнопку, \\p..."
+
+msgid "@plight_scared HOLY F\\.\\.\\@plight_worry UDGE"
+msgstr "@plight_scared ЧТО ЗА ФИГ...\\.\\.\\@plight_worry ФИГНЯ."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_eyeclosed ...Looks like \\p and I will need to find another way down altogether..."
+msgstr "@niko_eyeclosed Похоже, \\p и я должны найти другой путь вниз..."
+
+msgid "@plight_worry But...\\.\\. this is the only elevator in the area..."
+msgstr "@plight_worry Но...\\.\\. это единственный лифт в этом районе..."
+
+msgid "@niko We did hear about another one, but... I don't really know where it is."
+msgstr "@niko Говорят, есть ещё один, но... я без понятия, где он."
+
+msgid "@niko_speak Do you, \\p?"
+msgstr "@niko_speak А ты, \\p?"
+
+msgid "TO: CAFE"
+msgstr "К: КАФЕ"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[ПРОХОД ЗАПРЕЩЁН!]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko О... Прошу прощения!"
+
+msgid "TO: APARTMENTS"
+msgstr "К: АПАРТАМЕНТАМ"
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "К:\\nОФИСНОМУ ЗДАНИЮ И\\nКАФЕ"
+
+msgid "@niko It's an elevator."
+msgstr "@niko Это лифт."
+
+msgid "@niko_speak Let's find another way down!"
+msgstr "@niko_speak Давай найдём другой путь вниз."
+
+msgid "@plight_worry Uh..."
+msgstr "@plight_worry Э-э..."
+
+msgid "@plight3 Let me know if you need my help with anything..."
+msgstr "@plight3 Дай знать, если понадобится моя помощь."
+
+msgid "@niko_speak We found some elevators!"
+msgstr "@niko_speak Мы нашли пару лифтов!"
+
+msgid "@plight_shock What??"
+msgstr "@plight_shock Что?!"
+
+msgid "@plight_worry ...seriously?"
+msgstr "@plight_worry Серьёзно?"
+
+msgid "@plight_worry2 I've literally never seen another one in this area!"
+msgstr "@plight_worry2 Я вообще больше не видел лифтов в этом районе!"
+
+msgid "@niko It WAS in a locked room..."
+msgstr "@niko Они в закрытой комнате."
+
+msgid "@plight_worry Oh...."
+msgstr "@plight_worry Ого..."
+
+msgid "@plight_worry2 Do they... uh... \\.\\.\\.\\@plight_worry work?"
+msgstr "@plight_worry2 И они... Эм... \\.\\.\\.\\@plight_worry работают?"
+
+msgid "@niko_eyeclosed We don't know yet..."
+msgstr "@niko_eyeclosed Мы пока не знаем."
+
+msgid "@niko One of them has a lever that's out of my reach."
+msgstr "@niko На одном из них рычаг, до которого я не могу дотянуться."
+
+msgid "@niko_speak ...wait! You can help us!"
+msgstr "@niko_speak Ой! Ты же можешь нам помочь!"
+
+msgid "@plight_worry What..."
+msgstr "@plight_worry Как?.."
+
+msgid "@niko You should be able to reach the lever, cuz...\\>\\n\\@niko_speak You're taller than me!"
+msgstr "@niko Ты сможешь дотянуться до рычага, потому что...\\>\\n\\@niko_speak Потому что ты ведь выше меня!"
+
+msgid "@plight3 Ooh... \\@plight_worry I... guess I am?"
+msgstr "@plight3 Хм-м... \\@plight_worry Думаю, ты прав."
+
+msgid "@plight So...\\.\\. show me the way, I suppose..."
+msgstr "@plight Тогда веди...\\.\\. Покажи, где это находится..."
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "[HELLO.]"
+msgstr "[ПРИВЕТСТВУЮ.]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[ДОСТУП В ЭТУ ЗОНУ ЗАПРЕЩЁН ДЛЯ ДЕМО.]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[ПРОШУ ПРОЩЕНИЯ ЗА ДОСТАВЛЕННЫЕ НЕУДОБСТВА.]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko Демо?.."
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[Я НЕ МОГУ ВАС ПРОПУСТИТЬ.]"
+

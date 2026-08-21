@@ -1,0 +1,24 @@
+msgid "Nope... not looking forward to that water shortage."
+msgstr "역시... 물 부족 현상이 일어날까 걱정스럽네."
+
+msgid "Oh, hey there."
+msgstr "오, 안녕."
+
+msgid "@niko_pancakes You have a lot of fish!"
+msgstr "@niko_pancakes 물고기가 정말 많네요!"
+
+msgid "Yeah... I'm worried about them."
+msgstr "그래... 그래서 더 걱정이야."
+
+msgid "@niko Oh?"
+msgstr "@niko 아?"
+
+msgid "I heard something about how the square particle stuff just took out a major pipeline."
+msgstr "방금 정사각형 입자가 주요 수도관을 망가트렸다는 소식을 들었거든."
+
+msgid "I guess I should take advantage of the running water while I still can..."
+msgstr "수돗물이 끊기기 전에 최대한 이용해야겠어..."
+
+msgid "@niko_speak It's a big fishtank!"
+msgstr "@niko_speak 어항이 엄청 커요!"
+

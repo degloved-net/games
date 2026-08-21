@@ -1,0 +1,84 @@
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko Hay un montón de pequeños y brillantes camarones nadando en el tarro."
+
+msgid "@niko A page with faded ink."
+msgstr "@niko Una página con la tinta descolorida."
+
+msgid "$-able to provide power to all robots and machinery in the area via a large electromagnetic field."
+msgstr "$-capaz de proporcionar un poderoso campo magnético a todos los robots y maquinaria de la zona."
+
+msgid "$Maintenance efforts are quite high, as expected."
+msgstr "$Los servicios de mantenimiento son bastante exhaustivos, como cabía esperar."
+
+msgid "$We have provided customized backup cells for the few most important robots."
+msgstr "$Hemos suministrado células de apoyo personalizadas a los robots más importantes."
+
+msgid "$Their electromagnetic fields are much weaker, and the signals are highly specific."
+msgstr "$Sus campos electromagnéticos son mucho más débiles, y las señales son altamente específicas."
+
+msgid "$In other words, these small cells can only charge one single-"
+msgstr "$En otras palabras, estas pequeñas células pueden cargarse tan solo una..."
+
+msgid "@niko The rest of the page is unreadable."
+msgstr "@niko El resto de la página es ilegible."
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak ¡No quiero recibir otra descarga, \\p!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what ¡Ay!"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed Me acaba de dar un calambre..."
+
+msgid "@niko Dusty shelves."
+msgstr "@niko Estantes polvorientos."
+
+msgid "@niko_speak The battery fits the slot perfectly!"
+msgstr "@niko_speak ¡La batería encaja en la ranura a la perfección!"
+
+msgid "@niko Looks like we're on the right track."
+msgstr "@niko Parece que vamos por el buen camino."
+
+msgid "@niko ...but ...nothing happened."
+msgstr "@niko Pero... no ha ocurrido nada."
+
+msgid "@niko_speak Let's hope the charged battery does something!"
+msgstr "@niko_speak ¡Esperemos que la batería cargada sirva para algo!"
+
+msgid "@niko_pancakes Whoa!"
+msgstr "@niko_pancakes ¡Hala!"
+
+msgid "@niko_speak That's a big machine!"
+msgstr "@niko_speak ¡Qué pedazo de máquina!"
+
+msgid "@niko It doesn't seem to be doing anything, though..."
+msgstr "@niko Pero no parece que haga nada..."
+
+msgid "@niko There's a rectangle-shaped hole in the middle."
+msgstr "@niko Hay un agujero rectangular en el centro."
+
+msgid "@niko_speak Looks like something used to fit in here..."
+msgstr "@niko_speak Parece que es para encajar algo..."
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko Una especie de máquina pequeña."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko Me pregunto qué hará."
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Noto cómo se me eriza el pelo un poco..."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko Es una batería...\\nCreo."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak ¡Vaya!"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak Tiene escrita la palabra \"Profetabot\" en un lateral."
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko No me había dado cuenta antes."
+

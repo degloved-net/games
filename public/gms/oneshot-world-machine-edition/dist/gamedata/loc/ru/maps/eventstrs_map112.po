@@ -1,0 +1,48 @@
+msgid "@niko_eyeclosed She's still asleep..."
+msgstr "@niko_eyeclosed Она всё ещё спит..."
+
+msgid "None of us have been sleeping very well in light of recent events..."
+msgstr "В свете последних событий никому из нас не удавалось выспаться от души..."
+
+msgid "The square particles took out a few of my robots last week, and"
+msgstr "На прошлой неделе эти квадраты сломали несколько моих роботов и..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed Она уснула..."
+
+msgid "@niko A coffee machine. It's almost empty."
+msgstr "@niko Кофемашина. Почти пустая."
+
+msgid "I can barely keep my eyes open, man..."
+msgstr "У меня глаза слипаются..."
+
+msgid "How does Dr. Silverpoint get all that energy?"
+msgstr "Откуда у доктора Сильверпойнт столько энергии?"
+
+msgid "@niko A warm pot of coffee."
+msgstr "@niko Чайник с тёплым кофе."
+
+msgid "Hmm... I wonder what The Author would do in this situation..."
+msgstr "Хм-м... Интересно, что бы Автор делал в этой ситуации..."
+
+msgid "Dr. Silverpoint usually references his works."
+msgstr "Доктор Сильверпойнт обычно ссылается на его работы."
+
+msgid "@niko Hey \\p?"
+msgstr "@niko Эй, \\p?"
+
+msgid "@niko_speak Doesn't the lady look... kind of familiar to you?"
+msgstr "@niko_speak Она не показалась тебе... знакомой?"
+
+msgid "@niko I wonder if she's related to the robot lady who gave me the amber."
+msgstr "@niko Интересно, она имеет отношение к тётеньке-роботу, которая дала мне янтарь?"
+
+msgid "@niko_eyeclosed I almost want to ask her about it..."
+msgstr "@niko_eyeclosed Мне так хотелось её об этом спросить..."
+
+msgid "@niko ...should I?"
+msgstr "@niko Но стоит ли?.."
+

@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /maps/eventstrs_map48.po\n"
+"X-Crowdin-File-ID: 39\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-07-09 15:32\n"
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko La pulsantiera dell'ascensore."
+
+msgid "@niko_what Huh, there aren't any buttons..."
+msgstr "@niko_what Oh, non ci sono pulsanti..."
+
+msgid "@plight_why Yuuup, that's a problem."
+msgstr "@plight_why Eeeesatto, è questo il problema."
+
+msgid "@plight_2b There's usually a big button here that says \"GROUND\" on it."
+msgstr "@plight_2b Normalmente qui c'è un grande pulsante con sopra una \"T\"."
+
+msgid "@plight_2b Y'know, cuz it takes you to the ground area."
+msgstr "@plight_2b Sai com'è, ti porta al piano T-erra."
+
+msgid "@plight_wtf But now it's been ripped out? Or something?"
+msgstr "@plight_wtf Ma ora... qualcuno l'ha staccato, credo?"
+
+msgid "@plight_2 I tried looking everywhere for it, to no avail."
+msgstr "@plight_2 L'ho cercato dappertutto, ma non l'ho trovato."
+
+msgid "@plight_worry M...maybe it exploded..."
+msgstr "@plight_worry F... Forse è esploso..."
+
+msgid "@niko_speak Do you think we'll have to make a new one?"
+msgstr "@niko_speak Pensi che dovremmo crearne uno nuovo?"
+
+msgid "@plight_worry ...what?"
+msgstr "@plight_worry ...Cosa?"
+
+msgid "@plight_worry How?"
+msgstr "@plight_worry Come?"
+
+msgid "@niko We'll figure it out!"
+msgstr "@niko Ci inventeremo qualcosa!"
+
+msgid "@niko That man said something about magnets, but I don't see a way to fit these in the panel by themselves."
+msgstr "@niko Quell'uomo ha detto qualcosa sulle calamite, ma non trovo un modo per attaccarle alla pulsantiera."
+
+msgid "@niko The button fits snugly in the slot, but..."
+msgstr "@niko Il pulsante entra perfettamente nella fessura, ma..."
+
+msgid "@niko I'm not sure how to \"connect\" it."
+msgstr "@niko Non sono sicuro di come \"connetterlo\"."
+
+msgid "@plight Hmm..."
+msgstr "@plight Mh..."
+
+msgid "@plight All I know is that the button works by some kind of magnetic technology."
+msgstr "@plight Tutto quello che so è che il pulsante funziona con una sorta di tecnologia magnetica."
+
+msgid "@plight_why ...Don't ask me how magnets work, though. I didn't even finish high school..."
+msgstr "@plight_why ...Ehi, non chiedermi come funzionino le calamite. Non ho nemmeno finito le superiori..."
+
+msgid "@niko_speak Alright, let's hope this works!"
+msgstr "@niko_speak Ok, speriamo che questo funzioni!"
+
+msgid "@niko The button fits snugly, and..."
+msgstr "@niko Il pulsante entra perfettamente e..."
+
+msgid "@niko_speak I think I hear the machine powering on!"
+msgstr "@niko_speak Credo di sentire l'ascensore avviarsi!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_what The button completely fell apart!"
+msgstr "@niko_what Il pulsante è completamente a pezzi!"
+
+msgid "@plight_2b Hey, you tried."
+msgstr "@plight_2b Ehi, bel tentativo."
+
+msgid "@niko Let's hope this works..."
+msgstr "@niko Speriamo che funzioni..."
+
+msgid "[REACTIVATING ELEVATOR SERVICES.\\|.\\|.]"
+msgstr "[RIATTIVAZIONE SERVIZI ASCENSORE.\\|.\\|.]"
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE]"
+msgstr "[INSERIRE IL CODICE DI SICUREZZA PER CONTINUARE.]"
+
+msgid "@plight_shock ...What?"
+msgstr "@plight_shock ...Cosa?"
+
+msgid "@plight_wtf That's... never happened before."
+msgstr "@plight_wtf ...Non è mai successo prima d'ora."
+
+msgid "@niko_speak The... squares?"
+msgstr "@niko_speak Parli dei... quadrati?"
+
+msgid "@plight_worry Huh?"
+msgstr "@plight_worry Eh?"
+
+msgid "@niko_speak You saw them, right?"
+msgstr "@niko_speak Li hai visti, giusto?"
+
+msgid "@niko They were on the door, and..."
+msgstr "@niko Erano sulla porta e..."
+
+msgid "@plight_2b Oh, nah. The square stuff happens all the time."
+msgstr "@plight_2b Oh, nah. La roba dei quadrati succede sempre."
+
+msgid "@plight I meant the whole \"security code\" thing."
+msgstr "@plight Intendevo la faccenda del \"codice di sicurezza\"."
+
+msgid "@plight But then again, the elevator hasn't been this broken before..."
+msgstr "@plight E comunque, l'ascensore non è mai stato così rotto..."
+
+msgid "@niko Hmmm...."
+msgstr "@niko Mh..."
+
+msgid "@niko_speak I guess we should go look for a code, \\p..."
+msgstr "@niko_speak Credo che dovremmo andare a cercare un codice, \\p..."
+
+msgid "@niko_eyeclosed That's not gonna work..."
+msgstr "@niko_eyeclosed Non credo funzionerà..."
+
+msgid "@niko Hmmm..."
+msgstr "@niko Mh..."
+
+msgid "@niko_speak If it's been ripped out, how come there aren't any broken wires inside the empty slot?"
+msgstr "@niko_speak Se è stato strappato, come mai non ci sono cavi rotti all'interno?"
+
+msgid "@plight Well, I'm no engineer, but...."
+msgstr "@plight Beh, non sono un ingegnere, ma..."
+
+msgid "@plight_2b It's powered by some kind of magnetic technology, I know this much."
+msgstr "@plight_2b È alimentato da qualche tipo di tecnologia magnetica, so solo questo."
+
+msgid "[PLEASE INPUT SECURITY CODE TO CONTINUE.]"
+msgstr "[INSERIRE IL CODICE DI SICUREZZA PER CONTINUARE.]"
+
+msgid "@plight_shock What!"
+msgstr "@plight_shock Cosa!?"
+
+msgid "@plight_shock It works!"
+msgstr "@plight_shock Funziona!"
+
+msgid "@plight_shock I don't know what you did, but it actually works!"
+msgstr "@plight_shock Non so cosa tu abbia fatto, ma ha funzionato!"
+
+msgid "@plight_worry ..."
+msgstr "@plight_worry ..."
+
+msgid "@plight Good job, kid."
+msgstr "@plight Ben fatto, piccoletto."
+
+msgid "@plight You're a genius, you know that?"
+msgstr "@plight Sei un genio, sai?"
+
+msgid "@niko_speak Well, I had help from \\p too!"
+msgstr "@niko_speak Beh, mi sono fatto aiutare anche da \\p!"
+
+msgid "@plight_worry ...Oh, right."
+msgstr "@plight_worry ...Oh, giusto."
+
+msgid "@plight_worry The whole messiah business."
+msgstr "@plight_worry La faccenda del messia."
+
+msgid "@plight ...Anyway, ready to go? I'll be up ahead."
+msgstr "@plight ...Comunque, pronto a partire? Ti aspetterò più avanti."
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]]"
+msgstr "[\\c[1]ACCESSO NEGATO.\\c[0]]"
+
+msgid "@niko_speak The button works!"
+msgstr "@niko_speak Il pulsante funziona!"
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry Ehi, dove stai andando?"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown Fooorzaaaaaaa!"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown Fooorzaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown Funziona, dai!!!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Eh?"
+
+msgid "@niko What was that?"
+msgstr "@niko Cos'è stato?"
+
+msgid "@plight_unknown WHY. ISN'T. THIS. WORKING??!?"
+msgstr "@plight_unknown PERCHÉ. NON. STA. FUNZIONANDO!?!?"
+
+msgid "@niko_speak ...I..."
+msgstr "@niko_speak ...Io..."
+
+msgid "@niko_speak ....think someone might need help."
+msgstr "@niko_speak ...credo che qualcuno abbia bisogno di aiuto."
+
+msgid "TO: OFFICE"
+msgstr "FERMATA: UFFICIO"
+
+msgid "PATH CLOSED"
+msgstr "PASSAGGIO CHIUSO"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight Foorzaaa..."
+
+msgid "@plight Come oonnnnnnn!"
+msgstr "@plight Foorzaaaaaaa!"
+
+msgid "@plight I'm too busy for this!"
+msgstr "@plight Non ho tempo da perdere!"
+
+msgid "@niko ...Uh"
+msgstr "@niko ...Ehm..."
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak ...Chiedo scusa..."
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock Wow!"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight ...Ma tu sei... Sei tu!"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry (Oh cavolo, non pensavo che avrei incontrato...)"
+
+msgid "@plight_why (...this is embarrassing...)"
+msgstr "@plight_why (...che imbarazzo...)"
+
+msgid "@plight_worry er......"
+msgstr "@plight_worry Ehm......"
+
+msgid "@plight Is there, uh, anything I can help you with?"
+msgstr "@plight Posso, ehm, fare qualcosa per te?"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak Sì, grazie!"
+
+msgid "@niko I would like to know how to get to the surface!"
+msgstr "@niko  Vorrei sapere come arrivare al pianoterra!"
+
+msgid "@plight_2 ...yeeahh... I was afraid you were gonna say that..."
+msgstr "@plight_2 ...Eeeh... Temevo lo chiedessi..."
+
+msgid "@plight Right now, this elevator is the only way to access the surface. But..."
+msgstr "@plight Per ora, questo ascensore è l'unico modo per accedere al pianoterra. Però..."
+
+msgid "@plight ....yeah, just take a look at it."
+msgstr "@plight ...Ecco, guarda tu stesso."
+
+msgid "@niko I-It looks like an elevator..."
+msgstr "@niko S-sembra un ascensore..."
+
+msgid "@plight_2 Well, you're not wrong, but..."
+msgstr "@plight_2 Beh, su quello non ci piove, ma..."
+
+msgid "@plight_why Go look at the button panel."
+msgstr "@plight_why Da' un'occhiata alla pulsantiera."
+
+msgid "@plight_2 I am not the button panel."
+msgstr "@plight_2 Non sono io la pulsantiera."
+
+msgid "@plight_shock Whoa! How did you make this?"
+msgstr "@plight_shock Wow! Come l'hai fatto?"
+
+msgid "@niko_speak Out of a coffee can!"
+msgstr "@niko_speak Con una lattina di caffè!"
+
+msgid "@plight_worry ...Coffee comes from cans?"
+msgstr "@plight_worry ...Il caffè viene dalle lattine?"
+
+msgid "@plight_worry ......."
+msgstr "@plight_worry ......"
+
+msgid "@plight_2 ...Uh, go see if it works!"
+msgstr "@plight_2 ...Ehm, vai a vedere se funziona!"
+
+msgid "@plight_shock Oh nice, are those magnets?"
+msgstr "@plight_shock Oh carino, sono delle calamite?"
+
+msgid "@plight_2b Looks like they're a bit loose, but...."
+msgstr "@plight_2b Sembra un po' fragile, ma..."
+
+msgid "@plight_2 ...Ah well, go see if it works!"
+msgstr "@plight_2 ...Ah beh, vai a vedere se funziona!"
+
+msgid "@plight_shock Oh wow, that sure is a lotta tape...."
+msgstr "@plight_shock Oh wow, è un bel po' di nastro adesivo..."
+
+msgid "@plight But better safe than sorry, right?"
+msgstr "@plight Beh, prevenire è meglio che curare, no?"
+
+msgid "@plight You don't want it to break on ya."
+msgstr "@plight Non vuoi proprio che si rompa."
+
+msgid "@plight_why It was worth a shot, yeah."
+msgstr "@plight_why Valeva la pena provare."
+
+msgid "@plight_why I'm losing so much time...\\nI'm not even timing it anymore..."
+msgstr "@plight_why Sto sprecando così tanto tempo...\\nNon sto nemmeno più tenendo il conto..."
+
+msgid "@plight_why I'm losing so much time...\\nProbably \\v[22] minutes of work already."
+msgstr "@plight_why Sto sprecando così tanto tempo...\\nOrmai saranno \\v[22] minuti di lavoro o giù di lì."
+
+msgid "@plight_why I'm losing so much time..."
+msgstr "@plight_why Sto sprecando così tanto tempo..."
+
+msgid "@plight_why I hate this...."
+msgstr "@plight_why Che rottura..."
+
+msgid "@plight Do you think you'll be able to make that button?"
+msgstr "@plight Credi di riuscire a riparare quel pulsante?"
+
+msgid "@plight_2 Well, no pressure, kid."
+msgstr "@plight_2 Beh, niente fretta, ragazzo."
+
+msgid "@plight_2b I'll just... stick with my original plan for now..."
+msgstr "@plight_2b Credo che... tornerò al mio piano originale..."
+
+msgid "@plight_2b Time to kick the door again."
+msgstr "@plight_2b È ora di calciare di nuovo la porta."
+
+msgid "@plight_why My foot hurts..."
+msgstr "@plight_why Che male al piede..."
+
+msgid "@plight 6, 3, 0, 1, 4..."
+msgstr "@plight 6, 3, 0, 1, 4..."
+
+msgid "@plight Guess I did it.\\> \\@plight_worry Somehow."
+msgstr "@plight Credo di avercela fatta.\\> \\@plight_worry In qualche modo."
+
+msgid "@niko_speak Did"
+msgstr "@niko_speak Hai"
+
+msgid "@niko_what Did you really try all the codes...\\> \\@niko_what2 starting from 0..."
+msgstr "@niko_what Hai veramente provato tutti i codici...\\> \\@niko_what2 Partendo da 0..."
+
+msgid "@plight_smile Eh, it paid off."
+msgstr "@plight_smile Sì, ne è valsa la pena."
+
+msgid "@niko_wtf Still!"
+msgstr "@niko_wtf Incredibile!"
+
+msgid "@niko6 Now I feel kinda bad for telling him to help, \\p..."
+msgstr "@niko6 Ora mi sento un po' in colpa per avergli chiesto aiuto, \\p..."
+
+msgid "@niko_eyeclosed I didn't think he was gonna actually..."
+msgstr "@niko_eyeclosed Non pensavo che avrebbe davvero..."
+
+msgid "@plight_smile Nah don't worry about it, just glad I could help."
+msgstr "@plight_smile Non preoccuparti, sono contento di poter aiutare."
+
+msgid "@niko_speak Thank... thank you!"
+msgstr "@niko_speak Grazie... grazie davvero!"
+
+msgid "@plight Yup.\\>\\nAnyway... you ready to go? I'll be up ahead."
+msgstr "@plight Di niente.\\>\\nComunque... pronto ad andare? Ti aspetterò di là."
+
+msgid "@plight \\v[26], \\v[27], \\v[28], \\v[29], \\v[30]..."
+msgstr "@plight \\v[26], \\v[27], \\v[28], \\v[29], \\v[30]..."
+
+msgid "[PLEASE MAKE HIM STOP.]"
+msgstr "[PER FAVORE FALLO SMETTERE.]"
+
+msgid "@niko Hi."
+msgstr "@niko Ciao."
+
+msgid "@plight Hi."
+msgstr "@plight Ciao."
+
+msgid "@plight ...Can I help with anything?"
+msgstr "@plight ...Posso esserti d'aiuto?"
+
+msgid "@plight Anything at all?"
+msgstr "@plight Niente di niente?"
+
+msgid "@plight_worry Being so unproductive for so long... It's really getting to me..."
+msgstr "@plight_worry Non fare niente di utile per così tanto tempo... mi sta dando alla testa..."
+
+msgid "@niko I think \\p and I got it handled!"
+msgstr "@niko Credo che io e \\p ce la stiamo gestendo bene!"
+
+msgid "@niko What do you think, \\p?"
+msgstr "@niko Cosa dovrei fare, \\p?"
+
+msgid "[\"Tell him to use random codes\", \"Tell him to stand there\"]"
+msgstr "[\"Digli di usare codici casuali.\",\"Digli di starsene lì.\"]"
+
+msgid "@niko Maybe you can just try out some numbers until you get it..."
+msgstr "@niko Forse puoi provare qualche combinazione finché non l'azzecchi..."
+
+msgid "@niko_speak I mean, \\p and I did it before!"
+msgstr "@niko_speak Voglio dire, \\p e io l'abbiamo fatto prima!"
+
+msgid "@niko_eyeclosed Took us a while, but..."
+msgstr "@niko_eyeclosed Ci abbiamo messo un po', però..."
+
+msgid "@plight_worry ....seriously?"
+msgstr "@plight_worry ...Sul serio?"
+
+msgid "@plight Alright, I suppose that's better than doing nothing."
+msgstr "@plight Bene, sempre meglio che stare con le mani in mano."
+
+msgid "@plight Let's see... 0, 0, 0, 0, 0..."
+msgstr "@plight Vediamo... 0, 0, 0, 0, 0..."
+
+msgid "@plight_why Yep, gonna be here for a while. 0, 0, 0, 0, 1....."
+msgstr "@plight_why Sì, starò qui per un po'. 0, 0, 0, 0, 1......"
+
+msgid "[\\c[1]ACCESS DENIED.\\c[0]\\| ...YOU AREN'T SERIOUSLY DOING THIS, ARE YOU?]"
+msgstr "[\\c[1]ACCESSO NEGATO.\\c[0]\\| ...MA SEI SERIO? CIOÈ, HAI DAVVERO INTENZIONE DI FARLO?]"
+
+msgid "@niko Maybe you can just take it easy for a while?"
+msgstr "@niko Magari puoi prendertela comoda per un po'?"
+
+msgid "@plight_why Hooray..."
+msgstr "@plight_why Evviva..."
+
+msgid "@plight_why My least favorite thing to do..."
+msgstr "@plight_why La cosa che più detesto fare..."
+
+msgid "TO: CAFE"
+msgstr "FERMATA: CAFFETTERIA"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[VIETATO L'ACCESSO!]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko Oh... scusa!"
+
+msgid "@niko It's an elevator."
+msgstr "@niko Un ascensore."
+
+msgid "@Niko It's an elevator."
+msgstr "@niko Un ascensore."
+
+msgid "@niko_eyeclosed Apparently broken?"
+msgstr "@niko_eyeclosed Sembra rotto..."
+
+msgid "@niko_speak Let's fix the elevator!"
+msgstr "@niko_speak Cerchiamo di aggiustare l'ascensore!"
+
+msgid "@niko_speak It needs a code."
+msgstr "@niko_speak Serve un codice."
+
+msgid "@niko_yawn *yawn* ..."
+msgstr "@niko_yawn Yawn..."
+
+msgid "@niko I'm having trouble staying awake, \\p.\\>\\nWe should find a place for me to take a nap..."
+msgstr "@niko Ehi \\p, mi si stanno chiudendo gli occhi.\\>\\nDovremmo cercare un posto per schiacciare un pisolino..."
+
+msgid "@niko_speak Oh! Thank you for holding the elevator door open for me, mister!"
+msgstr "@niko_speak Oh! Grazie per avermi tenuto la porta dell'ascensore aperta!"
+
+msgid "@plight No prob, hop in."
+msgstr "@plight Tranqui', salta su."
+
+msgid "@plight Oh hey, welcome back..."
+msgstr "@plight Oh ehi, bentornato..."
+
+msgid "@plight_worry That... sure took you a while, huh..."
+msgstr "@plight_worry Beh... Ce ne hai messo di tempo, eh..."
+
+msgid "@niko2 Oh, shoot! You've been waiting this whole time?"
+msgstr "@niko2 Oh, cavoli! Hai aspettato per tutto questo tempo?"
+
+msgid "@niko And... holding the door open?"
+msgstr "@niko ...E hai tenuto la porta aperta?"
+
+msgid "@plight_worry Well I uh...\\.\\. didn't want to be rude..."
+msgstr "@plight_worry Beh ecco...\\.\\. non volevo sembrare maleducato..."
+
+msgid "@niko_eyeclosed I'm sorry, I should've told you to go on ahead..."
+msgstr "@niko_eyeclosed Mi dispiace, avrei dovuto dirti di andare avanti..."
+
+msgid "@plight Eh, don't worry about it."
+msgstr "@plight Eh, non preoccuparti."
+
+msgid "@niko I'll need to push the button to open the doors."
+msgstr "@niko Ho bisogno di premere il pulsante per aprire le porte."
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "FERMATA:\\nEDIFICIO DELL'UFFICIO E\\nCAFFETTERIA"
+
+msgid "TO: APARTMENTS"
+msgstr "FERMATA: APPARTAMENTI"
+
+msgid "@niko_eyeclosed Oh well..."
+msgstr "@niko_eyeclosed Oh beh..."
+
+msgid "[HELLO.]"
+msgstr "[SALVE.]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[QUESTA ZONA È INACCESSIBILE NELLA DEMO.]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[CI DISPIACE PER L'INCONVENIENZA.]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko ...Demo?"
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[NON POTETE PASSARE.]"
+

@@ -1,0 +1,48 @@
+msgid "@niko It's a metal pipe."
+msgstr "@niko 鉄パイプだ。"
+
+msgid "@niko Must've broken off from one of these terminals..."
+msgstr "@niko ここのターミナルのどこかが\n折れたんだろうね…"
+
+msgid "@ed [It's a broken-off section of railing.]"
+msgstr "@ed レールの折れた部分だ。"
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [ニコはそれを取った。]"
+
+msgid "@niko I'm not sleepy anymore."
+msgstr "@niko もう眠たくないよ。"
+
+msgid "@ed [This bed probably looks familiar to you, \\p.]"
+msgstr "@ed [このベッドには見覚えがあるだろう、 \\p。]"
+
+msgid "@ed [Niko first woke up in this world here.]"
+msgstr "@ed [この世界で、ニコが初めて\n目を覚ました場所だ。]"
+
+msgid "@ed [It's important that you allow Niko to sleep once in a while.]"
+msgstr "@ed [時には、\nニコに睡眠を取らせることも重要だ。]"
+
+msgid "@ed [The game will exit automatically and can be continued later. Don't be alarmed.]"
+msgstr "@ed [ゲームは自動的に終了するが、後から再開できる。\n心配するな。]"
+
+msgid "@ed [But now is no time for rest.]"
+msgstr "@ed [だが、今は休むべき時ではない。]"
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed ちょっと歩き疲れたな。"
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak お昼寝してもいい？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"はい\",\"いいえ\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed あ、そっか… \\>\\n\\@niko まだやることあるもんね。"
+
+msgid "@niko These machines look like computers."
+msgstr "@niko この機械はコンピューターみたい。"
+
+msgid "@ed [What's left of a computer terminal.]"
+msgstr "@ed [コンピューターターミナルの残骸だ。]"
+

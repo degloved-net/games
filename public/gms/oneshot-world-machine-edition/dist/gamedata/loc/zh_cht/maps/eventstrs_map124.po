@@ -1,0 +1,36 @@
+msgid "..............."
+msgstr "……………"
+
+msgid "@niko ......................."
+msgstr "@niko ……………………"
+
+msgid "..............................."
+msgstr "……………………………"
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak …………………………………"
+
+msgid "............................................."
+msgstr "……………………………………"
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ……好吧。"
+
+msgid "@niko2 H-hello, penguin?"
+msgstr "@niko2 企、企鵝你好？"
+
+msgid "@niko It's a big penguin plush!"
+msgstr "@niko 一個大企鵝絨毛玩偶！"
+
+msgid "@niko_speak Hello, penguin!"
+msgstr "@niko_speak 企鵝你好！"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ……"
+
+msgid "@niko It's a pink flower."
+msgstr "@niko 粉紅色的花。"
+
+msgid "@niko It's a wall of family photos."
+msgstr "@niko 牆上貼滿了家庭合照。"
+

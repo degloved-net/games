@@ -1,0 +1,159 @@
+msgid "@rue We will meet again."
+msgstr "@rue また会いましょう。"
+
+msgid "@niko ...?"
+msgstr "@niko …？"
+
+msgid "@rue_talk So you found a way back after all."
+msgstr "@rue_talk そう、戻ってこられたのね。"
+
+msgid "@niko_speak Eh? \\>\\n\\@niko But I've never been here before..."
+msgstr "@niko_speak え？ \\>\\n\\@niko ここに来るのは初めてだよ…"
+
+msgid "@rue That means..."
+msgstr "@rue それって、もしかして…"
+
+msgid "@rue ..."
+msgstr "@rue …"
+
+msgid "@rue_talk Have you... met the others?"
+msgstr "@rue_talk 他の子たちには…会った？"
+
+msgid "@niko2 ...others? \\>\\n\\@niko2 You're the only fox I've seen..."
+msgstr "@niko2 …他の子？\\>\\n\\@niko2 ミーが見たキツネは君だけだよ…"
+
+msgid "@niko_speak Wait! There's that one plush in Calamus and Alula's house, right \\p?"
+msgstr "@niko_speak あっ！カラムスとアルーラの家に\nぬいぐるみがあったよね、 \\p？"
+
+msgid "@rue_sad Sigh."
+msgstr "@rue_sad はぁ。"
+
+msgid "@rue It's not time."
+msgstr "@rue まだ、その時じゃない。"
+
+msgid "@rue ...we will meet again."
+msgstr "@rue …また会いましょう。"
+
+msgid "@rue_smile Hello, Niko."
+msgstr "@rue_smile こんばんは、ニコ。"
+
+msgid "@niko Hello..."
+msgstr "@niko こんばんは…"
+
+msgid "@rue ...oh?"
+msgstr "@rue …あら？"
+
+msgid "@rue_talk You're back again..."
+msgstr "@rue_talk また来たのね…"
+
+msgid "@rue But... \\.\\.\\@rue_sad I said it was not time..."
+msgstr "@rue でも…\\.\\.\\@rue_sad 言ったでしょう。\nまだその時じゃないの…"
+
+msgid "@rue Are you here to keep me company, then?"
+msgstr "@rue じゃあ、私の傍にいるために\nわざわざ来てくれたの？"
+
+msgid "@rue_smile Guess I can't refuse that."
+msgstr "@rue_smile なら、無下には扱えないわね。"
+
+msgid "@rue ...I am Rue."
+msgstr "@rue …私はルエ。"
+
+msgid "@rue_sad You will probably not remember my name in a while.\\.\\.\\n\\@rue_smile ...But I would still like to know yours."
+msgstr "@rue_sad しばらくしたら、きっと私の名前は\n忘れてしまうでしょう。\\.\\.\\n\\@rue_smile …それでも、あなたの名前を知りたい。"
+
+msgid "@niko I'm... \\.\\.not sure what you're talking about."
+msgstr "@niko え… \\.\\.言ってる意味がよく分からないよ。"
+
+msgid "@niko_speak But my name is Niko!"
+msgstr "@niko_speak けど、ミーの名前はニコ！"
+
+msgid "@rue ...Niko."
+msgstr "@rue …ニコ。"
+
+msgid "@rue_smile I shall remember that!"
+msgstr "@rue_smile 覚えておくわね！"
+
+msgid "@rue_smile I'm glad you do not mind coming back."
+msgstr "@rue_smile わざわざ戻ってきれくれて嬉しいわ。"
+
+msgid "@rue_talk To be perfectly honest..."
+msgstr "@rue_talk 本当に、正直に言うと…"
+
+msgid "@rue_sad It may be this way for a while, actually."
+msgstr "@rue_sad しばらくは、こんな調子が続くと思うわ。"
+
+msgid "@rue ...But in time, that will change."
+msgstr "@rue …でもいずれ、それは変わる。"
+
+msgid "@niko2 The... sun?"
+msgstr "@niko2 それって…太陽のこと？"
+
+msgid "@rue_smile \\p can see this, right?"
+msgstr "@rue_smile \\p にも見えてるんでしょう？"
+
+msgid "@niko ...yeah?"
+msgstr "@niko …うん。"
+
+msgid "@rue_smile Then \\p will understand."
+msgstr "@rue_smile きっと、 \\p なら分かってくれる。"
+
+msgid "@rue_smile Oh, you're here!"
+msgstr "@rue_smile あら、来たのね！"
+
+msgid "@rue I was starting to miss you..."
+msgstr "@rue ちょうど会いたいと\n思い始めてたところよ…"
+
+msgid "@rue_smile ...Guess I got used to your company, after all."
+msgstr "@rue_smile …結局、あなたが傍にいることに\n慣れちゃったみたい。"
+
+msgid "@niko2 ...pardon?"
+msgstr "@niko2 …え？"
+
+msgid "@rue Do not worry. Carry on."
+msgstr "@rue 気にしないで。続けて。"
+
+msgid "@niko There's no one here..."
+msgstr "@niko 誰もいない…"
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko 大きな木だ、葉っぱもついてる！\\>\\nここに来てから初めて見た…"
+
+msgid "@niko_speak Whoa!\\>\\n\\@niko \\p? Did you see that fox just now?"
+msgstr "@niko_speak あっ！\\>\\n\\@niko \\p、 今のキツネ見た？"
+
+msgid "@niko_speak It just ran behind the tree..."
+msgstr "@niko_speak 木の後ろに逃げてった…"
+
+msgid "@rue_dark ..."
+msgstr "@rue_dark …"
+
+msgid "@rue_dark I'm sorry if you are looking for me."
+msgstr "@rue_dark 私を探しているのなら、ごめんなさい。"
+
+msgid "@rue_dark But I cannot talk to you."
+msgstr "@rue_dark あなたと話すことはできない。"
+
+msgid "@rue_dark Not now..."
+msgstr "@rue_dark 今はまだ…"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "@rue_dark But... can you promise me something?"
+msgstr "@rue_dark でも…約束してくれないかしら？"
+
+msgid "@niko Huh?"
+msgstr "@niko え？"
+
+msgid "@rue_dark If... you can find a way to return..."
+msgstr "@rue_dark もし…戻ってこられる方法を見つけたら…"
+
+msgid "@rue_dark ...please do."
+msgstr "@rue_dark …戻ってきてほしい。"
+
+msgid "@niko Er...\\.\\. \\@niko2 What... do you mean by that?"
+msgstr "@niko え…\\.\\.\\@niko2 それって…どういう意味？"
+
+msgid "@niko ...\\>\\n\\@niko_eyeclosed No reply..."
+msgstr "@niko …\\>\\n\\@niko_eyeclosed 返事がない…"
+

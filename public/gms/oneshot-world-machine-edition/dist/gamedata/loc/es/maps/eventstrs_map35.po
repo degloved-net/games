@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Las luciérnagas iluminan esta sala."
+
+msgid "@niko Looks like moss..."
+msgstr "@niko Parece musgo..."
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak ¡Supongo que la gente se come eso!"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "Una cosa es segura, ¡a la gente le gustaría volver a ver el sol!"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak ¡Sí!"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "Empieza a descascarillarse.\\nPero sigue intentando no morir, creo."
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "No pasa nada... llegará el día en que el mundo abandonará esta lucha de una vez para siempre."
+
+msgid "I just hope I'm not alive to see it."
+msgstr "Solo espero no seguir con vida para verlo."
+
+msgid "@alula But the savior is here!"
+msgstr "@alula Pero ¡el salvador ha llegado!"
+
+msgid "That won't fix the root of the problem."
+msgstr "Eso no solucionará la raíz del problema."
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko Eso mismo dijo la otra chica..."
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh ¿La otra... chica?"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak ¡Sí! Era un robot, y parecía triste..."
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout Ah..."
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "¡Oh! Pero ¡no te desanimes!\\nSin el sol, el mundo se moriría mucho más rápidamente."
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "Por lo menos...\\nSeguro que a la gente le gustaría volver a ver el sol."
+
+msgid "Right, little one?"
+msgstr "¿Verdad, peque?"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak ¡Sí!"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak Aunque voy a traer de vuelta el sol..."
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "¡Pero... no te desanimes!\\nSin el sol, el mundo se moriría mucho más rápido."
+

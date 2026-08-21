@@ -1,0 +1,81 @@
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [嗨。]"
+
+msgid "@niko_shock AAAAAAA!!!!!"
+msgstr "@niko_shock 呀啊啊啊啊啊！！！！！"
+
+msgid "@proto_gasp2 [...No!!]"
+msgstr "@proto_gasp2 [……不！！]"
+
+msgid "@niko_shock What do we do!!!"
+msgstr "@niko_shock 怎麼辦！！！"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [……]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk [……]"
+
+msgid "@proto2 [You have to take this.]"
+msgstr "@proto2 [你必須拿走這個。]"
+
+msgid "@niko3 Wh-\\.\\.what?"
+msgstr "@niko3 什、\\.\\.什麼？"
+
+msgid "@niko3 The memory disk? But-"
+msgstr "@niko3 儲存磁碟？可是──"
+
+msgid "@niko_surprised Eek!"
+msgstr "@niko_surprised 呀啊！"
+
+msgid "@proto2b [This is where we part ways.]"
+msgstr "@proto2b [我們就此道別了。]"
+
+msgid "@proto2b [Niko, the path ahead will lead you to the Glen, right by the city gate.]"
+msgstr "@proto2b [霓光，前方的道路會帶你通往城市大門旁的綠沼澤。]"
+
+msgid "@proto1C [When you're in the city, go find someone named Cedric. Give him the disk.]"
+msgstr "@proto1C [等你到了城市，去找一個名叫學君的人，把磁碟交給他。]"
+
+msgid "@niko3 But... what happens if I..."
+msgstr "@niko3 可是……如果我……"
+
+msgid "@niko_distressed What if the squares..."
+msgstr "@niko_distressed 萬一方塊……"
+
+msgid "@proto_gasp2 [Hurry!]"
+msgstr "@proto_gasp2 [快走！]"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ……"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [……]"
+
+msgid "@niko And that robot was saying something."
+msgstr "@niko 那個機器人說了一些事。"
+
+msgid "@niko That you keep bringing me back."
+msgstr "@niko 說你不斷地帶我回來。"
+
+msgid "@niko We've been through all this before, haven't we."
+msgstr "@niko 我們早就經歷過這一切了，對不對。"
+
+msgid "@niko How many times?"
+msgstr "@niko 已經幾次了呢？"
+
+msgid "[\"1\", \"So Many\"]"
+msgstr "[\"1\",\"很多次\"]"
+
+msgid "@niko I see."
+msgstr "@niko 這樣啊。"
+
+msgid "@niko_speak That's a lot of times!"
+msgstr "@niko_speak 真的很多次耶！"
+
+msgid "@niko That robot told me to try and remember, so I will."
+msgstr "@niko 那個機器人叫我想辦法記住，所以我會記住的。"
+
+msgid "@niko_eyeclosed Sleepy time."
+msgstr "@niko_eyeclosed 我想睡覺了。"
+

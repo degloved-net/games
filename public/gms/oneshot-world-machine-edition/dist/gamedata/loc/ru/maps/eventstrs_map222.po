@@ -1,0 +1,297 @@
+msgid "@niko It looks like Proto is in the purple portal now.\\>\\n...\\>\\@niko_83c Proto in the purple portal."
+msgstr "@niko Кажется, Прото в фиолетовом портале.\\>\\n...\\>\\@niko_83c Прото в фиолетовом портале."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows blue."
+msgstr "@niko На полу какой-то странный квадрат света.\\>\\nОн сияет голубым."
+
+msgid "@proto2 [This one would be configured to my code.]"
+msgstr "@proto2 [Он сконфигурирован для меня.]"
+
+msgid "@proto_eyeclosed [Having never done this before...\\>\\n\\@proto2b I can't help but feel a bit uneasy.]"
+msgstr "@proto_eyeclosed [У меня никогда не было такого опыта...]\\>\\n\\@proto2b [Я немного переживаю.]"
+
+msgid "@niko_eyeclosed I'm a little nervous too, to be honest..."
+msgstr "@niko_eyeclosed Честно говоря, я тоже слегка волнуюсь..."
+
+msgid "@proto1b [Misery loves company, I suppose.\\>\\n\\@proto1c Or in this case, anxiety.]"
+msgstr "@proto1b [Беда не приходит одна.]\\>\\n\\@proto1c [В этот раз она в компании с тревогой.]"
+
+msgid "@niko Is that Cedric?\\>\\nHe looks... different."
+msgstr "@niko Это Седрик?\\>\\nОн... изменился."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows green."
+msgstr "@niko На полу какой-то странный квадрат света.\\>\\nОн сияет зелёным."
+
+msgid "@cedric_hmm This one is configured to my code, I think."
+msgstr "@cedric_hmm Думаю, он сконфигурирован для меня."
+
+msgid "@cedric_hmm To be honest, I AM somewhat curious to see what's on the other side of these things."
+msgstr "@cedric_hmm Признаться, мне любопытно, что на другой стороне."
+
+msgid "@niko2 Wait, do you... not know?"
+msgstr "@niko2 Погоди, ты... не знаешь?"
+
+msgid "@cedric_hmm Nope!\\> This is the first time I've even seen them in person."
+msgstr "@cedric_hmm Не-а!\\> Я такое в первый раз вижу."
+
+msgid "@niko I think this one is Rue."
+msgstr "@niko Думаю, это для Руты."
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows red."
+msgstr "@niko На полу какой-то странный квадрат света.\\>\\nОн сияет красным."
+
+msgid "@rue_talk This one is meant for me, then."
+msgstr "@rue_talk Этот предназначен для меня."
+
+msgid "@rue We have faith in you, Niko and \\p.\\>\\n\\@rue_smile Just do the best you can."
+msgstr "@rue Мы верим в вас, Нико и \\p.\\>\\n\\@rue_smile Старайтесь изо всех сил."
+
+msgid "@niko_eyeclosed Thank you..."
+msgstr "@niko_eyeclosed Спасибо..."
+
+msgid "@niko_eyeclosed The squares are here too now..."
+msgstr "@niko_eyeclosed Теперь квадраты и здесь..."
+
+msgid "@niko This elevator won't open."
+msgstr "@niko Этот лифт не открывается."
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko Похоже, застрял на другом этаже?"
+
+msgid "@niko_eyeclosed There's squares here too, now..."
+msgstr "@niko_eyeclosed И здесь теперь квадраты..."
+
+msgid "@niko We need to find a way to reach that lever up there."
+msgstr "@niko Надо найти способ достать до того рычага."
+
+msgid "@niko6 We might need a grownup for this..."
+msgstr "@niko6 Не помешал бы кто-нибудь взрослый..."
+
+msgid "@niko This elevator has no button panel."
+msgstr "@niko У этого лифта нет панели с кнопкой."
+
+msgid "@niko Tapping the door doesn't open it either, hmm..."
+msgstr "@niko Если постучать по двери, она все равно не откроется. Хм-м..."
+
+msgid "@niko_eyeclosed That usually works..."
+msgstr "@niko_eyeclosed Обычно это помогает..."
+
+msgid "@niko6 Wait..."
+msgstr "@niko6 Постой-ка..."
+
+msgid "@niko_speak There's a lever hanging from the ceiling!"
+msgstr "@niko_speak Вот с потолка свисает рычаг!"
+
+msgid "@niko_eyeclosed ...can't reach it."
+msgstr "@niko_eyeclosed Не могу достать..."
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ..."
+
+msgid "@rue Where...\\.\\. are the other two?"
+msgstr "@rue А где...\\.\\. другие двое?"
+
+msgid "@rue Prototype? Cedric?"
+msgstr "@rue Прототип? Седрик?"
+
+msgid "@rue_sad They're supposed to be here already..."
+msgstr "@rue_sad Они уже должны были прийти."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed2 They..."
+msgstr "@niko_distressed2 Они..."
+
+msgid "@niko_eyeclosed Prototype's body was destroyed back in the Barrens."
+msgstr "@niko_eyeclosed Тело Прототипа было уничтожено в Пустоши."
+
+msgid "@rue_oh ..."
+msgstr "@rue_oh ..."
+
+msgid "@niko_eyeclosed Cedric was going to bring him back with the memory disk, but..."
+msgstr "@niko_eyeclosed Седрик собирался вернуть его с помощью диска памяти, но..."
+
+msgid "@niko_distressed2 He was in the lab complex when it collapsed..."
+msgstr "@niko_distressed2 Он был в лаборатории, когда она развалилась."
+
+msgid "@niko_distressed I... \\.\\.don't think he made it..."
+msgstr "@niko_distressed Не думаю... \\.\\.Не думаю, что ему удалось выбраться..."
+
+msgid "@rue_oh Oh.."
+msgstr "@rue_oh Ох..."
+
+msgid "@rue_sad No..."
+msgstr "@rue_sad Нет..."
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ..."
+
+msgid "@rue_sad There goes our only chance..."
+msgstr "@rue_sad Это был наш единственный шанс."
+
+msgid "@niko_upset2 I... \\.\\.I'm sorry..."
+msgstr "@niko_upset2 Мне очень... \\.\\.очень жаль..."
+
+msgid "@rue_sigh It's not your fault, Niko..."
+msgstr "@rue_sigh Не вини себя, Нико."
+
+msgid "@rue_sad If anything... \\.\\.I should be apologizing to you."
+msgstr "@rue_sad Если уж на то пошло... \\.\\.это я должна перед тобой извиниться."
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ..."
+
+msgid "@rue ...There's..."
+msgstr "@rue Есть одна вещь..."
+
+msgid "@rue One last thing I want to do."
+msgstr "@rue Лишь одна, которую я хотела бы сделать напоследок."
+
+msgid "@rue_talk Come on, let's go upstairs."
+msgstr "@rue_talk Давай поднимемся выше."
+
+msgid "@cedric_talk Oh...\\.\\. this is..."
+msgstr "@cedric_talk Ого...\\.\\. Это..."
+
+msgid "@proto1 [...no wonder he wanted us to all be here for this.]"
+msgstr "@proto1 [Теперь понятно, почему он хотел, чтобы мы все сюда пришли.]"
+
+msgid "@niko2 Um... what are these things, anyway?"
+msgstr "@niko2 Э-э... Что это за штуки?"
+
+msgid "@proto2 [Code portals.]"
+msgstr "@proto2 [Кодовые порталы.]"
+
+msgid "@proto1c [They... \\.\\.temporarily remove us from the world.]"
+msgstr "@proto1c [Они... \\.\\.временно удалят нас из этого мира.]"
+
+msgid "@niko2 ....what?"
+msgstr "@niko2 Что?.."
+
+msgid "@cedric_hmm It's... a bit hard to explain..."
+msgstr "@cedric_hmm Это... сложно объяснить..."
+
+msgid "@cedric2 But... basically, my father has hidden a decryption key in our code, with a .txt file as its shell..."
+msgstr "@cedric2 Но... В общем, мой отец спрятал в нашем коде ключ дешифрования. Его оболочка — файл .txt..."
+
+msgid "@proto2 [...But to get to them, we have to be removed from the world and decompiled.]"
+msgstr "@proto2 [Но чтобы до него добраться, нам нужно полностью отсюда удалиться и декомпилироваться.]"
+
+msgid "@proto2b [...When our keys are combined into a central location, it will activate an encrypted part of this world, which will...]"
+msgstr "@proto2b [Когда наши ключи совместятся в центральной локации, они активируют зашифрованную часть этого мира, которая...]"
+
+msgid "@niko_what *confused cat noises*"
+msgstr "@niko_what (Ничего не понимает.)"
+
+msgid "@proto_eyeclosed [...]"
+msgstr "@proto_eyeclosed [...]"
+
+msgid "@proto2b [...Rue, maybe it's better if you explain.]"
+msgstr "@proto2b [Рута, лучше ты объясни.]"
+
+msgid "@rue_sigh I'll attempt."
+msgstr "@rue_sigh Попробую."
+
+msgid "@rue Basically... these portals all represent a physical location on \\p's machine."
+msgstr "@rue В общем, эти порталы ведут в устройство, которым владеет \\p."
+
+msgid "@niko2 ...oooh."
+msgstr "@niko2 О-о-о..."
+
+msgid "@rue_talk And... when we enter these portals, we will be sent to that location..."
+msgstr "@rue_talk И... когда мы в них войдём, то переместимся в соответствующие локации."
+
+msgid "@proto2 [...Wherever that is.]"
+msgstr "@proto2 [Где бы они ни были...]"
+
+msgid "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their computer."
+msgstr "@rue Я уверена... что \\p уже умеет находить детали головоломки из этого мира на своём устройстве."
+
+msgid "@rue_talk ...But this time, \\p would need to move around some things, as well."
+msgstr "@rue_talk Однако на этот раз \\p будет ещё и перемещать кое-что."
+
+msgid "@cedric_talk ...specifically, by moving the keys from the small portal to the big one."
+msgstr "@cedric_talk А точнее, перемещать ключи из маленького портала в большой."
+
+msgid "@cedric_hmm I... don't know what happens next, though."
+msgstr "@cedric_hmm А что будет потом, я не знаю."
+
+msgid "@niko I see..."
+msgstr "@niko Понятно..."
+
+msgid "@niko_speak Does \\p know where these portals lead, at least?"
+msgstr "@niko_speak А \\p знает, куда ведут эти порталы?"
+
+msgid "@rue You should probably ask \\p on this..."
+msgstr "@rue \\p, наверное, знает. Спроси."
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed Ладно."
+
+msgid "@niko2 ...Hold on."
+msgstr "@niko2 Погодите..."
+
+msgid "@niko6 The journal is glowing again, \\p..."
+msgstr "@niko6 Дневник снова светится, \\p..."
+
+msgid "@niko A big rectangle-light on the floor.\\>\\nIt glows purple."
+msgstr "@niko На полу большой прямоугольник света.\\>\\nОн сияет фиолетовым."
+
+msgid "@niko_eyeclosed The lever won't do much for us now, \\p..."
+msgstr "@niko_eyeclosed Сейчас рычаг нам ничем не поможет, \\p..."
+
+msgid "@niko There's a lever hanging from the ceiling..."
+msgstr "@niko С потолка свисает какой-то рычаг..."
+
+msgid "@niko_speak We should find someone tall to reach it for us, \\p!"
+msgstr "@niko_speak \\p, надо найти кого-то, кто мог бы до него дотянуться!"
+
+msgid "@plight_worry ...This room gives me the creeps, man..."
+msgstr "@plight_worry От этой комнаты у меня мурашки по коже..."
+
+msgid "@niko_speak Oh, same!"
+msgstr "@niko_speak И у меня!"
+
+msgid "@plight_worry ....yup."
+msgstr "@plight_worry Угу..."
+
+msgid "@plight3 So um... \\>\\@plight_2b what did you need help with again?"
+msgstr "@plight3 Так... \\>\\@plight_2b с чем я должен был тебе помочь?"
+
+msgid "@niko Can you reach the lever up there?"
+msgstr "@niko Ты можешь дотянуться до того рычага?"
+
+msgid "@plight_worry Oh, right..."
+msgstr "@plight_worry А, точно..."
+
+msgid "@plight_worry2 Wait..."
+msgstr "@plight_worry2 Сейчас..."
+
+msgid "@plight_why ...I'm not THAT tall!"
+msgstr "@plight_why Я не НАСТОЛЬКО высокий!"
+
+msgid "@niko_eyeclosed Oh... at least it was worth a shot..."
+msgstr "@niko_eyeclosed Ох... Ну ладно, попытка не пытка..."
+
+msgid "@plight_worry2 ..."
+msgstr "@plight_worry2 ..."
+
+msgid "@plight_2b ...wait, I got this."
+msgstr "@plight_2b О, у меня же есть вот это."
+
+msgid "@niko_speak Nice!"
+msgstr "@niko_speak Здорово!"
+
+msgid "@niko Thank you, mister!"
+msgstr "@niko Спасибо!"
+
+msgid "@plight No prob, kid."
+msgstr "@plight Не за что, приятель."
+
+msgid "@plight3 So... you coming?"
+msgstr "@plight3 Ну... Ты идёшь?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+

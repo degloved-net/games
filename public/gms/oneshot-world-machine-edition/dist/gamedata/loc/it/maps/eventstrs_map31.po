@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko La stanza è illuminata dalle lucciole."
+
+msgid "@niko Full of dried beans."
+msgstr "@niko È pieno di fagioli secchi."
+
+msgid "@niko An empty jar."
+msgstr "@niko Un vaso vuoto."
+
+msgid "I'm getting dizzy!"
+msgstr "Mi gira la testa!"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed Te l'avevo detto!"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak Perché stai girando così?"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak Ti verranno le vertigini!"
+
+msgid "I'm the Tower!"
+msgstr "Io sono la Torre!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Eh?"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "Nonno dice che la Torre girava tuuutto il tempo portando la luce del sole al mondo!"
+
+msgid "I wanna see it too!"
+msgstr "Voglio vederla anche io!"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp Anch'io!"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout Il sole l'ho visto solo quando ero piccola..."
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko Beh, ora sono qui..."
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko Credo che sarà solo una questione di tempo."
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko Ti farai venire le vertigini se continui a girare così..."
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak Piselli!"
+

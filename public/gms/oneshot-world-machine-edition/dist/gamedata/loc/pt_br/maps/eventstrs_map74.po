@@ -1,0 +1,3 @@
+msgid "@niko The door is locked from the inside."
+msgstr "@niko A porta está trancada por dentro."
+

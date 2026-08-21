@@ -1,0 +1,21 @@
+msgid "@niko It's a faded flyer."
+msgstr "@niko È un volantino sbiadito."
+
+msgid "@niko_speak It's a big crack in the wall!"
+msgstr "@niko_speak C'è una grossa crepa nel muro!"
+
+msgid "@niko I see bunch of mice, huddled together."
+msgstr "@niko Ci sono tanti topolini, tutti ammassati."
+
+msgid "@niko2 ...oh, but they scurried off..."
+msgstr "@niko2 ...Oh, sono appena corsi via..."
+
+msgid "@niko_eyeclosed I hope they didn't think I was gonna eat them..."
+msgstr "@niko_eyeclosed Spero non abbiano pensato che li volessi mangiare..."
+
+msgid "[P\\.\\.#L.%%E\\|AS;E D\\.O NO//T AP\\.\\.PR#OACH]"
+msgstr "[P..#ER.%|.FA%%V.-OR%#E; N\\.ON A//VVI\\.\\.CI#NARTI]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+

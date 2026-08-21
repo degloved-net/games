@@ -1,0 +1,126 @@
+msgid "$Initially, the amount of noxious fumes emitted by the natural gas vents caught our team off-guard."
+msgstr "$Поначалу количество ядовитых испарений, выделяемых из отверстий с природным газом, застало нашу команду врасплох."
+
+msgid "$Thank goodness the medical team reacted as quickly as they did."
+msgstr "$Слава богу, медицинская бригада среагировала максимально оперативно."
+
+msgid "$Despite its failure, that first expedition did bring up some interesting observations about the Barrens."
+msgstr "$Несмотря на неудачу, первая экспедиция раздобыла кое-какую полезную информацию насчёт Пустоши."
+
+msgid "$We found that there's not one, but two such vent zones."
+msgstr "$Мы узнали, что там не одна, а две зоны с такими отверстиями."
+
+msgid "$With fumes being pumped out at such high concentrations..."
+msgstr "$И испарения оттуда выделяются в невероятных концентрациях..."
+
+msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
+msgstr "$Просто чудо, что газ не распространился повсюду."
+
+msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
+msgstr "$Наши биологи сделали вывод, что фосфорные креветки в кратерах активно потребляли газ."
+
+msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
+msgstr "$Креветки в океане также не дают газу распространяться по Долине."
+
+msgid "$If that's the case, then we owe a lot to these little guys!"
+msgstr "$Если это в самом деле так, мы многим обязаны этим малышам!"
+
+msgid "@niko_speak So...\\.\\. we're filling up the syringe, \\p?"
+msgstr "@niko_speak Значит...\\.\\. наполним этот шприц, \\p?"
+
+msgid "@niko I guess it's kind of like a funnel..."
+msgstr "@niko Это похоже на воронку..."
+
+msgid "@niko But the liquid might be a bit too thick to fit in the needle..."
+msgstr "@niko Возможно, жидкость слишком густая, чтобы войти в иглу..."
+
+msgid "@niko Hey, it actually went in!"
+msgstr "@niko О, получилось!"
+
+msgid "@niko_eyeclosed Gross."
+msgstr "@niko_eyeclosed Гадость."
+
+msgid "@niko You want me to fill the bottle with this stuff, \\p?"
+msgstr "@niko \\p, ты хочешь, чтобы я наполнил бутылку этой штукой?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed It's too goopy to fit in the bottle opening..."
+msgstr "@niko_eyeclosed Она слишком вязкая, не пройдёт в горлышко бутылки..."
+
+msgid "@niko It's like that one time years ago when I tried to put tomato chowder in a baby bottle..."
+msgstr "@niko Как-то давно я пытался налить помидорную похлёбку в детскую бутылочку..."
+
+msgid "@niko_speak ...and then it got everywhere!"
+msgstr "@niko_speak И она всё перепачкала!"
+
+msgid "@niko_eyeclosed On the table, on my clothes, on the baby, on the baby's clothes..."
+msgstr "@niko_eyeclosed Стол, мою одежду, ребёнка, одежду ребёнка..."
+
+msgid "@niko The grown-ups thought it was hilarious.\\> \\@niko_eyeclosed They took a bunch of pictures."
+msgstr "@niko Взрослые решили, что это ужасно забавно.\\> \\@niko_eyeclosed И сделали кучу фотографий."
+
+msgid "@niko_speak And then they taught me how to use funnels!"
+msgstr "@niko_speak А потом научили меня пользоваться воронкой!"
+
+msgid "@niko_eyeclosed And then they also told me I shouldn't try to babysit until I'm older."
+msgstr "@niko_eyeclosed А ещё сказали, что мне не стоит нянчиться с детьми, пока не подрасту."
+
+msgid "@niko ...anyway we should probably look for a funnel or something!"
+msgstr "@niko Думаю, нам стоит поискать воронку или что-то похожее!"
+
+msgid "@niko Alright... lemme just take out the cork, and..."
+msgstr "@niko Хорошо... Дай-ка я достану пробку..."
+
+msgid "@niko_eyeclosed ...all the smoke escaped."
+msgstr "@niko_eyeclosed Дым выветрился..."
+
+msgid "@niko_speak There's already some of this stuff in the bottle, \\p!"
+msgstr "@niko_speak В бутылке уже есть эта штука, \\p!"
+
+msgid "@niko This pond sure looks different..."
+msgstr "@niko Этот пруд выглядит по-другому..."
+
+msgid "@niko The water looks like... jelly?"
+msgstr "@niko Вода похожа на... желе?"
+
+msgid "@niko It's formed a bubble over the surface of the pond."
+msgstr "@niko А на поверхности вздулся целый пузырь."
+
+msgid "@niko I guess you want me to fill the bottle with this gas, \\p?"
+msgstr "@niko Ты хочешь, чтобы я наполнил бутылку газом, \\p?"
+
+msgid "@niko That oughta do it."
+msgstr "@niko Готово."
+
+msgid "@niko This bottle is already full of this smoke!"
+msgstr "@niko В бутылке уже полно этого дыма!"
+
+msgid "@niko Alright lemme just...\\> turn this bottle upside down..."
+msgstr "@niko Ладно, сейчас я просто...\\> переверну бутылку дном вверх..."
+
+msgid "@niko_eyeclosed ...aaaaand there goes the pond water."
+msgstr "@niko_eyeclosed ...И-и-и-и прощай, вода из пруда."
+
+msgid "@niko But at least we have this smoke..."
+msgstr "@niko Но у нас хотя бы есть этот дым..."
+
+msgid "@niko_speak This vent is on the ground!"
+msgstr "@niko_speak Это отверстие — в земле!"
+
+msgid "@niko All the others are taller than me."
+msgstr "@niko Все другие выше меня."
+
+msgid "[THE SKY IS DARK.]"
+msgstr "[НЕБО ТЁМНОЕ.]"
+
+msgid "@niko That it is."
+msgstr "@niko Это точно."
+
+msgid "[DO YOU KNOW WHEN THE SUN WILL BE BACK UP?]"
+msgstr "[ВЫ НЕ ЗНАЕТЕ, КОГДА ВЕРНЁТСЯ СОЛНЦЕ?]"
+
+msgid "@niko_speak We're working on it!"
+msgstr "@niko_speak Мы делаем всё, что в наших силах!"
+

@@ -1,0 +1,33 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るいね。"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko ホタルが数匹、ビンの中で飛び回ってる。"
+
+msgid "Don't be afraid to ask if you guys want some stew!"
+msgstr "シチューが食べたくなったら\n遠慮せずに言ってね！"
+
+msgid "@alula_speak Thank you!"
+msgstr "@alula_speak ありがと！"
+
+msgid "Don't be afraid to ask if you want some stew!"
+msgstr "シチューが食べたくなったら\n遠慮せずに言ってね！"
+
+msgid "It's not ready yet, but...\\nWould you kids like some stew?"
+msgstr "まだ完成してないけど…\\n君たち、シチューを食べない？"
+
+msgid "@niko_speak I'm not hungry...\\nBut thank you!"
+msgstr "@niko_speak お腹空いてないんだ…\\nでも、ありがとう！"
+
+msgid "@alula Same!"
+msgstr "@alula あたしもー！"
+
+msgid "Well, don't be afraid to ask when you do get hungry!"
+msgstr "お腹が減ったら遠慮せずに言ってね！"
+
+msgid "It's not ready yet, but...\\nWould you like some stew?"
+msgstr "まだ完成してないけど…\\nシチューを食べない？"
+
+msgid "It's the least I can offer the savior!"
+msgstr "救世主さんに、せめてこれぐらいは\nさせてちょうだい！"
+

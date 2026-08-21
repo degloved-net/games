@@ -1,0 +1,87 @@
+msgid "@niko_speak Wow...."
+msgstr "@niko_speak Ух ты..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko I've... actually never been to a big city before!"
+msgstr "@niko Раньше я никогда не был в большом городе!"
+
+msgid "@niko All these lights... all these people..."
+msgstr "@niko Тут столько огней... столько людей..."
+
+msgid "@niko I guess most of this world's population lives here..."
+msgstr "@niko Думаю, большая часть населения этого мира живёт здесь..."
+
+msgid "@niko It's very different from my village."
+msgstr "@niko Город очень отличается от моей деревни."
+
+msgid "@niko_speak The village is very small, and surrounded by huge fields!"
+msgstr "@niko_speak Деревня маленькая и окружена огромными полями!"
+
+msgid "@niko You saw a bit of that in one of my dreams from a while ago..."
+msgstr "@niko Кое-что ты, наверное, помнишь из моих снов..."
+
+msgid "@niko_speak The tallest buildings in our village are only two stories tall!"
+msgstr "@niko_speak В самых высоких зданиях в нашей деревне всего два этажа!"
+
+msgid "@niko_speak What about you, \\p?"
+msgstr "@niko_speak Как насчёт тебя, \\p?"
+
+msgid "@niko Where do you live?"
+msgstr "@niko Где ты живёшь?"
+
+msgid "[\"A city\", \"A village\", \"Someplace else\"]"
+msgstr "[\"В городе.\",\"В деревне.\",\"Кое-где ещё.\"]"
+
+msgid "@niko_speak A city? Like this?"
+msgstr "@niko_speak В городе? Как этот?"
+
+msgid "@niko Wow...."
+msgstr "@niko Ничего себе..."
+
+msgid "@niko_eyeclosed I can't imagine living in a city..."
+msgstr "@niko_eyeclosed Не могу представить, каково это — жить в городе..."
+
+msgid "@niko_speak Must be exciting!"
+msgstr "@niko_speak Наверное, очень интересно!"
+
+msgid "@niko_eyeclosed ...And... kinda scary..."
+msgstr "@niko_eyeclosed И страшновато..."
+
+msgid "@niko The view is nice, though!"
+msgstr "@niko Зато вид хороший!"
+
+msgid "@niko A village?"
+msgstr "@niko В деревне?"
+
+msgid "@niko_speak Just like me!"
+msgstr "@niko_speak Прямо как я!"
+
+msgid "@niko Can you imagine living in a city like this?"
+msgstr "@niko Ты можешь себе представить, каково это — жить в таком городе?"
+
+msgid "@niko_eyeclosed I can't..."
+msgstr "@niko_eyeclosed Я не могу..."
+
+msgid "@niko_eyeclosed ...It's... kinda scary...."
+msgstr "@niko_eyeclosed По-моему, страшновато..."
+
+msgid "@niko_speak But also really cool!"
+msgstr "@niko_speak Но и наверняка очень круто!"
+
+msgid "@niko_speak Something that isn't a city or village?"
+msgstr "@niko_speak Не в городе и не в деревне?"
+
+msgid "@niko ...."
+msgstr "@niko ..."
+
+msgid "@niko_speak Like a ship?"
+msgstr "@niko_speak На корабле?"
+
+msgid "@niko_eyeclosed ...Well, maybe not a ship..."
+msgstr "@niko_eyeclosed ...Конечно, может, и не на корабле..."
+
+msgid "@niko Can you imagine living in a city like this, though?"
+msgstr "@niko А ты можешь себе представить, каково это — жить в таком городе?"
+

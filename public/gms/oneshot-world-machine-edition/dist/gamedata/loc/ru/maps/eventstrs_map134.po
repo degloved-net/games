@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko Плёнка закончилась..."
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ...\\>\\nДумаю, это была неправильная комбинация, \\p."
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ...\\>\\nНе сработало."
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak Э... Сыр?"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf Ой, м-мои глаза..."
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak Это моё фото!"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko У меня всегда такие большие глаза?.."
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak Вот ещё одно моё фото!"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko Хорошая мысль, \\p. Никогда не помешает иметь запасной экземпляр."
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko Вот ещё одно моё фото..."
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak Трёх достаточно?"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c Это прикольно!"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko Это моё фото."
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak Хорошо получилось!"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak Ой!\\>\\n\\@niko_eyeclosed Тут я моргнул..."
+
+msgid "@niko Nice."
+msgstr "@niko Неплохо."
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak Все они хорошо получились!"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak Сколько нам их нужно, \\p?"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko Это моё фото..."
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed И в камере теперь нет плёнки..."
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko Здесь есть отверстие.\\>\\nНаверное, отсюда выходит бумага или что-то в этом роде."
+

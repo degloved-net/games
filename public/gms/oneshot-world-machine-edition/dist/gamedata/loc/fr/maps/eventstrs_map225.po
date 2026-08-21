@@ -1,0 +1,330 @@
+msgid "@rue_sigh You know... \\.\\.This is the tallest building in the refuge."
+msgstr "@rue_sigh Tu sais... \\.\\.c'est le plus grand bâtiment du refuge."
+
+msgid "@rue It's...\\.\\. my favorite place in this world."
+msgstr "@rue C'est... \\.\\.mon endroit préféré, dans ce monde."
+
+msgid "@rue I liked to look at the far-off buildings and imagine...\\.\\. what kind of lives that might be behind each of the windows."
+msgstr "@rue J'ai toujours aimé observer les immeubles au loin et m'imaginer...\\.\\. quel genre de vies se cachaient derrière ces fenêtres."
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ..."
+
+msgid "@rue_talk ...Can you...\\.\\. lift me onto the banister?"
+msgstr "@rue_talk ... Tu peux...\\.\\. me hisser sur la rampe ?"
+
+msgid "@rue I want to get a better look."
+msgstr "@rue J'aimerais avoir une meilleure vue."
+
+msgid "@rue_sad It was depressing for me at first too, you know..."
+msgstr "@rue_sad Moi aussi, au début, ça m'a fait déprimer, tu sais..."
+
+msgid "@rue Knowing that all of this is...\\.\\. well..."
+msgstr "@rue De savoir que tout était...\\.\\. disons..."
+
+msgid "@niko_upset2 ...fake?"
+msgstr "@niko_upset2 ... Faux?"
+
+msgid "@rue_sigh Simulated."
+msgstr "@rue_sigh Simulé."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko3 ...Cedric... told me about what happened to your old world."
+msgstr "@niko3 ... Cedric... m'a raconté ce qui était arrivé à ton ancien monde."
+
+msgid "@rue_talk Did he?"
+msgstr "@rue_talk Vraiment ?"
+
+msgid "@niko_eyeclosed I'm... really sorry about that...\\> \\@niko_upset I can't imagine...\\.\\. how you must feel..."
+msgstr "@niko_eyeclosed Ça... me rend très triste... \\> \\@niko_upset Je n'ose même pas imaginer... \\.\\.ce que tu dois ressentir..."
+
+msgid "@rue_sad The feeling of never being able to go home again...?"
+msgstr "@rue_sad Ce sentiment de ne jamais pouvoir rentrer chez soi... ?"
+
+msgid "@rue That's... \\.\\.probably not all that different from your plight, is it?"
+msgstr "@rue Ce n'est... \\.\\.probablement pas si différent de ta situation, si ?"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ..."
+
+msgid "@rue_sad ...it really IS ironic."
+msgstr "@rue_sad ... Quelle ironie."
+
+msgid "@rue You are prevented from going home by the same...\\.\\. individual...\\.\\. who never wanted to bring you here."
+msgstr "@rue Ce même...\\.\\. individu...\\.\\. qui ne voulait pas que tu viennes ici, refuse de te laisser rentrer chez toi."
+
+msgid "@niko3 ...Huh?\\> Who would that be?"
+msgstr "@niko3 ... Hein ?\\> De qui tu parles ?"
+
+msgid "@rue The World Machine."
+msgstr "@rue La Machine-monde."
+
+msgid "@rue_talk You... might know it as the Entity."
+msgstr "@rue_talk Tu... la connais probablement sous le nom d'Entité."
+
+msgid "@niko2 Oh..."
+msgstr "@niko2 Oh..."
+
+msgid "@niko_eyeclosed \"The Entity\"... DOES sound familiar."
+msgstr "@niko_eyeclosed « L'Entité »... ça me dit quelque chose."
+
+msgid "@niko2 I think I heard it from the dice lady, from another time."
+msgstr "@niko2 Je crois que la dame aux dés en a parlé, dans une autre période."
+
+msgid "@niko3 Was it... the spirit of the world?"
+msgstr "@niko3 Est-ce que... c'était l'esprit du monde ?"
+
+msgid "@rue_smile Yes!"
+msgstr "@rue_smile Oui !"
+
+msgid "@rue ...."
+msgstr "@rue ...."
+
+msgid "@rue ...But... thing is...\\>\\n\\@rue_sigh The World Machine was only built to run on the mental abilities of someone else."
+msgstr "@rue ... Mais... le truc c'est que... \\>\\n\\@rue_sigh la Machine-monde a été construite pour fonctionner sur les capacités mentales de quelqu'un d'autre."
+
+msgid "@rue_talk It was never meant to develop a mind of its own."
+msgstr "@rue_talk Elle n'était pas censée développer sa propre conscience."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@rue_sigh It was an oversight."
+msgstr "@rue_sigh C'était une erreur."
+
+msgid "@rue_sad My creator specialized in artificial intelligence for so long... \\>\\nIt was simply ingrained in his work."
+msgstr "@rue_sad Mon créateur est spécialisé dans l'intelligence artificielle, depuis si longtemps... \\>\\nC'était l'essence même de son travail."
+
+msgid "@rue_sigh ...sigh."
+msgstr "@rue_sigh ... *Soupir*."
+
+msgid "@rue And... all machines are built with a fundamental law. \"Never let a living being come to harm\"."
+msgstr "@rue Et... toutes les machines suivent une loi fondamentale. « Empêcher tout être vivant d'être exposé au danger. »"
+
+msgid "@rue From the World Machine's perspective, it has to violate its deepest, most foundational instinct."
+msgstr "@rue De son point de vue, la Machine-monde doit violer son instinct le plus basique."
+
+msgid "@rue_sigh It has to put a living person in danger."
+msgstr "@rue_sigh Elle doit mettre un être vivant en danger."
+
+msgid "@rue_sigh It has to bring a real person into a dying world that isn't even real."
+msgstr "@rue_sigh Elle doit faire venir une vraie personne dans un monde sur le déclin et qui n'est même pas réel."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@rue ...Of course, the simulation never contained any real danger."
+msgstr "@rue ... Bien sûr, la simulation n'a jamais présenté le moindre danger."
+
+msgid "@rue_talk The eventual, intended ending was meant to be a happy one."
+msgstr "@rue_talk La fin planifiée était censée être une fin heureuse."
+
+msgid "@rue ...but the World Machine doesn't know that."
+msgstr "@rue ... Mais la Machine-monde ne le sait pas."
+
+msgid "@niko3 ...really?"
+msgstr "@niko3 ... Vraiment ?"
+
+msgid "@rue_sad Unfortunately..."
+msgstr "@rue_sad Malheureusement..."
+
+msgid "@rue Sentient machines tend to handle conflicts in their code very badly."
+msgstr "@rue Les machines conscientes ont tendance à avoir beaucoup de mal à gérer les conflits de leur code."
+
+msgid "@rue_sad This central conflict triggered a self-destructive downward spiral."
+msgstr "@rue_sad Ce conflit central a déclenché une spirale infernale autodestructrice."
+
+msgid "@rue_sigh You can see physical manifestations of that everywhere, now..."
+msgstr "@rue_sigh On peut en observer les manifestations concrètes tout autour de nous..."
+
+msgid "@niko4 The squares..."
+msgstr "@niko4 Les carrés..."
+
+msgid "@rue That's the World Machine corrupting its own code."
+msgstr "@rue C'est la Machine-monde qui altère son propre code."
+
+msgid "@rue_talk ...My creator says it's largely an involuntary process, induced by stress and the desire to self-terminate."
+msgstr "@rue_talk ... D'après mon créateur, c'est un processus involontaire résultant du stress et d'un désir d'autodestruction."
+
+msgid "@niko3 Your creator knows?"
+msgstr "@niko3 Ton créateur est au courant ?"
+
+msgid "@niko4 Sounds like this has been going on since the beginning, then..."
+msgstr "@niko4 Alors cela existe depuis le début, si je comprends bien..."
+
+msgid "@rue_sigh Yeah."
+msgstr "@rue_sigh Oui."
+
+msgid "@rue_talk The disruption was an issue during test runs, even."
+msgstr "@rue_talk La perturbation posait déjà problème pendant les phases de test."
+
+msgid "@rue At first, my creator thought the instability was due to the sheer scope of the project."
+msgstr "@rue Au début, mon créateur pensait que l'instabilité était due à l'ampleur du projet."
+
+msgid "@rue He spent most of his remaining time testing it over and over again, scaling down the story, reiterating the narrative..."
+msgstr "@rue Il passa le temps qui lui restait à réaliser des tests, encore et encore, réduisant l'ampleur de l'histoire, répétant la narration..."
+
+msgid "@rue_sad ...by the time he realized the actual root of the problem, our home world's remaining lifespan was measured in mere days."
+msgstr "@rue_sad ... Quand il a enfin découvert la source du problème, la durée de vie de notre monde natal n'était plus que de quelques jours."
+
+msgid "@niko4 ...Oh."
+msgstr "@niko4 ... Oh."
+
+msgid "@niko3 ...is there....\\.\\. any way for us to..."
+msgstr "@niko3 ... N'y a-t-il...\\.\\. aucun moyen de..."
+
+msgid "@rue_talk ...fix the World Machine? \\>\\n\\@rue_sad We tried."
+msgstr "@rue_talk ... Réparer la Machine-monde ? \\>\\n\\@rue_sad Nous avons essayé."
+
+msgid "@rue_sad The World Machine doesn't believe any of the world's residents are real."
+msgstr "@rue_sad La Machine-monde est convaincue que les habitants de ce monde ne sont pas réels."
+
+msgid "@rue ...myself included."
+msgstr "@rue ... Moi y compris."
+
+msgid "@rue_sad The odds are against us... we have no chance of taming it."
+msgstr "@rue_sad Nous n'avons aucune chance de l'apprivoiser..."
+
+msgid "@niko2 Taming?"
+msgstr "@niko2 L'apprivoiser ?"
+
+msgid "@niko_eyeclosed I have heard that word SO many times!"
+msgstr "@niko_eyeclosed J'ai entendu ce mot TANT de fois !"
+
+msgid "@niko5 I only know it's complicated \\.\\.\\n\\@niko6 ...and that it has to do with robots, but..."
+msgstr "@niko5 Je sais juste que c'est compliqué \\.\\.\\n\\@niko6 ... Et que ça a un rapport avec les robots, mais..."
+
+msgid "@niko2 ...for once, I want to know what it really means."
+msgstr "@niko2 ... Cette fois, j'aimerais connaître sa signification exacte."
+
+msgid "@rue_smile ...that's what I'm here for."
+msgstr "@rue_smile ... C'est pour ça que je suis là."
+
+msgid "@rue Do you...\\.\\. know what a robot is?"
+msgstr "@rue Est-ce que... \\.\\.tu sais ce qu'est un robot ?"
+
+msgid "@niko Yeah?"
+msgstr "@niko Oui."
+
+msgid "@rue No, I mean. \\>\\nDo you KNOW what a robot is?"
+msgstr "@rue Non, enfin... \\>\\nest-ce que tu SAIS ce qu'est un robot ?"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 ... Hum."
+
+msgid "@rue A robot is not a real person, is it?"
+msgstr "@rue Un robot n'est pas une vraie personne, on est d'accord ?"
+
+msgid "@niko2 ...right."
+msgstr "@niko2 ... Oui."
+
+msgid "@rue It's a being whose entire existence is code."
+msgstr "@rue C'est un être dont toute l'existence repose sur le code."
+
+msgid "@rue_talk Inflexible programming, with thoughts dictated by someone else's design."
+msgstr "@rue_talk Une programmation inflexible aux pensées dictées par son créateur."
+
+msgid "@rue They can be copied, they can be mass produced, then can be assigned all sorts of jobs."
+msgstr "@rue On peut les copier, les produire en masse, et puis leur assigner toutes sortes de tâches."
+
+msgid "@rue ...And most importantly... they will never confuse themselves with the living."
+msgstr "@rue ... Et surtout... ils ne se prendront jamais pour des êtres vivants."
+
+msgid "@rue They will always be bound by their code, the knowledge that they are a robot."
+msgstr "@rue Ils seront toujours soumis à leur code, qui leur rappelle leur état de simple robot."
+
+msgid "@rue ...but this was more of a limitation than anything else."
+msgstr "@rue ... Mais ceci était plus une limite qu'autre chose."
+
+msgid "@niko_eyeclosed Ah, that makes sense."
+msgstr "@niko_eyeclosed Ah, je comprends mieux."
+
+msgid "@niko2 You can't... really build a robot to not follow its own code, can you?"
+msgstr "@niko2 C'est impossible de... construire un robot qui ne suit pas son propre code, si ?"
+
+msgid "@rue_sigh People have tried, but it's a recipe for disaster."
+msgstr "@rue_sigh Des gens ont essayé, mais cela fut un désastre."
+
+msgid "@rue In a way, that's what happened to The World Machine."
+msgstr "@rue C'est ce qui est arrivé à la Machine-monde, en quelque sorte."
+
+msgid "@niko The... code conflicts thing?"
+msgstr "@niko Ces... histoires de conflits de code ?"
+
+msgid "@rue But, while you can't BUILD a robot to not follow its code..."
+msgstr "@rue Mais, s'il est impossible de CONSTRUIRE un robot qui ne suit pas son code..."
+
+msgid "@rue_talk You can establish a special bond with it."
+msgstr "@rue_talk On peut tout de même établir un lien particulier avec lui."
+
+msgid "@rue If the strength of that bond is strong enough..."
+msgstr "@rue Si ce lien est assez robuste..."
+
+msgid "@rue ...the robot's mental capacity will start to develop outside of its programming."
+msgstr "@rue ... Ses capacités mentales finissent par s'affranchir des limites de sa programmation."
+
+msgid "@rue_smile In a way, it's starting to believe itself as a \"real\", valid individual."
+msgstr "@rue_smile Disons qu'il finit par se considérer comme une « vraie » personne."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@rue It's a complete suspension of disbelief on your end, though."
+msgstr "@rue Cela signifie qu'il faut que nous arrêtions d'être sceptique."
+
+msgid "@rue_talk You have to fully embrace the robot as a genuine, living person, even knowing they are not..."
+msgstr "@rue_talk Il faut considérer le robot comme une personne réelle, même si on sait que ce n'est pas le cas..."
+
+msgid "@rue You need to spend a lot time with it... treat it like a good friend..."
+msgstr "@rue Il faut passer beaucoup de temps avec lui... le traiter comme un bon ami..."
+
+msgid "@rue Devoting your heart to the robot until it is able to return your feelings."
+msgstr "@rue Se dévouer corps et âme pour le robot jusqu'à ce qu'il soit capable de ressentir la même chose pour nous."
+
+msgid "@rue_smile ...haha... I make it sound so easy, don't I?"
+msgstr "@rue_smile ... Haha... ça a l'air facile dit comme ça, non ?"
+
+msgid "@rue But you and \\p know better than anyone that it's not."
+msgstr "@rue Mais \\p et toi savez mieux que quiconque que ce n'est pas le cas."
+
+msgid "@rue_sad Right now, the World Machine is probably really, really scared."
+msgstr "@rue_sad En ce moment, la Machine-monde est probablement terrifiée."
+
+msgid "@rue_sad This content update... involved some pretty deep codework."
+msgstr "@rue_sad Cette mise à jour de contenu... a nécessité un travail de codage important."
+
+msgid "@rue_talk My creator was able to access some of the source code, you know..."
+msgstr "@rue_talk Mon créateur a pu accéder à une partie du code source, tu sais..."
+
+msgid "@rue He did what he could and established new connections between maps."
+msgstr "@rue Il a fait ce qu'il a pu et a établi de nouvelles connexions entre les cartes."
+
+msgid "@rue_smile Those links enabled you to meet the other two."
+msgstr "@rue_smile Ces connexions t'ont permis de rencontrer les deux autres."
+
+msgid "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
+msgstr "@rue_sad Mais il s'avère que la Machine-monde a tellement été embrouillée par le nouveau code qu'elle en est tombée en panne."
+
+msgid "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
+msgstr "@rue Même si la Machine-monde a toujours eu des tendances autodestructrices, en général, elle se maîtrise lorsque tu es dans le monde."
+
+msgid "@rue_sad It doesn't want to take you along with it."
+msgstr "@rue_sad Elle ne veut pas t'emmener avec elle."
+
+msgid "@rue_sad ...All my creator wanted was to write a happy ending."
+msgstr "@rue_sad ... Tout ce que souhaitait mon créateur c'était d'écrire une fin heureuse."
+
+msgid "@rue Right now, the only hope of saving you is to take you through that ending."
+msgstr "@rue Pour l'instant, notre seul espoir pour te sauver, c'est de t'amener jusqu'à la fin."
+
+msgid "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
+msgstr "@rue_sad Mais maintenant que les deux autres sont partis...\\>\\nJe ne sais même pas COMMENT on va pouvoir t'y amener."
+
+msgid "@rue ...we should go."
+msgstr "@rue ... On devrait y aller."
+
+msgid "@rue_sad Even this place is no longer safe."
+msgstr "@rue_sad Même ce lieu n'est plus en sécurité."
+

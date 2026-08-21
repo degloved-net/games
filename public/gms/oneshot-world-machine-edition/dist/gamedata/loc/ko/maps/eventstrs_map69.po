@@ -1,0 +1,36 @@
+msgid "@niko A robot sitting on the conveyor belt."
+msgstr "@niko 로봇이 컨베이어 벨트 위에 앉아 있어요."
+
+msgid "@niko_eyeclosed Doesn't seem to have power."
+msgstr "@niko_eyeclosed 동력이 없는 것 같아요."
+
+msgid "[OH. HELLO.]"
+msgstr "[오, 안녕하세요.]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 안녕하세요!"
+
+msgid "[I HAVE POWER AGAIN.]"
+msgstr "[동력이 돌아왔군요.]"
+
+msgid "@niko Yup!"
+msgstr "@niko 맞아요!"
+
+msgid "@niko A robot."
+msgstr "@niko 로봇이에요."
+
+msgid "@niko It seems to be ok! Just doesn't have power."
+msgstr "@niko 이건 멀쩡해 보여요! 동력이 없을 뿐이죠."
+
+msgid "[HELLO. ORGANIC LIFE FORM.]"
+msgstr "[안녕하세요, 생물님.]"
+
+msgid "@niko Hello!"
+msgstr "@niko 안녕하세요!"
+
+msgid "@niko A big machine..."
+msgstr "@niko 커다란 기계예요..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko 금속을 으스러뜨릴 때 쓰는 기계 같아요."
+

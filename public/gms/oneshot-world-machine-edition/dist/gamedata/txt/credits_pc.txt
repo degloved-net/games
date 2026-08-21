@@ -1,0 +1,267 @@
+﻿Credits
+=======
+
+Programming
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+Graphics
+--------
+
+* Nightmargin (Casey Gu)
+
+Character Design
+----------------
+
+* Nightmargin
+* Maize and George by Eliza
+
+Soundtrack
+----------
+
+* Nightmargin
+* Additional tracks by Eliza and Michael
+* Some music samples provided by the FreeSound.org users
+  Jovica, Dymewiz, hanstimm, and Freed
+
+Story
+-----
+
+* Mechanics Concept: Eliza
+* General Story and Worldbuilding: Nightmargin, Eliza
+* Writing: Nightmargin, Eliza, Michael
+* Writing (Friend Profiles): Taeler Dixon
+
+Penguin Contributors
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+Systems Programming
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+Producer (2016 release)
+-----------------------
+
+* Mark Conforti
+
+2016 Build Testers
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+Console build Testers
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+WALLPAPER CREDITS
+----------------
+
+Marina "Sylladexter" K
+* Maize
+* Secret RAM Club
+
+Missusruin
+* Library Stroll
+
+Saren Stone
+* Prophets
+
+Temmie Chang
+* Café
+
+T. C.
+* Outpost
+* Factory
+
+
+OneShot Console Version Translations
+------------------------------------
+
+French Translation
+* Mahmoud Khabatou
+
+French Proofreader
+* Mohamed Khabatou
+
+French LQA
+* Mahmoud Khabatou
+
+Spanish Translation
+* Edgar Rangel
+
+Spanish Proofreader
+* Sebastián Herrera
+
+Spanish LQA
+* Jair Casillas
+
+Korean Translation
+* So-jung Jung
+
+Korean Proofreading, LQA
+* Seo-Mi Ha
+
+Brazilian Portuguese Translation
+* Jay Ruas
+
+Brazilian Portuguese Proofreading, LQA
+* Karina Peixe
+* Jay Ruas
+
+Japanese Translation, LQA
+* Sakura Yamaguchi
+
+Japanese Proofreading
+* Yoshiki Kono
+
+Italian Translation
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+Italian Proofreading
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+Italian LQA
+* Giammaria Angeloni
+
+
+Resources
+---------
+
+* Volter (Goldfish) font is used for the pixel system font.
+* The font used for Latin text is Terminus. East-Asian text is rendered with the WenQuanYi Micro Hei font. The Jenna Sue and RM Typerighter fonts are used for additional graphical text. See the \[licenses section\] for details.
+* HigashiOme-Gothic is the font used for Japanese.
+* Noto Sans and Noto Sans JP are used as backup fonts for special characters.
+* FreeSound.org samples provided by the users...
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* \[Bfxr\] (http://www.bfxr.net/) was used in the generation of additional sound effects.
+* Textures used on the map and the door are from \[wildtextures\] (http://www.wildtextures.com/). Additional resources were used from Textures.com.
+* Devin Elle Kurtz (texture brushes)
+* Dalton Maag LtD (Aller Display font)
+
+Additional Thanks
+-----------------
+
+* Saniblues: testing and feedback
+* Redoplus: testing and feedback
+* Almond-Goddess: testing and feedback
+* FelixTheJudge: music feedback
+* Albatrosssoup: music feedback
+* Sauraen: music feedback
+* Stanhoff: physics consultant
+* Kalkie: cameo character
+* Kitsiinabox: cameo character
+* Noxid: for being Noxid
+* The testers of the original *OneShot*:
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* Everyone who supported us since the original release.
+* You!
+
+Licenses
+--------
+
+Made with FMOD Studio by Firelight Technologies Pty Ltd.
+(https://www.fmod.com/attribution)
+
+The sounds used in the game from FreeSound.org are each licensed under one of the following licenses:
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/)
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/)
+
+Terminus is licensed under the \[Open Font License\] (http://scripts.sil.org/OFL).
+
+Noto Sans and Noto Sans JP are licensed under the \[Open Font License\] (http://scripts.sil.org/OFL).
+
+HigashiOme Gothic is licensed under the \[SIL Open Font License\] (https://scripts.sil.org/OFL_web).
+
+Jenna Sue is licensed and paid for. (http://www.jennasuedesign.com/)
+
+RM Typerighter is licensed under the \[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/).
+
+The FontStruction "Thirteen Pixel Fonts" (http://fontstruct.com/fontstructions/show/761985) by "30100flo" is licensed under a Creative Commons Attribution Share Alike license (http://creativecommons.org/licenses/by-sa/3.0/).
+
+WenQuanYi Micro Hei is dual-licensed under \[Apache License 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0) or \[GNU General Public License v3\] (http://www.gnu.org/copyleft/gpl.html) with font embedding exceptions.
+
+The wildtextures resources are
+\[free for commercial use\] (http://www.wildtextures.com/terms-of-use/).
+
+The Textures.com terms of use can be found \[here\] (https://www.textures.com/about/terms-of-use).
+
+Uses Steamworks.NET under the MIT license.
+https://steamworks.github.io/

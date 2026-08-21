@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31]つ正解。]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][アクセス成功！]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][アクセス失敗。 テスト可能回数、残り\\v[37]回。]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][侵入者を検知しました。\nロック機構をリセットします。]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed はぁ…やり直さなきゃ…"
+
+msgid "[HALT!]"
+msgstr "[止まりなさい！]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[セキュリティーテストに関する\n次の指示をお待ちください。]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[ドアロボットに話しかけてください。]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko ロックが開いたよ！"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[セキュリティーシステムヲ\n一時的に解除しましタ。]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[リセットしますカ？]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed …またあれをやりたくはないかな…"
+
+msgid "@niko_what um..."
+msgstr "@niko_what あの…"
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko これって…どうやって解くの…"
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[それモ、テストの一部でス。]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed 残念。"
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[研究所ヘのアクセスをさらに得るにハ。]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[セキュリティーシステムテストニ\n合格しなければなりませんン。]"
+
+msgid "@niko The... huh?"
+msgstr "@niko セキュ…え？"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[光の色ヲ、特定の配列に\n変更しなければなりませン。]"
+
+msgid "[ALLOW ME.]"
+msgstr "[準備ニ取り掛かりまス。]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed ロックされてる。"
+

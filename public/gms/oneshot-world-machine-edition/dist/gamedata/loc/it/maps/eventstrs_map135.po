@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd Quindi......"
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd Ci incontriamo ancora."
+
+msgid "@niko Hello..."
+msgstr "@niko Ciao..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak Aspetta!"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko Ma tu non sei... del villaggio?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd Io? Sì. \\>I montoni elettrici? No. \\>\\nLoro sono ovunque... \\>\\nNel villaggio, in città..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd ...e anche...\\.\\. nel tuo cuore."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ...Ok."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd Lo alcolico preferito dello montone..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd ...è lo vino."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ...Non l'ho capita."
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd Ai montoni elettrici non piace essere sollevati..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ...ma adorano essere messi a terra."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ...Cosa?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd Se un ariete strappasse la vittoria a fine partita...\\> farebbe un rimontone."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed Non sto capendo niente di quel che dici."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd Umpf. Niente più battute allora."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd C'è poco da farci...\\n\\>\\@shepherd ...mi rendo conto che non erano molto beeeeelle."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c Questa l'ho capita!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what Ahi!"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd Occhio, se infastidisci un montone elettrico..."
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd ...potrebbe montare su tutte le furie."
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed Ehi, non farmi \"bee\"..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed Anch'io sono... felice di vederti..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak Questo montone non reagisce..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko E qualcuno ha scritto sul suo vello..."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd Quello è un tipo strano. Sta fermo e si fa scrivere addosso perché..."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd ...crede di essere cartapecora."
+
+msgid "@niko I... see..."
+msgstr "@niko Capisco..."
+
+msgid "@niko An electric kettle."
+msgstr "@niko Un bollitore elettrico."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko Sembra che ci sia acqua bollente."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd Oh, s'è fatta una certa."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd Ti andrebbe una bella tazza di..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.arietè?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed ...Passo..."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd Ora che ci penso, mi sa che abbiamo finito le bustine."
+

@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 반딧불이 방을 밝히고 있어요."
+
+msgid "Squares are bad news, man. \\>\\nStay away from 'em, kids!"
+msgstr "사각형들은 좋지 않아.\\>\\n절대 가까이 가면 안 돼. 알겠지?"
+
+msgid "@alula We will!"
+msgstr "@alula 그럴게!"
+
+msgid "Stay away from the squares, okay?"
+msgstr "사각형에 가까이 가면 안 돼. 알겠지?"
+
+msgid "@niko Mhm!"
+msgstr "@niko 네!"
+
+msgid "Last week, I saw more of those squares while out fishing."
+msgstr "지난주에 낚시를 하다가 또 사각형을 봤어."
+
+msgid "I knew better than to get too close, though."
+msgstr "하지만 난 바보가 아니니 가까이 가지 않았지."
+
+msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
+msgstr "@alula_oh 아! \\>\\@alula_pout 문에 있던 그거네..."
+
+msgid "Oh, so you saw it too, huh..."
+msgstr "아, 너도 그걸 봤구나..."
+
+msgid "@alula_oh Yeah! \\>\\@alula_pout My brother told me not to touch those!"
+msgstr "@alula_oh 응! \\>\\@alula_pout 오빠가 저거 건드리지 말라고 했거든!"
+
+msgid "Yeup. He gets it."
+msgstr "그래, 그 말이 맞아."
+
+msgid "@niko Squares?"
+msgstr "@niko 사각형이요?"
+
+msgid "Squares, man.\\nThey're bad news."
+msgstr "그래. 사각형.\\n그것들은 좋지 않거든."
+

@@ -1,0 +1,159 @@
+msgid "@rue We will meet again."
+msgstr "@rue Мы ещё встретимся."
+
+msgid "@niko ...?"
+msgstr "@niko ...?"
+
+msgid "@rue_talk So you found a way back after all."
+msgstr "@rue_talk Значит, ты всё же нашёл дорогу назад."
+
+msgid "@niko_speak Eh? \\>\\n\\@niko But I've never been here before..."
+msgstr "@niko_speak Что? \\>\\n\\@niko Но я тут раньше никогда не был..."
+
+msgid "@rue That means..."
+msgstr "@rue Это значит..."
+
+msgid "@rue ..."
+msgstr "@rue ..."
+
+msgid "@rue_talk Have you... met the others?"
+msgstr "@rue_talk Ты... встречался с остальными?"
+
+msgid "@niko2 ...others? \\>\\n\\@niko2 You're the only fox I've seen..."
+msgstr "@niko2 Остальными?.. \\>\\n\\@niko2 Ты единственная лиса, которую я видел..."
+
+msgid "@niko_speak Wait! There's that one plush in Calamus and Alula's house, right \\p?"
+msgstr "@niko_speak Погоди-ка! В доме Каламуса и Алулы есть одна лиса, верно, \\p?"
+
+msgid "@rue_sad Sigh."
+msgstr "@rue_sad Эх."
+
+msgid "@rue It's not time."
+msgstr "@rue Сейчас не время."
+
+msgid "@rue ...we will meet again."
+msgstr "@rue Мы ещё встретимся..."
+
+msgid "@rue_smile Hello, Niko."
+msgstr "@rue_smile Привет, Нико."
+
+msgid "@niko Hello..."
+msgstr "@niko Привет..."
+
+msgid "@rue ...oh?"
+msgstr "@rue О?"
+
+msgid "@rue_talk You're back again..."
+msgstr "@rue_talk Ты вернулся..."
+
+msgid "@rue But... \\.\\.\\@rue_sad I said it was not time..."
+msgstr "@rue Но...\\.\\.\\@rue_sad Я же сказала, что сейчас не время..."
+
+msgid "@rue Are you here to keep me company, then?"
+msgstr "@rue Ты хочешь составить мне компанию?"
+
+msgid "@rue_smile Guess I can't refuse that."
+msgstr "@rue_smile От этого я отказаться не могу."
+
+msgid "@rue ...I am Rue."
+msgstr "@rue Меня зовут Рута."
+
+msgid "@rue_sad You will probably not remember my name in a while.\\.\\.\\n\\@rue_smile ...But I would still like to know yours."
+msgstr "@rue_sad Через некоторое время ты и не вспомнишь моё имя.\\.\\.\\n\\@rue_smile Но я всё-таки хотела бы узнать твоё..."
+
+msgid "@niko I'm... \\.\\.not sure what you're talking about."
+msgstr "@niko Я... \\.\\.немного не понял, о чём ты."
+
+msgid "@niko_speak But my name is Niko!"
+msgstr "@niko_speak Но меня зовут Нико!"
+
+msgid "@rue ...Niko."
+msgstr "@rue Нико..."
+
+msgid "@rue_smile I shall remember that!"
+msgstr "@rue_smile Я запомню!"
+
+msgid "@rue_smile I'm glad you do not mind coming back."
+msgstr "@rue_smile Мне приятно, что ты вернулся."
+
+msgid "@rue_talk To be perfectly honest..."
+msgstr "@rue_talk Если уж совсем откровенно..."
+
+msgid "@rue_sad It may be this way for a while, actually."
+msgstr "@rue_sad Наверное, так будет продолжаться некоторое время."
+
+msgid "@rue ...But in time, that will change."
+msgstr "@rue ...Но потом всё изменится."
+
+msgid "@niko2 The... sun?"
+msgstr "@niko2 Солнце?"
+
+msgid "@rue_smile \\p can see this, right?"
+msgstr "@rue_smile \\p это видит, да?"
+
+msgid "@niko ...yeah?"
+msgstr "@niko Да..."
+
+msgid "@rue_smile Then \\p will understand."
+msgstr "@rue_smile Тогда \\p поймёт."
+
+msgid "@rue_smile Oh, you're here!"
+msgstr "@rue_smile О, ты здесь!"
+
+msgid "@rue I was starting to miss you..."
+msgstr "@rue Я уже начала скучать..."
+
+msgid "@rue_smile ...Guess I got used to your company, after all."
+msgstr "@rue_smile ...Я уже привыкла к твоей компании."
+
+msgid "@niko2 ...pardon?"
+msgstr "@niko2 Прошу прощения?"
+
+msgid "@rue Do not worry. Carry on."
+msgstr "@rue Не волнуйся. Продолжай."
+
+msgid "@niko There's no one here..."
+msgstr "@niko Здесь никого нет..."
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko Это большое дерево с листьями!\\>\\nЯ не видел таких с тех пор, как здесь оказался..."
+
+msgid "@niko_speak Whoa!\\>\\n\\@niko \\p? Did you see that fox just now?"
+msgstr "@niko_speak Ух ты!\\>\\n\\@niko \\p? Это была лиса?"
+
+msgid "@niko_speak It just ran behind the tree..."
+msgstr "@niko_speak Она просто убежала за дерево..."
+
+msgid "@rue_dark ..."
+msgstr "@rue_dark ..."
+
+msgid "@rue_dark I'm sorry if you are looking for me."
+msgstr "@rue_dark Прости, если ты ищешь меня."
+
+msgid "@rue_dark But I cannot talk to you."
+msgstr "@rue_dark Но я не могу с тобой поговорить."
+
+msgid "@rue_dark Not now..."
+msgstr "@rue_dark Не сейчас..."
+
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "@rue_dark But... can you promise me something?"
+msgstr "@rue_dark Но... Ты можешь мне кое-что пообещать?"
+
+msgid "@niko Huh?"
+msgstr "@niko Что?"
+
+msgid "@rue_dark If... you can find a way to return..."
+msgstr "@rue_dark Если... ты найдёшь способ вернуться..."
+
+msgid "@rue_dark ...please do."
+msgstr "@rue_dark Прошу, сделай это..."
+
+msgid "@niko Er...\\.\\. \\@niko2 What... do you mean by that?"
+msgstr "@niko Э-э...\\.\\.\\@niko2 Что... ты имеешь в виду?"
+
+msgid "@niko ...\\>\\n\\@niko_eyeclosed No reply..."
+msgstr "@niko ...\\>\\n\\@niko_eyeclosed Нет ответа..."
+

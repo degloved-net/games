@@ -1,0 +1,27 @@
+msgid "@niko I want to press all of the buttons...\\>\\n\\@niko_eyeclosed But I must resist!"
+msgstr "@niko Quiero pulsar todos los botones...\\>\\n\\@niko_eyeclosed ¡pero debo resistirme!"
+
+msgid "@niko There sure are a lot of computers here...\\>\\nAnd they look important, too."
+msgstr "@niko Sí que hay ordenadores aquí...\\>\\nY también parecen importantes."
+
+msgid "Monitoring... monitoring...."
+msgstr "Inspeccionando... inspeccionando..."
+
+msgid "I'm picking up some more disruptions in sector 8 of the city."
+msgstr "Detecto algunas alteraciones más en el sector 8 de la ciudad."
+
+msgid "This is consistent with our earlier findings... not good at all..."
+msgstr "Esto concuerda con nuestras conclusiones anteriores... no es nada bueno..."
+
+msgid "The Barrens engineer just reported another sighting of the particles in the cliff area."
+msgstr "El ingeniero de los Baldíos acaba de informar de otro avistamiento de las partículas en la zona de los acantilados."
+
+msgid "...well, nothing unusal at this point."
+msgstr "... lo cual no es nada raro a estas alturas."
+
+msgid "Ugh, those squares particles just took out two of my robots in the Glen."
+msgstr "Puf, esas partículas cuadradas acabaron con dos de mis robots en el Valle."
+
+msgid "We might have to put off the water analysis project for now."
+msgstr "Puede que de momento tengamos que aplazar el proyecto sobre el análisis del agua."
+

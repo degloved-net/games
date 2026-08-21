@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko ホタルのおかげで部屋が明るいね。"
+
+msgid "@niko Looks like moss..."
+msgstr "@niko コケみたい…"
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak きっと、食べ物なんだね！"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "せめて、みんな太陽を\nもう一度見たいはずさ！"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak うん！"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "世界はゆっくりと崩壊しはじめてる。\\nまだ必死で生きようとしているが…"
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "だとしても…\nいつか、世界があきらめる日がくるだろう。"
+
+msgid "I just hope I'm not alive to see it."
+msgstr "その日が訪れるまで、長生きしたくはないね。"
+
+msgid "@alula But the savior is here!"
+msgstr "@alula でも、救世主さまがここにいるのよ！"
+
+msgid "That won't fix the root of the problem."
+msgstr "けれど、根本的な問題の解決にはならない。"
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko あのお姉さんが言ってたことと同じだ…"
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh えっ…お姉さん？"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak うん！ロボットなんだけど、\n何だか悲しそうだった…"
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout そっかあ…"
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "あっ！だが気を落とさないでくれよ。\\n太陽がなければ、\n世界はもっと早く滅びてしまうのだから。"
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "せめて…\\nきっとみんな、もう一度太陽を見たいはず。"
+
+msgid "Right, little one?"
+msgstr "そうだろう？"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak うん！"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak ミーが太陽を元の場所に戻すよ…"
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "だが気を落とさないでくれ！\\n太陽がなければ、\n世界はもっと早く滅びてしまうんだから。"
+

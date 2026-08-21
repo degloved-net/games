@@ -1,0 +1,30 @@
+msgid "@alula_speak Hey!"
+msgstr "@alula_speak 잠깐만!"
+
+msgid "@alula I saw you going to the courtyard!\\>\\n\\@alula_speak So I thought I'd tag along!"
+msgstr "@alula 네가 마당 쪽으로 가는 걸 봤어!\\>\\n\\@alula_speak 그래서 따라왔지!"
+
+msgid "@calamus_smile Same!"
+msgstr "@calamus_smile 나도야!"
+
+msgid "@alula This is the courtyard.\\>\\n\\@alula It's got water... and... stuff..."
+msgstr "@alula 여기가 마당이야.\\>\\n\\@alula 여기에는 물이랑... 이런저런 것이... 있지."
+
+msgid "@alula_oh Oh, are you leaving now?"
+msgstr "@alula_oh 아, 이제 가려고?"
+
+msgid "@alula_speak Good luck, Niko! \\>\\n\\@alula We believe in you!"
+msgstr "@alula_speak 행운을 빌어, 니코! \\>\\n\\@alula 우린 널 믿어!"
+
+msgid "@niko It's a ball."
+msgstr "@niko 공이에요."
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula 그건 내 거야!\\>\\n\\@alula_pout 예전처럼 잘 튀진 않지만..."
+
+msgid "@calamus There's an entrance to an underground passage here.\\>\\nIt's flooded, though."
+msgstr "@calamus 지하 통로로 가는 입구는 여기야.\\>\\n하지만 물이 들어찼어."
+
+msgid "@calamus_speak Oh, are you leaving now?\\>\\n\\@calamus_smile It was... nice, to meet you.\\>\\n\\@calamus Really. Thanks for everything."
+msgstr "@calamus_speak 아, 이제 가려고?\\>\\n\\@calamus_smile 만나서... 반가웠어.\\>\\n\\@calamus 정말이야. 여러 가지로 고마워."
+

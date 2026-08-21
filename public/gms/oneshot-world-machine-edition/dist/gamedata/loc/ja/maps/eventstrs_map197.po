@@ -1,0 +1,126 @@
+msgid "@silver_rip [...ughh]"
+msgstr "@silver_rip […うう…]"
+
+msgid "@niko_surprised ARE YOU OKAY?!"
+msgstr "@niko_surprised お姉さん！！"
+
+msgid "@silver_rip0 [I'm fine, I'm fine-]"
+msgstr "@silver_rip0 [大丈夫、平気よ――]"
+
+msgid "@silver_rip [I can still hold it up, but you two need to-]"
+msgstr "@silver_rip [私はまだ耐えられる。でもあなたたちは――]"
+
+msgid "@silver_rip2 [AUGH!]"
+msgstr "@silver_rip2 [うああっ！]"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 […]"
+
+msgid "@silver_rip0 [YOU! Robot!]"
+msgstr "@silver_rip0 [ちょっと！そこのロボット！]"
+
+msgid "@silver_rip0 [What are you waiting for!!!]"
+msgstr "@silver_rip0 [何をボサッとしてるの！！！]"
+
+msgid "@silver_getout [Take the child and get out!]"
+msgstr "@silver_getout [その子を連れて、早く脱出しなさい！]"
+
+msgid "@proto2b [Come on.]"
+msgstr "@proto2b [行こう。]"
+
+msgid "@niko3 But what about her?"
+msgstr "@niko3 でも、お姉さんは？"
+
+msgid "@niko_shock AAH!!"
+msgstr "@niko_shock うそ！！"
+
+msgid "@silver_square1 [`G\\.\\.\\.%ET\\|\\@silver_square2  `/O \\.\\.U . T`%\\.\\.!!\\.!]"
+msgstr "@silver_square1 [`ハ\\.\\.\\.%ヤ\\|\\@silver_square2 `/ク\\.\\.ニ . ゲ テ`%\\.\\.！\\.！]"
+
+msgid "@proto_eyeclosed [Come on.]"
+msgstr "@proto_eyeclosed [急いで。]"
+
+msgid "@niko_upset \\p..."
+msgstr "@niko_upset \\p…"
+
+msgid "@niko_upset2 I don't... understand..."
+msgstr "@niko_upset2 もう…分かんない…"
+
+msgid "@niko3 The world...."
+msgstr "@niko3 世界のこととか……"
+
+msgid "@niko_upset2 The Prophetbot... what he was saying..."
+msgstr "@niko_upset2 預言者ロボが…言ってたこととか…"
+
+msgid "@niko3 Is this world really just....\\> just......"
+msgstr "@niko3 この世界は、ほんとに… \\>ただの……"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 …"
+
+msgid "@niko_distressed Is it?"
+msgstr "@niko_distressed ほんとなの？"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"ああ。\",\"いや。\"]"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset …"
+
+msgid "@niko_upset2 ...you're just saying that..."
+msgstr "@niko_upset2 …ウソだ…"
+
+msgid "@niko_eyeclosed Normally I wouldn't believe it, but..."
+msgstr "@niko_eyeclosed 普通だったら、\nあんなこと信じないよ。でも…"
+
+msgid "@niko_distressed2 It just... adds up."
+msgstr "@niko_distressed2 あの話は…本当だと思う。"
+
+msgid "@niko_distressed Everything...\\.\\. adds up."
+msgstr "@niko_distressed 何もかも…\\.\\.本当。"
+
+msgid "@niko_distressed We can't go back..."
+msgstr "@niko_distressed 戻れないよ…"
+
+msgid "@niko_upset ...he said... you can bring me back..."
+msgstr "@niko_upset …プロトは…神様がミーを連れ戻すことが\nできるって言ってた…"
+
+msgid "@niko_upset2 ...and... he needs my help to fix things?"
+msgstr "@niko_upset2 …それに…色んなものを\n直すのにミーが必要って。"
+
+msgid "@niko_distressed_talk ...I don't...\\.\\. get it!!!"
+msgstr "@niko_distressed_talk …ミーは…\\.\\.もう分かんない！！"
+
+msgid "@niko_distressed_meow Why didn't you tell me anything???"
+msgstr "@niko_distressed_meow どうして何も教えてくれなかったの？？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@niko_distressed2 They're....."
+msgstr "@niko_distressed2 みんな……"
+
+msgid "@niko_distressed They're both....."
+msgstr "@niko_distressed 2人とも……"
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko_distressed_talk I... don't know what I'm supposed to do!"
+msgstr "@niko_distressed_talk もう…どうしたらいいのか分かんないよ！"
+
+msgid "@niko_upset If I can't fix the world... I can't go back home..."
+msgstr "@niko_upset この世界を直せなかったら…ミーは、\n家に帰れなくなる…"
+
+msgid "@niko_upset But the world is...\\.\\. already so messed up..."
+msgstr "@niko_upset でも世界は…\\.\\. すでにめちゃくちゃ…"
+
+msgid "@niko_distressed2 ...if the squares don't get fixed...\\.\\. what will happen to the world?"
+msgstr "@niko_distressed2 …四角形が直らなかったら… \\.\\. この世界はどうなっちゃうの？"
+
+msgid "@niko_upset2 Where would I even go???"
+msgstr "@niko_upset2 ミーは、どこに行っちゃうの？？"
+
+msgid "@niko_distressed2 ..........."
+msgstr "@niko_distressed2 …………"
+

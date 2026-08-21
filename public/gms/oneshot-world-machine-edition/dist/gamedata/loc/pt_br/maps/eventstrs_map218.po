@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[SEM COMUNICAÇÃO COM A SUPERFÍCIE.]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[NÃO POSSO FAZER NADA.]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$QUEM PEGOU MEU GRAMPEADOR"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko É uma espécie de terminal de computador..."
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko Tem uns buraquinhos na mesa..."
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko Parece que tinha alguma coisa aparafusada aqui..."
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko Tem alguns buraquinhos na mesa..."
+

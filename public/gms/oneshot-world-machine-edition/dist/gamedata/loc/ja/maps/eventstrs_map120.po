@@ -1,0 +1,87 @@
+msgid "@niko_speak Wow...."
+msgstr "@niko_speak わああ…"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko I've... actually never been to a big city before!"
+msgstr "@niko 実は…大きな街に来るのは初めてなんだ！"
+
+msgid "@niko All these lights... all these people..."
+msgstr "@niko すっごい明かり…すっごい人の数…"
+
+msgid "@niko I guess most of this world's population lives here..."
+msgstr "@niko この世界にいる人のほとんどが、\nここに住んでるのかな…"
+
+msgid "@niko It's very different from my village."
+msgstr "@niko ミーの村とは全然違うね。"
+
+msgid "@niko_speak The village is very small, and surrounded by huge fields!"
+msgstr "@niko_speak あの村はとても小さくて、\nおっきな平原に囲まれてるんだ！"
+
+msgid "@niko You saw a bit of that in one of my dreams from a while ago..."
+msgstr "@niko この前、ミーの夢の中で、\nちらっと見えたでしょ？"
+
+msgid "@niko_speak The tallest buildings in our village are only two stories tall!"
+msgstr "@niko_speak 村で一番高い建物でも、\nたったの2階建てだよ！"
+
+msgid "@niko_speak What about you, \\p?"
+msgstr "@niko_speak \\p はどうなの？"
+
+msgid "@niko Where do you live?"
+msgstr "@niko どんなところに住んでるの？"
+
+msgid "[\"A city\", \"A village\", \"Someplace else\"]"
+msgstr "[\"街\",\"村\",\"その他\"]"
+
+msgid "@niko_speak A city? Like this?"
+msgstr "@niko_speak 街？こんな感じの？"
+
+msgid "@niko Wow...."
+msgstr "@niko わあ…"
+
+msgid "@niko_eyeclosed I can't imagine living in a city..."
+msgstr "@niko_eyeclosed 街に住むなんて想像できないな…"
+
+msgid "@niko_speak Must be exciting!"
+msgstr "@niko_speak きっと楽しいだろうね！"
+
+msgid "@niko_eyeclosed ...And... kinda scary..."
+msgstr "@niko_eyeclosed …あと…ちょっと怖そう…"
+
+msgid "@niko The view is nice, though!"
+msgstr "@niko でも、景色はいいよね！"
+
+msgid "@niko A village?"
+msgstr "@niko 村？"
+
+msgid "@niko_speak Just like me!"
+msgstr "@niko_speak ミーと同じだ！"
+
+msgid "@niko Can you imagine living in a city like this?"
+msgstr "@niko こんな街に住むなんて想像できる？"
+
+msgid "@niko_eyeclosed I can't..."
+msgstr "@niko_eyeclosed ミーは無理…"
+
+msgid "@niko_eyeclosed ...It's... kinda scary...."
+msgstr "@niko_eyeclosed …ちょっと…怖い…"
+
+msgid "@niko_speak But also really cool!"
+msgstr "@niko_speak でも素敵なところだよね！"
+
+msgid "@niko_speak Something that isn't a city or village?"
+msgstr "@niko_speak 街でも村でもないところ？"
+
+msgid "@niko ...."
+msgstr "@niko …"
+
+msgid "@niko_speak Like a ship?"
+msgstr "@niko_speak 船とか？"
+
+msgid "@niko_eyeclosed ...Well, maybe not a ship..."
+msgstr "@niko_eyeclosed …ううん、船じゃないね…"
+
+msgid "@niko Can you imagine living in a city like this, though?"
+msgstr "@niko でも、こんな街に住むなんて想像できる？"
+

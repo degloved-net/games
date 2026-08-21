@@ -1,0 +1,84 @@
+msgid "@alula_gasp You saved me!"
+msgstr "@alula_gasp 네가 날 구했어!"
+
+msgid "@alula Thank you!"
+msgstr "@alula 정말 고마워!"
+
+msgid "@alula I was trapped in there for so long..."
+msgstr "@alula 여기 너무 오래 갇혀 있었거든..."
+
+msgid "@niko So are you Alula?"
+msgstr "@niko 네가 알룰라야?"
+
+msgid "@alula_gasp ..."
+msgstr "@alula_gasp ..."
+
+msgid "@alula_gasp You... knew my name?"
+msgstr "@alula_gasp 너... 내 이름을 알아?"
+
+msgid "@alula_speak Wow! The messiah really does know everything!"
+msgstr "@alula_speak 와! 정말 구원자는 모르는 게 없구나!"
+
+msgid "@niko_eyeclosed Actually...\\.\\. \\@niko_speak I just met your brother earlier."
+msgstr "@niko_eyeclosed 사실...\\.\\. \\@niko_speak 방금 전에 네 오빠를 만났거든."
+
+msgid "@alula_oh Oh, right!"
+msgstr "@alula_oh 아, 맞다!"
+
+msgid "@alula_pout Gosh... Calamus must be so worried..."
+msgstr "@alula_pout 이런... 칼라무스 오빠가 많이 걱정할 텐데..."
+
+msgid "@alula Can you bring me to him?"
+msgstr "@alula 오빠에게 좀 데려다줄래?"
+
+msgid "@niko Wait a minute...\\>\\n\\@niko_speak How did you know that I was the,\\. um,\\. messiah?\\>\\n\\@niko_eyeclosed I don't have the sun with me..."
+msgstr "@niko 잠깐만...\\>\\n\\@niko_speak 넌 어떻게 내가,\\. 그러니까,\\. 구원자라는 걸 알았어?\\>\\n\\@niko_eyeclosed 지금 난 태양도 들고 있지 않은데..."
+
+msgid "@alula Your eyes!"
+msgstr "@alula 네 눈을 보고 알았지!"
+
+msgid "@niko Huh?"
+msgstr "@niko 음?"
+
+msgid "@alula_speak They reminded me of the sun!"
+msgstr "@alula_speak 그걸 보고 태양을 떠올렸거든!"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@alula That's why you're our messiah, right?"
+msgstr "@alula 그래서 구원자인 거 아니야?"
+
+msgid "@niko Well...\\. I... \\>\\n\\@niko_speak A lot of people back in my home world have eyes like mine..."
+msgstr "@niko 그게...\\. 사실... \\>\\n\\@niko_speak 사실, 내가 살던 세계에서는 모두 눈이 이렇게 생겼어..."
+
+msgid "@alula_pout Home... world?"
+msgstr "@alula_pout 네... 세계?"
+
+msgid "@niko_speak Yeah! \\>\\@niko I'm actually from another world, you see!\\>\\nIt's a place where the sun is in the sky and not in a Tower."
+msgstr "@niko_speak 그래! \\>\\@niko 사실, 난 다른 세계에서 왔거든!\\>\\n태양이 탑이 아니라 하늘에 있는 세상이야."
+
+msgid "@alula Do you like this world too?"
+msgstr "@alula 이 세계도 마음에 들어?"
+
+msgid "@niko I...\\> \\@niko_speak Yeah."
+msgstr "@niko 그게...\\>\\@niko_speak 응."
+
+msgid "@alula_speak Yay!\\>\\n\\@alula_pout Calamus keeps saying how this world is getting more dangerous by the minute."
+msgstr "@alula_speak 그럴 것 같았어!\\>\\n\\@alula_pout 칼라무스 오빠는 세상이 시시각각 위험해진다는 말만 앵무새처럼 반복하고 있거든."
+
+msgid "@alula_speak But that's ok! You're here now!\\>\\n\\@alula You can make everything better!"
+msgstr "@alula_speak 하지만 이제 괜찮아! 네가 왔으니까!\\>\\n\\@alula 네가 왔으니 모든 게 나아질 거야!"
+
+msgid "@niko Yeah..."
+msgstr "@niko 맞아..."
+
+msgid "@niko_speak W-What in the world is this thing in the doorway?"
+msgstr "@niko_speak 여, 여기 있는 이건 대체 뭘까요?"
+
+msgid "@niko It reminds me of what I saw a while ago, at the cliffs...\\nFor some reason, I'm afraid to touch it."
+msgstr "@niko 마치 전에 절벽에서 본 것과 비슷해요...\\n왠지 건드리고 싶지 않네요."
+
+msgid "@alula_oh Hey! Where are you going?"
+msgstr "@alula_oh 이봐! 지금 어디로 가는 거야?"
+

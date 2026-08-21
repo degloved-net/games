@@ -1,0 +1,705 @@
+msgid "Hopefully one day he'll show up!"
+msgstr "Надеюсь, однажды он покажется!"
+
+msgid "I mean, I don't think many people have ever seen him in person."
+msgstr "По-моему, мало кто видел его вживую..."
+
+msgid "...or know what he looks like!"
+msgstr "Или вообще знает, как он выглядит..."
+
+msgid "Everyone's heard OF him through secondhand accounts, though."
+msgstr "Все узнают о нём из вторых рук."
+
+msgid "...oh! But he did reply to my letter that one time!"
+msgstr "О! Но однажды он ответил на моё письмо!"
+
+msgid "I got it framed immediately."
+msgstr "Я сразу повесил его в рамку на стену."
+
+msgid "@niko Nice."
+msgstr "@niko Неплохо."
+
+msgid "Oh, hello! Do you need directions?"
+msgstr "О, привет! Тебе помочь?"
+
+msgid "Let's see... this area here is mostly historical accounts, the reference section is downstairs, and, uh..."
+msgstr "Давай посмотрим... Здесь в основном документальные источники, справочный отдел внизу, и..."
+
+msgid "I'm not sure where the children's section is... sorry!"
+msgstr "Честно говоря, я не уверена, где тут секция детской литературы... Прости!"
+
+msgid "@niko_speak That's ok! \\.\\.\\@niko I'm not really looking for books."
+msgstr "@niko_speak Ничего! \\.\\.\\@niko Вообще-то я ищу не книги."
+
+msgid "Oh! Are you here to... look for the Author, then?"
+msgstr "О! Значит, ты пришёл... к Автору?"
+
+msgid "@niko ...no?"
+msgstr "@niko Нет..."
+
+msgid "Oh, that's good!"
+msgstr "О, хорошо!"
+
+msgid "Er, I mean... that means you won't be disappointed!"
+msgstr "То есть... я хотела сказать, что тогда ты не будешь разочарован!"
+
+msgid "I've been volunteering here for months, and I've never seen him, not even once!"
+msgstr "Я работаю здесь волонтёром уже несколько месяцев и ещё ни разу его не видела!"
+
+msgid "He works together with the head librarian on publishing, so you'd think he would at least show up once in a while..."
+msgstr "Он работает над изданием вместе с главным библиотекарем, так что я думала, что хоть когда-то он тут будет появляться..."
+
+msgid "@niko_speak But... he doesn't?"
+msgstr "@niko_speak Но... Он не появляется?"
+
+msgid "Yeah... he seems kiiinda reclusive."
+msgstr "Ага... Похоже, он любит уединение."
+
+msgid "...which is weird for a guy who supposedly travels the world."
+msgstr "Что странно для человека, который, как говорят, путешествует по всему миру..."
+
+msgid "Maybe it's just around people..."
+msgstr "Может, это просто слухи..."
+
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf Что вы... делаете с этой книгой?"
+
+msgid "Don't worry, these are my own books. That I wrote."
+msgstr "Не волнуйся, это мои книги. Я их написал."
+
+msgid "I just pulled them off the shelves to modify them. I have to cross out some sections..."
+msgstr "Я просто достал их с полки, чтобы немного изменить. Нужно вычеркнуть несколько глав..."
+
+msgid "...most sections."
+msgstr "Большинство глав..."
+
+msgid "@niko_speak Eh? How come?"
+msgstr "@niko_speak Что? Но зачем?"
+
+msgid "Cuz otherwise they'll think I copied HIM."
+msgstr "Потому что иначе все будут думать, что я копирую ЕГО."
+
+msgid "@niko Him?"
+msgstr "@niko Его?"
+
+msgid "The Author!"
+msgstr "Автора!"
+
+msgid "I mean, I really don't see the point of writing anything anymore!"
+msgstr "Знаешь, я больше не вижу смысла писать дальше!"
+
+msgid "The Author is just gonna write about the same thing, and then everyone will love it!"
+msgstr "Автор напишет про то же самое, и все будут в восторге!"
+
+msgid "And nobody's gonna remember the books that came out before his!"
+msgstr "И никто не запомнит книги, которые вышли раньше, чем его!"
+
+msgid "@niko Oh, uh..."
+msgstr "@niko О-о-о..."
+
+msgid "I mean, I ain't hatin'."
+msgstr "Я не какой-то там хейтер."
+
+msgid "I can see why people go nuts over his stuff. That guy's got major talent."
+msgstr "Я понимаю, почему люди сходят с ума по его работам. У этого человека большой талант."
+
+msgid "But... it just... hurts, y'know?"
+msgstr "Но... это просто... обидно, понимаешь?"
+
+msgid "It's never fun when people call you a copycat for something you wrote about first."
+msgstr "Неприятно, когда люди обвиняют тебя в плагиате, хотя ты написал об этом первый."
+
+msgid "@niko I can see that..."
+msgstr "@niko Я вас понимаю..."
+
+msgid "@niko_speak People call me a cat all the time!"
+msgstr "@niko_speak Люди постоянно называют меня котом!"
+
+msgid "@niko_eyeclosed Even though I'm a person, and cats are pets."
+msgstr "@niko_eyeclosed Хотя я — человек, а кошки — домашние животные."
+
+msgid "@niko ...and mousers."
+msgstr "@niko ...И ловят мышей."
+
+msgid "@niko_eyeclosed I sure hope people don't think I eat mice..."
+msgstr "@niko_eyeclosed Очень надеюсь, что люди не думают, что я ем мышей..."
+
+msgid "Heh, then I guess we're in the same boat, kiddo."
+msgstr "Хех, похоже, мы с тобой в одной лодке, приятель."
+
+msgid "Well, I think I changed at least half a book's worth of content."
+msgstr "Что ж, кажется, я исправил не меньше половины годного содержания книги."
+
+msgid "And even then, it's still too similiar!"
+msgstr "И всё равно она слишком похожа!"
+
+msgid "Looks like I'll just have to accept my fate..."
+msgstr "Похоже, придётся смириться с судьбой..."
+
+msgid "@niko Well, I guess being a called a cat isn't all that bad..."
+msgstr "@niko Ну, думаю, не так уж плохо, когда тебя зовут котом..."
+
+msgid "@niko_eyeclosed ...as long as people don't assume you eat mice."
+msgstr "@niko_eyeclosed До тех пор, пока люди не начинают думать, что ты ешь мышей..."
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko Это чернильница с пером для письма."
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c Навевает воспоминания, да же, \\p?"
+
+msgid "...y'know, I've tried looking for the flying machine with my binoculars for ages!"
+msgstr "...Знаешь, я уже тысячу лет пытаюсь найти летающую машину с помощью бинокля!"
+
+msgid "Never saw such a thing, though..."
+msgstr "Но ничего подобного не видел..."
+
+msgid "The Author is so cool!"
+msgstr "Автор такой крутой!"
+
+msgid "I heard he can travel all over the world with a flying machine!"
+msgstr "Говорят, он путешествует по миру на летающей машине!"
+
+msgid "That's how he gathers material for his books."
+msgstr "Так он собирает материал для своих книг."
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak Круто!"
+
+msgid "@niko A small pile of books."
+msgstr "@niko Маленькая стопка книг."
+
+msgid "@bookbot !"
+msgstr "@bookbot !"
+
+msgid "@bookbot [UNAUTHORIZED ENTRY.]"
+msgstr "@bookbot [НЕСАНКЦИОНИРОВАННЫЙ ВХОД.]"
+
+msgid "@bookbot [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]"
+msgstr "@bookbot [ДЛЯ ПРОХОДА НЕОБХОДИМ АБОНЕМЕНТ.]"
+
+msgid "@niko_eyeclosed I know, I know..."
+msgstr "@niko_eyeclosed Я знаю, знаю..."
+
+msgid "@niko Wait, what?"
+msgstr "@niko Погодите, что?"
+
+msgid "@niko_speak I don't have a library card, though!"
+msgstr "@niko_speak У меня нет абонемента!"
+
+msgid "@niko Where can I get one?"
+msgstr "@niko Где мне его взять?"
+
+msgid "@bookbot [THIS IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [ЭТО ВОПРОС К ГЛАВНОМУ БИБЛИОТЕКАРЮ ДЖОРДЖ.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER.]"
+msgstr "@bookbot [С ВАШЕГО РАЗРЕШЕНИЯ Я ПОЗВОНЮ ЕЙ.]"
+
+msgid "@niko_huh . . ."
+msgstr "@niko_huh . . ."
+
+msgid "@niko_wtf2 . . . . ."
+msgstr "@niko_wtf2 . . . . ."
+
+msgid "@bookbot [SHE IS NOT PICKING UP.]"
+msgstr "@bookbot [ОНА НЕ БЕРЁТ ТРУБКУ.]"
+
+msgid "@niko_eyeclosed I figured..."
+msgstr "@niko_eyeclosed Я тут подумал..."
+
+msgid "@niko Are you sure you can't just... let me through?"
+msgstr "@niko Вы правда не можете просто... меня пропустить?"
+
+msgid "@bookbot [LETTING YOU THROUGH WITHOUT A LIBRARY CARD IS AGAINST MY PROGRAMMING.]"
+msgstr "@bookbot [МОЯ ПРОГРАММА НЕ ПОЗВОЛЯЕТ ПРОПУСТИТЬ ВАС БЕЗ БИБЛИОТЕЧНОГО АБОНЕМЕНТА.]"
+
+msgid "@niko_what Wh-"
+msgstr "@niko_what Что..."
+
+msgid "@niko Even in an emergency?"
+msgstr "@niko Даже если это срочно?"
+
+msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
+msgstr "@bookbot [МОЯ ПРОГРАММА НЕ МОЖЕТ МЕНЯТЬСЯ.]"
+
+msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@bookbot [Я НЕ БЫЛ ПРИРУЧЁН.]"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed Эх..."
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[ВАМ ЧТО-ТО НУЖНО? ПОЖАЛУЙСТА, ПОДОЙДИТЕ С ПЕРЕДНЕЙ СТОРОНЫ.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko There's this book I found back in the barrens area."
+msgstr "@niko Я нашёл в Пустоши книгу."
+
+msgid "@niko_speak Since this is a place for books, would you happen to know what it says?"
+msgstr "@niko_speak Раз это место для книг, может, вы можете сказать, о чём в ней написано?"
+
+msgid "@bookbot [I DO NOT RECOGNIZE THIS LANGUAGE]"
+msgstr "@bookbot [Я НЕ РАСПОЗНАЮ ЭТОТ ЯЗЫК]"
+
+msgid "@bookbot [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]"
+msgstr "@bookbot [ОДНАКО СИМВОЛ НА ОБЛОЖКЕ ОЧЕНЬ ВАЖЕН]"
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, CAN EXPLAIN IT.]"
+msgstr "@bookbot [ГЛАВНЫЙ БИБЛИОТЕКАРЬ ДЖОРДЖ СМОЖЕТ ВСЁ ОБЪЯСНИТЬ.]"
+
+msgid "@bookbot [WOULD YOU LIKE ME TO CALL HER?]"
+msgstr "@bookbot [ХОТИТЕ, Я ЕЙ ПОЗВОНЮ?]"
+
+msgid "@niko_eyeclosed Please don't."
+msgstr "@niko_eyeclosed Ой, не надо."
+
+msgid "@bookbot [AUTHENTICATING BARCODE...]"
+msgstr "@bookbot [АУТЕНТИФИКАЦИЯ ШТРИХ-КОДА...]"
+
+msgid "@bookbot [EXECUTING FACIAL RECOGNITION...]"
+msgstr "@bookbot [ПРОВОЖУ РАСПОЗНАВАНИЕ ЛИЦА...]"
+
+msgid "@bookbot [PHOTO MATCH...\\. FAILED.]"
+msgstr "@bookbot [СРАВНЕНИЕ С ФОТО...\\. НЕУДАЧНО.]"
+
+msgid "@bookbot [IT SEEMS YOU DO NOT RESEMBLE THE OWNER OF THE CARD.]"
+msgstr "@bookbot [ВЫ НЕ ПОХОЖИ НА ВЛАДЕЛЬЦА ЭТОГО АБОНЕМЕНТА.]"
+
+msgid "@bookbot [YOU CANNOT USE THIS CARD.]"
+msgstr "@bookbot [ВЫ НЕ МОЖЕТЕ ИСПОЛЬЗОВАТЬ ЭТОТ АБОНЕМЕНТ.]"
+
+msgid "@niko_eyeclosed Bummer..."
+msgstr "@niko_eyeclosed Блин..."
+
+msgid "@bookbot [INVALID CARD!]"
+msgstr "@bookbot [АБОНЕМЕНТ НЕДЕЙСТВИТЕЛЕН!]"
+
+msgid "@bookbot [PHOTO IS MISSING.]"
+msgstr "@bookbot [ОТСУТСТВУЕТ ФОТОГРАФИЯ.]"
+
+msgid "@niko_eyeclosed ...why did I do that."
+msgstr "@niko_eyeclosed Зачем я это сделал?.."
+
+msgid "@bookbot [HAVE A NICE DAY, MISS KIP.]"
+msgstr "@bookbot [ХОРОШЕГО ДНЯ, МИСС КИП.]"
+
+msgid "@niko Yup, that's... totally me."
+msgstr "@niko Да, это... определённо я."
+
+msgid "@bookbot [PHOTO MATCH...\\. SUCCESSFUL]"
+msgstr "@bookbot [СРАВНЕНИЕ С ФОТО...\\. УСПЕШНО.]"
+
+msgid "@bookbot [YOU'RE GOOD TO GO!]"
+msgstr "@bookbot [МОЖЕТЕ ПРОХОДИТЬ!]"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_eyeclosed ...maybe I should've changed the name."
+msgstr "@niko_eyeclosed Надо было сменить имя..."
+
+msgid "@niko So I'm guessing you don't give out library cards?"
+msgstr "@niko Я так понимаю, вы не выдаёте абонементы?"
+
+msgid "@bookbot [I ONLY HANDLE BOOK TRANSACTIONS.]"
+msgstr "@bookbot [Я ТОЛЬКО ВЫДАЮ И ПРИНИМАЮ КНИГИ.]"
+
+msgid "@bookbot [...FOR PEOPLE WHO ALREADY POSSESS CARDS.]"
+msgstr "@bookbot [...У ТЕХ, У КОГО ЕСТЬ АБОНЕМЕНТ.]"
+
+msgid "@niko Ah."
+msgstr "@niko А-а."
+
+msgid "@bookbot [TO ACQUIRE A CARD, YOU WOULD NEED TO CONTACT THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [ЧТОБЫ ПОЛУЧИТЬ АБОНЕМЕНТ, ВАМ СЛЕДУЕТ ОБРАТИТЬСЯ К ГЛАВНОМУ БИБЛИОТЕКАРЮ ДЖОРДЖ.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER-"
+msgstr "@bookbot [С ВАШЕГО РАЗРЕШЕНИЯ Я ЕЙ ПОЗВОНЮ..."
+
+msgid "@niko_surprised Don't!!"
+msgstr "@niko_surprised Нет!"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [ГЛАВНЫЙ БИБЛИОТЕКАРЬ ДЖОРДЖ В АРХИВЕ НАВЕРХУ.]"
+
+msgid "@niko Excuse me!"
+msgstr "@niko Простите, пожалуйста!"
+
+msgid "@bookbot [OH. YOU ARE THE MESSIAH.]"
+msgstr "@bookbot [О, ВЫ — МЕССИЯ.]"
+
+msgid "@bookbot [WELCOME.]"
+msgstr "@bookbot [ДОБРО ПОЖАЛОВАТЬ.]"
+
+msgid "@niko_speak When I first entered the city, a big robot told me to look for a library on the surface!"
+msgstr "@niko_speak Когда я оказался в городе, большой робот сказал, что я должен поискать на поверхности библиотеку!"
+
+msgid "@niko This is the same library, right?"
+msgstr "@niko Это та самая библиотека?"
+
+msgid "@bookbot [AFFIRMATIVE.]"
+msgstr "@bookbot [ПОДТВЕРЖДАЮ.]"
+
+msgid "@niko_speak Oh, goody!"
+msgstr "@niko_speak О, как хорошо!"
+
+msgid "@niko Well... we're here... what do we do now?"
+msgstr "@niko Э-э... Вот я здесь... Что мне теперь делать?"
+
+msgid "@niko_eyeclosed The big robot only said there'd be clues here..."
+msgstr "@niko_eyeclosed Большой робот только сказал, что здесь будут ключи к разгадке..."
+
+msgid "@bookbot [THAT IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [ЭТО ВОПРОС К ГЛАВНОМУ БИБЛИОТЕКАРЮ ДЖОРДЖ.]"
+
+msgid "@niko_speak Is she... not here?"
+msgstr "@niko_speak А она здесь?"
+
+msgid "@bookbot [SHE IS HERE. SHE IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [ДА. ОНА В АРХИВЕ НАВЕРХУ.]"
+
+msgid "@bookbot [WHEN SHE IS CONCENTRATING ON HER WORK, SHE WILL IGNORE ANY AND ALL PHONECALLS.]"
+msgstr "@bookbot [КОГДА ОНА СОСРЕДОТОЧЕНА НА РАБОТЕ, ОНА МОЖЕТ ВООБЩЕ НЕ ОТВЕЧАТЬ НА ТЕЛЕФОННЫЕ ЗВОНКИ.]"
+
+msgid "@bookbot [...FOR SEVERAL DAYS.]"
+msgstr "@bookbot [...НЕСКОЛЬКО ДНЕЙ.]"
+
+msgid "@niko_what Yikes!"
+msgstr "@niko_what Вот жесть!"
+
+msgid "@niko Can you go get her in person, then?"
+msgstr "@niko А вы можете её сюда позвать?"
+
+msgid "@bookbot [LEAVING THIS POST IS NOT IN MY PROGRAMMING.]"
+msgstr "@bookbot [Я НЕ МОГУ ПОКИНУТЬ ЭТО МЕСТО. ЭТО НЕ ВХОДИТ В МОЮ ПРОГРАММУ.]"
+
+msgid "@niko Then... can I go myself?"
+msgstr "@niko Тогда... Я могу пойти к ней сам?"
+
+msgid "@bookbot [OF COURSE.]"
+msgstr "@bookbot [КОНЕЧНО.]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS ACCESSIBLE THROUGH THE STAIRWELL BEHIND ME.]"
+msgstr "@bookbot [ЧТОБЫ ПОПАСТЬ В АРХИВ, ПОДНИМИТЕСЬ ПО ЛЕСТНИЦЕ ЗА МОЕЙ СПИНОЙ.]"
+
+msgid "@niko_speak Gotcha, thanks!"
+msgstr "@niko_speak Понял, спасибо!"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko Компьютер. Сейчас он выключен."
+
+msgid "I guess that's why the library is always so packed."
+msgstr "Думаю, поэтому в библиотеке всегда полно народа."
+
+msgid "...and this is a slow day, mind you!"
+msgstr "...И это ещё не очень загруженный день!"
+
+msgid "The Author's books cover a wide range of topics."
+msgstr "Книги Автора покрывают широкий круг тем."
+
+msgid "It seems there are no subjects he does not write about."
+msgstr "Кажется, нет проблемы, о которой он бы не писал."
+
+msgid "Quite the renaissance man, don't you think?"
+msgstr "Поистине разносторонне одарённый человек, как вы считаете?"
+
+msgid "@niko I guess so!"
+msgstr "@niko Думаю, да!"
+
+msgid "But he's been focusing on documenting the world, as of late."
+msgstr "Только в последнее время он больше сосредоточен на описании этого мира."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Вот как?"
+
+msgid "They say this city is the last bastion of civilization."
+msgstr "Говорят, этот город — последний оплот цивилизации."
+
+msgid "Soon, these books may be the only thing we have to remember the rest of the world by."
+msgstr "Скоро эти книги останутся единственным напоминанием о прошлом мире."
+
+msgid "@niko ...ah."
+msgstr "@niko А..."
+
+msgid "@niko I haven't seen any superheroes in this world."
+msgstr "@niko В этом мире я не видел супергероев."
+
+msgid "@niko_speak Saw a lot of robots, though!"
+msgstr "@niko_speak Зато видел много роботов!"
+
+msgid "Well, I guess robots are more plausible than superpowers..."
+msgstr "Мне кажется, роботы более правдоподобны, чем суперсилы..."
+
+msgid "@niko True!"
+msgstr "@niko Точно!"
+
+msgid "The Author publishes books at a highly accelerated, almost inhuman pace."
+msgstr "Автор выпускает книги с невероятной, почти нечеловеческой скоростью."
+
+msgid "In fact, he has put out more books in one year than most authors do in a lifetime."
+msgstr "За один год он выпустил больше книг, чем другие авторы издают за всю свою жизнь."
+
+msgid "According to the head librarian, there is still a large amount of material he has written, but not yet published."
+msgstr "Судя по словам главного библиотекаря, ещё многое из того, что он написал, не издано."
+
+msgid "One cannot help but to wonder where he can get so much done in so little time."
+msgstr "Нельзя не задаваться вопросом, как он успевает столько сделать за такой короткий срок."
+
+msgid "I did the calculations, and the numbers simply do not add up."
+msgstr "Я сделал небольшие подсчёты, но цифры не сходятся."
+
+msgid "@niko Maybe he... \\.\\.\\@niko_speak can stop time?"
+msgstr "@niko Может, он... \\.\\.\\@niko_speak умеет останавливать время?"
+
+msgid "No such mechanism exists in this world."
+msgstr "Такого механизма в нашем мире не существует."
+
+msgid "...Is that actually possible in your home dimension?"
+msgstr "...А в твоём родном измерении это возможно?"
+
+msgid "@niko_eyeclosed Nah, I just saw it in a movie once..."
+msgstr "@niko_eyeclosed Да нет, я просто однажды видел такое в кино..."
+
+msgid "@niko About... superheroes and stuff."
+msgstr "@niko Про супергероев и всё такое."
+
+msgid "There's a couple of his books in this room that aren't occupied yet."
+msgstr "В этой комнате есть несколько его книг, которые ещё не заняты."
+
+msgid "Hurry before someone takes them!"
+msgstr "Поспеши, пока их кто-нибудь не взял!"
+
+msgid "So, what do you think about the Author?"
+msgstr "Так что ты думаешь насчёт Автора?"
+
+msgid "@niko I... don't know?"
+msgstr "@niko Я... не знаю."
+
+msgid "Have you read his stuff yet?"
+msgstr "Ты ещё не читал его книги?"
+
+msgid "If not, you should!"
+msgstr "Если нет, обязательно прочти!"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko Книги аккуратно расставлены на полке."
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko Книги расставлены на полке аккуратно."
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko Книги на полке расставлены аккуратно."
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko На полке — аккуратно расставленные книги."
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko Аккуратно расставленные книги — на полке."
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko На полке книги расставлены аккуратно."
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko Расставлены книги на полке аккуратно."
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko Расставленные аккуратно книги — на полке."
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko Стопка книг на полу."
+
+msgid "@niko A book!"
+msgstr "@niko Книга!"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[ПЕРЕСТАНОВКА НА ПОЛКАХ...]"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko Высокая стопка книг."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[ПРИВЕТ, ЧЕЛОВЕК.]"
+
+msgid "@niko Hi."
+msgstr "@niko Привет."
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[ПЕРЕСТАНОВКА НА ПОЛКАХ.]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[ОСТОРОЖНО, ВОЗМОЖНО ПАДЕНИЕ КНИГ.]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Конечно!"
+
+msgid "@niko Coffee cups."
+msgstr "@niko Чашки для кофе."
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak Кофе — для взрослых!"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed Да, я всё ещё боюсь лестниц."
+
+msgid "@niko A coffee machine."
+msgstr "@niko Кофемашина."
+
+msgid "@niko It's almost empty..."
+msgstr "@niko Почти пустая..."
+
+msgid "@niko A photo of some plants."
+msgstr "@niko Фотография каких-то растений."
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko Какая-то табличка."
+
+msgid "@niko_huh He just glared at me."
+msgstr "@niko_huh Он просто таращился на меня."
+
+msgid "@niko_eyeclosed I don't think we should bother him, \\p..."
+msgstr "@niko_eyeclosed Не думаю, что нужно его тревожить, \\p..."
+
+msgid "..."
+msgstr "..."
+
+msgid ".....WHAT??!?"
+msgstr "...ЧТО?!"
+
+msgid "@niko_huh Wh-\\.\\.\\@niko I didn't say anything."
+msgstr "@niko_huh Чт... \\.\\.\\@niko Я ничего не говорил."
+
+msgid "Well stop staring at me then!"
+msgstr "Тогда перестань на меня пялиться!"
+
+msgid "@niko_speak I was just looking at your book..."
+msgstr "@niko_speak Я просто смотрел на вашу книгу..."
+
+msgid "Yes. You are in a library. There's books. In the library."
+msgstr "Ну да. Ты же в библиотеке. Тут есть книги. В библиотеке."
+
+msgid "...Go bug the chatty one upstairs."
+msgstr "Иди лучше пообщайся с болтушкой наверху."
+
+msgid "@niko A photo of some people."
+msgstr "@niko На фото несколько людей."
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko Кажется, здесь написан список книг..."
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [ЕСЛИ ВЫ ХОТИТЕ ЧТО-ТО СПРОСИТЬ, ПОДОЙДИТЕ С ПЕРЕДНЕЙ СТОРОНЫ.]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko Всё в порядке, спасибо!"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak Толстая книга с чёрным клевером на обложке."
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko На обложке написано «Справочник по видам фосфора»."
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko Кто-то нарисовал маркером клевер."
+
+msgid "@niko A marker eraser."
+msgstr "@niko Стёрка для маркера."
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko На обложке написано «Возникновение новых экологических ниш в пост-солнечном мире»."
+
+msgid "@niko A green marker."
+msgstr "@niko Зелёный маркер."
+
+msgid "kip card"
+msgstr "абонемент кип"
+
+msgid "I just like looking at pictures."
+msgstr "Я просто люблю смотреть на картинки."
+
+msgid "@niko Same."
+msgstr "@niko Я тоже."
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak Ты так быстро читаешь эту книгу!"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "Да тут по большей части одни картинки!"
+
+msgid "Yeah! The author doesn't only write books, he also illustrates them!"
+msgstr "Да! Автор не только пишет книги, но и рисует к ним иллюстрации!"
+
+msgid "Sometimes he makes books out of only pictures."
+msgstr "Иногда его книги состоят из одних только рисунков."
+
+msgid "@niko Neat!"
+msgstr "@niko Классно!"
+
+msgid "@niko A blue marker."
+msgstr "@niko Синий маркер."
+
+msgid "niko card"
+msgstr "абонемент нико"
+
+msgid "@niko A red marker."
+msgstr "@niko Красный маркер."
+
+msgid "glittery"
+msgstr "блестящий"
+
+msgid "Oh, and picture books, those too."
+msgstr "О, и книжки с картинками."
+
+msgid "@niko_speak I like pictures!"
+msgstr "@niko_speak Я люблю картинки!"
+
+msgid "The Author's latest books are really something, yeah?"
+msgstr "Последние книги Автора — это нечто, правда?"
+
+msgid "The head librarian just released a bunch last week!"
+msgstr "На прошлой неделе главный библиотекарь выпустила целую стопку!"
+
+msgid "They're big compendiums, you'll see them if you look around."
+msgstr "Это большие сборники. Ты увидишь их, если оглядишься по сторонам."
+
+msgid "Kinda different from his earlier works, though."
+msgstr "Но они отличаются от его ранних работ."
+
+msgid "I'm used to reading his travel logs and novels, mostly."
+msgstr "Я больше читаю его дневники путешественника и романы."
+
+msgid "I'm on my 3rd cup."
+msgstr "Это моя третья чашка."
+
+msgid "I can't feel my limbs..."
+msgstr "Я уже не чувствую ног..."
+
+msgid "@niko um..."
+msgstr "@niko Эм-м..."
+
+msgid "BUT I HAVE TO STAY AWAKE."
+msgstr "НЕЛЬЗЯ СПАТЬ."
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "Я ДОЛЖЕН УЗНАТЬ, ЧЕМ ЗАКОНЧИТСЯ ЭТА КНИГА..."
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 Эм-м..."
+
+msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
+msgstr "БУДЬ ПРОКЛЯТ АВТОР И ЕГО СЮЖЕТНЫЕ ПОВОРОТЫ..."
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko Эта маркерная доска сделана из металла."
+
+msgid "cardquest + desk"
+msgstr "cardquest + desk"
+

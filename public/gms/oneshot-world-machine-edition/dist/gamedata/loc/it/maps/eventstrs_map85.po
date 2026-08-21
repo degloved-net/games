@@ -1,0 +1,297 @@
+msgid "@niko_speak A streetlamp!\\>\\n\\@niko This one seems taller than the others..."
+msgstr "@niko_speak Un lampione!\\>\\n\\@niko Questo sembra più alto degli altri..."
+
+msgid "@niko \\p and I fixed the camera!"
+msgstr "@niko Io e \\p abbiamo riparato la fotocamera!"
+
+msgid "Aw, sweet!"
+msgstr "Aw, che bello!"
+
+msgid "Are you here for your photos?"
+msgstr "Sei qui per le tue foto?"
+
+msgid "@niko_speak Actually, yeah!"
+msgstr "@niko_speak Esatto!"
+
+msgid "@niko I need to take a picture for....\\. reasons."
+msgstr "@niko Devo scattare una foto per...\\. motivi personali."
+
+msgid "Well, I got good news and bad news."
+msgstr "Beh, ho una buona e una cattiva notizia."
+
+msgid "The good news is that the photo center is right behind me."
+msgstr "Quella buona è che il centro fotografico è proprio dietro di me."
+
+msgid "@niko The bad news is that.... it doesn't work, right?"
+msgstr "@niko Quella cattiva è che... non funziona, vero?"
+
+msgid "Heh, you're catching on quick."
+msgstr "Eheh, vedo che capisci in fretta."
+
+msgid "After operations ended in the Barrens, this place got shut down."
+msgstr "Dopo che le operazioni nella Baia Desolata sono terminate, questo posto è stato chiuso."
+
+msgid "All of the engineers lost their jobs and became street vendors."
+msgstr "Tutti gli ingegneri hanno perso il proprio lavoro e sono diventati venditori ambulanti."
+
+msgid "@niko_speak Maybe \\p and I can figure it out from them!"
+msgstr "@niko_speak Magari \\p ed io possiamo farci aiutare da loro!"
+
+msgid "That's good!"
+msgstr "Molto bene!"
+
+msgid "It would certainly help out people with expired IDs."
+msgstr "Sarebbe un grande aiuto per chi ha i documenti scaduti."
+
+msgid "...Like me."
+msgstr "...Come me."
+
+msgid "@niko No?"
+msgstr "@niko No...?"
+
+msgid "Alrighty then."
+msgstr "Va bene allora."
+
+msgid "I'll just... uh..."
+msgstr "Io... Ehm..."
+
+msgid "...stand here."
+msgstr "...Resto qui."
+
+msgid "@niko This stand smells a bit like burnt sugar..."
+msgstr "@niko Questa bancarella puzza di zucchero bruciato..."
+
+msgid "Yup... still gettin' the hang of making these fried candy skewers..."
+msgstr "Eh sì... non ci ho ancora preso la mano a fare questi spiedini di caramelle fritti..."
+
+msgid "They don't taste too bad, though! Do you want one?"
+msgstr "Non sono male, però! Ne vuoi uno?"
+
+msgid "@niko It's okay, thank you!"
+msgstr "@niko No, grazie!"
+
+msgid "@niko_speak You used to be one of the camera engineers, right?"
+msgstr "@niko_speak Tu devi essere uno dei vecchi tecnici della fotocamera, giusto?"
+
+msgid "The camera? Oh, joyous memories. We went through thick and thin together."
+msgstr "Oh, che bei ricordi... La lente spessa... La lente sottile..."
+
+msgid "And by that I mean the concave lens did."
+msgstr "E tra di loro l'adorabile lente concava..."
+
+msgid "@niko_speak This smells kinda nice!"
+msgstr "@niko_speak Che buon profumo!"
+
+msgid "@niko What is it?"
+msgstr "@niko Che cos'è?"
+
+msgid "Breaded fish!"
+msgstr "Pesce impanato!"
+
+msgid "I toasted the bread myself!"
+msgstr "Ho tostato io il pane!"
+
+msgid "@niko_what ...I... see..."
+msgstr "@niko_what Caaapisco..."
+
+msgid "@niko_speak Is there anything you remember about how to work the camera?"
+msgstr "@niko_speak Ti ricordi qualcosa su come riparare la fotocamera?"
+
+msgid "Let me see... When arranging the lenses, make sure that the thin lens is positioned between the two curved ones."
+msgstr "Vediamo... Quando disponi le lenti, assicurati che la lente sottile sia posizionata tra le due lenti curve."
+
+msgid "Hey kid!"
+msgstr "Ehi ragazzo!"
+
+msgid "Want some soup dumplings? They're guaranteed to contain only a minimal amount of industrial byproducts!"
+msgstr "Ti andrebbero dei ravioli al vapore? Contengono una quantità davvero insignificante di rifiuti industriali!"
+
+msgid "@niko I'll... pass..."
+msgstr "@niko Passo..."
+
+msgid "@niko Can you tell me how to get the camera working again?"
+msgstr "@niko Puoi dirmi come far funzionare di nuovo la fotocamera?"
+
+msgid "Yes, yes, certainly. The thick lens should be positioned to the left of both of the curved lenses."
+msgstr "Sì, sì, ma certo. La lente spessa deve essere posizionata alla sinistra di entrambe le lenti curve."
+
+msgid "@niko Actually... I do want to hear about it!"
+msgstr "@niko In realtà mi hai incuriosito, continua!"
+
+msgid "Curiosity killed the cat, eh?"
+msgstr "I gatti sono proprio curiosi, eh?"
+
+msgid "@niko_eyeclosed I'm not a cat..."
+msgstr "@niko_eyeclosed Non sono un gatto..."
+
+msgid "Ok so!"
+msgstr "Allora!"
+
+msgid "I've invented a medicine to prepare everyone for the upcoming water shortage!"
+msgstr "Ho creato una medicina per preparare tutti alla prossima carenza d'acqua!"
+
+msgid "All you gotta do is dissolve one of these pills in water."
+msgstr "Tutto quello che bisogna fare è sciogliere una di queste pillole in acqua..."
+
+msgid "And then you drink the water."
+msgstr "...e bere quell'acqua."
+
+msgid "And then you never need to drink water again!"
+msgstr "Basta questo a dissetarti per sempre, non dovrai più bere!"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak Cosa!?"
+
+msgid "It also makes plants grow faster!"
+msgstr "Fa anche crescere le piante più velocemente!"
+
+msgid "@niko How... does it work?"
+msgstr "@niko Come... funziona?"
+
+msgid "Here, why don't you take a free sample?"
+msgstr "Su, accetta questo campione gratuito!"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh!"
+
+msgid "@niko Thanks?"
+msgstr "@niko Grazie...?"
+
+msgid "Don't thank me! Go spread the word!"
+msgstr "Non ringraziarmi, parlane in giro piuttosto!"
+
+msgid "Hey hey!"
+msgstr "Ehi ehi!"
+
+msgid "Ready for me to blow your mind?"
+msgstr "Pronto per essere sconvolto?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sì\",\"No\"]"
+
+msgid "Aww, but..."
+msgstr "Aww, ma..."
+
+msgid "@niko_speak Can you tell me how to fix the camera?"
+msgstr "@niko_speak Puoi dirmi come riparare la fotocamera?"
+
+msgid "Hmm... It's been a while."
+msgstr "Mh... Ne è passato di tempo."
+
+msgid "I'm pretty sure that the bulgy lens goes on one of the ends, but I forget which."
+msgstr "Sono abbastanza sicuro che la lente gonfia vada su una delle estremità, ma non ricordo quale."
+
+msgid "This is going to help so many people..."
+msgstr "Aiuteranno così tanta gente..."
+
+msgid "...and also make me rich and famous and cool."
+msgstr "...e mi renderanno ricco, famoso e fico."
+
+msgid "Actually... I exaggerated."
+msgstr "In realtà... ho esagerato un po'."
+
+msgid "The effects of the pill wears off in like a week."
+msgstr "Gli effetti della pillola durano solo una settimana."
+
+msgid "But all you have to do is just take another pill!"
+msgstr "Ma basta solo prenderne un'altra!"
+
+msgid "@plight_2 Well, good luck..."
+msgstr "@plight_2 Beh, buona fortuna..."
+
+msgid "@niko_speak You too! \\>\\@niko With the lamp."
+msgstr "@niko_speak Anche a te! \\>\\@niko Con il lampione."
+
+msgid "@plight Hey, you lookin for something?"
+msgstr "@plight Ehi, stai cercando qualcosa?"
+
+msgid "@niko_eyeclosed Yeah... I need to go find a library card now...\\>\\n\\@niko Any idea where I can get one?"
+msgstr "@niko_eyeclosed Sì... devo trovare una tessera della biblioteca...\\>\\n\\@niko Sai dove posso trovarne una?"
+
+msgid "@plight From...\\> the...\\> library?"
+msgstr "@plight Alla...\\> biblioteca?"
+
+msgid "@niko_eyeclosed I tried that already!\\>\\n\\@niko The person in charge wasn't here."
+msgstr "@niko_eyeclosed Ci ho già provato!\\>\\n\\@niko Il responsabile non c'era."
+
+msgid "@plight Oh, uh..."
+msgstr "@plight Oh, ehm..."
+
+msgid "@plight_2 Maybe check out the factory? You just take the stairs at the end of this street and make a turn."
+msgstr "@plight_2 Potresti controllare nella fabbrica? Devi solo prendere le scale alla fine di questa strada e svoltare."
+
+msgid "@plight There's a lot of scientists there.\\>\\n\\@plight_worry Scientists... read books, right?"
+msgstr "@plight Ci sono un sacco di scienziati lì.\\>\\n\\@plight_worry Gli scienziati... leggono libri, no?"
+
+msgid "@plight They might help you..."
+msgstr "@plight Potrebbero aiutarti..."
+
+msgid "@niko He looks busy..."
+msgstr "@niko Sembra indaffarato..."
+
+msgid "@plight_why You can tell, huh..."
+msgstr "@plight_why Già..."
+
+msgid "@plight Oh, hey there."
+msgstr "@plight Oh, ehilà."
+
+msgid "@plight_2 You, uh... \\.\\.doing okay?"
+msgstr "@plight_2 Va, ehm... \\.\\.tutto bene?"
+
+msgid "@niko Yup!\\>\\n\\@niko_speak What are you doing?"
+msgstr "@niko Sì!\\>\\n\\@niko_speak Cosa stai facendo?"
+
+msgid "@plight Just filling this lamp here..."
+msgstr "@plight Solo riempiendo questo lampione..."
+
+msgid "@plight_2 It's...\\.\\.\\. taking a while..."
+msgstr "@plight_2 Ci...\\.\\.\\. sta volendo un po' di tempo..."
+
+msgid "@plight_worry I...\\.\\. think it might be leaking..."
+msgstr "@plight_worry Credo...\\.\\. Credo che ci sia una perdita..."
+
+msgid "@plight Well, good luck..."
+msgstr "@plight_2 Beh, buona fortuna..."
+
+msgid "@plight Thanks for taking them off my hands, I guess?\\>\\nThe lenses, that is."
+msgstr "@plight Grazie per averle prese tu...\\>\\nLe lenti, intendo."
+
+msgid "@plight_2b The scientists wanted me to use them to fix the camera in the photo booth, but..."
+msgstr "@plight_2b Gli scienziati volevano che le usassi per riparare la fotocamera nella cabina per fototessere, ma..."
+
+msgid "@plight_why ...you can imagine how that went."
+msgstr "@plight_why ...puoi immaginare come sia andata a finire."
+
+msgid "@plight_worry I'm just glad I didn't break anything..."
+msgstr "@plight_worry Sono solo contento di non aver rotto nulla..."
+
+msgid "@plight_shock Hey! Isn't that..."
+msgstr "@plight_shock Ehi! Ma quella è..."
+
+msgid "@plight_wtf ..."
+msgstr "@plight_wtf ..."
+
+msgid "@plight_worry (oH GOODNESS GRACIOUS DID THE MESSIAH AND LITERALLY GOD THEMSELF JUST BREAK INTO MY HOUSE.)"
+msgstr "@plight_worry (OH SANTO CIELO IL MESSIA E LETTERALMENTE DIO SONO ENTRATI IN CASA MIA.)"
+
+msgid "@niko_speak Oh! Was that... your..."
+msgstr "@niko_speak Oh! Era la... tua..."
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf Mi hai sentito??"
+
+msgid "@plight_worry (IT KEEPS HAPPENING.)"
+msgstr "@plight_worry (È SUCCESSO DI NUOVO.)"
+
+msgid "@niko_eyeclosed ...sorry about breaking into your house.\\>\\n\\@niko We didn't actually break anything, but..."
+msgstr "@niko_eyeclosed ...Scusami per essere entrato a casa tua.\\>\\n\\@niko Non abbiamo rotto niente, ma..."
+
+msgid "@niko_speak \\p said I should take these plastic disks, for some reason?\\>\\n\\@niko Should we put them back?"
+msgstr "@niko_speak \\p ha detto che dovrei prendere questi dischi di plastica, per qualche motivo?\\>\\n\\@niko Dovremmo rimetterli a posto?"
+
+msgid "@plight_2 It's okay, keep 'em."
+msgstr "@plight_2 Non c'è problema, puoi tenerli."
+
+msgid "@plight_worry I wouldn't have been able to fix that machine anyway..."
+msgstr "@plight_worry Non sarei comunque riuscito a riparare quella macchina..."
+

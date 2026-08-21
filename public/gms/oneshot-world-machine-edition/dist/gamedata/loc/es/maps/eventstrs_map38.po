@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[¿HAS ENCONTRADO LA FUENTE DEL PELIGRO?]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[ESTAS ENREDADERAS HAN APARECIDO HACE TAN SOLO UNOS MINUTOS.]"
+
+msgid "@niko Really?"
+msgstr "@niko ¿En serio?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed He visto muchas en puertas..."
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko He asumido que se debía a que este lugar estaba abandonado..."
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[UNA SEÑAL DE PELIGRO.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ... ¿eh?"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[UN SER VIVO NECESITA AYUDA.]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[PERO NO PUEDO HALLAR EL ORIGEN.]"
+
+msgid "@niko ...ah."
+msgstr "@niko ... Ah."
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[LAS ENREDADERAS SE HAN ESFUMADO.]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[¿SABES LO QUE HA PASADO?]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko Me encontré a una... persona planta."
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed Estaba muy débil..."
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko Le entregué el sol por un instante, pero..."
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed Dijo que era demasiado tarde para ella..."
+
+msgid "[I UNDERSTAND.]"
+msgstr "[ENTIENDO.]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[TENGO QUE INFORMAR DE ESTO A LA CIUDAD.]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko Una mata de enredaderas está bloqueando el camino..."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[HOLA, GENTE.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[DOS NIÑOS VIVEN CERCA DE AQUÍ.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak ¡Yo soy uno de ellos!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[HOLA, INDIVIDUO.]"
+

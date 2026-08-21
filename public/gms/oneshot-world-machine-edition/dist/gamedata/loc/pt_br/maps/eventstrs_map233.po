@@ -1,0 +1,33 @@
+msgid "@niko Hey, \\p?"
+msgstr "@niko Ei... \\p?"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak Você se lembra onde fica o café?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sim\",\"Não\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko Ah, legal!"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak Espere! Acho que me lembro!\\>\\n\\@niko É subindo pelo elevador e pegando à direita, depois é só descer as escadas!"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko Estou perguntando porque... Bem..."
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed Estou... com um pouco de fome..."
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak Na realidade, estou com BASTANTE fome!\\>\\n\\@niko Não comi nada desde que cheguei aqui..."
+
+msgid "@niko So...is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko Então... Tudo bem se comermos alguma coisa antes de entrar na Torre?"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes Tomara que lá tenha panqueca..."
+

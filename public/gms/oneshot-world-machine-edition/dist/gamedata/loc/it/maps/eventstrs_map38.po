@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[HAI CAPITO IL MOTIVO DELLA SUA SOFFERENZA?]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[QUESTI ROVI SONO APPARSI GIUSTO QUALCHE MINUTO FA.]"
+
+msgid "@niko Really?"
+msgstr "@niko Davvero?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed Ne ho visti un sacco, perlopiù a bloccare passaggi..."
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko Davo per scontato che ce ne fossero così tanti perché questo posto è stato abbandonato..."
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[È UN SEGNO DI SOFFERENZA.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ...Eh?"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[UN ESSERE VIVENTE HA BISOGNO DI AIUTO.]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[MA NON RIESCO A TRACCIARNE LA POSIZIONE.]"
+
+msgid "@niko ...ah."
+msgstr "@niko ...Ah."
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[I ROVI SI SONO RITIRATI.]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[SAI COS'È SUCCESSO?]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko Ho incontrato una... signorina pianta."
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed Riusciva a malapena a sopravvivere..."
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko Le ho prestato il sole per ora, ma..."
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed Ha detto che era troppo tardi per lei..."
+
+msgid "[I UNDERSTAND.]"
+msgstr "[CAPISCO.]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[HO IL DOVERE DI SEGNALARLO ALLA CITTÀ.]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko Un ammasso di rovi blocca la strada..."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[SALVE, PERSONE.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[POCO PIÙ AVANTI ABITANO DUE BAMBINI.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak Io sono una di loro!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+

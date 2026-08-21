@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko Está sem filme..."
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ...\\>\\nAcho que essa era a combinação certa, \\p."
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ...\\>\\nNão aconteceu nada."
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak Ahm... xis?"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf Ai, m-meus olhos..."
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak É uma foto minha!"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko ... meus olhos sempre foram grandes assim?"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak Outra foto minha!"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko Tem razão, \\p. É sempre bom ter uma reserva."
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko Outra foto minha..."
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak Três é suficiente, não é?"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c Até que é divertido!"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko Uma foto minha."
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak Esta ficou muita boa!"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak Ah, não!\\>\\n\\@niko_eyeclosed Eu pisquei nessa..."
+
+msgid "@niko Nice."
+msgstr "@niko Boa."
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak Todas elas ficaram ótimas!"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak De quantas precisamos, \\p?"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko Uma foto minha..."
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed Acabou o filme da câmera..."
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko Há um espaço aqui.\\>\\nParece que vai sair daqui algum papel ou algo do tipo."
+

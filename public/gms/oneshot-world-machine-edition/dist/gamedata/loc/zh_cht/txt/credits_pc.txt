@@ -1,0 +1,264 @@
+﻿開發團隊
+=======
+
+程式設計
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+圖像
+--------
+
+* Nightmargin (Casey Gu)
+
+角色設計
+----------------
+
+* Nightmargin
+*喬治和梅絲由 Eliza 設計
+
+配樂
+----------
+
+* Nightmargin
+*額外曲目提供者為Eliza與Michael
+*部分音樂樣本由FreeSound.org使用者提供
+  Jovica, Dymewiz, hanstimm, and Freed
+
+劇情
+-----
+
+*機制：Elisa
+*整體故事與世界觀：Nightmargin, Eliza
+*作者：Nightmargin, Eliza, Michael
+*作者（朋友檔案）： Taeler Dixon
+
+Penguin Contributors
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+系統程式設計
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+製作人（2016版）
+-----------------------
+
+* Mark Conforti
+
+2016版本測試人員
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+主機測試人員
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+桌布
+----------------
+
+Marina "Sylladexter" K
+梅絲
+秘密公羊俱樂部
+
+Missusruin
+圖書館的漫步
+
+Saren Stone
+先知
+
+Temmie Chang
+咖啡廳
+
+T. C.
+前哨站
+工廠
+
+
+OneShot主機版本翻譯
+------------------------------------
+
+法文翻譯員
+* Mahmoud Khabatou
+
+法文校稿員
+* Mohamed Khabatou
+
+法文在地化品質保證員
+* Mahmoud Khabatou
+
+西班牙翻譯員
+* Edgar Rangel
+
+西班牙文校對員
+* Sebastián Herrera
+
+西班牙文品質保證員
+* Jair Casillas
+
+韓文翻譯員
+* So-jung Jung
+
+韓文校稿員、品質保證員
+* Seo-Mi Ha
+
+葡萄牙文（巴西）翻譯員
+* Jay Ruas
+
+葡萄牙文（巴西）校稿員與在地化品質保證員
+* Karina Peixe
+* Jay Ruas
+
+日文翻譯員與在地化品質保證員
+* Sakura Yamaguchi
+
+日文校稿員
+* Yoshiki Kono
+
+義大利文翻譯員
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+義大利文校稿員
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+義大利文在地化品質保證員
+* Giammaria Angeloni
+
+
+資源
+---------
+
+*像素系統字體使用Volter(Goldfish)
+*拉丁文字所使用字型為Terminus。東亞文字經文泉驛微米黑渲染。額外的圖像文字所使用文字為The Jenna Sue與RM Typerighter。細節請查看\[licenses section\]。
+日文所使用字體為HigashiOme-Gothic。
+日文備用特殊字元字體為Noto Sans與Noto Sans JP。
+ FreeSound.org樣本提供者：
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+*額外音效使用\[Bfxr\] (http://www.bfxr.net/)
+地圖及門的材質來自\[wildtextures\] (http://www.wildtextures.com/)。額外資源取自Textures.com.
+* Devin Elle Kurtz (畫筆材質)
+* Dalton Maag LtD (Aller Display字體)
+
+額外致謝
+-----------------
+
+* Saniblues:測試及反饋
+* Redoplus:測試及反饋
+* Almond-Goddess:測試及反饋
+* FelixTheJudge:音樂及反饋
+* Albatrosssoup:音樂及反饋
+* Sauraen:音樂及反饋
+* Stanhoff:物理顧問
+* Kalkie:客串角色
+* Kitsiinabox:客串角色
+* Noxid:是Noxid
+**OneShot*原版測試人員
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+以及從初版就一直支持著我們的各位。
+你！
+
+授權
+--------
+
+由FMOD Studio by Firelight Technologies Pty Ltd.製作
+(https://www.fmod.com/attribution)
+
+由FreeSound.org取用之音效皆受權於：
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/)
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/)
+
+Terminus受權於\[Open Font License\] (http://scripts.sil.org/OFL).
+
+Noto Sans and Noto Sans JP受權於\[Open Font License\] (http://scripts.sil.org/OFL).
+
+HigashiOme Gothic受權於\[SIL Open Font License\] (https://scripts.sil.org/OFL_web).
+
+Jenna Sue受權與受付於(http://www.jennasuedesign.com/)
+
+RM Typerighter受權於\[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/).
+
+The FontStruction "Thirteen Pixel Fonts" (http://fontstruct.com/fontstructions/show/761985) by "30100flo"受權於a Creative Commons Attribution Share Alike license (http://creativecommons.org/licenses/by-sa/3.0/).
+
+文泉驛微米黑受權於\[Apache License 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0)及\[GNU General Public License v3\] (http://www.gnu.org/copyleft/gpl.html) with font embedding exceptions.
+
+Wildtextures資源自
+\[free for commercial use\] (http://www.wildtextures.com/terms-of-use/).
+
+The Textures.com使用條款於\[here\] (https://www.textures.com/about/terms-of-use).

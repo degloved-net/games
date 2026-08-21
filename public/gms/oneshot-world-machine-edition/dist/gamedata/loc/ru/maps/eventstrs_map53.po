@@ -1,0 +1,210 @@
+msgid "@niko Milk and sugar."
+msgstr "@niko Молоко и сахар."
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak Мне нравится и то, и то!"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed Только не в кофе..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Кофемашина."
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak Почти полная!"
+
+msgid "@ling_smile Hang in there.\\>\\nYou can do it."
+msgstr "@ling_smile Держись там.\\>\\nУ тебя получится."
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed Спасибо..."
+
+msgid "@ling_shock Oh hey, you're back!\\>\\n\\@ling Did you manage to fix the elevator?"
+msgstr "@ling_shock Привет! Ты вернулся.\\>\\n\\@ling Удалось починить лифт?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak \\p and I went to the surface already!\\>\\n\\@niko And..."
+msgstr "@niko Ага!\\>\\n\\@niko_speak \\p и я даже уже добрались до поверхности!\\>\\n\\@niko И..."
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko_speak Well, I remembered there being a cafe here!\\>\\n\\@niko Do you have pancakes?"
+msgstr "@niko_eyeclosed ...\\>\\n\\@niko_speak Ну, я вспомнил, что тут есть кафе!\\>\\n\\@niko У вас есть оладушки?"
+
+msgid "@ling We sure do!"
+msgstr "@ling Конечно!"
+
+msgid "@niko_speak Wait! I don't have any money...\\>\\n\\@niko Maybe I can help you wash dishes... or... something?"
+msgstr "@niko_speak Подождите! У меня нет денег...\\>\\n\\@niko Может, я... помою вам посуду... или сделаю что-то ещё?"
+
+msgid "@ling_smile No, no! It's on the house!\\>\\n\\@ling The least I can do for the savior, right?"
+msgstr "@ling_smile Нет-нет! Чувствуй себя как дома!\\>\\n\\@ling Это ведь меньшее, что я могу сделать для спасителя."
+
+msgid "@ling Here, why don't you take a seat?\\>\\nI'll go fry some up for you."
+msgstr "@ling Усаживайся поудобнее.\\>\\nЯ поджарю для тебя несколько оладушков."
+
+msgid "@niko_pancakes Pancakes..."
+msgstr "@niko_pancakes Оладушки..."
+
+msgid "@niko These pancakes are so good...\\>\\n\\@niko_speak Thank you so much!"
+msgstr "@niko Эти оладушки такие вкусные...\\>\\n\\@niko_speak Огромное спасибо!"
+
+msgid "@ling No problem!\\>\\nYou looked really hungry."
+msgstr "@ling Пожалуйста!\\>\\nТы выглядел таким голодным."
+
+msgid "@niko Yeah... I thought this would be my last chance to eat something before I go in the Tower."
+msgstr "@niko Да... Я подумал, вдруг это мой последний шанс что-то поесть, прежде чем я зайду в Башню."
+
+msgid "@ling_hm2 Ah, gotcha."
+msgstr "@ling_hm2 А, понимаю."
+
+msgid "@ling So... I guess pancakes are your favorite food?"
+msgstr "@ling Значит... Твоя любимая еда — оладушки?"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak ...well, almost!"
+msgstr "@niko Ага!\\>\\n\\@niko_speak Ну... почти!"
+
+msgid "@niko_pancakes My favorite food in the world are the special pancakes that my mama makes!"
+msgstr "@niko_pancakes Для меня самая вкусная еда на свете — особые оладушки, которые печёт моя мама!"
+
+msgid "@niko She likes to pick hazelnuts and grind them up into the batter."
+msgstr "@niko Она собирает лесные орехи, перемалывает их и кладёт в тесто."
+
+msgid "@ling_smile Oh, wow, that sounds amazing!"
+msgstr "@ling_smile Ух, ничего себе! Звучит потрясающе!"
+
+msgid "@niko_pancakes They TASTE amazing!\\>\\n\\@niko She always made them when I was feeling sad.\\>\\n\\@niko Or lonely... or..."
+msgstr "@niko_pancakes И у них потрясающий ВКУС!\\>\\n\\@niko Она всегда готовила их, когда мне было грустно.\\>\\n\\@niko Или одиноко... Или..."
+
+msgid "@niko_sad ..."
+msgstr "@niko_sad ..."
+
+msgid "@niko_sad Mama...\\>\\n\\@niko_sad I really miss her..."
+msgstr "@niko_sad Мамочка...\\>\\n\\@niko_sad Я так по ней скучаю..."
+
+msgid "@niko_less_sad ...I just...\\>\\n\\@niko_sad ...I just have a bad feeling all of a sudden!"
+msgstr "@niko_less_sad И у меня...\\>\\n\\@niko_sad ...У меня внезапно появилось плохое предчувствие!"
+
+msgid "@niko_distressed_meow Am I... even here to save the world?\\>\\nPeople have been saying how the sun won't fix anything!"
+msgstr "@niko_distressed_meow Я в самом деле пришёл сюда... чтобы спасти мир?\\>\\nВсе вокруг говорят, что солнце ничего не исправит!"
+
+msgid "@niko_sad I don't even know why I'm here...\\>\\n\\@niko_less_sad I just wanna see my mama again..."
+msgstr "@niko_sad Я даже не знаю, зачем я здесь...\\>\\n\\@niko_less_sad Я просто хочу снова увидеть маму..."
+
+msgid "@ling2 Oh, uh...\\>\\n\\@ling_oh There, there...\\>\\n\\@ling_smile It's gonna be okay!"
+msgstr "@ling2 Ой...\\>\\n\\@ling_oh Ну-ну... Не переживай...\\>\\n\\@ling_smile Всё будет хорошо!"
+
+msgid "@ling_hm And... \\@ling I'm sure you'll be able to save the world! \\>\\n\\@ling_smile You're a tough kid, you managed to get this far already, right?"
+msgstr "@ling_hm И... \\@ling я уверен, что ты сможешь спасти мир! \\>\\n\\@ling_smile Ты ведь сильный парень, раз смог проделать такой долгий путь?"
+
+msgid "@niko_distressed_meow Yeah... \\.\\.but..."
+msgstr "@niko_distressed_meow Да... \\.\\.Но..."
+
+msgid "@ling And you'll get to go home afterwards, right?"
+msgstr "@ling А потом ты пойдёшь домой, так?"
+
+msgid "@niko_less_sad Right..."
+msgstr "@niko_less_sad Так..."
+
+msgid "@ling_smile ...Hey, want some more pancakes?"
+msgstr "@ling_smile Хочешь ещё оладушков?"
+
+msgid "@niko_cry It's ok...\\>\\n\\@niko_eyeclosed ...I'll be fine."
+msgstr "@niko_cry Да нет...\\>\\n\\@niko_eyeclosed Я в порядке."
+
+msgid "@ling_smile So... yeah!\\>\\nThanks for coming by!"
+msgstr "@ling_smile Ну... ладно!\\>\\nСпасибо, что заглянул!"
+
+msgid "@niko Mhm! Thanks for listening... \\>\\n\\@niko_speak ...AND for the pancakes!"
+msgstr "@niko Ага! Спасибо, что выслушали... \\>\\n\\@niko_speak ...И за оладушки!"
+
+msgid "@ling No problem. Good luck!"
+msgstr "@ling Не за что. Удачи!"
+
+msgid "@ling_shock Oh, sorry about the trash on the floor..."
+msgstr "@ling_shock Ой, прости, что на полу не убрано..."
+
+msgid "@ling3 I was gonna throw it out earlier, but...\\>\\n\\@ling_oh ...then my coworkers caught on fire and I had to drop everything to help them."
+msgstr "@ling3 Я собирался всё прибрать, но...\\>\\n\\@ling_oh Потом мои напарники загорелись, и мне пришлось всё бросить, чтобы им помочь."
+
+msgid "@ling_sigh They're fine now though...\\>\\n\\@ling It's a good thing fire doesn't hurt robots, huh?"
+msgstr "@ling_sigh Теперь с ними всё в порядке...\\>\\n\\@ling Правда хорошо, что огонь не причиняет роботам вреда?"
+
+msgid "@ling Oh, hi there!"
+msgstr "@ling О, привет!"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak Привет!"
+
+msgid "@niko How come... there aren't any people here?"
+msgstr "@niko Как получилось... что тут нет посетителей?"
+
+msgid "@niko_speak Normally cafes have tons of people!"
+msgstr "@niko_speak Обычно в кафе полно народа!"
+
+msgid "@ling_hm Yeah, it's a really slow day..."
+msgstr "@ling_hm Да, день сегодня не очень..."
+
+msgid "@niko_speak Do you think it's because the ground access elevator is broken?"
+msgstr "@niko_speak Думаете, это потому что сломался лифт до поверхности?"
+
+msgid "@ling_sigh So I've been told."
+msgstr "@ling_sigh Мне так сказали."
+
+msgid "@ling2 The city's infrastructure has been suffering a lot lately."
+msgstr "@ling2 В последнее время инфраструктура города сильно пострадала."
+
+msgid "@ling_oh Skywalks and stairs breaking off left and right..."
+msgstr "@ling_oh Переходы и лестницы постоянно ломаются..."
+
+msgid "@ling3 Now the only reliable way of transport are those elevators..."
+msgstr "@ling3 Единственный надёжный вид перемещения — это лифты..."
+
+msgid "@ling_sigh ...Until now, anyway..."
+msgstr "@ling_sigh ...Ну, были до сегодняшнего дня..."
+
+msgid "@ling_hm You know, the tall guy came in here earlier saying the same thing.\\>\\nHe asked me if I've seen a button that says \"ground\" on it."
+msgstr "@ling_hm Знаешь, сюда чуть раньше заходил высокий парень и спрашивал то же самое.\\>\\nСпрашивал, не видел ли я кнопку с надписью «Поверхность»."
+
+msgid "@ling He looked pretty stressed, so I wanted to cheer him up...\\>\\n\\@ling_smile I told him the only \"ground\" I've seen today is coffee grounds!"
+msgstr "@ling Он был расстроен, и я решил его развеселить...\\>\\n\\@ling_smile Сказал, что видел похожую надпись на банке «Кофе с поверхности»!"
+
+msgid "@ling3 He, um..."
+msgstr "@ling3 Он..."
+
+msgid "@ling_hm He didn't get it..."
+msgstr "@ling_hm Он не понял шутки..."
+
+msgid "@ling3 I see him around a lot, but he never seems to have time to eat a proper meal..."
+msgstr "@ling3 Я часто его вижу, но у него никогда нет времени поесть нормально..."
+
+msgid "@ling_hm He kinda just, rushes in here, drinks a whole pot of coffee, and then rushes back out?"
+msgstr "@ling_hm Он просто забегает сюда, выпивает целый чайник кофе и убегает по делам."
+
+msgid "@ling_hm2 He uh, he really... takes his job to the extreme."
+msgstr "@ling_hm2 Он слишком... слишком перегружает себя работой."
+
+msgid "@ling_oh ...I mean, it's an important job, but nothing is worth that amount of stress, I think..."
+msgstr "@ling_oh Я хочу сказать, что у него, конечно, важная работа, но всё же нет ничего важнее психического здоровья..."
+
+msgid "@niko_speak What does he do?"
+msgstr "@niko_speak А чем он занимается?"
+
+msgid "@ling_hm2 Maintenance, I believe.\\>\\n\\@ling_hm Something to do with the lights, but I don't know the details."
+msgstr "@ling_hm2 Я полагаю, какое-то техническое обслуживание.\\>\\n\\@ling_hm Что-то, связанное с освещением. Но я не знаю подробности."
+
+msgid "@ling Maybe you can ask him later?"
+msgstr "@ling Ты можешь сам его об этом спросить."
+
+msgid "@ling2 Oh! You're still here...\\>\\n\\@ling_smile Would you, um, like anything?"
+msgstr "@ling2 О, ты ещё здесь...\\>\\n\\@ling_smile Может... ты чего-нибудь хочешь?"
+
+msgid "@ling I can cook something for you, if you want..."
+msgstr "@ling Я могу что-нибудь приготовить..."
+
+msgid "@niko_speak It's alright, thank you!"
+msgstr "@niko_speak Не надо, спасибо!"
+
+msgid "@ling_smile Well, don't be afraid to ask if you do get hungry!\\>\\nI'll be happy to make something for you!"
+msgstr "@ling_smile Если проголодаешься, не стесняйся, говори!\\>\\nЯ с удовольствием тебе что-нибудь приготовлю!"
+
+msgid "@niko It's an empty coffee tin."
+msgstr "@niko Это пустая кофейная банка."
+

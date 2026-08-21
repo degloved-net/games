@@ -1,0 +1,39 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko J'ai peur des échelles..."
+
+msgid "$Hey sweetie,"
+msgstr "$Bonjour mon petit bébé,"
+
+msgid "$Six more weeks until you can come home!"
+msgstr "$Plus que six semaines et tu pourras rentrer à la maison !"
+
+msgid "$'bout time, huh?"
+msgstr "$Il est grand temps, hein ?"
+
+msgid "$Gosh, I can't imagine living in that awful capsule wall... dorm... thing!"
+msgstr "$Mon Dieu, je n'imagine même pas vivre dans cet horrible \"dortoir-capsules\" !"
+
+msgid "$But guess what? Soon you'll get to sleep in a real bed and eat real food again!"
+msgstr "$Mais tu sais quoi ? Tu pourras bientôt dormir dans un vrai lit et manger à nouveau de la vraie nourriture !"
+
+msgid "$Write back soon!"
+msgstr "$Écris-moi vite !"
+
+msgid "$\\n"
+msgstr "$\\n"
+
+msgid "$\\n-love, mom."
+msgstr "$\\nTa maman qui t'aime."
+
+msgid "@niko Aww..."
+msgstr "@niko Ooooh..."
+
+msgid "$Looks like we're supposed to pack stuff for the evacuation starting today..."
+msgstr "$On dirait que nous devons plier bagages pour l'évacuation qui commence aujourd'hui..."
+
+msgid "$I wish these books weren't so heavy... it's gonna be a pain to carry them onto the ship."
+msgstr "$Dommage que ces livres soient si lourds... Ça va être pénible de les transporter jusqu'au bateau."
+
+msgid "$But they're by the Author! I can't just throw them away!"
+msgstr "$Mais ce sont ceux de l'Auteur ! Je ne peux pas me résoudre à les jeter !"
+

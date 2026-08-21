@@ -1,0 +1,12 @@
+msgid "$There's something weird about the robots who get sent to work near the gas fields."
+msgstr "$ガス田付近に派遣される\nロボットには、何か\nおかしなところがある。"
+
+msgid "$They appear to accumulate rust at a much slower rate than the others."
+msgstr "$彼らは\n他のロボットよりも、\n錆びの蓄積速度が\n格段に遅いようだ。"
+
+msgid "$The few who work directly with gas harvesting look practically new!"
+msgstr "$ガスの採掘に\n直接かかわってる\n数体は、まるで\n新品みたいだ！"
+
+msgid "$Is that a result of the atmosphere? Or am I just seeing things?"
+msgstr "$あれは大気の\n影響なのか？\nそれとも、私は幻覚を\n見ているだけなのか？"
+

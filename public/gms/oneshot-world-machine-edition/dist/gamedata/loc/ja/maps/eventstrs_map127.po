@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko 空飛ぶ機械に使うバッテリーって、\nどこを探せばあるかな？"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[バッテリーでしたら、ワタシの\nシステムに組み込まれていまス。]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[他ノ機械の電源としてハ、使用できませン。]"
+
+msgid "@niko Ah..."
+msgstr "@niko そっか…"
+
+msgid "[STAY SAFE.]"
+msgstr "[お気をつけテ。]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 君もね！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[研究施設ニハ現在、技術的問題ガ\n発生していまス。]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 そうみたいだね…"
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed この道の途中にあった橋すら…"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[シルバーポイント博士からノ指示で\nきたのですカ？]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak …違うよ？"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[デハ、そのままどうゾ。]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko あの、空飛ぶ機械に使うバッテリーって、\nどこを探せばあるかな？"
+
+msgid "[I DO NOT.]"
+msgstr "[知りませン。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 分かった…"
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[異常現象ガ増加していまス…]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak 空飛ぶ機械に使うバッテリーって、\nどこを探せばあるかな？"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[電力室ハ確認しましたカ？]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 空飛ぶ機械に使うバッテリーって、\nどこを探せばあるのかな？"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[空飛ぶ機械トハ？]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 気にしないで。"
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[ツタガ突然、この橋を覆い始めましタ。]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[マルデ、橋ヲ修理しようとしているかのようニ。]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed うん…"
+

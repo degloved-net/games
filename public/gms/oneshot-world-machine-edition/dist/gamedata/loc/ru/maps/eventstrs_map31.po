@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Эту комнату освещают светлячки."
+
+msgid "@niko Full of dried beans."
+msgstr "@niko Тут много высушенной фасоли."
+
+msgid "@niko An empty jar."
+msgstr "@niko Пустая банка."
+
+msgid "I'm getting dizzy!"
+msgstr "У меня голова кружится!"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed Я же говорил!"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak Зачем ты так крутишься?"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak У тебя закружится голова!"
+
+msgid "I'm the Tower!"
+msgstr "Я Башня!"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak Что?"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "Дедуля говорит, что Башня всё время вращалась и освещала мир!"
+
+msgid "I wanna see it too!"
+msgstr "Я тоже хочу это увидеть!"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp И я тоже!"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout Я видела солнце, когда была совсем маленькой..."
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko Ну, теперь я здесь..."
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko Думаю, теперь это лишь вопрос времени."
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko Если будешь так крутиться, голова закружится..."
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak Горошек!"
+

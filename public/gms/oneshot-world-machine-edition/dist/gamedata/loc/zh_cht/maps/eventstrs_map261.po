@@ -1,0 +1,120 @@
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "@niko2 It's a big penguin....\\.\\.plush?"
+msgstr "@niko2 一個大企鵝……\\.\\.絨毛玩偶？"
+
+msgid "@niko6 No wait, it's just a penguin."
+msgstr "@niko6 不對，等等，牠就是一隻企鵝。"
+
+msgid "@niko_speak Hello\\..\\..\\.. penguin?"
+msgstr "@niko_speak 企鵝\\..\\..\\..你好？"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ……"
+
+msgid "@niko6 ...wait \\p didn't we see a plush like that in the apartments?"
+msgstr "@niko6 ……等一下，\\p，我們在住宅區不是也看到過那樣的絨毛玩偶嗎？"
+
+msgid "@niko3 H-hello?"
+msgstr "@niko3 有、有人在嗎？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@niko_what Say... what is this place?"
+msgstr "@niko_what 所以說……這裡是哪裡？"
+
+msgid "@niko_eyeclosed I sure wasn't expecting all this to be behind that big door!"
+msgstr "@niko_eyeclosed 我實在沒料到那扇大門後面會是這些東西！"
+
+msgid "@niko_what This place doesn't even look like the rest of the world, come to think of it."
+msgstr "@niko_what 仔細想想，這裡的樣子甚至跟這世界其他地方都不一樣。"
+
+msgid "@niko_eyeclosed No answer, huh..."
+msgstr "@niko_eyeclosed 沒人回答……"
+
+msgid "@niko2 \\p... Do YOU know where this is?"
+msgstr "@niko2 \\p……你知道這裡是哪裡嗎？"
+
+msgid "[\"Somewhere important\", \"I have no idea\", \"HELLO\"]"
+msgstr "[\"某個重要的地方\",\"我也不知道\",\"有人在嗎\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko ...where?"
+msgstr "@niko_speak 真的？\\>\\n\\@niko ……是哪裡？"
+
+msgid "@niko_eyeclosed Worth a shot!"
+msgstr "@niko_eyeclosed 好吧，至少我問了。"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ……"
+
+msgid "@niko_eyeclosed Anyway."
+msgstr "@niko_eyeclosed 不管了。"
+
+msgid "@niko_what2 ...the penguin won't stop staring at me!"
+msgstr "@niko_what2 ……企鵝一直盯著我看！"
+
+msgid "@niko5 What... should I do now, \\p?"
+msgstr "@niko5 \\p……現在我該怎麼辦？"
+
+msgid "[\"Story of penguin\", \"Play penguin's game\", \"HELLO\"]"
+msgstr "[\"企鵝故事\",\"玩企鵝遊戲\",\"有人在嗎\"]"
+
+msgid "@niko_speak I like stories!"
+msgstr "@niko_speak 我喜歡故事！"
+
+msgid "[\"Once upon a time.\"]"
+msgstr "[\"從前從前。\"]"
+
+msgid "[\"There was a game.\"]"
+msgstr "[\"有一個遊戲。\"]"
+
+msgid "[\"Where you talk\"]"
+msgstr "[\"在遊戲裡你要\"]"
+
+msgid "[\"...To penguin.\"]"
+msgstr "[\"……跟企鵝說話。\"]"
+
+msgid "@niko A game?\\> What happened when you talk to it?"
+msgstr "@niko 遊戲？\\> 跟牠說話會怎麼樣？"
+
+msgid "[\"HELLO\"]"
+msgstr "[\"有人在嗎\"]"
+
+msgid "@niko3 ...Hello."
+msgstr "@niko3 ……你好。"
+
+msgid "@niko2 Alright..."
+msgstr "@niko2 好吧……"
+
+msgid "[\"Fly penguin\", \"Melt penguin\", \"Become penguin\", \"HELLO\"]"
+msgstr "[\"讓企鵝飛\",\"讓企鵝融化\",\"變成企鵝\",\"有人在嗎\"]"
+
+msgid "@niko Fly penguin?"
+msgstr "@niko 讓企鵝飛？"
+
+msgid "@niko_pancakes IT FLIES!"
+msgstr "@niko_pancakes 牠飛起來了！"
+
+msgid "@niko_what2 ...wait."
+msgstr "@niko_what2 ……等一下。"
+
+msgid "@niko_what I don't think... \\.\\.I don't think penguins are supposed to do that."
+msgstr "@niko_what 我想……\\.\\.企鵝應該不會飛才對吧。"
+
+msgid "@niko3 ...\\.\\.Wait what?"
+msgstr "@niko3 ……\\.\\.等等，什麼？"
+
+msgid "@niko_wtf2 ..."
+msgstr "@niko_wtf2 ……"
+
+msgid "...\\> ...\\> UM."
+msgstr "……\\>……\\>嗯。"
+
+msgid "@niko_eyeclosed ...we should go, \\p."
+msgstr "@niko_eyeclosed ……\\p，我們該走了。"
+
+msgid "@niko_speak Goodbye, penguin!"
+msgstr "@niko_speak 企鵝再見！"
+

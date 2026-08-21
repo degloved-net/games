@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "980276414335-hho5n11r5vkg0vng5hh41opktp8l04g5.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwp9l9suW1-U-EOrXD2KQrdntdxENtII"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:980276414335:ios:0f45dae12337f879", 
+        "android_client_info": {
+          "package_name": "com.AarJeeBee.dictators"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "dictators-ae904.appspot.com", 
+    "project_id": "dictators-ae904", 
+    "firebase_url": "https://dictators-ae904.firebaseio.com", 
+    "project_number": "980276414335"
+  }
+}

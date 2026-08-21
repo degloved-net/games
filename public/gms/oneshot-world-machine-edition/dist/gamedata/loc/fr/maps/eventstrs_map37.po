@@ -1,0 +1,303 @@
+msgid "@niko I think I have something I'd like to trade!\\>\\n\\@niko_speak You'll take wool, right?\\>\\n\\@niko What can this wool get me?"
+msgstr "@niko J'ai quelque chose que j'aimerais échanger !\\>\\n\\@niko_speak Vous acceptez la laine, n'est-ce pas ?\\>\\n\\@niko Que peut-elle me rapporter ?"
+
+msgid "@magpie_hm Wool, huh?"
+msgstr "@magpie_hm De la laine, hein ?"
+
+msgid "@magpie That'll get you.\\..\\..\\.\\. This fine vial of..."
+msgstr "@magpie En échange tu auras...\\..\\..\\.\\. cette jolie fiole de..."
+
+msgid "@magpie_smile I'm not sure what this is, actually!\\>\\nSome sort of fabric dye?"
+msgstr "@magpie_smile En réalité, je ne sais pas exactement ce que c'est !\\>\\nUn genre de teinture pour vêtements, peut-être ?"
+
+msgid "@niko Hmm... How about it, \\p?"
+msgstr "@niko Hummm... Qu'en pensez-vous, \\p ?"
+
+msgid "[\"Take the offer!\", \"Ehh...\"]"
+msgstr "[\"Accepte l'offre !\",\"Euh...\"]"
+
+msgid "@niko_speak I'll do it!"
+msgstr "@niko_speak Vendu !"
+
+msgid "@magpie_smile Pleasure doing business!"
+msgstr "@magpie_smile C'est un plaisir de faire affaire avec toi !"
+
+msgid "@niko Wait, \\p... you want to... haggle?\\>\\n\\@niko_what ...really?"
+msgstr "@niko Attendez, \\p... vous voulez... marchander ?\\>\\n\\@niko_what ... Vraiment ?"
+
+msgid "@niko_eyeclosed Alright then..."
+msgstr "@niko_eyeclosed Très bien, dans ce cas..."
+
+msgid "@niko_speak \\p said they wanted a better offer!"
+msgstr "@niko_speak \\p veut que vous nous fassiez une nouvelle offre !"
+
+msgid "@magpie_oh ...holy smokes!\\>\\n\\@magpie_smile Forgot I was doing a trade with god for a second there..."
+msgstr "@magpie_oh ... Par tous les saints !\\>\\n\\@magpie_smile Pendant une seconde, j'ai oublié que je négociais avec un dieu..."
+
+msgid "@magpie Okay, okay...\\>\\n\\@magpie_smile In that case, I'll also throw in this commemorative T-shirt!"
+msgstr "@magpie D'accord, d'accord...\\>\\n\\@magpie_smile Dans ce cas, je peux aussi ajouter ce t-shirt commémoratif !"
+
+msgid "@niko Uh..."
+msgstr "@niko Euh..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Oui\",\"Non\"]"
+
+msgid "@magpie Oh well, then.\\nCome back anytime."
+msgstr "@magpie Eh bien, dans ce cas.\\nReviens quand tu veux."
+
+msgid "@niko_eyeclosed \\p, no..."
+msgstr "@niko_eyeclosed \\p, non..."
+
+msgid "@magpie_oh Hey! I just gave that to you!"
+msgstr "@magpie_oh Hé ! Je viens juste de te le donner !"
+
+msgid "@magpie_smile What, you wanna trade it back?"
+msgstr "@magpie_smile Comment ? Tu veux me le rendre ?"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed Pas vraiment..."
+
+msgid "@magpie Good, cuz I wasn't gonna!"
+msgstr "@magpie Tant mieux, parce que je ne l'aurais pas repris !"
+
+msgid "@magpie I ain't takin that back!"
+msgstr "@magpie Je ne reprendrai pas ça !"
+
+msgid "@magpie_hm The shepherd was handing those out a while ago.\\>\\n\\@magpie_smile But does it LOOK like it'll fit me?"
+msgstr "@magpie_hm Le berger en distribuait il y a un temps.\\>\\n\\@magpie_smile Mais tu penses VRAIMENT que ça m'irait ?"
+
+msgid "@niko Huh?"
+msgstr "@niko Pardon ?"
+
+msgid "@magpie_smile T-Shirts aren't exactly made for people with wings!"
+msgstr "@magpie_smile Les t-shirts ne sont pas tout à fait prévus pour des personnes ailées !"
+
+msgid "@niko Wait, trade this?"
+msgstr "@niko Attendez, vous échangeriez ceci ?"
+
+msgid "@niko_speak Don't you want to find out what it says first, \\p?"
+msgstr "@niko_speak Vous ne voulez pas d'abord savoir ce que ça dit, \\p ?"
+
+msgid "@magpie What's that? A book?"
+msgstr "@magpie Qu'est-ce que c'est que ça ? Un livre ?"
+
+msgid "@magpie_smile Uh, not sure if I wanna take books, I can't read!"
+msgstr "@magpie_smile Euh, les livres ne m'intéressent pas, je ne sais pas lire !"
+
+msgid "@magpie_oh I can't take this!"
+msgstr "@magpie_oh Je ne peux pas prendre ça !"
+
+msgid "@niko_eyeclosed I'm not trading that, \\p!"
+msgstr "@niko_eyeclosed Je n'échangerai pas ça, \\p !"
+
+msgid "@magpie You're not trading what?"
+msgstr "@magpie Tu n'échanges pas quoi ?"
+
+msgid "@magpie What's that? A feather?"
+msgstr "@magpie Qu'est-ce que c'est que ça ? Une plume ?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Hum !"
+
+msgid "@magpie_hm Wait... \\.\\.\\@magpie_oh Oh my stars!"
+msgstr "@magpie_hm Attends... \\.\\.\\@magpie_oh Par les étoiles !"
+
+msgid "@magpie_oh That is NOT \"a\" feather!"
+msgstr "@magpie_oh Ce n'est pas une simple plume !"
+
+msgid "@magpie That is a feather from the late Prophet!"
+msgstr "@magpie C'est une plume de la défunte prophétesse !"
+
+msgid "@magpie_oh Probably one of the most sacred items there is!"
+msgstr "@magpie_oh C'est probablement l'un des objets les plus sacrés qui soient !"
+
+msgid "@magpie_oh How in the WORLD did you get a hold of THAT?"
+msgstr "@magpie_oh Comment DIABLE as-tu réussi à mettre la main dessus ?"
+
+msgid "@magpie_hm ...Wait, I guess it would make sense for you to have one."
+msgstr "@magpie_hm ... Attends, je pense qu'il sera utile que tu en aies une."
+
+msgid "@magpie_smile Y'know, with you being the savior and all."
+msgstr "@magpie_smile Tu sais, puisque tu es le messie."
+
+msgid "@niko Um... okay."
+msgstr "@niko Hum... D'accord."
+
+msgid "@niko The seed left behind by the plant lady?"
+msgstr "@niko La graine laissée par la dame-plante ?"
+
+msgid "@niko_huh Oh, but what if...\\. it's like...\\. her baby..."
+msgstr "@niko_huh Oh, et si...\\. c'était un peu comme...\\. son bébé..."
+
+msgid "@niko_speak I can't give away someone's baby like that!"
+msgstr "@niko_speak Je ne peux pas donner le bébé de quelqu'un d'autre comme ça !"
+
+msgid "@niko_wtf2 Especially not to a bird..."
+msgstr "@niko_wtf2 Encore moins à un oiseau..."
+
+msgid "@magpie_oh ...hey!"
+msgstr "@magpie_oh ... Hé !"
+
+msgid "@niko_eyeclosed I don't think it's right to trade this away, \\p ..."
+msgstr "@niko_eyeclosed Je ne pense pas que ce soit bien d'échanger ça, \\p..."
+
+msgid "@magpie_oh Oh hey! You have one of those coin things!"
+msgstr "@magpie_oh Oh hé ! Je reconnais ces espèces de pièces de monnaie !"
+
+msgid "@magpie I've dug up a couple of these before."
+msgstr "@magpie J'en ai déjà déterré des comme ça."
+
+msgid "@niko Oh?"
+msgstr "@niko Oh ?"
+
+msgid "@magpie_smile Yeah! There's this guy who would trade me the BEST things for them."
+msgstr "@magpie_smile Ouais ! Je connais quelqu'un qui m'échangerait les MEILLEURS objets contre ces trucs-là."
+
+msgid "@magpie Like, one time he brought me this little machine that plays music!"
+msgstr "@magpie La preuve, une fois il m'a apporté cette petite machine qui joue de la musique !"
+
+msgid "@magpie_hm I don't know what it's called, but you have to wind it up..."
+msgstr "@magpie_hm Je ne sais pas comment ça s'appelle, mais il faut la remonter..."
+
+msgid "@niko_speak Music box?"
+msgstr "@niko_speak Une boîte à musique ?"
+
+msgid "@magpie_smile That's it!"
+msgstr "@magpie_smile C'est ça !"
+
+msgid "@magpie I wish that guy would come back soon, I haven't seen him in forever."
+msgstr "@magpie J'espère qu'il reviendra bientôt, je ne l'ai pas vu depuis longtemps."
+
+msgid "@magpie_smile I wanna do more trades with him!"
+msgstr "@magpie_smile J'aimerais faire d'autres échanges avec lui !"
+
+msgid "@niko How about this... glass tube full of water I got from a robot?"
+msgstr "@niko Que pensez-vous de ça... un tube en verre rempli d'eau qu'un robot m'a échangé ?"
+
+msgid "@niko Do you like glass?"
+msgstr "@niko Vous aimez le verre ?"
+
+msgid "@magpie_smile Do I!"
+msgstr "@magpie_smile Et comment !"
+
+msgid "@niko ...do you?"
+msgstr "@niko ... C'est vrai ?"
+
+msgid "@magpie I LOVE glass!"
+msgstr "@magpie J'ADORE le verre !"
+
+msgid "@magpie_smile SO much."
+msgstr "@magpie_smile Vraiment."
+
+msgid "@magpie_hm ...so much that I have too much glass and not enough other things."
+msgstr "@magpie_hm ... À tel point que j'ai trop de verre et pas assez d'autres objets."
+
+msgid "@magpie_hm I gotta get rid of some of my old bottles and vials to make room for new stuff!"
+msgstr "@magpie_hm Je vais devoir me débarrasser de mes vieilles bouteilles et fioles pour faire de la place à d'autres trucs !"
+
+msgid "@magpie That's why I set up a tradepost in the first place."
+msgstr "@magpie C'est la première raison pour laquelle j'ai créé ce point d'échange."
+
+msgid "@niko_eyeclosed So I guess that's a no-go..."
+msgstr "@niko_eyeclosed Donc je suppose que ça veut dire non..."
+
+msgid "@niko_eyeclosed \\p... wasn't the whole point of trading was so that we could make a pen?"
+msgstr "@niko_eyeclosed \\p... ne sommes-nous pas venus à ce point d'échange dans le but de fabriquer un stylo ?"
+
+msgid "@niko Let's not trade this away..."
+msgstr "@niko Il ne faut pas échanger ça..."
+
+msgid "@magpie Heya!\\>\\nYou here to trade?"
+msgstr "@magpie Salut !\\>\\nTu es là pour faire un échange ?"
+
+msgid "@niko Trade?"
+msgstr "@niko Un échange ?"
+
+msgid "@magpie_smile Yeah!\\>\\n\\@magpie Is there anything you want to get rid of?"
+msgstr "@magpie_smile Ouais !\\>\\n\\@magpie Y a-t-il quelque chose dont tu voudrais te débarrasser ?"
+
+msgid "@magpie Make me an offer and I'll give you something in return!"
+msgstr "@magpie Fais-moi une offre et je te donnerai quelque chose en échange !"
+
+msgid "@niko Hm...\\>\\n\\@niko_speak Do we have something like that, \\p?"
+msgstr "@niko Hum...\\>\\n\\@niko_speak On a quelque chose comme ça, \\p ?"
+
+msgid "@niko It's a wagon stuffed with stuff!"
+msgstr "@niko C'est un wagon rempli d'objets !"
+
+msgid "@magpie_smile It sure is!"
+msgstr "@magpie_smile C'est tout à fait ça !"
+
+msgid "@niko Shiny things are spread out on the rug."
+msgstr "@niko Des choses brillantes sont étalées sur le tapis."
+
+msgid "@niko They glimmer in the sunlight."
+msgstr "@niko Elles scintillent au soleil."
+
+msgid "@niko They glimmer in the light of the lamp."
+msgstr "@niko Elles scintillent à la lumière de la lampe."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak Ouah !"
+
+msgid "@niko_speak That's a lotta shiny things!"
+msgstr "@niko_speak Toutes ces choses brillantes !"
+
+msgid "@niko Glass shards, glass marbles..."
+msgstr "@niko Des morceaux de verre, des billes en verre..."
+
+msgid "@niko ...empty glass bottles, mostly-empty glass bottles, glass bottles filled with different things..."
+msgstr "@niko ... Des bouteilles en verre vides, des bouteilles en verre quasiment vides, des bouteilles en verre remplies d'objets divers..."
+
+msgid "@niko ...bits of string, colored wool, plain wool, fabric scraps..."
+msgstr "@niko ... Des morceaux de ficelle, de la laine colorée, de la laine pure, des chutes de tissu..."
+
+msgid "@niko ...a rusty bucket, scrap metal, shells, some rocks..."
+msgstr "@niko ... Un seau rouillé, de la ferraille, des coquillages, quelques cailloux..."
+
+msgid "@niko_speak What's all this for, by the way?"
+msgstr "@niko_speak À quoi ça sert tout ça, au fait ?"
+
+msgid "@magpie I just think they're neat!"
+msgstr "@magpie Je trouve ça tout simplement super !"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed L'entrée est pleine de vignes, \\p..."
+
+msgid "@alula_oh Oh!"
+msgstr "@alula_oh Oh !"
+
+msgid "@alula_oh This is the shrine where the old prophet used to live..."
+msgstr "@alula_oh C'est le sanctuaire où vivait la défunte prophétesse..."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Oh ?"
+
+msgid "@alula_pout I don't remember the last time I was here..."
+msgstr "@alula_pout Je ne me souviens pas de la dernière fois où je suis venue ici..."
+
+msgid "@alula_speak Back when she was still alive, I think?"
+msgstr "@alula_speak Sans doute était-elle toujours vivante à l'époque ?"
+
+msgid "The flood can take away our farmlands..."
+msgstr "L'inondation peut emporter nos terres agricoles..."
+
+msgid "...but it can't take away our fish!"
+msgstr "... Mais elle ne peut pas emporter nos poissons !"
+
+msgid "@niko These look like herrings."
+msgstr "@niko On dirait des harengs."
+
+msgid "@niko_speak Or... anchovies?"
+msgstr "@niko_speak Ou... des anchois ?"
+
+msgid "@niko Maybe sardines..."
+msgstr "@niko Peut-être des sardines..."
+
+msgid "@niko_eyeclosed I honestly have no clue!"
+msgstr "@niko_eyeclosed En fait, je n'en sais rien !"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko Quelques lucioles bourdonnent dans ce pot."
+

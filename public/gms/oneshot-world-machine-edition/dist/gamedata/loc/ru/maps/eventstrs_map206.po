@@ -1,0 +1,165 @@
+msgid "@alula_pout ...Niko!"
+msgstr "@alula_pout Нико!.."
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh Нико? Что случилось?"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock У тебя был такой вид, будто ты сейчас упадёшь в обморок!"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko2 It's... not the first time it's happened."
+msgstr "@niko2 Просто... это случилось снова."
+
+msgid "@calamus ...oh?"
+msgstr "@calamus М-м?"
+
+msgid "@niko_speak Earlier I was in the Barrens, and I...\\>\\n\\@niko6 saw something like this too."
+msgstr "@niko_speak Раньше, когда я был в Пустоши...\\>\\n\\@niko6 Я видел нечто похожее."
+
+msgid "@niko2 It was like a dream, but only for a split second..."
+msgstr "@niko2 Как сон, но всего на пару секунд."
+
+msgid "@calamus ...sounds like a vision."
+msgstr "@calamus Похоже, это видение."
+
+msgid "@calamus_speak Like something a prophet would see!"
+msgstr "@calamus_speak Такое случается у пророков!"
+
+msgid "@niko2 I... guess?\\n\\>\\@niko_eyeclosed The robot lady I was with earlier had a fancy word for it, though..."
+msgstr "@niko2 Ну... наверное?\\n\\>\\@niko_eyeclosed Тётя-робот, с которой я шёл раньше, называла это каким-то чудным словом..."
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 Подождите..."
+
+msgid "@niko6 Lemme... check something."
+msgstr "@niko6 Дайте кое-что проверить."
+
+msgid "@niko_speak Oh!\\>\\nI was right!"
+msgstr "@niko_speak Ого!\\>\\nЯ был прав!"
+
+msgid "@calamus ...huh?"
+msgstr "@calamus Чего?"
+
+msgid "@niko When I had the vision back at the Barrens... the book started glowing too!"
+msgstr "@niko Когда у меня было видение в Пустоши... книга тоже начала светиться!"
+
+msgid "@niko2 I wanted to see if I could get it to happen again, and..."
+msgstr "@niko2 Я хотел проверить, случится ли это снова, и..."
+
+msgid "@alula_gasp Where did you get that!!!"
+msgstr "@alula_gasp Где ты её взял?!"
+
+msgid "@niko Oh, uh... \\>\\@niko_speak I had it with me when I woke up in this world!"
+msgstr "@niko О... Э-э-э... \\>\\@niko_speak Когда я тут проснулся, она уже была рядом!"
+
+msgid "@alula_speak It looks like one of our friend's books!"
+msgstr "@alula_speak Она похожа на одну из книг нашего друга!"
+
+msgid "@alula ...Except it's glowy!"
+msgstr "@alula ...Только она светится!"
+
+msgid "@niko2 ...that's what the lady said too..."
+msgstr "@niko2 Тётя-робот тоже это сказала..."
+
+msgid "@niko_eyeclosed Hm..."
+msgstr "@niko_eyeclosed Хм-м..."
+
+msgid "@niko \\p... let's see if we can do anything with the journal in this room..."
+msgstr "@niko \\p... Давай попробуем что-нибудь сделать с дневником в этой комнате."
+
+msgid "@alula I wonder when our friend will come back..."
+msgstr "@alula Интересно, когда наш друг вернётся."
+
+msgid "@alula_gasp Woah!"
+msgstr "@alula_gasp Ух ты!"
+
+msgid "@calamus_shock How did that boat get there?"
+msgstr "@calamus_shock Как здесь оказалась лодка?"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@niko Okay, I'm pretty sure it has to do with this journal, now..."
+msgstr "@niko Теперь я точно уверен, что это всё связано с дневником."
+
+msgid "@niko2 The exact same thing happened back at the Barrens."
+msgstr "@niko2 То же самое случилось в Пустоши."
+
+msgid "@calamus_speak Seriously?"
+msgstr "@calamus_speak Серьёзно?"
+
+msgid "@niko The journal was glowing, so I wanted to take a closer look at it."
+msgstr "@niko Дневник засветился, и я решил повнимательнее его рассмотреть."
+
+msgid "@niko2 Then, I found a page that looked like a drawing of the room we were in, and then..."
+msgstr "@niko2 Потом я нашёл страницу, на которой был рисунок места, в котором мы находились. А потом..."
+
+msgid "@niko_speak A minecart showed up!"
+msgstr "@niko_speak Появилась вагонетка!"
+
+msgid "@calamus_shock What!"
+msgstr "@calamus_shock Что?!"
+
+msgid "@alula_gasp What!"
+msgstr "@alula_gasp Что?!"
+
+msgid "@calamus_speak That sounds freaky..."
+msgstr "@calamus_speak Звучит жутковато..."
+
+msgid "@alula_speak No it doesn't!"
+msgstr "@alula_speak Вовсе нет!"
+
+msgid "@alula_gasp \\p must've done something!"
+msgstr "@alula_gasp Это, наверное, \\p!"
+
+msgid "@calamus Still..."
+msgstr "@calamus И всё же..."
+
+msgid "@alula_gasp ...Hey! We have a boat now!"
+msgstr "@alula_gasp Эй! Теперь у нас есть лодка!"
+
+msgid "@alula_speak We can go to the burial grounds and visit mom again!"
+msgstr "@alula_speak Мы можем отправиться на кладбище и снова навестить маму!"
+
+msgid "@calamus But..."
+msgstr "@calamus Но..."
+
+msgid "@alula_speak Come on, Calamus!"
+msgstr "@alula_speak Идём, Каламус!"
+
+msgid "@alula Niko and \\p are with us!"
+msgstr "@alula С нами же Нико и \\p!"
+
+msgid "@calamus Well... \\.\\.\\nif \\p made the boat appear... it should be safe..."
+msgstr "@calamus Что ж... \\.\\.\\nЕсли \\p умеет призывать лодки... Наверное, это безопасно..."
+
+msgid "@niko2 What...\\.\\. do you think, \\p?"
+msgstr "@niko2 Как ты\\.\\. думаешь, \\p?"
+
+msgid "@alula_gasp Can we go yet?"
+msgstr "@alula_gasp Мы уже можем плыть?"
+
+msgid "@alula_gasp Here we go!"
+msgstr "@alula_gasp Поплыли!"
+
+msgid "@calamus This passage must be where fireflies congregate..."
+msgstr "@calamus Наверное, этот проход там, где целый рой светлячков..."
+
+msgid "@calamus I wonder how long this passage is..."
+msgstr "@calamus Интересно, какой длины этот проход?"
+
+msgid "@calamus_speak Looks like there's some lights at the end..."
+msgstr "@calamus_speak В конце, вроде, виднеются какие-то огни..."
+
+msgid "@alula_speak Those are fireflies!"
+msgstr "@alula_speak Это светлячки!"
+
+msgid "@calamus_smile We can leave whenever you're ready."
+msgstr "@calamus_smile Мы отправимся, когда ты будешь готова."
+
+msgid "@niko It's a clover."
+msgstr "@niko Это клевер."
+

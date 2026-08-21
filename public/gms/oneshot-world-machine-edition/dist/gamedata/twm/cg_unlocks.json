@@ -1,0 +1,491 @@
+{
+    "cgList": [
+        {
+            "imageId": "cg_wake1",
+            "displayOrder": 100,
+            "displayName": "Wake"
+        },
+        {
+            "imageId": "cg_wake2",
+            "displayOrder": 101,
+            "displayName": "Wake"
+        },
+        {
+            "imageId": "cg_wake3",
+            "displayOrder": 102,
+            "displayName": "Wake"
+        },
+        {
+            "imageId": "cg_wake4",
+            "displayOrder": 103,
+            "displayName": "Wake"
+        },
+        {
+            "imageId": "cg_wake5",
+            "displayOrder": 104,
+            "displayName": "Wake"
+        },
+        {
+            "imageId": "cg_desktop",
+            "displayOrder": 110,
+            "displayName": "Desktop",
+            "scale": 1
+        },
+        {
+            "imageId": "b0",
+            "displayOrder": 200,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b1",
+            "displayOrder": 201,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b2",
+            "displayOrder": 202,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b3",
+            "displayOrder": 203,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b4",
+            "displayOrder": 204,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b5",
+            "displayOrder": 205,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b6",
+            "displayOrder": 206,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b7",
+            "displayOrder": 207,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b8",
+            "displayOrder": 208,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "b9",
+            "displayOrder": 209,
+            "displayName": "Basement"
+        },
+        {
+            "imageId": "cg_door1",
+            "displayOrder": 250,
+            "displayName": "Door"
+        },
+        {
+            "imageId": "cg_door2",
+            "displayOrder": 251,
+            "displayName": "Door"
+        },
+        {
+            "imageId": "cg_blue",
+            "displayOrder": 300,
+            "displayName": "Barrens Reveal",
+            "scrollbarY": 0.6,
+            "overrideWindowSize": {
+                "X": 340,
+                "Y": 240
+            },
+            "fitHorizontal": true,
+            "fullscreenBlendMode": "Normal"
+        },
+        {
+            "imageId": "cg_map",
+            "displayOrder": 310,
+            "displayName": "Map of the World",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_amber",
+            "displayOrder": 350,
+            "displayName": "Amber Pendant"
+        },
+        {
+            "imageId": "cg_boat1",
+            "displayOrder": 390,
+            "displayName": "Rowbot"
+        },
+        {
+            "imageId": "cg_boat2",
+            "displayOrder": 391,
+            "displayName": "Rowbot"
+        },
+        {
+            "imageId": "cg_boat3",
+            "displayOrder": 392,
+            "displayName": "Rowbot"
+        },
+        {
+            "imageId": "cg_green",
+            "displayOrder": 400,
+            "displayName": "Glen Reveal"
+        },
+        {
+            "imageId": "cg_afeather",
+            "displayOrder": 450,
+            "displayName": "Feather"
+        },
+        {
+            "imageId": "cg_red",
+            "displayOrder": 500,
+            "displayName": "Refuge Reveal",
+            "scrollbarX": 1.0
+        },
+        {
+            "imageId": "cg_adice",
+            "displayOrder": 550,
+            "displayName": "Dice"
+        },
+        {
+            "imageId": "cg_tower1",
+            "displayOrder": 600,
+            "displayName": "Tower",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_tower2",
+            "displayOrder": 601,
+            "displayName": "Tower",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_tower3",
+            "displayOrder": 602,
+            "displayName": "Tower",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_tower4",
+            "displayOrder": 603,
+            "displayName": "Tower"
+        },
+        {
+            "imageId": "cg_tower5",
+            "displayOrder": 604,
+            "displayName": "Tower"
+        },
+        {
+            "imageId": "choice00",
+            "displayOrder": 700,
+            "displayName": "Choice"
+        },
+        {
+            "imageId": "cg_credits1",
+            "displayOrder": 800,
+            "additionalLayers": [
+                "cg_credits1_1",
+                "cg_credits1_2",
+                "cg_credits1_3",
+                "cg_credits1_4",
+                "cg_credits1_5",
+                "cg_credits1_6"
+            ],
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "cg_credits1B",
+            "displayOrder": 810,
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "cg_credits2",
+            "displayOrder": 811,
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "cg_credits3",
+            "displayOrder": 812,
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "cg_credits4",
+            "displayOrder": 813,
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "cg_credits5",
+            "displayOrder": 814,
+            "displayName": "Credits"
+        },
+        {
+            "imageId": "sol_journal_glow1",
+            "displayOrder": 900,
+            "displayName": "Journal"
+        },
+        {
+            "imageId": "sol_journal_glow2",
+            "displayOrder": 901,
+            "displayName": "Journal"
+        },
+        {
+            "imageId": "sol_mine1",
+            "displayOrder": 990,
+            "displayName": "Minecart"
+        },
+        {
+            "imageId": "sol_mine2",
+            "displayOrder": 991,
+            "displayName": "Minecart"
+        },
+        {
+            "imageId": "sol_mine3",
+            "displayOrder": 992,
+            "displayName": "Minecart"
+        },
+        {
+            "imageId": "sol_mine4",
+            "displayOrder": 993,
+            "displayName": "Minecart"
+        },
+        {
+            "imageId": "sol_mine5",
+            "displayOrder": 994,
+            "displayName": "Minecart"
+        },
+        {
+            "imageId": "sol_glenboat1",
+            "displayOrder": 1090,
+            "displayName": "Boat"
+        },
+        {
+            "imageId": "sol_glenboat2",
+            "displayOrder": 1091,
+            "displayName": "Boat"
+        },
+        {
+            "imageId": "sol_glenboat3",
+            "displayOrder": 1092,
+            "displayName": "Boat"
+        },
+        {
+            "imageId": "sol_glenboat4",
+            "displayOrder": 1093,
+            "displayName": "Boat"
+        },
+        {
+            "imageId": "sol_flight1",
+            "displayOrder": 1190,
+            "displayName": "Flight"
+        },
+        {
+            "imageId": "sol_flight2",
+            "displayOrder": 1191,
+            "displayName": "Flight"
+        },
+        {
+            "imageId": "sol_flight3",
+            "displayOrder": 1192,
+            "displayName": "Flight"
+        },
+        {
+            "imageId": "sol_flight4",
+            "displayOrder": 1193,
+            "displayName": "Flight"
+        },
+        {
+            "imageId": "sol_rue",
+            "displayOrder": 1200,
+            "displayName": "Rue"
+        },
+        {
+            "imageId": "cg_dream1_1",
+            "displayOrder": 5000,
+            "displayName": "Dream 1",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream1_2",
+            "displayOrder": 5001,
+            "displayName": "Dream 1",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream1_3",
+            "displayOrder": 5002,
+            "displayName": "Dream 1",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream1_4",
+            "displayOrder": 5003,
+            "displayName": "Dream 1",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream2_1",
+            "displayOrder": 5004,
+            "displayName": "Dream 2",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream2_2",
+            "displayOrder": 5005,
+            "displayName": "Dream 2",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream2_3",
+            "displayOrder": 5006,
+            "displayName": "Dream 2",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream2_4",
+            "displayOrder": 5007,
+            "displayName": "Dream 2",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream2_5",
+            "displayOrder": 5008,
+            "displayName": "Dream 2",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream3_1",
+            "displayOrder": 5009,
+            "displayName": "Dream 3",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream3_2",
+            "displayOrder": 5010,
+            "displayName": "Dream 3",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream3_3",
+            "displayOrder": 5011,
+            "displayName": "Dream 3",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream3_4",
+            "displayOrder": 5012,
+            "displayName": "Dream 3",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream4_1",
+            "displayOrder": 5013,
+            "displayName": "Dream 4",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream4_2",
+            "displayOrder": 5014,
+            "displayName": "Dream 4",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream4_3",
+            "displayOrder": 5015,
+            "displayName": "Dream 4",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream4_4",
+            "displayOrder": 5016,
+            "displayName": "Dream 4",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream5_1",
+            "displayOrder": 5017,
+            "displayName": "Dream 5",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream5_2",
+            "displayOrder": 5018,
+            "displayName": "Dream 5",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream5_3",
+            "displayOrder": 5019,
+            "displayName": "Dream 5",
+            "scale": 1
+        },
+        {
+            "imageId": "cg_dream5_4",
+            "displayOrder": 5020,
+            "displayName": "Dream 5",
+            "scale": 1
+        },
+        {
+            "imageId": "book_clover",
+            "displayOrder": 6000,
+            "displayName": "Clover",
+            "scale": 1
+        },
+        {
+            "imageId": "book_dice",
+            "displayOrder": 6001,
+            "displayName": "Dice",
+            "scale": 1
+        },
+        {
+            "imageId": "book_fauna",
+            "displayOrder": 6002,
+            "displayName": "Fauna",
+            "scale": 1
+        },
+        {
+            "imageId": "book_phosphor1",
+            "displayOrder": 6004,
+            "displayName": "Phosphor 1",
+            "scale": 1
+        },
+        {
+            "imageId": "book_phosphor2",
+            "displayOrder": 6005,
+            "displayName": "Phosphor 2",
+            "scale": 1
+        },
+        {
+            "imageId": "book_phosphor3",
+            "displayOrder": 6006,
+            "displayName": "Phosphor 3",
+            "scale": 1
+        },
+        {
+            "imageId": "book_phosphor4",
+            "displayOrder": 6007,
+            "displayName": "Phosphor 4",
+            "scale": 1
+        },
+        {
+            "imageId": "book_prophet",
+            "displayOrder": 6008,
+            "displayName": "Prophet",
+            "scale": 1
+        },
+        {
+            "imageId": "book_prophetbot",
+            "displayOrder": 6009,
+            "displayName": "ProphetBot",
+            "scale": 1
+        },
+        {
+            "imageId": "book_sketch",
+            "displayOrder": 6010,
+            "displayName": "Sketch",
+            "scale": 1
+        }
+    ]
+}

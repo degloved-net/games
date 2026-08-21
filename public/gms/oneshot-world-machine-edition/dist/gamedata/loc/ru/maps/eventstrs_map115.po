@@ -1,0 +1,81 @@
+msgid "These robots are malfunctioning at a frightening rate."
+msgstr "У этих роботов устрашающее количество неполадок."
+
+msgid "Physical damage from square-particle anomalies is almost impossible to revert."
+msgstr "Физический урон от квадратных аномалий практически необратим."
+
+msgid "No living person can touch them, unless they have a death wish."
+msgstr "Ни один человек не может к ним прикоснуться, если не хочет покончить с собой."
+
+msgid ".\\..\\..But if we're lucky, sometimes the squares go away on their own."
+msgstr ".\\..\\..Но иногда нам везёт, и аномалии исчезают сами."
+
+msgid "...but not before taking away one of the robot's arms, or legs."
+msgstr "...Правда, прежде отрывают роботу руку или ногу."
+
+msgid "...or head."
+msgstr "...Или голову."
+
+msgid "@niko_huh ...okay."
+msgstr "@niko_huh Ладно..."
+
+msgid "I don't know if you've ever seen a headless robot before, but it is quite a sight to behold."
+msgstr "Не знаю, доводилось ли тебе видеть робота без головы. Такое зрелище не забывается."
+
+msgid "And also quite dangerous."
+msgstr "А ещё это очень опасно."
+
+msgid "@niko A robot."
+msgstr "@niko Робот."
+
+msgid "[I CANNOT STOP SPINNING.]"
+msgstr "[Я НЕ МОГУ ОСТАНОВИТЬСЯ.]"
+
+msgid "[BOOP.]"
+msgstr "[БУП.]"
+
+msgid "[WE ARE WAITING TO BE REPAIRED.]"
+msgstr "[МЫ ЖДЁМ, ЧТОБЫ НАС ПОЧИНИЛИ.]"
+
+msgid "This is so tedious!"
+msgstr "Это так утомительно!"
+
+msgid "I miss the good ol' days before our robot-repairing-robots broke down."
+msgstr "Я скучаю по старым добрым временам, когда роботов чинили роботы, ремонтирующие роботов."
+
+msgid "Now all the robots have to be assembled by actual people."
+msgstr "Теперь всех роботов собирают живые люди."
+
+msgid "@niko_speak But... aren't you a robot?"
+msgstr "@niko_speak Но... разве вы не робот?"
+
+msgid "No?"
+msgstr "Нет."
+
+msgid "I mean, Do I SOUND like a robot to you?"
+msgstr "По-твоему, я ГОВОРЮ как робот?"
+
+msgid "@niko Not really."
+msgstr "@niko Вообще-то, нет."
+
+msgid "@niko_speak But... your head is a tv?"
+msgstr "@niko_speak Но... у вас вместо головы телевизор?"
+
+msgid "W...what does that have to do with anything?"
+msgstr "И... какая тут взаимосвязь?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed ...nevermind."
+msgstr "@niko_eyeclosed Неважно."
+
+msgid "We should probably fix the robot-repairing-robots first."
+msgstr "Нам стоит сначала починить роботов, ремонтирующих роботов."
+
+msgid "But the higher-ups need these guys done first for some reason..."
+msgstr "Но руководство почему-то хочет, чтобы мы сначала закончили с этими..."
+
+msgid "@niko This one isn't active..."
+msgstr "@niko Этот не работает..."
+

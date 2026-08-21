@@ -1,0 +1,36 @@
+msgid "[I HAVE LOST COMMUNICATION WITH THE GUARDIAN OUTSIDE THE CITY GATE.]"
+msgstr "[도시 정문 바깥의 수호자와 통신이 끊겼습니다.]"
+
+msgid "@niko2 The... big robot, right?"
+msgstr "@niko2 그 큰 로봇 말이에요?"
+
+msgid "[PLEASE HELP ME CHECK ON THEM.]"
+msgstr "[대신 확인해 주십시오.]"
+
+msgid "[I CANNOT LEAVE MY STATION.]"
+msgstr "[전 이 위치를 떠날 수 없습니다.]"
+
+msgid "@niko Alright..."
+msgstr "@niko 알았어요..."
+
+msgid "[THE DEEPER RUINS ARE AHEAD.]"
+msgstr "[앞에는 더욱 깊은 폐허가 있습니다.]"
+
+msgid "[DO NOTE THAT THEY ARE PARTIALLY FLOODED.]"
+msgstr "[참고로 일부는 물에 잠겼습니다.]"
+
+msgid "@niko3 There's squares all over the big robot..."
+msgstr "@niko3 큰 로봇이 사각형에 온통 뒤덮였어요..."
+
+msgid "[AH.]"
+msgstr "[아.]"
+
+msgid "[THAT IS OUTSIDE MY CAPACITY FOR HELP.]"
+msgstr "[제 능력 밖의 일입니다.]"
+
+msgid "[YOU MAY PROCEED TO THE DEEPER RUINS.]"
+msgstr "[깊은 폐허로 가십시오.]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 알겠어요..."
+

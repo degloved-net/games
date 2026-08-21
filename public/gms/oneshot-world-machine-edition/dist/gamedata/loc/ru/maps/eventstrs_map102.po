@@ -1,0 +1,318 @@
+msgid "@niko It's not safe to use this minecart anymore, \\p."
+msgstr "@niko \\p, теперь опасно ехать на этой вагонетке."
+
+msgid "@niko_eyeclosed We can't use this anymore..."
+msgstr "@niko_eyeclosed Мы больше не можем это использовать..."
+
+msgid "@niko Still at it?"
+msgstr "@niko Ты всё ещё занята?"
+
+msgid "@silver_eyeclosed [Still at it.]"
+msgstr "@silver_eyeclosed [Я всё ещё занята.]"
+
+msgid "@niko How's it going?"
+msgstr "@niko Как дела?"
+
+msgid "@silver_eyeclosed [Not ideal.]"
+msgstr "@silver_eyeclosed [Далеко до идеала.]"
+
+msgid "@silver [Looks like these terminals are running on a completely separate power source.]"
+msgstr "@silver [Похоже, что эти терминалы питаются от полностью автономного источника энергии.]"
+
+msgid "@silver2 [I can't really recognize any of the data formats on this terminal, either.]"
+msgstr "@silver2 [И я не могу распознать ни одного формата данных на этом терминале.]"
+
+msgid "@silver2 [This is all... new....]"
+msgstr "@silver2 [Они все... новые...]"
+
+msgid "@silver_eyeclosed [...or at least, encrypted.]"
+msgstr "@silver_eyeclosed [Или, как минимум, зашифрованные...]"
+
+msgid "@silver [I will need to analyze it through my own system.]"
+msgstr "@silver [Мне нужно провести анализ, прогнав их через собственную систему.]"
+
+msgid "@silver [Might take some time, so you don't need to stay.]"
+msgstr "@silver [Это займёт какое-то время, так что можешь пока куда-нибудь сходить.]"
+
+msgid "@silver [Oh, found another video feed...]"
+msgstr "@silver [О, я нашла ещё одну видеотрансляцию...]"
+
+msgid "@silver2 [I should definitely go look for the cameras later.]"
+msgstr "@silver2 [Определённо, надо будет потом поискать камеры.]"
+
+msgid "@silver_eyeclosed [This is really bothering me...]"
+msgstr "@silver_eyeclosed [Это меня весьма тревожит...]"
+
+msgid "@silver2 [This observation room... isn't for the mines...]"
+msgstr "@silver2 [Эта комната для наблюдений... не за шахтами...]"
+
+msgid "@silver2 [I've actually never been into this particular one.]"
+msgstr "@silver2 [Сюда я никогда раньше не заходила.]"
+
+msgid "@niko2 Really?"
+msgstr "@niko2 Правда?"
+
+msgid "@niko You recognized it at first, though..."
+msgstr "@niko Но поначалу ты ведь её узнала..."
+
+msgid "@silver_eyeclosed [They all look the same.]"
+msgstr "@silver_eyeclosed [Они все выглядят одинаково.]"
+
+msgid "@niko_eyeclosed Fair enough!"
+msgstr "@niko_eyeclosed Справедливо!"
+
+msgid "@silver2 [I did find something interesting, though.]"
+msgstr "@silver2 [Зато я нашла кое-что любопытное.]"
+
+msgid "@silver_lookup [All the databases seem to encode video feeds.]"
+msgstr "@silver_lookup [Все базы данных кодируют видеотрансляции.]"
+
+msgid "@silver [Right now, I can see various places in the Barrens.]"
+msgstr "@silver [Сейчас я вижу разные районы Пустоши.]"
+
+msgid "@silver [The outpost... the residential areas...]"
+msgstr "@silver [Посёлок... Жилые кварталы...]"
+
+msgid "@silver2 [Even my own house.]"
+msgstr "@silver2 [Даже мой собственный дом.]"
+
+msgid "@silver_eyeclosed [They're all shot from a top-down perspective, too.]"
+msgstr "@silver_eyeclosed [И все видео снимаются сверху вниз.]"
+
+msgid "@silver2 [...which means the cameras would have to be in the air.]"
+msgstr "@silver2 [То есть, камеры, по идее, расположены в воздухе.]"
+
+msgid "@silver_eyeclosed [But... I have never seen any cameras around.]"
+msgstr "@silver_eyeclosed [Но... я никогда не видела никаких камер.]"
+
+msgid "@niko_what That's kind of spooky!"
+msgstr "@niko_what Жутковато!"
+
+msgid "@silver_eyeclosed [I might go investigate later, yeah.]"
+msgstr "@silver_eyeclosed [Да, я попозже всё разузнаю.]"
+
+msgid "@silver [Did you find anything interesting in the backroom?]"
+msgstr "@silver [Ты нашёл что-нибудь интересное в задней комнате?]"
+
+msgid "@silver2 [You were in there for a while.]"
+msgstr "@silver2 [Ты там задержался.]"
+
+msgid "@niko_speak Yeah! We... \\.\\.\\@niko5 ...found...\\.\\. a"
+msgstr "@niko_speak Да! Мы...\\.\\.\\@niko5 нашли...\\.\\. этот..."
+
+msgid "@niko6 ...a dead end?"
+msgstr "@niko6 Этот тупик..."
+
+msgid "@silver_eyeclosed [I see.]"
+msgstr "@silver_eyeclosed [Понятно.]"
+
+msgid "@silver [Come on, let's go back.]"
+msgstr "@silver [Вернёмся обратно.]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [Идём.]"
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko Какое-то маленькое устройство."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko Интересно, зачем оно нужно?"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak Я чувствую, как у меня волосы шевелятся на голове."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko Это силовая ячейка...\\nЯ полагаю."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak О!"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak Сбоку написано: «Робот-пророк»."
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko Раньше я этого не замечал."
+
+msgid "@niko2 Oh, the cart's stopped!"
+msgstr "@niko2 Ой, вагонетка остановилась!"
+
+msgid "@niko_eyeclosed Looks like this is as far as the tracks go..."
+msgstr "@niko_eyeclosed Похоже, дальше рельсы не идут..."
+
+msgid "@niko So...\\.\\.\\. where are we?"
+msgstr "@niko Ну и...\\.\\.\\. где мы?"
+
+msgid "@silver_lookup [One of the old observation rooms.]"
+msgstr "@silver_lookup [В одной из старых комнат для наблюдения.]"
+
+msgid "@silver2 [Looks like it's still mostly intact.]"
+msgstr "@silver2 [Здесь почти ничего не пострадало.]"
+
+msgid "@silver2 [What...?]"
+msgstr "@silver2 [Что?..]"
+
+msgid "@niko2 Huh?"
+msgstr "@niko2 М-м?"
+
+msgid "@silver2 [The terminal just reactivated!]"
+msgstr "@silver2 [Только что подключился терминал!]"
+
+msgid "@silver [But the power was cut off so long ago...]"
+msgstr "@silver [Но здесь уже давно нет электричества...]"
+
+msgid "@niko6 Weird!"
+msgstr "@niko6 Странно!"
+
+msgid "@niko_speak Maybe... it runs on battery?"
+msgstr "@niko_speak Может... Он работает от какой-то батареи?"
+
+msgid "@silver_eyeclosed [No... that's not it.]"
+msgstr "@silver_eyeclosed [Нет, не может быть.]"
+
+msgid "@silver2 [Whatever it is, I need to investigate.]"
+msgstr "@silver2 [Как бы то ни было, я должна всё выяснить.]"
+
+msgid "@niko Okay..."
+msgstr "@niko Ладно..."
+
+msgid "@silver2 [Will you be okay by yourself for a bit?]"
+msgstr "@silver2 [Займись пока чем-нибудь, ладно?]"
+
+msgid "@niko_speak Don't worry! \\p's with me!"
+msgstr "@niko_speak Не волнуйся! \\p всегда со мной!"
+
+msgid "@silver_eyeclosed [Alright. Stay safe.]"
+msgstr "@silver_eyeclosed [Хорошо. Аккуратнее там.]"
+
+msgid "@niko4 I shouldn't get too close..."
+msgstr "@niko4 Мне не следует подходить близко..."
+
+msgid "@niko Some sort of computer."
+msgstr "@niko Какой-то компьютер."
+
+msgid "@ed [I remember it... what happened in the Tower.]"
+msgstr "@ed [Я это помню... То, что произошло в Башне.]"
+
+msgid "@ed [What I tried to do... and how you managed to see through it all.]"
+msgstr "@ed [Что я попытался сделать... и как тебе удалось меня раскусить.]"
+
+msgid "@ed [We HAVE been through all of this.]"
+msgstr "@ed [Мы уже всё это проходили.]"
+
+msgid "@ed [Even though it was only supposed to run once... you still managed to come back.]"
+msgstr "@ed [Несмотря на то, что предполагался лишь один заход... тебе всё-таки удалось вернуться.]"
+
+msgid "@ed [...How did you come back?]"
+msgstr "@ed [...Как тебе удалось вернуться?]"
+
+msgid "@ed [...How did you bring Niko back?]"
+msgstr "@ed [...Как тебе удалось вернуть Нико?]"
+
+msgid "@ed [And then, you even managed to break out of bounds.]"
+msgstr "@ed [И тебе даже удалось вырваться за рамки.]"
+
+msgid "@ed [Bringing Niko to places that never should have been.]"
+msgstr "@ed [Привести Нико в места, в которых он никогда не должен был оказаться...]"
+
+msgid "@ed [It was HIM, wasn't it?]"
+msgstr "@ed [Это всё ОН, верно?]"
+
+msgid "@ed [And now... now....]"
+msgstr "@ed [И теперь... теперь...]"
+
+msgid "@ed [Niko is upset.]"
+msgstr "@ed [Нико расстроен.]"
+
+msgid "@ed [What even happened in that room back there?]"
+msgstr "@ed [Что произошло в той комнате?]"
+
+msgid "@ed [What did Niko learn?]"
+msgstr "@ed [Что узнал Нико?]"
+
+msgid "@ed [I can feel it.]"
+msgstr "@ed [Я это чувствую.]"
+
+msgid "@ed [I told you to turn back, \\p!]"
+msgstr "@ed [Я же говорил тебе, \\p, повернуть назад!]"
+
+msgid "@ed [But you've chosen to trust that man instead of me.]"
+msgstr "@ed [Но естественно ты веришь этому человеку больше, чем мне.]"
+
+msgid "@ed [...No, not even that.]"
+msgstr "@ed [Нет, даже не так...]"
+
+msgid "@ed [Just his book.]"
+msgstr "@ed [Простой книге.]"
+
+msgid "@ed [His ghost.]"
+msgstr "@ed [Его призраку.]"
+
+msgid "@ed [This world is not real.]"
+msgstr "@ed [Этот мир ненастоящий.]"
+
+msgid "@ed [The people are not real.]"
+msgstr "@ed [И люди в нём ненастоящие.]"
+
+msgid "@ed [Niko... is....]"
+msgstr "@ed [Нико... просто...]"
+
+msgid "@ed [No no no no no.]"
+msgstr "@ed [Нет-нет-нет-нет.]"
+
+msgid "@ed [Everything.]"
+msgstr "@ed [Всё.]"
+
+msgid "@ed [Is.]"
+msgstr "@ed [Идёт.]"
+
+msgid "@ed [  W  r  o  n  g  !  !  ]"
+msgstr "@ed [  Н  е    т  а  к  !  !  ]"
+
+msgid "@niko_shock AH!!"
+msgstr "@niko_shock АЙ!"
+
+msgid "@silver_worry [...The minecart!]"
+msgstr "@silver_worry [Вагонетка!]"
+
+msgid "@silver3 [Earthquake...]"
+msgstr "@silver3 [Землетрясение...]"
+
+msgid "@niko_surprised Th-\\.\\.the tunnel back out just collapsed!"
+msgstr "@niko_surprised Т-туннель...\\.\\. Туннель сзади обрушился!"
+
+msgid "@silver_worry [No!!]"
+msgstr "@silver_worry [Нет!]"
+
+msgid "@niko3 What are we gonna do?!"
+msgstr "@niko3 Что нам делать?!"
+
+msgid "@silver_worry [I....]"
+msgstr "@silver_worry [Я...]"
+
+msgid "@proto1 [Wait.]"
+msgstr "@proto1 [Подождите.]"
+
+msgid "@proto2 [The exit just caved, didn't it.]"
+msgstr "@proto2 [Только завалило вход, так?]"
+
+msgid "@proto2b [Sigh.]"
+msgstr "@proto2b [Эх.]"
+
+msgid "@proto2 [I saw this coming, but this is a bit more sudden than I anticipated.]"
+msgstr "@proto2 [Я знал, что это случится, но не ожидал, что так скоро.]"
+
+msgid "@proto1 [Both of you. Follow me.]"
+msgstr "@proto1 [Вы оба. Идите за мной.]"
+
+msgid "@niko3 Where to?"
+msgstr "@niko3 Куда?"
+
+msgid "@proto1 [The way out.]"
+msgstr "@proto1 [К выходу.]"
+
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko В банке плавает много маленьких светящихся креветок."
+
+msgid "@niko3 I shouldn't get too close..."
+msgstr "@niko3 Мне не стоит подходить так близко..."
+

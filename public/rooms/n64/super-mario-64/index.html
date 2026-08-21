@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Super Mario 64</title>
+
+	<style>
+        html, body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: black;
+        }
+
+        #container {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        canvas {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+	</style>
+</head>
+
+<body>
+<div id="container">
+	<canvas class="emscripten" id="canvas"></canvas>
+</div>
+
+<script>
+    var Module = {
+        preRun: [],
+        postRun: [],
+
+        print: function(text) {
+            console.log(text);
+        },
+
+        printErr: function(text) {
+            console.error(text);
+        },
+
+        canvas: (function() {
+            var canvas = document.getElementById('canvas');
+
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+
+            canvas.addEventListener("webglcontextlost", function(e) {
+                alert('WebGL context lost. Reload the page.');
+                e.preventDefault();
+            }, false);
+
+            return canvas;
+        })(),
+
+        setStatus: function(text) {}
+    };
+
+    window.addEventListener("resize", function () {
+        const canvas = document.getElementById("canvas");
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    });
+</script>
+
+<script async src="sm64.us.f3dex2e.js"></script>
+</body>
+</html>

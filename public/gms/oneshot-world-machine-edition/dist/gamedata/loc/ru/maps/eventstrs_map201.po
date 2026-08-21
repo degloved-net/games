@@ -1,0 +1,39 @@
+msgid "@rue !"
+msgstr "@rue !"
+
+msgid "@rue You're here!!!"
+msgstr "@rue Ты здесь!"
+
+msgid "@niko2 Rue!"
+msgstr "@niko2 Рута!"
+
+msgid "@niko5 That's... you, right?"
+msgstr "@niko5 Это же ты... правда?"
+
+msgid "@rue Yes."
+msgstr "@rue Да."
+
+msgid "@rue_talk Niko!"
+msgstr "@rue_talk Нико!"
+
+msgid "@niko2 Are you... are you Rue?"
+msgstr "@niko2 Ты... Ты Рута?"
+
+msgid "@rue Did you... \\.\\.already meet the others?"
+msgstr "@rue Ты... \\.\\.уже встретил остальных?"
+
+msgid "@niko2 Yeah... \\.\\.\\@niko_distressed2 but..."
+msgstr "@niko2 Да... \\.\\.\\@niko_distressed2 но..."
+
+msgid "@rue_sigh ...everything is in place, then."
+msgstr "@rue_sigh Тогда всё нормально."
+
+msgid "@rue Come on, let's go back to the clock room."
+msgstr "@rue Идём. Вернёмся в комнату с часами."
+
+msgid "@niko There's no one here..."
+msgstr "@niko Здесь никого нет..."
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko Это большое дерево с листьями!\\>\\nЯ не видел таких с тех пор, как здесь оказался..."
+

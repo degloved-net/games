@@ -1,0 +1,210 @@
+msgid "This plane doesn't have a runway because night said so that's why. -GIR"
+msgstr "Esse avião não tem pista porque a noite quis assim, é por isso. -GIR"
+
+msgid "@cedric_sigh ...phew."
+msgstr "@cedric_sigh ... ufa."
+
+msgid "@cedric_smile Made it!"
+msgstr "@cedric_smile Consegui!"
+
+msgid "@niko_pancakes ..."
+msgstr "@niko_pancakes ..."
+
+msgid "@cedric3 You...\\.\\. okay, there?"
+msgstr "@cedric3 Tá... \\.\\.tudo bem aí?"
+
+msgid "@niko_pancakes ...\\>That was the coolest thing I have ever done in my entire life."
+msgstr "@niko_pancakes ... \\>Foi a coisa mais legal que já fiz em toda minha vida."
+
+msgid "@cedric_smile Heheh...\\.\\. reactions from first-timers are always delightful to watch."
+msgstr "@cedric_smile Heheh...\\.\\. é sempre gostoso ver a reação dos novatos."
+
+msgid "@niko5 ..."
+msgstr "@niko5 ..."
+
+msgid "@niko6 Hey, \\p?"
+msgstr "@niko6 Ei, \\p?"
+
+msgid "@niko2 That... was really fun."
+msgstr "@niko2 Foi... muito divertido."
+
+msgid "@niko_speak Did you... have fun too?"
+msgstr "@niko_speak Você... também se divertiu?"
+
+msgid "@niko_eyeclosed I mean... you weren't on the plane with me, but..."
+msgstr "@niko_eyeclosed Quero dizer... você não estava no avião comigo, mas..."
+
+msgid "@niko_speak You got to watch it at least, right?"
+msgstr "@niko_speak Pelo menos viu, não foi?"
+
+msgid "@niko And... \\.\\.Cedric...?"
+msgstr "@niko E... \\.\\.Cedric...?"
+
+msgid "@cedric3 Yeah?"
+msgstr "@cedric3 Sim?"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed Valeu..."
+
+msgid "@cedric3 ....\\.\\.What for?"
+msgstr "@cedric3 ... \\.\\.Pelo quê?"
+
+msgid "@niko_speak Flying!"
+msgstr "@niko_speak Voar!"
+
+msgid "@cedric Oh, um..."
+msgstr "@cedric Ah, ahm..."
+
+msgid "@cedric_smile You're... \\.\\.welcome?"
+msgstr "@cedric_smile Ué... \\.\\.De nada."
+
+msgid "@niko_eyeclosed And... for answering my questions back there, too..."
+msgstr "@niko_eyeclosed E... por responder às minhas perguntas também..."
+
+msgid "@niko5 And... \\.\\.for telling me more about the World Machine."
+msgstr "@niko5 E... \\.\\.por me falar mais sobre a Máquina do Mundo."
+
+msgid "@niko_upset I'm just.... \\.\\.really sorry about what happened to your old world, though..."
+msgstr "@niko_upset Eu.... \\.\\.sinto muito pelo que aconteceu com seu mundo antigo..."
+
+msgid "@niko2 So...\\.\\. I'll help you the best that I can."
+msgstr "@niko2 Então...\\.\\. vou fazer tudo o que puder."
+
+msgid "@cedric ..."
+msgstr "@cedric ..."
+
+msgid "@niko4 And...\\.\\. even if it's all just a machine, this world is still...\\.\\. \\@niko2 nice..."
+msgstr "@niko4 E...\\.\\. mesmo se for só uma máquina, esse mundo é tão... \\.\\.\\@niko2 legal..."
+
+msgid "@niko_eyeclosed I mean, I got to fly... \\.\\.I got to see the ocean..."
+msgstr "@niko_eyeclosed Eu voei... \\.\\.vi o mar..."
+
+msgid "@niko And...\\.\\. I got to meet a lot of nice people!\\n\\>\\@niko_speak People like you!"
+msgstr "@niko E... \\.\\.conheci um monte de gente legal!\\n\\>\\@niko_speak Gente igual você!"
+
+msgid "@niko_eyeclosed ...and Prototype, even if he's broken right now."
+msgstr "@niko_eyeclosed ... e o Protótipo, mesmo ele quebrado agora."
+
+msgid "@cedric ...\\>\\@cedric_smile I'm glad you are taking it so well, Niko."
+msgstr "@cedric ... \\>\\@cedric_smile Fico feliz que esteja levando tão na boa, Niko."
+
+msgid "@cedric2 And... I'm glad that we have met as well."
+msgstr "@cedric2 E... fico feliz de ter te conhecido."
+
+msgid "@cedric_sigh ...Despite the...\\.\\. circumstances."
+msgstr "@cedric_sigh .... Apesar das... \\.\\.circunstâncias."
+
+msgid "@cedric_talk Ah, speaking of Proto... \\@cedric_hmm I should probably head off now."
+msgstr "@cedric_talk Ah, falando do Proto... \\@cedric_hmm Preciso ir agora."
+
+msgid "@cedric I need to go pick up the siblings too..."
+msgstr "@cedric Preciso buscar os irmãos também..."
+
+msgid "@niko2 That's true...\\.\\. those two have been waiting for a while now..."
+msgstr "@niko2 Verdade...\\.\\. eles já devem estar esperando há algum tempo..."
+
+msgid "@cedric_hmm In the meantime..."
+msgstr "@cedric_hmm Enquanto isso..."
+
+msgid "@cedric_smile Do you remember what to do to get to the surface?"
+msgstr "@cedric_smile Você lembra do que fazer para chegar até a superfície?"
+
+msgid "@niko_speak I remember having to fix an elevator button!"
+msgstr "@niko_speak Lembro de ter que consertar o botão de um elevador!"
+
+msgid "@cedric_hmm Alright, you should attend to that, then."
+msgstr "@cedric_hmm Certo, vamos começar por isso então."
+
+msgid "@cedric_talk Let's meet up here in an hour, okay?"
+msgstr "@cedric_talk A gente se encontra aqui em cima daqui a uma hora, tá?"
+
+msgid "@niko Got it!"
+msgstr "@niko Beleza!"
+
+msgid "@cedric Alright, now lemme just-"
+msgstr "@cedric Certo, agora só preciso..."
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ..."
+
+msgid "@niko_shock No!"
+msgstr "@niko_shock Não!"
+
+msgid "@niko_shock ...\\.\\.they're...\\.\\. trapped on the island..."
+msgstr "@niko_shock ... \\.\\.eles estão...\\.\\. presos na ilha..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_distressed2 ......Calamus....\\> Alula...."
+msgstr "@niko_distressed2 ... Calamus... \\>Alula..."
+
+msgid "@niko_distressed2 ...they're..."
+msgstr "@niko_distressed2 ... eles estão..."
+
+msgid "@cedric_eek ....we\\.\\. ...don't have much time left."
+msgstr "@cedric_eek ... nós\\.\\.... não temos muito tempo."
+
+msgid "@cedric_sigh2 Niko... change of plans."
+msgstr "@cedric_sigh2 Niko... Mudança de planos."
+
+msgid "@cedric_sigh Please give me the memory disk."
+msgstr "@cedric_sigh Entregue-me o disco de memória."
+
+msgid "@niko2 ...alright..."
+msgstr "@niko2 ... certo..."
+
+msgid "@cedric2 Listen carefully."
+msgstr "@cedric2 Ouça com atenção."
+
+msgid "@cedric_sigh2 It's likely I'll be targeted again, so we should split up to keep you safe."
+msgstr "@cedric_sigh2 É provável que venham atrás de mim de novo, por isso talvez seja melhor nos separarmos."
+
+msgid "@cedric I want you to find a door under a large clock."
+msgstr "@cedric Quero que você procure uma porta sob um relógio grande."
+
+msgid "@cedric_sigh The room behind it houses a pair of ground access elevators."
+msgstr "@cedric_sigh Depois dela, há dois elevadores de acesso ao térreo."
+
+msgid "@cedric Once you get to the ground, immediately find Rue and bring her back to the room."
+msgstr "@cedric Ao chegar ao térreo, procure a Rue e leve-a de volta para o cômodo."
+
+msgid "@cedric She will know what to do in the meantime."
+msgstr "@cedric Ela saberá o que fazer nesse meio tempo."
+
+msgid "@niko2 Alright...\\.\\. \\@niko3 What about you, though?"
+msgstr "@niko2 Certo... \\.\\.\\@niko3 Mas e você?"
+
+msgid "@cedric3 I'm going to bring Prototype back."
+msgstr "@cedric3 Vou recuperar o protótipo."
+
+msgid "@niko_surprised WH-"
+msgstr "@niko_surprised O QU..."
+
+msgid "@niko_surprised Are you okay???"
+msgstr "@niko_surprised Você está bem??"
+
+msgid "@cedric_talk WHAAAAAT????"
+msgstr "@cedric_talk O QUÊÊÊÊ??"
+
+msgid "@niko_speak ARE YOU OKAAAAAY???"
+msgstr "@niko_speak VOCÊ ESTÁ BEEEEEEM??"
+
+msgid "@cedric_talk DON'T WORRYYY I'M FINEEEE"
+msgstr "@cedric_talk NÃO SE PREOCUPE, ESTOU BEEEEM"
+
+msgid "@niko_eyeclosed ...don't scare me like that..."
+msgstr "@niko_eyeclosed ... não me assuste assim..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_upset2 ...."
+msgstr "@niko_upset2 ..."
+
+msgid "@niko2 Hey, \\p...?"
+msgstr "@niko2 Ei... \\p...?"
+
+msgid "@niko_eyeclosed Let's... do our best."
+msgstr "@niko_eyeclosed Vamos... fazer tudo que pudermos."
+

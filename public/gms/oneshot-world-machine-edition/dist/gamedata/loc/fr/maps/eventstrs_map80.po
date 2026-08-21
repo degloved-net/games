@@ -1,0 +1,78 @@
+msgid "[HELLO!]"
+msgstr "[BONJOUR !]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak Bonjour !"
+
+msgid "@niko What are you doing up there?"
+msgstr "@niko Que fais-tu là-haut ?"
+
+msgid "[I AM STATIONED HERE.]"
+msgstr "[JE SUIS AFFECTÉ À CET EMPLACEMENT.]"
+
+msgid "@niko By yourself?"
+msgstr "@niko Tout seul ?"
+
+msgid "[YES.]"
+msgstr "[OUI.]"
+
+msgid "@niko A picture of a robot."
+msgstr "@niko La photo d'un robot."
+
+msgid "@niko_speak ...Y'know, I've never been around so many robots before, \\p!"
+msgstr "@niko_speak ... Vous savez, \\p, je n'avais jamais vu autant de robots avant !"
+
+msgid "@niko Or...\\.\\. any robots at all..."
+msgstr "@niko Enfin... \\.\\.je n'avais jamais vu de robots tout court..."
+
+msgid "@niko_speak I mean, I see them in cartoons and stuff, but I've never seen one in person!"
+msgstr "@niko_speak Enfin si, dans des dessins animés ou autres, mais jamais en vrai !"
+
+msgid "@niko They're pretty neat, don't you think?"
+msgstr "@niko Ils sont plutôt pas mal, vous ne trouvez pas ?"
+
+msgid "[\"Yeah.\", \"Hey Niko do a robot voice\"]"
+msgstr "[\"Oui.\",\"Hé Niko, imitez la voix d'un robot\"]"
+
+msgid "@niko Yeah!"
+msgstr "@niko Oui !"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...What?"
+msgstr "@niko_speak ... Quoi ?"
+
+msgid "[\"Try talking like a robot!\"]"
+msgstr "[\"Essayez de parler comme un robot !\"]"
+
+msgid "@niko um..."
+msgstr "@niko Hum..."
+
+msgid "@niko_eyeclosed *ahem*"
+msgstr "@niko_eyeclosed *Hum*."
+
+msgid "@niko [BEEEP BOOP]"
+msgstr "@niko [BIP BOOP]"
+
+msgid "@niko_speak [I'M A ROBOT AND I...\\. EAT BATTERIES...\\. INSTEAD OF NORMAL PEOPLE FOOD!]"
+msgstr "@niko_speak [JE SUIS UN ROBOT ET JE...\\. MANGE DES PILES...\\. PLUTÔT QUE DE LA NOURRITURE NORMALE !]"
+
+msgid "@niko_83c Hehe..."
+msgstr "@niko_83c Hé hé..."
+
+msgid "[THAT IS NOT CORRECT.]"
+msgstr "[CECI EST INCORRECT.]"
+
+msgid "[ROBOTS DO NOT CONSUME BATTERIES IN THE SAME WAY PEOPLE CONSUME FOOD.]"
+msgstr "[LES PILES NE SERVENT PAS AUX ROBOTS DE LA MÊME FAÇON QUE LA NOURRITURE SERT AUX GENS.]"
+
+msgid "[IN FACT, ROBOTS DO NOT POSSESS DIGESTIVE SYSTEMS.]"
+msgstr "[D'AILLEURS, LES ROBOTS N'ONT PAS DE SYSTÈME DIGESTIF.]"
+
+msgid "[SOME ROBOTS DO NOT EVEN HAVE MOUTHS.]"
+msgstr "[CERTAINS ROBOTS N'ONT MÊME PAS DE BOUCHE.]"
+
+msgid "@niko \\p...\\. \\>\\@niko_eyeclosed you made me look silly..."
+msgstr "@niko \\p...\\. \\>\\@niko_eyeclosed J'ai l'air ridicule maintenant..."
+

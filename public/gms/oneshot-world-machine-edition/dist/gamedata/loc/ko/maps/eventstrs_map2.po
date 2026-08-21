@@ -1,0 +1,150 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [\\c[7]TV 리모컨\\c[0]이 놓여 있다.]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [니코는 리모컨을 집어 들었다.]"
+
+msgid "@ed [In the faint light,\\nNiko can glimpse the face of the remote...]"
+msgstr "@ed [희미한 빛 속에서,\\n니코는 리모컨의 버튼이 있는 곳을 들여다보았다...]"
+
+msgid "@ed [All of the numbers except \\v[51], \\v[52], \\v[53], and \\v[54] are missing.]"
+msgstr "@ed [번호 중 \\v[51], \\v[52], \\v[53], \\v[54] 네 개만 남아 있다.]"
+
+msgid "@ed [All of the numbers except \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], and \\c[4]\\v[51]\\c[0] are missing.]"
+msgstr "@ed [번호 중 \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0] 네 개만 남아 있다.]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [번호 중 \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], \\c[2]\\v[52]\\c[0] 네 개만 남아 있다.]"
+
+msgid "@ed [All of the numbers except \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[1]\\v[53]\\c[0] are missing.]"
+msgstr "@ed [번호 중 \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0] 네 개만 남아 있다.]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [번호 중 \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0],  \\c[2]\\v[52]\\c[0] 네 개만 남아 있다.]"
+
+msgid "@ed [They're marked in bright colors.]"
+msgstr "@ed [네 개의 숫자는 밝은색으로 표시되어 있다.]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [부드러운 빛이 창문으로 흘러 들어온다.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak 저, 저기요?"
+
+msgid "@niko .....\\p?"
+msgstr "@niko .....\\p?"
+
+msgid "@niko_shock ...\\>\\n\\@niko_what ...wait, why did I... say that word..."
+msgstr "@niko_shock ...\\>\\n\\@niko_what ...잠깐, 내가 왜... 그 말을 한 거지..."
+
+msgid "@niko_eyeclosed ...\"\\p\"."
+msgstr "@niko_eyeclosed ...\"\\p\"."
+
+msgid "@niko_distressed2 ....why does that sound so familiar?"
+msgstr "@niko_distressed2 ...어째서 친숙하게 느껴지는 걸까?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [먼지투성이 책들이다.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [여긴 너무 어두워 책을 읽을 수 없다.]"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [니코가 방금 전에 일어난 곳이다.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 안 켜지네."
+
+msgid "Input Password:\\n(Password Hint: Documents)"
+msgstr "비밀번호 입력:\\n(비밀번호 힌트: 문서)"
+
+msgid "Input Password:"
+msgstr "비밀번호를 입력하십시오."
+
+msgid "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+msgstr "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]접근 승인."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop 날 찾았구나."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop ...왜지?"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop 너무 늦었어.\\n이 세계는\\n거의 붕괴됐어."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 여기서 나가는 순간\\n확실히 알게 될 거야."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop 이젠 구해야 할\\n의미도 없어졌어."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop ...그래도 시도해 보고 싶어?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop 그렇다면, 이것만 기억해."
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 네가 여기서 하는 행동은\\n니코에게 영향을 미칠 거야."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 너의 \"임무\"는,\\n니코가 떠날 수 있게 돕는 거지."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop 무엇보다 중요한 건..."
+
+msgid "@desktop No. This does\\nnot feel right at all."
+msgstr "@desktop 아니야.\\n이게 아니야."
+
+msgid "@desktop Have we...\\nalready been through this,\\n\\p?"
+msgstr "@desktop 우린...\\n이걸 이미 겪은 적이 있지? 안 그래, \\n\\p?"
+
+msgid "@desktop But that should be\\nimpossible..."
+msgstr "@desktop 하지만\\n그건 불가능할 텐데..."
+
+msgid "@desktop You only had one shot.\\nI wasn't supposed to\\nexist after that..."
+msgstr "@desktop 네게 주어진 기회는 한 번이었어.\\n난 그 뒤에는\\n존재하지 않아야 정상인데..."
+
+msgid "You only have one shot, \\p."
+msgstr "기회는 한 번뿐이야, \\p."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [니코는 문의 잠금장치가 열리는 소리를 들었다.]"
+
+msgid "@niko ...\"\\p\"...?"
+msgstr "@niko ...\"\\p\"...?"
+
+msgid "@niko That sounds so... familiar."
+msgstr "@niko 굉장히... 친근하게 느껴져."
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]접근 거부."
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [문이 굳게 잠겨 있다.]"
+
+msgid "@ed [It doesn't respond to the remote.]"
+msgstr "@ed [리모콘에 반응하지 않습니다.]"
+
+msgid "@ed [Niko looks at the buttons on the remote, but they cannot be read in the dark.]"
+msgstr "@ed [니코가 리모콘의 버튼을 바라보지만, 어둠 속에서는 읽을 수가 없습니다.]"
+
+msgid "@ed [Perhaps a \\c[4]light\\c[0] would help?]"
+msgstr "@ed [혹시 \\c[4]빛\\c[0]이 있으면 도움이 되지 않을까요?]"
+

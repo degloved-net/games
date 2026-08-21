@@ -1,0 +1,501 @@
+msgid "@prophet [Ah!]"
+msgstr "@prophet [Ах!]"
+
+msgid "@prophet [That Lightbulb...! You Are Here!]"
+msgstr "@prophet [Лампочка!.. Ты Здесь!]"
+
+msgid "@niko M-\\.\\.\\@niko2 me?"
+msgstr "@niko Э-э...\\.\\.\\@niko2 Я?"
+
+msgid "@prophet [Yes!]"
+msgstr "@prophet [Да!]"
+
+msgid "@prophet [Welcome To Our World, Friend!]"
+msgstr "@prophet [Добро Пожаловать В Наш Мир, Мой Друг!]"
+
+msgid "@prophet [I Am Most Humbled By Your Presence.\\. Yes!]"
+msgstr "@prophet [Я Невероятно Польщён Твоим Присутствием.\\. Да!]"
+
+msgid "@niko Uh, thanks..."
+msgstr "@niko Эм, спасибо..."
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko3 .\\..\\.."
+msgstr "@niko3 .\\..\\.."
+
+msgid "@niko_eyeclosed Sorry...\\.\\. I'm a little lost..."
+msgstr "@niko_eyeclosed Простите...\\.\\. Я немного запутался..."
+
+msgid "@prophet [Ah Right!\\.\\. Allow Me To Explain Some Things.]"
+msgstr "@prophet [A, Хорошо!\\.\\. Давай Я Всё Тебе Объясню.]"
+
+msgid "@prophet [May I First Ask How You Arrived Here?]"
+msgstr "@prophet [Для Начала Скажи, Пожалуйста, Как Ты Сюда Попал?]"
+
+msgid "@niko3 I'm... not sure..."
+msgstr "@niko3 Я... точно не знаю..."
+
+msgid "@niko2 I woke up in this...\\.\\. weird house.\\>\\n\\@niko_speak It was really dark!"
+msgstr "@niko2 Я проснулся в этом...\\.\\. странном доме.\\>\\n\\@niko_speak Было очень темно!"
+
+msgid "@prophet_omg [Oh!] \\>\\n\\@prophet [So You Woke Up In An Unfamiliar, Dark Location?]"
+msgstr "@prophet_omg [Ого!] \\>\\n\\@prophet [Значит, Ты Проснулся В Незнакомом Тёмном Месте?]"
+
+msgid "@niko Mhm!"
+msgstr "@niko Угу!"
+
+msgid "@prophet_omg [Just As My Prophecy Foretold. Yes!]"
+msgstr "@prophet_omg [Прямо Как В Моём Пророчестве. Да!]"
+
+msgid "@prophet [You Are The Savior We Have Been Waiting For!]"
+msgstr "@prophet [Ты — Спаситель, Которого Мы Давно Ждём!]"
+
+msgid "@prophet [You Will Be The One To Save Our World From Eternal Darkness.]"
+msgstr "@prophet [Ты Спасёшь Наш Мир От Вечной Темноты.]"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 М-м-м..."
+
+msgid "@prophet [I Will Now Provide You With Vital Information!]"
+msgstr "@prophet [Я Предоставлю Тебе Всю Необходимую Информацию!]"
+
+msgid "@prophet [Please Ask Me Anything!]"
+msgstr "@prophet [Прошу, Спрашивай О Чём Угодно!]"
+
+msgid "@Niko Ah, well...."
+msgstr "@Niko Ну, ладно..."
+
+msgid "@niko_speak Can you tell me about..."
+msgstr "@niko_speak Расскажи мне..."
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...about \\\\p\", \"...going home\"]"
+msgstr "[\"...про этот мир.\",\"...про лампочку.\",\"...кто \\\\p.\",\"...как вернуться домой.\"]"
+
+msgid "@prophet [\\p Is The Name Of Our God.]"
+msgstr "@prophet [\\p — Имя Нашего Божества.]"
+
+msgid "@prophet [Always Look To Them For Guidance.]\\>\\n[You've Already Received More Than You Realize...]"
+msgstr "@prophet [Всегда Обращайся К Божеству За Помощью.]\\>\\n[Ты Уже Получил Больше, Чем Осознаёшь...]"
+
+msgid "@niko When I woke up in that house...\\>\\n\\@niko_speak For some reason, I called out a name."
+msgstr "@niko Когда я проснулся в том доме...\\>\\n\\@niko_speak Я почему-то назвал это имя."
+
+msgid "@niko \"\\p\"."
+msgstr "@niko «\\p»."
+
+msgid "@niko_eyeclosed I'm not sure why I did that.\\>\\n\\@niko_speak But then, I saw it on a computer too!"
+msgstr "@niko_eyeclosed Не знаю, почему я это сделал.\\>\\n\\@niko_speak Но потом я увидел его на компьютере!"
+
+msgid "@prophet_omg [Ah,\\.\\. That Would Be Our God!]"
+msgstr "@prophet_omg [А,\\.\\. Это Наше Божество!]"
+
+msgid "@niko_pancakes Oh!\\> Right!\\>\\n\\@niko I... think I..."
+msgstr "@niko_pancakes О!\\> Точно!\\>\\n\\@niko Я... Думаю, я..."
+
+msgid "@niko3 ...I feel like I remember something about that."
+msgstr "@niko3 Кажется, я что-то такое припоминаю."
+
+msgid "@prophet_omg [You do?]"
+msgstr "@prophet_omg [Правда?]"
+
+msgid "@prophet_hmm [But wait... Did You Not Just Arrive Here?]"
+msgstr "@prophet_hmm [Но Постой... Ты Ведь Только Что Сюда Прибыл?]"
+
+msgid "@prophet_hmm [I Was The One Who Was Supposed To Inform You Of That.]"
+msgstr "@prophet_hmm [Это Я Должен Был Тебе Об Этом Сообщить.]"
+
+msgid "@prophet [So... How Did You Know?]"
+msgstr "@prophet [Ну и... Как Ты Об Этом Узнал?]"
+
+msgid "@niko_speak ... \\>\\@niko ...hm..."
+msgstr "@niko_speak ...\\>\\@niko Хм..."
+
+msgid "@niko_eyeclosed It just made sense, I guess!"
+msgstr "@niko_eyeclosed Это просто было логично!"
+
+msgid "@prophet_hmm [Ah...]"
+msgstr "@prophet_hmm [Ага...]"
+
+msgid "@prophet_omg [Have You Already Contacted \\p, Then?]"
+msgstr "@prophet_omg [Значит, Ты и \\p Уже Общались?]"
+
+msgid "@niko Nope!\\>\\nI just have to close my eyes and focus, right?"
+msgstr "@niko Не-а!\\>\\nМне просто нужно закрыть глаза и сосредоточиться, так?"
+
+msgid "@niko_eyeclosed2 ...hey, \\p? ...God?"
+msgstr "@niko_eyeclosed2 ...Эй, \\p? Бог или богиня?.."
+
+msgid "@niko_eyeclosed This is going to sound weird, but... \\>\\n\\@niko_eyeclosed2 Have we... met... before?"
+msgstr "@niko_eyeclosed Это звучит странно, но... \\>\\n\\@niko_eyeclosed2 Мы... раньше... не встречались?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@niko_eyeclosed2 Ah!\\>\\n\\@niko_eyeclosed But... I don't know who you are, though..."
+msgstr "@niko_eyeclosed2 А!\\>\\n\\@niko_eyeclosed Но я, вообще-то... тебя не знаю..."
+
+msgid "@niko_eyeclosed It's just a weird feeling that I have..."
+msgstr "@niko_eyeclosed Просто у меня такое странное чувство..."
+
+msgid "@niko_eyeclosed2 Oh... I bet I'm just being silly, aren't I..."
+msgstr "@niko_eyeclosed2 Ох... Какие глупости я говорю, верно?.."
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed Прости..."
+
+msgid "@niko_eyeclosed Ah, I thought not..."
+msgstr "@niko_eyeclosed Ох, я думал, что нет..."
+
+msgid "@niko_eyeclosed2 That was a silly question..."
+msgstr "@niko_eyeclosed2 Это был глупый вопрос..."
+
+msgid "@niko_eyeclosed But...\\.\\. it's nice to meet you, \\p!"
+msgstr "@niko_eyeclosed Но...\\.\\. приятно познакомиться, \\p!"
+
+msgid "@niko_eyeclosed My name is Niko!"
+msgstr "@niko_eyeclosed Меня зовут Нико!"
+
+msgid "@niko_speak I just contacted \\p, yeah!"
+msgstr "@niko_speak Я и \\p только что говорили, да!"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\>\\n[You Are The Messiah After All.]"
+msgstr "@prophet [Не Бойся Просить Помощи, \\p Всегда Рядом.]\\>\\n[В Конце Концов, Ты Ведь Мессия.]"
+
+msgid "@prophet [Remember Your Duty.]"
+msgstr "@prophet [Не Забывай Про Свой Долг.]"
+
+msgid "@prophet [Surely You Have More Questions!]"
+msgstr "@prophet [У Тебя Наверняка Есть Ещё Вопросы!]"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...the computer\", \"...going home\"]"
+msgstr "[\"...про этот мир.\",\"...про лампочку.\",\"...про компьютер.\",\"...как вернуться домой.\"]"
+
+msgid "@prophet [The Name Of Our God Is Apparently \\p.\\nI Must Admit This Is A Surprise...]"
+msgstr "@prophet [Оказывается, Имя Нашего Божества — \\p.]\\n[Должен Признать, Это Неожиданно...]"
+
+msgid "@niko In the house, I found this... computer."
+msgstr "@niko В том доме я нашёл этот... компьютер."
+
+msgid "@niko It kept saying stuff like\\n\\>\\@niko_speak \"Your actions here will affect Niko.\""
+msgstr "@niko Он постоянно повторял что-то вроде:\\n\\>\\@niko_speak «Твои действия здесь влияют на Нико»."
+
+msgid "@niko_speak But... \\.\\.\\c[3]I'm\\c[0] Niko!"
+msgstr "@niko_speak Но... \\.\\.\\c[3]Я и есть\\c[0] Нико!"
+
+msgid "@niko Are those messages meant for someone else?"
+msgstr "@niko Эти сообщения предназначены кому-то другому?"
+
+msgid "@prophet_hmm [Hm...]"
+msgstr "@prophet_hmm [Хм...]"
+
+msgid "@prophet [If I Had To Guess, They Might Be Trying To Pass The Message To \\p.]"
+msgstr "@prophet [Если Спросить Меня, Скорее Всего, Адресат Этих Сообщений — \\p.]"
+
+msgid "@niko ...\\p?"
+msgstr "@niko \\p?.."
+
+msgid "@prophet [If You Are Here, That Means \\p Is Here Also.]"
+msgstr "@prophet [Если Ты Здесь, Это Значит, что и \\p Тоже.]"
+
+msgid "@prophet [\\p Will Provide Guidance For Your Journey.]"
+msgstr "@prophet [\\p Будет Сопровождать Тебя Во Время Путешествия.]"
+
+msgid "@prophet [In Fact, They Already Have.]"
+msgstr "@prophet [Уже Сопровождает.]"
+
+msgid "@niko_speak Really?"
+msgstr "@niko_speak Правда?"
+
+msgid "@niko I haven't seen anyone though..."
+msgstr "@niko Но я никого не видел..."
+
+msgid "@prophet [Have You...\\.\\. Not Contacted \\p Yet?]"
+msgstr "@prophet [Разве...\\.\\. Ты и \\p Ещё Не Вошли В Контакт?]"
+
+msgid "@niko I don't think so."
+msgstr "@niko Не думаю."
+
+msgid "@prophet [Being The Bringer Of Our Sun, You Have The Sacred Ability To Communicate Directly With \\p.]"
+msgstr "@prophet [Так Как Ты Принёс Нам Солнце, У Тебя Есть Священная Способность Слышать, Что Говорит \\p.]"
+
+msgid "@prophet_hmm [...An Ability That No One Else Possesses, Certainly Not I.]"
+msgstr "@prophet_hmm [...Такой Способности Нет Ни У Кого. Уж Точно Не У Меня.]"
+
+msgid "@prophet [Please Close Your Eyes And Focus.]"
+msgstr "@prophet [Закрой, Пожалуйста, Глаза И Сосредоточься.]"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed Ладно..."
+
+msgid "@niko_eyeclosed Hello?"
+msgstr "@niko_eyeclosed Привет?"
+
+msgid "@niko_eyeclosed ...\\p?\\nAre you...\\| there?"
+msgstr "@niko_eyeclosed \\p?..\\nТы...\\| там?"
+
+msgid "[\"Yes\", \"That is not my name\"]"
+msgstr "[\"Да.\",\"Это не моё имя.\"]"
+
+msgid "@niko_eyeclosed2 Oh!"
+msgstr "@niko_eyeclosed2 О!"
+
+msgid "@niko_eyeclosed2 N-\\.nice to meet you, \\p!"
+msgstr "@niko_eyeclosed2 П...\\. Приятно познакомиться, \\p!"
+
+msgid "@niko_eyeclosed O-\\|oh..."
+msgstr "@niko_eyeclosed О...\\| Ого..."
+
+msgid "@niko_eyeclosed Well.\\..\\..\\. what is your name, then?"
+msgstr "@niko_eyeclosed Тогда.\\..\\..\\. как тебя зовут?"
+
+msgid "@niko_eyeclosed But that's... what I said."
+msgstr "@niko_eyeclosed Но... я так и сказал."
+
+msgid "@niko_eyeclosed2 Oh! Your name is... \\>\\n\\@niko_what ..."
+msgstr "@niko_eyeclosed2 Ой! Тебя зовут... \\>\\n\\@niko_what ..."
+
+msgid "@niko_eyeclosed2 I don't think I'm supposed to say that word, but..."
+msgstr "@niko_eyeclosed2 Думаю, мне нельзя произносить это слово, но..."
+
+msgid "@niko_pancakes Really? \\>\\nThat's your name too?"
+msgstr "@niko_pancakes Правда? \\>\\nЭто и твоё имя тоже?"
+
+msgid "@niko_speak Oh! \\>\\n\\@niko That's almost the same as my name..."
+msgstr "@niko_speak Ох! \\>\\n\\@niko У тебя имя почти как у меня..."
+
+msgid "@niko_speak In fact, I think they're actually pronounced the same!"
+msgstr "@niko_speak Мне даже кажется, что они произносятся одинаково!"
+
+msgid "@niko_eyeclosed2 Is that your... name?"
+msgstr "@niko_eyeclosed2 Это... твоё имя?"
+
+msgid "@niko_eyeclosed But I already have parents..."
+msgstr "@niko_eyeclosed Но у меня уже есть родители..."
+
+msgid "@niko_eyeclosed This'll be confusing..."
+msgstr "@niko_eyeclosed Это как-то сбивает с толку..."
+
+msgid "@niko_eyeclosed Anyways..."
+msgstr "@niko_eyeclosed Ну ладно..."
+
+msgid "@niko_what ....really?\\>\\n\\@niko_what2 That's... your name?"
+msgstr "@niko_what Серьёзно?..\\>\\n\\@niko_what2 Это... твоё имя?"
+
+msgid "@niko_eyeclosed2 Gross!\\>\\n\\@niko_eyeclosed Er... I mean...."
+msgstr "@niko_eyeclosed2 Кошмар!\\>\\n\\@niko_eyeclosed Э-э... Я хотел сказать..."
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p, though..."
+msgstr "@niko_speak Я кого-то услышал! \\>\\n\\@niko И я узнал имя: \\p..."
+
+msgid "@niko_pancakes This is incredible..."
+msgstr "@niko_pancakes Невероятно..."
+
+msgid "@prophet_hmm [It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [Похоже, Записанное Ранее Имя Неверно.]"
+
+msgid "@prophet [Updating Database...]"
+msgstr "@prophet [Обновляю Базу Данных...]"
+
+msgid "@niko Hm?"
+msgstr "@niko М-м?"
+
+msgid "@prophet [Update Complete.]"
+msgstr "@prophet [Обновление Завершено.]"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak Я кого-то услышал! \\>\\n\\@niko_pancakes Божество назвало своё имя — \\p!"
+
+msgid "@niko_pancakes The same as mine!"
+msgstr "@niko_pancakes У меня такое же!"
+
+msgid "@prophet [Ah. Perhaps It Was Fate.]"
+msgstr "@prophet [Ах, Наверное, Это Судьба.]"
+
+msgid "@prophet_hmm [But It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [Но похоже, Записанное Ранее Имя Неверно.]"
+
+msgid "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak Я кого-то услышал!\\>\\n\\@niko_pancakes Божество назвало своё имя — \\p!"
+
+msgid "@niko_pancakes It sounds just like my name!"
+msgstr "@niko_pancakes Звучит почти как моё имя!"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
+msgstr "@niko_speak Я кого-то услышал! \\>\\n\\@niko И я узнал имя: \\p..."
+
+msgid "@niko_wtf2 I still don't think I should be saying that..."
+msgstr "@niko_wtf2 Мне всё же кажется, что я не должен это произносить..."
+
+msgid "@prophet [Why?]"
+msgstr "@prophet [Почему?]"
+
+msgid "@niko_eyeclosed It's a bad word!"
+msgstr "@niko_eyeclosed Это плохое слово!"
+
+msgid "@prophet [Bad...\\.\\. Word?]"
+msgstr "@prophet [Плохое...\\.\\. слово?]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Неважно."
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\n\\>[You Are The Messiah After All.]"
+msgstr "@prophet [Не Бойся Просить Помощи, \\p Всегда Рядом.]\\n\\>[В Конце Концов, Ты Ведь Мессия.]"
+
+msgid "@niko I think that's all I have to ask for now."
+msgstr "@niko Пока это всё, что я хотел узнать."
+
+msgid "@prophet [Excellent!] \\>\\n[I Wish You Luck.]"
+msgstr "@prophet [Отлично!] \\>\\n[Желаю Удачи.]"
+
+msgid "@prophet [I Wish You Luck On The Rest Of Your Journey.]"
+msgstr "@prophet [Желаю Тебе Удачи В Путешествии.]"
+
+msgid "@prophet [Hello Again.]"
+msgstr "@prophet [Приветствую.]"
+
+msgid "@niko Hi!"
+msgstr "@niko Привет!"
+
+msgid "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
+msgstr "@niko_speak \\p и я собираемся уезжать! \\@niko Мы нашли робота, который может подвезти нас ближе к Башне!"
+
+msgid "@prophet_omg [Oh!]"
+msgstr "@prophet_omg [О!]"
+
+msgid "@niko Thanks for helping me and answering my questions!"
+msgstr "@niko Спасибо, что помогал мне и отвечал на вопросы!"
+
+msgid "@prophet_omg [That Means I have Fulfilled My Purpose!]"
+msgstr "@prophet_omg [Это Значит, Что Я Выполнил Свою Задачу!]"
+
+msgid "@prophet [Are There More Questions You Wish To Ask?]"
+msgstr "@prophet [Хочешь Спросить Ещё Что-Нибудь?]"
+
+msgid "@niko"
+msgstr "@niko"
+
+msgid "@prophet [Go On Then, Ask Away.]"
+msgstr "@prophet [Не Стесняйся, Спрашивай.]"
+
+msgid "[\"...the barrens\", \"...the prophecy\", \"...the tower\"]"
+msgstr "[\"...про Пустошь.\",\"...про пророчество.\",\"...про Башню.\"]"
+
+msgid "@niko It's so...\\.\\. empty here..."
+msgstr "@niko Здесь так...\\.\\. пусто..."
+
+msgid "@prophet [That's Why It's Called The Barrens.]"
+msgstr "@prophet [Поэтому Это Место И Называется Пустошью.]"
+
+msgid "@niko ...are there... ANY people living in this area?"
+msgstr "@niko А здесь... ХОТЬ КТО-НИБУДЬ живёт?"
+
+msgid "@niko ...besides robots, I mean."
+msgstr "@niko Кроме роботов..."
+
+msgid "@prophet [I Do Not Know.]"
+msgstr "@prophet [Я Не Знаю.]"
+
+msgid "@prophet [I Was Not Built To Wander.]"
+msgstr "@prophet [Я Был Создан Не Для Того, Чтобы Бродить Тут И Там.]"
+
+msgid "@niko ...not...\\. built to?"
+msgstr "@niko Не для...\\. этого?"
+
+msgid "@niko So...\\.\\. you just stand here?\\>\\n\\@niko_eyeclosed Must be boring..."
+msgstr "@niko То есть...\\.\\. ты всё время тут стоишь?\\>\\n\\@niko_eyeclosed Наверно, это так скучно..."
+
+msgid "@niko_speak Do you at least have friends?\\>\\n\\@niko Robot...\\. friends?"
+msgstr "@niko_speak У тебя хоть есть друзья?\\>\\n\\@niko Друзья-\\.роботы?"
+
+msgid "@prophet [I Cannot Desire Companionship.]\\>\\n\\@prophet_hmm [I Have Not Been Tamed.]"
+msgstr "@prophet [Я Не Могу Хотеть Дружить.]\\>\\n\\@prophet_hmm [Я Не Был Приручён.]"
+
+msgid "@niko Not... tamed?"
+msgstr "@niko Не был... приручён?"
+
+msgid "@prophet [There Was No Time.]"
+msgstr "@prophet [На Это Не Было Времени.]"
+
+msgid "@niko I see..."
+msgstr "@niko Понятно..."
+
+msgid "@niko So...\\.\\.\\n\\@niko_speak What is this prophecy, exactly?"
+msgstr "@niko И...\\.\\.\\n\\@niko_speak И что это за пророчество?"
+
+msgid "@prophet [The Prophet Predicted That A Savior Will Arrive From Another Land.]"
+msgstr "@prophet [Пророк Предсказал, Что Из Другого Мира Придёт Спаситель.]"
+
+msgid "@prophet [The Savior Will Wake Up In A Strange House, Find The Sun, And Illuminate The World.]"
+msgstr "@prophet [Спаситель Проснётся В Незнакомом Доме, Найдёт Солнце И Осветит Наш Мир.]"
+
+msgid "@niko Oh..."
+msgstr "@niko Ого..."
+
+msgid "@niko_speak What else did you... uh, foresee?"
+msgstr "@niko_speak А что ещё ты... предвидел?"
+
+msgid "@prophet [What Do You Mean?]"
+msgstr "@prophet [Что Ты Имеешь В Виду?]"
+
+msgid "@niko_speak What else did you see in the prophecy?"
+msgstr "@niko_speak Что ещё ты видел в пророчестве?"
+
+msgid "@prophet [???]"
+msgstr "@prophet [???]"
+
+msgid "@niko_speak Wait...\\.\\. You ARE the prophet, right?"
+msgstr "@niko_speak Погоди...\\.\\. Но ТЫ ведь пророк, верно?"
+
+msgid "@prophet [Good Heavens, No!]"
+msgstr "@prophet [Господи, Нет Конечно!]"
+
+msgid "@niko_speak But you called it \"my prophecy\" earlier..."
+msgstr "@niko_speak Но ты говорил «моё пророчество»..."
+
+msgid "@prophet [That Just Means It Is Built Into My Programming.]"
+msgstr "@prophet [Это Значит, Что Пророчество Является Частью Моей Программы.]"
+
+msgid "@niko ...Your... \\.\\.\\@niko_speak what?"
+msgstr "@niko Твоей...\\.\\.\\@niko_speak чего?"
+
+msgid "@prophet [Ah. My Programming Is What Guides Me.]"
+msgstr "@prophet [A. Программа — Это То, Что Мной Управляет.]"
+
+msgid "@prophet_hmm [I Am A Robot, After All.]"
+msgstr "@prophet_hmm [Я Же Всё-Таки Робот.]"
+
+msgid "@niko_speak How tall is the Tower?"
+msgstr "@niko_speak Какой высоты Башня?"
+
+msgid "@niko I can't seem to even see the top..."
+msgstr "@niko Я даже не вижу её вершину..."
+
+msgid "@prophet [I Am Not Allowed To Answer.]"
+msgstr "@prophet [Мне Не Позволено Отвечать На Этот Вопрос.]"
+
+msgid "@niko But... how do I get up there?"
+msgstr "@niko Но... Как мне туда забраться?"
+
+msgid "@prophet [In Time, \\p Will Know What To Do.]"
+msgstr "@prophet [Со временем \\p Узнает, Что Вам Делать.]"
+
+msgid "@niko_eyeclosed I... see."
+msgstr "@niko_eyeclosed А... Понял."
+
+msgid "@niko It's alright, thank you."
+msgstr "@niko Всё в порядке, спасибо."
+
+msgid "@prophet [In That Case, I Wish You Safe Travels.]"
+msgstr "@prophet [В Таком Случае Желаю Приятного Путешествия.]"
+
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [Всё, что осталось от робота.]"
+
+msgid "@niko A robot."
+msgstr "@niko Робот."
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed Его уже не починить."
+

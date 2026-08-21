@@ -1,0 +1,1728 @@
+msgid "@niko The fridge is full of bottled water and take-out boxes."
+msgstr "@niko A geladeira está cheia de garrafas d’água e caixas de comida para viagem."
+
+msgid "@niko A small bed."
+msgstr "@niko Uma caminha."
+
+msgid "@niko I guess she lives here..."
+msgstr "@niko Acho que ela mora aqui..."
+
+msgid "@george1_smug Thanks to my superb organizational skills..."
+msgstr "@george1_smug Graças às minhas incríveis habilidades organizacionais..."
+
+msgid "@george1 I have kept a copy of every single one of The Author's books in the archival room!"
+msgstr "@george1 Fiz uma cópia de cada livro do Autor na sala de arquivos!"
+
+msgid "@george1 Feel free to peruse the mass sea of knowledge that I helped contribute!"
+msgstr "@george1 Fica à vontade pra ler a imensidão de conhecimentos que eu ajudei a construir!"
+
+msgid "@george2_grr Everything that I ever helped him publish is here."
+msgstr "@george2_grr Tudo o que eu o ajudei a publicar está aqui."
+
+msgid "@george2_stress What? You wanna read them or something??"
+msgstr "@george2_stress O quê? Você vai ler ou não??"
+
+msgid "@niko_speak"
+msgstr "@niko_speak"
+
+msgid "[\"Y-yes?\", \"N-no?\"]"
+msgstr "[\"S-sim?\",\"N-não?\"]"
+
+msgid "@george2_stress Well what are you waiting for!!"
+msgstr "@george2_stress Bem, o que está esperando?!"
+
+msgid "@george2_grr And let all my hard work go to waste?"
+msgstr "@george2_grr E vai desperdiçar todo meu trabalho?"
+
+msgid "@george2_sigh Fiiiine."
+msgstr "@george2_sigh Ceeeerto."
+
+msgid "@george3_sad I have a copy of everything I helped him publish so far."
+msgstr "@george3_sad Eu tenho cópia de tudo que eu ajudei a publicar."
+
+msgid "@george3 It's not a lot, but you can read some if you want..."
+msgstr "@george3 Não é tanta coisa, você pode ler uma coisa ou outra, se quiser..."
+
+msgid "@george4 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george4 Tenho uma cópia de tudo que publiquei para ele na minha sala de arquivos!"
+
+msgid "@george4_smile You can read some of it if you want! \\>\\n\\@george4 Some of them are even illustrated!"
+msgstr "@george4_smile Você pode ler alguns se quiser! \\>\\n\\@george4 Alguns têm até ilustrações!"
+
+msgid "@george4_smile Kids like pictures, right?"
+msgstr "@george4_smile Criança gosta de desenho, né?"
+
+msgid "@george5 I keep a copy of every single book I helped him publish!"
+msgstr "@george5 Eu tenho uma cópia de todos os livros que ajudei ele a publicar!"
+
+msgid "@george5_smile Feel free to read anything you'd like, dear."
+msgstr "@george5_smile Fica à vontade para ler o que quiser, fofura."
+
+msgid "@george5 There's a couple of picture books that you might be interested in!"
+msgstr "@george5 Tem uns livros com ilustrações que você provavelmente vai se interessar!"
+
+msgid "@niko Oh!"
+msgstr "@niko Ah!"
+
+msgid "@george6 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george6 Tenho uma cópia de tudo que publiquei para ele na minha sala de arquivos!"
+
+msgid "@george6_smile You can like, totally read some of it."
+msgstr "@george6_smile Você pode... ler alguns."
+
+msgid "@george6_shrug If you want, I mean."
+msgstr "@george6_shrug Digo, se quiser."
+
+msgid "@niko There's a black clover symbol on the cover of this book."
+msgstr "@niko Tem um trevo preto na capa desse livro."
+
+msgid "@niko_speak Hey, and this other book has a clover on its spine!"
+msgstr "@niko_speak Ei, este outro livro tem um trevo na lateral!"
+
+msgid "@niko And... the rest of these books too."
+msgstr "@niko E... os outros livros também."
+
+msgid "@niko_speak Are they all... about clovers?"
+msgstr "@niko_speak Todos eles falam... sobre trevos?"
+
+msgid "@george1_smile A black clover is the mark of The Author!"
+msgstr "@george1_smile O trevo preto é a marca do Autor!"
+
+msgid "@niko Oh?"
+msgstr "@niko É?"
+
+msgid "@george1_hm Since he never entrusted me or anyone else with his name, we identify his works by the mark."
+msgstr "@george1_hm Já que ele nunca confiou o nome pra ninguém, nem pra mim, nós identificamos os trabalhos dele por essa marca."
+
+msgid "@niko So... he wrote ALL of these books?"
+msgstr "@niko Então... ele escreveu TODOS esses livros?"
+
+msgid "@george1 I told you he was a genius!"
+msgstr "@george1 Eu disse que ele era um gênio!"
+
+msgid "@george1_smug ....and, by extension, me!"
+msgstr "@george1_smug ... assim como eu, por tabela!"
+
+msgid "@george2_stress WHAT? Of course not!!"
+msgstr "@george2_stress O QUÊ? É claro que não!!"
+
+msgid "@george2_grr That's just how The Author marks his work!"
+msgstr "@george2_grr É assim que o Autor marca seus livros!"
+
+msgid "@george2_sigh Because he has to keep up with his ~~~~MYSTERIOUS PERSONA~~~~ I GUESS!!!"
+msgstr "@george2_sigh Acho que é para manter essa ~~~~IDENTIDADE MISTERIOSA~~~~!!!"
+
+msgid "@george2 He's never even told me his name!"
+msgstr "@george2 Ele nunca disse o nome dele!"
+
+msgid "@niko_speak Wait, so he wrote ALL of these books?"
+msgstr "@niko_speak Como é? Ele escreveu TODOS esses livros?"
+
+msgid "@george2_sigh ....*deep breath*"
+msgstr "@george2_sigh ....*suspiro profundo*"
+
+msgid "@george2_grr Yes, yes he did."
+msgstr "@george2_grr Sim, sim."
+
+msgid "@george3_sad That's just what The Author uses to mark his works."
+msgstr "@george3_sad É assim que o Autor marca seus livros."
+
+msgid "@george3_sigh I don't even know his name..."
+msgstr "@george3_sigh Eu nem sei o nome dele..."
+
+msgid "@niko_speak Oh! So he wrote ALL of these books?"
+msgstr "@niko_speak Ah, então ele escreveu TODOS esses livros?"
+
+msgid "@george3_sad Yeah..."
+msgstr "@george3_sad Sim..."
+
+msgid "@george4_smile Oh no, no!"
+msgstr "@george4_smile Ah, não!"
+
+msgid "@george4 A black clover symbol just means it's written by The Author."
+msgstr "@george4 O trevo preto só significa que o Autor escreveu o livro."
+
+msgid "@george4_golly He doesn't want to tell anyone his name. So he marks all his works with this symbol instead!"
+msgstr "@george4_golly Ele mantém o nome em sigilo, por isso marca os livros com esse símbolo!"
+
+msgid "@niko_pancakes He wrote ALL of these books?"
+msgstr "@niko_pancakes Ele escreveu TODOS esses livros?"
+
+msgid "@george4_smile He sure did!"
+msgstr "@george4_smile Com certeza!"
+
+msgid "@george5_smile Of course not, dear!"
+msgstr "@george5_smile É claro que não, meu bem!"
+
+msgid "@george5 The black clover is sort of The Author's name, you see!"
+msgstr "@george5 O trevo preto é como se fosse o nome do Autor!"
+
+msgid "@george5_hmm Actually, we don't know his name! He just uses a clover to mark his works is all."
+msgstr "@george5_hmm Na verdade, não sabemos o nome dele! Ele só usa o trevo para marcar seus livros."
+
+msgid "@niko_speak So... he wrote ALL of these books?"
+msgstr "@niko_speak Então... ele escreveu TODOS esses livros?"
+
+msgid "@george5_smile He's a trooper, that!"
+msgstr "@george5_smile Ele é uma máquina!"
+
+msgid "@george6_smile LOL nope."
+msgstr "@george6_smile Haha! Não."
+
+msgid "@george6 That's like, just what The Author calls himself."
+msgstr "@george6 É, tipo, como o Autor se denomina."
+
+msgid "@george6_shrug He don't tell anyone his name. He just uses this symbol on his works so we know it's him."
+msgstr "@george6_shrug Ele não diz o nome pra ninguém. Ele usa esse símbolo nos trabalhos para sabermos que o material é dele."
+
+msgid "@niko_pancakes ...he wrote ALL of these books?"
+msgstr "@niko_pancakes ... ele escreveu TODOS esses livros?"
+
+msgid "@george6_fingerguns I know right!!!"
+msgstr "@george6_fingerguns Incrível, não é?!"
+
+msgid "@george1_smile I guess brilliant minds gotta stick together, eh?"
+msgstr "@george1_smile Mentes brilhantes pensam iguais, não é?"
+
+msgid "@george2_no WORK! WORK! WORK! WORK!"
+msgstr "@george2_no TRABALHO! TRABALHO! TRABALHO! TRABALHO!"
+
+msgid "@george3_sigh I wish I worked faster..."
+msgstr "@george3_sigh Eu queria de ser mais rápida..."
+
+msgid "@george4_smile Work work work work work~!"
+msgstr "@george4_smile Trabalho, trabalho, trabalho, trabalho, trabalho~!"
+
+msgid "@george5_hmm I hope that nice gentleman is alright!"
+msgstr "@george5_hmm Espero que aquele senhor esteja bem!"
+
+msgid "@george5_hmm If I knew where he lived, I would've sent him some soup or a nice blanket..."
+msgstr "@george5_hmm Se eu soubesse onde ele mora, eu enviaria uma sopa gostosa e um cobertor quentinho..."
+
+msgid "@george6 I wish we could hang out sometime, he's a chill dude."
+msgstr "@george6 Gostaria de sair com ele um dia — ele é sempre tranquilo."
+
+msgid "@george1 I simply MUST finish all the manuscripts in that box by the end of the week!"
+msgstr "@george1 Eu PRECISO terminar todos os manuscritos que estão nesta caixa até o fim dessa semana!"
+
+msgid "@george1 There are literally people lining up to read his works, you know!"
+msgstr "@george1 Tem gente que está literalmente na fila para ler os livros dele!"
+
+msgid "@george1_smug They all have me to thank, of course."
+msgstr "@george1_smug Todos eles deveriam me agradecer."
+
+msgid "@niko Oh? \\>\\@niko_speak What does he write about?"
+msgstr "@niko É? \\>\\@niko_speak Sobre o que ele escreve?"
+
+msgid "@george1 What DOESN'T he write about?"
+msgstr "@george1 Sobre o que ele NÃO escreve?"
+
+msgid "@george1 He cranks out those scripts at the speed of light!"
+msgstr "@george1 Ele trabalha na velocidade da luz!"
+
+msgid "@george1_hm Which is 299,792,458 meters per second, by the way."
+msgstr "@george1_hm Ou seja, 299.792.458 metros por segundo."
+
+msgid "@george2_stress DON'T TOUCH THAT I HAVE TO FINISH THIS BY THE END OF THE WEEK."
+msgstr "@george2_stress NÃO TOQUE NISSO! EU TENHO QUE TERMINAR ISSO ATÉ O FIM DESSA SEMANA."
+
+msgid "@niko_what Oh, sorry..."
+msgstr "@niko_what Ah, desculpe..."
+
+msgid "@george2_stress PEOPLE ARE LITERALLY LINING UP TO READ HIS BOOKS!"
+msgstr "@george2_stress TEM GENTE QUE ESTÁ LITERALMENTE NA FILA PARA LER OS LIVROS DELE!"
+
+msgid "@george2_grr WHAT DOESN'T HE WRITE ABOUT."
+msgstr "@george2_grr SOBRE O QUE ELE NÃO ESCREVE?"
+
+msgid "@george2_stress \"HEY GEORGE I JUST WROTE ABOUT THE ENTIRE UNIVERSE WHILE YOU WERE TAKING A COFFEE BREAK.\""
+msgstr "@george2_stress “EI, GEORGE, EU ACABEI DE ESCREVER SOBRE O UNIVERSO INTEIRO ENQUANTO VOCÊ ESTAVA TOMANDO SEU CAFÉ.”"
+
+msgid "@george2_stress \"IT'S SEVERAL MILLION VOLUMES.\""
+msgstr "@george2_stress “HÁ MILHÕES DE VOLUMES.”"
+
+msgid "@george2_no WHERE DOES THAT GUY GET ALL THAT FREE TIME!!!"
+msgstr "@george2_no ONDE ESSE CARA CONSEGUE TANTO TEMPO LIVRE?!"
+
+msgid "@george3_sad Sigh....... And I haven't even finished this box yet..."
+msgstr "@george3_sad Nossa....... e eu ainda nem terminei essa caixa...\\>\\n"
+
+msgid "@george3_sigh ...maybe I shouldn't be his editor after all..."
+msgstr "\\@george3_sigh ... talvez eu não devesse ser a editora dele..."
+
+msgid "@george3_sad His books are in such high demand all the time!"
+msgstr "@george3_sad Os livros dele estão sempre em alta demanda!"
+
+msgid "@george3 People would even wait in line to loan a copy...."
+msgstr "@george3 As pessoas esperam na fila para conseguir um exemplar..."
+
+msgid "@george3_sad What doesn't he write about..."
+msgstr "@george3_sad Sobre o que ele não escreve...?"
+
+msgid "@george3_sigh He's just... too good..."
+msgstr "@george3_sigh Ele é... muito bom..."
+
+msgid "@george4 Ah! That box is for the book I'll get to publish this week!"
+msgstr "@george4 Ah! Dentro da caixa estão os livros que preciso publicar essa semana!"
+
+msgid "@george4_omg I'm so excitedddd~"
+msgstr "@george4_omg Estou tão animaaaada~"
+
+msgid "@george4_smile His books are in high demand, y'know?"
+msgstr "@george4_smile O pessoal gosta dos livros dele, sabe?"
+
+msgid "@george4 We literally have people lining up to read them!"
+msgstr "@george4 Tem gente na fila pra ler, de verdade!"
+
+msgid "@george4_smile Haha, what DOESN'T he write about?"
+msgstr "@george4_smile Haha, sobre o que ele NÃO escreve?"
+
+msgid "@george4 It's really impressive how fast he can crank these scripts out!"
+msgstr "@george4 É impressionante como ele trabalha na velocidade da luz!"
+
+msgid "@george4_golly Like, where does that guy get all that time?"
+msgstr "@george4_golly Tipo, onde esse cara consegue tanto tempo?"
+
+msgid "@george5_smile This is the box I'll get to publish this week!"
+msgstr "@george5_smile Dentro da caixa estão os livros que preciso publicar esta semana!"
+
+msgid "@george5 Oh, oh! Did I mention this gentleman's books are quite popular?"
+msgstr "@george5 Ah! Eu não disse que os livros desse senhor são bem populares?"
+
+msgid "@george5_smile You might be a little too young to understand them, but the older kids love them!"
+msgstr "@george5_smile Talvez você seja muito jovem para entendê-los, mas as crianças mais velhas adoram!"
+
+msgid "@george5_smile Lots and lots of things!"
+msgstr "@george5_smile Várias e várias coisas!"
+
+msgid "@george5 Everything from plants and animals to machines and robots!"
+msgstr "@george5 Tudo, de plantas e animais a máquinas e robôs!"
+
+msgid "@george5_smile Some of his books even have pictures!"
+msgstr "@george5_smile Alguns livros dele têm até figuras!"
+
+msgid "@george6 That box's got stuff I can publish this week!"
+msgstr "@george6 Essa caixa tem os livros que preciso publicar essa semana!"
+
+msgid "@george6_point I better up my game, dude.\\> Peeps are lining up to read his books!"
+msgstr "@george6_point Eu preciso melhorar, cara. \\> Tem gente na fila esperando os livros dele!"
+
+msgid "@george6_shrug Dude, what DOESN'T he write about!"
+msgstr "@george6_shrug Cara, sobre o que ele NÃO escreve?"
+
+msgid "@george6_smile Like I said, he's got passion, lots of it!"
+msgstr "@george6_smile Foi como eu disse, ele tem o dom!"
+
+msgid "@george6_shrug It's like every time I turn around he just writes another huge anthology about the universe."
+msgstr "@george6_shrug Se eu descuido por um minuto, ele aparece com outra antologia enorme sobre o universo."
+
+msgid "@george6 Gotta respect that."
+msgstr "@george6 Fazer o quê?"
+
+msgid "@niko These boxes are full of loose papers and notebooks."
+msgstr "@niko Essas caixas estão cheias de papeis e cadernos."
+
+msgid "@george1 Oh! I see you are curious about my job."
+msgstr "@george1 Ah! Vejo que está curiosa sobre o meu trabalho."
+
+msgid "@george1_hm ...My very important job!"
+msgstr "@george1_hm ... meu trabalho superimportante!"
+
+msgid "@george1_smug You see, The Author has entrusted ME with his all his ideas!"
+msgstr "@george1_smug Sabe, o Autor confiou a mim todo o seu trabalho!"
+
+msgid "@george1_hm That's right... the author sends his manuscripts directly to ME!"
+msgstr "@george1_hm Isso mesmo... o Autor envia os seus manuscritos diretamente para MIM!"
+
+msgid "@george1_smug I am in charge of publishing all of his books that everyone loves!"
+msgstr "@george1_smug Meu trabalho é publicar todos esses livros que todo mundo ama!"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak Caramba!"
+
+msgid "@george1 Although... he hasn't been sending me anything as of late!"
+msgstr "@george1 Mas... ele não envia mais como antigamente!"
+
+msgid "@george1_hm I wonder, I wonder..."
+msgstr "@george1_hm Será que..."
+
+msgid "@george1_smile Perhaps he decided that, since I work so hard, I deserve a break?"
+msgstr "@george1_smile Talvez ele tenha percebido que, por eu trabalhar tão duro, mereço um descanso!"
+
+msgid "@george1 As brilliant as I am, I still can't keep up with him!"
+msgstr "@george1 Mesmo com todo o meu brilhantismo, ainda assim é impossível acompanhá-lo!"
+
+msgid "@george1 Even AFTER he stopped sending me things, I still can't catch up."
+msgstr "@george1 Mesmo DEPOIS que ele parou de me enviar essas coisas, eu não consigo alcançá-lo."
+
+msgid "@george1_hm Of course, I have published book after book after book, but..."
+msgstr "@george1_hm É claro, tenho publicado livro após livro após livro, mas..."
+
+msgid "@george1 The box of manuscripts just seems to be growing on its own!"
+msgstr "@george1 A caixa de manuscritos parece estar multiplicando sozinha!"
+
+msgid "@george2_grr What? You ain't never seen manuscripts before?"
+msgstr "@george2_grr O quê? Você nunca viu um manuscrito?"
+
+msgid "@george2_sigh That's what books look like before they get published, kid."
+msgstr "@george2_sigh É assim que são os livros antes de serem publicado, garota."
+
+msgid "@niko I see!"
+msgstr "@niko Entendo!"
+
+msgid "@niko Do you help him publish books?"
+msgstr "@niko Você o ajuda a publicar os livros?"
+
+msgid "@george2_stress Well, DUH!\\>\\n\\@george2_grr Why do you THINK I have literal mountains of his manuscripts, here?"
+msgstr "@george2_stress DÃ!\\>\\n\\@george2_grr Por que acha que tenho literalmente montanhas de manuscritos aqui?"
+
+msgid "@george2 He just WOULDN'T STOP SENDING ME THINGS!!!"
+msgstr "@george2 Ele NÃO PARA DE ME ENVIAR MANUSCRITOS!!!"
+
+msgid "@george2_grr Like, man oh MAN does that guy work fast.\\>\\n\\@george2_sigh I just couldn't keep up!"
+msgstr "@george2_grr Tipo, cara, como ele consegue trabalhar tão rápido?\\>\\n\\@george2_sigh Eu não consigo acompanhar!"
+
+msgid "@george2 But one day he just, stopped.\\>\\n\\@george2_sigh ABOUT TIME, I would say.\\>\\n\\@george2 But it's also weird since it's HIM."
+msgstr "@george2 Mas ele parou de enviar.\\>\\n\\@george2_sigh POR ENQUANTO, eu diria.\\>\\n\\@george2 E, mesmo assim, é estranho ele parar."
+
+msgid "@george2_grr BUT! Worst part of all?"
+msgstr "@george2_grr MAS... sabe qual é a pior parte disso tudo?"
+
+msgid "@george2_stress Even after he stopped bombarding me, the piles of material I have on hand never seem to get any smaller!"
+msgstr "@george2_stress Mesmo depois que ele parou de me bombardear, as pilhas de materiais não diminuem de jeito nenhum!"
+
+msgid "@george2_no IT'S LIKE THE BOXES ARE MAGICALLY FILLING THEMSELVES BACK UP EVERY TIME I TURN AROUND!!!!"
+msgstr "@george2_no É COMO SE AS CAIXAS ESTIVESSEM SE ENCHENDO MAGICAMENTE TODA VEZ QUE EU VIRO AS COSTAS!!!"
+
+msgid "@george2_stress WHAT IS EVEN HAPPENING!"
+msgstr "@george2_stress O QUE ESTÁ ACONTECENDO?!"
+
+msgid "@niko_huh Are you okay?"
+msgstr "@niko_huh Está tudo bem?"
+
+msgid "@george2_no NO!!!!!!"
+msgstr "@george2_no NÃO!!!!!"
+
+msgid "@george3_sad Siiiigh..."
+msgstr "@george3_sad Nooossa..."
+
+msgid "@george3_sigh You just had to remind me..."
+msgstr "@george3_sigh Você precisa me lembrar..."
+
+msgid "@niko_speak What's wrong?"
+msgstr "@niko_speak O que há de errado?"
+
+msgid "@george3_sad The author hasn't shown up lately, nor has he sent me any new manuscripts..."
+msgstr "@george3_sad Não tenho visto o Autor recentemente e ele não tem enviado nenhum manuscrito novo..."
+
+msgid "@george3_sad I'm his editor and publisher, you know..."
+msgstr "@george3_sad Eu sou a revisora e editora, sabe..."
+
+msgid "@george3_cry What if he doesn't want me to help him anymore?"
+msgstr "@george3_cry Será que ele não quer que eu trabalhe para ele?"
+
+msgid "@george3_worry He's brilliant, he works so fast...."
+msgstr "@george3_worry Ele é brilhante, trabalha rápido demais..."
+
+msgid "@george3_worry I'm so behind with publishing his books... what if he thinks I'm too slow..."
+msgstr "@george3_worry Estou tão atrasada na publicação dos livros... será que ele pensa que sou lenta demais...?"
+
+msgid "@george3_sigh Even after he's stopped sending me things, I still can't keep up..."
+msgstr "@george3_sigh Mesmo depois que ele parou de me enviar essas coisas, não consigo alcançá-lo..."
+
+msgid "@george3_sad The pile seems to just keep growing..."
+msgstr "@george3_sad A pilha de manuscritos continua crescendo..."
+
+msgid "@george4_omg Oh! These are the manuscripts The Author sent me!"
+msgstr "@george4_omg Ah! Esses são os manuscritos que o Autor me enviou!"
+
+msgid "@george4 As the head librarian, it's my job to help him with the publication process."
+msgstr "@george4 Como bibliotecária-chefe, é meu dever ajudá-lo no processo de publicação."
+
+msgid "@george4_golly But ah... lately he hasn't been sending me anything."
+msgstr "@george4_golly Mas, ah... ele não tem enviado nada ultimamente."
+
+msgid "@george4_golly This isn't like him..."
+msgstr "@george4_golly Não faz o tipo dele..."
+
+msgid "@george4 I mean, I guess it does give me some extra time to work through this backlog!"
+msgstr "@george4 Digo, acho que isso me dá um tempo extra para tirar o atraso!"
+
+msgid "@george4_oops To be honest, I'm a little behind, haha!"
+msgstr "@george4_oops Para ser sincera, estou um pouco atrás, haha!"
+
+msgid "@george4_omg That guy works really fast!"
+msgstr "@george4_omg Esse cara trabalha rápido!"
+
+msgid "@niko I see..."
+msgstr "@niko Entendo..."
+
+msgid "@george4 ...the weird part is,\\>\\nI've been publishing book after book AFTER he stopped sending me things, right?"
+msgstr "@george4 ... o mais estranho é que...\\>\\neu continuo publicando livro atrás de livro mesmo depois que ele parou de me enviar trabalho, sabe?"
+
+msgid "@george4_golly But the pile of manuscripts never seems to get any smaller!"
+msgstr "@george4_golly Mas as pilhas de manuscritos não diminuem!"
+
+msgid "@george4_golly ...at all!"
+msgstr "@george4_golly ... de jeito nenhum!"
+
+msgid "@george4_oops Golly, you think I'm going bonkers?"
+msgstr "@george4_oops Cara, acha que eu vou ficar maluca?"
+
+msgid "@george5_smile I see you've taken an interest to the manuscripts!"
+msgstr "@george5_smile Percebi seu interesse nos manuscritos!"
+
+msgid "@niko What are they for?"
+msgstr "@niko Para que eles servem?"
+
+msgid "@george5_aww Well, aren't you curious, little one!"
+msgstr "@george5_aww Bem, que curiosidade gostosa, criança?!"
+
+msgid "@george5 The Author passed these drafts to me, you see!"
+msgstr "@george5 O Autor me envia esses rascunhos, está vendo?!"
+
+msgid "@george5_smile Since I'm the head librarian, I am supposed to help him publish these!"
+msgstr "@george5_smile Já que sou a bibliotecária-chefe, eu preciso ajudá-lo a publicar esses livros!"
+
+msgid "@george5_hmm But... oh, I haven't seen that gentleman lately...."
+msgstr "@george5_hmm Mas... ah, não tenho o visto ultimamente..."
+
+msgid "@george5 Which is quite strange! Usually he delivers these manuscripts to me faster than I can work on them!"
+msgstr "@george5 O que é muito estranho! Ele geralmente me entrega os manuscritos antes de eu terminar a última leva!"
+
+msgid "@george5_heh I guess now it just means I get a little more breathing room, hohoho!"
+msgstr "@george5_heh Acho que agora vou ter um tempinho para respirar, hahaha!"
+
+msgid "@niko_speak That's good!\\> \\@niko ...right?"
+msgstr "@niko_speak Isso é bom!\\>\\@niko ... não é?"
+
+msgid "@george5_hmm I don't know! I AM quite worried about him."
+msgstr "@george5_hmm Eu não sei! Eu estou meio preocupada com ele."
+
+msgid "@george5_hmm I hope he hasn't fallen ill from all that stress!"
+msgstr "@george5_hmm Espero que ele não tenha tido um ataque de tanto estresse."
+
+msgid "@george5_smile At least I got my hands full for the time being."
+msgstr "@george5_smile Pelo menos, tenho muita coisa para fazer por enquanto."
+
+msgid "@george5 Even though he's stopped sending me things, it doesn't feel like he did at all!"
+msgstr "@george5 E, mesmo ele parando de me enviar essas coisas, parece que ele continua enviando!"
+
+msgid "@george5_heh The pile of manuscripts I still need to proofread doesn't seem to get smaller, haha!"
+msgstr "@george5_heh A pilha de manuscritos que preciso revisar não diminui nunca, haha!"
+
+msgid "@niko This box is full of loose papers and notebooks."
+msgstr "@niko Essa caixa está cheia de papeis e cadernos."
+
+msgid "@george6_point Yo, these are the manuscripts The Author gave me."
+msgstr "@george6_point É, são manuscritos que o Autor me enviou."
+
+msgid "@george6_smile I'm supposed to like, help him publish and stuff."
+msgstr "@george6_smile Eu preciso publicá-los."
+
+msgid "@george6 But he hasn't shown his face 'round these parts lately."
+msgstr "@george6 Mas tem um tempo que ele não aparece pelas redondezas."
+
+msgid "@george6 That's like, throwin off my groove, man."
+msgstr "@george6 Isso está me tirando do sério, cara."
+
+msgid "@george6_shrug Like, I'm used to him sending me new stuff all the time."
+msgstr "@george6_shrug Tipo, estou acostumada com ele enviando coisas novas o tempo todo."
+
+msgid "@george6 I mean, of course I can't keep up with the pace that he's writin', but he don't mind."
+msgstr "@george6 Bom, é claro que não consigo acompanhar o ritmo dele, mas ele não liga."
+
+msgid "@george6_fingerguns Guy's just tooootally passionate 'bout his job!"
+msgstr "@george6_fingerguns Aquele cara é totalmente apaixonado pelo trabalho!"
+
+msgid "@george6_smile Makes me wanna work hard too, so I do!"
+msgstr "@george6_smile Isso me contagia e eu me entrego ao trabalho também!"
+
+msgid "@george6 I've been playin catchup with the stuff I haven't gotten to finish yet."
+msgstr "@george6 Eu estou dando um jeito de terminar as coisas que preciso."
+
+msgid "@george6_point But you know what's weird?"
+msgstr "@george6_point Mas sabe o que é mais estranho?"
+
+msgid "@niko What?"
+msgstr "@niko O quê?"
+
+msgid "@george6_shrug The stuff I'm supposed to finish don't get finished."
+msgstr "@george6_shrug As coisas que preciso terminar nunca acabam."
+
+msgid "@george6 Like I've put out book after book but the work pile don't get any smaller."
+msgstr "@george6 Eu publico livro atrás de livro e o trabalho não diminui."
+
+msgid "@george6_shrug ...Have I really been slackin' that much?"
+msgstr "@george6_shrug ... será que sou tão lenta assim?"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko É uma estante."
+
+msgid "@niko_speak The computer screen says something about \"updated databases\"."
+msgstr "@niko_speak Tem alguma coisa escrita na tela do computador... “bancos de dados atualizados”."
+
+msgid "@george1 So!\\>\\n\\@george1_smug Someone here to see the brilliant George, eh?"
+msgstr "@george1 Então!\\>\\n\\@george1_smug Tem alguém aqui para ver a incrível George, é?"
+
+msgid "@george1_smug Caught wind of my genius and couldn't help but come see for yourself, eh?"
+msgstr "@george1_smug Soube de minha genialidade e quis pagar para ver, é?"
+
+msgid "@niko Um-"
+msgstr "@niko Hm..."
+
+msgid "@george1 ...don't answer!\\>\\n\\@george1_smug Of course you are."
+msgstr "@george1 ... não responda!\\>\\n\\@george1_smug Eu sei que sim."
+
+msgid "@george1_smile What else could you ~possibly~ want?"
+msgstr "@george1_smile O que mais você ~poderia~ querer?"
+
+msgid "@niko Actually... \\@niko_speak I need your help!\\>\\n\\@niko_speak Can you tell me what I need to do?"
+msgstr "@niko Na verdade... \\@niko_speak Preciso de sua ajuda!\\>\\n\\@niko_speak Pode me dizer o que preciso fazer?"
+
+msgid "@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko Acho que... preciso ir para a Torre..."
+
+msgid "@george1_smug Ah, but of course I can help!"
+msgstr "@george1_smug Ah, mas é claro que eu posso ajudar!"
+
+msgid "@george1 For I... the brilliant and intelligent head librarian George, beholder of all knowledge........"
+msgstr "@george1 Para mim... a incrível e inteligente bibliotecária-chefe George, portadora de todo o conhecimento......."
+
+msgid "@george1_hm ...Believe you're supposed to go in the Tower!"
+msgstr "@george1_hm ... acredita que você deva ir à Torre!"
+
+msgid "@niko_eyeclosed That's what I said...\\>\\n\\@niko_speak But how, exactly?"
+msgstr "@niko_eyeclosed Foi isso que eu disse... \\>\\n\\@niko_speak Mas como, exatamente?"
+
+msgid "@george1 Through the Tower entrance room!"
+msgstr "@george1 Pela salinha de entrada da Torre!"
+
+msgid "@george1_hm Alas, going beyond that small entrance room requires ancient, forbidden knowledge that eludes even George."
+msgstr "@george1_hm Infelizmente, passar pela salinha de entrada requer informações antigas e proibidas que nem George possui."
+
+msgid "@george1 ...but fear not!"
+msgstr "@george1 ... mas não tenha medo!"
+
+msgid "@george1 If that knowledge happens to be recorded in some cryptic tome in a long-dead language..."
+msgstr "@george1 Se essas informações estiverem gravadas em algum tomo críptico em qualquer língua antiga..."
+
+msgid "@george1_smug Then know that I, George, am fluent in several dead languages!"
+msgstr "@george1_smug Saiba que eu, George, sou fluente em várias línguas antigas!"
+
+msgid "@niko I... see!"
+msgstr "@niko Ahm... Entendo!"
+
+msgid "@niko Excuse me..."
+msgstr "@niko Com licença..."
+
+msgid "@george2_stress Hey!!!"
+msgstr "@george2_stress Ei!!!"
+
+msgid "@george2_grr Who the heck do you think you are, barging in here like that?"
+msgstr "@george2_grr Quem diabos você pensa que é, invadindo esse local assim?"
+
+msgid "@george2_NO I don't care if you're the Messiah, manners are still a thing!"
+msgstr "@george2_NO Não me importa se você é o Messias!"
+
+msgid "@niko I'm... \\>\\@niko_speak sorry?"
+msgstr "@niko Des... \\>\\@niko_speak desculpa?"
+
+msgid "@george2 Well? Are you just here to apologize?"
+msgstr "@george2 Bem, veio aqui só para pedir desculpas?"
+
+msgid "@niko ...Yes? \\.\\.\\n\\@niko_speak I mean, no!"
+msgstr "@niko ... sim? \\.\\.\\n\\@niko_speak Digo... não!"
+
+msgid "@niko_eyeclosed I mean, I need your help...\\>\\n\\@niko I'm not sure what I need to do next."
+msgstr "@niko_eyeclosed Na verdade, eu preciso de sua ajuda!\\>\\n\\@niko Não sei o que devo fazer agora."
+
+msgid "@niko I think I need to go in the Tower?"
+msgstr "@niko Será que preciso ir para a Torre?"
+
+msgid "@george2 Seriously? You haven't figured that one out yet?"
+msgstr "@george2 Sério? Você ainda não percebeu isso?"
+
+msgid "@niko_speak I don't know how to get in!"
+msgstr "@niko_speak Eu não sei como entrar nela!"
+
+msgid "@george2_grr Well, I don't know either.\\n\\>\\@george2 Shouldn't \\p help you with that?"
+msgstr "@george2_grr Bem, eu também não.\\n\\>\\@george2 Será que \\p não poderia ajudar nisso?"
+
+msgid "@george2_sigh All I know is that nobody from this world can get in there."
+msgstr "@george2_sigh Só sei que ninguém desse mundo pode entrar lá."
+
+msgid "@george2_grr Not beyond that tiny entrance room, anyway."
+msgstr "@george2_grr Não através daquela salinha de entrada."
+
+msgid "@george2 If anything, there might be a book on how the Messiah of all people can get in."
+msgstr "@george2 Talvez haja um livro explicando como o Messias pode entrar."
+
+msgid "@george2_sigh But I don't got anything like that in MY collection."
+msgstr "@george2_sigh Mas eu não tenho nada disso na MINHA biblioteca."
+
+msgid "@george2_grr Would like to, though."
+msgstr "@george2_grr Embora, eu gostaria..."
+
+msgid "@george3_sad Si\\.i\\.i\\.\\.i\\.\\.igh."
+msgstr "@george3_sad A\\.a\\.a\\.\\.a\\.\\.h."
+
+msgid "@niko Um... hi?"
+msgstr "@niko Hm.. oi?"
+
+msgid "@george3_sigh ...\\.Hi."
+msgstr "@george3_sigh ...\\.Oi."
+
+msgid "@niko_speak Are you alright?"
+msgstr "@niko_speak Está tudo bem?"
+
+msgid "@george3_sad .\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\.."
+msgstr "@niko .\\..\\..\\.."
+
+msgid "@george3_worry Can I... help you..."
+msgstr "@george3_worry Posso... ajudar?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak Sim!"
+
+msgid "@niko I was wondering if you can tell me what I should do next?"
+msgstr "@niko Eu queria saber o que devo fazer agora."
+
+msgid "@niko I... think I'm supposed to go in the Tower."
+msgstr "@niko Acho que... devo ir até a Torre."
+
+msgid "@george3_sad ...the Tower....\\>\\n\\@george3_sigh A grim obelisk... \\>\\@george3_sigh a solemn reminder of our fate."
+msgstr "@george3_sad ... a Torre...\\>\\n\\@george3_sigh Um obelisco sombrio... \\>\\@george3_sigh Uma lembrança solene de nosso destino."
+
+msgid "@george3_cry We're all gonna dieeeeeee...."
+msgstr "@george3_cry Todos nós vamos morreeeeeer..."
+
+msgid "@niko_what Um..."
+msgstr "@niko_what Hm..."
+
+msgid "@niko_what ...so...\\> \\@niko_eyeclosed how do I... \\>\\@niko_speak get in?"
+msgstr "@niko_what ... então...\\>\\@niko_eyeclosed como eu faço... \\>\\@niko_speak para entrar?"
+
+msgid "@george3_cry I don't know...!!!\\>\\n\\@george3_sad I've been reading and studying all my life, and yet..."
+msgstr "@george3_cry Eu não sei...!!!\\>\\n\\@george3_sad Tenho lido e estudado a vida toda e mesmo assim..."
+
+msgid "@george3_cry I haven't even found any books about entering the Tower!"
+msgstr "@george3_cry Não encontrei nenhum livro sobre como entrar na Torre!"
+
+msgid "@george3 Oh, I know there's a small room you can go in, but...\\>\\n\\@george3_cry Everybody knows that!"
+msgstr "@george3 Ah, eu sei que há uma salinha em que você pode entrar, mas...\\>\\n\\@george3_cry Todos sabem disso!"
+
+msgid "@george4_smile Helloooo~!\\>\\nYou must be the savior!"
+msgstr "@george4_smile Oláááá~!\\>\\nVocê deve ser o messias!"
+
+msgid "@george4_omg I'm soooo happy I actually get to meet you! <3"
+msgstr "@george4_omg Estou tão feliz em finalmente conhecer você! <3"
+
+msgid "@niko_speak It's nice to meet you too, miss!"
+msgstr "@niko_speak É um prazer conhecê-la também, senhorita!"
+
+msgid "@george4 So! Are you here to check out the archives?\\>\\n\\@george4_omg I can give you a tour!"
+msgstr "@george4 Então! Está aqui para dar uma olhada nos arquivos?\\>\\n\\@george4_omg Podemos fazer um passeio guiado!"
+
+msgid "@niko Actually... \\>\\n\\@niko_speak I need your help!"
+msgstr "@niko Na verdade... \\>\\n\\@niko_speak Preciso de sua ajuda!"
+
+msgid "@niko_speak Can you tell me what I need to do next?\\>\\n\\@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko_speak O que será que preciso fazer agora?\\>\\n\\@niko Acho que... preciso ir até a Torre..."
+
+msgid "@george4 Yup!"
+msgstr "@george4 Isso!"
+
+msgid "@niko Do you know how I can get in?"
+msgstr "@niko Você sabe como posso entrar nela?"
+
+msgid "@george4 Nope!"
+msgstr "@george4 Não!"
+
+msgid "@george4_golly Gosh, I don't think ANYONE's supposed to get inside the Tower!"
+msgstr "@george4_golly Meu Deus, acho que NINGUÉM nunca entrará na Torre!"
+
+msgid "@george4 I mean, there's a little room that you can go into...\\>\\n\\@george4_golly But there's no stairs or elevators or anything else..."
+msgstr "@george4 Digo, há uma salinha acessível...\\>\\n\\@george4_golly Mas não há nenhuma escada, nem elevador, nem nada do tipo..."
+
+msgid "@george4 If you want my guess, you'll probably need \\p's help?"
+msgstr "@george4 Você provavelmente precisará da ajuda de \\p."
+
+msgid "@george4_oops I don't know how exactly..."
+msgstr "@george4_oops Só não sei como exatamente..."
+
+msgid "@george4 In my experience, that kind of knowledge is usually recorded in some sort of cryptic book."
+msgstr "@george4 Pelo que sei, esse tipo de informação geralmente fica gravada em um livro críptico."
+
+msgid "@george4_golly But I haven't read anything like that before...\\>\\n\\@george4_oops Sorry!"
+msgstr "@george4_golly Mas eu nunca li nada do tipo...\\>\\n\\@george4_oops Desculpe-me!"
+
+msgid "@niko Ah..."
+msgstr "@niko Ah..."
+
+msgid "@george5 Oh, hello there!"
+msgstr "@george5 Ah, olá!"
+
+msgid "@george5_smile You must be the savior!"
+msgstr "@george5_smile Você deve ser o messias!"
+
+msgid "@george5_aww And also, the cutest darn thing I have ever seen!"
+msgstr "@george5_aww E, também, a coisa mais lindinha que eu já vi!"
+
+msgid "@niko U-um... \\>\\n\\@niko_speak Thank you!"
+msgstr "@niko Hmm...\\>\\n\\@niko_speak Valeu!"
+
+msgid "@george5_smile Can I help you with anything, sweetie?"
+msgstr "@george5_smile Posso ajudar em alguma coisa, fofura?"
+
+msgid "@niko Mhm!\\>\\n\\@niko I want to know what I should do next!"
+msgstr "@niko Aham!\\>\\n\\@niko Quero saber o que devo fazer agora!"
+
+msgid "@niko I think I'm supposed to go in the Tower?"
+msgstr "@niko Acho que preciso ir para a Torre, não é?"
+
+msgid "@george5 Oooh that's right, the Tower!"
+msgstr "@george5 Isso mesmo, a Torre!"
+
+msgid "@george5_smile I know there's a small room that you can go into, but..."
+msgstr "@george5_smile Eu sei que há uma salinha em que dá pra entrar, mas..."
+
+msgid "@george5_hmm ...I'm afraid nobody knows how to get in beyond that!"
+msgstr "@george5_hmm ... acredito que ninguém saiba como passar dela!"
+
+msgid "@george5_heh Not even silly ol' me, who spent her entire life reading books about the world..."
+msgstr "@george5_heh Nem mesmo a linda aqui, que passou a vida inteira lendo livros sobre o mundo..."
+
+msgid "@george5 I think you need some help from \\p, but I don't know any details!"
+msgstr "@george5 Acho que você precisará da ajuda de \\p, mas não tenho nenhum detalhe!"
+
+msgid "@george5_hmm I've never found any books about this before...\\>\\n\\@george5_smile You'd think there would be at least ONE book on this, but I guess that's just how it is!"
+msgstr "@george5_hmm Eu nunca encontrei nenhum livro sobre isso...\\>\\n\\@george5_smile Embora haja tudo nos livros, acho difícil encontrar alguma coisa!"
+
+msgid "@george5_hmm Goodness, this is quite the dilemma!"
+msgstr "@george5_hmm Minha nossa, isso é um dilema!"
+
+msgid "@george6 Hey, lil' fella!"
+msgstr "@george6 Ei, criança!"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak Olá!"
+
+msgid "@george6_point So you're gonna like, save the world and stuff!\\>\\n\\@george6_smile Didn't think I'd run into ya. But now I did!"
+msgstr "@george6_point Então você quer... salvar o mundo e tudo mais?!\\>\\n\\@george6_smile Eu não pensei que fosse encontrar você, mas que bom que apareceu!"
+
+msgid "@george6_fingerguns Eyyyyyy."
+msgstr "@george6_fingerguns Eiiiiiiita."
+
+msgid "@niko_speak Um, thanks?"
+msgstr "@niko_speak Hm, está bem..."
+
+msgid "@george6 So like, what up?\\>\\n\\@george6_smile Can I getcha anything?"
+msgstr "@george6 Então, e aí?\\>\\n\\@george6_smile O que posso fazer por você?"
+
+msgid "@niko_speak Yeah! I heard you can help me!"
+msgstr "@niko_speak Isso! Me disseram que você poderia me ajudar!"
+
+msgid "@niko I'm not sure what I'm supposed to do now..."
+msgstr "@niko Eu não sei o que fazer agora..."
+
+msgid "@niko_speak I think I'm supposed to go in the Tower...\\>\\n\\@niko But how do I do that?"
+msgstr "@niko_speak Acho que preciso ir para a Torre...\\>\\n\\@niko Mas como farei isso?"
+
+msgid "@george6 Ya don't.\\>\\n\\@george6_shrug At least, WE don't."
+msgstr "@george6 Não faz.\\>\\n\\@george6_shrug Pelo menos, não fazemos isso."
+
+msgid "@george6 The Tower's only got one teeny room in it, it ain't even got stairs!"
+msgstr "@george6 Tem só uma salinha no pé da Torre e nem escadas tem nela!"
+
+msgid "@george6_point I bet you need \\p's help on this one, pal...\\>\\n\\@george6_shrug Exactly how? I dunno."
+msgstr "@george6_point Acho que você vai precisar da ajuda de \\p, colega...\\>\\n\\@george6_shrug Como exatamente? Eu não sei."
+
+msgid "@george6 But I bet'cha anything that sorta knowledge is in some mystery book somewhere."
+msgstr "@george6 Mas eu aposto que tem alguma informação em algum livro misterioso em algum lugar."
+
+msgid "@george6_shrug Nothin' in my collection fits the description, tho."
+msgstr "@george6_shrug No entanto, não há nada disso na minha biblioteca."
+
+msgid "@niko A box full of notebooks."
+msgstr "@niko Uma caixa cheia de cadernos."
+
+msgid "@niko A book is poking out from the shelf."
+msgstr "@niko Um livro está caindo da prateleira."
+
+msgid "@niko_speak Ah, this looks like a sketchbook of some sort!"
+msgstr "@niko_speak Ah, parece algum tipo de caderno de desenho!"
+
+msgid "@george1 Oh, do you need George to tell you what to do again?"
+msgstr "@george1 Ah, George precisa lhe dizer de novo o que fazer?"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak Sim, por favor!"
+
+msgid "@george1 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george1 De acordo com o diário, você precisa ir a uma salinha na base da Torre com três partes do sol anterior."
+
+msgid "@george1 With those three items at hand, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george1 Com esses três itens a mão, você precisará ficar na sala enquanto \\p fará alguma coisa acerca dos padrões do piso e das janelas."
+
+msgid "@niko Alright... thank you!"
+msgstr "@niko Tudo bem... Valeu!"
+
+msgid "@george1_smile Good luck on your journey, small child!"
+msgstr "@george1_smile Boa sorte em sua jornada, criança!"
+
+msgid "@george1 George shall bid you farewell now."
+msgstr "@george1 George se despedirá agora."
+
+msgid "@george1 I've done it!"
+msgstr "@george1 Consegui!\\>\\n"
+
+msgid "@george1_smile I have finished the daunting task of translating this journal!"
+msgstr "@george1_smile Concluí a temorosa tarefa de traduzir este diário!"
+
+msgid "@niko_speak Oh! That was fast!"
+msgstr "@niko_speak Ah! Que rápido!"
+
+msgid "@george1_smug But of course! I AM the speediest translator in recent history."
+msgstr "@george1_smug Ora, é claro! Sou a tradutora MAIS RÁPIDA da história atual."
+
+msgid "@george1 Anyway, I made you a line-by-line transcript. \\>\\nIt looks like this journal might be meant for \\p."
+msgstr "@george1 Enfim, fiz uma transcrição literal. \\>\\nParece que o diário foi escrito para \\p."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Hm?"
+
+msgid "@george1 Here, take a look yourself."
+msgstr "@george1 Tome, dê uma olhada."
+
+msgid "@george1 There, that's the last of it."
+msgstr "@george1 Pronto, isso é tudo."
+
+msgid "@george1 The rest of the pages are torn out.\\>\\n\\@george1_hm You didn't do this, did you?"
+msgstr "@george1 As outras páginas estão rasgadas.\\>\\n\\@george1_hm Não foi você quem fez isso, foi?"
+
+msgid "@niko_speak No!"
+msgstr "@niko_speak Não!"
+
+msgid "@george1 A shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george1 Ah well, I guess \\p will have to figure out that one."
+msgstr "@george1 Uma pena! Fiquei curiosa para saber o que significa a tal “janela”.\\>\\n\\@george1 Ahm, bem... Acho que \\p terá que decifrar esse mistério."
+
+msgid "@niko Right..."
+msgstr "@niko Certo..."
+
+msgid "@niko_speak By the way, what does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak Falando nisso, o que significa “três partes do sol passado”?\\>\\n\\@niko Eu só tenho este sol..."
+
+msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can answer!"
+msgstr "@george1_hm Arrá!\\>\\nEssa... \\@george1_smug é uma pergunta que George pode responder!"
+
+msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
+msgstr "@george1 Significa que você precisa de itens que contêm luminescência amarela — a mais rara delas.\\>\\n\\@george1 Ela absorve luz solar por mais tempo e nunca apaga."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Ah!\\>\\n\\@niko Eu tenho um pedaço de âmbar e uma pena, ambos têm um brilho amarelo..."
+
+msgid "@george1_hm But alas, you are missing the third, no?"
+msgstr "@george1_hm Mas infelizmente lhe falta uma terceira peça, não é?"
+
+msgid "@george1 Fear not! For George, collector of rare artifacts... \\@george1_hm will assist you!\\>\\n\\@george1 Here."
+msgstr "@george1 Pois não tema! George, a colecionadora de artefatos raros \\@george1_hm pode ajudar!\\>\\n\\@george1 Tome."
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko_huh ...like you?"
+msgstr "@niko Ah...\\>\\n\\@niko_speak Parece... \\@niko_huh ... com você?"
+
+msgid "@george1_smile Yes!"
+msgstr "@george1_smile Isso!"
+
+msgid "@george1_smile Now you'll never forget my face! \\>\\n\\@george1 The face... \\>\\@george1_hm of knowledge."
+msgstr "@george1_smile Agora você nunca esquecerá do meu rosto! \\>\\n\\@george1 O rosto... \\>\\@george1_hm do conhecimento."
+
+msgid "@niko_speak Ah, thank you!"
+msgstr "@niko_speak Ah, valeu!"
+
+msgid "@george1 Yes, even someone as great as I must put the proper thought and care into a task like this."
+msgstr "@george1 Sim, mesmo alguém tão grandioso quanto eu precisa refletir e dar o máximo de si em uma tarefa como esta.\\>\\n"
+
+msgid "@niko_yawn *yawn*..."
+msgstr "@niko_yawn *uaaah*..."
+
+msgid "@niko_eyeclosed Excuse me.... \\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed Com licença... \\>\\n\\@niko ... de novo."
+
+msgid "@george1 Go take a nap, small child! \\>\\n\\@george1_smug Take a nap and appreciate my hospitality!"
+msgstr "@george1 Vá tirar um cochilo, criança! \\>\\n\\@george1_smug Tire um cochilo e aproveite minha hospitalidade!"
+
+msgid "@george1 Guest room's in the attic down the hall, in case you forgot."
+msgstr "@george1 Se você não se lembra, o quarto de hóspedes fica no sótão ao fim do corredor."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Ah!"
+
+msgid "@niko I do have this book, though!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko Mas eu tenho esse livro!\\>\\n\\@niko_speak Eu... acho que está escrito em um... idioma que não estou reconhecendo."
+
+msgid "@george1 Aha!\\>\\nAn ancient book!\\>\\nWritten by no less than the most ancient... wait a minute."
+msgstr "@george1 A-há!\\>\\nUm livro antigo!\\>\\nEscrito pelo mais antigo... calma aí."
+
+msgid "@george1_hm This isn't ancient at all!\\>\\n\\@george1 But it's written in a dead language nevertheless."
+msgstr "@george1_hm Isso não é antigo coisa nenhuma!\\>\\n\\@george1 Mas de qualquer forma está escrito numa língua morta."
+
+msgid "@george1_hm It's time... for me to unleash my brilliance!"
+msgstr "@george1_hm Hora de... dar asas à minha geniosidade!"
+
+msgid "@george1 For George (me),\\npossessor of at least one PhD...\\>\\n\\@george1_smug shall translate this!"
+msgstr "@george1 Pois George (eu),\\ndotada de um ou mais doutorados...\\>\\n\\@george1_smug traduzirei isto!"
+
+msgid "@george1 ...this will take some time, however."
+msgstr "@george1 ... mas levará algum tempo."
+
+msgid "@niko I see...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Entendo...\\>\\n\\@niko_yawn *uaaah*..."
+
+msgid "@niko_eyeclosed Excuse me...."
+msgstr "@niko_eyeclosed Com licença..."
+
+msgid "@george1_hm Oh? What's this? \\>\\nYou are sleepy?"
+msgstr "@george1_hm Hã? O que é isso? \\>\\nEstá com sono?"
+
+msgid "@niko_eyeclosed A little...."
+msgstr "@niko_eyeclosed Um pouquinho..."
+
+msgid "@george1_smile Fear not! \\>Because I have read a book on hospitality before!"
+msgstr "@george1_smile Pois não tema! \\>Já li um livro sobre hospitalidade!"
+
+msgid "@george1_smug ...and thus, have prepared for this exact situation!"
+msgstr "@george1_smug ... e, sendo assim, estou preparada para essa situação específica!"
+
+msgid "@george1 ...Guest room's in the attic down the hall."
+msgstr "@george1 ... O quarto de hóspedes fica no sótão ao final do corredor."
+
+msgid "@niko So...."
+msgstr "@niko Então..."
+
+msgid "@george1 If you have any questions regarding books, then fear not."
+msgstr "@george1 Se tiver alguma pergunta relacionada a livros, não se preocupe."
+
+msgid "@george1_smug For I, George the head librarian, know a lot about \\c[3]books\\c[0]."
+msgstr "@george1_smug Pois eu, George, a bibliotecária-chefe, tenho amplo conhecimento sobre \\c[3]livros\\c[0]."
+
+msgid "@george2_grr What? You need me to explain again?"
+msgstr "@george2_grr O quê? Precisa que eu explique de novo?"
+
+msgid "@george2_sigh FINE."
+msgstr "@george2_sigh CERTO."
+
+msgid "@george2 The Journal says you have to go to the small room at the base of the Tower while holding three pieces of the previous sun."
+msgstr "@george2 O diário diz que você precisa visitar a salinha na base da Torre portando três partes do sol anterior."
+
+msgid "@george2 Since you already have those, you must stand in the room and wait for \\p to do something about floor patterns and windows."
+msgstr "@george2 Como os itens já estão com você, você precisa ficar na sala e esperar \\p resolver o que fazer sobre os desenhos do chão e as janelas."
+
+msgid "@niko Alright... that makes sense.\\>\\n\\@niko Thank you!"
+msgstr "@niko Certo... faz sentido.\\>\\n\\@niko Eu agradeço!"
+
+msgid "@george2_sigh Well, bye."
+msgstr "@george2_sigh Bem, tchau."
+
+msgid "@george2_grr THERE. FINALLY.\\>\\n\\@george2_sigh ...the translation is done."
+msgstr "@george2_grr PRONTO. FINALMENTE.\\>\\n\\@george2_sigh ... terminei a tradução."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko That was faster than I thought!"
+msgstr "@niko_speak Ó!\\>\\n\\@niko Foi mais rápido do que pensei!"
+
+msgid "@george2_grr Well, YEAH!\\>\\n\\@george2_stress You've been asleep for hours!"
+msgstr "@george2_grr Bom, ISSO MESMO!\\>\\n\\@george2_stress Você passou horas dormindo!"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@george2_sigh Anyway...\\>\\n\\@george2_grr It looks like this journal was meant for \\p."
+msgstr "@george2_sigh Enfim...\\>\\n\\@george2_grr Parece-me que este diário foi escrito para \\p."
+
+msgid "@george2_sigh Here. Read it yourself."
+msgstr "@george2_sigh Tome. Leia-o você."
+
+msgid "@george2_grr That's all there is.\\>\\n\\@george2_sigh Someone tore out the other pages."
+msgstr "@george2_grr Isso é tudo.\\>\\n\\@george2_sigh Alguém rasgou as outras páginas."
+
+msgid "@george2_grr Did YOU do this???"
+msgstr "@george2_grr Por acaso foi VOCÊ???"
+
+msgid "@niko_huh No!"
+msgstr "@niko_huh Não!"
+
+msgid "@george2_sigh Then you're on your own, kid. I'm not sure what \"window\" means here.\\>\\n\\@george2 Maybe \\p will have to figure out that one."
+msgstr "@george2_sigh Então agora só depende de você, jovem. Não sei ao certo o que significa essa “janela” aqui.\\>\\n\\@george2 Talvez \\p tenha que desvendar esse mistério."
+
+msgid "@george2_grr Do I have to explain EVERYTHING..."
+msgstr "@george2_grr Será que eu tenho que explicar TUDO?"
+
+msgid "@george2_sigh Sigh.\\>\\n\\@george2_grr It's just a fancy word for objects containing yellow phosphor."
+msgstr "@george2_sigh Ah...\\>\\n\\@george2_grr É só uma palavra chique para objetos que contém luminescência amarela."
+
+msgid "@george2_sigh Y'know, stuff that glows yellow."
+msgstr "@george2_sigh Sabe, coisas que brilham na cor amarela."
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather!"
+msgstr "@niko_speak Ah!\\>\\n\\@niko Eu tenho um pedaço de âmbar e uma pena!"
+
+msgid "@niko_speak They fit the description, right...?"
+msgstr "@niko_speak Eles se encaixam nesse perfil, né?"
+
+msgid "@george2_grr Yeah, but you only have TWO of them."
+msgstr "@george2_grr Sim, mas você só tem DOIS itens."
+
+msgid "@george2_grr And they're super rare so it's not like you're just gonna find something like that on the ground."
+msgstr "@george2_grr E eles são mega raros, por isso não vá achando que o encontrará em qualquer esquina."
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed Certo..."
+
+msgid "@george2_sigh ...\\>\\@george2_grr ...okay."
+msgstr "@george2_sigh ...\\>\\@george2_grr ... certo."
+
+msgid "@george2 Here. You can have this."
+msgstr "@george2 Tome. Fique com isto."
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko ...kinda like you?"
+msgstr "@niko Ah...\\>\\n\\@niko_speak Parece um pouco... \\@niko_huh ... com você?"
+
+msgid "@george2_grr What? Never seen dice before?"
+msgstr "@george2_grr O quê? Nunca viu um dado antes?"
+
+msgid "@niko_speak No!\\> I mean yes!\\>\\n\\@niko I mean, it's just..."
+msgstr "@niko_speak Não!\\> Quero dizer, sim!\\>\\n\\@niko Digo, é só que..."
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed Deixa para lá."
+
+msgid "@george2_grr So... yeah.\\>\\nNeed anything else?"
+msgstr "@george2_grr Hm... Tudo bem.\\>\\nPrecisa de mais alguma coisa?"
+
+msgid "@niko_speak I'm good, thank you!"
+msgstr "@niko_speak Tudo bem!"
+
+msgid "@george2_grr ...Off you go, then.\\>\\n\\@george2_sigh Don't screw this up, okay?"
+msgstr "@george2_grr ... Então dê no pé.\\>\\n\\@george2_sigh Não vá pisar na bola, beleza?"
+
+msgid "@george2_grr What? Couldn't find it?\\>\\n\\@george2_sigh It's down the hall and upstairs!"
+msgstr "@george2_grr O quê? Não conseguiu achar?\\>\\n\\@george2_sigh É só seguir o corredor e subir as escadas!"
+
+msgid "@george2_grr Just go take a nap. \\>\\@george2_sigh Translating's gonna take a while anyway."
+msgstr "@george2_grr Vá tirar um cochilo. \\>\\@george2_sigh Essa tradução vai demorar um pouco."
+
+msgid "@niko I have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko Eu tenho esse livro!\\>\\n\\@niko_speak Eu... acho que está escrito em um... idioma que não estou reconhecendo."
+
+msgid "@george2 Oh? \\>\\nLemme see..."
+msgstr "@george2 É mesmo? \\>\\nDeixe-me ver..."
+
+msgid "@george2_grr ...oh.\\>\\n\\@george2_stress Of course... \\>\\@george2_NO OF COURSE!!!"
+msgstr "@george2_grr ...ah.\\>\\n\\@george2_stress É claro... \\>\\@george2_NO É CLARO!!!"
+
+msgid "@niko Um..."
+msgstr "@niko Hm..."
+
+msgid "@george2_sigh More work for George, FINE."
+msgstr "@george2_sigh Beleza, MAIS trabalho para a George."
+
+msgid "@george2_grr Hey uh, \\>\\@george2 kid..."
+msgstr "@george2_grr Ahm, ei, \\>\\@george2 jovem..."
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak Niko!"
+
+msgid "@george2_grr Looks like I'm gonna have to translate this for you.\\>\\n\\@george2_sigh Might take a while."
+msgstr "@george2_grr Parece que terei que traduzir isto para você.\\>\\n\\@george2_sigh Pode demorar um pouquinho."
+
+msgid "@niko Alright...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Certo...\\>\\n\\@niko_yawn *uaaah*..."
+
+msgid "@george2_grr I know that feel, kid. \\>\\n\\@george2_stress I haven't had a good night's sleep in weeks!"
+msgstr "@george2_grr Sei bem como se sente, criança. \\>\\n\\@george2_stress Faz semanas que não durmo direito!"
+
+msgid "@niko_yawn *yawn*...\\>\\n\\@niko_eyeclosed ...\\.that's...\\.\\. not good..."
+msgstr "@niko_yawn *uaaah*... \\>\\n\\@niko_eyeclosed ...\\. isso \\.\\. ... não é nada bom."
+
+msgid "@george2_grr ...You know what?\\>\\n\\@george2_sigh I have a guest room in the attic down the hall."
+msgstr "@george2_grr ... Sabe de uma coisa?\\>\\n\\@george2_sigh Tem um quarto de hóspedes no sótão no final do corredor."
+
+msgid "@george2 Go take a nap!\\>\\n\\@george2_stress Just looking at you getting tired is making me tired!"
+msgstr "@george2 Vá tirar uma soneca!\\>\\n\\@george2_stress Estou ficando cansada só de olhar para você!"
+
+msgid "@george2_sigh Well, since you're already here.\\>\\n\\@george2_grr It'd be rude for me to tell you to leave."
+msgstr "@george2_sigh Bom, já que está aqui.\\>\\n\\@george2_grr Seria rude da minha parte lhe pedir para ir embora."
+
+msgid "@george2 Do you uh...\\. got any questions about \\c[3]books\\c[0]..."
+msgstr "@george2 Você, ahm... \\. tem alguma pergunta sobre \\c[3]livros\\c[0]...?"
+
+msgid "@george2_sigh Or you can read something here, I don't care. \\>\\n\\@george2_grr Just don't make a mess!"
+msgstr "@george2_sigh Ou pode tentar encontrar algo para ler por aqui, não me importo. \\>\\n\\@george2_grr Só não vá fazer bagunça!"
+
+msgid "@george3_sad Ohh... are you still lost?"
+msgstr "@george3_sad Ahh... Ainda está perdida?"
+
+msgid "@george3_sigh I KNEW I didn't explain it well enough..."
+msgstr "@george3_sigh SABIA que não tinha explicado o suficiente..."
+
+msgid "@george3_sad Alright... the journal says you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george3_sad Certo... Está escrito no diário que você precisa ir até uma salinha na base da Torre com três partes do sol anterior."
+
+msgid "@george3_sad And... since you have the three items... you need to stand in the room, and \\p will do something about floor patterns and windows..."
+msgstr "@george3_sad E, já que você já tem esses três itens, precisará ficar na sala enquanto \\p fará alguma coisa com as janelas e os desenhos do chão..."
+
+msgid "@niko That makes sense, thank you!"
+msgstr "@niko Faz sentido, valeu!"
+
+msgid "@george3_sad Yeah... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad Isso... \\>\\@george3_sigh Então a gente se vê por aí, eu acho..."
+
+msgid "@george3_sad .\\..\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\..\\.."
+
+msgid "@george3_sigh It's done..."
+msgstr "@george3_sigh Tudo pronto..."
+
+msgid "@niko_speak That was fast! Thank you!"
+msgstr "@niko_speak Que rápido! Valeu!"
+
+msgid "@george3_sad ...not... really."
+msgstr "@george3_sad ... na verdade, não."
+
+msgid "@george3_sigh You've just been sleeping...."
+msgstr "@george3_sigh Você só dormiu um tantão..."
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed Ah, sim."
+
+msgid "@george3_worry Anyway... \\.he...\\. this person... wrote this journal for \\p... I think..."
+msgstr "@george3_worry Enfim... \\.ele... \\. essa pessoa... escreveu este diário para \\p... É o que eu acho."
+
+msgid "@george3 I made you a transcript... here."
+msgstr "@george3 Fiz uma cópia para você... Tome."
+
+msgid "@george3_cry Th...that was the last of it."
+msgstr "@george3_cry Pr-pronto... Isso é tudo."
+
+msgid "@george3_worry A lot of the pages were torn out...\\>\\n\\@george3_cry Do you know what happened?"
+msgstr "@george3_worry Várias páginas foram rasgadas...\\>\\n\\@george3_cry Você sabe o que aconteceu?"
+
+msgid "@george3_sad Ah... I don't know what \"window\" is supposed to mean.\\>\\n\\@george3_worry Maybe \\p will know..."
+msgstr "@george3_sad Ah... Não sei o que é essa “janela” aqui.\\>\\n\\@george3_worry Talvez \\p saiba..."
+
+msgid "@george3 Oh."
+msgstr "@george3 Ah."
+
+msgid "@george3_sigh That's just referring to things with yellow phosphor in them.\\>\\n\\@george3 They uh... they glow for a long time!"
+msgstr "@george3_sigh Deve estar falando das coisas com luminescência amarela.\\>\\n\\@george3 Elas, ahm... Elas brilham por um tempão!"
+
+msgid "@george3_worry But they're really rare..."
+msgstr "@george3_worry Mas são muito raras..."
+
+msgid "@niko_speak Ooooh.\\>\\n\\@niko I have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Aaaah.\\>\\n\\@niko Eu tenho um pedaço de âmbar e uma pena, ambos têm um brilho amarelo..."
+
+msgid "@george3_worry But that's just two..."
+msgstr "@george3_worry Mas são só dois..."
+
+msgid "@george3_sigh ...\\>\\n\\@george3 Here, you can have this."
+msgstr "@george3_sigh ...\\>\\n\\@george3 Tome, pode ficar com isto."
+
+msgid "@george3_sigh I... guess? It's just a die..."
+msgstr "@george3_sigh Eu... acho? É só um dado..."
+
+msgid "@george3_worry Ohhhh, but \"die\" isn't a good word!\\>\\nWhat if I jinx your mission by giving you this?"
+msgstr "@george3_worry Ahhh, mas teria que ser achado, não “dado”!\\>\\nSerá que isso pode dar azar para a sua missão?"
+
+msgid "@george3_cry THE WORLD IS GONNA DIE AND IT'S GONNA BE MY FAULT!"
+msgstr "@george3_cry O MUNDO VAI RUIR E A CULPA SERÁ MINHA!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko I... think we'll be fine, miss!"
+msgstr "@niko Eu... acho que vamos ficar bem, moça!"
+
+msgid "@george3_sad Are you sure?"
+msgstr "@george3_sad Tem certeza?"
+
+msgid "@niko_speak Yeah!\\> Thank you for helping us, by the way!"
+msgstr "@niko_speak É isso aí!\\> Ah, e valeu por nos ajudar!"
+
+msgid "@george3_sad Alright... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad Certo... \\>\\@george3_sigh Então a gente se vê por aí, eu acho..."
+
+msgid "@george3_cry I'm working as fast as I can...!!"
+msgstr "@george3_cry Estou trabalhando o mais rápido que posso!!"
+
+msgid "@niko No worries!"
+msgstr "@niko Sem problema!"
+
+msgid "@niko_yawn *yawn*... \\>\\n\\@niko_eyeclosed Excuse me...\\. again."
+msgstr "@niko_yawn *uaaah*... \\>\\n\\@niko_eyeclosed Com licença...\\. de novo."
+
+msgid "@george3_sad You can go take a nap if you want..."
+msgstr "@george3_sad Você pode ir tirar um cochilo, se quiser..."
+
+msgid "@george3_sad If you forgot, the guest room is down the hall and upstairs..."
+msgstr "@george3_sad Se tiver esquecido, o quarto de hóspedes fica no final do corredor subindo as escadas..."
+
+msgid "@niko_speak Excuse me!"
+msgstr "@niko_speak Com licença!"
+
+msgid "@niko I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko Eu tenho esse livro!\\>\\n\\@niko_speak Eu... acho que está escrito em algum... idioma que não estou reconhecendo."
+
+msgid "@george3 Lemme see..."
+msgstr "@george3 Deixe-me ver..."
+
+msgid "@george3_sad Oh...\\>\\n\\@george3_worry Oh, dear...."
+msgstr "@george3_sad Ah... \\>\\n\\@george3_worry Oh, céus..."
+
+msgid "@niko Hm?"
+msgstr "@niko Hm?"
+
+msgid "@george3_sad Hey uh... is it alright if I... borrow this..."
+msgstr "@george3_sad Ei, ahm... Tudo bem se eu... pegar isso emprestado...?"
+
+msgid "@george3_worry There's no mistake... I have to translate it."
+msgstr "@george3_worry Não tem escapatória... Terei que traduzi-lo."
+
+msgid "@niko_speak Oh, no problem!"
+msgstr "@niko_speak Ah, sem problema!"
+
+msgid "@george3_sad I'll try my best, but... \\>\\@george3_sigh It probably won't be very fast."
+msgstr "@george3_sad Farei o que puder, mas... \\>\\@george3_sigh Acho que levará algum tempo."
+
+msgid "@niko That's okay.\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko Tudo bem.\\>\\n\\@niko_yawn *uaaah*..."
+
+msgid "@george3_worry Oh dear, are you... tired?"
+msgstr "@george3_worry Céus, você não descansou?"
+
+msgid "@george3_sad Ah, well...\\>\\n\\@george3 I do have a guest room upstairs...\\>\\n\\@george3_sad Ah, but it's in the attic though..."
+msgstr "@george3_sad Ah, bom... \\>\\n\\@george3 Tem um quarto de hóspedes lá em cima...\\>\\n\\@george3_sad Ah, mas é no sótão..."
+
+msgid "@george3_sigh Sorry if it's not very comfortable..."
+msgstr "@george3_sigh Sinto muito por não ser lá muito confortável..."
+
+msgid "@george3_sigh So... do you have any questions about \\c[3]books\\c[0]..."
+msgstr "@george3_sigh Então... você tem alguma pergunta sobre \\c[3]livros\\c[0]...?"
+
+msgid "@george3_cry It's all I'm good forrrrrrr......."
+msgstr "@george3_cry Essa é a minha especialidaaaaade..."
+
+msgid "@george4_golly Oh, do you need me to explain again?"
+msgstr "@george4_golly Ah, precisa que eu explique de novo?"
+
+msgid "@george4 Alright!"
+msgstr "@george4 Certo!"
+
+msgid "@george4_golly The journal says... you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george4_golly O diário diz que... você precisa ir até uma salinha na base da Torre portando três partes do antigo sol."
+
+msgid "@george4 And then, you'll stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george4 Depois, você precisará ficar na sala enquanto \\p fará alguma coisa com as janelas e os desenhos do chão."
+
+msgid "@george4_smile That's all there is to it!"
+msgstr "@george4_smile E é isso!"
+
+msgid "@niko Thank you!"
+msgstr "@niko Então ótimo!"
+
+msgid "@george4 No problem! See you later!"
+msgstr "@george4 Sem problema! Até mais!"
+
+msgid "@george4 Heya! Had a good nap?"
+msgstr "@george4 E aí! O cochilo foi bom?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Uhum!"
+
+msgid "@george4 Goody!\\>\\n\\@george4_smile I finished translating the journal, by the way!"
+msgstr "@george4 Beleza!\\>\\n\\@george4_smile Falando nisso, terminei a tradução do diário!"
+
+msgid "@george4_oops Well, you were out for a while.\\>\\n\\@george4_golly Anyway, it looks like this journal might be meant for \\p!"
+msgstr "@george4_oops Bom, você demorou um bocado. \\>\\n\\@george4_golly Enfim, parece que o diário foi escrito para \\p!"
+
+msgid "@george4 Here, take a look yourself!"
+msgstr "@george4 Tome, olhe só para você!"
+
+msgid "@niko Is that all?"
+msgstr "@niko Isso é tudo?"
+
+msgid "@george4_golly Yeah... the rest of the pages were torn out..."
+msgstr "@george4_golly É... O resto das páginas foi arrancado..."
+
+msgid "@george4 I... guess you don't know what happened to those?"
+msgstr "@george4 Creio que... você não saiba ao certo o que aconteceu com elas, né?"
+
+msgid "@niko_eyeclosed Nope..."
+msgstr "@niko_eyeclosed Não..."
+
+msgid "@george4_oops Aww... I was wondering what \"window\" was supposed to mean.\\>\\n\\@george4_golly Ah well, I guess \\p will have to figure out that one."
+msgstr "@george4_oops Ahh... Fiquei curiosa para saber o que significa essa “janela”.\\>\\n\\@george4_golly Ahm, bem... Acho que \\p terá que decifrar esse mistério."
+
+msgid "@george4_omg Oh! Of course!"
+msgstr "@george4_omg Ah! É claro!"
+
+msgid "@george4_smile That just means you need things that contain yellow phosphor!\\>\\n\\@george4 They glow for a long time!"
+msgstr "@george4_smile Isso só significa que você precisa de coisas que contenham luminescência amarela!\\>\\n\\@george4 Elas brilham por um tempão!"
+
+msgid "@niko_speak Ooh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak Aah!\\>\\n\\@niko Eu tenho um pedaço de âmbar e uma pena, ambos têm um brilho amarelo..."
+
+msgid "@george4_golly Aww, just two?"
+msgstr "@george4_golly Ahh, só duas coisas?"
+
+msgid "@george4 Here, you can have this then!"
+msgstr "@george4 Tome, então pode ficar com isto!"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks..."
+msgstr "@niko Ah...\\>\\n\\@niko_speak Parece..."
+
+msgid "@george4_smile Like me, right?"
+msgstr "@george4_smile Comigo, né?"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak Hm!"
+
+msgid "@george4_smile Now you have a little keepsake from the library!"
+msgstr "@george4_smile Agora você tem uma lembrancinha da biblioteca!"
+
+msgid "@george4 No problem! Looks like you're all set!"
+msgstr "@george4 Sem problema! Tudo prontinho!"
+
+msgid "@george4_smile Good luck now!"
+msgstr "@george4_smile Boa sorte!"
+
+msgid "@george4_oops Haha... it won't be done for a while, sorry!"
+msgstr "@george4_oops Haha... Vai demorar mais um pouco, desculpe!"
+
+msgid "@niko_eyeclosed Excuse me...\\.\\. again...."
+msgstr "@niko_eyeclosed Com licença...\\.\\. de novo..."
+
+msgid "@george4_golly Seriously, you should go take a nap before you overexert yourself!\\>\\n\\@george4 The guest room is in the attic down the hall, if you forgot!"
+msgstr "@george4_golly É sério, você deveria ir tirar uma soneca, senão ficará acabada!\\>\\n\\@george4 Se você não se lembra, o quarto de hóspedes fica no sótão ao final do corredor!"
+
+msgid "@niko_speak Oh! I do have this!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak Ah! Eu tenho isto!\\>\\n\\@niko_speak Eu... acho que está escrito em algum... idioma que não estou reconhecendo."
+
+msgid "@george4_golly Oh my gosh!"
+msgstr "@george4_golly Minha nossa!"
+
+msgid "@george4 It's.... \\.\\.\\@george4_omg A book!"
+msgstr "@george4 É... \\.\\.\\@george4_omg Um livro!"
+
+msgid "@george4 And not just any book! \\>\\@george4_golly Golly... where did you find this?"
+msgstr "@george4 E não é qualquer livro! \\>\\@george4_golly Caramba, onde você encontrou isso?"
+
+msgid "@niko I woke up with it."
+msgstr "@niko Eu acordei com ele."
+
+msgid "@niko Somewhere in the barrens!\\>\\n\\@niko_speak Oh! We found it in a safe!\\> Right, \\p?"
+msgstr "@niko Em algum lugar das Terras Áridas!\\>\\n\\@niko_speak Ah! Nós o encontramos num cofre!\\> Não foi, \\p?"
+
+msgid "@george4 Is that so!"
+msgstr "@george4 É mesmo?"
+
+msgid "@george4_smile In that case, I know what I have to do now!"
+msgstr "@george4_smile Sendo assim, já sei o que preciso fazer!"
+
+msgid "@george4 I need to borrow this journal for a bit, okay?\\>\\n\\@george4_omg Gotta translate it!"
+msgstr "@george4 Preciso pegar este diário emprestado um pouquinho, beleza?\\>\\n\\@george4_omg Preciso traduzi-lo!"
+
+msgid "@niko_speak Oh, cool!"
+msgstr "@niko_speak Ah, beleza!"
+
+msgid "@george4_oops It... might take a while, though..."
+msgstr "@george4_oops Mas... pode demorar um pouco..."
+
+msgid "@niko_speak That's fine!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak Tudo bem!\\>\\n\\@niko_yawn *uaaah*..."
+
+msgid "@george4_golly Gosh! You look really tired!"
+msgstr "@george4_golly Minha nossa! Você está um caco!"
+
+msgid "@niko_eyeclosed A little, yeah...."
+msgstr "@niko_eyeclosed Um pouquinho..."
+
+msgid "@george4_smile No worries! I have a guest room in the attic down the hall!"
+msgstr "@george4_smile Sem problema! Eu tenho um quarto de hóspedes no sótão no final do corredor!"
+
+msgid "@george4 If you want, you can go take a nap!\\>\\n\\@george4_smile ...a catnap!"
+msgstr "@george4 Se quiser, pode ir tirar um cochilo!\\>\\n\\@george4_smile ... uma sonequinha!"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@george4 Well, since you're already here, feel free to check out my archives!"
+msgstr "@george4 Bom, já que você está aqui, pode ficar à vontade para conferir meus arquivos!"
+
+msgid "@george4_omg Or better yet! If you have any questions about \\c[3]books\\c[0], I can answer them!"
+msgstr "@george4_omg Ou melhor, se tiver alguma pergunta sobre \\c[3]livros\\c[0], eu tenho as respostas!"
+
+msgid "@george4 I love books.... books books books!"
+msgstr "@george4 Eu amo livros... livros, livros, livros!"
+
+msgid "@george5 Oh! Would you like me to explain again?"
+msgstr "@george5 Ah! Quer que eu explique de novo?"
+
+msgid "@george5 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george5 De acordo com o diário, você precisa ir a uma salinha na base da Torre com três partes do sol anterior."
+
+msgid "@george5 ...and then, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george5 Depois, você precisará ficar na sala enquanto \\p fará alguma coisa relacionada a janelas e desenhos do chão."
+
+msgid "@niko Ooo, makes sense, thank you!"
+msgstr "@niko Ahh, faz sentido, valeu!"
+
+msgid "@george5 Best of luck, sweetie!"
+msgstr "@george5 Toda sorte para você, meu bem!"
+
+msgid "@george5_smile Had a good nap, dear?"
+msgstr "@george5_smile Como foi o cochilo, meu bem?"
+
+msgid "@george5_smile Wonderful!"
+msgstr "@george5_smile Maravilhoso!"
+
+msgid "@george5 I have the translation ready for you now.\\>\\n\\@george5_hmm It looks like this journal might be meant for \\p."
+msgstr "@george5 Fiz a tradução para você. \\>\\n\\@george5_hmm Parece que o diário foi escrito para \\p."
+
+msgid "@george5 Here, why don't you take a look?"
+msgstr "@george5 Tome, dê uma olhada."
+
+msgid "@george5_hmm That is all there is to translate...\\>\\nLooks like the other pages have been torn out."
+msgstr "@george5_hmm Foi o que eu consegui traduzir...\\>\\nParece que arrancaram as outras páginas."
+
+msgid "@niko Oh..."
+msgstr "@niko Ah..."
+
+msgid "@george5_hmm Quite a shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george5 Ah well, I guess \\p can figure that one out!"
+msgstr "@george5_hmm Uma pena! Fiquei curiosa para saber o significado da tal “janela”.\\>\\n\\@george5 Ahm, bem... Acho que \\p saberá decifrar esse mistério!"
+
+msgid "@niko_speak Oh! What does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak Ah, e o que significa “três partes do antigo sol”?\\>\\n\\@niko Eu só tenho este sol..."
+
+msgid "@george5 That means the stuff containing yellow phosphor!\\>\\n\\@george5_smile They glow for a very long time, so people call them \"pieces of the sun\" sometimes!"
+msgstr "@george5 Significa coisas que contêm luminescência amarela!\\>\\n\\@george5_smile Elas brilham por um tempão, por isso as pessoas por vezes as chamam de “pedaços de sol”!"
+
+msgid "@george5 Very good, dear!\\>\\n\\@george5_smile And I can help you with the last one!"
+msgstr "@george5 Ótimo, meu bem!\\>\\n\\@george5_smile E posso ajudar você com o último item!"
+
+msgid "@george5_heh I know! Isn't it silly?\\>\\n\\@george5 But now you'll have something to remind you of the library!"
+msgstr "@george5_heh Sim! É uma bobeirinha?\\>\\n\\@george5 Mas agora você terá algo para se lembrar da biblioteca!"
+
+msgid "@george5_smile Good luck now, sweetie!\\>\\n\\@george5 I wish you safe travels!"
+msgstr "@george5_smile Boa sorte, meu bem!\\>\\n\\@george5 Desejo-lhe uma boa jornada!"
+
+msgid "@george5_smile Don't wear yourself out now, dear!\\>\\n\\@george5 The guest room is just down the hall to the right."
+msgstr "@george5_smile Não fique se escorando pelos cantos, meu bem!\\>\\n\\@george5 O quarto de hóspedes fica ao final do corredor à direita."
+
+msgid "@niko_speak Oh! I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak Ah! Eu tenho esse livro!\\>\\n\\@niko_speak Eu... acho que está escrito num... idioma que não estou reconhecendo."
+
+msgid "@george5 Really now!\\>\\n\\@george5_hmm May I take a closer look, dear?"
+msgstr "@george5 Caramba!\\>\\n\\@george5_hmm Posso dar uma olhada, meu bem?"
+
+msgid "@niko Here!"
+msgstr "@niko Tome!"
+
+msgid "@george5 Oh!\\>\\n\\@george5_hmm Oh my! Where did you find this?"
+msgstr "@george5 Ah!\\>\\n\\@george5_hmm Minha nossa! Onde você achou isso?"
+
+msgid "@george5_hmm Hmm...\\>\\n\\@george5 I think...\\.\\. I'm supposed to translate this for you!"
+msgstr "@george5_hmm Hmm... \\>\\n\\@george5 Acho que...\\.\\. preciso traduzi-lo para você!"
+
+msgid "@george5_hmm Is it alright if I hold on to the journal for now, sweetheart?\\>\\n\\@george5 It might take a little while, I'm afraid!"
+msgstr "@george5_hmm Tudo bem se eu ficar com o diário por um tempinho, doçura?\\>\\n\\@george5 Pode demorar um pouco!"
+
+msgid "@niko_speak Go for it!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak Fique à vontade!\\>\\n\\@niko_yawn *uaaah*..."
+
+msgid "@george5_aww Aww, you poor baby!\\>\\n\\@george5 Goodness, you must've worked so hard to help us!"
+msgstr "@george5_aww Ahh, pobre criança!\\>\\n\\@george5 Céus, você deve ter trabalhado que nem burro de carga para nos ajudar!"
+
+msgid "@george5_smile I think you deserve a nap, no?"
+msgstr "@george5_smile Acho que você merece um cochilo, não acha?"
+
+msgid "@niko_yawn A nap does sounds nice..."
+msgstr "@niko_yawn Uma soneca até cairia bem..."
+
+msgid "@george5 I have a guest room upstairs! It's just down the hall to the right."
+msgstr "@george5 Tenho um quarto de hóspedes lá em cima! Fico no final do corredor à direita."
+
+msgid "@george5_smile Can I help you with anything else, dear?"
+msgstr "@george5_smile Posso ajudar em mais alguma coisa, meu bem?"
+
+msgid "@george5 If you have any questions about \\c[3]books\\c[0], well...\\>\\n\\@george5_heh I AM a librarian!"
+msgstr "@george5 Se tiver alguma pergunta sobre \\c[3]livros\\c[0], bem... \\>\\n\\@george5_heh Afinal, eu SOU bibliotecária!"
+
+msgid "@george6_point You look a lil' lost still. Want some hot tips?"
+msgstr "@george6_point Está sem saber para onde ir, não é? Quer alguma dica marota?"
+
+msgid "@george6 Says here in this book that you gots'ta go to the teeny room at the base of the Tower, all while holding those three pieces of the awesome glowy stuff."
+msgstr "@george6 Está escrito aqui que você precisa ir à salinha na base da Torre carregando três belezuras brilhantes."
+
+msgid "@george6 Once you got 'em (which you do), just stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george6 Assim que estiver com elas — o que já está rolando —, é só ficar na sala enquanto \\p faz alguma coisa com as janelas e os desenhos do chão."
+
+msgid "@niko Alright...\\.\\. \\@niko_speak Thank you!"
+msgstr "@niko Certo...\\.\\.\\@niko_speak Valeu!"
+
+msgid "@george6_fingerguns You're toooootally welcome!"
+msgstr "@george6_fingerguns De nada, bem!"
+
+msgid "@niko Well, I guess we'll be on our way?"
+msgstr "@niko Bom, acho que está na hora de irmos, né?"
+
+msgid "@george6_smile Peace out, little fella!"
+msgstr "@george6_smile Fica na paz, fofura!"
+
+msgid "@george6 You'll do us good, I know it."
+msgstr "@george6 Você será nossa salvação, disso eu sei!"
+
+msgid "@george6_fingerguns Eyyyyy, you're up!"
+msgstr "@george6_fingerguns E aíííí! Acordou?"
+
+msgid "@george6 Just finished translating this book for ya!"
+msgstr "@george6 Acabei de terminar a tradução do livro, cara!"
+
+msgid "@george6_fingerguns What can I say? I'm all that and a bag of chips!"
+msgstr "@george6_fingerguns O que posso dizer? Eu sou tuuuudo isso e mais um pouco."
+
+msgid "@george6 By the by, it looks like this journal might be meant for \\p."
+msgstr "@george6 Bom, parece que o diário foi escrito para \\p."
+
+msgid "@george6_point Here, check it out."
+msgstr "@george6_point Saca só."
+
+msgid "@george6 That's all, we juiced it!"
+msgstr "@george6 É isso aí! Botamos moral!"
+
+msgid "@niko_what ...juiced what?"
+msgstr "@niko_what ... botamos moral?"
+
+msgid "@george6_fingerguns I'm just sayin' that's the end of the book!"
+msgstr "@george6_fingerguns Só estou dizendo que acabou o livro!"
+
+msgid "@george6_shrug Rest of the pages are torn out.\\>\\n\\@george6 Do you know what happened here?"
+msgstr "@george6_shrug As páginas restantes alguém rasgou.\\>\\n\\@george6 Você sabe o que aconteceu aqui?"
+
+msgid "@george6_shrug Bummer! I was hoping to figure out what he meant by saying \"window\" here.\\>\\n\\@george6 Guess we'll leave that up to \\p, huh?"
+msgstr "@george6_shrug Que palha! Queria muito saber o que é essa tal “janela”.\\>\\n\\@george6 Acho que \\p vai ter que resolver isso aí, né."
+
+msgid "@george6_point Oh! That's just stuff with yellow phosphor in 'em!\\>\\n\\@george6 The kind of stuff that glows forever, dude."
+msgstr "@george6_point Ah! São umas coisas com luminescência, cara!\\>\\n\\@george6 Tipo umas paradas que brilham para sempre, sacou?"
+
+msgid "@george6_fingerguns Eyyyy! Now that's what I'm talkin about!"
+msgstr "@george6_fingerguns Eiiiita! É disso que eu estou falando!"
+
+msgid "@george6 ...Hold up, you only have two."
+msgstr "@george6 ... Calma lá, você só tem duas."
+
+msgid "@george6_point But we coo'!\\>\\n\\@george6_fingerguns I gotcha covered, lil' fella!\\>\\n\\@george6 Here ya go."
+msgstr "@george6_point Mas de boa!\\>\\n\\@george6_fingerguns Deixa comigo, cara!\\>\\n\\@george6 Pega aí."
+
+msgid "@george6_fingerguns The freshest face you've ever seen, ehhhhh?\\>\\n\\@george6 And it's all yours."
+msgstr "@george6_fingerguns O rostinho mais simétrico que você já viu, néééé?\\>\\n\\@george6 E é todo seu."
+
+msgid "@george6_smile Peace out, lil' fella!"
+msgstr "@george6_smile Vai na paz, fofura!"
+
+msgid "@george6_shrug Bruh, it's gonna take some time to make this book readable, know what I'm sayin'?"
+msgstr "@george6_shrug Mano, vou demorar um pouco para deixar esse livro legível, sacou?"
+
+msgid "@niko_eyeclosed Excuse me....\\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed Com licença... \\>\\n\\@niko ... de novo."
+
+msgid "@george6 Don't sweat it!\\>\\n\\@george6_fingerguns Go catch some Z's!"
+msgstr "@george6 Nem esquenta!\\>\\n\\@george6_fingerguns Vá puxar um ronco!"
+
+msgid "@george6 Guest room's in the attic down the hall, FYI."
+msgstr "@george6 O quarto de hóspedes fica no sótão ao final do corredor, só para constar."
+
+msgid "@niko_speak Oh! I do have this book!"
+msgstr "@niko_speak Ah! Eu tenho esse livro!"
+
+msgid "@george6 ...yo."
+msgstr "@george6 ... véi."
+
+msgid "@george6_point .....YOOOOO."
+msgstr "@george6_point ... VÉÉÉI."
+
+msgid "@george6 Where'd you find this?"
+msgstr "@george6 Onde você achou isso?"
+
+msgid "@niko Somewhere in the Barrens!"
+msgstr "@niko Em algum lugar das Terras Áridas!"
+
+msgid "@george6 Cuz that's..."
+msgstr "@george6 Cara, isso..."
+
+msgid "@george6_point ...got that symbol and everything."
+msgstr "@george6_point ... tem aquele símbolo e tal."
+
+msgid "@george6 Here, lemme read it..."
+msgstr "@george6 Olha, deixa eu ler aqui..."
+
+msgid "@george6 ...aw seriously? He even used that language..."
+msgstr "@george6 ... ah, sério mesmo? Ele até usou aquele idioma..."
+
+msgid "@george6 I gotta translate this, man.\\>\\nMind if I borrow this?"
+msgstr "@george6 Vou precisar traduzir isso, mano.\\>\\nPosso pegar emprestado?"
+
+msgid "@niko_speak Not at all!"
+msgstr "@niko_speak Sem problema!"
+
+msgid "@george6 Sweeeeet.\\>\\n\\@george6_point It's gon' take a while tho, you cool with that?"
+msgstr "@george6 Maaaaaassa.\\>\\n\\@george6_point Mas vai ser meio demorado, tranquilo?"
+
+msgid "@george6 Whoa dude, you look wiped, kiddo!"
+msgstr "@george6 Véi, que isso, cê tá na capa!"
+
+msgid "@niko ...Huh?"
+msgstr "@niko ... quê?"
+
+msgid "@george6_point You look totally tapped out, dude!"
+msgstr "@george6_point Cê tá o bagaço, cara!"
+
+msgid "@niko_speak I look... what?"
+msgstr "@niko_speak Eu... o quê?"
+
+msgid "@george6 You look like you're ready to take five, bruh!"
+msgstr "@george6 Tá zumbizando total!"
+
+msgid "@niko_eyeclosed ...yeah I don't get it."
+msgstr "@niko_eyeclosed ... Ahm, não entendi."
+
+msgid "@george6 Don't worry I gotcha.\\>\\n\\@george6_smile I got a guest room in the attic down the hall!"
+msgstr "@george6 Relaxa, tranquilo.\\>\\n\\@george6_smile Tem um quarto de hóspedes no sótão no final do corredor!"
+
+msgid "@george6 If you wanna crash there, go for it!"
+msgstr "@george6 Se quiser puxar um ronco lá, pode cair lá!"
+
+msgid "@george6 So how do you like my books, bruh."
+msgstr "@george6 E aí, o que achou dos meus livros?"
+
+msgid "@niko They're... nice?"
+msgstr "@niko Eles são... legais?"
+
+msgid "@niko Looks like a scanner."
+msgstr "@niko Parece uma digitalizadora."
+
+msgid "@niko_speak Hey!"
+msgstr "@niko_speak Ei!"
+
+msgid "@niko I think this book is actually about clovers..."
+msgstr "@niko Acho que esse livro tem a ver com trevos..."
+
+msgid "@niko Even the painting is books."
+msgstr "@niko Tem livro até nas pinturas."
+
+msgid "@niko Looks like a printer."
+msgstr "@niko Parece uma impressora."
+

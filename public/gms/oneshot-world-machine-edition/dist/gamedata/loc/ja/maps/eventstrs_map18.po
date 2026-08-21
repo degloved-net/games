@@ -1,0 +1,102 @@
+msgid "@niko_speak What IS that?"
+msgstr "@niko_speak 何、あれ？"
+
+msgid "@niko You want me use the crowbar to open the safe, \\p? \\>\\nI'll... try!"
+msgstr "@niko バールのようなものを使って金庫を\n開けてほしいの、 \\p？ \\>\\nやって…みるよ！"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko2 The door is sealed flush! \\>\\@niko_eyeclosed We might need the code after all..."
+msgstr "@niko2 しっかり閉じられてる！ \\>\\@niko_eyeclosed やっぱりコードが必要そうだね…"
+
+msgid "@niko A metal safe.\\nSeems like it's locked with a 6-digit code."
+msgstr "@niko 鉄の金庫だ。\\n6桁のコードでロックされてるみたい。"
+
+msgid "@niko I don't... remember seeing any 6-digit codes. Do you, \\p?"
+msgstr "@niko うーん…そんなコード、見たことないや。\n\\pは？"
+
+msgid "[ENTER CODE:]"
+msgstr "[コードを入力してください:]"
+
+msgid "@niko_speak Woah! It worked!"
+msgstr "@niko_speak わあ！開いた！"
+
+msgid "@niko2 Wait, how did you know the code,\\n\\p?\\>\\n\\@niko_eyeclosed I still don't remember seeing one..."
+msgstr "@niko2 えっ、どうしてコードが分かったの、\\n\\p？\\>\\n\\@niko_eyeclosed ミーにはやっぱり見覚えないんだけど…"
+
+msgid "[\"I had some help.\", \"I have my ways.\"]"
+msgstr "[\"助けを借りた。\",\"とある方法でね。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko From who?"
+msgstr "@niko_speak そうなの？\\>\\n\\@niko 誰から？"
+
+msgid "[\"Don't worry about it.\"]"
+msgstr "[\"気にするな。\"]"
+
+msgid "@niko Okay..."
+msgstr "@niko 分かった…"
+
+msgid "@niko I...\\.\\. see!"
+msgstr "@niko そう…\\.\\.なんだ！"
+
+msgid "[\"What's in the safe, Niko?\"]"
+msgstr "[\"ニコ、金庫には何が入っている？\"]"
+
+msgid "@niko Oh! Right.\\n\\.\\.Let's see..."
+msgstr "@niko あっ、そうだった。\\n\\.\\.えっとね…"
+
+msgid "@niko_speak Ah!\\.\\. I found a gas mask!"
+msgstr "@niko_speak あっ！\\.\\.ガスマスクだ！"
+
+msgid "@niko_speak Also... there's this weird-looking book!"
+msgstr "@niko_speak あと… 変な本があるよ！"
+
+msgid "@niko I can't read it, though..."
+msgstr "@niko でも読めないな…"
+
+msgid "@niko2 ...not that I can't read or anything! Because I can!"
+msgstr "@niko2 …いや、読めないってそういうことじゃないよ！\nちゃんと読書できるもん！"
+
+msgid "@niko_eyeclosed I just don't know what language this is..."
+msgstr "@niko_eyeclosed ただ、ここに書いてる文字が\n分からないんだ…"
+
+msgid "@niko_eyeclosed That wasn't it..."
+msgstr "@niko_eyeclosed 違うみたい…"
+
+msgid "@niko It's empty."
+msgstr "@niko 空っぽだ。"
+
+msgid "$Although the poisonous gas is highly localized to the vent zones, Barrens workers were still recommended to wear gas masks."
+msgstr "$毒ガスの噴き出す区域は\n局地的ではあるものの、\n不毛の地の作業員は\nガスマスクの着用を\n推奨されていた。"
+
+msgid "$These masks were mandatory around active vent sites, of course."
+msgstr "$当然ながら、活発な\n通気孔の周辺では\n着用が義務付けられて\nいた。"
+
+msgid "$As more and more of the workforce got replaced by robots, we found ourselves with a surplus of abandoned gas masks."
+msgstr "$作業員がロボットに\n置き換えられるに\nつれて、放棄された\nガスマスクが余る\nようになった。"
+
+msgid "$It seemed like a waste to get rid of them all, so we kept a few for emergencies."
+msgstr "$すべて廃棄するのは\n無駄に思えたため、\n緊急時に備えて\nいくつかは\n残しておいた。"
+
+msgid "$The sun will not return and the abyss is calling my name."
+msgstr "$太陽が戻ることはなく、\nそして深淵は私の名前を\n呼んでいる。"
+
+msgid "$I'm sorry, everyone..."
+msgstr "$すまない、みんな…。"
+
+msgid "$...for choosing to leave before the darkness suffocates us all."
+msgstr "$…暗闇が私たちの\n息の根を止めにくる前に\n去ってしまうことを\n許してくれ。"
+
+msgid "@niko A torn page with faded ink."
+msgstr "@niko 破れたページのインクがかすれてる。"
+
+msgid "$XX/XX/XX\\n\\nWith the mining operations going smoothly, materials are no longer our limiting factor."
+msgstr "$XX/XX/XX\\n\\n採掘作業が円滑に\n進んでいる今、資源は\nもはや私たちの制限因子\nではない。"
+
+msgid "$We will be able to build more resilient robots, both in body and mind."
+msgstr "$身体的にも知能的にも\nより強力なロボットを\n作ることが\nできるようになる。"
+
+msgid "$Specifically, the discovery of metal alloy 291 will likely allow the development of highly efficient circuitry."
+msgstr "$特に、金属合金291の\n発見によって、高性能\n電気回路の開発が\n可能になるだろう。"
+

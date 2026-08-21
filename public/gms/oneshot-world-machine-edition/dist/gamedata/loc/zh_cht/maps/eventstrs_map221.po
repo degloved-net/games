@@ -1,0 +1,75 @@
+msgid "@niko The screen is off."
+msgstr "@niko 螢幕關閉了。"
+
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko 牆壁裡嵌了一片很重的金屬。"
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed 我想它可能是一扇門或是某種保險庫。"
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko 這中間有一個小螢幕。"
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak 看起來像某種門！"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko 小螢幕上有發光的鎖定標誌。"
+
+msgid "@rue_oh !!!"
+msgstr "@rue_oh ！！！"
+
+msgid "@rue_oh You guys are... \\.\\.okay?"
+msgstr "@rue_oh 你們……\\.\\.還好嗎？"
+
+msgid "@cedric_sigh Yup!"
+msgstr "@cedric_sigh 還好！"
+
+msgid "@cedric_sigh2 When the factory started collapsing, I really thought we didn't have a chance..."
+msgstr "@cedric_sigh2 工廠開始倒塌的時候，我真的以為我們完了……"
+
+msgid "@cedric3 ...Fortunately, the robot assembly rooms were built pretty tough."
+msgstr "@cedric3 ……幸好組裝機器人的房間蓋得很堅固。"
+
+msgid "@cedric_hmm And... it actually did not take me long to bring Proto back."
+msgstr "@cedric_hmm 而且……我重建預原機其實沒花太多時間。"
+
+msgid "@cedric_smile ...all thanks to father's book!"
+msgstr "@cedric_smile ……多虧了父親的書！"
+
+msgid "@proto1c [He had made my design documents to be compatible with the assembly machines there.]"
+msgstr "@proto1c [他把我的設計文件編排成和那裡的組裝機器相容。]"
+
+msgid "@cedric_smile All I had to do was scan in the blueprints and reconfigure some machine settings!"
+msgstr "@cedric_smile 我只要把藍圖掃描進去，調整一些機器設定就弄好了！"
+
+msgid "@proto1b [...Father really does think of everything.]"
+msgstr "@proto1b [……父親真的萬事設想周到。]"
+
+msgid "@rue_smile Haha, that he does."
+msgstr "@rue_smile 哈哈，沒錯。"
+
+msgid "@rue_sigh I'm... just glad everyone is ok."
+msgstr "@rue_sigh 我……只慶幸大家都平安。"
+
+msgid "@niko_eyeclosed2 Me too..."
+msgstr "@niko_eyeclosed2 我也是..."
+
+msgid "@niko_speak Things were looking really hopeless back there, weren't they, \\p?"
+msgstr "@niko_speak 之前請況看起來挺絕望的吧，不是嗎，\\p？"
+
+msgid "@niko But... now that everyone's here, maybe we can still... fix everything...?"
+msgstr "@niko 但...現在大家都聚在一起了，我許我們還能...挽回一切...？"
+
+msgid "@proto2b [Or at least, you know, whatever's left.]"
+msgstr "@proto2b [或是至少，你懂的，挽回所剩的。]"
+
+msgid "@cedric_smile Either way, we'll do everything we can to help you get there."
+msgstr "@cedric_smile 無論如何，我們會盡一切所能幫你到那。"
+
+msgid "@rue_smile Niko, will you lead us back to the room?"
+msgstr "@rue_smile 霓光，你可以帶我們回房間嗎？"
+
+msgid "@Niko Mhm.\\>\\n\\@niko_eyeclosed Let's do this."
+msgstr "@Niko 嗯。\\>\\n\\@niko_eyeclosed 走吧。"
+

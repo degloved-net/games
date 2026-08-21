@@ -1,0 +1,93 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 생선 전골이에요!"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 낚시대예요."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp 우리 오빠도 낚시할 줄 알아!"
+
+msgid "@alula But I don't!"
+msgstr "@alula 하지만 난 몰라!"
+
+msgid "@niko Same!"
+msgstr "@niko 나도야!"
+
+msgid "@niko An empty jar."
+msgstr "@niko 빈 항아리예요."
+
+msgid "@niko A jar of worms."
+msgstr "@niko 벌레 항아리예요."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed 으웩!"
+
+msgid "There was a time where our people used to live in these ruins."
+msgstr "한때 이곳 사람들은 폐허 근처에서 살았어."
+
+msgid "But due to flooding, most of us have moved to less permanent settlements."
+msgstr "하지만 홍수가 나는 바람에 대부분 임시 거처를 마련해야 했지."
+
+msgid "@niko Flooding?"
+msgstr "@niko 홍수요?"
+
+msgid "Aye, the land has gotten brittle..."
+msgstr "그래, 땅이 약해졌거든..."
+
+msgid "The Glen used to be in one piece, you know?"
+msgstr "이 협곡은 한때 한 덩어리였어."
+
+msgid "But now it's just a bunch of islands that get smaller and smaller."
+msgstr "하지만 지금은 점점 작아지는 군도일 뿐이지."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@niko Do you still live here?"
+msgstr "@niko 아직도 여기 살고 사세요?"
+
+msgid "Sort of."
+msgstr "뭐, 그렇다고 봐야지."
+
+msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
+msgstr "마을 주위의 물고기 수가 줄어들어서 어부들이 임시로 이곳에서 지내는 중이야."
+
+msgid "@niko_speak Makes sense!"
+msgstr "@niko_speak 그렇군요!"
+
+msgid "The deeper ruins have been abandoned for a while, though."
+msgstr "폐허 안쪽은 오랫동안 버려져 있었어."
+
+msgid "...but I do see some kids coming in and out of those."
+msgstr "...그렇지만 난 아이들이 거기를 드나드는 걸 봤지."
+
+msgid "I think they actually live there?"
+msgstr "그 애들은 거기서 사는 걸까?"
+
+msgid "... hey, now that I think about it..."
+msgstr "...잠깐, 지금 생각해 보니..."
+
+msgid "Aren't YOU one of those kids?"
+msgstr "너, 그 애들 중 한 명 아니니?"
+
+msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
+msgstr "@alula_speak 맞아! \\@alula 그게 바로 나랑 오빠야! \\>\\n\\@alula_pout 아니... \"오빠랑 나\"인가?"
+
+msgid "Well, I hope you kids stay safe!"
+msgstr "너희들, 조심하거라!"
+
+msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
+msgstr "너희가 안전하게 살아가려면 마을이나 도시로 가는 게 좋을 거야."
+
+msgid "I hope you and your brother stay safe!"
+msgstr "너와 네 오빠가 무사하길 바라마!"
+
+msgid "I hope those kids are safe..."
+msgstr "저 애들이 무사했으면 좋겠네..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 말린 생선으로 가득해요."
+
+msgid "@niko Warm coals."
+msgstr "@niko 따끈한 석탄이에요."
+

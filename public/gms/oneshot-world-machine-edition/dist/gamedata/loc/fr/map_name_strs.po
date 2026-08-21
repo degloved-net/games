@@ -1,0 +1,132 @@
+msgid "67=Burial Grounds"
+msgstr "cimetière"
+
+msgid "70=Old Factory"
+msgstr "ancienne usine"
+
+msgid "37=Ruins"
+msgstr "ruines"
+
+msgid "71=Dormitories"
+msgstr "dortoirs"
+
+msgid "205=Courtyard"
+msgstr "cour"
+
+msgid "240=Forest"
+msgstr "forêt"
+
+msgid "73=Swamp"
+msgstr "marécage"
+
+msgid "43=Forest"
+msgstr "forêt"
+
+msgid "44=The Gate"
+msgstr "la porte"
+
+msgid "12=Entrance"
+msgstr "entrée"
+
+msgid "213=Landing"
+msgstr "débarcadère"
+
+msgid "214=City Gate"
+msgstr "porte de la ville"
+
+msgid "47=City Gate"
+msgstr "porte de la ville"
+
+msgid "14=Outpost"
+msgstr "avant-poste"
+
+msgid "215=Elevator Deck"
+msgstr "passerelle de l'ascenseur"
+
+msgid "48=Elevator Deck"
+msgstr "passerelle de l'ascenseur"
+
+msgid "216=Office"
+msgstr "bureau"
+
+msgid "49=Apartments"
+msgstr "appartements"
+
+msgid "116=Office"
+msgstr "bureau"
+
+msgid "17=Mineshaft entrance"
+msgstr "entrée de la mine"
+
+msgid "84=Elevator Street"
+msgstr "rue de l'ascenseur"
+
+msgid "219=Cafe"
+msgstr "Café"
+
+msgid "85=Vendor Street"
+msgstr "rue des commerçants"
+
+msgid "18=Cliffs"
+msgstr "falaises"
+
+msgid "52=Cafe"
+msgstr "Café"
+
+msgid "19=Docks"
+msgstr "quais"
+
+msgid "120=Observation Deck"
+msgstr "pont d'observation"
+
+msgid "87=Library"
+msgstr "bibliothèque"
+
+msgid "54=Garden"
+msgstr "jardin"
+
+msgid "90=Factory"
+msgstr "usine"
+
+msgid "23=Lookout point"
+msgstr "poste d'observation"
+
+msgid "191=Research Station"
+msgstr "centre de recherche"
+
+msgid "91=Back Alley"
+msgstr "ruelle"
+
+msgid "225=Observation Deck"
+msgstr "pont d'observation"
+
+msgid "127=Research Station"
+msgstr "centre de recherche"
+
+msgid "27=Dock"
+msgstr "quai"
+
+msgid "128=Courtyard"
+msgstr "cour"
+
+msgid "29=Village"
+msgstr "village"
+
+msgid "230=Vendor Street"
+msgstr "rue des commerçants"
+
+msgid "231=Elevator Street"
+msgstr "rue de l'ascenseur"
+
+msgid "232=Back Alley"
+msgstr "ruelle"
+
+msgid "199=Gate"
+msgstr "porte"
+
+msgid "233=Library"
+msgstr "bibliothèque"
+
+msgid "200=Dock"
+msgstr "quai"
+

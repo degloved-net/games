@@ -1,0 +1,39 @@
+msgid "@Niko A landscape painting."
+msgstr "@Niko 풍경화예요."
+
+msgid "[Are You. An Intruder?]"
+msgstr "[당신은 침입자입니까?]"
+
+msgid "[Because If You Are... I, Model 8-XM Home Security Bot (TM) Serial Number 39232B839W4, Will Have To Report You.]"
+msgstr "[당신이 침입자라면... 저, 모델 8-XM 가정용 방범봇(TM) 일련번호 39232B839W4는 당신을 신고해야 할 의무가 있습니다.]"
+
+msgid "@niko Oh, sorry..."
+msgstr "@niko 아, 죄송해요..."
+
+msgid "@niko_eyeclosed I... kinda just walked in because the door was unlocked..."
+msgstr "@niko_eyeclosed  저... 문이 잠겨 있지 않아서 그냥 들어왔는데..."
+
+msgid "@niko_speak Do you want me to leave?"
+msgstr "@niko_speak 나갈까요?"
+
+msgid "[Scanning for Suspicious Activity.\\..\\..\\.]"
+msgstr "[수상쩍은 활동 검색 중.\\..\\..\\.]"
+
+msgid "[Suspicious Activities Detected: 0 ]"
+msgstr "[수상쩍은 활동 감지: 0]"
+
+msgid "@niko_eyeclosed Well, I guess as long as I don't do anything bad..."
+msgstr "@niko_eyeclosed 나쁜 짓을 하지 않으면 괜찮은 모양이네요..."
+
+msgid "[I Am. Still Monitoring You]"
+msgstr "[전 계속 당신을 감시할 것입니다.]"
+
+msgid "[Alert Level Has Been Set To Low]"
+msgstr "[경고 수준을 낮게 설정합니다.]"
+
+msgid "@niko_speak Don't worry! I promise I'll be a good guest!"
+msgstr "@niko_speak 걱정하지 마세요! 얌전히 있을게요!"
+
+msgid "@niko An abstract painting."
+msgstr "@niko 추상화네요."
+

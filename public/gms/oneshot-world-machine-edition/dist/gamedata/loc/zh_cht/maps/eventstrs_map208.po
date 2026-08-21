@@ -1,0 +1,45 @@
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ……"
+
+msgid "@niko_upset2 I... think I remember something..."
+msgstr "@niko_upset2 我好像……想起了一件事……"
+
+msgid "@niko_eyeclosed I remember... what I did at the end."
+msgstr "@niko_eyeclosed 我記得……最後我做了什麼。"
+
+msgid "@niko_eyeclosed I remember... putting in the sun..."
+msgstr "@niko_eyeclosed 我記得……我把太陽放進去……"
+
+msgid "@niko3 And then everything got really bright..."
+msgstr "@niko_eyeclosed 然後一切都亮了起來……"
+
+msgid "@niko_eyeclosed I... remember being in a dark room."
+msgstr "@niko_eyeclosed 我記得……我在一間很暗的房間裡。"
+
+msgid "@niko3 There was a light at the end of a long hallway..."
+msgstr "@niko3 長長的走廊盡頭有燈光……"
+
+msgid "@niko_eyeclosed I thought I was going back home, but..."
+msgstr "@niko_eyeclosed 我以為我回家了，但……"
+
+msgid "@niko_eyeclosed I... \\.\\.don't remember a lot of the details."
+msgstr "@niko_eyeclosed 我……\\.\\.想不起多少細節。"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ……"
+
+msgid "@niko_distressed2 ...But none of it matters now, does it?"
+msgstr "@niko_distressed2 ……可是現在這些都不重要了，對不對？"
+
+msgid "@niko_upset I just got brought back anyway...."
+msgstr "@niko_upset 反正我只會再被帶回來……"
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_eyeclosed We can't go back now, \\p."
+msgstr "@niko_eyeclosed \\p，我們現在不能回頭。"
+

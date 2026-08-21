@@ -1,0 +1,36 @@
+msgid "@niko It's full of little glass tubes of water."
+msgstr "@niko C'est rempli de petits tubes d'eau en verre."
+
+msgid "[WATER SAMPLES!]"
+msgstr "[DES ÉCHANTILLONS D'EAU !]"
+
+msgid "[TAKE CARE NOW, PERSON!]"
+msgstr "[FAITES BIEN ATTENTION, PERSONNE !]"
+
+msgid "[HELLO, LIVING PERSON.]"
+msgstr "[BONJOUR, PERSONNE VIVANTE !]"
+
+msgid "@niko Hello."
+msgstr "@niko Bonjour."
+
+msgid "[I HAVE COLLECTED A DUPLICATE WATER SAMPLE.]"
+msgstr "[J'AI PRÉLEVÉ UN ÉCHANTILLON D'EAU EN DOUBLE.]"
+
+msgid "[WOULD YOU LIKE IT?]"
+msgstr "[LE VOULEZ-VOUS ?]"
+
+msgid "@niko Um..."
+msgstr "@niko Hum..."
+
+msgid "[MY PROGRAMMING SAYS THAT ORGANIC BEINGS NEED WATER TO SURVIVE.]"
+msgstr "[MA PROGRAMMATION M'INDIQUE QUE LES ÊTRES ORGANIQUES ONT BESOIN D'EAU POUR SURVIVRE.]"
+
+msgid "[SO I SHALL OFFER IT TO YOU.]"
+msgstr "[C'EST POURQUOI JE VOUS L'OFFRE.]"
+
+msgid "@niko Oh, uh,\\. \\@niko_speak Sure! We'll take it."
+msgstr "@niko Oh, euh,\\. \\@niko_speak bien sûr ! On le prend."
+
+msgid "[BEEP BOOP. WATER COLLECTION PROJECT RESUMING...]"
+msgstr "[BIP BOOP. REDÉMARRAGE DU PROJET DE COLLECTE D'EAU...]"
+

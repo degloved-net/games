@@ -1,0 +1,63 @@
+msgid "I'm catching fireflies for mommy!"
+msgstr "我在幫媽媽抓螢火蟲！"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko 地平線是一條發亮的藍色。"
+
+msgid "@rowbot [HERE IS YOUR STOP. THE GLEN.]"
+msgstr "@rowbot [你的終點站到了。綠沼澤。]"
+
+msgid "@niko Thank you!"
+msgstr "@niko 謝謝你！"
+
+msgid "@rowbot [THERE SHOULD BE A VILLAGE TO THE NORTH. BUT THAT'S ALL I CAN RECALL.]"
+msgstr "@rowbot [往北應該有一座村莊，\n但此外我就想不起來了。]"
+
+msgid "@niko_speak Oh, that's good to know!"
+msgstr "@niko_speak 喔，那真是好消息！"
+
+msgid "@rowbot [FAREWELL.]"
+msgstr "@rowbot [再會。]"
+
+msgid "@rowbot [MAY YOUR MISSION BE A SUCCESS.]"
+msgstr "@rowbot [願你的任務成功。]"
+
+msgid "@niko_speak A-Are you leaving?"
+msgstr "@niko_speak 你、你要離開了？"
+
+msgid "@rowbot [YES.\\>\\nI MUST RETURN TO MY STATION.]"
+msgstr "@rowbot [是的。\\>\\n我必須返回起站。]"
+
+msgid "@niko But you'll be all alone again..."
+msgstr "@niko 可是這你又是孤獨一個了……"
+
+msgid "@rowbot [IT'S OKAY.]"
+msgstr "@rowbot [沒關係的。]"
+
+msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@rowbot [我沒有經過馴化。]"
+
+msgid "Hm..."
+msgstr "嗯……"
+
+msgid "Nothing's biting..."
+msgstr "沒有魚上鉤……"
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "你好，我是無法存取的遊戲角色。"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko 罐子底部有幾隻小魚。"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 這些則裝滿小魚乾。"
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak 裡面裝滿魚頭！"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko 裡面裝滿小魚乾。"
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak 這些看起來像螃蟹殼。"
+

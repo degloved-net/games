@@ -1,0 +1,69 @@
+msgid "[HAVE YOU FOUND THE SOURCE OF THE DISTRESS?]"
+msgstr "[遭難信号ノ発生源を突き止めましたカ？]"
+
+msgid "[THESE VINES APPEARED MERE MINUTES AGO.]"
+msgstr "[このツタハ、ほんの数分前に出現しましタ。]"
+
+msgid "@niko Really?"
+msgstr "@niko そうなの？"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 入り口とか、いろんな場所で見かけるけど…"
+
+msgid "@niko I just assumed it was cuz this place was abandoned..."
+msgstr "@niko てっきり、ここが放棄されたから\nだと思ってた…"
+
+msgid "[A SIGN OF DISTRESS.]"
+msgstr "[遭難信号でス。]"
+
+msgid "@niko ...huh?"
+msgstr "@niko …え？"
+
+msgid "[A LIVING BEING IS IN NEED OF HELP.]"
+msgstr "[生物ガ助けを求めていまス。]"
+
+msgid "[BUT I CANNOT TRACE THE SOURCE.]"
+msgstr "[デスガ、発生源を特定できませン。]"
+
+msgid "@niko ...ah."
+msgstr "@niko …そっか。"
+
+msgid "[THE VINES RECEDED.]"
+msgstr "[ツタガ後退しましタ。]"
+
+msgid "[DO YOU KNOW WHAT HAPPENED?]"
+msgstr "[何ガ起きたのカ、知っていますカ？]"
+
+msgid "@niko I found this... plant person."
+msgstr "@niko この…植物の人を見つけたんだ。"
+
+msgid "@niko_eyeclosed She was barely holding on..."
+msgstr "@niko_eyeclosed もう、ほとんど元気がなかった…"
+
+msgid "@niko I gave her the sun for now, but..."
+msgstr "@niko 少しの間だけ、その人に太陽を渡したんだ。\nけど…"
+
+msgid "@niko_eyeclosed She said it was too late for her..."
+msgstr "@niko_eyeclosed もう手遅れなんだって…"
+
+msgid "[I UNDERSTAND.]"
+msgstr "[そうですカ。]"
+
+msgid "[I NEED TO REPORT THIS TO THE CITY.]"
+msgstr "[このことヲ街に報告する必要ガありまス。]"
+
+msgid "@niko A cluster of vines are blocking the way..."
+msgstr "@niko ツタがすごくて通れない…"
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[どうモ、人間。]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[この近くニ、子供ガ2人住んでいまス。]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak あたしがその1人よ！"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[どうモ、人間。]"
+

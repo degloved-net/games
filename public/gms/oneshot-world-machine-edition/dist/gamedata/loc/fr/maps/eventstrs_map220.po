@@ -1,0 +1,321 @@
+msgid "@mason Black clovers are so resilient...\\> I wonder how they do it?"
+msgstr "@mason Les trèfles noirs sont si resistants...\\> Je me demande comment ils font ?"
+
+msgid "@plight Stress makes you tougher I suppose...\\> that and lots of coffee."
+msgstr "@plight Je suppose que le stress t'endurcit...\\> ça et beaucoup de café."
+
+msgid "@mason Nah, if you water a plant with coffee they just die."
+msgstr "@mason Nan, si tu arroses une plante avec du café elle meurt tout court."
+
+msgid "@mason ...don't ask me how I know this."
+msgstr "@mason ...ne me demande pas comment je sais ça."
+
+msgid "@mason It's really a shame that the Glen is starting to erode so fast now..."
+msgstr "@mason Quel dommage que le Vallon s'érode si vite, maintenant..."
+
+msgid "@mason Soon, the world won't have much room for plants left..."
+msgstr "@mason Bientôt, il ne restera plus beaucoup de place pour les plantes dans le monde..."
+
+msgid "@mason ...asides from black clovers, I mean."
+msgstr "@mason ... En dehors des trèfles noirs, je veux dire."
+
+msgid "@plight Oh hey, gardening guy...\\>\\nDidn't I fix your lights last week?"
+msgstr "Hé salut, mon gars jardinier...\\>\\nJ'avais pas réparé tes lumières la semaine dernière ?"
+
+msgid "@mason Mr. Lamplighter!\\>\\nYou wouldn't BELIEVE the day I just had."
+msgstr "@mason Monsieur l'Allumeur !\\>\\nVous n'imaginerez JAMAIS la journée que je viens de passer."
+
+msgid "@plight_worry2 Guess those lights kinda got fixed for nothing, huh..."
+msgstr "@plight_worry2 On dirait que ces lumières ont été réparées pour rien, hein..."
+
+msgid "@mason Right??\\>\\nWorst of all, I had to leave my poor plants behind too!"
+msgstr "@mason N'est-ce pas ??\\>\\nEn plus, le pire c'est que j'ai du abandonner mes pauvres plantes !"
+
+msgid "@niko_eyeclosed Sorry to hear..."
+msgstr "@niko_eyeclosed Je suis désolé de l'apprendre..."
+
+msgid "@mason Oh, speaking of plants..."
+msgstr "@mason Oh, en parlant de plantes..."
+
+msgid "@mason I heard the Glen is just COVERED in vines now."
+msgstr "@mason J'ai entendu dire que le Vallon est RECOUVERT de lierre, maintenant."
+
+msgid "@mason Is that true?"
+msgstr "@mason C'est vrai ?"
+
+msgid "@niko_eyeclosed ...yeah..."
+msgstr "@niko_eyeclosed ... Oui..."
+
+msgid "@niko2 The plant lady was using them to keep the land from falling away..."
+msgstr "@niko2 La dame-plante s'en servait pour empêcher la terre de s'effondrer..."
+
+msgid "@mason The plant spirit?\\> Maize?"
+msgstr "@mason L'esprit plante ?\\> Maize ?"
+
+msgid "@mason I figured..."
+msgstr "@mason Je croyais..."
+
+msgid "@mason ...say, how is she doing?"
+msgstr "@mason ... Dis-moi, comment va-t-elle ?"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@mason ...ah."
+msgstr "@mason ... Ah."
+
+msgid "@mason ...she's... gone, isn't she?"
+msgstr "@mason ... Elle est... morte, c'est ça ?"
+
+msgid "@niko_eyeclosed She said she was using up the last of her powers..."
+msgstr "@niko_eyeclosed Elle m'a dit qu'elle avait épuisé tous ses pouvoirs..."
+
+msgid "@mason I wouldn't be surprised."
+msgstr "@mason Ça ne me surprend pas."
+
+msgid "@mason She always did her best to protect everyone..."
+msgstr "@mason Elle a toujours fait de son mieux pour protéger les gens..."
+
+msgid "@mason Bummer!"
+msgstr "@mason Dommage !"
+
+msgid "@mason I had to leave most of my plants behind."
+msgstr "@mason J'ai dû abandonner la plupart de mes plantes."
+
+msgid "@mason This stinks!"
+msgstr "@mason C'est embêtant !"
+
+msgid "@niko Milk and sugar."
+msgstr "@niko Du lait et du sucre."
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak J'aime les deux !"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed ... mais pas dans le café."
+
+msgid "[SQUARES ARE BAD]"
+msgstr "[LES CARRÉS SONT MÉCHANTS.]"
+
+msgid "[SQUARES MAKE THE PEOPLE EVACUATE]"
+msgstr "[LES CARRÉS ÉVACUENT LES GENS DE FORCE.]"
+
+msgid "[EVACUATION MAKES THE GIRL SAD]"
+msgstr "[L'ÉVACUATION REND LA FILLE TRISTE.]"
+
+msgid "@plight_worry Sad and also screaming on the inside constantly.\\>\\n\\@plight_why Like I am."
+msgstr "@plight_worry Triste et aussi constamment hurlant de l'intérieur.\\>\\n\\@plight_why Comme moi."
+
+msgid "@ling_hm So..."
+msgstr "@ling_hm Donc..."
+
+msgid "@ling Can I...\\> get you guys anything to eat?"
+msgstr "@ling Je...\\> peux vous offrir quelque chose à manger ?"
+
+msgid "@ling_smile Or maybe a coffee?"
+msgstr "@ling_smile Ou peut-être un café ?"
+
+msgid "@plight_worry Normally I'd go for the coffee but if I drink any right now I might actually have a heart attack."
+msgstr "@plight_worry Normalement je prendrais bien un café mais si j'en bois maintenant je risque de faire une crise cardiaque."
+
+msgid "@ling_sigh Ah...\\>\\nI know how that is..."
+msgstr "@ling_sigh Ah...\\>\\nJe comprends..."
+
+msgid "@niko6 Yeah...\\>\\nI would've probably asked for some pancakes around now."
+msgstr "@niko6 Ouais...\\>\\nJ'aurai probablement commandé des pancakes maintenant."
+
+msgid "@niko_eyeclosed But there just isn't enough time..."
+msgstr "@niko_eyeclosed Mais on manque vraiment de temps..."
+
+msgid "@ling Can I...\\> get you anything to eat?"
+msgstr "@ling Je...\\> peux t'offrir quelque chose à manger ?"
+
+msgid "@niko2 No thank you!"
+msgstr "@niko2 Non, merci !"
+
+msgid "@niko_eyeclosed (Even though I could go for some pancakes right now...)"
+msgstr "@niko_eyeclosed (Même si je mangerais bien des pancakes, là...)"
+
+msgid "@niko_eyeclosed (There just isn't time...)"
+msgstr "@niko_eyeclosed (Je n'ai pas le temps...)"
+
+msgid "@ling_hm At least people won't starve here..."
+msgstr "@ling_hm Au moins, ici les gens ne mourront pas de faim..."
+
+msgid "@ling_smile The perks of using a cafe as an emergency shelter, huh?"
+msgstr "@ling_smile C'est l'avantage d'utiliser un café comme abri d'urgence, hein ?"
+
+msgid "@ling2 Oh!"
+msgstr "@ling2 Oh !"
+
+msgid "@ling Hello, Messiah!\\n\\>\\@ling_hm And... um... \\@ling_smile Tall guy!"
+msgstr "@ling Bonjour, messie !\\n\\>\\@ling_hm Et... euh... \\@ling_smile Le grand type !"
+
+msgid "@ling_hm You guys, um..."
+msgstr "@ling_hm C'est, euh..."
+
+msgid "@ling_sigh You came at a bad time..."
+msgstr "@ling_sigh C'est vraiment pas le bon moment..."
+
+msgid "@ling_hm The apartments in the west sector got destroyed by squares a day ago..."
+msgstr "@ling_hm Les appartements dans le secteur ouest ont été détruits par les carrés il y a un jour..."
+
+msgid "@plight_worry2 Oh yeah, I saw..."
+msgstr "@plight_worry2 Oh oui, j'ai vu..."
+
+msgid "@ling_sigh Terrible, isn't it?"
+msgstr "@ling_sigh C'est tragique, non ?"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed Ouais..."
+
+msgid "@ling_hm2 Ah, but at least the evacuees seem to be doing ok."
+msgstr "@ling_hm2 Ah, mais au moins, les évacués sont sains et saufs."
+
+msgid "@ling_hm2 We're letting them stay here for now."
+msgstr "@ling_hm2 Nous leur avons permis de rester ici, pour le moment."
+
+msgid "@plight That's nice of you."
+msgstr "@plight C'est gentil de ta part."
+
+msgid "@ling_smile Well, someone has to help!"
+msgstr "@ling_smile Ben, on doit faire quelque chose !"
+
+msgid "@ling Hello, Messiah!"
+msgstr "@ling Bonjour, messie !"
+
+msgid "@ling_hm You, um..."
+msgstr "@ling_hm C'est, euh..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko Une machine à café."
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak C'est presque plein !"
+
+msgid "Scarves are great."
+msgstr "Les écharpes c'est super."
+
+msgid "If I had my stuff back... I'd knit one for everyone here!"
+msgstr "Si je pouvais retrouver mes affaires... j'en tricoterai une pour tout le monde ici !"
+
+msgid "@plight That DOES sound nice...\\>\\nmine's looking a bit ratty..."
+msgstr "@plight ÇA ce serait bien...\\>\\nla mienne commence à faire un peu usée..."
+
+msgid "I'll say!\\>\\nWhen was the last time you even WASHED that thing?"
+msgstr "Je dirais même plus !\\>\\nC'est quand la dernière fois que tu as même LAVÉ cette chose ?"
+
+msgid "@plight_worry I DO wash it!\\nI swear!"
+msgstr "@plight_worry Je la lave VRAIMENT !\\nJe le jure !"
+
+msgid "@plight_sigh The coffee stains just won't go away..."
+msgstr "@plight_sigh Mais les taches de café ne veulent pas s'en aller..."
+
+msgid "Hey."
+msgstr "Hé."
+
+msgid "@plight Hey."
+msgstr "@plight Hé."
+
+msgid "@niko Hi..."
+msgstr "@niko Bonjour..."
+
+msgid "Is it me, or is it really cold outside?"
+msgstr "C'est moi ou il fait vraiment froid dehors ?"
+
+msgid "@niko2 ...y'know, now that you've mentioned it..."
+msgstr "@niko2 ... maintenant que tu le dis..."
+
+msgid "@niko_eyeclosed (it IS really chilly this time around, \\p...)"
+msgstr "@niko_eyeclosed (Il fait VRAIMENT froid ce coup-ci, \\p...)"
+
+msgid "@plight_worry2 No kidding!"
+msgstr "@plight_worry2 Sans blague !"
+
+msgid "Good thing you're both wearing scarves, huh?"
+msgstr "Heureusement que vous portez tous les deux des écharpes, hein?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Hum !"
+
+msgid "Good thing you've got a scarf, huh?"
+msgstr "Heureusement que tu as ton écharpe avec toi, hein ?"
+
+msgid "..............."
+msgstr "..............."
+
+msgid "@niko ......................."
+msgstr "@niko ......................."
+
+msgid "..............................."
+msgstr "..............................."
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak ..................................."
+
+msgid "............................................."
+msgstr "............................................."
+
+msgid "@niko_eyeclosed ...same as usual, huh..."
+msgstr "@niko_eyeclosed ... Comme d'habitude, hein..."
+
+msgid "@niko_eyeclosed Now's not really the time to talk to penguins, \\p..."
+msgstr "@niko_eyeclosed Ce n'est pas vraiment le moment de parler à des pingouins, \\p..."
+
+msgid "@niko2 Oh, it's that penguin..."
+msgstr "@niko2 Oh, un pingouin..."
+
+msgid "@niko_eyeclosed ...yep."
+msgstr "@niko_eyeclosed ... Ouaip."
+
+msgid "I don't know what I'm gonna do without Model C-WT 2nd gen unit 4E!"
+msgstr "Je ne sais pas ce que je vais devenir sans le modèle C-WT 2e génération unité 4E !"
+
+msgid "@plight_2 Robots... they're really something, huh..."
+msgstr "@plight_2 Les robots... c'est vraiment quelque chose, hein..."
+
+msgid "Our apartment got evacuated while my parents were at work..."
+msgstr "Notre appartement a été évacué pendant que mes parents travaillaient..."
+
+msgid "...I'm waiting for them to pick us up now."
+msgstr "... J'attends qu'ils viennent nous chercher."
+
+msgid "I hope they're ok..."
+msgstr "J'espère qu'ils vont bien..."
+
+msgid "@plight Must be tough waiting by yourself..."
+msgstr "@plight Ça doit être dur d'attendre tout seul..."
+
+msgid "Well, at least my robot's with me!"
+msgstr "Mais au moins j'ai mon robot avec moi !"
+
+msgid "At least my robot's with me..."
+msgstr "Au moins, j'ai mon robot avec moi..."
+
+msgid "Bessie's lookin pretty bummed about this too..."
+msgstr "Bessie semble écœurée par tout ça, elle aussi..."
+
+msgid "There there, girl..."
+msgstr "Là, tout va bien, ma fille..."
+
+msgid "Dang it!"
+msgstr "Mince !"
+
+msgid "I JUST moved into my apartment!"
+msgstr "Je venais JUSTE d'emménager dans mon appartement !"
+
+msgid "Now where am I gonna go!"
+msgstr "Où vais-je pouvoir aller maintenant ?!"
+
+msgid "@plight Damn, sorry to hear your place got ruined.\\>\\nMust be rough..."
+msgstr "@plight Mince, désolé d'apprendre que chez toi ça a été bousillé.\\>\\nC'est pas facile..."
+
+msgid "@plight ..."
+msgstr "@plight ..."
+
+msgid "@plight_worry2 Can't help but worry that my own place is next, now..."
+msgstr "@plight_worry2 Peut pas m'empêcher de penser que c'est moi le prochain, maintenant..."
+
+msgid "You should grab your stuff while you still can!"
+msgstr "Tu devrais récuperer tes affaires tant que tu le peux !"
+

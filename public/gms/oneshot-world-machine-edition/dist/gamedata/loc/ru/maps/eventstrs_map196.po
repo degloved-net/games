@@ -1,0 +1,60 @@
+msgid "@niko So this is the way out?"
+msgstr "@niko Значит, это выход наружу?"
+
+msgid "@silver [There wasn't any data on this path in the server room...]"
+msgstr "@silver [В серверной не было никакой информации об этом пути...]"
+
+msgid "@proto2 [It's new.]"
+msgstr "@proto2 [Он новый.]"
+
+msgid "@proto1 [Niko, get in the minecart.]"
+msgstr "@proto1 [Нико, залезай в вагонетку.]"
+
+msgid "@niko O-Okay."
+msgstr "@niko Л-ладно."
+
+msgid "@ed [I tried.]"
+msgstr "@ed [Я пытался.]"
+
+msgid "@ed [I really did!]"
+msgstr "@ed [Действительно пытался!]"
+
+msgid "@ed [But I...]"
+msgstr "@ed [Но я...]"
+
+msgid "@ed [...dE St ablIzi Nng]"
+msgstr "@ed [...дЕ стаБи лиЗи РУюс ь]"
+
+msgid "@ed [I'm sorry, Niko.]"
+msgstr "@ed [Прости, Нико.]"
+
+msgid "@ed [I    tR IE d tO PrOTE cT yOU.]"
+msgstr "@ed [Я    пЫ ТА лсЯ тебя заЩи Т И ть.]"
+
+msgid "@ed [...bu t c An't hold it o f f foRevER.]"
+msgstr "@ed [...н о н е  МогУ сДЕР жи Ва ть эТо в еЧн о.]"
+
+msgid "@niko3 What was that?"
+msgstr "@niko3 Что это было?"
+
+msgid "@proto_gasp2 [...HERE TOO?]"
+msgstr "@proto_gasp2 [И ЗДЕСЬ ТОЖЕ?..]"
+
+msgid "@silver3 [Watch out!]"
+msgstr "@silver3 [Берегись!]"
+
+msgid "@proto1 [Please keep moving forward.]"
+msgstr "@proto1 [Пожалуйста, не останавливайся.]"
+
+msgid "@proto2b [...I would appreciate it if you do not linger here.]"
+msgstr "@proto2b [Я был бы очень признателен, если бы ты тут не задерживался.]"
+
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [Приветствую.]"
+
+msgid "@silver2 [I don't even know where this tunnel leads...]"
+msgstr "@silver2 [Даже не знаю, куда ведёт этот туннель...]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [Идём.]"
+

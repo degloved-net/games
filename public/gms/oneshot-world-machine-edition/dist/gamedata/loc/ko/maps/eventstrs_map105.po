@@ -1,0 +1,24 @@
+msgid "@niko A bunch of words are on the screen."
+msgstr "@niko 화면에 무수한 글자가 있어요."
+
+msgid "@niko_eyeclosed I don't understand any of it..."
+msgstr "@niko_eyeclosed 무슨 말인지 하나도 모르겠어요..."
+
+msgid "The luminescence index of liquid red phosphor decreased by a factor of 3.57% this past week."
+msgstr "적색 액화 발광체의 발광 지수가 지난주 대비 3.57% 감소했군."
+
+msgid "Alarming, to say the least... that's the sharpest decline I've seen, and the number is only increasing."
+msgstr "이거 걱정스럽군. 이제까지 기록한 것 중... 가장 급격하게 하락한 수치야. 게다가 하락 폭이 점점 증가하고 있어."
+
+msgid "We will have to further concentrate the phosphor now, for it to be of any use."
+msgstr "빛을 제대로 쓰려면 발광체의 농도를 높여야겠군."
+
+msgid "It's hard to believe, but there's a good chance this city could run out of light in as little as six months."
+msgstr "믿고 싶지는 않지만 이대로라면 6개월 뒤에 이 도시의 빛이 완전히 사라지게 될 거야."
+
+msgid "...What are we going to do?"
+msgstr "...어떻게 대비해야 하지?"
+
+msgid "If the city runs out of light, well...\\>\\nI don't want to think about what happens then."
+msgstr "만약 이 도시에서 빛이 사라진다면...\\>\\n무슨 일이 일어날지 생각도 하고 싶지 않아."
+

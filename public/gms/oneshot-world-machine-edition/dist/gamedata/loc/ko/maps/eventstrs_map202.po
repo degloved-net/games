@@ -1,0 +1,39 @@
+msgid "[PLEASE TAKE CARE TO NOT TOUCH THE SQUARES.\\>\\nI CANNOT GUARANTEE YOUR WELLBEING IF YOU DO.]"
+msgstr "[사각형을 건드리지 않도록 조심하십시오.\\>\\n혹시라도 건드리는 경우에는 안전을 보장 못합니다.]"
+
+msgid "@niko Gotcha."
+msgstr "@niko 알겠어요."
+
+msgid "[THESE SQUARES APPEARED MERE MINUTES AGO.]"
+msgstr "[ 이 사각형은 몇 분 전에 나타났습니다.]"
+
+msgid "@niko Really?"
+msgstr "@niko 정말요?"
+
+msgid "@niko_eyeclosed I've been seeing a lot of them in doorways and stuff..."
+msgstr "@niko_eyeclosed 출입구랑 여기저기에서 많이 보았는데요..."
+
+msgid "[NOT A GOOD SIGN.]"
+msgstr "[좋은 징조가 아닙니다.]"
+
+msgid "@niko ...huh?"
+msgstr "@niko ...네?"
+
+msgid "[THE WORLD'S DETERIORATION IS ACCELERATING.]"
+msgstr "[세상의 퇴화가 가속되고 있습니다.]"
+
+msgid "@niko2 ...oh."
+msgstr "@niko2 ...이런."
+
+msgid "[HELLO, PEOPLE.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[TWO CHILDREN RESIDE NEAR HERE.]"
+msgstr "[어린이 둘이 이 근처에 삽니다.]"
+
+msgid "@alula_speak I'm one of 'em!"
+msgstr "@alula_speak 내가 그중 한 명이야!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+

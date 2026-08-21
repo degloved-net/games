@@ -1,0 +1,565 @@
+{ "zones": { "Blue": [
+  {
+    "MapId": "-1",
+    "Offset": {
+      "X": 160,
+      "Y": 108
+    },
+    "Image": "scree"
+  },
+  {
+    "MapId": "12",
+    "Offset": {
+      "X": 78,
+      "Y": 141
+    },
+    "Image": "barrens_12",
+    "WarpPoint": {
+      "X": 86,
+      "Y": 156
+    }
+  },
+  {
+    "MapId": "14",
+    "Offset": {
+      "X": 107,
+      "Y": 161
+    },
+    "Image": "barrens_14",
+    "WarpPoint": {
+      "X": 126,
+      "Y": 170
+    }
+  },
+  {
+    "MapId": "18",
+    "Offset": {
+      "X": 163,
+      "Y": 116
+    },
+    "Image": "barrens_18",
+    "WarpPoint": {
+      "X": 196,
+      "Y": 166
+    }
+  },
+  {
+    "MapId": "17",
+    "Offset": {
+      "X": 247,
+      "Y": 116
+    },
+    "Image": "barrens_17",
+    "WarpPoint": {
+      "X": 265,
+      "Y": 125
+    }
+  },
+  {
+    "MapId": "70",
+    "Offset": {
+      "X": 174,
+      "Y": 77
+    },
+    "Image": "barrens_70",
+    "WarpPoint": {
+      "X": 199,
+      "Y": 91
+    }
+  },
+  {
+    "MapId": "71",
+    "Offset": {
+      "X": 113,
+      "Y": 70
+    },
+    "Image": "barrens_71",
+    "WarpPoint": {
+      "X": 145,
+      "Y": 86
+    }
+  },
+  {
+    "MapId": "73",
+    "Offset": {
+      "X": 61,
+      "Y": 74
+    },
+    "Image": "barrens_73",
+    "WarpPoint": {
+      "X": 83,
+      "Y": 93
+    }
+  },
+  {
+    "MapId": "19",
+    "Offset": {
+      "X": 77,
+      "Y": 110
+    },
+    "Image": "barrens_19",
+    "WarpPoint": {
+      "X": 85,
+      "Y": 120
+    }
+  },
+  {
+    "MapId": "23",
+    "Offset": {
+      "X": 211,
+      "Y": 115
+    },
+    "Image": "barrens_23",
+    "WarpPoint": {
+      "X": 240,
+      "Y": 124
+    }
+  }
+], "Green": [
+  {
+    "MapId": "-1",
+    "Offset": {
+      "X": 160,
+      "Y": 120
+    },
+    "Image": "glen.tscn::1"
+  },
+  {
+    "MapId": "128",
+    "Offset": {
+      "X": 210,
+      "Y": 109
+    },
+    "Image": "glen_128",
+    "WarpPoint": {
+      "X": 226,
+      "Y": 125
+    }
+  },
+  {
+    "MapId": "191",
+    "Offset": {
+      "X": 91,
+      "Y": 163
+    },
+    "Image": "glen_191",
+    "WarpPoint": {
+      "X": 133,
+      "Y": 177
+    }
+  },
+  {
+    "MapId": "27",
+    "Offset": {
+      "X": 71,
+      "Y": 92
+    },
+    "Image": "glen_27",
+    "WarpPoint": {
+      "X": 91,
+      "Y": 110
+    }
+  },
+  {
+    "MapId": "29",
+    "Offset": {
+      "X": 76,
+      "Y": 70
+    },
+    "Image": "glen_29",
+    "WarpPoint": {
+      "X": 96,
+      "Y": 78
+    }
+  },
+  {
+    "MapId": "37",
+    "Offset": {
+      "X": 147,
+      "Y": 72
+    },
+    "Image": "glen_37",
+    "WarpPoint": {
+      "X": 170,
+      "Y": 96
+    }
+  },
+  {
+    "MapId": "43",
+    "Offset": {
+      "X": 71,
+      "Y": 126
+    },
+    "Image": "glen_43",
+    "WarpPoint": {
+      "X": 99,
+      "Y": 143
+    }
+  },
+  {
+    "MapId": "44",
+    "Offset": {
+      "X": 141,
+      "Y": 138
+    },
+    "Image": "glen_44",
+    "WarpPoint": {
+      "X": 159,
+      "Y": 152
+    }
+  },
+  {
+    "MapId": "127",
+    "Offset": {
+      "X": 47,
+      "Y": 163
+    },
+    "Image": "glen_127",
+    "WarpPoint": {
+      "X": 89,
+      "Y": 177
+    }
+  },
+  {
+    "MapId": "199",
+    "Offset": {
+      "X": 97,
+      "Y": 138
+    },
+    "Image": "glen_199",
+    "WarpPoint": {
+      "X": 115,
+      "Y": 152
+    }
+  },
+  {
+    "MapId": "200",
+    "Offset": {
+      "X": 27,
+      "Y": 92
+    },
+    "Image": "glen_200",
+    "WarpPoint": {
+      "X": 47,
+      "Y": 110
+    }
+  },
+  {
+    "MapId": "205",
+    "Offset": {
+      "X": 166,
+      "Y": 109
+    },
+    "Image": "glen_205",
+    "WarpPoint": {
+      "X": 182,
+      "Y": 125
+    }
+  },
+  {
+    "MapId": "240",
+    "Offset": {
+      "X": 27,
+      "Y": 126
+    },
+    "Image": "glen_240",
+    "WarpPoint": {
+      "X": 55,
+      "Y": 143
+    }
+  },
+  {
+    "MapId": "67",
+    "Offset": {
+      "X": 223,
+      "Y": 110
+    },
+    "Image": "glen_67",
+    "WarpPoint": {
+      "X": 231,
+      "Y": 121
+    }
+  }
+], "Red": [
+  {
+    "MapId": "-1",
+    "Offset": {
+      "X": -2,
+      "Y": -26
+    },
+    "Image": "refuge_rooftops.tscn::1"
+  },
+  {
+    "MapId": "54",
+    "Offset": {
+      "X": 108,
+      "Y": 52
+    },
+    "Image": "roof_54",
+    "WarpPoint": {
+      "X": 122,
+      "Y": 75
+    }
+  },
+  {
+    "MapId": "47",
+    "Offset": {
+      "X": 102,
+      "Y": 64
+    },
+    "Image": "roof_47",
+    "WarpPoint": {
+      "X": 135,
+      "Y": 97
+    }
+  },
+  {
+    "MapId": "48",
+    "Offset": {
+      "X": 87,
+      "Y": 109
+    },
+    "Image": "roof_48",
+    "WarpPoint": {
+      "X": 135,
+      "Y": 129
+    }
+  },
+  {
+    "MapId": "116",
+    "Offset": {
+      "X": 171,
+      "Y": 103
+    },
+    "Image": "roof_116",
+    "WarpPoint": {
+      "X": 223,
+      "Y": 130
+    }
+  },
+  {
+    "MapId": "120",
+    "Offset": {
+      "X": 234,
+      "Y": 77
+    },
+    "Image": "roof_120",
+    "WarpPoint": {
+      "X": 247,
+      "Y": 84
+    }
+  },
+  {
+    "MapId": "49",
+    "Offset": {
+      "X": 45,
+      "Y": 104
+    },
+    "Image": "roof_49",
+    "WarpPoint": {
+      "X": 78,
+      "Y": 130
+    }
+  },
+  {
+    "MapId": "52",
+    "Offset": {
+      "X": 171,
+      "Y": 145
+    },
+    "Image": "roof_52",
+    "WarpPoint": {
+      "X": 182,
+      "Y": 153
+    }
+  },
+  {
+    "MapId": "213",
+    "Offset": {
+      "X": 84,
+      "Y": 89
+    },
+    "Image": "roof_213",
+    "WarpPoint": {
+      "X": 93,
+      "Y": 96
+    }
+  },
+  {
+    "MapId": "214",
+    "Offset": {
+      "X": 102,
+      "Y": 64
+    },
+    "Image": "roof_214",
+    "WarpPoint": {
+      "X": 135,
+      "Y": 97
+    }
+  },
+  {
+    "MapId": "215",
+    "Offset": {
+      "X": 87,
+      "Y": 109
+    },
+    "Image": "roof_215",
+    "WarpPoint": {
+      "X": 135,
+      "Y": 129
+    }
+  },
+  {
+    "MapId": "216",
+    "Offset": {
+      "X": 171,
+      "Y": 103
+    },
+    "Image": "roof_216",
+    "WarpPoint": {
+      "X": 223,
+      "Y": 130
+    }
+  },
+  {
+    "MapId": "225",
+    "Offset": {
+      "X": 234,
+      "Y": 77
+    },
+    "Image": "roof_225",
+    "WarpPoint": {
+      "X": 247,
+      "Y": 84
+    }
+  },
+  {
+    "MapId": "219",
+    "Offset": {
+      "X": 171,
+      "Y": 145
+    },
+    "Image": "roof_219",
+    "WarpPoint": {
+      "X": 182,
+      "Y": 153
+    }
+  }
+], "RedGround": [
+  {
+    "MapId": "-1",
+    "Offset": {
+      "X": -2,
+      "Y": -26
+    },
+    "Image": "refuge_ground.tscn::1"
+  },
+  {
+    "MapId": "90",
+    "Offset": {
+      "X": 19,
+      "Y": 54
+    },
+    "Image": "city_90",
+    "WarpPoint": {
+      "X": 57,
+      "Y": 83
+    }
+  },
+  {
+    "MapId": "85",
+    "Offset": {
+      "X": 75,
+      "Y": 61
+    },
+    "Image": "city_85",
+    "WarpPoint": {
+      "X": 171,
+      "Y": 91
+    }
+  },
+  {
+    "MapId": "91",
+    "Offset": {
+      "X": 155,
+      "Y": 106
+    },
+    "Image": "city_91",
+    "WarpPoint": {
+      "X": 163,
+      "Y": 118
+    }
+  },
+  {
+    "MapId": "84",
+    "Offset": {
+      "X": 88,
+      "Y": 143
+    },
+    "Image": "city_84",
+    "WarpPoint": {
+      "X": 122,
+      "Y": 191
+    }
+  },
+  {
+    "MapId": "87",
+    "Offset": {
+      "X": 222,
+      "Y": 104
+    },
+    "Image": "city_87",
+    "WarpPoint": {
+      "X": 262,
+      "Y": 161
+    }
+  },
+  {
+    "MapId": "230",
+    "Offset": {
+      "X": 75,
+      "Y": 61
+    },
+    "Image": "city_85",
+    "WarpPoint": {
+      "X": 171,
+      "Y": 91
+    }
+  },
+  {
+    "MapId": "231",
+    "Offset": {
+      "X": 88,
+      "Y": 143
+    },
+    "Image": "city_84",
+    "WarpPoint": {
+      "X": 181,
+      "Y": 185
+    }
+  },
+  {
+    "MapId": "232",
+    "Offset": {
+      "X": 155,
+      "Y": 106
+    },
+    "Image": "city_91",
+    "WarpPoint": {
+      "X": 163,
+      "Y": 118
+    }
+  },
+  {
+    "MapId": "233",
+    "Offset": {
+      "X": 222,
+      "Y": 104
+    },
+    "Image": "city_87",
+    "WarpPoint": {
+      "X": 262,
+      "Y": 161
+    }
+  }
+] } }

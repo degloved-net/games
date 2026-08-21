@@ -1,0 +1,63 @@
+msgid "@niko A robot. It's beyond repair..."
+msgstr "@niko Um robô. Perda total..."
+
+msgid "@niko_huh Just a head..."
+msgstr "@niko_huh Só uma cabeça..."
+
+msgid "@niko_huh ...just a head. Yikes."
+msgstr "@niko_huh ... só uma cabeça. Eca."
+
+msgid "@niko Piece of a robot. It's badly damaged..."
+msgstr "@niko Um pedaço de robô. Muito danificado..."
+
+msgid "@niko A big machine..."
+msgstr "@niko Uma grande máquina..."
+
+msgid "@niko Looks like a press used to crush metal."
+msgstr "@niko Parece uma prensa para esmagar metal."
+
+msgid "@niko_speak Ah...\\> \\@niko do you want me to crush the pipe in here, \\p?"
+msgstr "@niko_speak Ah...\\>\\@niko você quer que eu esmague o cano aqui, \\p?"
+
+msgid "@niko_huh Ohh, but I don't wanna get too close..."
+msgstr "@niko_huh Ah, mas não quero chegar muito perto..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed That was scary..."
+msgstr "@niko_eyeclosed Que assustador..."
+
+msgid "@niko_wtf ....\\p!"
+msgstr "@niko_wtf ....\\p !"
+
+msgid "@niko_eyeclosed I am NOT going to put the sun here."
+msgstr "@niko_eyeclosed Não vou colocar o sol aqui."
+
+msgid "@niko Why...\\.\\. would you want to smash a bottle here, \\p?"
+msgstr "@niko Por que...\\.\\. você quer que eu esmague um frasco aqui, \\p?"
+
+msgid "@niko_speak The shards would get everywhere!"
+msgstr "@niko_speak Vai ser caco para todo lado!"
+
+msgid "@niko_eyeclosed I hope we don't have to use this again, \\p..."
+msgstr "@niko_eyeclosed Espero não termos que usar de novo, \\p..."
+
+msgid "@niko_speak Oh! This machine is still running!"
+msgstr "@niko_speak Ai, a máquina ainda está ligada!"
+
+msgid "@niko Maybe I shouldn't stand so close to it..."
+msgstr "@niko Melhor não ficarmos tão perto dela..."
+
+msgid "@niko_wtf Wh...what if my scarf got caught in there? And then it'll pull me in, and...."
+msgstr "@niko_wtf E se meu cachecol se prender nela? Ela vai me puxar e..."
+
+msgid "@niko_huh ...not gonna finish that sentence."
+msgstr "@niko_huh ... não vou nem terminar de falar."
+
+msgid "@niko_eyeclosed What's left of a robot's arm."
+msgstr "@niko_eyeclosed O que sobrou do braço de um robô."
+
+msgid "@niko_eyeclosed I'm not even sure what this is supposed to be..."
+msgstr "@niko_eyeclosed Nem sei o que deveria ser isso..."
+

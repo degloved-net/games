@@ -1,0 +1,120 @@
+msgid "@red_gatekeeper [...Interesting Book You Got There...]"
+msgstr "@red_gatekeeper [...흥미로운 책을 지니고 있군요...]"
+
+msgid "@red_gatekeeper [It Is Written In A Language I Do Not Recognize.]"
+msgstr "@red_gatekeeper [제가 모르는 글자로 쓰여 있군요.]"
+
+msgid "@red_gatekeeper [...Perhaps You Should Find A Way To Decipher It When You're At The Library.]"
+msgstr "@red_gatekeeper [...아무래도 그걸 해독하려면 도서관에 가야겠군요.]"
+
+msgid "@red_gatekeeper [It May Be Of Help.]"
+msgstr "@red_gatekeeper [거기라면 방법이 있을 겁니다.]"
+
+msgid "@red_gatekeeper [Hello Again, Messiah, Do You Need Help?]"
+msgstr "@red_gatekeeper [또 왔군요, 구원자여. 제 도움이 필요하십니까?]"
+
+msgid "@niko Well..."
+msgstr "@niko 그게..."
+
+msgid "[\"Explain again\", \"No\"]"
+msgstr "[\"설명을 부탁한다\",\"아니\"]"
+
+msgid "@red_gatekeeper [Very Well. You Need To Find A Way To Get To The Library On The Surface.]"
+msgstr "@red_gatekeeper [알겠습니다. 당신은 지상층에 있는 도서관으로 가는 길을 찾아야 합니다.]"
+
+msgid "@red_gatekeeper [Off You Go Then, Off You Go...]"
+msgstr "@red_gatekeeper [그럼 가시지요. 어서...]"
+
+msgid "@red_gatekeeper [Ah, The Sun.]"
+msgstr "@red_gatekeeper [오, 태양이로군요.]"
+
+msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
+msgstr "@red_gatekeeper [어서 오십시오, 구원자님. 난민 지구에 잘 오셨습니다.]"
+
+msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
+msgstr "@red_gatekeeper [여기서 해야 할 일이 뭔지 아십니까?]"
+
+msgid "@niko I'm supposed to go inside the Tower, right?"
+msgstr "@niko 탑에 들어가는 것, 맞죠?"
+
+msgid "@niko I already see the Tower! So I guess we must be close."
+msgstr "@niko 벌써 탑이 보여요! 이제 가까이 왔나 봐요."
+
+msgid "@niko_speak Where's the entrance?"
+msgstr "@niko_speak 입구는 어디죠?"
+
+msgid "@red_gatekeeper [On The Surface.]"
+msgstr "@red_gatekeeper [지상층에 있습니다.]"
+
+msgid "@niko_speak The surface?"
+msgstr "@niko_speak 지상층이요?"
+
+msgid "@red_gatekeeper [Look Down, Small One.]"
+msgstr "@red_gatekeeper [저 아래를 보십시오, 작은 구원자여.]"
+
+msgid "@niko Oooh, \\.\\.\\@niko_speak we're pretty high up!"
+msgstr "@niko 우와, \\.\\.\\@niko_speak 엄청나게 높네요!"
+
+msgid "@niko_speak I guess I gotta get down a lot of stairs! \\>\\n\\@niko Or find an elevator."
+msgstr "@niko_speak 계단으로 한참 내려가야겠는데요! \\>\\n\\@niko 아니면 엘리베이터를 찾거나요."
+
+msgid "@red_gatekeeper [Correct.]"
+msgstr "@red_gatekeeper [맞습니다.]"
+
+msgid "@red_gatekeeper [However, The Tower Is A Sacred Place.]"
+msgstr "@red_gatekeeper [하지만 탑은 신성한 장소입니다.]"
+
+msgid "@red_gatekeeper [Finding The Entrance May Be Easy, But That Alone Will Not Be Enough.]"
+msgstr "@red_gatekeeper [입구를 찾는 건 쉽지만, 그것만으로는 부족합니다.]"
+
+msgid "@niko What... do you mean?"
+msgstr "@niko 그게 무슨... 뜻이죠?"
+
+msgid "@red_gatekeeper [Once You Reach The Surface, I Recommend Visiting The Library For Leads.]"
+msgstr "@red_gatekeeper [일단 지상층에 간 다음, 도서관을 찾아가 단서를 찾으시기 바랍니다.]"
+
+msgid "@niko Alright..."
+msgstr "@niko 알았어요..."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 정말 고마워요!"
+
+msgid "@red_gatekeeper [Off You Go, Then. I Wish You Luck.]"
+msgstr "@red_gatekeeper [안녕히 가십시오. 행운을 빕니다..]"
+
+msgid "@red_gatekeeper [I'm Afraid This Area Is Off-Limits For You.]"
+msgstr "@red_gatekeeper [여기서부터는 들어갈 수 없습니다.]"
+
+msgid "@red_gatekeeper [Only The Bearer Of The Sacred Kernel Is Permitted Access To The Garden.]"
+msgstr "@red_gatekeeper [신성한 낟알을 소지한 자만이 여기를 지나갈 수 있습니다.]"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko Like...\\.\\. a kernel of corn...?"
+msgstr "@niko_speak 아! \\.\\.\\@niko 혹시...\\.\\. 이 옥수수 낟알 말인가요...?"
+
+msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant lady in the Glen."
+msgstr "@niko_speak 저, 이걸 갖고 있어요! \\.\\.\\>\\@niko 협곡에서 만난 식물 여인이 남긴 거예요."
+
+msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
+msgstr "@red_gatekeeper [...\\>\\n낟알이 확실하군요.]"
+
+msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
+msgstr "@red_gatekeeper [그렇다면, 이걸로 그 여인을 다시 길러 내야 합니다.\\>\\n임무를 확실히 이해하셨습니까?]"
+
+msgid "@niko Um..."
+msgstr "@niko 음..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@red_gatekeeper [Good.]"
+msgstr "@red_gatekeeper [좋습니다.]"
+
+msgid "@red_gatekeeper [Take The Seed To The Garden.\\>\\nPlant It In The Pot In The Center.]"
+msgstr "@red_gatekeeper [그 씨앗을 정원으로 가져가십시오.\\>\\n가운데 있는 화분에 심으시면 됩니다.]"
+
+msgid "@red_gatekeeper [You May Now Pass Through Here To Access The Garden.]"
+msgstr "@red_gatekeeper [이제 정원으로 가는 길을 이용할 수 있습니다.]"
+
+msgid "@niko_eyeclosed I don't want to go back..."
+msgstr "@niko_eyeclosed 돌아가고 싶지 않아요..."
+

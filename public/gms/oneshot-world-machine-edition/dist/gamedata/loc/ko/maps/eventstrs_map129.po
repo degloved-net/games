@@ -1,0 +1,42 @@
+msgid "@niko_eyeclosed ...The remains of a potted plant."
+msgstr "@niko_eyeclosed ...화분에 심었던 식물의 잔해네요."
+
+msgid "@niko The title is \"City Life: What to Expect\""
+msgstr "@niko \"도시 생활의 실상\"이라는 책이네요."
+
+msgid "@niko_speak Something has been chewing on this plant..."
+msgstr "@niko_speak 뭔가가 이 식물을 뜯어 먹은 것 같아요..."
+
+msgid "I just moved here from the Glen. Things are so different in the city...."
+msgstr "난 협곡에서 이사온 지 얼마 안 됐어. 도시는 전혀 다른 세상이네..."
+
+msgid "You've been to the Glen, right?"
+msgstr "너도 협곡에 갔었지?"
+
+msgid "@niko Yeah!"
+msgstr "@niko 네!"
+
+msgid "Everything's so green back there...."
+msgstr "모든 것이 초록빛이었지..."
+
+msgid "I really miss it!"
+msgstr "정말 그리워!"
+
+msgid "My neighbor gave me some plants to cheer me up, but..."
+msgstr "이웃이 내 기운을 북돋아주려고 식물을 주긴 했지만..."
+
+msgid ".....I should probably get a muzzle for Betsy there."
+msgstr "아무래도 베시에게 씌울 입마개를 찾아야 할 것 같아."
+
+msgid "@niko It's a landscape portrait of the Glen."
+msgstr "@niko 협곡의 풍경화예요."
+
+msgid "@niko A picture of a ram, wearing a little pink bow."
+msgstr "@niko 양 사진이에요. 분홍색 리본을 매달고 있어요."
+
+msgid "@niko_eyeclosed Not much is left of this plant..."
+msgstr "@niko_eyeclosed 이 식물은 남은 부분이 거의 없네요..."
+
+msgid "@niko_eyeclosed ...The entire plant was eaten..."
+msgstr "@niko_eyeclosed ...이 식물, 거의 먹혀 버렸어요..."
+

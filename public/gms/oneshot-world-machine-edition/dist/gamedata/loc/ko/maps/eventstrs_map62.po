@@ -1,0 +1,84 @@
+msgid "@niko ...\\>\\n\\@niko_speak Sure is taking a while..."
+msgstr "@niko ...\\>\\n\\@niko_speak 확실히 시간이 좀 걸리네요..."
+
+msgid "@niko I guess this elevator leads to the top of the Tower, \\p..."
+msgstr "@niko 분명 이 엘리베이터는 탑 꼭대기까지 이어지는 거겠죠, \\p 님..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...are you excited, \\p?\\>\\n\\@niko We're finally gonna save the world..."
+msgstr "@niko_speak ...기대되나요, \\p 님?\\>\\n\\@niko 우리가, 마침내 세상을 구할 거예요..."
+
+msgid "@niko_speak And I know it's for real this time, cuz you're here!"
+msgstr "@niko_speak 이번엔 진짜라는 걸 알 수 있어요. 왜냐면 당신이 함께 있잖아요!"
+
+msgid "@niko And then...\\>\\n\\@niko_speak ...I'll get to go home for real this time, too!"
+msgstr "@niko 그리고...\\>\\n\\@niko_speak ...저도 이제 집으로 갈 수 있게 되는 거고요!"
+
+msgid "@niko I can't wait to see everyone again..."
+msgstr "@niko 빨리 모두를 보고 싶어요..."
+
+msgid "@niko_speak Are you okay, \\p?\\>\\n\\@niko You seem a little quiet..."
+msgstr "@niko_speak \\p 님, 괜찮아요?\\>\\n\\@niko 아까부터 조용하신데..."
+
+msgid "[\"Niko.\", \"...\"]"
+msgstr "[\"니코.\",\"...\"]"
+
+msgid "@niko_speak ...yeah?"
+msgstr "@niko_speak ...네?"
+
+msgid "@niko_speak ...?"
+msgstr "@niko_speak ...?"
+
+msgid "[\"I need to tell you something.\", \"...\"]"
+msgstr "[\"말해줘야 할 게 있어.\",\"...\"]"
+
+msgid "@niko ...I'm listening."
+msgstr "@niko ...듣고 있어요."
+
+msgid "@niko_speak What's going on, \\p?"
+msgstr "@niko_speak \\p 님, 대체 무슨 일인가요?"
+
+msgid "[\"We can't save both.\"]"
+msgstr "[\"둘 다 구할 순 없어.\"]"
+
+msgid "@niko ...?"
+msgstr "@niko ...?"
+
+msgid "[\"The world... and you...\"]"
+msgstr "[\"세상 아니면... 너야...\"]"
+
+msgid "@niko ...wh \\>\\@niko3 ...what's that supposed to mean, \\p?"
+msgstr "@niko 그... \\>\\@niko3 ...그게 대체 무슨 뜻이죠, \\p 님?"
+
+msgid "[\"To send you home...\"]"
+msgstr "[\"널 집에 보내려면...\"]"
+
+msgid "[\"We must break the lightbulb.\"]"
+msgstr "[\"그 전구를 깨트려야 해.\"]"
+
+msgid "@niko_shock What??\\>\\n\\@niko3 ...But won't that... \\>\\n\\@niko_distressed2 ...But won't that end the world?"
+msgstr "@niko_shock 네??\\>\\n\\@niko3 ...하지만 그러면... \\>\\n\\@niko_distressed2 ...그러면 이 세상은 끝이잖아요!"
+
+msgid "[\"Yeah.\", \"...\"]"
+msgstr "[\"그래.\",\"...\"]"
+
+msgid "@niko_eyeclosed I don't want that to happen..."
+msgstr "@niko_eyeclosed 그건 싫어요..."
+
+msgid "@niko2 So... what happens when we save the world?\\>\\n\\@niko_distressed ...what happens to me...?"
+msgstr "@niko2 그럼... 우리가 세상을 구하기로 선택하면 어떻게 되죠?\\>\\n\\@niko_distressed ...전, 어떻게 되나요...?"
+
+msgid "[\"I don't know.\", \"...\"]"
+msgstr "[\"나도 모르겠어.\",\"...\"]"
+
+msgid "@niko_shock You... don't?"
+msgstr "@niko_shock 모른... 다고요?"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko_distressed2 ....."
+msgstr "@niko_distressed2 ....."
+

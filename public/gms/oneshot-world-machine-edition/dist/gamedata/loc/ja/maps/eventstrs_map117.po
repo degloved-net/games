@@ -1,0 +1,54 @@
+msgid "@watcher Good morning."
+msgstr "@watcher おはよう。"
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher こんにちは。"
+
+msgid "@watcher Good evening."
+msgstr "@watcher こんばんは。"
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher …夜が更けてきたわね。"
+
+msgid "@watcher But... good day, I suppose."
+msgstr "@watcher けれど…いい日、ではあるわね。"
+
+msgid "@watcher Your time here is precious."
+msgstr "@watcher 貴方の時間はとても貴重。"
+
+msgid "@watcher Please, do cherish it."
+msgstr "@watcher どうか、大切になさい。"
+
+msgid "@niko I will!"
+msgstr "@niko うん！"
+
+msgid "@watcher It's not healthy for children such as yourself to stay up at this hour."
+msgstr "@watcher 君のような子どもがこんな時間に\n起きてるのは、健康的ではないわ。"
+
+msgid "@niko ...Really?"
+msgstr "@niko …そうなの？"
+
+msgid "@niko_eyeclosed ...I... didn't realize..."
+msgstr "@niko_eyeclosed …し…知らなかった…"
+
+msgid "@watcher Can't blame you."
+msgstr "@watcher 貴方のせいじゃない。"
+
+msgid "@watcher With the sun gone, the night never seems to end."
+msgstr "@watcher 太陽が消えた今、夜は終わりを告げようとしない。"
+
+msgid "@niko_speak Then... how can you tell?"
+msgstr "@niko_speak じゃあ…どうして分かるの？"
+
+msgid "@niko Time, I mean."
+msgstr "@niko 時間のこと。"
+
+msgid "@watcher I have my ways."
+msgstr "@watcher 私にしかできない方法。"
+
+msgid "@watcher ...Well, the time of day doesn't really mean anything now."
+msgstr "@watcher …まあ、今となっては時間なんて\nほとんど意味がないけれど。"
+
+msgid "@niko_speak Then... How can you tell?"
+msgstr "@niko_speak じゃあ…どうして分かるの？"
+

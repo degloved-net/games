@@ -1,0 +1,378 @@
+msgid "@niko Something is poking out from this shelf."
+msgstr "@niko Tem alguma coisa saindo dessa prateleira."
+
+msgid "@niko_speak It's a tube of glitter glue."
+msgstr "@niko_speak É um tubo de cola com purpurina."
+
+msgid "@kip You can have that if you want!"
+msgstr "@kip Pode ficar com isso se quiser!"
+
+msgid "@kip_wink Never know when you need to glitter things up, right?"
+msgstr "@kip_wink É sempre bom ter purpurina à mão, né?"
+
+msgid "@niko Oh! Are you sure?"
+msgstr "@niko Ah! Tem certeza?"
+
+msgid "@kip_wink Yeah! I have tons of those!"
+msgstr "@kip_wink Sim! Tenho um montão disso!"
+
+msgid "@niko Thank you!"
+msgstr "@niko Então ótimo!"
+
+msgid "@kip You should hold on to that amber, okay?"
+msgstr "@kip Guarde bem esse âmbar, sim?"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Pode deixar!"
+
+msgid "@kip_huh ....oh?"
+msgstr "@kip_huh ... hã?"
+
+msgid "@kip_pout T...\\. that's....."
+msgstr "@kip_pout I-\\.isso..."
+
+msgid "@kip2 How...\\. did you get this?"
+msgstr "@kip2 Onde...\\. você arranjou isso?"
+
+msgid "@niko This robot lady in the Barrens gave it to me!"
+msgstr "@niko Uma moça-robô lá das Terras Áridas me deu!"
+
+msgid "@niko_speak She looked... kinda like you?"
+msgstr "@niko_speak Ela era... parecida com você."
+
+msgid "@kip_sigh I see..."
+msgstr "@kip_sigh Entendo..."
+
+msgid "@kip_sad ..."
+msgstr "@kip_sad ..."
+
+msgid "@kip_sigh Sigh. \\>\\nIt was supposed to be such a breakthrough, y'know?"
+msgstr "@kip_sigh Ah. \\>\\nEra para ser uma descoberta e tanto, sabe?"
+
+msgid "@kip_pout I even based her on myself so I'll KNOW it works!"
+msgstr "@kip_pout Até me usei como base para TER CERTEZA de que ela funciona!"
+
+msgid "@niko_speak Break... through?"
+msgstr "@niko_speak Desco...berta?"
+
+msgid "@kip2 We wanted to build a robot that acts like a person, thinks like a person..."
+msgstr "@kip2 Queria construir um robô que agisse como uma pessoa, pensasse como uma pessoa..."
+
+msgid "@kip_pout ...a robot that isn't bound by its own code."
+msgstr "@kip_pout ... um robô que não fosse preso ao seu código."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Ah!"
+
+msgid "@kip_sigh But turns out, you can't really BUILD something like that."
+msgstr "@kip_sigh Mas acontece que é impossível construir algo DESSE tipo."
+
+msgid "@kip_pout Too many contradictions in the code... made her unstable."
+msgstr "@kip_pout O excesso de contradições no código... a deixaram instável."
+
+msgid "@kip_sad ...that was the only time I've ever seen a robot go rogue."
+msgstr "@kip_sad ... foi a única vez que vi um robô desgarrado."
+
+msgid "@kip_sigh Scariest day of my life, tell you what!"
+msgstr "@kip_sigh Foi o dia mais assustador da minha vida!"
+
+msgid "@niko_speak ...rogue?"
+msgstr "@niko_speak ... desgarrado?"
+
+msgid "@niko But...\\| \\@niko2 she seemed so nice when we talked!"
+msgstr "@niko Mas...\\|\\@niko2 ela parecia tão gentil quando conversamos!"
+
+msgid "@niko_eyeclosed ...even if she talked a little weird..."
+msgstr "@niko_eyeclosed ... mesmo com o jeito meio esquisito de falar..."
+
+msgid "@kip2 Ah, she's been repaired for some time now."
+msgstr "@kip2 Ah, já faz um tempo que a consertaram."
+
+msgid "@kip_pout My friend was able to stabilize her volatile state through his own means."
+msgstr "@kip_pout Um amigo meu conseguiu estabilizar o estado volátil dela com os métodos dele."
+
+msgid "@kip2 A real miracle worker, that..."
+msgstr "@kip2 Um verdadeiro milagreiro..."
+
+msgid "@kip_pout After he was through, she ended up turning out just like how I wanted."
+msgstr "@kip_pout Depois dos métodos dele, ela ficou exatamente como eu queria."
+
+msgid "@kip_sad ...but the damage was already done."
+msgstr "@kip_sad ... mas o estrago já tinha sido feito."
+
+msgid "@kip_sigh ...\\|I gave up on her back then... we all did."
+msgstr "@kip_sigh ...\\|Na época, desisti dela... Todos nós desistimos."
+
+msgid "@kip_pout I'm sure she realized that...\\n\\>\\@kip_sigh and now she won't ever come back."
+msgstr "@kip_pout Ela deve ter percebido isso...\\n\\>\\@kip_sigh e agora nunca mais retornará."
+
+msgid "@kip_sad She won't even answer my letters..."
+msgstr "@kip_sad Ela sequer responde minhas cartas..."
+
+msgid "@niko_eyeclosed I'm sorry..."
+msgstr "@niko_eyeclosed Sinto muito..."
+
+msgid "@kip_pout Ah, sorry for rambling."
+msgstr "@kip_pout Ah, perdoe o devaneio."
+
+msgid "@kip Oh! I see you put your own photo on there!\\>\\n\\@kip_wink Does that mean your name is Kip now?"
+msgstr "@kip Ah! Vejo que colocou sua própria foto ali!\\>\\n\\@kip_wink Isso significa que seu nome agora é Kip?"
+
+msgid "@kip ...that was a joke."
+msgstr "@kip ... era uma brincadeira."
+
+msgid "@kip Is there anything else you need?"
+msgstr "@kip Precisa de mais alguma coisa?"
+
+msgid "@niko Nope!"
+msgstr "@niko Não!"
+
+msgid "@kip_wink Well, feel free to stick around if you want!"
+msgstr "@kip_wink Bom, fique à vontade!"
+
+msgid "@kip Oh hey, you're back!"
+msgstr "@kip Opa, você voltou!"
+
+msgid "@kip Can I help you with anything else?"
+msgstr "@kip Posso ajudar em mais alguma coisa?"
+
+msgid "@niko Yeah..."
+msgstr "@niko Sim..."
+
+msgid "@niko Do you know how I can get a library card?"
+msgstr "@niko Sabe onde eu arranjo um cartão da biblioteca?"
+
+msgid "@kip_huh A library card?"
+msgstr "@kip_huh Um cartão da biblioteca?"
+
+msgid "@kip You'll have to ask the library for that!"
+msgstr "@kip Precisará pedir isso na biblioteca!"
+
+msgid "@niko_eyeclosed I tried..."
+msgstr "@niko_eyeclosed Já tentei..."
+
+msgid "@niko I need it to see the head librarian, but I can't get to see her without a library card."
+msgstr "@niko Preciso dele para falar com a bibliotecária-chefe, mas não conseguirei fazer isso sem um cartão da biblioteca."
+
+msgid "@niko_eyeclosed ...but at the same time, she's the one who gives out library cards..."
+msgstr "@niko_eyeclosed ... Só que, ao mesmo tempo, é ela quem distribui cartões da biblioteca."
+
+msgid "@kip_huh Really..."
+msgstr "@kip_huh É..."
+
+msgid "@kip_heh Heh... that sounds like George alright!"
+msgstr "@kip_heh Hehe... Isso é bem a cara da George!"
+
+msgid "@kip_huh I'm sorry you caught her on a bad day!"
+msgstr "@kip_huh Que pena que a conheceu num dia ruim!"
+
+msgid "@niko Aw..."
+msgstr "@niko Ah..."
+
+msgid "@kip2 ...wait, I know!"
+msgstr "@kip2 ... calma aí, já sei!"
+
+msgid "@kip_wink I can just give you my library card!"
+msgstr "@kip_wink Posso lhe dar o meu cartão da biblioteca!"
+
+msgid "@kip It won't be hard for me to get another one."
+msgstr "@kip Não será difícil para mim arranjar outro."
+
+msgid "@niko_speak Wow, thanks!"
+msgstr "@niko_speak Puxa, valeu!"
+
+msgid "@kip There! You're all set, I think..."
+msgstr "@kip Pronto! Agora não lhe falta nada, eu acho..."
+
+msgid "@kip_huh Wait."
+msgstr "@kip_huh Espere."
+
+msgid "@kip_huh Shoot!"
+msgstr "@kip_huh Putz!"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition"
+msgstr "@kip_heh Esqueci... Os robôs da recepção da biblioteca têm sistemas de reconhecimento facial."
+
+msgid "@kip_heh And my photo on the card won't match you..."
+msgstr "@kip_heh E a minha foto do cartão não se parece com você..."
+
+msgid "@kip_wink ...unless I tape a photo of my face to your face!"
+msgstr "@kip_wink ... a não ser que eu grude uma foto minha no seu rosto!"
+
+msgid "@niko Um-"
+msgstr "@niko Hm..."
+
+msgid "@kip That was a joke."
+msgstr "@kip Foi brincadeira."
+
+msgid "@kip2 Who knows, maybe you'll get lucky and the robot will take it anyway!"
+msgstr "@kip2 Bom, não custa nada tentar. Talvez dê a sorte de o robô aceitar!"
+
+msgid "@kip Worse comes to worse, you can always find somewhere to take a photo."
+msgstr "@kip Na pior das hipóteses, achar um lugar para tirar foto não é problema."
+
+msgid "@kip_wink Don't overwork yourself, okay?"
+msgstr "@kip_wink Não vá morrer de trabalhar, está bem?"
+
+msgid "@kip Your journey is just as important as your end goal."
+msgstr "@kip O percurso é tão importante quanto o objetivo final."
+
+msgid "@kip_wink Cliche, but true!"
+msgstr "@kip_wink É clichê, mas não deixa de ser verdade!"
+
+msgid "@kip So..."
+msgstr "@kip Então..."
+
+msgid "@kip_wink You've been walking all over the world, huh?"
+msgstr "@kip_wink Você já andou o mundo inteiro, é?"
+
+msgid "@niko M-hm!"
+msgstr "@niko M-hm!"
+
+msgid "@kip Geez... I can't imagine..."
+msgstr "@kip Caracas, nem consigo imaginar..."
+
+msgid "@kip_huh Do you get really tired sometimes?"
+msgstr "@kip_huh Às vezes cansa muito, não?"
+
+msgid "@niko_eyeclosed Kinda..."
+msgstr "@niko_eyeclosed Um pouco..."
+
+msgid "@niko_speak But I don't mind!\\n\\@niko_pancakes It's actually really pretty!"
+msgstr "@niko_speak Mas não me importo!\\n\\@niko_pancakes Na verdade, é bem bonito!"
+
+msgid "@kip_wink Haha, I'm glad you think so!"
+msgstr "@kip_wink Haha, que bom que pensa assim!"
+
+msgid "@kip Even with the sun gone, the world is still a beautiful place."
+msgstr "@kip Mesmo com o desaparecimento do sol, o mundo ainda é um lugar bonito."
+
+msgid "@niko_speak What did the world look like with the sun?"
+msgstr "@niko_speak Como era o mundo com o sol?"
+
+msgid "@kip_huh Oh, \\>\\@kip2 uh..."
+msgstr "@kip_huh Ah, \\>\\@kip2 hm..."
+
+msgid "@kip_sigh ...y'know, it's kind of embarassing to admit how little of it I have actually seen."
+msgstr "@kip_sigh ... sabe, tenho um pouco de vergonha de admitir que não vi muito dele."
+
+msgid "@niko_speak ...oh?"
+msgstr "@niko_speak ... ué?"
+
+msgid "@kip_heh Ironic, isn't it?"
+msgstr "@kip_heh Irônico, não é?"
+
+msgid "@kip2 Even though I'm the world's leading researcher...\\>\\n\\@kip_sigh ...All I do is stay here and build robots."
+msgstr "@kip2 Apesar de ser a maior pesquisadora do mundo...\\>\\n\\@kip_sigh ... eu só fiquei aqui construindo robôs."
+
+msgid "@kip_sigh They're the ones exploring the world, I just write down the data, crunch numbers, generate graphs..."
+msgstr "@kip_sigh São eles que exploram o mundo... Eu só escrevo os dados, processo números, gero gráficos..."
+
+msgid "@niko Right... \\.\\.\\@niko_speak I've been seeing robots everywhere!"
+msgstr "@niko Certo... \\.\\.\\@niko_speak Eu vi robôs por toda parte!"
+
+msgid "@niko I just thought it was cuz the world was too dangerous for most people to explore..."
+msgstr "@niko Só pensei que o mundo fosse perigoso demais para as pessoas explorarem..."
+
+msgid "@kip2 That's not far from the truth, actually."
+msgstr "@kip2 Na verdade, é quase isso."
+
+msgid "@kip But I know someone who still does his research firsthand!"
+msgstr "@kip Mas conheço alguém que ainda faz pesquisas em primeira mão!"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Hm?"
+
+msgid "@kip2 ...even after segments of land started collapsing and access to the more remote areas became difficult."
+msgstr "@kip2 ... mesmo depois que uns trechos de terra desabaram e dificultaram o acesso às áreas mais remotas."
+
+msgid "@kip_huh I mean, he outright built a machine that could fly! \\>\\n\\@kip_huh Something we all thought was not physically possible!"
+msgstr "@kip_huh Digo, ele construiu uma máquina que voava! \\>\\n\\@kip_huh Algo que todo mundo achava impossível!"
+
+msgid "@niko_speak Oh! That's..."
+msgstr "@niko_speak Caramba! Isso..."
+
+msgid "@kip I asked him about working with us, so he provides us with all sorts of insights from time to time."
+msgstr "@kip Eu o convidei para trabalhar conosco e ele nos fornece todo tipo de ideia de tempos em tempos."
+
+msgid "@kip_heh ...but for some reason, he REALLY didn't want to build robots."
+msgstr "@kip_heh ... Só que, por algum motivo, ele não queria MESMO construir robôs."
+
+msgid "@kip_sigh Or, more specifically, coding them."
+msgstr "@kip_sigh Ou, para ser mais específica, codificá-los."
+
+msgid "@niko_speak How come?"
+msgstr "@niko_speak Como assim?"
+
+msgid "@kip2 Beats me!\\> \\@kip_huh I mean, he's happy to work with robots!"
+msgstr "@kip2 Sei lá!\\> \\@kip_huh É que ele gosta de trabalhar com robôs!"
+
+msgid "@kip In fact, he even- \\.\\@kip2 ..."
+msgstr "@kip Na verdade, ele até... \\.\\@kip2 "
+
+msgid "@kip_heh ...ah. It's been a while since we last talked.\\@kip \\>\\nHe must be busy with his books now, yeah."
+msgstr "@kip_heh ... ah. Já faz um tempo que não conversamos.\\@kip \\>\\nEle deve estar ocupado com os livros agora, é isso."
+
+msgid "@niko ...Hello?"
+msgstr "@niko ... Olá?"
+
+msgid "@kip_huh Oh, shoot!"
+msgstr "@kip_huh Ah, qual é!"
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the darned lock!"
+msgstr "@kip_huh Se eu soubesse que você chegaria tão rápido, teria desligado a droga da tranca!"
+
+msgid "@kip Hello there!"
+msgstr "@kip Oi!"
+
+msgid "@kip_heh Sorry about the weird... security measures."
+msgstr "@kip_heh Perdoe-me as... medidas de segurança peculiares."
+
+msgid "@niko It's okay!"
+msgstr "@niko Tudo bem!"
+
+msgid "@niko \\p helped me solve it!"
+msgstr "@niko \\p me ajudou!"
+
+msgid "@kip Did they now!"
+msgstr "@kip Ah, beleza!"
+
+msgid "@kip So... can I help you with anything?"
+msgstr "@kip Então... Posso ajudar em alguma coisa?"
+
+msgid "@kip_wink Heh... that sounds like George alright!"
+msgstr "@kip_wink Hehe... Isso é bem a cara da George!"
+
+msgid "@kip ...wait, I know!"
+msgstr "@kip ... calma aí, já sei!"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition."
+msgstr "@kip_heh Esqueci... Os robôs da recepção da biblioteca têm sistemas de reconhecimento facial."
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the system!"
+msgstr "@kip_huh Se eu soubesse que você chegaria tão rápido, teria desligado o sistema!"
+
+msgid "@niko Yeah, where's the library?"
+msgstr "@niko É, onde fica a biblioteca?"
+
+msgid "@kip_huh The library? That's all the way on the other side of town!"
+msgstr "@kip_huh A biblioteca? Fica do outro lado da cidade!"
+
+msgid "@kip2 The fastest route is where you take the shortcut through the backalley, but..."
+msgstr "@kip2 O caminho mais rápido é por um atalho no beco dos fundos, mas..."
+
+msgid "@niko I think that's how we got here, actually!"
+msgstr "@niko Na verdade, acho que foi assim que chegamos até aqui!"
+
+msgid "@kip Oh good!"
+msgstr "@kip Ah, legal!"
+
+msgid "@kip2 You should head back to that direction and walk to the east a bit."
+msgstr "@kip2 É só voltar nessa direção e caminhar um pouco a leste."
+
+msgid "@kip You'll find it eventually!"
+msgstr "@kip Uma hora ela vai aparecer!"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Ótimo!"
+

@@ -1,0 +1,9 @@
+msgid "@niko The wood is neatly stacked in the fireplace."
+msgstr "@niko A madeira está muito bem acondicionada na lareira."
+
+msgid "@niko It's a sink."
+msgstr "@niko Uma pia."
+
+msgid "@niko There's nothing in the fridge..."
+msgstr "@niko Não tem nada na geladeira..."
+

@@ -1,0 +1,33 @@
+msgid "@niko Strange black plants. They look like clovers."
+msgstr "@niko Strane piante nere. Sembrano trifogli."
+
+msgid "@niko A robot."
+msgstr "@niko Un robot."
+
+msgid "@niko_eyeclosed No power, just like the rest..."
+msgstr "@niko_eyeclosed Non ha energia, come tutti gli altri..."
+
+msgid "[I AM WATCHING OVER THE PLANTS.]"
+msgstr "[STO SORVEGLIANDO LE PIANTE.]"
+
+msgid "[HELLO, SMALL PERSON.]"
+msgstr "[SALVE, PICCOLINO.]"
+
+msgid "@niko_eyeclosed You're not much bigger than I am..."
+msgstr "@niko_eyeclosed Non che tu sia tanto più grande di me..."
+
+msgid "[WELCOME TO THE LOOKOUT POINT.]"
+msgstr "[BENVENUTO AL PUNTO D'AVVISTAMENTO.]"
+
+msgid "[BELOW US IS THE OLD QUARRY.]"
+msgstr "[SOTTO DI NOI C'È LA VECCHIA CAVA.]"
+
+msgid "[THE HEAD ENGINEER LIVES A LITTLE MORE TO THE EAST.]"
+msgstr "[IL CAPO INGEGNERE VIVE POCO PIÙ A EST.]"
+
+msgid "[THE ENTRANCE TO THE OLD MINES IS FURTHER TO THE EAST.]"
+msgstr "[L'ENTRATA ALLE VECCHIE MINIERE SI TROVA ANCORA PIÙ A EST.]"
+
+msgid "@niko I see!"
+msgstr "@niko Capisco!"
+

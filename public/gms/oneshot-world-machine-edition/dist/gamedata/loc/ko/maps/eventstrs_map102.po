@@ -1,0 +1,318 @@
+msgid "@niko It's not safe to use this minecart anymore, \\p."
+msgstr "@niko 이 광산 수레를 더 사용하는 건 위험해요, \\p 님."
+
+msgid "@niko_eyeclosed We can't use this anymore..."
+msgstr "@niko_eyeclosed 이건 이제 사용할 수 없어요..."
+
+msgid "@niko Still at it?"
+msgstr "@niko 아직 조사하는 중이에요?"
+
+msgid "@silver_eyeclosed [Still at it.]"
+msgstr "@silver_eyeclosed [응.]"
+
+msgid "@niko How's it going?"
+msgstr "@niko 어떻게 돼 가요?"
+
+msgid "@silver_eyeclosed [Not ideal.]"
+msgstr "@silver_eyeclosed [좋지 않네.]"
+
+msgid "@silver [Looks like these terminals are running on a completely separate power source.]"
+msgstr "@silver [이 터미널은 아예 별도의 전원으로 작동하는 것 같아.]"
+
+msgid "@silver2 [I can't really recognize any of the data formats on this terminal, either.]"
+msgstr "@silver2 [이 터미널의 데이터 형식을 전혀 알아볼 수가 없어.]"
+
+msgid "@silver2 [This is all... new....]"
+msgstr "@silver2 [이건 전혀... 새로운 형식이야...]"
+
+msgid "@silver_eyeclosed [...or at least, encrypted.]"
+msgstr "@silver_eyeclosed [...아니면 암호화가 되어 있거나.]"
+
+msgid "@silver [I will need to analyze it through my own system.]"
+msgstr "@silver [내 자체 시스템으로 분석을 해야 해.]"
+
+msgid "@silver [Might take some time, so you don't need to stay.]"
+msgstr "@silver [시간이 좀 걸릴 테니, 여기 있지 않아도 돼.]"
+
+msgid "@silver [Oh, found another video feed...]"
+msgstr "@silver [오, 동영상 피드를 하나 더 찾았어...]"
+
+msgid "@silver2 [I should definitely go look for the cameras later.]"
+msgstr "@silver2 [나중에 카메라를 찾아야겠군.]"
+
+msgid "@silver_eyeclosed [This is really bothering me...]"
+msgstr "@silver_eyeclosed [정말 신경 쓰이네...]"
+
+msgid "@silver2 [This observation room... isn't for the mines...]"
+msgstr "@silver2 [이 전망실은... 광산을 위한 게 아니야...]"
+
+msgid "@silver2 [I've actually never been into this particular one.]"
+msgstr "@silver2 [난 지금까지 여기는 들어와 본 적이 없어.]"
+
+msgid "@niko2 Really?"
+msgstr "@niko2 정말요?"
+
+msgid "@niko You recognized it at first, though..."
+msgstr "@niko 하지만 한눈에 알아봤잖아요..."
+
+msgid "@silver_eyeclosed [They all look the same.]"
+msgstr "@silver_eyeclosed [전망실은 모두 똑같이 생겼거든.]"
+
+msgid "@niko_eyeclosed Fair enough!"
+msgstr "@niko_eyeclosed 그렇군요!"
+
+msgid "@silver2 [I did find something interesting, though.]"
+msgstr "@silver2 [하지만 재미있는 걸 찾았어.]"
+
+msgid "@silver_lookup [All the databases seem to encode video feeds.]"
+msgstr "@silver_lookup [모든 데이터베이스가 동영상 피드를 인코딩하는 것 같아.]"
+
+msgid "@silver [Right now, I can see various places in the Barrens.]"
+msgstr "@silver [지금 당장, 불모지의 여러 장소를 볼 수 있어.]"
+
+msgid "@silver [The outpost... the residential areas...]"
+msgstr "@silver [변경 지역... 주거 지역...]"
+
+msgid "@silver2 [Even my own house.]"
+msgstr "@silver2 [내 집까지도.]"
+
+msgid "@silver_eyeclosed [They're all shot from a top-down perspective, too.]"
+msgstr "@silver_eyeclosed [또한, 모두 위에서 아래로 내려다보는 시점이지.]"
+
+msgid "@silver2 [...which means the cameras would have to be in the air.]"
+msgstr "@silver2 [...이렇게 찍으려면 카메라가 공중에 있어야 돼.]"
+
+msgid "@silver_eyeclosed [But... I have never seen any cameras around.]"
+msgstr "@silver_eyeclosed [하지만... 주변에서 카메라를 본 적이 없단 말이야.]"
+
+msgid "@niko_what That's kind of spooky!"
+msgstr "@niko_what 오싹한데요!"
+
+msgid "@silver_eyeclosed [I might go investigate later, yeah.]"
+msgstr "@silver_eyeclosed [나중에 주위를 조사해 봐야겠어.]"
+
+msgid "@silver [Did you find anything interesting in the backroom?]"
+msgstr "@silver [안쪽 방에서 뭐라도 찾았어?]"
+
+msgid "@silver2 [You were in there for a while.]"
+msgstr "@silver2 [한참이나 있었잖아.]"
+
+msgid "@niko_speak Yeah! We... \\.\\.\\@niko5 ...found...\\.\\. a"
+msgstr "@niko_speak 네! 거기... \\.\\.\\@niko5 ...있던 건...\\.\\."
+
+msgid "@niko6 ...a dead end?"
+msgstr "@niko6 ...막다른 길?"
+
+msgid "@silver_eyeclosed [I see.]"
+msgstr "@silver_eyeclosed [알겠어.]"
+
+msgid "@silver [Come on, let's go back.]"
+msgstr "@silver [자, 돌아가자.]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [가자.]"
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko 작은 기계예요."
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko 무슨 기계일까요?"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 머리카락이 뻣뻣해진 느낌이에요..."
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 이건 전원 장치예요...\\n아마도요."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak \"예언봇\"이라는 단어가 옆에 쓰여 있었네."
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko 전에는 몰랐는데."
+
+msgid "@niko2 Oh, the cart's stopped!"
+msgstr "@niko2 어, 수레가 멈췄어요!"
+
+msgid "@niko_eyeclosed Looks like this is as far as the tracks go..."
+msgstr "@niko_eyeclosed 선로가 여기서 끝나나 봐요..."
+
+msgid "@niko So...\\.\\.\\. where are we?"
+msgstr "@niko 그래서...\\.\\.\\. 여긴 어디죠?"
+
+msgid "@silver_lookup [One of the old observation rooms.]"
+msgstr "@silver_lookup [옛 전망실 중 하나야.]"
+
+msgid "@silver2 [Looks like it's still mostly intact.]"
+msgstr "@silver2 [아직 멀쩡한 것 같네.]"
+
+msgid "@silver2 [What...?]"
+msgstr "@silver2 [뭐지...?]"
+
+msgid "@niko2 Huh?"
+msgstr "@niko2 음?"
+
+msgid "@silver2 [The terminal just reactivated!]"
+msgstr "@silver2 [방금 터미널이 다시 작동하기 시작했어!]"
+
+msgid "@silver [But the power was cut off so long ago...]"
+msgstr "@silver [하지만 전력이 끊긴지 오래됐는데...]"
+
+msgid "@niko6 Weird!"
+msgstr "@niko6 이상하네요!"
+
+msgid "@niko_speak Maybe... it runs on battery?"
+msgstr "@niko_speak 배터리로 작동하는 걸까요?"
+
+msgid "@silver_eyeclosed [No... that's not it.]"
+msgstr "@silver_eyeclosed [아니... 그건 아니야.]"
+
+msgid "@silver2 [Whatever it is, I need to investigate.]"
+msgstr "@silver2 [그게 뭐든, 조사를 해야겠어.]"
+
+msgid "@niko Okay..."
+msgstr "@niko 알았어요..."
+
+msgid "@silver2 [Will you be okay by yourself for a bit?]"
+msgstr "@silver2 [잠시 혼자 있어도 괜찮겠어?]"
+
+msgid "@niko_speak Don't worry! \\p's with me!"
+msgstr "@niko_speak 걱정 마세요! \\p 님이 같이 있으니까요!"
+
+msgid "@silver_eyeclosed [Alright. Stay safe.]"
+msgstr "@silver_eyeclosed [좋아. 조심해.]"
+
+msgid "@niko4 I shouldn't get too close..."
+msgstr "@niko4 너무 가까이 가지 않는 게 좋겠어요..."
+
+msgid "@niko Some sort of computer."
+msgstr "@niko 일종의 컴퓨터예요."
+
+msgid "@ed [I remember it... what happened in the Tower.]"
+msgstr "@ed [기억나... 탑에서 무슨 일이 있었는지.]"
+
+msgid "@ed [What I tried to do... and how you managed to see through it all.]"
+msgstr "@ed [내가 하려 했던 일도... 네가 내 속셈을 모두 간파한 것도 말이야.]"
+
+msgid "@ed [We HAVE been through all of this.]"
+msgstr "@ed [우린 이 모든 걸 함께 겪었어.]"
+
+msgid "@ed [Even though it was only supposed to run once... you still managed to come back.]"
+msgstr "@ed [실행 기회는 단 한 번뿐이었는데... 너는 어째서인지 다시 돌아왔어.]"
+
+msgid "@ed [...How did you come back?]"
+msgstr "@ed [...어떻게 돌아온 거지?]"
+
+msgid "@ed [...How did you bring Niko back?]"
+msgstr "@ed [...니코는 어떻게 데려왔지?]"
+
+msgid "@ed [And then, you even managed to break out of bounds.]"
+msgstr "@ed [게다가 넌 경계조차도 무시했어.]"
+
+msgid "@ed [Bringing Niko to places that never should have been.]"
+msgstr "@ed [니코를 존재하지 말았어야 하는 곳으로 데려갔지.]"
+
+msgid "@ed [It was HIM, wasn't it?]"
+msgstr "@ed [그 자의 소행이었어. 아냐?]"
+
+msgid "@ed [And now... now....]"
+msgstr "@ed [그리고 지금... 지금...]"
+
+msgid "@ed [Niko is upset.]"
+msgstr "@ed [니코는 속상해하고 있어.]"
+
+msgid "@ed [What even happened in that room back there?]"
+msgstr "@ed [저 방에서 대체 무슨 일이 있었던 거야?]"
+
+msgid "@ed [What did Niko learn?]"
+msgstr "@ed [니코가 무얼 알게 된 거야?]"
+
+msgid "@ed [I can feel it.]"
+msgstr "@ed [느낄 수 있어.]"
+
+msgid "@ed [I told you to turn back, \\p!]"
+msgstr "@ed [돌아가라고 했잖아, \\p!]"
+
+msgid "@ed [But you've chosen to trust that man instead of me.]"
+msgstr "@ed [하지만 넌 내가 아니라 그 자를 믿기로 했지.]"
+
+msgid "@ed [...No, not even that.]"
+msgstr "@ed [...아니, 그것도 아니야.]"
+
+msgid "@ed [Just his book.]"
+msgstr "@ed [그 자의 책을 믿은 거지.]"
+
+msgid "@ed [His ghost.]"
+msgstr "@ed [그 자의 환영을.]"
+
+msgid "@ed [This world is not real.]"
+msgstr "@ed [이 세상은 진짜가 아니야.]"
+
+msgid "@ed [The people are not real.]"
+msgstr "@ed [사람들도 진짜가 아니야.]"
+
+msgid "@ed [Niko... is....]"
+msgstr "@ed [니코는...]"
+
+msgid "@ed [No no no no no.]"
+msgstr "@ed [아냐, 아냐, 아냐.]"
+
+msgid "@ed [Everything.]"
+msgstr "@ed [전부.]"
+
+msgid "@ed [Is.]"
+msgstr "@ed [다.]"
+
+msgid "@ed [  W  r  o  n  g  !  !  ]"
+msgstr "@ed [ 틀 렸 다 고!  ! ]"
+
+msgid "@niko_shock AH!!"
+msgstr "@niko_shock 아!!"
+
+msgid "@silver_worry [...The minecart!]"
+msgstr "@silver_worry [...광산 수레가!]"
+
+msgid "@silver3 [Earthquake...]"
+msgstr "@silver3 [지진이야...]"
+
+msgid "@niko_surprised Th-\\.\\.the tunnel back out just collapsed!"
+msgstr "@niko_surprised 밖으로 나가는\\.\\. 터널이 무너졌어요!"
+
+msgid "@silver_worry [No!!]"
+msgstr "@silver_worry [안 돼!!]"
+
+msgid "@niko3 What are we gonna do?!"
+msgstr "@niko3 이제 어쩌죠?!"
+
+msgid "@silver_worry [I....]"
+msgstr "@silver_worry [나는....]"
+
+msgid "@proto1 [Wait.]"
+msgstr "@proto1 [잠깐.]"
+
+msgid "@proto2 [The exit just caved, didn't it.]"
+msgstr "@proto2 [출구가 방금 무너진 것 같군, 그렇지?]"
+
+msgid "@proto2b [Sigh.]"
+msgstr "@proto2b [하아.]"
+
+msgid "@proto2 [I saw this coming, but this is a bit more sudden than I anticipated.]"
+msgstr "@proto2 [이럴 줄은 알았지만, 내 예상보다 너무 갑작스러워.]"
+
+msgid "@proto1 [Both of you. Follow me.]"
+msgstr "@proto1 [너희 둘. 따라와.]"
+
+msgid "@niko3 Where to?"
+msgstr "@niko3 어디로요?"
+
+msgid "@proto1 [The way out.]"
+msgstr "@proto1 [출구로.]"
+
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko 병 안에서 작고 반짝이는 새우들이 잔뜩 헤엄치고 있어요."
+
+msgid "@niko3 I shouldn't get too close..."
+msgstr "@niko3 너무 가까이 가지 않는 게 좋겠어요..."
+

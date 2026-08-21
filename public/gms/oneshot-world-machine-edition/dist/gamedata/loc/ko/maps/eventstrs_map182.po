@@ -1,0 +1,9 @@
+msgid "@niko The wood is neatly stacked in the fireplace."
+msgstr "@niko 나무가 벽난로에 차곡차곡 쌓여 있어요."
+
+msgid "@niko It's a sink."
+msgstr "@niko 싱크대예요."
+
+msgid "@niko There's nothing in the fridge..."
+msgstr "@niko 냉장고 안엔 아무것도 없어요..."
+

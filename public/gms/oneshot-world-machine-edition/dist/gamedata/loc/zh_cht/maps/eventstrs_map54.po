@@ -1,0 +1,45 @@
+msgid "@niko_speak Time to put the seed in the planter."
+msgstr "@niko_speak 該把種子放進花盆了。"
+
+msgid "@niko ...\\>\\nThere's no dirt in this pot.\\>\\nWill the seed really grow like this?"
+msgstr "@niko ……\\>\\n\\花盆裡沒有土。\\>\\n這樣種子真的能生長嗎？"
+
+msgid "@niko \\p, I need to put in the seed first before I put in the dirt."
+msgstr "@niko \\p，我需要先把種子放進去再放土。"
+
+msgid "@niko This is where I'm supposed to put the seed... \\>\\nBut there's no dirt in this pot."
+msgstr "@niko 我應該要把種子放在這裡……\\>\\n可是花盆裡沒有土。"
+
+msgid "@niko_speak I hope this helps you grow, little seed."
+msgstr "@niko_speak 小種子，希望這樣能幫助你生長。"
+
+msgid "@niko The seed's in the soil, but it looks a bit dry."
+msgstr "@niko 種子埋在土裡了，可是看起來有點乾。"
+
+msgid "@niko I can't just pour the water on the seed.\\>\\nIt needs dirt before we can water it."
+msgstr "@niko 我不能直接把水澆在種子上。\\>\\n需要先放土才能澆水。"
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko Water should help this seed grow."
+msgstr "@niko_speak 好主意，\\p！\\>\\n\\@niko 水應該能幫助種子生長。"
+
+msgid "@niko Hmm... the dirt's nice and moist now, but..."
+msgstr "@niko 嗯……現在土壤有水份了，但是……"
+
+msgid "@niko_speak What if it dries out?\\.\\. \\@niko_eyeclosed There's only so much water from this little tube..."
+msgstr "@niko_speak 萬一它乾掉怎麼辦？\\.\\. \\@niko_eyeclosed 這個小管子裡只有這一點水……"
+
+msgid "@niko ...I'll hold on to the tube for now, just in case..."
+msgstr "@niko ……我現在先拿著這根管子好了，以防萬一……"
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko This water should really help this seed grow."
+msgstr "@niko_speak 好主意，\\p！\\>\\n\\@niko 水應該能好好幫助種子生長。"
+
+msgid "@niko_speak It sprouted a tiny leaf!"
+msgstr "@niko_speak 它長出了一小片葉子！"
+
+msgid "@niko We've given it dirt and water.\\>\\nBut will that be enough?"
+msgstr "@niko 我們給了它土和水。\\>\\n但這樣就夠了嗎？"
+
+msgid "@niko_speak Good luck, little plant!"
+msgstr "@niko_speak 小苗，祝你好運囉！"
+

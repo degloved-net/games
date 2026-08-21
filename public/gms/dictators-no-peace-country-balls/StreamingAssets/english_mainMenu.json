@@ -1,0 +1,622 @@
+{"items":
+[{
+	"key": "start",
+	"value": "Start New"
+},{
+	"key": "continue",
+	"value": "Continue Previous"
+},{
+	"key": "how",
+	"value": "How To Play ?"
+},{
+	"key": "what",
+	"value": "What do you wish to understand about the game ?"
+},{
+	"key": "goalH",
+	"value": "Goal of the game ?"
+},{
+	"key": "exploreH",
+	"value": "Exploring countries ?"
+},{
+	"key": "goldH",
+	"value": "Gold coins and production ?"
+},{
+	"key": "royalH",
+	"value": "Royal Military ?"
+},{
+	"key": "conquerH",
+	"value": "Colonization and Wars ?"
+},{
+	"key": "rebelH",
+	"value": "Friendly Rebels ?"
+},{
+	"key": "localH",
+	"value": "Local Military ?"
+},{
+	"key": "foreignH",
+	"value": "Foreign Attack ?"
+},{
+	"key": "rebelAH",
+	"value": "Rebel Attack ?"
+},{
+	"key": "baseH",
+	"value": "Change Military Base ?"
+},{
+	"key": "tradeH",
+	"value": "Trading and Caravan"
+},{
+	"key": "goalE",
+	"value": "To colonize all 159 in-game countries and become the greatest dictator of all time."
+},{
+	"key": "exploreE",
+	"value": "Initially, each country is hidden. Click on the info ball on the map to explore that country. On exploring, info ball converts to the corresponding country ball. After the country is revealed click the info ball again for more options to colonize it."
+},{
+	"key": "infoH",
+	"value": "Info Ball"
+},{
+	"key": "goldE1",
+	"value": "This is the total gold coins you have. It is represented on top of the screen. Use this to recruit military units and other in-game elements. The GoldPerSecond underneath it represents the rate at which the gold increases."
+},{
+	"key": "goldE2",
+	"value": "Your own country and every country you colonize will have a production button on the map.\nFind it on the map and Click on it to open production panel.\nPress build inside the production panel to increase GoldPerSecond."
+},{
+	"key": "royalE1",
+	"value": "Your country will have a royal military viz. royal army, royal navy and royal air force. If you are the dictator of South africa, this is your royal military"
+},{
+	"key": "royalE2",
+	"value": "Your royal military will fight wars to colonize other countries.\nRoyal army,royal navy and royal air force each have strength points out of 100.\nTo increase its strength click on the above icons on the map to open the royal military panel."
+},{
+	"key": "royalE3",
+	"value": "You can also click the above icon for quick royal military access.\nEvery unit in the military has a different gold cost.Get the military units to increase your military strength. Buy the military units wisely based on your requirements."
+},{
+	"key": "conquerE1",
+	"value": "In this article, enemy refers to the country you want to colonize.\nYour royal army fights against the enemy army, your royal navy fights against the enemy navy and your royal air force fights against the enemy air force. To win the war your royal army must defeat the enemy army,royal navy must defeat enemy navy and royal air force must must defeat enemy air force.\nVictory is determined by strength points.Read about royal military in tutorials if you don't know what is strength point.If your army strength is greater than or equal to enemy army's strength, then your army will be victorious. Same applies to navy and air force."
+},{
+	"key": "strengthD1",
+	"value": "Strength : 50/100"
+},{
+	"key": "countryD1",
+	"value": "(Your Country)"
+},{
+	"key": "strengthD2",
+	"value": "Strength : 20/100"
+},{
+	"key": "countryD2",
+	"value": "(Enemy Country)"
+},{
+	"key": "conquerE2",
+	"value": "In the above battle, you will win the war because 50 > 20."
+},{
+	"key": "conquerE3",
+	"value": "Few countries have colonial military too. If your army strength is greater than the sum of enemy army strength and colonial army strength in that country, then your army will be victorious. Same applies to navy and air force."
+},{
+	"key": "colonialD1",
+	"value": "(Colonial Army)"
+},{
+	"key": "conquerE4",
+	"value": "You will win the above battle because 50>(20+20).\nFew countries do not have a navy,for such countries your royal navy will be victorious by default and you need not upgrade your royal navy.\nFew countries do not have an air force,for such countries your royal air force will be victorious by default and you need not upgrade your royal air force."
+},{
+	"key": "rebelE",
+	"value": "Friendly rebels help you fight against enemy army.They do not fight against enemy navy and enemy air force.You can upgrade their strengths by clicking on them on the map and upgrade their strengths in the rebel panel."
+},{
+	"key": "rebelD1",
+	"value": "(Friendly Rebel)"
+},{
+	"key": "rebelE1",
+	"value": "You will win the above battle because (50+50)>(20+20)."
+},{
+	"key": "localE",
+	"value": "After colonizing a country, the enemy military turns into local military.You control it.You have to upgrade it by clicking on it whenever there is a rebel attack or a foreign attack on that colony.You will be informed about the rebel attack or foreign attack from the message panel on top right of the screen."
+},{
+	"key": "localD1",
+	"value": "(Local Military in your Colony)"
+},{
+	"key": "foreignD1",
+	"value": "(Foreign Power Attack)"
+},{
+	"key": "foreignE1",
+	"value": "Once you colonize a country, it is not safe from other foreign powers.They may attack your colony.Your spies will inform you about the future attack from the message panel on top right of the screen.Upgrade your local military in that colony to defend your colony from the attack.The war rules are same as described in Colonizing and war section of the tutorial. If you lose your colony, you lose your production activities from that colony and you will have to colonize that country again."
+},{
+	"key": "rebelD2",
+	"value": "(Enemy Rebel army in your colony)"
+},{
+	"key": "localD2",
+	"value": "(Local army in your colony)."
+},{
+	"key": "rebelE2",
+	"value": "Few countries have rebels who will backstab you.Your spies will inform you about the future rebel attack from the message panel on top right of the screen.Upgrade your local army in that colony to defend your colony from the attack.The war rules are same as described in Colonizing and war section of the tutorial.The rebel attackers wont attack your local navy and local air force.If you lose your colony, you lose your production activities from that colony and you will have to colonize that country again."
+},{
+	"key": "baseE",
+	"value": "Your predecessor was a wise one. He had made four bases around the globe. Changing base doesn't give you any special strength points but it reduces travelling time. Example : if you are the dictator of Japan and you are on a roll colonizing african countries. But africa is far from Japan so everytime you colonize a country in Africa, your military has to return to Japan.This is a wastage of time.So you can change your base to African base.You can change military base by clicking on your royal military or from quick military button or by finding the military base in the map.After clicking on it you are presented with a panel which has an option of changing the military base."
+},{
+	"key": "tradeE1",
+	"value": "Trade is another way of earning gold. You can purchase goods at a cheaper rate from one market and sell at a higher rate in another market."
+},{
+	"key": "tradeE2",
+	"value": "Present in the top left of the screen.Click on it to locate your caravan and to look at the items you have bought from the markets. Initially the caravan is empty and is located somewhere in the ocean."
+},{
+	"key": "tradeE3",
+	"value": "There are 17 countries which have markets : South Africa,Somalia,Argentina,Brazil,USA,Spain,Italy,Germany,Turkey,Oman,India,Indonesia,South Korea,Japan,China,Australia and New Zealand.\nHow to make the caravan reach the market?\nFirst explore that country(read exploring countries.2nd point in this how to play).Then the market button will be revealed somewhere on the coast of the map of that country.\nThe market button looks like the 2nd icon on this page.\nClick on it to open the market panel.After opening click on travel to that port.After the caravan reaches the market click the market button again and this time it will reveal products to buy and sell.\nHow to profit ?\nIf any product is available at less than 100 for buying,it has potential to be sold at 100 gold in some other market.Each product has a unique market where it can be sold at 100.For example if you get an offer to purchase carpet in some market at a cost less than 100 gold, then you can sell the carpet for 100 gold only in Japan's market.Likewise,  if you get an offer to purchase Gun Powder in some market at a cost less than 100 gold, then you can sell the Gun Powder for 100 gold only in Argentina's market.So each product has a unique selling market for profit if you happen to purchase that item at a cost less than 100.You have to find those unique markets."
+},{
+	"key": "afg",
+	"value": "Afghanistan"
+},{
+	"key": "alb",
+	"value": "Albania"
+},{
+	"key": "alg",
+	"value": "Algeria"
+},{
+	"key": "ang",
+	"value": "Angola"
+},{
+	"key": "arg",
+	"value": "Argentina"
+},{
+	"key": "arm",
+	"value": "Armenia"
+},{
+	"key": "aus",
+	"value": "Australia"
+},{
+	"key": "aust",
+	"value": "Austria"
+},{
+	"key": "azb",
+	"value": "Azerbaijan"
+},{
+	"key": "ban",
+	"value": "Bangladesh"
+},{
+	"key": "bel",
+	"value": "Belarus"
+},{
+	"key": "belg",
+	"value": "Belgium"
+},{
+	"key": "beli",
+	"value": "Belize"
+},{
+	"key": "ben",
+	"value": "Benin"
+},{
+	"key": "bhu",
+	"value": "Bhutan"
+},{
+	"key": "bol",
+	"value": "Bolivia"
+},{
+	"key": "bos",
+	"value": "Bosnia Herzegovina"
+},{
+	"key": "bot",
+	"value": "Botswana"
+},{
+	"key": "bra",
+	"value": "Brazil"
+},{
+	"key": "bul",
+	"value": "Bulgaria"
+},{
+	"key": "bur",
+	"value": "Burkina Faso"
+},{
+	"key": "buru",
+	"value": "Burundi"
+},{
+	"key": "cam",
+	"value": "Cambodia"
+},{
+	"key": "came",
+	"value": "Cameroon"
+},{
+	"key": "cana",
+	"value": "Canada"
+},{
+	"key": "cen",
+	"value": "Central African Republic"
+},{
+	"key": "cha",
+	"value": "Chad"
+},{
+	"key": "chi",
+	"value": "Chile"
+},{
+	"key": "chn",
+	"value": "China"
+},{
+	"key": "col",
+	"value": "Colombia"
+},{
+	"key": "cos",
+	"value": "Costa Rica"
+},{
+	"key": "cro",
+	"value": "Croatia"
+},{
+	"key": "cub",
+	"value": "Cuba"
+},{
+	"key": "cyp",
+	"value": "Cyprus"
+},{
+	"key": "cze",
+	"value": "Czechia"
+},{
+	"key": "drc",
+	"value": "Democratic Republic Of Congo"
+},{
+	"key": "den",
+	"value": "Denmark"
+},{
+	"key": "dji",
+	"value": "Djibouti"
+},{
+	"key": "dom",
+	"value": "Dominican Republic"
+},{
+	"key": "ecu",
+	"value": "Ecuador"
+},{
+	"key": "egy",
+	"value": "Egypt"
+},{
+	"key": "els",
+	"value": "El Salvador"
+},{
+	"key": "eqg",
+	"value": "Equatorial Guinea"
+},{
+	"key": "eri",
+	"value": "Eritrea"
+},{
+	"key": "est",
+	"value": "Estonia"
+},{
+	"key": "eth",
+	"value": "Ethiopia"
+},{
+	"key": "fin",
+	"value": "Finland"
+},{
+	"key": "fra",
+	"value": "France"
+},{
+	"key": "gab",
+	"value": "Gabon"
+},{
+	"key": "geo",
+	"value": "Georgia"
+},{
+	"key": "ger",
+	"value": "Germany"
+},{
+	"key": "gha",
+	"value": "Ghana"
+},{
+	"key": "gre",
+	"value": "Greece"
+},{
+	"key": "gua",
+	"value": "Guatemala"
+},{
+	"key": "gui",
+	"value": "Guinea"
+},{
+	"key": "guib",
+	"value": "Guinea-Bissau"
+},{
+	"key": "guy",
+	"value": "Guyana"
+},{
+	"key": "hai",
+	"value": "Haiti"
+},{
+	"key": "hon",
+	"value": "Honduras"
+},{
+	"key": "hun",
+	"value": "Hungary"
+},{
+	"key": "ice",
+	"value": "Iceland"
+},{
+	"key": "ind",
+	"value": "India"
+},{
+	"key": "indo",
+	"value": "Indonesia"
+},{
+	"key": "ira",
+	"value": "Iran"
+},{
+	"key": "irq",
+	"value": "Iraq"
+},{
+	"key": "ire",
+	"value": "Ireland"
+},{
+	"key": "isr",
+	"value": "Israel"
+},{
+	"key": "ity",
+	"value": "Italy"
+},{
+	"key": "ivc",
+	"value": "Ivory Coast"
+},{
+	"key": "jam",
+	"value": "Jamaica"
+},{
+	"key": "jap",
+	"value": "Japan"
+},{
+	"key": "jor",
+	"value": "Jordan"
+},{
+	"key": "kaz",
+	"value": "Kazakhstan"
+},{
+	"key": "ken",
+	"value": "Kenya"
+},{
+	"key": "kuw",
+	"value": "Kuwait"
+},{
+	"key": "kyr",
+	"value": "Kyrgyzstan"
+},{
+	"key": "lao",
+	"value": "Laos"
+},{
+	"key": "lat",
+	"value": "Latvia"
+},{
+	"key": "leb",
+	"value": "Lebanon"
+},{
+	"key": "les",
+	"value": "Lesotho"
+},{
+	"key": "lib",
+	"value": "Liberia"
+},{
+	"key": "liby",
+	"value": "Libya"
+},{
+	"key": "lit",
+	"value": "Lithuania"
+},{
+	"key": "mad",
+	"value": "Madagascar"
+},{
+	"key": "mal",
+	"value": "Malawi"
+},{
+	"key": "mala",
+	"value": "Malaysia"
+},{
+	"key": "mali",
+	"value": "Mali"
+},{
+	"key": "mau",
+	"value": "Mauritania"
+},{
+	"key": "mex",
+	"value": "Mexico"
+},{
+	"key": "mol",
+	"value": "Moldova"
+},{
+	"key": "mon",
+	"value": "Mongolia"
+},{
+	"key": "mont",
+	"value": "Montenegro"
+},{
+	"key": "mor",
+	"value": "Morocco"
+},{
+	"key": "moz",
+	"value": "Mozambique"
+},{
+	"key": "mya",
+	"value": "Myanmar"
+},{
+	"key": "nam",
+	"value": "Namibia"
+},{
+	"key": "nep",
+	"value": "Nepal"
+},{
+	"key": "net",
+	"value": "Netherlands"
+},{
+	"key": "nz",
+	"value": "New Zealand"
+},{
+	"key": "nic",
+	"value": "Nicaragua"
+},{
+	"key": "nig",
+	"value": "Niger"
+},{
+	"key": "nige",
+	"value": "Nigeria"
+},{
+	"key": "nkr",
+	"value": "North Korea"
+},{
+	"key": "mac",
+	"value": "North Macedonia"
+},{
+	"key": "nor",
+	"value": "Norway"
+},{
+	"key": "oma",
+	"value": "Oman"
+},{
+	"key": "pak",
+	"value": "Pakistan"
+},{
+	"key": "pan",
+	"value": "Panama"
+},{
+	"key": "pap",
+	"value": "Papua New Guinea"
+},{
+	"key": "par",
+	"value": "Paraguay"
+},{
+	"key": "per",
+	"value": "Peru"
+},{
+	"key": "phi",
+	"value": "Philippines"
+},{
+	"key": "pol",
+	"value": "Poland"
+},{
+	"key": "por",
+	"value": "Portugal"
+},{
+	"key": "qat",
+	"value": "Qatar"
+},{
+	"key": "repoc",
+	"value": "Republic Of Congo"
+},{
+	"key": "rom",
+	"value": "Romania"
+},{
+	"key": "ruus",
+	"value": "Russia"
+},{
+	"key": "rwa",
+	"value": "Rwanda"
+},{
+	"key": "sau",
+	"value": "Saudi Arabia"
+},{
+	"key": "sen",
+	"value": "Senegal"
+},{
+	"key": "ser",
+	"value": "Serbia"
+},{
+	"key": "sier",
+	"value": "Sierra Leone"
+},{
+	"key": "sing",
+	"value": "Singapore"
+},{
+	"key": "slo",
+	"value": "Slovakia"
+},{
+	"key": "slov",
+	"value": "Slovenia"
+},{
+	"key": "soma",
+	"value": "Somalia"
+},{
+	"key": "rsa",
+	"value": "South Africa"
+},{
+	"key": "skor",
+	"value": "South Korea"
+},{
+	"key": "ssud",
+	"value": "South Sudan"
+},{
+	"key": "esp",
+	"value": "Spain"
+},{
+	"key": "srl",
+	"value": "Sri Lanka"
+},{
+	"key": "sud",
+	"value": "Sudan"
+},{
+	"key": "sur",
+	"value": "Suriname"
+},{
+	"key": "swa",
+	"value": "Swaziland"
+},{
+	"key": "swe",
+	"value": "Sweden"
+},{
+	"key": "swi",
+	"value": "Switzerland"
+},{
+	"key": "syr",
+	"value": "Syria"
+},{
+	"key": "tai",
+	"value": "Taiwan"
+},{
+	"key": "taj",
+	"value": "Tajikistan"
+},{
+	"key": "tan",
+	"value": "Tanzania"
+},{
+	"key": "thai",
+	"value": "Thailand"
+},{
+	"key": "bah",
+	"value": "The Bahamas"
+},{
+	"key": "tog",
+	"value": "Togo"
+},{
+	"key": "tnt",
+	"value": "Trinidad And Tobago"
+},{
+	"key": "tun",
+	"value": "Tunisia"
+},{
+	"key": "tur",
+	"value": "Turkey"
+},{
+	"key": "turk",
+	"value": "Turkmenistan"
+},{
+	"key": "uga",
+	"value": "Uganda"
+},{
+	"key": "ukr",
+	"value": "Ukraine"
+},{
+	"key": "uae",
+	"value": "United Arab Emirates"
+},{
+	"key": "uk",
+	"value": "United Kingdom"
+},{
+	"key": "usa",
+	"value": "United States Of America"
+},{
+	"key": "uru",
+	"value": "Uruguay"
+},{
+	"key": "uzb",
+	"value": "Uzbekistan"
+},{
+	"key": "ven",
+	"value": "Venezuela"
+},{
+	"key": "vie",
+	"value": "Vietnam"
+},{
+	"key": "yem",
+	"value": "Yemen"
+},{
+	"key": "zam",
+	"value": "Zambia"
+},{
+	"key": "zim",
+	"value": "Zimbabwe"
+}
+]
+}

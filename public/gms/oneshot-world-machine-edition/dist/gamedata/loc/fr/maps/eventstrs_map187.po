@@ -1,0 +1,24 @@
+msgid "Nope... not looking forward to that water shortage."
+msgstr "Non... cette pénurie d'eau n'est pas réjouissante."
+
+msgid "Oh, hey there."
+msgstr "Oh, bonjour."
+
+msgid "@niko_pancakes You have a lot of fish!"
+msgstr "@niko_pancakes Vous avez beaucoup de poissons !"
+
+msgid "Yeah... I'm worried about them."
+msgstr "Oui... je m'inquiète pour eux."
+
+msgid "@niko Oh?"
+msgstr "@niko Oh ?"
+
+msgid "I heard something about how the square particle stuff just took out a major pipeline."
+msgstr "J'ai entendu dire que ces particules carrées ont détruit une grosse canalisation."
+
+msgid "I guess I should take advantage of the running water while I still can..."
+msgstr "Je pense que je devrais profiter de l'eau courante tant qu'il y en a encore..."
+
+msgid "@niko_speak It's a big fishtank!"
+msgstr "@niko_speak C'est un énorme aquarium !"
+

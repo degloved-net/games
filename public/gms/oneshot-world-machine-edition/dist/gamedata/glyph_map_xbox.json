@@ -1,0 +1,13 @@
+{
+    "Substitutions": {
+        "@OK": "pad_a",
+        "@CANCEL": "pad_b",
+        "@CLICK": "pad_rtrigger",
+        "@MOVEMOUSE": "pad_rstick",
+        "@MOVE": "pad_lstick",
+        "@RUN": "pad_x",
+        "@INVENTORY": "pad_y",
+        "@MAINMENU": "pad_burger",
+        "@MASHTEXT": "pad_ltrigger",
+    }
+}

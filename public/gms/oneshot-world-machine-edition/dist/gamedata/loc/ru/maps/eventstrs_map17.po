@@ -1,0 +1,24 @@
+msgid "@silver [Wait!]"
+msgstr "@silver [Подожди!]"
+
+msgid "@silver [I saw you heading towards this direction.]"
+msgstr "@silver [Я видела, как ты шёл в этом направлении.]"
+
+msgid "@silver [The mines have been abandoned for a long time, I cannot guarantee that it's safe.]"
+msgstr "@silver [Эти шахты давно заброшены. Я не могу гарантировать, что там безопасно.]"
+
+msgid "@silver [If you must enter it, it is my duty to accompany you at least once.]"
+msgstr "@silver [Если ты должен в них зайти, моя обязанность — проводить тебя туда хотя бы раз.]"
+
+msgid "@niko Oh, thanks!"
+msgstr "@niko О, спасибо!"
+
+msgid "@niko The entrance is roped off...\\>\\n\\@niko_speak And there's a sign here:"
+msgstr "@niko Вход преграждает верёвка...\\>\\n\\@niko_speak И здесь знак:"
+
+msgid "$WARNING:\\nAuthorized personnel only!\\n\\nVisitors must see the Head Engineer for permission to enter the mines."
+msgstr "$ПРЕДУПРЕЖДЕНИЕ:\\nДоступ разрешён только уполномоченным лицам!\\n\\nЧтобы получить доступ в шахты, обратитесь к главному инженеру."
+
+msgid "@niko I guess we should find the Head Engineer..."
+msgstr "@niko Думаю, мы должны найти главного инженера..."
+

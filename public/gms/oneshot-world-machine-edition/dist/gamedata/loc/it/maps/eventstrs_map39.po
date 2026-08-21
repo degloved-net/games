@@ -1,0 +1,144 @@
+msgid "@niko2 It's the sun."
+msgstr "@niko2 È il sole."
+
+msgid "@niko We're leaving it with her for now."
+msgstr "@niko Per adesso, meglio lasciarlo a lei."
+
+msgid "@alula_pout ...ah."
+msgstr "@alula_pout ...Ah."
+
+msgid "@niko_surprised T-\\.The light's gone out...!"
+msgstr "@niko_surprised L-\\.la luce si è spenta...!"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@niko_distressed \\p..."
+msgstr "@niko_distressed \\p..."
+
+msgid "@niko_distressed2 Do you know... what happened?"
+msgstr "@niko_distressed2 Sai dirmi... cos'è successo?"
+
+msgid "[\"No\"]"
+msgstr "[\"No\"]"
+
+msgid "@niko_speak You...\\.\\. \\@niko really?"
+msgstr "@niko_speak Ma... \\.\\.\\@niko Davvero?"
+
+msgid "@niko_speak but...\\. but...\\.\\."
+msgstr "@niko_speak Ma...\\. Ma...\\.\\."
+
+msgid "@niko_distressed Oh....."
+msgstr "@niko_distressed Oh......"
+
+msgid "@niko_distressed What am I gonna do?"
+msgstr "@niko_distressed Che faccio ora?"
+
+msgid "@niko_speak It...\\. lit up again?"
+msgstr "@niko_speak Si è... \\.riacceso?"
+
+msgid "@niko_eyeclosed ...phew."
+msgstr "@niko_eyeclosed ...Fiuu."
+
+msgid "@niko What should I do, \\p?"
+msgstr "@niko Cosa dovrei fare, \\p?"
+
+msgid "[\"Give her the sun\", \"Don't\"]"
+msgstr "[\"Dalle il sole.\",\"Non farlo.\"]"
+
+msgid "@niko Here!"
+msgstr "@niko Ecco qui!"
+
+msgid "@maize .\\..\\..\\..\\..\\.."
+msgstr "@maize .\\..\\..\\..\\..\\.."
+
+msgid "@maize .......\\.warm..."
+msgstr "@maize ......\\.caldo..."
+
+msgid "@maize_smile1 I have... almost forgotten..."
+msgstr "@maize_smile1 Avevo... quasi dimenticato..."
+
+msgid "@maize_smile1 It's so warm..."
+msgstr "@maize_smile1 Che tepore..."
+
+msgid "@niko That's... good, right?"
+msgstr "@niko Ma... è una cosa positiva, no?"
+
+msgid "@maize_smile1 Th...the vines should be gone now..."
+msgstr "@maize_smile1 I... I rovi dovrebbero essersene già andati..."
+
+msgid "@maize_smile2 I'm not afraid anymore."
+msgstr "@maize_smile2 Non ho più paura."
+
+msgid "@maize_smile2 Thank you..."
+msgstr "@maize_smile2 Grazie..."
+
+msgid "@alula_oh ...\\.\\.\\@alula_pout ..."
+msgstr "@alula_oh ...\\.\\.\\@alula_pout ..."
+
+msgid "@niko_speak ...Alula? You okay?"
+msgstr "@niko_speak ...Alula? Tutto ok?"
+
+msgid "@niko_eyeclosed ...she just looked away."
+msgstr "@niko_eyeclosed ...Ha appena distolto lo sguardo."
+
+msgid "@niko_distressed2 She's gone..."
+msgstr "@niko_distressed2 La signorina pianta... se n'è andata..."
+
+msgid "@niko Oh... \\>\\nThere's something on the ground here."
+msgstr "@niko Oh... \\>\\nC'è qualcosa per terra."
+
+msgid "@niko_speak It looks like... a kernel of corn?"
+msgstr "@niko_speak Sembra... un chicco di mais?"
+
+msgid "@niko She must've left it behind."
+msgstr "@niko Deve averlo lasciato lei."
+
+msgid "@maize ...S...\\.\\. savior...?"
+msgstr "@maize ...S...\\.\\. salvatore...?"
+
+msgid "@maize I can't believe it...\\.\\.\\nYou're real..."
+msgstr "@maize Non posso crederci...\\.\\.\\nSei davvero qui..."
+
+msgid "@niko_shock ....miss?"
+msgstr "@niko_shock ...Signorina?"
+
+msgid "@niko_speak Are you... alright?"
+msgstr "@niko_speak ...Tutto ok?"
+
+msgid "@maize No...."
+msgstr "@maize No..."
+
+msgid "@niko_speak W-we should get you to the village! \\.\\.\\nMaybe they could-"
+msgstr "@niko_speak D-dovremmo portarti subito al villaggio!\\.\\.\\nForse potrebbero-"
+
+msgid "@maize It's.... okay...\\.\\nIt's okay.....\\.\\n...too late for me."
+msgstr "@maize Non... preoccuparti...\\. \\nVa bene così......\\.\\n...ormai è troppo tardi per me."
+
+msgid "@niko_speak But..."
+msgstr "@niko_speak Ma..."
+
+msgid "@maize ...the sun...."
+msgstr "@maize ...il sole..."
+
+msgid "@maize I haven't seen it... I haven't felt it in so long..."
+msgstr "@maize Non lo vedo... non lo sento sulla pelle da così tanto tempo..."
+
+msgid "@maize ...\\.\\.Savior, if it's not too much trouble...\\.\\.\\nCan you lend me the sun for a while?"
+msgstr "@maize ...\\.\\.Salvatore, se non è chiedere troppo...\\.\\.\\npotresti prestarmi il sole per un po'?"
+
+msgid "@niko I...\\.\\. \\@niko_speak Will it make you better?"
+msgstr "@niko Ecco... \\.\\.\\@niko_speak Questo ti farà stare meglio?"
+
+msgid "@maize .\\..\\..\\.No.\\. It will not save me."
+msgstr "@maize .\\..\\..\\.No.\\. Non mi salverà."
+
+msgid "@maize I just want to experience the sun one more time before I... \\.\\.Well..."
+msgstr "@maize Voglio solo sentirlo ancora una volta prima che di... \\.\\.di..."
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "@maize Would it...\\.\\.\\nWould it be too selfish of me to ask?"
+msgstr "@maize Sarebbe...\\.\\.\\ntroppo egoista da parte mia chiedertelo?"
+

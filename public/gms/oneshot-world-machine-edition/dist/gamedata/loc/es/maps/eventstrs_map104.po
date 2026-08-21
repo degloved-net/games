@@ -1,0 +1,18 @@
+msgid "What am I gonna do!!!"
+msgstr "¡¿Qué voy a hacer?!"
+
+msgid "My robot!!!"
+msgstr "¡¡Mi robot!!"
+
+msgid "@niko_speak What happened?"
+msgstr "@niko_speak ¿Qué ha pasado?"
+
+msgid "I don't know! I left for a minute and..."
+msgstr "¡No sé! Me he ido un momento y..."
+
+msgid "[P\\.\\.%LE\\.ASE \\.\\. D;O NOT \\.\\.\\.AP\\.PR##OACH]"
+msgstr "[PRO\\.\\.%HI\\.BIDO \\.\\. A;CER \\.\\.\\.CA\\.R##SE]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+

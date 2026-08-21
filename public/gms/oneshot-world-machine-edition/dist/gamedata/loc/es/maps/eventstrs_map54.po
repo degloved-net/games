@@ -1,0 +1,45 @@
+msgid "@niko_speak Time to put the seed in the planter."
+msgstr "@niko_speak Es hora de poner la semilla en la maceta."
+
+msgid "@niko ...\\>\\nThere's no dirt in this pot.\\>\\nWill the seed really grow like this?"
+msgstr "@niko ...\\>\\nNo hay tierra en este macetero.\\>\\n¿De verdad que la semilla va a crecer así?"
+
+msgid "@niko \\p, I need to put in the seed first before I put in the dirt."
+msgstr "@niko \\p, tengo que poner la semilla antes de poner la tierra."
+
+msgid "@niko This is where I'm supposed to put the seed... \\>\\nBut there's no dirt in this pot."
+msgstr "@niko Se supone que es aquí donde debo poner la semilla... \\>\\nPero no hay tierra en este macetero."
+
+msgid "@niko_speak I hope this helps you grow, little seed."
+msgstr "@niko_speak Espero que te ayude a crecer, semillita."
+
+msgid "@niko The seed's in the soil, but it looks a bit dry."
+msgstr "@niko La semilla está en la tierra, pero parece un poco seca."
+
+msgid "@niko I can't just pour the water on the seed.\\>\\nIt needs dirt before we can water it."
+msgstr "@niko No puedo echarle agua así sin más.\\>\\nNecesita tierra antes de que podamos regarla."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko Water should help this seed grow."
+msgstr "@niko_speak ¡Bien pensado, \\p!\\>\\n\\@niko El agua debería ayudar a que esta semilla crezca."
+
+msgid "@niko Hmm... the dirt's nice and moist now, but..."
+msgstr "@niko Mmm... la tierra tiene ahora un aspecto agradable y húmedo, pero..."
+
+msgid "@niko_speak What if it dries out?\\.\\. \\@niko_eyeclosed There's only so much water from this little tube..."
+msgstr "@niko_speak ¿Qué pasa si se seca? \\.\\. \\@niko_eyeclosed No hay demasiada agua en este pequeño tubo..."
+
+msgid "@niko ...I'll hold on to the tube for now, just in case..."
+msgstr "@niko Por ahora me quedaré con el tubo, por si acaso..."
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko This water should really help this seed grow."
+msgstr "@niko_speak ¡Bien pensado, \\p!\\>\\n\\@niko Este agua debería ayudar a que esta semilla crezca."
+
+msgid "@niko_speak It sprouted a tiny leaf!"
+msgstr "@niko_speak ¡Ha salido una hojita!"
+
+msgid "@niko We've given it dirt and water.\\>\\nBut will that be enough?"
+msgstr "@niko Le hemos dado tierra y agua.\\>\\nPero, ¿será suficiente?"
+
+msgid "@niko_speak Good luck, little plant!"
+msgstr "@niko_speak ¡Buena suerte, plantita!"
+

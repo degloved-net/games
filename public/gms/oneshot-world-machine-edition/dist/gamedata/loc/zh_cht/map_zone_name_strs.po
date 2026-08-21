@@ -1,0 +1,12 @@
+msgid "Blue=The Barrens"
+msgstr "藍荒地"
+
+msgid "Green=The Glen"
+msgstr "綠沼澤"
+
+msgid "Red=The Refuge"
+msgstr "紅城"
+
+msgid "RedGround=The Refuge (Surface)"
+msgstr "紅城（外層）"
+

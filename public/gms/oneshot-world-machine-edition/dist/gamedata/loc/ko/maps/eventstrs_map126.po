@@ -1,0 +1,39 @@
+msgid "@niko The pathway is blocked...."
+msgstr "@niko 통로가 막혔어요..."
+
+msgid "@niko_speak ...by blocks!"
+msgstr "@niko_speak ...사각형으로요!"
+
+msgid "@alula_speak Haha!"
+msgstr "@alula_speak 하하!"
+
+msgid "@niko Oh, shoot!"
+msgstr "@niko 아, 이런!"
+
+msgid "@niko_eyeclosed Looks like we can't get past that block..."
+msgstr "@niko_eyeclosed 아무래도 이 곳은 지나갈 수 없겠네..."
+
+msgid "@alula_pout ..."
+msgstr "@alula_pout ..."
+
+msgid "@alula_speak Seriously?"
+msgstr "@alula_speak 정말?"
+
+msgid "@alula I'll be up ahead!"
+msgstr "@alula 나 먼저 갈게!"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_eyeclosed ...I have literally never thought of that."
+msgstr "@niko_eyeclosed ...저런 건 한 번도 생각해 본 적이 없어."
+
+msgid "@calamus_heh You kinda get used to all the debris after living here for a while."
+msgstr "@calamus_heh 여기 살다 보면 저런 파편에는 금방 익숙해지지."
+
+msgid "@calamus_smile Come on, our house isn't far from here."
+msgstr "@calamus_smile 자, 집까지 이제 얼마 안 남았어."
+
+msgid "@calamus Oh, Niko, did you come by for a visit?\\>\\n\\@calamus_smile Our house is up here, please follow me."
+msgstr "@calamus 오, 니코, 우릴 찾아온 거야?\\>\\n\\@calamus_smile 우리 집은 이 근처야. 따라 와."
+

@@ -1,0 +1,378 @@
+msgid "@niko Something is poking out from this shelf."
+msgstr "@niko 선반에서 뭔가 삐죽 튀어나와 있네요."
+
+msgid "@niko_speak It's a tube of glitter glue."
+msgstr "@niko_speak 반짝이 접착제가 든 통이에요."
+
+msgid "@kip You can have that if you want!"
+msgstr "@kip 원하면 가져가도 좋아!"
+
+msgid "@kip_wink Never know when you need to glitter things up, right?"
+msgstr "@kip_wink 반짝이가 언제 필요할지 알 수 없잖아?"
+
+msgid "@niko Oh! Are you sure?"
+msgstr "@niko 앗! 그래도 되나요?"
+
+msgid "@kip_wink Yeah! I have tons of those!"
+msgstr "@kip_wink 응! 그런 거라면 한 트럭 정도 가지고 있으니까!"
+
+msgid "@niko Thank you!"
+msgstr "@niko 정말 고마워요!"
+
+msgid "@kip You should hold on to that amber, okay?"
+msgstr "@kip 그 호박석은 소중히 간직하렴, 알겠지?"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 그럴게요!"
+
+msgid "@kip_huh ....oh?"
+msgstr "@kip_huh ...응?"
+
+msgid "@kip_pout T...\\. that's....."
+msgstr "@kip_pout 그...\\.그건..."
+
+msgid "@kip2 How...\\. did you get this?"
+msgstr "@kip2 어디서...\\.이것을 얻었니?"
+
+msgid "@niko This robot lady in the Barrens gave it to me!"
+msgstr "@niko 불모지에 있던 로봇 아가씨가 주셨어요!"
+
+msgid "@niko_speak She looked... kinda like you?"
+msgstr "@niko_speak 왠지... 당신을 닮은 로봇이었죠."
+
+msgid "@kip_sigh I see..."
+msgstr "@kip_sigh 그렇구나..."
+
+msgid "@kip_sad ..."
+msgstr "@kip_sad ..."
+
+msgid "@kip_sigh Sigh. \\>\\nIt was supposed to be such a breakthrough, y'know?"
+msgstr "@kip_sigh 하아. \\>\\n이건 정말 어마어마한 혁신이어야 했단다."
+
+msgid "@kip_pout I even based her on myself so I'll KNOW it works!"
+msgstr "@kip_pout 심지어 나를 본떠서 만들었지. 그래야 제대로 작동하는지 알기 쉬우니까!"
+
+msgid "@niko_speak Break... through?"
+msgstr "@niko_speak 혁... 신이요?"
+
+msgid "@kip2 We wanted to build a robot that acts like a person, thinks like a person..."
+msgstr "@kip2 우리는 사람처럼 행동하고 생각하는 로봇을 만들려고 했어..."
+
+msgid "@kip_pout ...a robot that isn't bound by its own code."
+msgstr "@kip_pout ...프로그램에도 코드에도 얽매이지 않는 로봇 말이야."
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@kip_sigh But turns out, you can't really BUILD something like that."
+msgstr "@kip_sigh 하지만 그런 로봇은 만들 수 없었지."
+
+msgid "@kip_pout Too many contradictions in the code... made her unstable."
+msgstr "@kip_pout 코드에 모순이 너무 많아서... 불안정해졌어."
+
+msgid "@kip_sad ...that was the only time I've ever seen a robot go rogue."
+msgstr "@kip_sad ...로봇이 제멋대로 행동하는 건 처음 봤어."
+
+msgid "@kip_sigh Scariest day of my life, tell you what!"
+msgstr "@kip_sigh 정말 무시무시한 날이었지!"
+
+msgid "@niko_speak ...rogue?"
+msgstr "@niko_speak ...제멋대로 행동해요?"
+
+msgid "@niko But...\\| \\@niko2 she seemed so nice when we talked!"
+msgstr "@niko 하지만...\\|\\@niko2 이야기할 땐 아주 좋은 사람 같았어요!"
+
+msgid "@niko_eyeclosed ...even if she talked a little weird..."
+msgstr "@niko_eyeclosed ...말투가 좀 이상하다고 느끼긴 했지만..."
+
+msgid "@kip2 Ah, she's been repaired for some time now."
+msgstr "@kip2 그래, 한 번 수리를 받은 적이 있어."
+
+msgid "@kip_pout My friend was able to stabilize her volatile state through his own means."
+msgstr "@kip_pout 내 친구가 자기만의 비법으로 불안정한 상태를 안정시켰지."
+
+msgid "@kip2 A real miracle worker, that..."
+msgstr "@kip2 정말 기적 같았어..."
+
+msgid "@kip_pout After he was through, she ended up turning out just like how I wanted."
+msgstr "@kip_pout 수리가 끝나자, 로봇은 딱 내가 원하던 모습이 되었지."
+
+msgid "@kip_sad ...but the damage was already done."
+msgstr "@kip_sad ...하지만 이미 일어난 손상은 돌이킬 수 없었어."
+
+msgid "@kip_sigh ...\\|I gave up on her back then... we all did."
+msgstr "@kip_sigh ...\\|난 그때... 그 애를 포기했어. 우리 모두가 포기했지."
+
+msgid "@kip_pout I'm sure she realized that...\\n\\>\\@kip_sigh and now she won't ever come back."
+msgstr "@kip_pout 그 애도 그걸 알았을 거야...\\n\\>\\@kip_sigh 이제 다시는 돌아오지 않을 거야."
+
+msgid "@kip_sad She won't even answer my letters..."
+msgstr "@kip_sad 내가 보낸 편지에도 답하지 않더구나..."
+
+msgid "@niko_eyeclosed I'm sorry..."
+msgstr "@niko_eyeclosed 안타깝네요..."
+
+msgid "@kip_pout Ah, sorry for rambling."
+msgstr "@kip_pout 미안. 신세 한탄을 했구나."
+
+msgid "@kip Oh! I see you put your own photo on there!\\>\\n\\@kip_wink Does that mean your name is Kip now?"
+msgstr "@kip 아, 거기 네 사진을 붙였구나!\\>\\n\\@kip_wink 그 말은, 지금 네 이름이 킵이라는 건가?"
+
+msgid "@kip ...that was a joke."
+msgstr "@kip ...그냥 농담이었어."
+
+msgid "@kip Is there anything else you need?"
+msgstr "@kip 더 필요한 거 있니?"
+
+msgid "@niko Nope!"
+msgstr "@niko 아뇨!"
+
+msgid "@kip_wink Well, feel free to stick around if you want!"
+msgstr "@kip_wink 그래. 있고 싶은 만큼 더 있다 가렴!"
+
+msgid "@kip Oh hey, you're back!"
+msgstr "@kip 아, 돌아왔구나!"
+
+msgid "@kip Can I help you with anything else?"
+msgstr "@kip 내가 도와줄 거라도 있니?"
+
+msgid "@niko Yeah..."
+msgstr "@niko 맞아..."
+
+msgid "@niko Do you know how I can get a library card?"
+msgstr "@niko 도서관 출입증을 어디서 구할 수 있는지 아시나요?"
+
+msgid "@kip_huh A library card?"
+msgstr "@kip_huh 도서관 출입증?"
+
+msgid "@kip You'll have to ask the library for that!"
+msgstr "@kip 그거라면 도서관에 가서 물어봐야지!"
+
+msgid "@niko_eyeclosed I tried..."
+msgstr "@niko_eyeclosed 해 봤어요..."
+
+msgid "@niko I need it to see the head librarian, but I can't get to see her without a library card."
+msgstr "@niko 수석 사서라는 사람을 만나야 하는데 출입증이 없으면 못 만난대요."
+
+msgid "@niko_eyeclosed ...but at the same time, she's the one who gives out library cards..."
+msgstr "@niko_eyeclosed ...게다가 바로 그 사람이 도서관 출입증을 발급하는 사람이래요..."
+
+msgid "@kip_huh Really..."
+msgstr "@kip_huh 그랬군..."
+
+msgid "@kip_heh Heh... that sounds like George alright!"
+msgstr "@kip_heh 헤에... 조지답네!"
+
+msgid "@kip_huh I'm sorry you caught her on a bad day!"
+msgstr "@kip_huh 하필이면 좋지 않은 때에 왔구나!"
+
+msgid "@niko Aw..."
+msgstr "@niko 으..."
+
+msgid "@kip2 ...wait, I know!"
+msgstr "@kip2 ...잠깐만, 알겠다!"
+
+msgid "@kip_wink I can just give you my library card!"
+msgstr "@kip_wink 내 출입증을 너에게 주면 되겠네!"
+
+msgid "@kip It won't be hard for me to get another one."
+msgstr "@kip 나는 어렵지 않게 새로 하나 발급받을 수 있을 거야."
+
+msgid "@niko_speak Wow, thanks!"
+msgstr "@niko_speak 와, 고마워요!"
+
+msgid "@kip There! You're all set, I think..."
+msgstr "@kip 자! 이제 준비가 끝났겠지, 아마..."
+
+msgid "@kip_huh Wait."
+msgstr "@kip_huh 앗."
+
+msgid "@kip_huh Shoot!"
+msgstr "@kip_huh 젠장!"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition"
+msgstr "@kip_heh 잊고 있었어... 도서관 안내 데스크의 로봇에게는 얼굴 인식 기능이 있어."
+
+msgid "@kip_heh And my photo on the card won't match you..."
+msgstr "@kip_heh 지금 내 출입증 사진은 너와 일치하지 않지..."
+
+msgid "@kip_wink ...unless I tape a photo of my face to your face!"
+msgstr "@kip_wink ...내 사진을 네 얼굴 위에 테이프로 붙이면 어떻게든 될지도 모르겠다!"
+
+msgid "@niko Um-"
+msgstr "@niko 으음..."
+
+msgid "@kip That was a joke."
+msgstr "@kip 농담이야."
+
+msgid "@kip2 Who knows, maybe you'll get lucky and the robot will take it anyway!"
+msgstr "@kip2 혹시 알아? 운이 좋아서 로봇이 출입증을 그냥 받아 줄지!"
+
+msgid "@kip Worse comes to worse, you can always find somewhere to take a photo."
+msgstr "@kip 최악의 경우에는 사진을 찍을 만한 곳을 찾으면 돼."
+
+msgid "@kip_wink Don't overwork yourself, okay?"
+msgstr "@kip_wink 너무 무리하지 마. 알겠지?"
+
+msgid "@kip Your journey is just as important as your end goal."
+msgstr "@kip 과정도 목표만큼 중요하니까."
+
+msgid "@kip_wink Cliche, but true!"
+msgstr "@kip_wink 진부하지만 진실이지!"
+
+msgid "@kip So..."
+msgstr "@kip 그래서..."
+
+msgid "@kip_wink You've been walking all over the world, huh?"
+msgstr "@kip_wink 넌 세계 곳곳을 걸어 다녔겠지?"
+
+msgid "@niko M-hm!"
+msgstr "@niko 그렇군요!"
+
+msgid "@kip Geez... I can't imagine..."
+msgstr "@kip 이런... 상상도 하기 힘든걸."
+
+msgid "@kip_huh Do you get really tired sometimes?"
+msgstr "@kip_huh 때로는 피곤하지 않아?"
+
+msgid "@niko_eyeclosed Kinda..."
+msgstr "@niko_eyeclosed 조금은요..."
+
+msgid "@niko_speak But I don't mind!\\n\\@niko_pancakes It's actually really pretty!"
+msgstr "@niko_speak 하지만 괜찮아요!\\n\\@niko_pancakes 세상이 참 예쁘거든요!"
+
+msgid "@kip_wink Haha, I'm glad you think so!"
+msgstr "@kip_wink 하하, 그렇게 생각하다니 다행이네!"
+
+msgid "@kip Even with the sun gone, the world is still a beautiful place."
+msgstr "@kip 태양이 사라지긴 했지만 여기는 여전히 아름다운 곳이야."
+
+msgid "@niko_speak What did the world look like with the sun?"
+msgstr "@niko_speak 태양이 있던 세상은 어떤 느낌이었나요?"
+
+msgid "@kip_huh Oh, \\>\\@kip2 uh..."
+msgstr "@kip_huh 음, \\>\\@kip2 그게..."
+
+msgid "@kip_sigh ...y'know, it's kind of embarassing to admit how little of it I have actually seen."
+msgstr "@kip_sigh ...사실 부끄럽지만 태양을 실제로 본 적은 거의 없었어."
+
+msgid "@niko_speak ...oh?"
+msgstr "@niko_speak ...아?"
+
+msgid "@kip_heh Ironic, isn't it?"
+msgstr "@kip_heh 얄궂지 않니?"
+
+msgid "@kip2 Even though I'm the world's leading researcher...\\>\\n\\@kip_sigh ...All I do is stay here and build robots."
+msgstr "@kip2 아무리 세계 최고의 연구원이라지만...\\>\\n\\@kip_sigh ...내가 하는 일이라곤 여기서 로봇을 만드는 것뿐이야."
+
+msgid "@kip_sigh They're the ones exploring the world, I just write down the data, crunch numbers, generate graphs..."
+msgstr "@kip_sigh 그 로봇들이 세계를 탐험하고, 난 그 데이터를 기록하고 계산해서 그래프를 만들뿐이지..."
+
+msgid "@niko Right... \\.\\.\\@niko_speak I've been seeing robots everywhere!"
+msgstr "@niko 그렇군요... \\.\\.\\@niko_speak 저도 곳곳에서 로봇을 봤어요!"
+
+msgid "@niko I just thought it was cuz the world was too dangerous for most people to explore..."
+msgstr "@niko 사람들이 탐험을 하지 않는 건, 세상이 너무 위험해서 그런 거라 생각했는데..."
+
+msgid "@kip2 That's not far from the truth, actually."
+msgstr "@kip2 사실 그것도 틀린 말이 아니야."
+
+msgid "@kip But I know someone who still does his research firsthand!"
+msgstr "@kip 하지만 난 지금도 직접 연구를 하는 사람을 알고 있지!"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 아?"
+
+msgid "@kip2 ...even after segments of land started collapsing and access to the more remote areas became difficult."
+msgstr "@kip2 ...대지 일부가 붕괴하기 시작하면서 먼 곳으로 가는 게 더욱 어려워졌어."
+
+msgid "@kip_huh I mean, he outright built a machine that could fly! \\>\\n\\@kip_huh Something we all thought was not physically possible!"
+msgstr "@kip_huh 그런데 그 사람은 하늘을 나는 기계를 만든 거야! \\>\\n\\@Kip_huh 우린 다들 그게 물리적으로 불가능하다고 생각했거든!"
+
+msgid "@niko_speak Oh! That's..."
+msgstr "@niko_speak 엇! 그건..."
+
+msgid "@kip I asked him about working with us, so he provides us with all sorts of insights from time to time."
+msgstr "@kip 난 그 사람에게 우리와 함께 일해 달라고 부탁했어. 그래서 가끔 우리에게 온갖 이야기를 해 주지."
+
+msgid "@kip_heh ...but for some reason, he REALLY didn't want to build robots."
+msgstr "@kip_heh ...하지만 그는 왠지 로봇 만드는 걸 정말 싫어했어."
+
+msgid "@kip_sigh Or, more specifically, coding them."
+msgstr "@kip_sigh 좀 더 정확하게 표현하면 로봇의 코드를 작성하는 걸 싫어했지."
+
+msgid "@niko_speak How come?"
+msgstr "@niko_speak 어째서죠?"
+
+msgid "@kip2 Beats me!\\> \\@kip_huh I mean, he's happy to work with robots!"
+msgstr "@kip2 나도 모르겠어!\\> \\@kip_huh 그는 로봇들과 함께 일하는 건 즐거워했거든!"
+
+msgid "@kip In fact, he even- \\.\\@kip2 ..."
+msgstr "@kip 사실 그는 심지어... \\.\\@kip2 ..."
+
+msgid "@kip_heh ...ah. It's been a while since we last talked.\\@kip \\>\\nHe must be busy with his books now, yeah."
+msgstr "@kip_heh ...하아, 마지막으로 이야기한 것도 이미 오래전이야.\\@kip \\>\\n아마 지금은 책을 쓰느라 바쁘겠지."
+
+msgid "@niko ...Hello?"
+msgstr "@niko ...저기요?"
+
+msgid "@kip_huh Oh, shoot!"
+msgstr "@kip_huh 아, 이런!"
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the darned lock!"
+msgstr "@kip_huh 이렇게 빨리 올 줄 알았으면 저 잠금장치를 끌 걸 그랬네!"
+
+msgid "@kip Hello there!"
+msgstr "@kip 안녕!"
+
+msgid "@kip_heh Sorry about the weird... security measures."
+msgstr "@kip_heh 이상한... 보안 조치에 대해선 사과할게."
+
+msgid "@niko It's okay!"
+msgstr "@niko 괜찮아요!"
+
+msgid "@niko \\p helped me solve it!"
+msgstr "@niko \\p 님이 도와줘서 금방 풀었거든요!"
+
+msgid "@kip Did they now!"
+msgstr "@kip 그랬군!"
+
+msgid "@kip So... can I help you with anything?"
+msgstr "@kip 그래... 뭘 도와주면 되니?"
+
+msgid "@kip_wink Heh... that sounds like George alright!"
+msgstr "@kip_wink 헤에... 조지답네!"
+
+msgid "@kip ...wait, I know!"
+msgstr "@kip ...잠깐만, 알겠다!"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition."
+msgstr "@kip_heh 잊고 있었어... 도서관 안내 데스크의 로봇에게는 얼굴 인식 기능이 있어."
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the system!"
+msgstr "@kip_huh 네가 이렇게 빨리 올 줄 알았더라면 시스템을 꺼 버렸을 텐데!"
+
+msgid "@niko Yeah, where's the library?"
+msgstr "@niko 저기, 도서관은 어디죠?"
+
+msgid "@kip_huh The library? That's all the way on the other side of town!"
+msgstr "@kip_huh 도서관 말야? 그건 여기서 완전히 반대쪽에 있어!"
+
+msgid "@kip2 The fastest route is where you take the shortcut through the backalley, but..."
+msgstr "@kip2 가장 빠른 길은 뒷골목을 지나서 가는 거지만..."
+
+msgid "@niko I think that's how we got here, actually!"
+msgstr "@niko 사실 올 때도 그 길로 왔어요!"
+
+msgid "@kip Oh good!"
+msgstr "@kip 오, 그럼 됐어!"
+
+msgid "@kip2 You should head back to that direction and walk to the east a bit."
+msgstr "@kip2 왔던 길로 되돌아가. 그다음 거기서 동쪽으로 조금만 걸어가면 돼."
+
+msgid "@kip You'll find it eventually!"
+msgstr "@kip 그럼 확실하게 찾을 수 있어!"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 정말 고마워요!"
+

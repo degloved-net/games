@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [Здесь \\c[7]пульт от телевизора\\c[0].]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [Нико его поднимает.]"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak П-привет?"
+
+msgid "@niko ....."
+msgstr "@niko ....."
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [Пыльные книги.]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [Здесь слишком темно, чтобы читать.]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko Не включается."
+
+msgid "Input Password:"
+msgstr "Введите пароль:"
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]Доступ разрешён."
+
+msgid "@desktop ..."
+msgstr "@desktop ..."
+
+msgid "@desktop You found me."
+msgstr "@desktop Ты меня нашёл."
+
+msgid "@desktop ....Why?"
+msgstr "@desktop Зачем?.."
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop Уже слишком поздно.\\nНе так уж много осталось\\nот этого мира."
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop Как только выйдешь наружу,\\nсразу поймёшь."
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop Это место не стоило того,\\nчтобы его спасать."
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop Всё ещё хочешь попробовать?"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop Тогда запомни это:"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop Твои действия здесь\\nвлияют на Нико."
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop Твоя миссия —\\nпомочь Нико уйти."
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop И самое главное..."
+
+msgid "You only have one shot, \\p."
+msgstr "У тебя только одна попытка, \\p."
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [Нико слышит звук открывающейся двери.]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]Доступ запрещён."
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [Нико только что проснулся здесь.]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [Дверь закрыта.]"
+

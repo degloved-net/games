@@ -1,0 +1,84 @@
+msgid "@alula_gasp You saved me!"
+msgstr "@alula_gasp 助けてくれたの！"
+
+msgid "@alula Thank you!"
+msgstr "@alula ありがと！"
+
+msgid "@alula I was trapped in there for so long..."
+msgstr "@alula ずっとあそこに閉じ込められてて…"
+
+msgid "@niko So are you Alula?"
+msgstr "@niko 君がアルーラ？"
+
+msgid "@alula_gasp ..."
+msgstr "@alula_gasp …"
+
+msgid "@alula_gasp You... knew my name?"
+msgstr "@alula_gasp あなた…あたしの名前を知ってるの？"
+
+msgid "@alula_speak Wow! The messiah really does know everything!"
+msgstr "@alula_speak すっごーい！救世主は\nほんとに何でも知ってるのね！"
+
+msgid "@niko_eyeclosed Actually...\\.\\. \\@niko_speak I just met your brother earlier."
+msgstr "@niko_eyeclosed 実は…\\.\\. \\@niko_speak さっき、君のお兄さんに会ったんだ。"
+
+msgid "@alula_oh Oh, right!"
+msgstr "@alula_oh あ、そっか！"
+
+msgid "@alula_pout Gosh... Calamus must be so worried..."
+msgstr "@alula_pout あわわ…カラムス、きっとすごく心配してる…"
+
+msgid "@alula Can you bring me to him?"
+msgstr "@alula お兄ちゃんのところへ連れてってくれない？"
+
+msgid "@niko Wait a minute...\\>\\n\\@niko_speak How did you know that I was the,\\. um,\\. messiah?\\>\\n\\@niko_eyeclosed I don't have the sun with me..."
+msgstr "@niko ちょっと待って…\\>\\n\\@niko_speak どうしてミーが\\.その、\\.救世主だって分かったの？\\>\\n\\@niko_eyeclosed 太陽を持ってないのに…"
+
+msgid "@alula Your eyes!"
+msgstr "@alula あなたの目！"
+
+msgid "@niko Huh?"
+msgstr "@niko え？"
+
+msgid "@alula_speak They reminded me of the sun!"
+msgstr "@alula_speak 太陽みたいだなーって！"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak あっ！"
+
+msgid "@alula That's why you're our messiah, right?"
+msgstr "@alula だから救世主なんでしょ？"
+
+msgid "@niko Well...\\. I... \\>\\n\\@niko_speak A lot of people back in my home world have eyes like mine..."
+msgstr "@niko その…\\. えっと… \\>\\n\\@niko_speak ミーの世界では、こういう目をしてる\n人はたくさんいるよ…"
+
+msgid "@alula_pout Home... world?"
+msgstr "@alula_pout あなたの…世界？"
+
+msgid "@niko_speak Yeah! \\>\\@niko I'm actually from another world, you see!\\>\\nIt's a place where the sun is in the sky and not in a Tower."
+msgstr "@niko_speak うん！ \\>\\@niko 実は、違う世界から来たんだ！\\>\\nそこだと太陽は塔じゃなくて、\n空に浮かんでる。"
+
+msgid "@alula Do you like this world too?"
+msgstr "@alula この世界のことも、好き？"
+
+msgid "@niko I...\\> \\@niko_speak Yeah."
+msgstr "@niko えっと… \\>\\@niko_speak うん。"
+
+msgid "@alula_speak Yay!\\>\\n\\@alula_pout Calamus keeps saying how this world is getting more dangerous by the minute."
+msgstr "@alula_speak やったあ！\\>\\n\\@alula_pout カラムスはいっつも、この世界はだんだん\n危険な場所になってきてるって言うの。"
+
+msgid "@alula_speak But that's ok! You're here now!\\>\\n\\@alula You can make everything better!"
+msgstr "@alula_speak でも大丈夫ね！あなたが来たもの！\\>\\n\\@alula ぜんぶ解決してくれる！"
+
+msgid "@niko Yeah..."
+msgstr "@niko うん…"
+
+msgid "@niko_speak W-What in the world is this thing in the doorway?"
+msgstr "@niko_speak こ…この入り口にあるのは一体何なの？"
+
+msgid "@niko It reminds me of what I saw a while ago, at the cliffs...\\nFor some reason, I'm afraid to touch it."
+msgstr "@niko ちょっと前にも、崖に同じものがあったよね。\\nなんとなく、触るのが怖い。"
+
+msgid "@alula_oh Hey! Where are you going?"
+msgstr "@alula_oh ねえ！どこに行くの？"
+

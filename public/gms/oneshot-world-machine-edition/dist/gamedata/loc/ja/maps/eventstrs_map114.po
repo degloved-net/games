@@ -1,0 +1,27 @@
+msgid "@niko I want to press all of the buttons...\\>\\n\\@niko_eyeclosed But I must resist!"
+msgstr "@niko ボタンを全部押してみたい…\\>\\n\\@niko_eyeclosed でも我慢しなきゃ！"
+
+msgid "@niko There sure are a lot of computers here...\\>\\nAnd they look important, too."
+msgstr "@niko ここにはたくさんのコンピューターがあるね…\\>\\nすごく大事そう。"
+
+msgid "Monitoring... monitoring...."
+msgstr "監視中…監視中…"
+
+msgid "I'm picking up some more disruptions in sector 8 of the city."
+msgstr "街のセクター8で、\nさらに崩壊を検出。"
+
+msgid "This is consistent with our earlier findings... not good at all..."
+msgstr "以前の発見と一致しています…\n良くない兆候です…"
+
+msgid "The Barrens engineer just reported another sighting of the particles in the cliff area."
+msgstr "たった今、不毛の地の技術者から\n崖エリアで粒子をまた目撃したとの報告が来ました。"
+
+msgid "...well, nothing unusal at this point."
+msgstr "…まあ、この段階ではいつも通りのことでしょう。"
+
+msgid "Ugh, those squares particles just took out two of my robots in the Glen."
+msgstr "げっ、峡谷にて、四角形粒子により\nロボットが2体破壊。"
+
+msgid "We might have to put off the water analysis project for now."
+msgstr "ひとまず、水の分析は延期したほうが\nいいかもしれません。"
+

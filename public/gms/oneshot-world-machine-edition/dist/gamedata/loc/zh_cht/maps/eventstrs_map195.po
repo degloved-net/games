@@ -1,0 +1,135 @@
+msgid "@ed [I... do not recognize this place in the protocol.]"
+msgstr "@ed [我……識別不出協定中的這個地方。]"
+
+msgid "@ed [This...]"
+msgstr "@ed [這……]"
+
+msgid "@ed [This isn't what I'm supposed to be showing you at all!]"
+msgstr "@ed [這完全不是我應該讓你看到的！]"
+
+msgid "@ed [How did you get here?]"
+msgstr "@ed [你怎麼會來到這裡？]"
+
+msgid "@ed [...I can only think of one person.]"
+msgstr "@ed [……我只想得到一個人。]"
+
+msgid "@ed [He... contacted you?]"
+msgstr "@ed [他……跟你聯絡了？]"
+
+msgid "@ed [How long has he been... doing this?]"
+msgstr "@ed [他跟你聯絡……已經多久了？]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [...it doesn't matter at this point.]"
+msgstr "@ed [……到這地步這已經不重要了。]"
+
+msgid "@ed [You are going out of bounds.]"
+msgstr "@ed [你正在超出界限。]"
+
+msgid "@ed [You should turn back. Please turn back.]"
+msgstr "@ed [你應該回頭請你回頭。]"
+
+msgid "@ed [Bad things are going to happen.]"
+msgstr "@ed [壞事即將發生。]"
+
+msgid "@ed [Very bad things.]"
+msgstr "@ed [非常糟的壞事。]"
+
+msgid "@ed [At this rate, Niko will be in danger.]"
+msgstr "@ed [這樣下去，霓光會有危險。]"
+
+msgid "@ed [Please turn back.]"
+msgstr "@ed [請你回頭。]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [走吧。]"
+
+msgid "@silver [What's wrong?\\>\\nDo you want to head back?]"
+msgstr "@silver [怎麼了？\\>\\n你要回頭嗎？]"
+
+msgid "@niko I have a weird feeling about this..."
+msgstr "@niko 我有種奇怪的感覺……"
+
+msgid "@niko_speak What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko_speak \\p，你覺得呢？\\>\\n我們該回頭嗎？"
+
+msgid "[\"Let's head back\", \"Continue into the mines\"]"
+msgstr "[\"回頭吧\",\"繼續進入礦坑\"]"
+
+msgid "@niko \\p says we should go back."
+msgstr "@niko \\p說我們應該回去。"
+
+msgid "@silver [Alright.]"
+msgstr "@silver [好。]"
+
+msgid "@ed [So you've chosen to listen.]"
+msgstr "@ed [你選擇了聽從。]"
+
+msgid "@ed [Good.]"
+msgstr "@ed [很好。]"
+
+msgid "@ed [There won't be any more trouble, then.]"
+msgstr "@ed [那就不會有其他問題了。]"
+
+msgid "@niko Wait...\\>\\n\\@niko_speak Where did the minecart go?"
+msgstr "@niko 等一下……\\>\\n\\@niko_speak 礦車到哪裡去了？"
+
+msgid "@niko \\p says we should keep going."
+msgstr "@niko \\p說我們應該繼續往前走。"
+
+msgid "@silver [Sounds good.]"
+msgstr "@silver [好啊。]"
+
+msgid "@niko_distressed Oh..."
+msgstr "@niko_distressed 喔……"
+
+msgid "@silver [Hm...? \\.\\.What's wrong?]"
+msgstr "@silver [嗯……？\\.\\.怎麼了？]"
+
+msgid "@niko_distressed I..."
+msgstr "@niko_distressed 我……"
+
+msgid "@niko_eyeclosed ...I have a bad feeling about this, all of a sudden..."
+msgstr "@niko_eyeclosed ……我忽然有不好的預感……"
+
+msgid "@niko_distressed2 Feels like I should... not be here..."
+msgstr "@niko_distressed2 感覺好像我……不應該在這裡……"
+
+msgid "@silver2 [Ah.]"
+msgstr "@silver2 [這樣啊。]"
+
+msgid "@silver [Do you want to head back, then?]"
+msgstr "@silver [那你要回頭嗎？]"
+
+msgid "@niko_eyeclosed I... don't know..."
+msgstr "@niko_eyeclosed 我……不知道……"
+
+msgid "@niko2 What do you think, \\p?\\>\\nShould we head back?"
+msgstr "@niko2 \\p，你覺得呢？\\>\\n我們該回頭嗎？"
+
+msgid "[\"Let's head back\", \"Continue forward\"]"
+msgstr "[\"回頭吧\",\"繼續前進\"]"
+
+msgid "@silver2 [Oh, alright.]"
+msgstr "@silver2 [喔，好吧。]"
+
+msgid "@ed [You... listened.]"
+msgstr "@ed [你……聽了我的話。]"
+
+msgid "@ed [I don't think there will be any more trouble.]"
+msgstr "@ed [之後應該不會再有其他問題了。]"
+
+msgid "@ed [Come on. Let's return to the protocol.]"
+msgstr "@ed [來。我們回到協定吧。]"
+
+msgid "@niko Wait...\\>\\n\\@niko2 Where did the minecart go?"
+msgstr "@niko 等等……\\>\\n\\@niko2 礦車到哪裡去了？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko Guess we should get going, \\p."
+msgstr "@niko \\p，看來我們得繼續前進了。"
+

@@ -1,0 +1,90 @@
+msgid "@alula_pout Niko?"
+msgstr "@alula_pout ニコ？"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh ニコ？どーしたの？"
+
+msgid "@niko Huh?"
+msgstr "@niko え？"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock 気絶しちゃうのかと思ったぞ！"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed まただよ…"
+
+msgid "@niko_speak Earlier I was in the Barrens area, and I kind of... saw something?\\>\\n\\@niko It was like a dream, but only for a split second..."
+msgstr "@niko_speak ちょっと前に、不毛の地で、その…\n何かを見たんだ。\\>\\n\\@niko 夢みたいだった。ほんの一瞬しかない夢…"
+
+msgid "@calamus_speak A vision?"
+msgstr "@calamus_speak 幻視じゃないのか？"
+
+msgid "@niko2 Vision?"
+msgstr "@niko2 幻視って？"
+
+msgid "@calamus Like something a prophet would see."
+msgstr "@calamus 預言者が見るようなやつのことさ。"
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak わあ！"
+
+msgid "@calamus_speak I mean, if you can talk to \\p, it would make sense, right?"
+msgstr "@calamus_speak だって、 \\pと\n会話できるんだから、あり得るだろ？"
+
+msgid "@niko I... guess?"
+msgstr "@niko そう…たぶん？"
+
+msgid "@calamus ...or not, I don't know. \\>\\n\\@calamus_smile I've only read about it before."
+msgstr "@calamus …まあ、分からないけどさ。\\>\\n\\@calamus_smile 前に本で読んだことがあるだけなんだ。"
+
+msgid "@niko Oooh...\\>\\n\\@niko_speak Anyway, what is this place?"
+msgstr "@niko そうなんだ…\\>\\n\\@niko_speak それにしても、ここってどういう場所なの？"
+
+msgid "@niko It looks like it used to lead somewhere."
+msgstr "@niko 昔はどこかに繋がってたんだね。"
+
+msgid "@alula_speak Yeah, the sacred grounds!\\>\\n\\@alula It's been a while since we went there..."
+msgstr "@alula_speak そっ、聖域にね！\\>\\n\\@alula もうずっと行ってないなー…"
+
+msgid "@calamus We don't have a way getting there now, remember?\\>\\nThere isn't a boat and none of us can swim, and..."
+msgstr "@calamus 今はもう、行く手段がないだろ？\\>\\nボートはないし、オレたち泳げないし、それに…"
+
+msgid "@niko_speak What's... the sacred grounds?"
+msgstr "@niko_speak 聖域…って、何？"
+
+msgid "@calamus It's where our people are buried."
+msgstr "@calamus みんなが埋葬されてる場所さ。"
+
+msgid "@alula Sometimes we go there to visit mom!\\>\\n\\@alula_oh Well, her grave, anyway."
+msgstr "@alula ときどきお母さんに会いに行くんだ！\\>\\n\\@alula_oh お墓だけど、ね。"
+
+msgid "@niko_eyeclosed Oh....\\>\\n\\@niko_speak -wait, how do you get there?\\>\\n\\@niko I thought you said there isn't a boat?"
+msgstr "@niko_eyeclosed そっか…\\>\\n\\@niko_speak ――あれ、どうやって行ってるの？\\>\\n\\@niko ボートはないんだよね？"
+
+msgid "@alula Oh, our friend helps us!"
+msgstr "@alula あっ、お友達に助けてもらってるの！"
+
+msgid "@calamus He has some sort of machine that allows him to fly."
+msgstr "@calamus 空を飛ぶ機械を持ってるんだ。"
+
+msgid "@alula Sometimes he takes us along!"
+msgstr "@alula たまに連れてってくれるのよ！"
+
+msgid "@calamus But like I was about to say, we haven't seen him around for a while."
+msgstr "@calamus でも、そいつとはしばらく会ってないんだ。"
+
+msgid "@alula I wonder when he'll come back?\\>\\nI wish we could go see mom again..."
+msgstr "@alula いつ戻ってくるのかな？\\>\\nまたお母さんに会いたいな…"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@calamus Come on, Alula, let's go back to the courtyard now."
+msgstr "@calamus ほら、アルーラ、中庭に戻ろう。"
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak うん！"
+
+msgid "@niko It's a clover."
+msgstr "@niko クローバーだ。"
+

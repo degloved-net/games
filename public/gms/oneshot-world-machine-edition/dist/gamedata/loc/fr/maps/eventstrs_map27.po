@@ -1,0 +1,63 @@
+msgid "I'm catching fireflies for mommy!"
+msgstr "J'attrape des lucioles pour maman !"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko L'horizon brille d'un éclat bleu."
+
+msgid "@rowbot [HERE IS YOUR STOP. THE GLEN.]"
+msgstr "@rowbot [VOICI VOTRE ARRÊT. LE VALLON.]"
+
+msgid "@niko Thank you!"
+msgstr "@niko Merci !"
+
+msgid "@rowbot [THERE SHOULD BE A VILLAGE TO THE NORTH. BUT THAT'S ALL I CAN RECALL.]"
+msgstr "@rowbot [IL DEVRAIT Y AVOIR UN VILLAGE AU NORD. C'EST TOUT CE DONT JE ME SOUVIENS.]"
+
+msgid "@niko_speak Oh, that's good to know!"
+msgstr "@niko_speak Oh, c'est bon à savoir !"
+
+msgid "@rowbot [FAREWELL.]"
+msgstr "@rowbot [AU REVOIR.]"
+
+msgid "@rowbot [MAY YOUR MISSION BE A SUCCESS.]"
+msgstr "@rowbot [QUE VOTRE MISSION SOIT UNE RÉUSSITE.]"
+
+msgid "@niko_speak A-Are you leaving?"
+msgstr "@niko_speak V-Vous partez ?"
+
+msgid "@rowbot [YES.\\>\\nI MUST RETURN TO MY STATION.]"
+msgstr "@rowbot [OUI.\\>\\nJE DOIS RETOURNER À MA STATION.]"
+
+msgid "@niko But you'll be all alone again..."
+msgstr "@niko Mais vous allez être seul à nouveau..."
+
+msgid "@rowbot [IT'S OKAY.]"
+msgstr "@rowbot [CE N'EST PAS UN PROBLÈME.]"
+
+msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@rowbot [JE N'AI PAS ÉTÉ APPRIVOISÉ.]"
+
+msgid "Hm..."
+msgstr "Hum..."
+
+msgid "Nothing's biting..."
+msgstr "Ça ne mord pas..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "Bonjour, je suis un PNJ inaccessible."
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko Il y a des petits poissons au fond de ce pot."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko C'est rempli de petits poissons séchés."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak C'est plein de têtes de poisson !"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko C'est rempli de petits poissons séchés."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak On dirait des carapaces de crabe."
+

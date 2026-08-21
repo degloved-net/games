@@ -1,0 +1,24 @@
+msgid "@niko_speak ...hey, \\p?"
+msgstr "@niko_speak ...저기, \\p 님?"
+
+msgid "@niko When I was signing the scroll, there was already another name on it.\\>\\n\\@niko It was a little blurry, but..."
+msgstr "@niko 제가 그 두루마리에 서명했을 때, 거기 다른 이름이 적혀 있었어요.\\>\\n\\@niko 색이 좀 바래긴 했지만..."
+
+msgid "@niko_speak I think that name was also \"Niko\"?"
+msgstr "@niko_speak 그 이름도 \"니코\" 같던데요?"
+
+msgid "@niko When I was signing the scroll, there was already another two names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko 제가 그 두루마리에 서명을 했을 때, 그곳에 이미 이름이 두 개 적혀 있었어요.\\>\\n\\@niko 색이 좀 바래긴 했지만..."
+
+msgid "@niko_speak I think they were BOTH \"Niko\"."
+msgstr "@niko_speak 둘 다 \"니코\"였던 것 같아요."
+
+msgid "@niko When I was signing the scroll, there was already a few other names on it.\\>\\n\\@niko They were a little blurry, but..."
+msgstr "@niko 제가 그 두루마리에 서명을 했을 때, 그곳에 이미 이름이 여러 개 적혀 있었어요.\\>\\n\\@niko 모두 색이 좀 바래긴 했지만..."
+
+msgid "@niko_speak I think they all said \"Niko\"!"
+msgstr "@niko_speak 그 이름은 전부 \"니코\"였어요!"
+
+msgid "@niko_eyeclosed Weird..."
+msgstr "@niko_eyeclosed 정말 희한하네요..."
+

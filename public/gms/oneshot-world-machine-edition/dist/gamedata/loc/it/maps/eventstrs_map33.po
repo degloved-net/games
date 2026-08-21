@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko La stanza è illuminata dalle lucciole."
+
+msgid "Squares are bad news, man. \\>\\nStay away from 'em, kids!"
+msgstr "Diamine, brutta storia quei quadrati... \\>\\nBambini, non vi ci avvicinate!"
+
+msgid "@alula We will!"
+msgstr "@alula Va bene!"
+
+msgid "Stay away from the squares, okay?"
+msgstr "Stai lontano dai quadrati, ok?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Mhm!"
+
+msgid "Last week, I saw more of those squares while out fishing."
+msgstr "La settimana scorsa ho visto molti più quadrati mentre ero fuori a pescare."
+
+msgid "I knew better than to get too close, though."
+msgstr "Ovviamente so bene che son pericolosi e non mi sono avvicinato troppo."
+
+msgid "@alula_oh Oh! \\>\\@alula_pout It was that stuff in the door..."
+msgstr "@alula_oh Oh! \\>\\@alula_pout È come quella roba sulla porta..."
+
+msgid "Oh, so you saw it too, huh..."
+msgstr "Oh, così li hai visti anche tu, eh?"
+
+msgid "@alula_oh Yeah! \\>\\@alula_pout My brother told me not to touch those!"
+msgstr "@alula_oh Sì! \\>\\@alula_pout Mio fratello mi ha detto di non toccarli!"
+
+msgid "Yeup. He gets it."
+msgstr "Beh, ha ragione."
+
+msgid "@niko Squares?"
+msgstr "@niko Quadrati?"
+
+msgid "Squares, man.\\nThey're bad news."
+msgstr "Sì amico, quadrati.\\nBrutta roba."
+

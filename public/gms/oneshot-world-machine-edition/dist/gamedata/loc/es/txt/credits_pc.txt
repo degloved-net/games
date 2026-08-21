@@ -1,0 +1,264 @@
+Créditos
+=======
+
+Programación
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+Gráficos
+--------
+
+* Nightmargin (Casey Gu)
+
+Diseño de Personajes
+----------------
+
+* Nightmargin
+* Maize y George por Eliza
+
+Banda Sonora
+----------
+
+* Nightmargin
+* Pistas adicionales por Eliza y Michael
+* Algunas muestras musicales proporcionadas por usuarios de FreeSound.org: 
+  Jovica, Dymewiz, hanstimm, y Freed
+
+Historia
+-----
+
+* Mecánicas de Juego: Eliza
+* Historia General y Construcción de Mundo: Nightmargin, Eliza
+* Guión: Nightmargin, Eliza, Michael
+* Guión: (Perfiles de Amigos): Taeler Dixon
+
+Colaboradores Penguin
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+Programación de Sistemas
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+Productor (Lanzamiento 2016)
+-----------------------
+
+* Mark Conforti
+
+Pruebas de Compilación (Lanzamiento 2016)
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+Pruebas de Compilación (Lanzamiento en Consolas)
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+CRÉDITOS DE FONDO DE PANTALLA 
+----------------
+
+Marina "Sylladexter" K
+* Maize
+* Club Secreto RAM
+
+Missusruin
+* Paseo Por La Biblioteca
+
+Saren Stone
+* Profetas
+
+Temmie Chang
+* Café
+
+T. C.
+* Avanzada
+* La Fábrica
+
+
+Traducción de OneShot para Consolas
+------------------------------------
+
+Traducción Francés
+* Mahmoud Khabatou
+
+Revisión de Texto Francés
+* Mohamed Khabatou
+
+LQA Francés
+* Mahmoud Khabatou
+
+Traducción Español
+* Edgar Rangel
+
+Revisión de Texto Español
+* Sebastián Herrera
+
+LQA Español
+* Jair Casillas
+
+Traducción Coreano
+* So-jung Jung
+
+Revisión de Texto Coreano, LQA
+* Seo-Mi Ha
+
+Traducción Portugués de Brasil
+* Jay Ruas
+
+Revisión de Texto Portugués de Brasil, LQA
+* Karina Peixe
+* Jay Ruas
+
+Traducción Japonés, LQA
+* Sakura Yamaguchi
+
+Revisión de Texto Japonés
+* Yoshiki Kono
+
+Traducción al Italiano
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Claudia Conforti
+* Giulia Ciotti
+* Vivien Hutchings
+* Marco Devisi
+* Salvatore Martorana
+* Guglielmo Cicalese
+* Paolo Borsellino
+* Vito Nicola Fortunato
+* Simone Bertucco
+* Alex Girone
+* Gabriele D’Amora
+* Roberto Colello
+
+Revisión de Texto Italiano
+* Simone Bilotta
+* Leonardo Dall’Armellina
+* Leonardo Taddei
+* Gabriel Prandini
+* Giammaria Angeloni
+* Camilla Scalabrin
+* Marco Devisi
+
+LQA Italiano
+* Giammaria Angeloni
+
+
+Recursos
+---------
+
+* La tipografía Volter (Goldfish) se utiliza para la tipografía del sistema de píxeles.
+* La tipografía utilizada para el texto en latín es Terminus. El texto de Asia oriental se representa con la tipografía WenQuanYi Micro Hei. Las tipografías Jenna Sue y RM Typerighter se utilizan para texto gráfico adicional. Vea la \[sección de licencias\] para más detalles.
+* HigashiOme-Gothic es la tipografía utilizada para Japonés.
+* Noto Sans y Noto Sans JP se utilizan como tipografías de respaldo para caracteres especiales.
+* Muestras de FreeSound.org proporcionadas por los usuarios... 
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* \[Bfxr\] (http://www.bfxr.net/) se utilizó en la generación de efectos de sonido adicionales.
+* Las texturas utilizadas en el mapa y la puerta son de \[wildtextures\] (http://www.wildtextures.com/). Se utilizaron recursos adicionales de Textures.com.
+* Devin Elle Kurtz (pinceles de textura)
+* Dalton Maag Ltd (Tipografía Aller Display) 
+
+Gracias Especiales
+-----------------
+
+* Saniblues: pruebas y retroalimentación
+* Redoplus: pruebas y retroalimentación
+* Almond-Goddess: pruebas y retroalimentación
+* FelixTheJudge: retroalimentación musical
+* Albatrosssoup: retroalimentación musical
+* Sauraen: retroalimentación musical
+* Stanhoff: consultor de físicas
+* Kalkie: cameo de personaje 
+* Kitsiinabox: cameo de personaje 
+* Noxid: por ser Noxid
+* Testers de *OneShot* (Lanzamiento Original):
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* Todos los que nos apoyaron desde el lanzamiento original.
+* ¡Tú! 
+
+Licencias
+--------
+
+Hecho con FMOD Studio por Firelight Technologies Pty Ltd. 
+(https://www.fmod.com/attribution)
+
+Cada uno de los sonidos utilizados en el juego de FreeSound.org tiene una de las siguientes licencias: 
+* \[CC0 1.0 Universal\] (http://creativecommons.org/publicdomain/zero/1.0/)
+
+* \[Attribution 3.0 Unported\] (http://creativecommons.org/licenses/by/3.0/)
+
+Terminus está licenciado bajo \[Licencia de fuente abierta\] (http://scripts.sil.org/OFL).
+
+Noto Sans y Noto Sans JP tienen licencia bajo \[Licencia de fuente abierta\] (http://scripts.sil.org/OFL).
+
+HigashiOme Gothic es licenciada bajo \[Licencia de fuente abierta SIL\] (https://scripts.sil.org/OFL_web).
+
+Jenna Sue tiene licencia y está pagada. (http://www.jennasuedesign.com/)
+
+RM Typerighter tiene licencia bajo \[CC BY-ND\] (https://creativecommons.org/licenses/by-nd/3.0/).
+
+The FontStruction "Thirteen Pixel Fonts" (http://fontstruct.com/fontstructions/show/761985) by "30100flo" está licenciado bajo una Licencia Creative Commons Attribution Share Alike(http://creativecommons.org/licenses/by-sa/3.0/).
+
+WenQuanYi Micro Hei tiene doble licencia bajo \[Licencia Apache 2.0\] (http://wenq.org/wqy2/index.cgi?Apache_License_2.0) o \[Licencia Pública General GNU v3\] (http://www.gnu.org/copyleft/gpl.html) con excepciones de incrustación de fuentes.
+
+Los recursos wildtextures son
+\[free for commercial use\] (http://www.wildtextures.com/terms-of-use/).
+
+Los términos de uso de Textures.com se pueden encontrar \[aquí\] (https://www.textures.com/about/terms-of-use).

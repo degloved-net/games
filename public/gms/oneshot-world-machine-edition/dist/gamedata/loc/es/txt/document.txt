@@ -1,0 +1,13 @@
+Me agrada saludarte, [!%$()*@$(%^]
+
+[Esta es mi primera tentativa de enviarte un] mensaje y me temo que ha de ser breve.
+
+Te hago entrega de un diario. Parte de él está escrito en una lengua que [no podrás entender al principio.]
+
+Sin e[mbargo, llegará el momento en el que caiga en tus manos una traducción con la que avanzar en su comprensión... le]e y sabrás qué hacer.
+
+También te he de[jado una máscara, pues sé que tu mesías la necesitará.]
+
+B[u]sc[a] u[n]a c[a]j[a] f[ue]rt[e] [de] m[e]t[a]l [e]n l[a] m[i]n[a] s[i]tu[a]d[a] [a]l e[st]e, [e]n u[n] p[u]nt[o] [e]n[tr]e [e]l oc[éa]no y e[l] m[i]r[a]d[o]r.
+
+He aquí el código: {CODE}

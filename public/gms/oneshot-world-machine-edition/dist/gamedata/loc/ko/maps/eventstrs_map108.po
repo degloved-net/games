@@ -1,0 +1,81 @@
+msgid "@niko A stapler."
+msgstr "@niko 스테이플러예요."
+
+msgid "@niko_speak It's bolted to the table..."
+msgstr "@niko_speak 테이블에 나사로 고정되어 있어요..."
+
+msgid "[I AM THE POWER ROOM MECHANIC.]"
+msgstr "[전 동력실 기술자입니다.]"
+
+msgid "[DO YOU HAVE AN ISSUE TO REPORT?]"
+msgstr "[신고할 사항이 있으신가요?]"
+
+msgid "@niko Do you know anything about an elevator code?"
+msgstr "@niko 혹시 엘리베이터 코드를 아시나요?"
+
+msgid "[ELEVATOR CODE...]"
+msgstr "[엘리베이터 코드...]"
+
+msgid "[COMMAND NOT RECOGNIZED]"
+msgstr "[명령을 인식할 수 없습니다.]"
+
+msgid "@niko_eyeclosed Well, worth a shot."
+msgstr "@niko_eyeclosed 혹시나 해서 해 봤어요."
+
+msgid "@niko Yeah, actually..."
+msgstr "@niko 네. 사실은..."
+
+msgid "@niko_speak The surface access elevator appears to be broken!"
+msgstr "@niko_speak 지상층으로 가는 엘리베이터가 고장 난 것 같아요!"
+
+msgid "@niko There's a button missing, and..."
+msgstr "@niko 버튼 하나가 없어졌어요. 그래서 말인데..."
+
+msgid "@niko_speak Can you go take a look?"
+msgstr "@niko_speak 잠깐 봐 주시겠어요?"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "[LEAVING THIS ROOM IS NOT IN MY PROGRAMMING.]"
+msgstr "[이 방을 뜨는 행위는 제 프로그래밍에 없습니다.]"
+
+msgid "@niko_eyeclosed Ah, nevermind..."
+msgstr "@niko_eyeclosed 아, 그럼 됐어요..."
+
+msgid "[I AM ONLY ABLE TO FIX ISSUES IN THIS BUILDING.]"
+msgstr "[전 이 건물 내의 문제만 해결할 수 있습니다.]"
+
+msgid "[SORRY FOR THE INCONVENIENCE.]"
+msgstr "[불편을 드려 죄송합니다.]"
+
+msgid "@niko It's okay..."
+msgstr "@niko 괜찮아요..."
+
+msgid "$They are just bolted so people won't steal them."
+msgstr "$사람들이 훔치지 못하도록 나사로 고정해 두었습니다."
+
+msgid "$Feel free to use, though!"
+msgstr "$하지만 자유롭게 사용하셔도 좋습니다!"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko 컴퓨터 단말기 같아요..."
+
+msgid "@niko A tape dispenser."
+msgstr "@niko 접착 테이프예요."
+
+msgid "@niko Oh, of course! I gotta tape it together or it might fall apart."
+msgstr "@niko 아, 그렇지! 이걸 테이프로 감아서 떨어지지 않도록 해야겠어요."
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak 정말 기발하네요, \\p 님!"
+
+msgid "@niko Oh, I could hold it together with tape."
+msgstr "@niko 이 테이프로 고정시킬 수 있을 것 같아요."
+
+msgid "@niko_eyeclosed I should've done this in the first place..."
+msgstr "@niko_eyeclosed 진작에 이렇게 했어야 하는데..."
+
+msgid "@niko If I cut off a piece of tape to keep it would just lose its stickiness."
+msgstr "@niko 테이프를 한 조각 잘라 내서 가지고 다니면 접착력이 약해질 거예요."
+

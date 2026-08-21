@@ -1,0 +1,90 @@
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "혼돈의 악"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "그렇게 하지 말아요!"
+
+msgid "SHOCK:title=Shock"
+msgstr "충격"
+
+msgid "SHOCK:description=Not fun."
+msgstr "재미없어요."
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "지나친 물물교환"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "모든 가능성에 지쳤어요, 그렇죠?"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "양치기"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "양을 쉽게 몰아주죠."
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "팬케이크"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "좋아하는 음식입니다."
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "우리는 새벽에 탑니다."
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "뉴움"
+
+msgid "SECRET:title=Secret"
+msgstr "비밀"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "책벌레"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "도서관에서 책을 읽어요."
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "재탄생"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "보조 퀘스트."
+
+msgid "ONESHOT:title=OneShot"
+msgstr "Oneshot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "근본 원인으로 돌아갑니다."
+
+msgid "RETURN:title=Return"
+msgstr "돌아가기"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "월페이퍼 마법사"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "모든 월페이퍼를 수집하세요"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "색상 조정자"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "모든 테마를 수집하세요"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "인싸"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "모든 친구 항목을 수집하세요"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "많이 많이 고마워"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "모든 배지를 수집하세요"
+

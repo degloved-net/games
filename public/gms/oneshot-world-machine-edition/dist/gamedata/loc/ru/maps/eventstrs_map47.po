@@ -1,0 +1,120 @@
+msgid "@red_gatekeeper [...Interesting Book You Got There...]"
+msgstr "@red_gatekeeper [...Какая Интересная У Вас Книга...]"
+
+msgid "@red_gatekeeper [It Is Written In A Language I Do Not Recognize.]"
+msgstr "@red_gatekeeper [Она Написана На Языке, Который Я Не Могу Распознать.]"
+
+msgid "@red_gatekeeper [...Perhaps You Should Find A Way To Decipher It When You're At The Library.]"
+msgstr "@red_gatekeeper [...Вам Стоит Найти Способ Расшифровать Её, Когда Вы Будете В Библиотеке.]"
+
+msgid "@red_gatekeeper [It May Be Of Help.]"
+msgstr "@red_gatekeeper [Она Может Вам Помочь.]"
+
+msgid "@red_gatekeeper [Hello Again, Messiah, Do You Need Help?]"
+msgstr "@red_gatekeeper [Я Снова Приветствую Вас, Мессия. Вам Нужна Помощь?]"
+
+msgid "@niko Well..."
+msgstr "@niko Ну..."
+
+msgid "[\"Explain again\", \"No\"]"
+msgstr "[\"Объяснить ещё раз.\",\"Нет.\"]"
+
+msgid "@red_gatekeeper [Very Well. You Need To Find A Way To Get To The Library On The Surface.]"
+msgstr "@red_gatekeeper [Хорошо. Вам Нужно Найти Способ Добраться До Библиотеки На Поверхности.]"
+
+msgid "@red_gatekeeper [Off You Go Then, Off You Go...]"
+msgstr "@red_gatekeeper [Тогда В Путь, В Путь...]"
+
+msgid "@red_gatekeeper [Ah, The Sun.]"
+msgstr "@red_gatekeeper [Ах, Солнце.]"
+
+msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
+msgstr "@red_gatekeeper [Приветствую, Мессия. Добро Пожаловать В Пристанище.]"
+
+msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
+msgstr "@red_gatekeeper [Вы Понимаете, Что Должны Здесь Делать?]"
+
+msgid "@niko I'm supposed to go inside the Tower, right?"
+msgstr "@niko Я должен пройти в Башню, так?"
+
+msgid "@niko I already see the Tower! So I guess we must be close."
+msgstr "@niko Я вижу Башню! Так что мы уже близко."
+
+msgid "@niko_speak Where's the entrance?"
+msgstr "@niko_speak Где вход?"
+
+msgid "@red_gatekeeper [On The Surface.]"
+msgstr "@red_gatekeeper [На Поверхности.]"
+
+msgid "@niko_speak The surface?"
+msgstr "@niko_speak Поверхности?"
+
+msgid "@red_gatekeeper [Look Down, Small One.]"
+msgstr "@red_gatekeeper [Посмотрите Вниз, Маленький Человек.]"
+
+msgid "@niko Oooh, \\.\\.\\@niko_speak we're pretty high up!"
+msgstr "@niko О-о-о, \\.\\.\\@niko_speak как мы высоко!"
+
+msgid "@niko_speak I guess I gotta get down a lot of stairs! \\>\\n\\@niko Or find an elevator."
+msgstr "@niko_speak Думаю, придётся спуститься по множеству лестниц! \\>\\n\\@niko Или найти лифт."
+
+msgid "@red_gatekeeper [Correct.]"
+msgstr "@red_gatekeeper [Верно.]"
+
+msgid "@red_gatekeeper [However, The Tower Is A Sacred Place.]"
+msgstr "@red_gatekeeper [Но Башня — Священное Место.]"
+
+msgid "@red_gatekeeper [Finding The Entrance May Be Easy, But That Alone Will Not Be Enough.]"
+msgstr "@red_gatekeeper [Найти Вход Просто, Но Этого Будет Недостаточно.]"
+
+msgid "@niko What... do you mean?"
+msgstr "@niko Что... ты имеешь в виду?"
+
+msgid "@red_gatekeeper [Once You Reach The Surface, I Recommend Visiting The Library For Leads.]"
+msgstr "@red_gatekeeper [Когда Вы Достигнете Поверхности, Я Рекомендую Посетить Библиотеку И Получить Больше Информации.]"
+
+msgid "@niko Alright..."
+msgstr "@niko Ладно..."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Спасибо!"
+
+msgid "@red_gatekeeper [Off You Go, Then. I Wish You Luck.]"
+msgstr "@red_gatekeeper [Тогда В Путь. Желаю Вам Удачи.]"
+
+msgid "@red_gatekeeper [I'm Afraid This Area Is Off-Limits For You.]"
+msgstr "@red_gatekeeper [Боюсь, Вам Запрещено Заходить В Это Место.]"
+
+msgid "@red_gatekeeper [Only The Bearer Of The Sacred Kernel Is Permitted Access To The Garden.]"
+msgstr "@red_gatekeeper [Только Обладатель Священного Зерна Может Войти В Сад.]"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko Like...\\.\\. a kernel of corn...?"
+msgstr "@niko_speak Ой! \\.\\.\\@niko Например...\\.\\. зерна кукурузы?.."
+
+msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant lady in the Glen."
+msgstr "@niko_speak У меня оно есть! \\.\\.\\>\\@niko Его оставила девушка-растение из Долины."
+
+msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
+msgstr "@red_gatekeeper [...\\>Это То Самое Зерно.]"
+
+msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
+msgstr "@red_gatekeeper [Тогда Ваш Долг — Вырастить Её.]\\>\\n[Вы Понимаете, Что Должны Делать?]"
+
+msgid "@niko Um..."
+msgstr "@niko Э-э..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@red_gatekeeper [Good.]"
+msgstr "@red_gatekeeper [Хорошо.]"
+
+msgid "@red_gatekeeper [Take The Seed To The Garden.\\>\\nPlant It In The Pot In The Center.]"
+msgstr "@red_gatekeeper [Отнесите Зерно В Сад.]\\>\\n[Посадите Его В Горшок В Центре.]"
+
+msgid "@red_gatekeeper [You May Now Pass Through Here To Access The Garden.]"
+msgstr "@red_gatekeeper [Вы Можете Пройти Здесь, Чтобы Попасть В Сад.]"
+
+msgid "@niko_eyeclosed I don't want to go back..."
+msgstr "@niko_eyeclosed Я не хочу возвращаться..."
+

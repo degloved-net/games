@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[СВЯЗЬ С ПОВЕРХНОСТЬЮ ПОТЕРЯНА.]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[Я НИЧЕГО НЕ МОГУ ПОДЕЛАТЬ.]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$КТО ЗАБРАЛ МОЙ СТЕПЛЕР?"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko Какой-то компьютерный терминал..."
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko На столе маленькие дырочки..."
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko Кажется, раньше здесь что-то было привинчено..."
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko На столе несколько дырочек..."
+

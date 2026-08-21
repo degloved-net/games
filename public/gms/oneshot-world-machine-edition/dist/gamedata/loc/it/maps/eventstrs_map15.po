@@ -1,0 +1,201 @@
+msgid "@niko This bar should open it."
+msgstr "@niko Questo piede di porco dovrebbe aprirla."
+
+msgid "@niko_eyeclosed The pipe won't fit under the cracks, \\p!"
+msgstr "@niko_eyeclosed \\p, il tubo non si incastra nelle fessure!"
+
+msgid "@niko We'll need to flatten it somehow..."
+msgstr "@niko Abbiamo bisogno di appiattirlo in qualche modo..."
+
+msgid "@niko The screwdriver's not nearly big enough to pry it open."
+msgstr "@niko Il cacciavite è decisamente troppo piccolo per aprirlo."
+
+msgid "@niko_speak This box looks interesting!"
+msgstr "@niko_speak Questa scatola sembra interessante!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed I wish I had something to pry it open with..."
+msgstr "@niko_eyeclosed Se solo avessi qualcosa per aprirla..."
+
+msgid "@niko There's a little metal cube and some broken glass in here..."
+msgstr "@niko Ci sono un piccolo cubo di metallo e dei vetri rotti qui dentro..."
+
+msgid "@niko_speak Looks like what used to be a machine part."
+msgstr "@niko_speak Probabilmente una volta faceva parte della macchina."
+
+msgid "@niko It says 'Solar Battery' on the side."
+msgstr "@niko C'è scritto \"Batteria Solare\" sul lato."
+
+msgid "@niko It's empty now."
+msgstr "@niko È vuota."
+
+msgid "@niko Still got some shards of glass at the bottom, though."
+msgstr "@niko Però ci sono ancora alcuni pezzi di vetro sul fondo."
+
+msgid "$1. A robot may not injure a living person or, through inaction, allow a person to come to harm."
+msgstr "$1. Un robot non può recar danno a una persona in vita né può permettere che, a causa del suo mancato intervento, una persona si faccia del male."
+
+msgid "$2. A robot must obey the orders given to it by people, except where such orders would conflict with the First Law."
+msgstr "$2. Un robot deve obbedire agli ordini impartiti dalle persone, purché tali ordini non vadano in contrasto con la Prima Legge."
+
+msgid "$3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+msgstr "$3. Un robot deve proteggere la propria esistenza, purché la salvaguardia di essa non contrasti con la Prima o la Seconda Legge."
+
+msgid "@niko It's a faded poster."
+msgstr "@niko È un poster sbiadito."
+
+msgid "$REMINDER TO ALL WORKERS:"
+msgstr "$PROMEMORIA A TUTTI I LAVORATORI:"
+
+msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
+msgstr "$La forma più rara del fosforo blu è rinvenibile durante il periodo di deposizione delle uova dei gamberetti fosforescenti."
+
+msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
+msgstr "$Se notate una pozza ricoperta di bolle, contattate immediatamente la direzione!"
+
+msgid "$We will dispatch a harvest team ASAP."
+msgstr "$Manderemo una squadra di raccolta il prima possibile."
+
+msgid "@niko A robot without power."
+msgstr "@niko Un robot spento."
+
+msgid "[I AM FUNCTIONAL!]"
+msgstr "[SONO OPERATIVO!]"
+
+msgid "[DID YOU POWER THE GENERATOR?]"
+msgstr "[AVETE AZIONATO IL GENERATORE?]"
+
+msgid "@niko I...\\.\\. \\@niko_speak guess we did!"
+msgstr "@niko Credo...\\.\\. \\@niko_speak Credo di sì!"
+
+msgid "@niko Right, \\p?"
+msgstr "@niko Vero, \\p?"
+
+msgid "$Five new positions available at the mines."
+msgstr "$Disponibili cinque nuovi posti alle miniere."
+
+msgid "$Housing and other provisions are included upon hiring."
+msgstr "$L'alloggio e altre disposizioni sono inclusi al momento dell'assunzione."
+
+msgid "$First come, first serve."
+msgstr "$Chi primo arriva, meglio alloggia."
+
+msgid "@niko A robot."
+msgstr "@niko Un robot."
+
+msgid "@niko It seems to be ok! Just doesn't have power."
+msgstr "@niko Sembra stare bene! Ma non ha energia."
+
+msgid "[I CAN WALK!]"
+msgstr "[POSSO CAMMINARE!]"
+
+msgid "$The use of a robot as our replacement head engineer seems unorthodox."
+msgstr "$Sostituire il nostro capo ingegnere con un robot è stata una scelta alquanto discutibile."
+
+msgid "$...especially the one responsible for last year's incident."
+msgstr "$...Soprattutto se con quello responsabile dell'incidente dello scorso anno."
+
+msgid "$I suppose they had to get her away from the city, but that doesn't make it easier to swallow for those of us who work here!"
+msgstr "$Credo che abbiano dovuto portarla via dalla città, ma questo non rende la cosa più facile da digerire per noi lavoratori!"
+
+msgid "$I hope that man knows what he's doing."
+msgstr "$Spero che quell'uomo sappia ciò che sta facendo."
+
+msgid "$--Management"
+msgstr "$-La direzione"
+
+msgid "$SELF-CHARGING SOLAR BATTERY MODEL N-87\\n(One year warranty included)"
+msgstr "$BATTERIA SOLARE AUTOCARICANTE MODELLO N-87\\n(Un anno di garanzia incluso)"
+
+msgid "$Simply place your self-charging battery in full daylight with the lens facing up."
+msgstr "$Esponi la tua batteria autocaricante con la lente rivolta verso l'alto in pieno giorno."
+
+msgid "$Charges in seconds, no external power is needed."
+msgstr "$La ricarica avviene in pochi secondi. Non è necessaria nessuna fonte di alimentazione esterna."
+
+msgid "$TROUBLESHOOTING MANUAL."
+msgstr "$GUIDA ALLA RISOLUZIONE DEI PROBLEMI."
+
+msgid "$If the battery fails to charge, check to see if the lens on the front side has not been dislodged during transport."
+msgstr "$Se la batteria non si ricarica, verifica che la lente frontale non si sia spostata durante il trasporto."
+
+msgid "$One charge cycle will last about ten days."
+msgstr "$Un ciclo di ricarica può durare fino a dieci giorni."
+
+msgid "$If you notice a decline in the charge cycle within the warranty period, please contact the manufacturer."
+msgstr "$Se durante il periodo di garanzia noti un calo del ciclo di ricarica, contatta il produttore."
+
+msgid "@niko It won't turn on."
+msgstr "@niko Non si accende."
+
+msgid "@niko The screen says \"DOCUMENTS\"."
+msgstr "@niko Sullo schermo c'è scritto \"DOCUMENTI\"."
+
+msgid "@niko_eyeclosed I can't seem to make the computer do anything else..."
+msgstr "@niko_eyeclosed Non riesco a far fare nient'altro al computer..."
+
+msgid "@ed [The code is contained within a \\c[2]Document\\c[0].]"
+msgstr "@ed [Il codice è contenuto in un \\c[2]Documento\\c[0].]"
+
+msgid "@ed [The \\c[2]Document\\c[0] has found a place it belongs outside the game.]"
+msgstr "@ed [Il \\c[2]Documento\\c[0] ha trovato un posto fuori dal gioco.]"
+
+msgid "Do you know where to find Documents, \\p?"
+msgstr "Sai dove trovare i Documenti, \\p?"
+
+msgid "@ed [Good. Start looking.]"
+msgstr "@ed [Bene. Inizia a cercare.]"
+
+msgid "@ed [Don't you know that there's a designated area for \\c[2]Documents\\c[0] on your own machine?]"
+msgstr "@ed [Non sai che c'è una zona apposita per i \\c[2]Documenti\\c[0] sulla tua macchina?]"
+
+msgid "@ed [Some god you are.]"
+msgstr "@ed [Sicuro di essere un dio?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [Look in the Documents folder on your computer.]"
+msgstr "@ed [Guarda nella cartella Documenti del tuo computer.]"
+
+msgid "@ed [I don't think I could've made it any more clear.]"
+msgstr "@ed [Penso che non lo avrei potuto rendere più chiaro.]"
+
+msgid "@ed [I see you've made progress in this world, \\p.]"
+msgstr "@ed [Vedo che hai fatto progressi in questo mondo, \\p.]"
+
+msgid "@ed [But that progress stops here.]"
+msgstr "@ed [Ma si fermano qui.]"
+
+msgid "@ed [I believe you need a code to unlock a certain box.]"
+msgstr "@ed [Credo che tu abbia bisogno di un codice per aprire una certa cassa.]"
+
+msgid "@ed [Well, the code no longer exists in THIS world.]"
+msgstr "@ed [Beh, il codice non esiste più in QUESTO mondo.]"
+
+msgid "...Do you understand what this means, \\p?"
+msgstr "...Capisci cosa vuol dire, \\p?"
+
+msgid "@ed [You... still don't know the extent of the world's deterioration, do you, \\p?]"
+msgstr "@ed [Tu... ancora non sai quanto sia grave il deterioramento del mondo, vero, \\p?]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [Sigh.]"
+
+msgid "@ed [...most of the time, stray pieces of this world would be lost to blissful nothingness.]"
+msgstr "@ed [...Nella maggior parte dei casi, pezzi vaganti di questo mondo sarebbero persi nel vuoto assoluto.]"
+
+msgid "@ed [But this code, this \\c[2]Document\\c[0], is an exception.]"
+msgstr "@ed [Ma questo codice, questo \\c[2]Documento\\c[0], è un'eccezione.]"
+
+msgid "@ed [I was able to salvage it, because Niko needs the code to progress.]"
+msgstr "@ed [Sono stato in grado di recuperarlo, dato che Niko ha bisogno del codice per proseguire.]"
+
+msgid "@ed [Now, go find it.]"
+msgstr "@ed [Ora, vai a cercarlo.]"
+
+msgid "@niko Dusty shelves."
+msgstr "@niko Scaffali impolverati."
+

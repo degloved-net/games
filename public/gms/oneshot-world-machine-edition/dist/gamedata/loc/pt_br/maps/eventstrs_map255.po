@@ -1,0 +1,135 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko6 This is the room I first woke up in..."
+msgstr "@niko6 Eu acordei pela primeira vez neste quarto..."
+
+msgid "@niko_speak \\p? Are you still here?"
+msgstr "@niko_speak \\p? Ainda está aqui?"
+
+msgid "@niko2 ...\\p?"
+msgstr "@niko2 ...\\p?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"Sim?\"]"
+
+msgid "@niko_pancakes \\p!!!"
+msgstr "@niko_pancakes \\p!!!"
+
+msgid "@niko_speak I... I think..."
+msgstr "@niko_speak Eu... acho..."
+
+msgid "@niko_pancakes I think it worked!!!"
+msgstr "@niko_pancakes Acho que funcionou!"
+
+msgid "[\"It did!\"]"
+msgstr "[\"Eu consegui!\"]"
+
+msgid "@niko_speak The sun is back!\\>\\nAnd I actually got to see it this time!"
+msgstr "@niko_speak O sol voltou!\\>\\nE desta vez eu consegui vê-lo!"
+
+msgid "@niko_pancakes We... actually did it...!"
+msgstr "@niko_pancakes Nós... conseguimos...!"
+
+msgid "@niko5 So... \\>\\@niko6 what do we do now?"
+msgstr "@niko5 Bom... \\>\\@niko6 O que vamos fazer agora?"
+
+msgid "@niko I guess I should figure out how to get home from here..."
+msgstr "@niko Acho que preciso achar uma maneira de voltar para casa..."
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 Espera aí..."
+
+msgid "@niko2 This... \\.\\.isn't a door, is it?"
+msgstr "@niko2 Isso... \\.\\.não é uma porta, é?"
+
+msgid "@niko This looks like one of those portals we saw all the way back in the city."
+msgstr "@niko Parece um daqueles portais que vimos lá na cidade..."
+
+msgid "@niko6 In the room behind the big clock."
+msgstr "@niko6 na sala atrás do relógio grande."
+
+msgid "@niko And... and..."
+msgstr "@niko E... e..."
+
+msgid "@niko_speak I see a wheat field on the other side!"
+msgstr "@niko_speak Estou vendo um trigal do outro lado!"
+
+msgid "@niko_pancakes ...I see my village..."
+msgstr "@niko_pancakes ... Estou vendo minha aldeia..."
+
+msgid "@niko_pancakes I hear...\\.\\. my mama...."
+msgstr "@niko_pancakes Estou ouvindo...\\.\\. minha mãe..."
+
+msgid "@niko2 She's looking for me..."
+msgstr "@niko2 Ela está me procurando..."
+
+msgid "@niko3 ...."
+msgstr "@niko3 ..."
+
+msgid "@niko3 Ah, \\p..."
+msgstr "@niko3 Ah, \\p..."
+
+msgid "@niko5 This...\\.\\. isnt the first time we've said goodbye, is it?"
+msgstr "@niko5 Esta...\\.\\. não é a primeira vez que nos despedimos, não é?"
+
+msgid "@niko_distressed2 But... this'll be the last time, won't it?"
+msgstr "@niko_distressed2 Mas... essa será a última, não é?"
+
+msgid "@niko_distressed I don't think we'll ever see each other again after this..."
+msgstr "@niko_distressed Acho que não nos veremos mais depois disso..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_distressed ...and... what will become of the world?"
+msgstr "@niko_distressed ... e... o que será do mundo?"
+
+msgid "@niko_eyeclosed2 ...after all we've been through."
+msgstr "@niko_eyeclosed2 ... depois de tudo que passamos..."
+
+msgid "@niko3 After everything we've done..."
+msgstr "@niko3 depois de tudo que fizemos...?"
+
+msgid "@niko_distressed2 I still... \\>\\@niko_distressed don't know..."
+msgstr "@niko_distressed2 Eu ainda... \\>\\@niko_distressed não sei..."
+
+msgid "[\"This place...\"]"
+msgstr "[\"Este lugar...\"]"
+
+msgid "[\"These people...\"]"
+msgstr "[\"essas pessoas...\"]"
+
+msgid "[\"Won't stop existing.\"]"
+msgstr "[\"não desaparecerão.\"]"
+
+msgid "[\"They'll be in your memory.\"]"
+msgstr "[\"Elas ficarão na sua memória...\"]"
+
+msgid "[\"They'll be in my memory, too\"]"
+msgstr "[\"e na minha também.\"]"
+
+msgid "@niko2 ...."
+msgstr "@niko2 ..."
+
+msgid "@niko2 I... \\>\\@niko_speak promise I'll never forget this world!"
+msgstr "@niko2 Eu... \\>\\@niko_speak prometo que nunca me esquecerei deste mundo!"
+
+msgid "@niko3 I promise... \\@niko I'll never forget you, \\p."
+msgstr "@niko3 Prometo... \\@niko Nunca me esquecerei de você, \\p."
+
+msgid "@niko2 So... take care of yourself, okay?"
+msgstr "@niko2 Então... cuide-se bem, tá?"
+
+msgid "[\"You too.\"]"
+msgstr "[\"Você também.\"]"
+
+msgid "@niko Mhm...."
+msgstr "@niko Hmm..."
+
+msgid "[\"Goodbye, Niko.\"]"
+msgstr "[\"Adeus, Niko.\"]"
+
+msgid "@niko2 Goodbye, \\p..."
+msgstr "@niko2 Adeus, \\p..."
+

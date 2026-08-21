@@ -1,0 +1,21 @@
+msgid "[COMMUNICATIONS WITH THE SURFACE HAVE BEEN LOST.]"
+msgstr "[地表トノ連絡ガ途絶えましタ。]"
+
+msgid "[I AM UNABLE TO DO ANYTHING.]"
+msgstr "[何モ出来ませン。]"
+
+msgid "$WHO TOOK MY STAPLER"
+msgstr "$私のホッチキスを\n盗ったのは誰だ！！"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko コンピュータ…か何かかな…"
+
+msgid "@niko There are some small holes on the table..."
+msgstr "@niko テーブルの色んなとこに\n小さな穴が開いてる…"
+
+msgid "@niko Looks like something was bolted here before..."
+msgstr "@niko 何か固定してたみたいだね…"
+
+msgid "@niko There's some small holes on the table..."
+msgstr "@niko テーブルに小さな穴がたくさん…"
+

@@ -1,0 +1,153 @@
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "나의 짐은 빛"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "내가 아는 장소"
+
+msgid "Phosphor=Phosphor"
+msgstr "발광체"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "예언"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "버려진 공장"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "실버포인트"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "신의 기계"
+
+msgid "Rowbot=Rowbot"
+msgstr "운항봇"
+
+msgid "Geothermal=Geothermal"
+msgstr "지열"
+
+msgid "Distant=Distant"
+msgstr "먼 거리"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "빛 속으로"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "여러 개의 작은 우주 (Reprise)"
+
+msgid "Navigate=Navigate"
+msgstr "항해"
+
+msgid "ToSleep=To Sleep"
+msgstr "잠에 들다"
+
+msgid "ToDream=To Dream"
+msgstr "꿈속으로"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "알룰라"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "폐허의 아이들"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "좋지 않아"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "살금살금 고양이 발"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "실내"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "어두운 계단통"
+
+msgid "Sonder=Sonder"
+msgstr "타인의 복잡한 삶에 대한 깨달음"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "꽤 괜찮은 날이야..."
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "도서관 산책"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "소박한 비밀"
+
+msgid "Factory=Factory"
+msgstr "공장"
+
+msgid "TheTower=The Tower"
+msgstr "탑"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "니코와 세상 기계"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "나 여기 있어"
+
+msgid "Pretty=Pretty"
+msgstr "예뻐"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "여러 개의 작은 우주"
+
+msgid "Home=Thanks For Everything"
+msgstr "많이 많이 고마워"
+
+msgid "Countdown=Countdown"
+msgstr "카운트다운"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "광산 깊은 곳"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "흔적"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "타인의 복잡한 삶에 대한 깨달음 (extended)"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "프로토콜을 벗어나"
+
+msgid "Panic=Panic"
+msgstr "혼란"
+
+msgid "Collapse=Collapse"
+msgstr "붕괴"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "항해 (extended)"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "첫 번째 우주"
+
+msgid "Aviator=Aviator"
+msgstr "비행사"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "11시"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "루"
+
+msgid "TheAuthor=The Author"
+msgstr "저자"
+
+msgid "computer_room=The World Machine"
+msgstr "세상 기계"
+
+msgid "Encounter=Encounter"
+msgstr "만남"
+
+msgid "Solstice=Solstice"
+msgstr "지점"
+
+msgid "Sunrise=Sunrise"
+msgstr "일출"
+
+msgid "InMemory=In Memory"
+msgstr "추억"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "오염과의 전쟁"
+

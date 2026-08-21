@@ -1,0 +1,705 @@
+msgid "Hopefully one day he'll show up!"
+msgstr "Spero che, prima o poi, si faccia vedere!"
+
+msgid "I mean, I don't think many people have ever seen him in person."
+msgstr "Insomma, quasi nessuno l'ha mai incontrato..."
+
+msgid "...or know what he looks like!"
+msgstr "...e solo in pochi sanno che aspetto ha!"
+
+msgid "Everyone's heard OF him through secondhand accounts, though."
+msgstr "Però, tutti hanno SENTITO PARLARE di lui tramite resoconti esterni."
+
+msgid "...oh! But he did reply to my letter that one time!"
+msgstr "...Oh! Ora che ci penso, una volta ha risposto ad una mia lettera!"
+
+msgid "I got it framed immediately."
+msgstr "L'ho incorniciata immediatamente."
+
+msgid "@niko Nice."
+msgstr "@niko Bene."
+
+msgid "Oh, hello! Do you need directions?"
+msgstr "Oh, ciao! Hai bisogno di indicazioni?"
+
+msgid "Let's see... this area here is mostly historical accounts, the reference section is downstairs, and, uh..."
+msgstr "Allora... quest'area è principalmente per i resoconti storici, la sezione fonti è al piano di sotto e, ehm..."
+
+msgid "I'm not sure where the children's section is... sorry!"
+msgstr "Non so dove sia la sezione per bambini... mi dispiace!"
+
+msgid "@niko_speak That's ok! \\.\\.\\@niko I'm not really looking for books."
+msgstr "@niko_speak Non fa niente! \\.\\.\\@niko Tanto non sto cercando dei libri."
+
+msgid "Oh! Are you here to... look for the Author, then?"
+msgstr "Oh... Sei qui per l'Autore, allora?"
+
+msgid "@niko ...no?"
+msgstr "@niko ...No?"
+
+msgid "Oh, that's good!"
+msgstr "Oh, meglio così!"
+
+msgid "Er, I mean... that means you won't be disappointed!"
+msgstr "Ehm, cioè... vuol dire che non resterai deluso!"
+
+msgid "I've been volunteering here for months, and I've never seen him, not even once!"
+msgstr "Faccio volontariato qui da mesi e non l'ho mai visto, neanche una singola volta!"
+
+msgid "He works together with the head librarian on publishing, so you'd think he would at least show up once in a while..."
+msgstr "Lavora alla pubblicazione delle sue opere con la capo bibliotecaria... quindi ti verrebbe da pensare che qualche volta si faccia vedere..."
+
+msgid "@niko_speak But... he doesn't?"
+msgstr "@niko_speak ...E invece no?"
+
+msgid "Yeah... he seems kiiinda reclusive."
+msgstr "Già... è proprio un tipo solitario."
+
+msgid "...which is weird for a guy who supposedly travels the world."
+msgstr "...Non si direbbe, dato che pare abbia viaggiato in lungo e in largo. Strano, eh?."
+
+msgid "Maybe it's just around people..."
+msgstr "Magari si comporta così solo con le persone..."
+
+msgid "@niko Um..."
+msgstr "@niko Ehm..."
+
+msgid "@niko_wtf What... are you doing... to that book?"
+msgstr "@niko_wtf Cosa... stai facendo... a quel libro?"
+
+msgid "Don't worry, these are my own books. That I wrote."
+msgstr "Non ti preoccupare, questi sono i miei libri. Tutta farina del mio sacco."
+
+msgid "I just pulled them off the shelves to modify them. I have to cross out some sections..."
+msgstr "Li ho presi solo per modificarli un po'. Devo giusto cancellare qualche paragrafo..."
+
+msgid "...most sections."
+msgstr "...la maggior parte dei paragrafi, a dirla tutta."
+
+msgid "@niko_speak Eh? How come?"
+msgstr "@niko_speak Eh? Perché?"
+
+msgid "Cuz otherwise they'll think I copied HIM."
+msgstr "Perché altrimenti potrebbero pensare sia un copione. Dopotutto la gente pensa solo ai SUOI lavori."
+
+msgid "@niko Him?"
+msgstr "@niko Suoi? Di chi stai parlando?"
+
+msgid "The Author!"
+msgstr "Dell'Autore, ovviamente!"
+
+msgid "I mean, I really don't see the point of writing anything anymore!"
+msgstr "Arrivati a 'sto punto, a che serve scrivere?"
+
+msgid "The Author is just gonna write about the same thing, and then everyone will love it!"
+msgstr "Tanto poi l'Autore se ne esce con un libro sullo stesso argomento e la gente impazzisce!"
+
+msgid "And nobody's gonna remember the books that came out before his!"
+msgstr "E la cosa bella è che nessuno si ricorderà che sia uscito prima il mio!"
+
+msgid "@niko Oh, uh..."
+msgstr "@niko Oh, ehm..."
+
+msgid "I mean, I ain't hatin'."
+msgstr "Non fraintendermi, non lo odio mica."
+
+msgid "I can see why people go nuts over his stuff. That guy's got major talent."
+msgstr "È normale che la gente vada pazza per i suoi libri, quel tipo ha talento."
+
+msgid "But... it just... hurts, y'know?"
+msgstr "Ma fa comunque male..."
+
+msgid "It's never fun when people call you a copycat for something you wrote about first."
+msgstr "Non è per niente bello essere additati come copioni per qualcosa che ho scritto per primo. Uff, questa sì che è una bella gatta da pelare."
+
+msgid "@niko I can see that..."
+msgstr "@niko3 Ehi aspetta, non guardare me! Non è colpa mia!"
+
+msgid "@niko_speak People call me a cat all the time!"
+msgstr "@niko_speak Io invece non capisco perché mi diano tutti del gatto..."
+
+msgid "@niko_eyeclosed Even though I'm a person, and cats are pets."
+msgstr "@niko_eyeclosed È chiaro sia una persona, mentre i gatti... Beh, sono gatti, animali domestici."
+
+msgid "@niko ...and mousers."
+msgstr "@niko ...E cacciatori di topi."
+
+msgid "@niko_eyeclosed I sure hope people don't think I eat mice..."
+msgstr "@niko_eyeclosed Nessuno pensa che io mangi topi, spero..."
+
+msgid "Heh, then I guess we're in the same boat, kiddo."
+msgstr "Eheh ragazzo, a quanto pare siamo sulla stessa barca."
+
+msgid "Well, I think I changed at least half a book's worth of content."
+msgstr "Incredibile, ho cambiato più della metà delle frasi dei miei libri..."
+
+msgid "And even then, it's still too similiar!"
+msgstr "E SEMBRANO ANCORA UGUALI AI SUOI!"
+
+msgid "Looks like I'll just have to accept my fate..."
+msgstr "Forse è giunta l'ora che accetti il mio destino..."
+
+msgid "@niko Well, I guess being a called a cat isn't all that bad..."
+msgstr "@niko In fin dei conti, essere chiamato \"gatto\" non è così male..."
+
+msgid "@niko_eyeclosed ...as long as people don't assume you eat mice."
+msgstr "@niko_eyeclosed ...purché la gente non pensi veramente io mangi topi."
+
+msgid "@niko It's an ink bottle, complete with a quill."
+msgstr "@niko È una bottiglia d'inchiostro, con anche una penna d'oca."
+
+msgid "@niko_83c Brings back memories, doesn't it, \\p?"
+msgstr "@niko_83c Ricorda qualcosa, non è così \\p?"
+
+msgid "...y'know, I've tried looking for the flying machine with my binoculars for ages!"
+msgstr "...Sai, ho provato a cercare la sua macchina volante con il mio binocolo per anni!"
+
+msgid "Never saw such a thing, though..."
+msgstr "Non l'ho mai vista, però..."
+
+msgid "The Author is so cool!"
+msgstr "L'Autore è fantastico!"
+
+msgid "I heard he can travel all over the world with a flying machine!"
+msgstr "Ho sentito che può viaggiare per tutto il mondo con una macchina volante!"
+
+msgid "That's how he gathers material for his books."
+msgstr "È così che ottiene materiale per i suoi libri."
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak Wow!"
+
+msgid "@niko A small pile of books."
+msgstr "@niko Una piccola pila di libri."
+
+msgid "@bookbot !"
+msgstr "@bookbot [!]"
+
+msgid "@bookbot [UNAUTHORIZED ENTRY.]"
+msgstr "@bookbot [INGRESSO NON AUTORIZZATO.]"
+
+msgid "@bookbot [LIBRARY CARD REQUIRED FOR FURTHER ACCESS.]"
+msgstr "@bookbot [TESSERA DELLA BIBLIOTECA RICHIESTA PER L'ACCESSO.]"
+
+msgid "@niko_eyeclosed I know, I know..."
+msgstr "@niko_eyeclosed Lo so, lo so..."
+
+msgid "@niko Wait, what?"
+msgstr "@niko Aspetta, cosa?"
+
+msgid "@niko_speak I don't have a library card, though!"
+msgstr "@niko_speak Ma io non ce l'ho!"
+
+msgid "@niko Where can I get one?"
+msgstr "@niko Dove posso prenderla?"
+
+msgid "@bookbot [THIS IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [QUESTA È UNA DOMANDA PER LA CAPO BIBLIOTECARIA, GEORGE.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER.]"
+msgstr "@bookbot [RIMANGA IN ATTESA MENTRE LA CHIAMO.]"
+
+msgid "@niko_huh . . ."
+msgstr "@niko_huh . . ."
+
+msgid "@niko_wtf2 . . . . ."
+msgstr "@niko_wtf2 . . . . . ."
+
+msgid "@bookbot [SHE IS NOT PICKING UP.]"
+msgstr "@bookbot [NON RISPONDE.]"
+
+msgid "@niko_eyeclosed I figured..."
+msgstr "@niko_eyeclosed Lo avevo capito..."
+
+msgid "@niko Are you sure you can't just... let me through?"
+msgstr "@niko Perché non puoi solo... lasciarmi entrare?"
+
+msgid "@bookbot [LETTING YOU THROUGH WITHOUT A LIBRARY CARD IS AGAINST MY PROGRAMMING.]"
+msgstr "@bookbot [FARLA ANDARE OLTRE SENZA UNA TESSERA DELLA BIBLIOTECA NON FA PARTE DEL MIO PROGRAMMA.]"
+
+msgid "@niko_what Wh-"
+msgstr "@niko_what Cos-"
+
+msgid "@niko Even in an emergency?"
+msgstr "@niko Anche in caso d'emergenza?"
+
+msgid "@bookbot [MY PROGRAMMING IS NOT FLEXIBLE.]"
+msgstr "@bookbot [IL MIO PROGRAMMA NON CONSENTE ECCEZIONI.]"
+
+msgid "@bookbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@bookbot [NON SONO STATO ADDOMESTICATO.]"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "[DO YOU NEED SOMETHING? PLEASE APPROACH FROM THE FRONT.]"
+msgstr "[HA BISOGNO DI QUALCOSA? PER FAVORE, SI METTA DAVANTI A ME.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh!"
+
+msgid "@niko There's this book I found back in the barrens area."
+msgstr "@niko Ho trovato questo libro nella Baia Desolata."
+
+msgid "@niko_speak Since this is a place for books, would you happen to know what it says?"
+msgstr "@niko_speak Mi sembra il luogo giusto per chiedere cosa ci sia scritto dentro. Tu lo sai?"
+
+msgid "@bookbot [I DO NOT RECOGNIZE THIS LANGUAGE]"
+msgstr "@bookbot [NON RICONOSCO QUESTA LINGUA.]"
+
+msgid "@bookbot [BUT THE SYMBOL ON THE COVER IS OF IMPORTANCE]"
+msgstr "@bookbot [MA SO CHE IL SIMBOLO SULLA COPERTINA È IMPORTANTE.]"
+
+msgid "@niko Oh?"
+msgstr "@niko Oh?"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, CAN EXPLAIN IT.]"
+msgstr "@bookbot [LA CAPO BIBLIOTECARIA, GEORGE, GLIELO PUÒ SPIEGARE.]"
+
+msgid "@bookbot [WOULD YOU LIKE ME TO CALL HER?]"
+msgstr "@bookbot [VUOLE CHE LA CHIAMI?]"
+
+msgid "@niko_eyeclosed Please don't."
+msgstr "@niko_eyeclosed Ti prego, no."
+
+msgid "@bookbot [AUTHENTICATING BARCODE...]"
+msgstr "@bookbot [AUTENTICAZIONE CODICE A BARRE...]"
+
+msgid "@bookbot [EXECUTING FACIAL RECOGNITION...]"
+msgstr "@bookbot [ATTIVAZIONE PROCESSO DI RICONOSCIMENTO FACCIALE...]"
+
+msgid "@bookbot [PHOTO MATCH...\\. FAILED.]"
+msgstr "@bookbot [RICONOSCIMENTO... \\.FALLITO.]"
+
+msgid "@bookbot [IT SEEMS YOU DO NOT RESEMBLE THE OWNER OF THE CARD.]"
+msgstr "@bookbot [SEMBRA CHE LEI NON SIA IL PROPRIETARIO DI QUESTA TESSERA.]"
+
+msgid "@bookbot [YOU CANNOT USE THIS CARD.]"
+msgstr "@bookbot [DI CONSEGUENZA, NON PUÒ UTILIZZARLA.]"
+
+msgid "@niko_eyeclosed Bummer..."
+msgstr "@niko_eyeclosed Uffa..."
+
+msgid "@bookbot [INVALID CARD!]"
+msgstr "@bookbot [TESSERA NON VALIDA!]"
+
+msgid "@bookbot [PHOTO IS MISSING.]"
+msgstr "@bookbot [CAUSA: FOTO MANCANTE.]"
+
+msgid "@niko_eyeclosed ...why did I do that."
+msgstr "@niko_eyeclosed ...Perché l'ho fatto?"
+
+msgid "@bookbot [HAVE A NICE DAY, MISS KIP.]"
+msgstr "@bookbot [LE AUGURO UNA BUONA GIORNATA, SIGNORINA KIP.]"
+
+msgid "@niko Yup, that's... totally me."
+msgstr "@niko Sì... sono proprio io."
+
+msgid "@bookbot [PHOTO MATCH...\\. SUCCESSFUL]"
+msgstr "@bookbot [RICONOSCIMENTO... \\.RIUSCITO.]"
+
+msgid "@bookbot [YOU'RE GOOD TO GO!]"
+msgstr "@bookbot [PUÒ ANDARE!]"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ..."
+
+msgid "@niko_eyeclosed ...maybe I should've changed the name."
+msgstr "@niko_eyeclosed ...Avrei dovuto cambiare il nome."
+
+msgid "@niko So I'm guessing you don't give out library cards?"
+msgstr "@niko Quindi non sei tu a dare le tessere della biblioteca, vero?"
+
+msgid "@bookbot [I ONLY HANDLE BOOK TRANSACTIONS.]"
+msgstr "@bookbot [MI OCCUPO SOLO DELLA GESTIONE DEI LIBRI.]"
+
+msgid "@bookbot [...FOR PEOPLE WHO ALREADY POSSESS CARDS.]"
+msgstr "@bookbot [...PER CHI GIÀ POSSIEDE UNA TESSERA.]"
+
+msgid "@niko Ah."
+msgstr "@niko Ah."
+
+msgid "@bookbot [TO ACQUIRE A CARD, YOU WOULD NEED TO CONTACT THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [PER PROCURARSENE UNA, DEVE CONTATTARE LA CAPO BIBLIOTECARIA, GEORGE.]"
+
+msgid "@bookbot [ALLOW ME TO CALL HER-"
+msgstr "@bookbot [RIMANGA IN ATTESA MENTRE LA CHIA-"
+
+msgid "@niko_surprised Don't!!"
+msgstr "@niko_surprised Non lo fare!!"
+
+msgid "@bookbot [THE HEAD LIBRARIAN, GEORGE, IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [LA CAPO BIBLIOTECARIA, GEORGE, SI TROVA NEGLI ARCHIVI AL PIANO DI SOPRA.]"
+
+msgid "@niko Excuse me!"
+msgstr "@niko Ehi, scusa!"
+
+msgid "@bookbot [OH. YOU ARE THE MESSIAH.]"
+msgstr "@bookbot [OH. È IL MESSIA.]"
+
+msgid "@bookbot [WELCOME.]"
+msgstr "@bookbot [BENVENUTO.]"
+
+msgid "@niko_speak When I first entered the city, a big robot told me to look for a library on the surface!"
+msgstr "@niko_speak Quando sono arrivato per la prima volta in città, un grande robot mi ha detto di cercare una biblioteca al pianoterra!"
+
+msgid "@niko This is the same library, right?"
+msgstr "@niko È questa, giusto?"
+
+msgid "@bookbot [AFFIRMATIVE.]"
+msgstr "@bookbot [AFFERMATIVO.]"
+
+msgid "@niko_speak Oh, goody!"
+msgstr "@niko_speak Oh, perfetto!"
+
+msgid "@niko Well... we're here... what do we do now?"
+msgstr "@niko Beh... ora che siamo qui... cosa dovremmo fare?"
+
+msgid "@niko_eyeclosed The big robot only said there'd be clues here..."
+msgstr "@niko_eyeclosed Il robot ha detto che avrei trovato degli indizi qui..."
+
+msgid "@bookbot [THAT IS A QUESTION FOR THE HEAD LIBRARIAN, GEORGE.]"
+msgstr "@bookbot [QUESTA È UNA DOMANDA PER LA CAPO BIBLIOTECARIA, GEORGE.]"
+
+msgid "@niko_speak Is she... not here?"
+msgstr "@niko_speak Non è qui?"
+
+msgid "@bookbot [SHE IS HERE. SHE IS IN THE ARCHIVAL ROOM UPSTAIRS.]"
+msgstr "@bookbot [SÌ INVECE. SI TROVA NEGLI ARCHIVI AL PIANO DI SOPRA.]"
+
+msgid "@bookbot [WHEN SHE IS CONCENTRATING ON HER WORK, SHE WILL IGNORE ANY AND ALL PHONECALLS.]"
+msgstr "@bookbot [QUANDO SI CONCENTRA SUL LAVORO IGNORA TUTTE LE TELEFONATE.]"
+
+msgid "@bookbot [...FOR SEVERAL DAYS.]"
+msgstr "@bookbot [...PER DIVERSI GIORNI.]"
+
+msgid "@niko_what Yikes!"
+msgstr "@niko_what Oh no!"
+
+msgid "@niko Can you go get her in person, then?"
+msgstr "@niko Potresti andare a chiamarla di persona?"
+
+msgid "@bookbot [LEAVING THIS POST IS NOT IN MY PROGRAMMING.]"
+msgstr "@bookbot [LASCIARE QUESTA POSTAZIONE NON FA PARTE DEL MIO PROGRAMMA.]"
+
+msgid "@niko Then... can I go myself?"
+msgstr "@niko Allora... posso andarci io?"
+
+msgid "@bookbot [OF COURSE.]"
+msgstr "@bookbot [CERTAMENTE.]"
+
+msgid "@bookbot [THE ARCHIVAL ROOM IS ACCESSIBLE THROUGH THE STAIRWELL BEHIND ME.]"
+msgstr "@bookbot [PUOI RAGGIUNGERE GLI ARCHIVI TRAMITE LA RAMPA DI SCALE DIETRO DI ME.]"
+
+msgid "@niko_speak Gotcha, thanks!"
+msgstr "@niko_speak Capito, grazie!"
+
+msgid "@niko A computer. It's currently off."
+msgstr "@niko Un computer. Al momento è spento."
+
+msgid "I guess that's why the library is always so packed."
+msgstr "Immagino sia per questo che la biblioteca è sempre così affollata."
+
+msgid "...and this is a slow day, mind you!"
+msgstr "...E oggi è una giornata relativamene tranquilla, eh!"
+
+msgid "The Author's books cover a wide range of topics."
+msgstr "I libri dell'Autore coprono una vasta gamma di argomenti."
+
+msgid "It seems there are no subjects he does not write about."
+msgstr "Sembra che non ci siano temi che non abbia trattato."
+
+msgid "Quite the renaissance man, don't you think?"
+msgstr "Un uomo, potremmo dire, rinascimentale, non credi?"
+
+msgid "@niko I guess so!"
+msgstr "@niko Direi di sì!"
+
+msgid "But he's been focusing on documenting the world, as of late."
+msgstr "Ma, negli ultimi tempi, si è concentrato sul documentare il mondo."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Oh?"
+
+msgid "They say this city is the last bastion of civilization."
+msgstr "Dicono che questa città sia l'ultimo pilastro della civiltà."
+
+msgid "Soon, these books may be the only thing we have to remember the rest of the world by."
+msgstr "Presto, questi libri potrebbero diventare tutto ciò che ricorderemo del mondo."
+
+msgid "@niko ...ah."
+msgstr "@niko ...Ah."
+
+msgid "@niko I haven't seen any superheroes in this world."
+msgstr "@niko Non ho visto nessun supereroe in questo mondo."
+
+msgid "@niko_speak Saw a lot of robots, though!"
+msgstr "@niko_speak Ho visto un sacco di robot, però!"
+
+msgid "Well, I guess robots are more plausible than superpowers..."
+msgstr "Beh, i robot sono più realistici di gente con i superpoteri, no?"
+
+msgid "@niko True!"
+msgstr "@niko Vero!"
+
+msgid "The Author publishes books at a highly accelerated, almost inhuman pace."
+msgstr "L'Autore pubblica libri ad un ritmo incredibile, quasi disumano."
+
+msgid "In fact, he has put out more books in one year than most authors do in a lifetime."
+msgstr "In un solo anno ha scritto più libri di quelli che un autore qualsiasi riuscirebbe a scrivere in tutta la sua vita!"
+
+msgid "According to the head librarian, there is still a large amount of material he has written, but not yet published."
+msgstr "E non è tutto! Secondo la capo bibliotecaria, ci sono ancora tanti altri suoi scritti da pubblicare."
+
+msgid "One cannot help but to wonder where he can get so much done in so little time."
+msgstr "Viene davvero da chiedersi come diamine faccia in così poco tempo."
+
+msgid "I did the calculations, and the numbers simply do not add up."
+msgstr "Ho fatto i calcoli e i numeri semplicemente non tornano."
+
+msgid "@niko Maybe he... \\.\\.\\@niko_speak can stop time?"
+msgstr "@niko Forse può... \\.\\.\\@niko_speak fermare il tempo?"
+
+msgid "No such mechanism exists in this world."
+msgstr "In questo mondo non esiste niente del genere."
+
+msgid "...Is that actually possible in your home dimension?"
+msgstr "...Nella tua dimensione d'origine è possibile?"
+
+msgid "@niko_eyeclosed Nah, I just saw it in a movie once..."
+msgstr "@niko_eyeclosed Nah, l'ho solo visto in un film..."
+
+msgid "@niko About... superheroes and stuff."
+msgstr "@niko Parlava di supereroi... e roba del genere."
+
+msgid "There's a couple of his books in this room that aren't occupied yet."
+msgstr "Ci sono un paio di suoi libri in questa stanza che ancora non sono stati prenotati."
+
+msgid "Hurry before someone takes them!"
+msgstr "Sbrigati, prima che qualcuno li prenda al posto tuo!"
+
+msgid "So, what do you think about the Author?"
+msgstr "Allora, cosa ne pensi dell'Autore?"
+
+msgid "@niko I... don't know?"
+msgstr "@niko Non lo so...?"
+
+msgid "Have you read his stuff yet?"
+msgstr "Hai già letto la sua roba?"
+
+msgid "If not, you should!"
+msgstr "Se non lo hai fatto, dovresti sbrigarti a rimediare!"
+
+msgid "@niko Books are neatly placed on the shelf."
+msgstr "@niko I libri sono ordinatamente posizionati sullo scaffale."
+
+msgid "@niko Books are placed neatly on the shelf."
+msgstr "@niko I libri sono posizionati ordinatamente sullo scaffale."
+
+msgid "@niko Placed books are neatly on the shelf."
+msgstr "@niko I libri sullo scaffale sono ordinatamente posizionati."
+
+msgid "@niko On the shelf are neatly placed books."
+msgstr "@niko Sullo scaffale i libri sono posizionati ordinatamente."
+
+msgid "@niko Neatly placed books are on the shelf."
+msgstr "@niko I libri ordinatamente posizionati sono sullo scaffale."
+
+msgid "@niko On the shelf neatly are placed books."
+msgstr "@niko Sullo scaffale sono ordinatamente posizionati i libri."
+
+msgid "@niko Placed books are on the shelf neatly."
+msgstr "@niko I libri sono posizionati sullo scaffale ordinatamente."
+
+msgid "@niko Books are on the shelf, neatly placed."
+msgstr "@niko I libri sono sullo scaffale, ordinatamente posizionati."
+
+msgid "@niko A pile of books on the ground."
+msgstr "@niko Una pila di libri per terra."
+
+msgid "@niko A book!"
+msgstr "@niko Un libro!"
+
+msgid "[RESHELVING IN PROGRESS...]"
+msgstr "[INVENTARIO IN CORSO...]"
+
+msgid "@niko A tall pile of books."
+msgstr "@niko Un'alta pila di libri."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+
+msgid "@niko Hi."
+msgstr "@niko Ciao."
+
+msgid "[RESHELVING IN PROGRESS.]"
+msgstr "[INVENTARIO IN CORSO.]"
+
+msgid "[PLEASE WATCH OUT FOR POTENTIAL FALLING BOOKS.]"
+msgstr "[ATTENZIONE ALLA POSSIBILE CADUTA DI LIBRI.]"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak Va bene!"
+
+msgid "@niko Coffee cups."
+msgstr "@niko Tazze di caffè."
+
+msgid "@niko_speak Coffee is for grown-ups!"
+msgstr "@niko_speak Il caffè è per adulti!"
+
+msgid "@niko_eyeclosed Yup... still scared of ladders."
+msgstr "@niko_eyeclosed Già... ho ancora paura delle scale."
+
+msgid "@niko A coffee machine."
+msgstr "@niko Una macchina del caffè."
+
+msgid "@niko It's almost empty..."
+msgstr "@niko È quasi vuota..."
+
+msgid "@niko A photo of some plants."
+msgstr "@niko Una foto di alcune piante."
+
+msgid "@niko Some sort of plaque."
+msgstr "@niko Una specie di targa."
+
+msgid "@niko_huh He just glared at me."
+msgstr "@niko_huh Mi ha appena lanciato un'occhiataccia."
+
+msgid "@niko_eyeclosed I don't think we should bother him, \\p..."
+msgstr "@niko_eyeclosed \\p, non credo che dovremmo disturbarlo..."
+
+msgid "..."
+msgstr "..."
+
+msgid ".....WHAT??!?"
+msgstr "......CHE VUOI!?!?"
+
+msgid "@niko_huh Wh-\\.\\.\\@niko I didn't say anything."
+msgstr "@niko_huh Cos- \\.\\.\\@niko Non ho detto nulla."
+
+msgid "Well stop staring at me then!"
+msgstr "Allora smettila di fissarmi!"
+
+msgid "@niko_speak I was just looking at your book..."
+msgstr "@niko_speak Stavo solo guardando il tuo libro..."
+
+msgid "Yes. You are in a library. There's books. In the library."
+msgstr "Sì. Sei in una biblioteca. Un posto dove ci sono libri."
+
+msgid "...Go bug the chatty one upstairs."
+msgstr "...Vai a scocciare la chiacchierona di sopra."
+
+msgid "@niko A photo of some people."
+msgstr "@niko Una foto di alcune persone."
+
+msgid "@niko Looks like a list of book titles written here..."
+msgstr "@niko Sembra sia una lista di titoli di libri..."
+
+msgid "@bookbot [IF YOU HAVE AN INQUIRY. PLEASE APPROACH FROM THE FRONT.]"
+msgstr "@bookbot [HA BISOGNO DI QUALCOSA? PER FAVORE, SI METTA DAVANTI A ME.]"
+
+msgid "@niko I'm good, thanks!"
+msgstr "@niko Sto bene, grazie!"
+
+msgid "@niko_speak A big book with a black clover on the cover."
+msgstr "@niko_speak Un grande libro con un trifoglio nero sulla copertina."
+
+msgid "@niko The title says \"A Comprehensive Guide to Phosphors\"."
+msgstr "@niko Il titolo recita \"Una dettagliata ed esaustiva guida al fosforo\"."
+
+msgid "@niko A marker drawing of a clover."
+msgstr "@niko Un disegno a pennarello di un trifoglio."
+
+msgid "@niko A marker eraser."
+msgstr "@niko Un cancellino per pennarelli."
+
+msgid "@niko The title says \"Emergence of New Ecological Niches In A Post-Sun World\"."
+msgstr "@niko Il titolo recita \"Nascita di nuove nicchie ecologiche in un mondo post-sole\"."
+
+msgid "@niko A green marker."
+msgstr "@niko Un pennarello verde."
+
+msgid "kip card"
+msgstr "tessera di kip"
+
+msgid "I just like looking at pictures."
+msgstr "Mi piace proprio guardare i disegni."
+
+msgid "@niko Same."
+msgstr "@niko Idem."
+
+msgid "@niko_speak You're going through these pages pretty fast!"
+msgstr "@niko_speak Stai sfogliando quelle pagine piuttosto velocemente!"
+
+msgid "Actually, it's mostly pictures!"
+msgstr "In realtà, sono per lo più disegni!"
+
+msgid "Yeah! The author doesn't only write books, he also illustrates them!"
+msgstr "Già! L'Autore non solo scrive libri, ma li illustra anche!"
+
+msgid "Sometimes he makes books out of only pictures."
+msgstr "A volte fa libri contenenti solo immagini."
+
+msgid "@niko Neat!"
+msgstr "@niko Bello!"
+
+msgid "@niko A blue marker."
+msgstr "@niko Un pennarello blu."
+
+msgid "niko card"
+msgstr "tessera di niko"
+
+msgid "@niko A red marker."
+msgstr "@niko Un pennarello rosso."
+
+msgid "glittery"
+msgstr "glitter"
+
+msgid "Oh, and picture books, those too."
+msgstr "Oh, e libri illustrati, anche quelli."
+
+msgid "@niko_speak I like pictures!"
+msgstr "@niko_speak Mi piacciono i disegni!"
+
+msgid "The Author's latest books are really something, yeah?"
+msgstr "Le ultime pubblicazioni dell'Autore sono impressionanti, vero?"
+
+msgid "The head librarian just released a bunch last week!"
+msgstr "La capo bibliotecaria ne ha fatte uscire un po' la scorsa settimana!"
+
+msgid "They're big compendiums, you'll see them if you look around."
+msgstr "Sono delle grosse raccolte, le noterai sicuramente guardandoti intorno."
+
+msgid "Kinda different from his earlier works, though."
+msgstr "Sono un po' diverse dai suoi lavori precedenti, però."
+
+msgid "I'm used to reading his travel logs and novels, mostly."
+msgstr "In genere leggo i suoi diari di viaggio e romanzi."
+
+msgid "I'm on my 3rd cup."
+msgstr "Sono alla terza tazza di caffè."
+
+msgid "I can't feel my limbs..."
+msgstr "Non mi sento più le gambe..."
+
+msgid "@niko um..."
+msgstr "@niko Ehm..."
+
+msgid "BUT I HAVE TO STAY AWAKE."
+msgstr "MA DEVO RIMANERE SVEGLIO."
+
+msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
+msgstr "DEVO SCOPRIRE COME FINISCE QUESTO LIBRO..."
+
+msgid "@niko2 Ummm...."
+msgstr "@niko2 Ehmmm..."
+
+msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
+msgstr "MALEDETTO L'AUTORE E I SUOI MERAVIGLIOSI MOMENTI DI SUSPENSE..."
+
+msgid "@niko This dry erase board is made of metal."
+msgstr "@niko Questa lavagna magnetica è fatta di metallo."
+
+msgid "cardquest + desk"
+msgstr "biglietto + scrivania"
+

@@ -1,0 +1,927 @@
+msgid "@cedric_talk It's you!"
+msgstr "@cedric_talk C'est toi !"
+
+msgid "@niko !"
+msgstr "@niko ... !"
+
+msgid "@cedric_smile You are Niko, right?"
+msgstr "@cedric_smile Tu es Niko, pas vrai ?"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak Oui !"
+
+msgid "@cedric_hmm You... um..."
+msgstr "@cedric_hmm Tu... euh..."
+
+msgid "@niko My name is Niko..."
+msgstr "@niko Je m'appelle Niko..."
+
+msgid "@cedric_smile Ah!"
+msgstr "@cedric_smile Ah !"
+
+msgid "@cedric_smile N-\\.\\.nice finally to meet you! \\@cedric_hmm \\>...no, wait."
+msgstr "@cedric_smile C'est... \\.\\.C'est un plaisir de faire enfin ta connaissance ! \\@cedric_hmm \\>... Non, attends."
+
+msgid "@cedric_sigh It is a pleasure to be of acquaintance at last, Niko."
+msgstr "@cedric_sigh C'est un plaisir d'enfin te rencontrer, Niko."
+
+msgid "@cedric_smile My name is Cedric."
+msgstr "@cedric_smile Je m'appelle Cedric."
+
+msgid "@niko2 Oh!"
+msgstr "@niko2 Oh !"
+
+msgid "@niko I'm supposed to be looking for you too!"
+msgstr "@niko Je te cherchais !"
+
+msgid "@cedric I am aware."
+msgstr "@cedric Oui, je sais."
+
+msgid "@cedric_hmm Prototype had contacted me earlier, saying that you would be on your way to the city."
+msgstr "@cedric_hmm Prototype m'a contacté pour me prévenir que tu te rendais en ville."
+
+msgid "@niko_speak He did?"
+msgstr "@niko_speak Vraiment ?"
+
+msgid "@cedric He sent me a message after his memories were restored."
+msgstr "@cedric Il m'a écrit une fois sa mémoire restaurée."
+
+msgid "@niko Oh..."
+msgstr "@niko Oh..."
+
+msgid "@cedric_hmm He told me to wait in the city, but I thought it'd be faster for me to pick you guys up."
+msgstr "@cedric_hmm Il m'a dit d'attendre en ville, mais j'ai préféré venir vous chercher."
+
+msgid "@cedric_sigh ...Turns out, that was a terrible idea."
+msgstr "@cedric_sigh ... À vrai dire, c'était une très mauvaise idée."
+
+msgid "@niko2 Pick... us up?"
+msgstr "@niko2 Venir... nous chercher ?"
+
+msgid "@niko_pancakes ...wait... YOU can fly that plane??"
+msgstr "@niko_pancakes ... Attends... Tu sais PILOTER cet avion ??"
+
+msgid "@cedric_hmm What...\\.\\. is a plane?"
+msgstr "@cedric_hmm Qu'est-ce qu'un... \\.\\.avion ?"
+
+msgid "@niko_speak That thing behind you!"
+msgstr "@niko_speak Cette chose derrière toi !"
+
+msgid "@cedric_talk Oh! You mean the flying machine?"
+msgstr "@cedric_talk Oh ! Tu parles de la machine volante ?"
+
+msgid "@niko_speak They're called planes in my world!"
+msgstr "@niko_speak Ça s'appelle un avion dans mon monde !"
+
+msgid "@cedric_hmm Oh..."
+msgstr "@cedric_hmm Oh..."
+
+msgid "@cedric_sigh ...I did not realize they existed in other worlds..."
+msgstr "@cedric_sigh ... J'ignorais qu'il en existait dans d'autres mondes..."
+
+msgid "@niko_speak ...wait! Are you the friend that Calamus and Alula was talking about, then?"
+msgstr "@niko_speak ... Attends ! Es-tu l'ami dont Calamus et Alula parlaient ?"
+
+msgid "@niko_speak Is this the same flying machine they were talking about?"
+msgstr "@niko_speak S'agit-il de la machine volante dont ils parlaient ?"
+
+msgid "@cedric I do not know anyone named Calamus or Alula."
+msgstr "@cedric Je ne connais personne du nom de Calamus ou Alula."
+
+msgid "@cedric_talk I think... they're meant to be friends with my father. \\>\\n\\@cedric_hmm ...in previous iterations of the..."
+msgstr "@cedric_talk Je suppose... qu'ils étaient amis avec mon père. \\>\\n\\@cedric_hmm ... Lors de précédentes tentatives..."
+
+msgid "@niko2 ...your father?"
+msgstr "@niko2 ... Ton père ?"
+
+msgid "@cedric_talk He was the original owner of the flying machine... \\>\\n\\@cedric_hmm ...it's... one of his greatest inventions, actually."
+msgstr "@cedric_talk La machine volante lui appartenait... \\>\\n\\@cedric_hmm ... C'est... l'une de ses meilleures inventions, à vrai dire."
+
+msgid "@niko_pancakes YOUR DAD INVENTED PLANES???"
+msgstr "@niko_pancakes TON PÈRE A INVENTÉ LES AVIONS ???"
+
+msgid "@cedric_hmm ...flying machine."
+msgstr "@cedric_hmm ... Les machines volantes."
+
+msgid "@niko_pancakes IT'S COOL EITHER WAY!!"
+msgstr "@niko_pancakes PEU IMPORTE, C'EST GÉNIAL !"
+
+msgid "@cedric_smile Thanks?"
+msgstr "@cedric_smile Merci ?"
+
+msgid "@cedric_talk But to answer your earlier question... I am proficient in operating the machine."
+msgstr "@cedric_talk Pour répondre à ta question d'origine... je sais faire fonctionner la machine."
+
+msgid "@cedric_hmm ...but ...something weird happened to the engine when I was in the air earlier..."
+msgstr "@cedric_hmm ... Mais... tout à l'heure, le moteur a eu un problème pendant que je volais..."
+
+msgid "@cedric_sigh I had to make an emergency landing on this tiny island before I crashed into the city wall."
+msgstr "@cedric_sigh J'ai dû atterrir en catastrophe sur cette minuscule île avant de m'écraser dans le mur de la ville."
+
+msgid "@niko3 You almost crashed? \\>\\n\\@niko4 That's terrible!"
+msgstr "@niko3 Tu as failli t'écraser ? \\>\\n\\@niko4 C'est horrible !"
+
+msgid "@cedric_sigh It was not pleasant, I will admit."
+msgstr "@cedric_sigh Ce n'était pas agréable, c'est vrai.\\n\\>"
+
+msgid "@cedric_hmm I wonder if the engine problem has to do with the square particle disruptions..."
+msgstr "@cedric_hmm Je me demande si le problème de moteur est lié aux perturbations des particules carrées..."
+
+msgid "@cedric I checked, but... there isn't any of that square stuff inside the machine itself."
+msgstr "@cedric J'ai regardé, mais... je n'ai pas trouvé de truc carré dans la machine."
+
+msgid "@cedric_hmm ...but I noticed some islands in the Glen are REALLY messed up now."
+msgstr "@cedric_hmm ... Cependant, j'ai remarqué que certaines îles du Vallon étaient PARTICULIÈREMENT touchées."
+
+msgid "@niko_eyeclosed They are..."
+msgstr "@niko_eyeclosed En effet..."
+
+msgid "@cedric_sigh Sigh. \\>\\nGuess I should have listened to Proto in the first place."
+msgstr "@cedric_sigh *Soupir*. \\>\\nJ'aurais dû écouter Proto dès le début."
+
+msgid "@cedric_hmm ...say, where is he?"
+msgstr "@cedric_hmm ... D'ailleurs, où est-il ?"
+
+msgid "@cedric_talk He said he was coming with you..."
+msgstr "@cedric_talk Il a dit qu'il serait avec toi..."
+
+msgid "@cedric Is he still back at the main islands?"
+msgstr "@cedric Est-il resté sur les îles principales ?"
+
+msgid "@niko3 Oh... actually..."
+msgstr "@niko3 Oh... À vrai dire..."
+
+msgid "@niko4 ...back at the Barrens, he..."
+msgstr "@niko4 ... Sur la Lande, il..."
+
+msgid "@niko_upset There was a cave-in...\\.\\. and then a bunch of squares..."
+msgstr "@niko_upset Il y a eu un effondrement...\\.\\. puis un tas de carrés..."
+
+msgid "@niko_upset2 ...he...\\.\\. and the robot lady..."
+msgstr "@niko_upset2 ... Il...\\.\\. Lui et la dame-robot..."
+
+msgid "@niko_distressed_talk ...neither of them made it out."
+msgstr "@niko_distressed_talk ... Aucun d'entre eux n'a survécu."
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ..."
+
+msgid "@cedric_eek No...."
+msgstr "@cedric_eek Non..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@niko_distressed2 He...\\.\\. did give me this, though."
+msgstr "@niko_distressed2 Il...\\.\\. m'a donné ceci."
+
+msgid "@niko3 This disk he pulled from his head..."
+msgstr "@niko3 Il a sorti cette disquette de sa tête..."
+
+msgid "@cedric_talk Oh!!!"
+msgstr "@cedric_talk Oh !!!"
+
+msgid "@cedric_sigh2 Oh thank goodness."
+msgstr "@cedric_sigh2 Oh, Dieu merci."
+
+msgid "@cedric_talk He gave you his main drive!"
+msgstr "@cedric_talk Il t'a donné son support principal !"
+
+msgid "@cedric_hmm As long as I have this, I should be able to bring him back."
+msgstr "@cedric_hmm Grâce à ça, je devrais pouvoir lui redonner vie."
+
+msgid "@niko2 R-really?"
+msgstr "@niko2 V... Vraiment ?"
+
+msgid "@cedric_sigh It's gonna be hard, but yes."
+msgstr "@cedric_sigh Ce ne sera pas facile, mais oui."
+
+msgid "@cedric You need all three of us for the big door."
+msgstr "@cedric Il te faut trois personnes pour la grande porte."
+
+msgid "@niko2 The...?"
+msgstr "@niko2 Hum... ?"
+
+msgid "@cedric_hmm But first thing's first, we need to find a way to go to the city."
+msgstr "@cedric_hmm Mais d'abord, nous devons atteindre la ville."
+
+msgid "@niko_eyeclosed Right...\\>\\nThe city gate is kind of kaput now."
+msgstr "@niko_eyeclosed Exact...\\>\\nLa porte de la ville n'est plus vraiment accessible maintenant."
+
+msgid "@cedric2 If this machine was working, we could just fly right in there..."
+msgstr "@cedric2 Si cette machine fonctionnait, nous pourrions l'utiliser pour nous rendre sur place..."
+
+msgid "@cedric_hmm I've isolated the issue with the machine, but I can't repair it with the stuff I have on hand."
+msgstr "@cedric_hmm J'ai identifié le problème de la machine, mais je ne peux pas la réparer avec ce que j'ai."
+
+msgid "@niko_speak Oh? What's wrong with it?"
+msgstr "@niko_speak Oh ? Pourquoi pas ?"
+
+msgid "@cedric The \\c[2]battery\\c[0] in the engine is dead, and the engine has some \\c[2]gears\\c[0] that need to be replaced."
+msgstr "@cedric La \\c[2]batterie\\c[0] du moteur est morte et le moteur lui-même a besoin de nouveaux \\c[2]rouages\\c[0]."
+
+msgid "@niko ...\\>\\nDo you think you'll be able to fix it if \\p and I help you find those things?"
+msgstr "@niko ...\\>\\nTu penses pouvoir tout réparer si \\p et moi t'aidons à trouver ces éléments ?"
+
+msgid "@cedric_hmm ...maybe."
+msgstr "@cedric_hmm ... Peut-être."
+
+msgid "@cedric_sigh Problem is... the Glen isn't exactly a very high-tech area."
+msgstr "@cedric_sigh Le problème, c'est que la technologie n'est pas très présente dans le Vallon."
+
+msgid "@cedric_sigh ...I'm not sure if you'll be able to find anything so specialized here."
+msgstr "@cedric_sigh ... J'ignore si tu pourras trouver des éléments aussi spécifiques ici."
+
+msgid "@niko_speak We'll try anyway!"
+msgstr "@niko_speak On va essayer !"
+
+msgid "@niko_eyeclosed We can't really do anything else right now..."
+msgstr "@niko_eyeclosed De toute façon, il n'y a rien d'autre à faire pour le moment..."
+
+msgid "@niko2 We found a battery..."
+msgstr "@niko2 On a trouvé une batterie..."
+
+msgid "@cedric4 Another one?"
+msgstr "@cedric4 Une autre ?"
+
+msgid "@cedric_talk Oh, nice!"
+msgstr "@cedric_talk Oh, génial !"
+
+msgid "@cedric3 I honestly wasn't expecting it..."
+msgstr "@cedric3 Je ne m'y attendais pas..."
+
+msgid "@niko It's from the generator on one of the islands."
+msgstr "@niko Elle vient du générateur d'une des îles."
+
+msgid "@cedric_talk The research station?"
+msgstr "@cedric_talk Du centre de recherche ?"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 Oui."
+
+msgid "@niko_speak It was powering all the robots there...\\>\\n\\@niko_eyeclosed I felt bad for taking it..."
+msgstr "@niko_speak Elle alimente tous les robots, là-bas...\\>\\n\\@niko_eyeclosed Je me sens coupable..."
+
+msgid "@cedric_hmm Ah..."
+msgstr "@cedric_hmm Ah..."
+
+msgid "@cedric_smile ...we can always just give it back later."
+msgstr "@cedric_smile ... On pourra toujours la rendre après."
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed D'accord..."
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together.\\>\\nPlease do what you must to find some."
+msgstr "@cedric_hmm Il nous faut toujours les \\c[2]rouages\\c[0] pour réparer ce moteur.\\>\\nFais ce qu'il faut pour les trouver."
+
+msgid "@niko We found this one in the Barrens.\\>\\nIt wasn't working at first, but \\p and I managed to fix it!"
+msgstr "@niko Nous avons trouvé celui-ci sur la Lande.\\>\\nIl ne fonctionnait pas au début, mais \\p et moi avons réussi à le réparer !"
+
+msgid "@cedric_smile ...it's good that you thought to bring it with you then."
+msgstr "@cedric_smile ... Tu as bien fait de l'apporter, dans ce cas."
+
+msgid "@niko_speak Yup!"
+msgstr "@niko_speak Oui !"
+
+msgid "@niko_speak We found a music box!"
+msgstr "@niko_speak On a trouvé une boîte à musique !"
+
+msgid "@niko It... should have gears in it, right?"
+msgstr "@niko Elle... devrait contenir des rouages, non ?"
+
+msgid "@cedric I assume so, but...\\>\\n..."
+msgstr "@cedric Je suppose, mais...\\>\\n..."
+
+msgid "@cedric_hmm This looks like one of the ones that my father made."
+msgstr "@cedric_hmm Elle ressemble à celles de mon père."
+
+msgid "@niko_pancakes YOUR DAD MAKES MUSIC BOXES TOO?"
+msgstr "@niko_pancakes TON PÈRE FABRIQUE AUSSI DES BOÎTES À MUSIQUE ?"
+
+msgid "@cedric_smile My dad makes a lot of things!"
+msgstr "@cedric_smile Mon père fabrique toutes sortes de choses !"
+
+msgid "@cedric_hmm Where did you get this from, by the way?"
+msgstr "@cedric_hmm Où as-tu trouvé ça, d'ailleurs ?"
+
+msgid "@niko_speak A trader from the village gave it to me!"
+msgstr "@niko_speak Le marchand du village me l'a donnée !"
+
+msgid "@cedric I see.\\>\\nI remember father saying that he used to trade with some of the people here."
+msgstr "@cedric Je vois.\\>\\nMon père disait faire des échanges avec les gens de là-bas."
+
+msgid "@cedric_smile He did always love traveling this world, despite..."
+msgstr "@cedric_smile Il adorait voyager dans le monde entier, même si..."
+
+msgid "@cedric_hmm ...well."
+msgstr "@cedric_hmm ... Enfin."
+
+msgid "@cedric_sigh Ah, sorry, I started rambling."
+msgstr "@cedric_sigh Oh, pardon, je divague."
+
+msgid "@cedric_talk The gears in there are compatible with the engine."
+msgstr "@cedric_talk Les rouages à l'intérieur sont compatibles avec le moteur."
+
+msgid "@cedric_sigh Although it pains me to have to take it apart..."
+msgstr "@cedric_sigh Même si la démonter me fait de la peine..."
+
+msgid "@niko2 Oh...\\.\\. I'm sorry!"
+msgstr "@niko2 Oh...\\.\\. Toutes mes excuses !"
+
+msgid "@cedric_hmm It's fine..."
+msgstr "@cedric_hmm Ce n'est rien..."
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running.\\>\\nPlease do what you must to find one."
+msgstr "@cedric Il nous faut toujours une \\c[3]batterie\\c[0] pour démarrer le moteur.\\>\\nFais ce qu'il faut pour en trouver une."
+
+msgid "@niko_eyeclosed Sorry... I forgot..."
+msgstr "@niko_eyeclosed Pardon... J'ai oublié..."
+
+msgid "@niko What parts do we need to find again?"
+msgstr "@niko Peux-tu me rappeler les pièces dont tu as besoin ?"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running."
+msgstr "@cedric Il nous faut toujours une \\c[3]batterie\\c[0] pour démarrer le moteur."
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together."
+msgstr "@cedric_hmm Il va toujours nous falloir quelques \\c[2]rouages\\c[0] pour réparer ce moteur."
+
+msgid "@cedric_hmm A \\c[2]battery\\c[0] for the engine, and a few \\c[2]gears\\c[0] to replace the broken ones."
+msgstr "@cedric_hmm Une \\c[2]batterie\\c[0] pour le moteur et quelques \\c[2]rouages\\c[0] pour remplacer ceux qui ont été endommagés."
+
+msgid "@cedric If you could find me the parts I need, I should be able to get this machine off the ground again."
+msgstr "@cedric Si tu pouvais me ramener les pièces dont j'ai besoin, je devrais être capable de faire décoller cette machine."
+
+msgid "@niko We made it!"
+msgstr "@niko On a réussi !"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go pay our respects..."
+msgstr "@calamus Allez, Alula.\\>\\nAllons nous recueillir..."
+
+msgid "@alula Okay!"
+msgstr "@alula D'accord !"
+
+msgid "@cedric_smile Looks like the flying machine has a chance after all!"
+msgstr "@cedric_smile On dirait que la machine volante a ses chances, après tout !"
+
+msgid "@cedric I just have to assemble the pieces now, but it might take a while..."
+msgstr "@cedric Je n'ai plus qu'à assembler les pièces, mais ça risque de prendre un moment..."
+
+msgid "@cedric_smile Do you mind keeping me company?"
+msgstr "@cedric_smile Tu veux bien me tenir compagnie ?"
+
+msgid "@niko How's it going?"
+msgstr "@niko Comment ça avance ?"
+
+msgid "@cedric Slow..."
+msgstr "@cedric Lentement..."
+
+msgid "@cedric_hmm The connectors in the battery were not designed for this type of engine, so I have to shift around some of these ports."
+msgstr "@cedric_hmm Les câbles de la batterie n'ont pas été conçus pour ce type de moteur, je dois donc changer ces prises."
+
+msgid "@cedric_sigh ...and there's this bolt that keeps getting stuck, and..."
+msgstr "@cedric_sigh ... Et ce boulon n'arrête pas de se coincer, et..."
+
+msgid "@niko_eyeclosed ...ah."
+msgstr "@niko_eyeclosed ... Ah."
+
+msgid "@cedric_smile ...don't worry! I am making decent progress!"
+msgstr "@cedric_smile ... Ne t'en fais pas ! J'avance bien !"
+
+msgid "@cedric We should be able to make it to the city by tonight."
+msgstr "@cedric On devrait pouvoir arriver en ville d'ici ce soir."
+
+msgid "@niko_eyeclosed If you say so..."
+msgstr "@niko_eyeclosed Si tu le dis..."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 ...what...\\.\\. will happen once we get there?"
+msgstr "@niko3 ... Que...\\.\\. va-t-il se passer quand on y sera ?"
+
+msgid "@cedric_hmm We need to bring Proto back first."
+msgstr "@cedric_hmm On doit d'abord ramener Proto."
+
+msgid "@cedric_talk And then we need to go find one more person."
+msgstr "@cedric_talk Ensuite, on va devoir trouver une personne de plus."
+
+msgid "@cedric You may have already met her, actually..."
+msgstr "@cedric Tu l'as peut-être déjà rencontrée, d'ailleurs..."
+
+msgid "@cedric_talk Do you remember her from the last time you were in this world?"
+msgstr "@cedric_talk Est-ce que tu te souviens d'elle lors de ta dernière visite dans ce monde ?"
+
+msgid "@niko I..."
+msgstr "@niko Je..."
+
+msgid "@niko3 ...what does she...\\> look like?"
+msgstr "@niko3 ... À quoi...\\> ressemble-t-elle ?"
+
+msgid "@cedric2 This is going to sound strange, but..."
+msgstr "@cedric2 Ça va te paraître étrange, mais..."
+
+msgid "@cedric_talk She is a fox."
+msgstr "@cedric_talk C'est une renarde."
+
+msgid "@niko_speak ...Rue?"
+msgstr "@niko_speak ... Rue ?"
+
+msgid "@cedric_talk You've met?"
+msgstr "@cedric_talk Vous vous connaissez ?"
+
+msgid "@niko_eyeclosed I... think so..."
+msgstr "@niko_eyeclosed Je crois, oui..."
+
+msgid "@niko_eyeclosed The memories are still really blurry, though..."
+msgstr "@niko_eyeclosed Mais mes souvenirs sont encore très flous..."
+
+msgid "@niko2 ...oh..."
+msgstr "@niko2 ... Oh..."
+
+msgid "@niko_eyeclosed I.... DO remember talking to a fox at one point..."
+msgstr "@niko_eyeclosed Je... me SOUVIENS avoir parlé à un renard à un moment..."
+
+msgid "@cedric_talk You've met Rue?"
+msgstr "@cedric_talk Tu as rencontré Rue ?"
+
+msgid "@cedric_sigh I see..."
+msgstr "@cedric_sigh Je vois..."
+
+msgid "@niko2 Oh, um..."
+msgstr "@niko2 Oh, hum..."
+
+msgid "@niko_eyeclosed I... don't think I know what you're talking about."
+msgstr "@niko_eyeclosed Je... Non, ça ne me dit rien."
+
+msgid "@cedric_sigh Worth a shot."
+msgstr "@cedric_sigh Ça valait le coup d'essayer."
+
+msgid "@cedric_hmm Rue can be... elusive."
+msgstr "@cedric_hmm Rue peut être... évasive."
+
+msgid "@cedric_talk Even if she IS the least hidden one of us..."
+msgstr "@cedric_talk Bien qu'elle SOIT la moins bien cachée d'entre nous..."
+
+msgid "@niko_eyeclosed My memories are still really blurry, though..."
+msgstr "@niko_eyeclosed Mais mes souvenirs sont encore très flous..."
+
+msgid "@niko_upset ....sigh."
+msgstr "@niko_upset ... *Soupir*."
+
+msgid "@niko_distressed2 It's just... hard... y'know?"
+msgstr "@niko_distressed2 C'est... difficile... tu comprends ?"
+
+msgid "@niko_eyeclosed Proto told me to think of this world like a dream."
+msgstr "@niko_eyeclosed Proto m'a dit de voir ce monde comme si je rêvais."
+
+msgid "@niko_distressed2 But then I get so caught up with..."
+msgstr "@niko_distressed2 Mais après, je me laisse absorber..."
+
+msgid "@niko_distressed And I just...\\.\\. kinda...\\> forget..."
+msgstr "@niko_distressed Et c'est juste que...\\> j'oublie...\\.\\. en quelque sorte..."
+
+msgid "@niko_distressed2 I forget that everything here is supposed to be...\\.\\. not real..."
+msgstr "@niko_distressed2 J'oublie que tout ce qui m'entoure ici est censé ne pas être...\\.\\. réel..."
+
+msgid "@niko_distressed ...and then... I remember."
+msgstr "@niko_distressed ... Puis je me souviens."
+
+msgid "@niko_eyeclosed ...and then I just get really sad..."
+msgstr "@niko_eyeclosed ... Et ça me rend triste..."
+
+msgid "@niko_upset2 ...I know this is for me to go home, but..."
+msgstr "@niko_upset2 ... Je sais que c'est pour rentrer chez moi, mais..."
+
+msgid "@niko_upset Knowing that none of it mattered in the first place..."
+msgstr "@niko_upset Savoir que rien de tout cela n'avait aucune importance..."
+
+msgid "@niko_eyeclosed ...am I just\\.\\. trapped here for no reason...?"
+msgstr "@niko_eyeclosed ... Il n'y aurait vraiment aucune raison\\.\\. à ma présence ici... ?"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ..."
+
+msgid "@niko_eyeclosed Proto also told me to not ask anyone in the world about this..."
+msgstr "@niko_eyeclosed Proto m'a aussi demandé de n'en parler à personne dans ce monde..."
+
+msgid "@niko_distressed2 Saying how \"they don't understand\"..."
+msgstr "@niko_distressed2 Il m'a dit qu'ils « ne comprendraient pas »..."
+
+msgid "@niko_distressed But... what about him?"
+msgstr "@niko_distressed Mais... Et lui alors ?"
+
+msgid "@niko_distressed2 How did HE know....?"
+msgstr "@niko_distressed2 Comment était-IL au courant... ?"
+
+msgid "@cedric ..."
+msgstr "@cedric ..."
+
+msgid "@niko3 ...How do YOU know?"
+msgstr "@niko3 ... Comment es-TU au courant ?"
+
+msgid "@niko_eyeclosed Aren't you guys ALL supposed to be code?"
+msgstr "@niko_eyeclosed Vous n'êtes pas TOUS censés être des éléments de code ?"
+
+msgid "@cedric_hmm ...well..."
+msgstr "@cedric_hmm ... Eh bien..."
+
+msgid "@niko_eyeclosed I'm not sure what to even believe anymore..."
+msgstr "@niko_eyeclosed Je ne sais même plus à quoi je devrais croire..."
+
+msgid "@cedric_sigh ..."
+msgstr "@cedric_sigh ..."
+
+msgid "@cedric_sigh I wish Rue was here..."
+msgstr "@cedric_sigh J'aimerais que Rue soit là..."
+
+msgid "@cedric3 She's SO much better at explaining this sort of thing."
+msgstr "@cedric3 Elle est TELLEMENT plus douée pour expliquer ce genre de choses."
+
+msgid "@cedric_sigh I'm doing a terrible job of it!"
+msgstr "@cedric_sigh Ce n'est vraiment pas mon truc !"
+
+msgid "@cedric_sigh2 I bet Proto was even less tactful, wasn't he..."
+msgstr "@cedric_sigh2 Je parie que Proto avait encore moins de tact, pas vrai... ?"
+
+msgid "@cedric_sigh I'm afraid I must risk sounding callous, but..."
+msgstr "@cedric_sigh Je vais peut-être paraître insensible, mais..."
+
+msgid "@cedric2 ...please, you need not concern yourself with how \"real\" everything is, for now."
+msgstr "@cedric2 ... Ne t'inquiète pas si tout te semble « réel », pour l'instant."
+
+msgid "@cedric_talk The plan is already in motion, we cannot allow for distractions."
+msgstr "@cedric_talk Le plan est déjà amorcé, on ne peut pas se déconcentrer maintenant."
+
+msgid "@cedric_hmm Father is putting everything into this one last run of the world."
+msgstr "@cedric_hmm Mon père mise tout ce qui lui reste dans ce dernier projet."
+
+msgid "@cedric_sigh The last chance for him to fix everything."
+msgstr "@cedric_sigh C'est sa dernière chance de régler la situation."
+
+msgid "@niko2 Your father... is involved in the World Machine?"
+msgstr "@niko2 Ton père... est impliqué dans la « Machine-monde » ?"
+
+msgid "@cedric3 You... \\.\\.could say that."
+msgstr "@cedric3 On... \\.\\.On peut dire ça."
+
+msgid "@cedric_sigh The acceleration of square particle anomalies was not accounted for at all, though."
+msgstr "@cedric_sigh Mais l'accélération des anomalies des particules carrées n'a pas du tout été prise en compte."
+
+msgid "@cedric The patch was only built to accomodate the normal rate they appear, but..."
+msgstr "@cedric Le patch a uniquement été conçu pour s'adapter à leur taux normal d'apparition, mais..."
+
+msgid "@cedric_sigh2 ...they're accumulating at frightening speeds, now."
+msgstr "@cedric_sigh2 ... Ils s'accumulent à une vitesse effrayante, maintenant."
+
+msgid "@cedric_sigh Proto even lost his body..."
+msgstr "@cedric_sigh Proto a même perdu son corps..."
+
+msgid "@cedric2 Thankfully, he gave you the disk just in time."
+msgstr "@cedric2 Heureusement, il t'a donné la disquette juste à temps."
+
+msgid "@niko3 So... what happened to him anyway?"
+msgstr "@niko3 Qu'est-ce qui lui est arrivé, d'ailleurs ?"
+
+msgid "@niko3 What happens to...\\.\\. ANYONE who gets caught in the squares?"
+msgstr "@niko3 Qu'est-ce qui arrive à...\\.\\. TOUS CEUX qui touchent les carrés ?"
+
+msgid "@niko_eyeclosed I only know it's bad..."
+msgstr "@niko_eyeclosed Je sais juste que ce n'est pas agréable..."
+
+msgid "@cedric_hmm Well, you know how the simulation works, right?"
+msgstr "@cedric_hmm Eh bien, tu sais comment fonctionne la simulation, pas vrai ?"
+
+msgid "@niko_upset2 How everything...\\.\\. is code....?"
+msgstr "@niko_upset2 Comment tout pourrait être...\\.\\. du code... ?"
+
+msgid "@cedric Specifically, everything is generated from pre-existing code."
+msgstr "@cedric Pour être précis, tout est généré à partir d'un code préexistant."
+
+msgid "@cedric The squares can cause damage to that code..."
+msgstr "@cedric Les carrés peuvent nuire à ce code..."
+
+msgid "@cedric_sigh ...most of the time, irreversible damage."
+msgstr "@cedric_sigh ... La plupart du temps, les dégâts sont irréversibles."
+
+msgid "@cedric_sigh Father has lost some friends in previous iterations of the simulation."
+msgstr "@cedric_sigh Père a perdu des amis lors des précédentes tentatives de simulation."
+
+msgid "@cedric3 It took him forever to develop the current, much more stable version."
+msgstr "@cedric3 Ça lui a pris une éternité pour développer la simulation actuelle, bien plus stable que l'autre."
+
+msgid "@niko4 ...you're making it sound like...\\.\\. your dad built the simulation himself..."
+msgstr "@niko4 ... À t'entendre, on croirait que...\\.\\. ton père a conçu la simulation lui-même..."
+
+msgid "@niko3 ...wait, DID he?"
+msgstr "@niko3 ... Attends, c'est le CAS ?"
+
+msgid "@cedric_sigh Yeah..."
+msgstr "@cedric_sigh Ouais..."
+
+msgid "@niko4 But... how?"
+msgstr "@niko4 Mais... comment ?"
+
+msgid "@niko_what If everyone in this world is code..."
+msgstr "@niko_what Si ce monde n'est constitué que de code..."
+
+msgid "@niko2 ...how can he build...\\.\\. \\@niko_what himself...?"
+msgstr "@niko2 ... Comment peut-il concevoir ça...\\.\\.\\@niko_what lui-même... ?"
+
+msgid "@cedric2 That's...\\.\\. um...\\>\\n\\@cedric_sigh not really what happened."
+msgstr "@cedric2 Ce n'est...\\.\\. euh...\\>\\n\\@cedric_sigh pas tout à fait ce qui est arrivé."
+
+msgid "@niko3 So... what happened?"
+msgstr "@niko3 Alors... que s'est-il passé ?"
+
+msgid "@cedric_sigh2 ...like I said, you shouldn't concern yourself with..."
+msgstr "@cedric_sigh2 ... Comme je le disais, tu ne devrais pas t'en faire avec..."
+
+msgid "@cedric4 ...with"
+msgstr "@cedric4 ... Avec..."
+
+msgid "@niko_distressed ....."
+msgstr "@niko_distressed ..."
+
+msgid "@cedric_sigh ...alright, alright...."
+msgstr "@cedric_sigh ... D'accord, d'accord..."
+
+msgid "@cedric3 Did Prototype....\\.\\. ever tell you about the old world?"
+msgstr "@cedric3 Est-ce que Prototype...\\.\\. t'a déjà parlé de l'ancien monde ?"
+
+msgid "@niko3 He... DID say something about being built to greet the messiah of the old world."
+msgstr "@niko3 Il... a mentionné le fait qu'il avait été conçu pour accueillir le messie de l'ancien monde."
+
+msgid "@niko_eyeclosed I was um...\\.\\. too caught up with the other stuff at the time to think about it..."
+msgstr "@niko_eyeclosed J'avais, euh...\\.\\. la tête ailleurs, je n'y ai pas pensé à ce moment-là..."
+
+msgid "@cedric2 Ah, you know OF it at least, then."
+msgstr "@cedric2 Ah, tu es au COURANT de ça, au moins."
+
+msgid "@cedric_sigh Alright... here we go."
+msgstr "@cedric_sigh D'accord, voilà toute l'histoire."
+
+msgid "@cedric My father... myself... the other two..."
+msgstr "@cedric Mon père... moi-même... et les deux autres..."
+
+msgid "@cedric3 None of us are part of the simulation itself."
+msgstr "@cedric3 Aucun de nous ne fait partie de la simulation, en soi."
+
+msgid "@cedric_sigh Our home world....\\> the \"real\" world... \\.\\.was actually destroyed a long time ago."
+msgstr "@cedric_sigh Notre monde natal...\\> Le monde « réel »...\\.\\. a été détruit il y a très longtemps."
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@cedric In the years leading up to the calamity, scientists from all over the world tried to stop it, but the outlook was bleak."
+msgstr "@cedric Au cours des années menant au cataclysme, des scientifiques à travers le monde ont essayé de stopper les événements, mais les perspectives étaient sombres."
+
+msgid "@cedric A vague prophecy about a messiah from another world became everyone's last bastion of hope."
+msgstr "@cedric Une vague prophétie annonçant l'arrivée d'un messie d'un autre monde est devenue le dernier souffle d'espoir de la civilisation."
+
+msgid "@cedric3 Prophetbot....\\.\\. er, Prototype... \\.\\.was built to predict the future, about the specifics of this messiah."
+msgstr "@cedric3 Prophètebot...\\.\\.Euh, Prototype... \\.\\.a été conçu pour prédire l'avenir, par rapport à ce messie."
+
+msgid "@cedric_sigh2 But as his predictions turned out, the messiah would not have been able to arrive to our world in time."
+msgstr "@cedric_sigh2 Mais après sa prédiction, il était clair que le messie ne pourrait pas sauver notre monde à temps."
+
+msgid "@cedric4 In fact, the messiah would not even have been born before our world ended."
+msgstr "@cedric4 Il se trouve que le messie ne serait même pas encore né lors de la fin du monde."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@cedric Disheartened, most people abandoned their research and resolved to peacefully live out their final years."
+msgstr "@cedric Découragés, beaucoup de gens ont abandonnés leurs recherches et se sont résignés à vivre tranquillement les dernières années qu'il leur restait."
+
+msgid "@cedric3 But... some people did the opposite."
+msgstr "@cedric3 Mais d'autres en ont décidé autrement..."
+
+msgid "@cedric_sigh Even though saving the world was impossible, they didn't want our existence to be in vain."
+msgstr "@cedric_sigh Même si sauver le monde était impossible, ils ne voulaient pas que notre existence soit vaine."
+
+msgid "@cedric2 And that's...\\.\\. where my father came in."
+msgstr "@cedric2 C'est là que...\\.\\. mon père est entré en scène."
+
+msgid "@cedric_talk With the last of his resources...\\>\\nhe built his most ambitious project yet."
+msgstr "@cedric_talk Il a utilisé tout ce qu'il avait...\\>\\n pour mener à bien le plus ambitieux de ses projets."
+
+msgid "@cedric ...\"The World Machine\"."
+msgstr "@cedric « La Machine-monde »..."
+
+msgid "@cedric2 A large, detailed facsimile of the old world, generated from a pool of memories collected from everyone he knew."
+msgstr "@cedric2 Une grande copie détaillée de l'ancien monde créée à partir des souvenirs de personnes qu'il connaissait."
+
+msgid "@cedric4 ...after a heavy amount of modification and an added narrative, my father was able to convert the entire structure into code."
+msgstr "@cedric4 Après de nombreuses modifications et l'ajout d'une narration, mon père a réussi à convertir l'ensemble de la structure en code."
+
+msgid "@niko3 ...how did that code.... escape the old world?"
+msgstr "@niko3 Mais... comment ce code s'est-il échappé de l'ancien monde... ?"
+
+msgid "@cedric_hmm I have no idea."
+msgstr "@cedric_hmm Je n'en sais rien."
+
+msgid "@cedric What I do know is, there is no equipment back home that was powerful enough to run the code independently."
+msgstr "@cedric Je sais, en revanche, qu'aucun équipement de l'époque n'était assez puissant pour lire le code indépendamment."
+
+msgid "@cedric So, asides from the standard hardware, it also needed to borrow the mental processing abilities of a living person."
+msgstr "@cedric En plus du logiciel standard, il devait également emprunter les capacités mentales d'une personne vivante."
+
+msgid "@cedric Father used himself for that, during the initial testing phases."
+msgstr "@cedric Père utilisa son propre corps pour les premiers tests."
+
+msgid "@cedric2 Like I said, it took many iterations for him to make the experience stable enough."
+msgstr "@cedric2 Et comme je l'ai déjà dit, il lui a fallu beaucoup de tentatives avant d'obtenir un résultat stable."
+
+msgid "@cedric_sigh2 ...but as you can see, even that's breaking down."
+msgstr "@cedric_sigh2 ... Mais comme tu as pu le voir, cela a quand même échoué."
+
+msgid "@niko2 Ah..."
+msgstr "@niko2 Ah..."
+
+msgid "@cedric Father caught on to the issue in the last minute, but did not have enough time to fix it."
+msgstr "@cedric Père a compris le problème au dernier moment, mais il n'a pas eu assez de temps pour le régler."
+
+msgid "@cedric4 After the world ended...\\.\\. the code kinda just ended up...\\>\\n\\@cedric3 floating in the void, indefinitely."
+msgstr "@cedric4 Après la fin du monde...\\.\\. le code finit par...\\>\\n\\@cedric3 flotter dans le néant, pour l'éternité."
+
+msgid "@cedric_sigh ...waiting for a willing operator to install it onto their own hardware."
+msgstr "@cedric_sigh ... En attendant qu'un opérateur veuille bien l'installer sur son propre logiciel."
+
+msgid "@niko3 ...\\p?"
+msgstr "@niko3 \\p... ?"
+
+msgid "@cedric Yeah."
+msgstr "@cedric Oui."
+
+msgid "@cedric The operator... \\.\\.\\p.... \\.\\.would then generate the universe using the code, becoming god in the process."
+msgstr "@cedric L'opérateur...\\.\\.\\p... \\.\\.créerait alors l'univers en utilisant le code, ce qui ferait de lui un dieu."
+
+msgid "@niko So... \\p was the living person you needed to borrow?"
+msgstr "@niko Donc... \\p était l'être vivant que vous vouliez utiliser ?"
+
+msgid "@cedric3 ....No?"
+msgstr "@cedric3 Non... ?"
+
+msgid "@cedric That.... would be you."
+msgstr "@cedric ... Il s'agit de toi..."
+
+msgid "@niko3 But why me?"
+msgstr "@niko3 Mais pourquoi moi ?"
+
+msgid "@niko ...."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed (I... should've asked that question a long time ago, shouldn't I...)"
+msgstr "@niko_eyeclosed (Je... J'aurais dû poser la question il y a bien longtemps déjà...)"
+
+msgid "@cedric3 I do not know."
+msgstr "@cedric3 Je ne sais pas."
+
+msgid "@cedric_hmm ...we...\\.\\. really need to get going."
+msgstr "@cedric_hmm ... Il...\\.\\. faut vraiment qu'on y aille."
+
+msgid "@niko_speak It's a plane!"
+msgstr "@niko_speak C'est un avion !"
+
+msgid "@cedric2 ...flying machine!"
+msgstr "@cedric2 ... Une machine volante !"
+
+msgid "@niko Right."
+msgstr "@niko D'accord."
+
+msgid "@niko It's a tent."
+msgstr "@niko C'est une tente."
+
+msgid "@niko Just a wrench."
+msgstr "@niko Ce n'est qu'une clé."
+
+msgid "@calamus_smile2 At least I still got my sister..."
+msgstr "@calamus_smile2 Au moins, j'ai toujours ma sœur..."
+
+msgid "@calamus_sad This is her grave..."
+msgstr "@calamus_sad C'est sa tombe..."
+
+msgid "@niko3 Ah..."
+msgstr "@niko3 Ah..."
+
+msgid "@calamus_sad It's been years, but..."
+msgstr "@calamus_sad Ça fait des années, mais.."
+
+msgid "@calamus_sad ...It's still... \\.\\.hard, y'know?"
+msgstr "@calamus_sad ... C'est toujours... \\.\\.douloureux, tu comprends ?"
+
+msgid "@calamus_sad Sigh..."
+msgstr "@calamus_sad *Soupir* ..."
+
+msgid "@calamus_sad Alula....\\.\\.\\n\\@calamus_smile wanna help me look for some flowers for mom later?"
+msgstr "@calamus_sad Alula...\\.\\.\\n\\@calamus_smile Tu veux bien m'aider à trouver des fleurs pour maman tout à l'heure ?"
+
+msgid "@alula_gasp \\.\\.Y\\.E\\.S"
+msgstr "@alula_gasp \\.\\.O\\.U\\.I"
+
+msgid "@calamus_smile2 ..."
+msgstr "@calamus_smile2 ..."
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus On a presque terminé ici, alors préviens-nous quand tu voudras retourner aux ruines."
+
+msgid "@niko Okay."
+msgstr "@niko D'accord."
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko Hé, est-ce que tu sais où je pourrais trouver une batterie ?"
+
+msgid "@calamus Good question.."
+msgstr "@calamus Très bonne question..."
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh Nous...\\.\\. n'avons pas vraiment accès à l'électricité dans le Vallon."
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed Ah."
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak Oh, mais il y a des robots au centre de recherche !\\>\\nS'il y a une batterie, ils sauront te dire où elle est."
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko Compris, merci !"
+
+msgid "@alula_speak I hope she can see us wherever she is!"
+msgstr "@alula_speak J'espère qu'elle peut nous voir d'où elle est !"
+
+msgid "@alula_gasp MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND"
+msgstr "@alula_gasp MAMAN, TU NE VAS PAS CROIRE CE QU'IL NOUS EST ARRIVÉ AUJOURD'HUI ! NOUS AVONS RENCONTRÉ LE MESSIE ET..."
+
+msgid "@alula_oh ..."
+msgstr "@alula_oh ..."
+
+msgid "@alula_speak ...hi Niko!"
+msgstr "@alula_speak ... Salut Niko !"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak Bonjour !"
+
+msgid "@alula Didja find any... \\@alula_pout ...any..."
+msgstr "@alula Est-ce que t'as trouvé...\\@alula_pout ... tes..."
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh ... Qu'est-ce que tu cherchais, déjà ?"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak Des rouages ?"
+
+msgid "@alula_speak Gears!\\>\\n\\@alula Didja find any of those?"
+msgstr "@alula_speak Des rouages !\\>\\n\\@alula Tu en as trouvé ?"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko Non, mais... J'ai trouvé cette boîte à musique, en revanche !"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp Oooh !"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko Est-ce que tu sais où je peux trouver des rouages ?"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula Des rouages ?\\>\\nQu'est-ce que c'est ?"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak Ça ressemble...\\.\\. à des cercles de métal avec des dents !"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak Des cercles... avec des dents ?!"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak Haha, ça a l'air amusant !\\>\\nC'est le genre d'objets que Magpie aurait !"
+
+msgid "@niko Magpie?"
+msgstr "@niko Magpie ?"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula Tu sais, le marchand !"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula Il récupère toutes sortes de choses amusantes !"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak Il conserve même du verre cassé et de la camelote !"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak ...Oh yeah!\\>\\n\\@niko I think I know who you're talking about."
+msgstr "@niko_speak ... Oh oui !\\>\\n\\@niko Je crois savoir de qui tu parles."
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak Il est tellement bizarre !"
+
+msgid "@niko It's a crowbar."
+msgstr "@niko C'est un pied-de-biche."
+
+msgid "@niko_eyeclosed Looks like a piece from this plane."
+msgstr "@niko_eyeclosed Ça ressemble à une pièce de cet avion."
+
+msgid "@niko It's a fire."
+msgstr "@niko C'est un feu."
+

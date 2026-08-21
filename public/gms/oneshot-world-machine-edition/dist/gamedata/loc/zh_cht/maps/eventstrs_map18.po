@@ -1,0 +1,102 @@
+msgid "@niko_speak What IS that?"
+msgstr "@niko_speak 那是什麼啊？"
+
+msgid "@niko You want me use the crowbar to open the safe, \\p? \\>\\nI'll... try!"
+msgstr "@niko \\p，你要我用撬棍打開保險箱嗎？\\>\\n我……我試試看！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko2 The door is sealed flush! \\>\\@niko_eyeclosed We might need the code after all..."
+msgstr "@niko2 門被封死了！\\>\\@niko_eyeclosed 我們還是需要密碼吧……"
+
+msgid "@niko A metal safe.\\nSeems like it's locked with a 6-digit code."
+msgstr "@niko 一個金屬保險箱。\\n看起來是用六位數的密碼鎖上鎖。"
+
+msgid "@niko I don't... remember seeing any 6-digit codes. Do you, \\p?"
+msgstr "@niko 我……不記得有看到任何六位數密碼。\\p，你有看到嗎？"
+
+msgid "[ENTER CODE:]"
+msgstr "[輸入密碼：]"
+
+msgid "@niko_speak Woah! It worked!"
+msgstr "@niko_speak 哇！成功了！"
+
+msgid "@niko2 Wait, how did you know the code,\\n\\p?\\>\\n\\@niko_eyeclosed I still don't remember seeing one..."
+msgstr "@niko2 等等，你怎麼知道密碼的，\\n\\p？\\>\\n\\@niko_eyeclosed 我還是想不起來有看到過……"
+
+msgid "[\"I had some help.\", \"I have my ways.\"]"
+msgstr "[\"有人幫我。\",\"我有我的辦法。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko From who?"
+msgstr "@niko_speak 真的？\\>\\n\\@niko 是誰呢？"
+
+msgid "[\"Don't worry about it.\"]"
+msgstr "[\"別煩惱這個了。\"]"
+
+msgid "@niko Okay..."
+msgstr "@niko 好吧……"
+
+msgid "@niko I...\\.\\. see!"
+msgstr "@niko 我……\\.\\.知道了！"
+
+msgid "[\"What's in the safe, Niko?\"]"
+msgstr "[\"霓光，保險箱裡裝了什麼？\"]"
+
+msgid "@niko Oh! Right.\\n\\.\\.Let's see..."
+msgstr "@niko 喔！對喔。\\n\\.\\.我看……"
+
+msgid "@niko_speak Ah!\\.\\. I found a gas mask!"
+msgstr "@niko_speak 啊！\\.\\.我找到一個防毒面具！"
+
+msgid "@niko_speak Also... there's this weird-looking book!"
+msgstr "@niko_speak 還有……這本奇怪的書！"
+
+msgid "@niko I can't read it, though..."
+msgstr "@niko 可是我沒辦法讀……"
+
+msgid "@niko2 ...not that I can't read or anything! Because I can!"
+msgstr "@niko2 ……不是因為我不識字喔！我有學過文字！"
+
+msgid "@niko_eyeclosed I just don't know what language this is..."
+msgstr "@niko_eyeclosed 只是我不認得這種語言……"
+
+msgid "@niko_eyeclosed That wasn't it..."
+msgstr "@niko_eyeclosed 不對……"
+
+msgid "@niko It's empty."
+msgstr "@niko 空空的。"
+
+msgid "$Although the poisonous gas is highly localized to the vent zones, Barrens workers were still recommended to wear gas masks."
+msgstr "$雖然毒氣被控制在排放區，我們還是建議藍荒地的員工佩帶防毒面具。"
+
+msgid "$These masks were mandatory around active vent sites, of course."
+msgstr "$當然，在運作中的排氣作業區會強制佩戴防毒面具。"
+
+msgid "$As more and more of the workforce got replaced by robots, we found ourselves with a surplus of abandoned gas masks."
+msgstr "$有越來越多工人被機器人取代，因此我們有很多被棄置的防毒面具。"
+
+msgid "$It seemed like a waste to get rid of them all, so we kept a few for emergencies."
+msgstr "$全部丟掉好像有點浪費，所以我們留了一些供緊急時使用。"
+
+msgid "$The sun will not return and the abyss is calling my name."
+msgstr "$太陽不會回歸，深淵在呼喚我。"
+
+msgid "$I'm sorry, everyone..."
+msgstr "$各位，我很抱歉……"
+
+msgid "$...for choosing to leave before the darkness suffocates us all."
+msgstr "$……很抱歉我選擇在黑暗讓我們全部窒息之前，先走一步。"
+
+msgid "@niko A torn page with faded ink."
+msgstr "@niko 撕破的頁面，墨水有點褪色。"
+
+msgid "$XX/XX/XX\\n\\nWith the mining operations going smoothly, materials are no longer our limiting factor."
+msgstr "$XX/XX/XX\\n\\n挖礦工作順利進行，原料不再是限制因素了。"
+
+msgid "$We will be able to build more resilient robots, both in body and mind."
+msgstr "$我們可以打造身心都更加強健的機器人。"
+
+msgid "$Specifically, the discovery of metal alloy 291 will likely allow the development of highly efficient circuitry."
+msgstr "$具體而言，合金291的發現很可能會使高效率電路系統的開發成真。"
+

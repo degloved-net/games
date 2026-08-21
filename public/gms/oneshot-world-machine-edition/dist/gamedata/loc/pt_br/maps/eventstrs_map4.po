@@ -1,0 +1,51 @@
+msgid "@ed [The wood in the fireplace looks like it was never used.]"
+msgstr "@ed [Parece que nunca usaram a madeira da lareira.]"
+
+msgid "@ed [Perhaps it could be \\c[6]lit\\c[0].]"
+msgstr "@ed [Talvez dê para \\c[6]acender\\c[0].]"
+
+msgid "@ed [The \\c[6]flames\\c[0] are dim but comforting.]"
+msgstr "@ed [As \\c[6]chamas\\c[0] são fracas, mas confortantes.]"
+
+msgid "@niko_speak Helloooo?\\>\\n\\@niko ...anyone?"
+msgstr "@niko_speak Olááá?\\>\\n\\@niko ... alguém?"
+
+msgid "@ed [The sink won't turn on.]"
+msgstr "@ed [A pia não abre.]"
+
+msgid "@ed [Something on the ground glimmers in the firelight.]"
+msgstr "@ed [Algo no chão brilha com a luz do fogo.]"
+
+msgid "@ed [It appears to be a small metallic object,\\nwedged into a crack in the floor.]"
+msgstr "@ed [Parece ser um objeto metálico pequeno,\\npreso em uma rachadura no chão.]"
+
+msgid "@ed [Niko digs it out.]"
+msgstr "@ed [Niko o desenterra.]"
+
+msgid "@ed [The refrigerator is empty.]"
+msgstr "@ed [O refrigerador está vazio.]"
+
+msgid "@ed [Inside the refrigerator is a \\c[2]bottle of alcohol\\c[0].]"
+msgstr "@ed [Dentro do refrigerador há um \\c[2]frasco de álcool\\c[0].]"
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [Niko o pega.]"
+
+msgid "@ed [Niko readies the branch...]"
+msgstr "@ed [Niko prepara o galho...]"
+
+msgid "@ed [It doesn't manage to light.]"
+msgstr "@ed [Isso não acende.]"
+
+msgid "@niko_speak Ah!"
+msgstr "@niko_speak Ah!"
+
+msgid "@ed [The TV gives off a dangerous-looking \\c[3]spark\\c[0].]"
+msgstr "@ed [A TV solta uma \\c[3]faísca\\c[0] que parece ser perigosa.]"
+
+msgid "@ed [Just a table.]"
+msgstr "@ed [Só uma mesa.]"
+
+msgid "@ed [Just a chair.]"
+msgstr "@ed [Só uma cadeira.]"
+

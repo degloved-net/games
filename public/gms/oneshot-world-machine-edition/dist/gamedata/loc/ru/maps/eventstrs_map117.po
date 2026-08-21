@@ -1,0 +1,54 @@
+msgid "@watcher Good morning."
+msgstr "@watcher Доброе утро."
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher Добрый день."
+
+msgid "@watcher Good evening."
+msgstr "@watcher Добрый вечер."
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher Сейчас очень поздно..."
+
+msgid "@watcher But... good day, I suppose."
+msgstr "@watcher Но... Доброго дня, я полагаю."
+
+msgid "@watcher Your time here is precious."
+msgstr "@watcher Ваше время здесь бесценно."
+
+msgid "@watcher Please, do cherish it."
+msgstr "@watcher Прошу, цените это."
+
+msgid "@niko I will!"
+msgstr "@niko Хорошо!"
+
+msgid "@watcher It's not healthy for children such as yourself to stay up at this hour."
+msgstr "@watcher Дети вашего возраста в это время должны лежать в постели."
+
+msgid "@niko ...Really?"
+msgstr "@niko Правда?.."
+
+msgid "@niko_eyeclosed ...I... didn't realize..."
+msgstr "@niko_eyeclosed Я... не знал..."
+
+msgid "@watcher Can't blame you."
+msgstr "@watcher Не могу вас винить."
+
+msgid "@watcher With the sun gone, the night never seems to end."
+msgstr "@watcher С тех пор, как пропало солнце, у нас бесконечная ночь."
+
+msgid "@niko_speak Then... how can you tell?"
+msgstr "@niko_speak Тогда... откуда вы знаете?"
+
+msgid "@niko Time, I mean."
+msgstr "@niko Ну, насчёт времени."
+
+msgid "@watcher I have my ways."
+msgstr "@watcher У меня есть свои способы."
+
+msgid "@watcher ...Well, the time of day doesn't really mean anything now."
+msgstr "@watcher ...Что ж, теперь время суток уже ничего не значит."
+
+msgid "@niko_speak Then... How can you tell?"
+msgstr "@niko_speak Тогда... откуда вы знаете?"
+

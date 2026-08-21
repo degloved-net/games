@@ -1,0 +1,72 @@
+msgid "default=The World Machine"
+msgstr "Мировая машина"
+
+msgid "barrens=Barrens Craters"
+msgstr "Кратеры Пустоши"
+
+msgid "glen=Glen Shoreline"
+msgstr "Побережье Долины"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "Панорама Пристанища"
+
+msgid "niko=Messiah"
+msgstr "Мессия"
+
+msgid "title=My Burden is Light"
+msgstr "Моя ноша легка"
+
+msgid "planet=Asteroid"
+msgstr "Астероид"
+
+msgid "black=Blank"
+msgstr "Пустота"
+
+msgid "lamp=Outpost"
+msgstr "Посёлок"
+
+msgid "factory=Factory"
+msgstr "Завод"
+
+msgid "navigate=Navigate"
+msgstr "Ориентир"
+
+msgid "courtyard=Courtyard"
+msgstr "Двор"
+
+msgid "ruins=Calamus and Alula"
+msgstr "Каламус и Алула"
+
+msgid "catwalks=Catwalks"
+msgstr "Платформы"
+
+msgid "lamplighter=Lamplighter"
+msgstr "Фонарщик"
+
+msgid "cafe=Café"
+msgstr "Кафе"
+
+msgid "library=Library Stroll"
+msgstr "Прогулка по библиотеке"
+
+msgid "secret=Secret RAM Club"
+msgstr "Тайное общество баранов"
+
+msgid "tower=Tower"
+msgstr "Башня"
+
+msgid "plant=Maize"
+msgstr "Маиза"
+
+msgid "minecart=Prophets"
+msgstr "Пророки"
+
+msgid "siblings=Memory"
+msgstr "Воспоминание"
+
+msgid "world_machine=Reflection"
+msgstr "Отражение"
+
+msgid "from_niko=From Niko"
+msgstr "От Нико"
+

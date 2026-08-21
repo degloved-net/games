@@ -1,0 +1,84 @@
+msgid "@alula_gasp You saved me!"
+msgstr "@alula_gasp Mi hai salvata!"
+
+msgid "@alula Thank you!"
+msgstr "@alula Grazie!"
+
+msgid "@alula I was trapped in there for so long..."
+msgstr "@alula Ero intrappolata lì da così tanto tempo..."
+
+msgid "@niko So are you Alula?"
+msgstr "@niko Sei tu Alula?"
+
+msgid "@alula_gasp ..."
+msgstr "@alula_gasp ..."
+
+msgid "@alula_gasp You... knew my name?"
+msgstr "@alula_gasp Tu... sapevi il mio nome?"
+
+msgid "@alula_speak Wow! The messiah really does know everything!"
+msgstr "@alula_speak Wow! Il messia sa davvero tutto!"
+
+msgid "@niko_eyeclosed Actually...\\.\\. \\@niko_speak I just met your brother earlier."
+msgstr "@niko_eyeclosed In realtà...\\.\\. \\@niko_speak L'ho saputo da tuo fratello."
+
+msgid "@alula_oh Oh, right!"
+msgstr "@alula_oh Oh, giusto!"
+
+msgid "@alula_pout Gosh... Calamus must be so worried..."
+msgstr "@alula_pout Accidenti... Calamus dev'essere molto preoccupato..."
+
+msgid "@alula Can you bring me to him?"
+msgstr "@alula Puoi portarmi da lui?"
+
+msgid "@niko Wait a minute...\\>\\n\\@niko_speak How did you know that I was the,\\. um,\\. messiah?\\>\\n\\@niko_eyeclosed I don't have the sun with me..."
+msgstr "@niko Aspetta un attimo...\\>\\n\\@niko_speak Come facevi a sapere che io sono,\\. ehm,\\. il messia?\\>\\n\\@niko_eyeclosed Non ho il sole qui con me..."
+
+msgid "@alula Your eyes!"
+msgstr "@alula L'ho capito dai tuoi occhi!"
+
+msgid "@niko Huh?"
+msgstr "@niko Mh?"
+
+msgid "@alula_speak They reminded me of the sun!"
+msgstr "@alula_speak Mi hanno ricordato il sole!"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh!"
+
+msgid "@alula That's why you're our messiah, right?"
+msgstr "@alula È per questo che sei il nostro messia, no?"
+
+msgid "@niko Well...\\. I... \\>\\n\\@niko_speak A lot of people back in my home world have eyes like mine..."
+msgstr "@niko Beh...\\. io... \\>\\n\\@niko_speak Molte persone nel mio mondo hanno occhi simili ai miei..."
+
+msgid "@alula_pout Home... world?"
+msgstr "@alula_pout Nel tuo... mondo?"
+
+msgid "@niko_speak Yeah! \\>\\@niko I'm actually from another world, you see!\\>\\nIt's a place where the sun is in the sky and not in a Tower."
+msgstr "@niko_speak Sì! \\>\\@niko Vedi, io vengo da un altro mondo!\\>\\nÈ un luogo dove il sole si trova nel cielo e non in una Torre."
+
+msgid "@alula Do you like this world too?"
+msgstr "@alula E questo mondo ti piace?"
+
+msgid "@niko I...\\> \\@niko_speak Yeah."
+msgstr "@niko Beh... \\>\\@niko_speak Sì."
+
+msgid "@alula_speak Yay!\\>\\n\\@alula_pout Calamus keeps saying how this world is getting more dangerous by the minute."
+msgstr "@alula_speak Evviva!\\>\\n\\@alula_pout Calamus continua a dire che questo mondo sta diventando sempre più pericoloso."
+
+msgid "@alula_speak But that's ok! You're here now!\\>\\n\\@alula You can make everything better!"
+msgstr "@alula_speak Ma adesso ci sei tu, quindi non c'è problema!\\>\\n\\@alula Puoi sistemare tutto!"
+
+msgid "@niko Yeah..."
+msgstr "@niko Già..."
+
+msgid "@niko_speak W-What in the world is this thing in the doorway?"
+msgstr "@niko_speak C-cosa diamine è quella cosa all'ingresso?"
+
+msgid "@niko It reminds me of what I saw a while ago, at the cliffs...\\nFor some reason, I'm afraid to touch it."
+msgstr "@niko Mi ricorda quello che ho visto tempo fa, alle scogliere...\\nPer qualche motivo, ho paura di toccarlo."
+
+msgid "@alula_oh Hey! Where are you going?"
+msgstr "@alula_oh Ehi! Dove stai andando?"
+

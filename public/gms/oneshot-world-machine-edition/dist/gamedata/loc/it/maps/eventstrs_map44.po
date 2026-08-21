@@ -1,0 +1,54 @@
+msgid "@green_gatekeeper [Good luck.]"
+msgstr "@green_gatekeeper [Buona Fortuna.]"
+
+msgid "@niko_eyeclosed \\p, I'm too tired to go on right now...\\>\\nPlease let me nap for a bit somewhere."
+msgstr "@niko_eyeclosed \\p, sono troppo stanco per proseguire...\\>\\nPer favore, fammi riposare un po' da qualche parte."
+
+msgid "@niko_eyeclosed I remember seeing a room to the west...\\>\\nIt looked like it might be a good place to take a rest."
+msgstr "@niko_eyeclosed Ricordo di aver visto una stanza verso ovest...\\>\\nSembrava un buon posto per riposare."
+
+msgid "@niko_speak I found a pen! \\.\\.\\@niko Sort of."
+msgstr "@niko_speak Ho trovato una penna! \\.\\.\\@niko Letteralmente."
+
+msgid "@green_gatekeeper [Good.\\nPlease write your name here.]"
+msgstr "@green_gatekeeper [Molto Bene.\\nScrivi Qui Il Tuo Nome.]"
+
+msgid "@green_gatekeeper [Indeed You Do.]\\>\\n[But Are You Not Forgetting Something?]"
+msgstr "@green_gatekeeper [Sì, Hai Una Penna, Ma Non Stai Dimenticando Qualcosa?]"
+
+msgid "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak Oh, the sun!"
+msgstr "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak Oh, il sole!"
+
+msgid "@green_gatekeeper [Have You Found Something To Write With?]"
+msgstr "@green_gatekeeper [Hai Trovato Qualcosa Con Cui Scrivere?]"
+
+msgid "@green_gatekeeper [The Sun...\\.\\. You're The Messiah!]"
+msgstr "@green_gatekeeper [Il Sole...\\.\\. Sei Il Messia!]"
+
+msgid "@green_gatekeeper [Are you on your way to the Tower?]"
+msgstr "@green_gatekeeper [Sei In Viaggio Per La Torre?]"
+
+msgid "@green_gatekeeper [I saw you carrying the sun earlier.\\nYou're the messiah, then?\\nOn your way to the Tower?]"
+msgstr "@green_gatekeeper [Ti Ho Visto Portare Il Sole Prima.\\nSei Il Messia Dunque?\\nIn Viaggio Verso La Torre?]"
+
+msgid "@niko Mhm."
+msgstr "@niko Mhm."
+
+msgid "@green_gatekeeper [You can enter the Refuge through this wall.\\nYou'll need to sign your name in this scroll first.]"
+msgstr "@green_gatekeeper [Puoi Entrare Nel Rifugio Per Di Qua.\\nPrima Dovrai Mettere Una Firma Su Questo Rotolo.]"
+
+msgid "@niko Alright.\\.\\.\\n.\\..\\..Do you have a pen?"
+msgstr "@niko Va bene.\\.\\.\\n.\\..\\..Hai una penna?"
+
+msgid "@green_gatekeeper [Umm.\\..\\..]"
+msgstr "@green_gatekeeper [Ehm.\\..\\..]"
+
+msgid "@green_gatekeeper [...No.\\.\\. I've lost mine.]"
+msgstr "@green_gatekeeper [...No.\\.\\. Ho Perso La Mia.]"
+
+msgid "@green_gatekeeper [Perhaps you should look around the Glen for another.]"
+msgstr "@green_gatekeeper [La Cosa Migliore Da Fare Sarebbe Cercarne Un'Altra Nella Valle.]"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed L'entrata è coperta da rovi, \\p..."
+

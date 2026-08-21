@@ -1,0 +1,12 @@
+msgid "Blue=The Barrens"
+msgstr "Los Baldíos"
+
+msgid "Green=The Glen"
+msgstr "El Valle"
+
+msgid "Red=The Refuge"
+msgstr "El Refugio"
+
+msgid "RedGround=The Refuge (Surface)"
+msgstr "El refugio (superficie)"
+

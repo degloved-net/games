@@ -1,0 +1,39 @@
+msgid "@niko3 The bridge is out..."
+msgstr "@niko3 Le pont est cassé..."
+
+msgid "@niko4 They're in the door..."
+msgstr "@niko4 Ils sont dans la porte..."
+
+msgid "@niko4 The bridge is broken..."
+msgstr "@niko4 Le pont est détruit..."
+
+msgid "@niko2 ...\\>\\nHe has no power..."
+msgstr "@niko2 ...\\>\\nIl est déchargé..."
+
+msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
+msgstr "@green_gatekeeper [VE\\.#UI.%%L\\.LE;Z N\\.e Pa//s AP\\.PR#OCHER]"
+
+msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
+msgstr "@green_gatekeeper [L\\.#a.%%P\\.OR;TE EST\\. F//E RMÉ\\.E JUS\\.QU'\\.#À NO\\.#UV\\|EL O\\.%R\\.DR\\.E.]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko3 Isn't that...\\.\\. the city gate?"
+msgstr "@niko3 N'est-ce pas...\\.\\. la porte de la ville ?"
+
+msgid "@niko4 It's..."
+msgstr "@niko4 C'est..."
+
+msgid "@niko2 ...looks like parts of the ground is missing."
+msgstr "@niko2 ... On dirait que des morceaux du sol ont disparu."
+
+msgid "@niko_eyeclosed I wonder if it's safe to walk across these vines..."
+msgstr "@niko_eyeclosed Je me demande si c'est prudent de marcher sur ces vignes..."
+
+msgid "@niko6 ...one way to find out, I guess..."
+msgstr "@niko6 ... Il n'y a qu'un seul moyen de le savoir, je suppose..."
+
+msgid "@niko_eyeclosed They're safe..."
+msgstr "@niko_eyeclosed Elles sont sûres..."
+

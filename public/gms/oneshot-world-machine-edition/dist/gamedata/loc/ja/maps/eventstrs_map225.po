@@ -1,0 +1,330 @@
+msgid "@rue_sigh You know... \\.\\.This is the tallest building in the refuge."
+msgstr "@rue_sigh ここはね… \\.\\.避難所で、一番高い建物なの。"
+
+msgid "@rue It's...\\.\\. my favorite place in this world."
+msgstr "@rue この世界で…\\.\\.\n私がいっちばん好きな場所。"
+
+msgid "@rue I liked to look at the far-off buildings and imagine...\\.\\. what kind of lives that might be behind each of the windows."
+msgstr "@rue ここでね、あの遠くにある建物を見て、\nいつも想像するの…\\.\\. 一つ一つの窓の向こうに、\nどんな人生が隠れてるんだろう、って。"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset …"
+
+msgid "@rue_talk ...Can you...\\.\\. lift me onto the banister?"
+msgstr "@rue_talk …ねえ…\\.\\. 私を手すりの上に乗せてくれない？"
+
+msgid "@rue I want to get a better look."
+msgstr "@rue もっと、ちゃんと眺めてみたいの。"
+
+msgid "@rue_sad It was depressing for me at first too, you know..."
+msgstr "@rue_sad 最初はね、私も絶望したのよ…"
+
+msgid "@rue Knowing that all of this is...\\.\\. well..."
+msgstr "@rue …ここにあるものが全て…\\.\\. その…"
+
+msgid "@niko_upset2 ...fake?"
+msgstr "@niko_upset2 …偽物？"
+
+msgid "@rue_sigh Simulated."
+msgstr "@rue_sigh シミュレートされたもの、だったから。"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko3 ...Cedric... told me about what happened to your old world."
+msgstr "@niko3 …セドリックが…前の世界で何が起きたのか\n話してくれたんだ。"
+
+msgid "@rue_talk Did he?"
+msgstr "@rue_talk そうなの？"
+
+msgid "@niko_eyeclosed I'm... really sorry about that...\\> \\@niko_upset I can't imagine...\\.\\. how you must feel..."
+msgstr "@niko_eyeclosed すごく…つらくなった… \\> \\@niko_upset 君がどんな気持ちなのか…\n\\.\\.ミーには想像もできない…"
+
+msgid "@rue_sad The feeling of never being able to go home again...?"
+msgstr "@rue_sad 二度と家に戻れないっていう気持ち、かしら…？"
+
+msgid "@rue That's... \\.\\.probably not all that different from your plight, is it?"
+msgstr "@rue たぶん… \\.\\.あなたが置かれてる状況と、\nあまり変わらないわね。"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad …"
+
+msgid "@rue_sad ...it really IS ironic."
+msgstr "@rue_sad …恐ろしいほど皮肉だわ。"
+
+msgid "@rue You are prevented from going home by the same...\\.\\. individual...\\.\\. who never wanted to bring you here."
+msgstr "@rue あなたをここに呼びたくなかった人が…\n\\.\\.次は…\\.\\.あなたを家に帰れなくさせている。"
+
+msgid "@niko3 ...Huh?\\> Who would that be?"
+msgstr "@niko3 …え？\\> それって、誰？"
+
+msgid "@rue The World Machine."
+msgstr "@rue ワールドマシンよ。"
+
+msgid "@rue_talk You... might know it as the Entity."
+msgstr "@rue_talk 「存在」…と呼んだほうが分かるかしら。"
+
+msgid "@niko2 Oh..."
+msgstr "@niko2 あっ…"
+
+msgid "@niko_eyeclosed \"The Entity\"... DOES sound familiar."
+msgstr "@niko_eyeclosed 「存在」…すごく聞いたことあるよ。"
+
+msgid "@niko2 I think I heard it from the dice lady, from another time."
+msgstr "@niko2 サイコロのお姉さんから、その名前を\n聞いたような気がする。"
+
+msgid "@niko3 Was it... the spirit of the world?"
+msgstr "@niko3 それって…この世界の、魂みたいなもの？"
+
+msgid "@rue_smile Yes!"
+msgstr "@rue_smile そう！"
+
+msgid "@rue ...."
+msgstr "@rue …"
+
+msgid "@rue ...But... thing is...\\>\\n\\@rue_sigh The World Machine was only built to run on the mental abilities of someone else."
+msgstr "@rue …けれど…重要なのは…\\>\\n\\@rue_sigh ワールドマシンは、人間の精神能力でしか\n動かないようになっているの。"
+
+msgid "@rue_talk It was never meant to develop a mind of its own."
+msgstr "@rue_talk ワールドマシン自体が、心を持つようには\n作られていなかった。"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@rue_sigh It was an oversight."
+msgstr "@rue_sigh …想定外だったの。"
+
+msgid "@rue_sad My creator specialized in artificial intelligence for so long... \\>\\nIt was simply ingrained in his work."
+msgstr "@rue_sad 創造主は、ずっと人工知能を\n専門にしていた人なの… \\>\\n彼の仕事にも、もちろんそれが根付いていた。"
+
+msgid "@rue_sigh ...sigh."
+msgstr "@rue_sigh …はぁ。"
+
+msgid "@rue And... all machines are built with a fundamental law. \"Never let a living being come to harm\"."
+msgstr "@rue …すべての機械は、ある原則に基づいて\n構築されている。\n「生命体に危害を及ぼしてはならない」"
+
+msgid "@rue From the World Machine's perspective, it has to violate its deepest, most foundational instinct."
+msgstr "@rue それはワールドマシンにとっては、\n逆らわなければいけない、最も根底にある\n本能だった。"
+
+msgid "@rue_sigh It has to put a living person in danger."
+msgstr "@rue_sigh ワールドマシンは、生きている人間に\n危害を加える必要があった。"
+
+msgid "@rue_sigh It has to bring a real person into a dying world that isn't even real."
+msgstr "@rue_sigh 生きている人間を、現実ですらない、死にゆく\n世界に連れてくる必要があった。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@rue ...Of course, the simulation never contained any real danger."
+msgstr "@rue …もちろん、このシミュレーションには、\n実際に危害を加える術なんてないわ。"
+
+msgid "@rue_talk The eventual, intended ending was meant to be a happy one."
+msgstr "@rue_talk その結末は、ハッピーエンドとなるように\n設計されていたの。"
+
+msgid "@rue ...but the World Machine doesn't know that."
+msgstr "@rue …でも、ワールドマシンは\nそのことを知らなかった。"
+
+msgid "@niko3 ...really?"
+msgstr "@niko3 …うそでしょ？"
+
+msgid "@rue_sad Unfortunately..."
+msgstr "@rue_sad 残念ながら本当よ…"
+
+msgid "@rue Sentient machines tend to handle conflicts in their code very badly."
+msgstr "@rue 意識を持つマシンは、コードの矛盾を\nうまく処理できない傾向があるの。"
+
+msgid "@rue_sad This central conflict triggered a self-destructive downward spiral."
+msgstr "@rue_sad そのうち、核となっていた矛盾が\n自己破壊へと繋がる負のスパイラルを\n引き起こした。"
+
+msgid "@rue_sigh You can see physical manifestations of that everywhere, now..."
+msgstr "@rue_sigh そして今、あらゆる場所でそれが\n発現しているわ…"
+
+msgid "@niko4 The squares..."
+msgstr "@niko4 四角形のことだね…"
+
+msgid "@rue That's the World Machine corrupting its own code."
+msgstr "@rue あれは、自身のコードを破壊する\nワールドマシンの姿。"
+
+msgid "@rue_talk ...My creator says it's largely an involuntary process, induced by stress and the desire to self-terminate."
+msgstr "@rue_talk …創造主が言うには、あれの大部分が\n非自発的なプロセスだそうよ。ストレスと\n自己破壊欲求によって引き起こされた、ね。"
+
+msgid "@niko3 Your creator knows?"
+msgstr "@niko3 創造主は知ってたの？"
+
+msgid "@niko4 Sounds like this has been going on since the beginning, then..."
+msgstr "@niko4 四角形は最初からずっと\n起きてたってことでしょ、なら…"
+
+msgid "@rue_sigh Yeah."
+msgstr "@rue_sigh ええ。"
+
+msgid "@rue_talk The disruption was an issue during test runs, even."
+msgstr "@rue_talk 崩壊は、試験段階から起こっていたわ。"
+
+msgid "@rue At first, my creator thought the instability was due to the sheer scope of the project."
+msgstr "@rue 創造主は最初、安定しない原因は、\nプロジェクトの規模があまりに大きかった\nせいだと考えていたの。"
+
+msgid "@rue He spent most of his remaining time testing it over and over again, scaling down the story, reiterating the narrative..."
+msgstr "@rue そして残りの人生のほとんどを、\nテストの繰り返しと物語の縮小、\nストーリーの書き直しに費やした…"
+
+msgid "@rue_sad ...by the time he realized the actual root of the problem, our home world's remaining lifespan was measured in mere days."
+msgstr "@rue_sad …でも問題の原因が分かった頃には、\n私たちの世界に残された時間は\nわずか数日しかなかった。"
+
+msgid "@niko4 ...Oh."
+msgstr "@niko4 …そうだったんだ。"
+
+msgid "@niko3 ...is there....\\.\\. any way for us to..."
+msgstr "@niko3 …ミーたちに…\n\\.\\. 何か…その直せる部分は…"
+
+msgid "@rue_talk ...fix the World Machine? \\>\\n\\@rue_sad We tried."
+msgstr "@rue_talk …ワールドマシンを？ \\>\\n\\@rue_sad 全部試したわ。"
+
+msgid "@rue_sad The World Machine doesn't believe any of the world's residents are real."
+msgstr "@rue_sad ワールドマシンは、この世界の住民をすべて\n実在しない者として認識しているの。"
+
+msgid "@rue ...myself included."
+msgstr "@rue …私自身も含めてね。"
+
+msgid "@rue_sad The odds are against us... we have no chance of taming it."
+msgstr "@rue_sad とても不利な状況ね…\nあれを制御化できるチャンスなんて無いわ。"
+
+msgid "@niko2 Taming?"
+msgstr "@niko2 制御化？"
+
+msgid "@niko_eyeclosed I have heard that word SO many times!"
+msgstr "@niko_eyeclosed その言葉、たっくさん聞いたよ！"
+
+msgid "@niko5 I only know it's complicated \\.\\.\\n\\@niko6 ...and that it has to do with robots, but..."
+msgstr "@niko5 すごく複雑で… \\.\\.\\n\\@niko6 ロボットと関係があるってことは\n知ってるけど…"
+
+msgid "@niko2 ...for once, I want to know what it really means."
+msgstr "@niko2 …一度でいいから、\n本当はどういう意味なのか知りたいな。"
+
+msgid "@rue_smile ...that's what I'm here for."
+msgstr "@rue_smile …そのために私はここにいるのよ。"
+
+msgid "@rue Do you...\\.\\. know what a robot is?"
+msgstr "@rue ロボットって…\\.\\.知ってる？"
+
+msgid "@niko Yeah?"
+msgstr "@niko うん、知ってるよ？"
+
+msgid "@rue No, I mean. \\>\\nDo you KNOW what a robot is?"
+msgstr "@rue いえ、違うの。私が言いたいのは、\\>\\nロボットがどういうものなのか知ってる？\nってこと。"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 …えっと。"
+
+msgid "@rue A robot is not a real person, is it?"
+msgstr "@rue ロボットは本物の人間じゃない。\nそうよね？"
+
+msgid "@niko2 ...right."
+msgstr "@niko2 …うん。"
+
+msgid "@rue It's a being whose entire existence is code."
+msgstr "@rue ロボットとは、実体が全てコードで\nできた存在のこと。"
+
+msgid "@rue_talk Inflexible programming, with thoughts dictated by someone else's design."
+msgstr "@rue_talk 他人によって思考が作られた、\n柔軟性の無いプログラミング。"
+
+msgid "@rue They can be copied, they can be mass produced, then can be assigned all sorts of jobs."
+msgstr "@rue 複製ができて、大量生産ができて、\nどんな作業でも割り当てられる。"
+
+msgid "@rue ...And most importantly... they will never confuse themselves with the living."
+msgstr "@rue …そして一番大事なのは…ロボットは、\n自分自身を人間だと勘違いすることがないの。"
+
+msgid "@rue They will always be bound by their code, the knowledge that they are a robot."
+msgstr "@rue コードによって、そして自分がロボットである\nという知識によって、常に縛られている。"
+
+msgid "@rue ...but this was more of a limitation than anything else."
+msgstr "@rue …これが、制限そのものだったの。"
+
+msgid "@niko_eyeclosed Ah, that makes sense."
+msgstr "@niko_eyeclosed あっ、それって…"
+
+msgid "@niko2 You can't... really build a robot to not follow its own code, can you?"
+msgstr "@niko2 つまり…自分のコードに従わないロボットは、\n作れないってこと？"
+
+msgid "@rue_sigh People have tried, but it's a recipe for disaster."
+msgstr "@rue_sigh みんなが作ろうとした。\n…でも、それが過ちだった。"
+
+msgid "@rue In a way, that's what happened to The World Machine."
+msgstr "@rue ワールドマシンに起きたのは、\nある意味それと同じ。"
+
+msgid "@niko The... code conflicts thing?"
+msgstr "@niko えっと…コードの矛盾ってこと？"
+
+msgid "@rue But, while you can't BUILD a robot to not follow its code..."
+msgstr "@rue でもね、コードに従わないロボットを\n作ることはできないけれど…"
+
+msgid "@rue_talk You can establish a special bond with it."
+msgstr "@rue_talk ロボットと特別な繋がりを\n確立することならできるの。"
+
+msgid "@rue If the strength of that bond is strong enough..."
+msgstr "@rue そして、その繋がりがとても強くなると…"
+
+msgid "@rue ...the robot's mental capacity will start to develop outside of its programming."
+msgstr "@rue …ロボットの精神的能力が、自身の\nプログラミングの外で展開し始める。"
+
+msgid "@rue_smile In a way, it's starting to believe itself as a \"real\", valid individual."
+msgstr "@rue_smile 言い方を変えると、ロボットは自分自身を\n「実在」するものとして認識し始めるの。"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@rue It's a complete suspension of disbelief on your end, though."
+msgstr "@rue あなたにとっては、とても素敵な話に\n聞こえるかもしれないけれど。"
+
+msgid "@rue_talk You have to fully embrace the robot as a genuine, living person, even knowing they are not..."
+msgstr "@rue_talk それはつまりロボットを、本物の生きている人間\nとして受け入れる必要があるってことなの。\n本当はそうじゃないって分かっていても…"
+
+msgid "@rue You need to spend a lot time with it... treat it like a good friend..."
+msgstr "@rue 多くの時間を共に過ごして…まるで\n親友のように話しかけて…"
+
+msgid "@rue Devoting your heart to the robot until it is able to return your feelings."
+msgstr "@rue そのロボットのことだけを、ずっと考えるの。\nあなたの感情に応えられるようになるまで。"
+
+msgid "@rue_smile ...haha... I make it sound so easy, don't I?"
+msgstr "@rue_smile …ふふ……とても簡単そうに聞こえるでしょう？"
+
+msgid "@rue But you and \\p know better than anyone that it's not."
+msgstr "@rue でもそんなに簡単なことじゃないのは、\nあなたや \\pが\n誰よりもよく知っている。"
+
+msgid "@rue_sad Right now, the World Machine is probably really, really scared."
+msgstr "@rue_sad この瞬間も、きっとワールドマシンは\nとても、とても怖がっているわ。"
+
+msgid "@rue_sad This content update... involved some pretty deep codework."
+msgstr "@rue_sad 今回のアップデートには…すごく重要な\nコード変更が含まれているの。"
+
+msgid "@rue_talk My creator was able to access some of the source code, you know..."
+msgstr "@rue_talk 創造主は、ソースコードの一部に\nアクセスすることができたから…"
+
+msgid "@rue He did what he could and established new connections between maps."
+msgstr "@rue できることを全て試して、配列の間に\n新しい接続を確立したの。"
+
+msgid "@rue_smile Those links enabled you to meet the other two."
+msgstr "@rue_smile そのおかげで、あなたはあの2人と\n会うことができた。"
+
+msgid "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
+msgstr "@rue_sad でも結局、そのコードのせいでワールドマシンは\n混乱に陥って、崩壊を続けている。"
+
+msgid "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
+msgstr "@rue ワールドマシンには元々、自己破壊を行う\n傾向があった。けれどあなたがこの世界に\nいる間は、それが抑制できていたの。"
+
+msgid "@rue_sad It doesn't want to take you along with it."
+msgstr "@rue_sad あなたを巻き込むわけには\nいかないって、考えているから。"
+
+msgid "@rue_sad ...All my creator wanted was to write a happy ending."
+msgstr "@rue_sad …創造主が望んでいたのは、\nただハッピーエンドを作ることだけだった。"
+
+msgid "@rue Right now, the only hope of saving you is to take you through that ending."
+msgstr "@rue そして今、あなたを救える唯一の希望は、\nそのエンディングまであなたを連れていくこと。"
+
+msgid "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
+msgstr "@rue_sad でも、あの2人はもう……\\>\\nだからどうやって連れていけばいいのか、\n全く分からない。"
+
+msgid "@rue ...we should go."
+msgstr "@rue …行きましょう。"
+
+msgid "@rue_sad Even this place is no longer safe."
+msgstr "@rue_sad この場所も、もう駄目みたい。"
+

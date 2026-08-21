@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "@mason Black clovers are so resilient...\\> I wonder how they do it?"
+msgstr "@mason 黒いクローバーは非常に強い抵抗力を有していたが…\\>\\n一体どういう構造なのだろうか？"
+
+msgid "@plight Stress makes you tougher I suppose...\\> that and lots of coffee."
+msgstr "@plight ストレスの多い環境で育ったんじゃないか…\\>\\nそれとコーヒーのおかげだろ。"
+
+msgid "@mason Nah, if you water a plant with coffee they just die."
+msgstr "@mason いや、植物にコーヒーを与えると枯れてしまう。"
+
+msgid "@mason ...don't ask me how I know this."
+msgstr "@mason …なぜ知っているかは聞かないでくれ。"
+
+msgid "@mason It's really a shame that the Glen is starting to erode so fast now..."
+msgstr ""
+"@mason 峡谷がこんなにも早く崩壊を\n"
+"始めるとはな。とても残念だ…"
+
+msgid "@mason Soon, the world won't have much room for plants left..."
+msgstr ""
+"@mason もうじき、植物が生きられる場所は\n"
+"失われてしまうのだろうな…"
+
+msgid "@mason ...asides from black clovers, I mean."
+msgstr "@mason …黒いクローバー以外の植物は、な。"
+
+msgid "@plight Oh hey, gardening guy...\\>\\nDidn't I fix your lights last week?"
+msgstr "@plight お、庭屋じゃないか…\\>\\n先週、おれが灯りを直しただろ？"
+
+msgid "@mason Mr. Lamplighter!\\>\\nYou wouldn't BELIEVE the day I just had."
+msgstr "@mason 点灯屋！\\>\\nまったく今日は信じられない一日だったよ。"
+
+msgid "@plight_worry2 Guess those lights kinda got fixed for nothing, huh..."
+msgstr "@plight_worry2 灯りの修理は無意味だった、ってことか…"
+
+msgid "@mason Right??\\>\\nWorst of all, I had to leave my poor plants behind too!"
+msgstr "@mason そうだろう？？\\>\\nしかも最悪なことに、植物を全て置いてきてしまった！"
+
+msgid "@niko_eyeclosed Sorry to hear..."
+msgstr "@niko_eyeclosed そうなんだ…"
+
+msgid "@mason Oh, speaking of plants..."
+msgstr "@mason ああ、植物といえば…"
+
+msgid "@mason I heard the Glen is just COVERED in vines now."
+msgstr "@mason 峡谷が、ツタで完全に覆われたと聞いたが。"
+
+msgid "@mason Is that true?"
+msgstr "@mason それは真実なのか？"
+
+msgid "@niko_eyeclosed ...yeah..."
+msgstr "@niko_eyeclosed …うん…"
+
+msgid "@niko2 The plant lady was using them to keep the land from falling away..."
+msgstr ""
+"@niko2 植物のお姉さんが、\n"
+"大地が崩れないようにって…"
+
+msgid "@mason The plant spirit?\\> Maize?"
+msgstr "@mason 植物の精霊？\\>メイズのことか？"
+
+msgid "@mason I figured..."
+msgstr "@mason なるほど…"
+
+msgid "@mason ...say, how is she doing?"
+msgstr "@mason …それで、彼女は今どうしている？"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 …"
+
+msgid "@mason ...ah."
+msgstr "@mason …そうか。"
+
+msgid "@mason ...she's... gone, isn't she?"
+msgstr "@mason …逝って…しまったのだな？"
+
+msgid "@niko_eyeclosed She said she was using up the last of her powers..."
+msgstr "@niko_eyeclosed 最後の力を使い切る、って…"
+
+msgid "@mason I wouldn't be surprised."
+msgstr "@mason そうだろうな。"
+
+msgid "@mason She always did her best to protect everyone..."
+msgstr ""
+"@mason 彼女はいつも、我々を\n"
+"守るために尽くしてくれていた…"
+
+msgid "@mason Bummer!"
+msgstr "@mason まったく不愉快だ！"
+
+msgid "@mason I had to leave most of my plants behind."
+msgstr "@mason 植物は置いていかざるを得なかった。"
+
+msgid "@mason This stinks!"
+msgstr "@mason 最悪だ！"
+
+msgid "@niko Milk and sugar."
+msgstr "@niko ミルクと砂糖。"
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak ミーはどっちも好き！"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed …でもコーヒーに入ってるやつは嫌い。"
+
+msgid "[SQUARES ARE BAD]"
+msgstr "[全て、四角形ガ悪イ。]"
+
+msgid "[SQUARES MAKE THE PEOPLE EVACUATE]"
+msgstr "[四角形のせいデ、人々は避難しタ。]"
+
+msgid "[EVACUATION MAKES THE GIRL SAD]"
+msgstr "[避難のせいデ、この娘ガ悲しんでいル。]"
+
+msgid "@plight_worry Sad and also screaming on the inside constantly.\\>\\n\\@plight_why Like I am."
+msgstr "@plight_worry 悲しくて心の中では常に叫んでるんだろ。\\>\\n\\@plight_why おれと一緒だ。"
+
+msgid "@ling_hm So..."
+msgstr "@ling_hm ねえ…"
+
+msgid "@ling Can I...\\> get you guys anything to eat?"
+msgstr "@ling 何か…\\>食べたいものはある？"
+
+msgid "@ling_smile Or maybe a coffee?"
+msgstr "@ling_smile それともコーヒーが良いかな？"
+
+msgid "@plight_worry Normally I'd go for the coffee but if I drink any right now I might actually have a heart attack."
+msgstr "@plight_worry いつもならコーヒーなんだが、今飲んだら\n"
+"心臓発作になりそうだな。"
+
+msgid "@ling_sigh Ah...\\>\\nI know how that is..."
+msgstr "@ling_sigh あぁ…\\>\\n分かるよ、その感じ…"
+
+msgid "@niko6 Yeah...\\>\\nI would've probably asked for some pancakes around now."
+msgstr "@niko6 うん…\\>\\n今ならパンケーキをお願いしてたかも。"
+
+msgid "@niko_eyeclosed But there just isn't enough time..."
+msgstr "@niko_eyeclosed でもそんな時間は無いや…"
+
+msgid "@ling Can I...\\> get you anything to eat?"
+msgstr "@ling 何か…\\>食べたいものある？"
+
+msgid "@niko2 No thank you!"
+msgstr "@niko2 大丈夫、ありがとう！"
+
+msgid "@niko_eyeclosed (Even though I could go for some pancakes right now...)"
+msgstr "@niko_eyeclosed （パンケーキならいっぱい食べられるけど…）"
+
+msgid "@niko_eyeclosed (There just isn't time...)"
+msgstr "@niko_eyeclosed （そんな時間ないよね…）"
+
+msgid "@ling_hm At least people won't starve here..."
+msgstr ""
+"@ling_hm ここなら、みんな\n"
+"飢え死にすることもないはず…"
+
+msgid "@ling_smile The perks of using a cafe as an emergency shelter, huh?"
+msgstr ""
+"@ling_smile そういう意味だと、カフェって\n"
+"緊急避難場所としてすごく優秀だよね？"
+
+msgid "@ling2 Oh!"
+msgstr "@ling2 あっ！"
+
+msgid "@ling Hello, Messiah!\\n\\>\\@ling_hm And... um... \\@ling_smile Tall guy!"
+msgstr "@ling やあ、救世主さん！\\n\\>\\@ling_hm と…えっと…\\@ling_smile のっぽさん！"
+
+msgid "@ling_hm You guys, um..."
+msgstr "@ling_hm うーん、その…"
+
+msgid "@ling_sigh You came at a bad time..."
+msgstr "@ling_sigh タイミングがちょっと悪かったね…"
+
+msgid "@ling_hm The apartments in the west sector got destroyed by squares a day ago..."
+msgstr "@ling_hm 昨日ね、西区域にあるアパートが\n"
+"四角形のせいでみんな壊れちゃったのさ…"
+
+msgid "@plight_worry2 Oh yeah, I saw..."
+msgstr "@plight_worry2 ああ、見たよ…"
+
+msgid "@ling_sigh Terrible, isn't it?"
+msgstr "@ling_sigh ひどいだろ？"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed うん…"
+
+msgid "@ling_hm2 Ah, but at least the evacuees seem to be doing ok."
+msgstr "@ling_hm2 あ、でも避難者は何とか無事だったよ。"
+
+msgid "@ling_hm2 We're letting them stay here for now."
+msgstr "@ling_hm2 ひとまず、ここで生活してもらってる。"
+
+msgid "@plight That's nice of you."
+msgstr "@plight 親切なんだな。"
+
+msgid "@ling_smile Well, someone has to help!"
+msgstr "@ling_smile まあね、誰かが手を貸してあげなきゃ！"
+
+msgid "@ling Hello, Messiah!"
+msgstr "@ling やあ、救世主さん！"
+
+msgid "@ling_hm You, um..."
+msgstr "@ling_hm うーん、その…"
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko コーヒーを作る機械だ。"
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak もうちょっとで充電完了だって！"
+
+msgid "Scarves are great."
+msgstr "スカーフは素晴らしいものだ。"
+
+msgid "If I had my stuff back... I'd knit one for everyone here!"
+msgstr "持ち物を取り戻せたら…ここにいる人たちに一つずつ編んであげることにしよう！"
+
+msgid "@plight That DOES sound nice...\\>\\nmine's looking a bit ratty..."
+msgstr "@plight それは良いな…\\>\\nおれのはだいぶ汚くなってきた…"
+
+msgid "I'll say!\\>\\nWhen was the last time you even WASHED that thing?"
+msgstr "全くだ！\\>\\n最後に洗ったのは一体いつなんだ？"
+
+msgid "@plight_worry I DO wash it!\\nI swear!"
+msgstr "@plight_worry ちゃんと洗ってるんだって！\\n嘘じゃない！"
+
+msgid "@plight_sigh The coffee stains just won't go away..."
+msgstr "@plight_sigh コーヒーのシミがどうしても落ちないんだ…"
+
+msgid "Hey."
+msgstr "やあ。"
+
+msgid "@plight Hey."
+msgstr "@plight やあ。"
+
+msgid "@niko Hi..."
+msgstr "@niko こんばんは…"
+
+msgid "Is it me, or is it really cold outside?"
+msgstr ""
+"私だけなのだろうか？\n"
+"とても肌寒い気がするのだが。"
+
+msgid "@niko2 ...y'know, now that you've mentioned it..."
+msgstr "@niko2 …ねえ、そんなこと言うから…"
+
+msgid "@niko_eyeclosed (it IS really chilly this time around, \\p...)"
+msgstr "@niko_eyeclosed （すごく寒くなってきたよ、 \\p…）"
+
+msgid "@plight_worry2 No kidding!"
+msgstr "@plight_worry2 勘弁してくれ！"
+
+msgid "Good thing you're both wearing scarves, huh?"
+msgstr "ふたりともスカーフがあって良かったな。"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "Good thing you've got a scarf, huh?"
+msgstr "スカーフがあって良かったな。"
+
+msgid "..............."
+msgstr "……………"
+
+msgid "@niko ......................."
+msgstr "@niko …………………"
+
+msgid "..............................."
+msgstr "…………………………"
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak ……………………………"
+
+msgid "............................................."
+msgstr "………………………………………"
+
+msgid "@niko_eyeclosed ...same as usual, huh..."
+msgstr "@niko_eyeclosed …いつもと変わらないね…"
+
+msgid "@niko_eyeclosed Now's not really the time to talk to penguins, \\p..."
+msgstr ""
+"@niko_eyeclosed ペンギンさんとお喋りしてる\n"
+"場合じゃないよ、 \\p…"
+
+msgid "@niko2 Oh, it's that penguin..."
+msgstr "@niko2 あっ、このペンギンさんって…"
+
+msgid "@niko_eyeclosed ...yep."
+msgstr "@niko_eyeclosed …やっぱり。"
+
+msgid "I don't know what I'm gonna do without Model C-WT 2nd gen unit 4E!"
+msgstr ""
+"C-WT第2世代ユニット4Eがいなくなったら私、もう\n"
+"どうしていいのか分からないわ！"
+
+msgid "@plight_2 Robots... they're really something, huh..."
+msgstr "@plight_2 ロボットか…本当に大切に思ってるんだな…"
+
+msgid "Our apartment got evacuated while my parents were at work..."
+msgstr ""
+"両親が仕事に行っている間に、アパートから\n"
+"避難しなくちゃいけなくなって…"
+
+msgid "...I'm waiting for them to pick us up now."
+msgstr "…だから、迎えにきてくれるまで待っているの。"
+
+msgid "I hope they're ok..."
+msgstr "無事だといいけれど…"
+
+msgid "@plight Must be tough waiting by yourself..."
+msgstr "@plight 一人で待つのは辛いだろうな…"
+
+msgid "Well, at least my robot's with me!"
+msgstr "まぁ、ロボットが一緒にいてくれるから！"
+
+msgid "At least my robot's with me..."
+msgstr ""
+"まあ、私にはこのロボットが\n"
+"いるから…"
+
+msgid "Bessie's lookin pretty bummed about this too..."
+msgstr "ベッツィーも、すごく落ち込んでるんだ…"
+
+msgid "There there, girl..."
+msgstr "よしよし…"
+
+msgid "Dang it!"
+msgstr "チクショー！"
+
+msgid "I JUST moved into my apartment!"
+msgstr "引っ越してきたばっかだったんだぞ！"
+
+msgid "Now where am I gonna go!"
+msgstr "この後どうすりゃいいんだよ！"
+
+msgid "@plight Damn, sorry to hear your place got ruined.\\>\\nMust be rough..."
+msgstr "@plight そうか、アパートの事は気の毒だ…\\>\\n大変だったな…"
+
+msgid "@plight ..."
+msgstr "@plight …"
+
+msgid "@plight_worry2 Can't help but worry that my own place is next, now..."
+msgstr "@plight_worry2 明日は我が身かもって、気になってきた…"
+
+msgid "You should grab your stuff while you still can!"
+msgstr "今のうちに荷物をまとめておいた方が良いぞ！"

@@ -1,0 +1,81 @@
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [こんばんは。]"
+
+msgid "@niko_shock AAAAAAA!!!!!"
+msgstr "@niko_shock あああああ！！！"
+
+msgid "@proto_gasp2 [...No!!]"
+msgstr "@proto_gasp2 […そんな！！]"
+
+msgid "@niko_shock What do we do!!!"
+msgstr "@niko_shock どうすればいいの！！！"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 […]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk […]"
+
+msgid "@proto2 [You have to take this.]"
+msgstr "@proto2 [これを持っていって。]"
+
+msgid "@niko3 Wh-\\.\\.what?"
+msgstr "@niko3 え… \\.\\.何？"
+
+msgid "@niko3 The memory disk? But-"
+msgstr "@niko3 メモリーディスク？ でも――"
+
+msgid "@niko_surprised Eek!"
+msgstr "@niko_surprised うわ！"
+
+msgid "@proto2b [This is where we part ways.]"
+msgstr "@proto2b [ここでお別れ。]"
+
+msgid "@proto2b [Niko, the path ahead will lead you to the Glen, right by the city gate.]"
+msgstr "@proto2b [ニコ、この道は峡谷に続いてる。\n街へのゲートのすぐそば。]"
+
+msgid "@proto1C [When you're in the city, go find someone named Cedric. Give him the disk.]"
+msgstr "@proto1C [街に着いたら、セドリックという名前の男を\n探して。ディスクをその人に渡すんだ。]"
+
+msgid "@niko3 But... what happens if I..."
+msgstr "@niko3 でも…もしミーに…"
+
+msgid "@niko_distressed What if the squares..."
+msgstr "@niko_distressed 四角形が…"
+
+msgid "@proto_gasp2 [Hurry!]"
+msgstr "@proto_gasp2 [早く！]"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 …"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b […]"
+
+msgid "@niko And that robot was saying something."
+msgstr "@niko あのロボットが言ってたよ。"
+
+msgid "@niko That you keep bringing me back."
+msgstr "@niko ミーをここに連れ戻してるのは、神様だって。"
+
+msgid "@niko We've been through all this before, haven't we."
+msgstr "@niko この世界には、\n前にも来たことがあるんだよね？"
+
+msgid "@niko How many times?"
+msgstr "@niko どのくらい？"
+
+msgid "[\"1\", \"So Many\"]"
+msgstr "[\"1回\",\"何回も。\"]"
+
+msgid "@niko I see."
+msgstr "@niko そっか。"
+
+msgid "@niko_speak That's a lot of times!"
+msgstr "@niko_speak そんなに何回も！"
+
+msgid "@niko That robot told me to try and remember, so I will."
+msgstr "@niko あのロボットが覚えておくようにって\n言ってたから、覚えておくね。"
+
+msgid "@niko_eyeclosed Sleepy time."
+msgstr "@niko_eyeclosed もう寝る時間だよ。"
+

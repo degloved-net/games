@@ -1,0 +1,72 @@
+msgid "@niko \\p? Are you there?"
+msgstr "@niko \\p 님? 거기 있어요?"
+
+msgid "[\"Yes\", \"No\", \"That's not my name\"]"
+msgstr "[\"응\",\"아니\",\"그건 내 이름이 아냐\"]"
+
+msgid "@niko_speak Ah, me too!"
+msgstr "@niko_speak 아, 저도 그래요!"
+
+msgid "@niko ...I mean... I'm awake now."
+msgstr "@niko ...제 말은... 이제 일어났다고요."
+
+msgid "@niko_eyeclosed \\p... I know you're here..."
+msgstr "@niko_eyeclosed \\p 님... 거기 있는 거 다 알아요..."
+
+msgid "@niko_speak ...Oh."
+msgstr "@niko_speak ...아."
+
+msgid "@niko_eyeclosed I'm sorry, I'm a little confused... I just woke up..."
+msgstr "@niko_eyeclosed 죄송해요. 좀 정신이 없어요... 이제 막 일어나서..."
+
+msgid "@niko Can you tell me your name again?"
+msgstr "@niko 이름, 한 번만 더 알려 주실래요?"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed I had another bad dream."
+msgstr "@niko_eyeclosed 또 악몽을 꾸었어요."
+
+msgid "@niko I know I have nothing to worry about with you here, but..."
+msgstr "@niko 당신이 있으니까 걱정할 필요 없다는 건 알고 있어요. 하지만..."
+
+msgid "@niko_eyeclosed Can I really save everyone with this lightbulb?"
+msgstr "@niko_eyeclosed 제가 정말 이 전구로 정말 모두를 구할 수 있을까요?"
+
+msgid "@niko ...Let's get going now."
+msgstr "@niko ...그만 가요."
+
+msgid "@niko These vines look tough, but I think I can manage to cut them!"
+msgstr "@niko 이 덩굴들은 튼튼해 보이네요. 하지만 자를 수 있을 것 같아요!"
+
+msgid "@niko_speak That did it!"
+msgstr "@niko_speak 됐다!"
+
+msgid "@niko Ready to go, \\p?"
+msgstr "@niko 그럼 갈까요, \\p 님?"
+
+msgid "@niko The clipper handles won't budge..."
+msgstr "@niko 손잡이가 꼼짝도 하지 않아요..."
+
+msgid "@niko ...It's not broken, is it?"
+msgstr "@niko ...망가진 건 아니겠죠?"
+
+msgid "@niko There are some really tangled-up vines in the way."
+msgstr "@niko 얼기설기 얽힌 덩굴이 길을 가로막고 있어요."
+
+msgid "@niko It looks like an oil can..."
+msgstr "@niko 기름통 같은데요..."
+
+msgid "@niko This might be useful. I'll take it with me."
+msgstr "@niko 이건 쓸모가 있겠네요. 가져가야겠어요."
+
+msgid "@niko I think I might be carrying something else I can use this with already."
+msgstr "@niko 제 소지품 중에 이것과 같이 쓸 수 있는 물건이 있을지도 몰라요."
+
+msgid "@niko Maybe I should check my pockets again?"
+msgstr "@niko 주머니를 다시 확인해 볼까요?"
+
+msgid "@niko I don't think we need to go that way..."
+msgstr "@niko 그럴 필요는 없다고 생각해요..."
+

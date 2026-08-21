@@ -1,0 +1,465 @@
+msgid "1:name=lightbulb"
+msgstr "лампочка"
+
+msgid "1:description=A large lightbulb. It's the sun."
+msgstr "Большая лампочка. Это солнце."
+
+msgid "2:name=television remote"
+msgstr "пульт от ТВ"
+
+msgid "2:description=It's too hard to read in the dark light."
+msgstr "Здесь слишком темно, чтобы читать."
+
+msgid "3:name=bottle of alcohol"
+msgstr "бутылка со спиртом"
+
+msgid "3:description=The smell of the liquid is repugnant."
+msgstr "Запах этой жидкости просто отвратителен."
+
+msgid "4:name=dry branch"
+msgstr "сухая ветка"
+
+msgid "4:description=A flaky, dry branch from the bathroom plant."
+msgstr "Сухая облезшая ветка от растения из ванной комнаты."
+
+msgid "5:name=wet branch"
+msgstr "мокрая ветка"
+
+msgid "5:description=The tip of the branch is soaked with alcohol."
+msgstr "Кончик ветки пропитан спиртом."
+
+msgid "6:name=torch"
+msgstr "факел"
+
+msgid "6:description=Doesn't give off much light."
+msgstr "От него не слишком много света."
+
+msgid "7:name=basement key"
+msgstr "ключ от подвала"
+
+msgid "7:description=This thing looks old."
+msgstr "Похоже, старая вещица."
+
+msgid "8:name=camera"
+msgstr "камера"
+
+msgid "8:description=A broken camera with a large screwed-in lens."
+msgstr "Сломанная камера с большой вкрученной линзой."
+
+msgid "9:name=screwdriver"
+msgstr "отвёртка"
+
+msgid "9:description=Phillips-head."
+msgstr "Крестовая."
+
+msgid "10:name=lens"
+msgstr "линза"
+
+msgid "10:description=A large glass lens."
+msgstr "Большая стеклянная линза."
+
+msgid "11:name=empty bottle"
+msgstr "пустая бутылка"
+
+msgid "11:description=The smell of alcohol lingers."
+msgstr "От неё пахнет спиртом."
+
+msgid "12:name=broken battery"
+msgstr "сломанная батарея"
+
+msgid "12:description=Apparently a battery.  It has some broken glass in it."
+msgstr "Кажется, это батарея. В ней какой-то осколок стекла."
+
+msgid "13:name=empty battery"
+msgstr "разряженная батарея"
+
+msgid "13:description=An intact, rechargable battery. Currently empty."
+msgstr "Новенькая перезаряжаемая батарея. Разряжена."
+
+msgid "14:name=charged battery"
+msgstr "заряженная батарея"
+
+msgid "14:description=A working, rechargable battery. Maximum power."
+msgstr "Рабочая перезаряжаемая батарея. Максимум энергии."
+
+msgid "15:name=bottle of smoke"
+msgstr "бутылка с дымом"
+
+msgid "15:description=It's full of noxious fumes."
+msgstr "Полна ядовитых испарений."
+
+msgid "16:name=bottle of acid"
+msgstr "бутылка с кислотой"
+
+msgid "16:description=It's full of a thick liquid acid."
+msgstr "Наполнена густой кислотой."
+
+msgid "17:name=wet sponge"
+msgstr "мокрая губка"
+
+msgid "17:description=Sponge soaked with acidic cleaning solution."
+msgstr "Губка, пропитанная кислотным раствором для очистки."
+
+msgid "18:name=crowbar"
+msgstr "лом"
+
+msgid "18:description=Makeshift crowbar made from a pipe."
+msgstr "Самодельный лом из трубы."
+
+msgid "19:name=metal rod"
+msgstr "металлический прут"
+
+msgid "19:description=It weighs surprisingly little."
+msgstr "На удивление лёгкий."
+
+msgid "20:name=sponge"
+msgstr "губка"
+
+msgid "20:description=A flat sponge with a rough surface."
+msgstr "Плоская губка с шершавой поверхностью."
+
+msgid "21:name=empty syringe"
+msgstr "пустой шприц"
+
+msgid "21:description=The needle is particularly long."
+msgstr "С подозрительно длинной иглой."
+
+msgid "22:name=filled syringe"
+msgstr "наполненный шприц"
+
+msgid "22:description=It's full of the strange liquid from the pond."
+msgstr "Наполнен странной жидкостью из пруда."
+
+msgid "23:name=amber"
+msgstr "янтарь"
+
+msgid "23:description=A piece of glowing amber with a black clover inside."
+msgstr "Мерцающий кусок янтаря с чёрным клевером внутри."
+
+msgid "24:name=strange journal"
+msgstr "странный дневник"
+
+msgid "24:description=Found in the Barrens. It's written in an unknown language."
+msgstr "Найден в Пустоши. Написан на неизвестном языке."
+
+msgid "25:name=feather"
+msgstr "перо"
+
+msgid "25:description=A long and slender feather with glowing edges."
+msgstr "Длинное изящное перо с мерцающими краями."
+
+msgid "26:name=bottle of dye"
+msgstr "бутылка с красителем"
+
+msgid "26:description=A small vial filled with dark blue liquid used for dying wool."
+msgstr "Склянка с тёмно-синей жидкостью для окрашивания шерсти."
+
+msgid "27:name=tube of water"
+msgstr "колба с водой"
+
+msgid "27:description=The label says \"water sample\"."
+msgstr "На этикетке написано «Образец воды»."
+
+msgid "28:name=seed"
+msgstr "зёрнышко"
+
+msgid "28:description=It's a seed apparently left behind by Maize."
+msgstr "Это зёрнышко оставила Маиза."
+
+msgid "29:name=wool"
+msgstr "шерсть"
+
+msgid "29:description=It's... kind of useless."
+msgstr "Похоже... она бесполезна."
+
+msgid "30:name=feather pen"
+msgstr "перо"
+
+msgid "30:description=A pen made from dipping a feather into ink."
+msgstr "Писчее перо, которое надо обмакивать в чернила."
+
+msgid "31:name=die"
+msgstr "игральная кость"
+
+msgid "31:description=A die with glowing dots."
+msgstr "Кубик со светящимися точками."
+
+msgid "32:name=button (?)"
+msgstr "кнопка (?)"
+
+msgid "32:description=A simple button made from a coffee tin."
+msgstr "Простая кнопка из кофейной банки."
+
+msgid "33:name=magnetized (?) button"
+msgstr "намагниченная (?) кнопка"
+
+msgid "33:description=A button with magnets loosely attached."
+msgstr "Кнопка с еле держащимися на ней магнитами."
+
+msgid "34:name=taped button"
+msgstr "кнопка со скотчем"
+
+msgid "34:description=The magnets are secured with tape."
+msgstr "Магниты прикреплены скотчем."
+
+msgid "35:name=you tried"
+msgstr "попытка не пытка"
+
+msgid "35:description=It's the thought that counts."
+msgstr "Намерение имеет значение."
+
+msgid "36:name=magnets"
+msgstr "магниты"
+
+msgid "36:description=An assortment of colorful magnets."
+msgstr "Несколько разноцветных магнитов."
+
+msgid "37:name=metal can"
+msgstr "железная банка"
+
+msgid "37:description=Made of aluminum. Says \"COFFEE GROUNDS\"."
+msgstr "Из алюминия. С надписью «КОФЕ С ПОВЕРХНОСТИ»."
+
+msgid "38:name=scissors"
+msgstr "ножницы"
+
+msgid "38:description=A pair of scissors found amidst hair."
+msgstr "Пара ножниц, найденных среди волос."
+
+msgid "39:name=weird film"
+msgstr "странная плёнка"
+
+msgid "39:description=A transparent sheet filled with numbers."
+msgstr "Прозрачный лист, заполненный цифрами."
+
+msgid "40:name=concave lens"
+msgstr "вогнутая линза"
+
+msgid "40:description=A large lens, curved inward."
+msgstr "Большая вогнутая линза."
+
+msgid "41:name=convex lens"
+msgstr "выпуклая линза"
+
+msgid "41:description=A large lens, curved outward"
+msgstr "Большая выпуклая линза."
+
+msgid "42:name=thin lens"
+msgstr "тонкая линза"
+
+msgid "42:description=A delicately thin lens."
+msgstr "Тонкая хрупкая линза."
+
+msgid "43:name=thick lens"
+msgstr "толстая линза"
+
+msgid "43:description=A large, thick lens."
+msgstr "Большая толстая линза."
+
+msgid "44:name=glitter glue"
+msgstr "клей с блёстками"
+
+msgid "44:description=A small tube of pink glitter glue."
+msgstr "Небольшой тюбик розового клея с блёстками."
+
+msgid "45:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "45:description=Not a cat!"
+msgstr "Это не кот!"
+
+msgid "46:name=Kip's library card"
+msgstr "библ. абонемент Кип"
+
+msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
+msgstr "На нём написано «Кип Сильверпойнт, кандидат наук»."
+
+msgid "47:name=gas mask"
+msgstr "противогаз"
+
+msgid "47:description=A mask used to filter air for breathing."
+msgstr "Противогаз для фильтрации воздуха."
+
+msgid "48:name=rubber gloves"
+msgstr "резиновые перчатки"
+
+msgid "48:description=Gloves designed to prevent chemical damage."
+msgstr "Перчатки для защиты рук от воздействия химикатов."
+
+msgid "49:name=boots"
+msgstr "сапоги"
+
+msgid "49:description=These boots will make it possible to move quickly."
+msgstr "Благодаря этим сапогам можно двигаться быстрее."
+
+msgid "50:name=novelty T-shirt"
+msgstr "сувенирная футболка"
+
+msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
+msgstr "«Я пас баранов и получил лишь эту футболку»."
+
+msgid "51:name=\"Kip\" 's library card"
+msgstr "библ. абонемент Кип"
+
+msgid "51:description=Library card from Kip. Niko's own photo is glued on."
+msgstr "Абонемент Кип, к которому приклеено фото Нико."
+
+msgid "52:name=Library card (sticky)"
+msgstr "библ. абонемент (липкий)"
+
+msgid "52:description=There's glitter glue all over her photo now..."
+msgstr "Теперь всё её фото в клее..."
+
+msgid "53:name=photo of Niko (sticky)"
+msgstr "фото Нико (липкое)"
+
+msgid "53:description=The back of the photo is covered in glitter glue."
+msgstr "Обратная сторона фото покрыта блестящим клеем."
+
+msgid "54:name=DEBUG SAVE"
+msgstr "DEBUG SAVE"
+
+msgid "54:description=USE THIS TO SAVE"
+msgstr "ИСПОЛЬЗУЙТЕ ЭТО ДЛЯ СОХРАНЕНИЯ"
+
+msgid "55:name=dirt"
+msgstr "грунт"
+
+msgid "55:description=A bag of dirt, for growing plants"
+msgstr "Мешок грунта для выращивания растений."
+
+msgid "56:name=water pill"
+msgstr "водная таблетка"
+
+msgid "56:description=Goes in water, supposedly."
+msgstr "Наверное, нужно положить её в воду."
+
+msgid "57:name=medicated water"
+msgstr "вода с лекарством"
+
+msgid "57:description=The water pill is dissolved in it."
+msgstr "В ней растворена водная таблетка."
+
+msgid "58:name=clover"
+msgstr "клевер"
+
+msgid "58:description=A black clover."
+msgstr "Чёрный клевер."
+
+msgid "59:name=empty tube"
+msgstr "пустая колба"
+
+msgid "59:description=An empty tube.  Used to hold water."
+msgstr "Пустая колба. В ней была вода."
+
+msgid "60:name=bottle of pond water"
+msgstr "бутылка воды из пруда"
+
+msgid "60:description=It has the consistency of glue."
+msgstr "У неё консистенция клея."
+
+msgid "61:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "61:description=Not a cat!"
+msgstr "Это не кот!"
+
+msgid "62:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "62:description=A backup!"
+msgstr "Ещё кадр!"
+
+msgid "63:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "63:description=3rd time's the charm?"
+msgstr "Бог любит троицу?"
+
+msgid "64:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "64:description=This is kind of fun."
+msgstr "А это прикольно."
+
+msgid "65:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "65:description=Lookin' Good."
+msgstr "Выглядит неплохо."
+
+msgid "66:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "66:description=Niko blinked in this one."
+msgstr "На этой Нико моргнул."
+
+msgid "67:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "67:description=Nice."
+msgstr "Хорошо."
+
+msgid "68:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "68:description=Very photogenic."
+msgstr "Симпатяшка."
+
+msgid "69:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "69:description=Can't have too much of a good thing!"
+msgstr "Хороших вещей много не бывает!"
+
+msgid "70:name=photo of Niko"
+msgstr "фотография Нико"
+
+msgid "70:description=The ultimate photo."
+msgstr "Потрясающее фото."
+
+msgid "71:name=Key 1"
+msgstr "Ключ 1"
+
+msgid "72:name=Key 2"
+msgstr "Ключ 2"
+
+msgid "73:name=Key 3"
+msgstr "Ключ 3"
+
+msgid "74:name=glowing journal"
+msgstr "светящийся дневник"
+
+msgid "74:description=It's glowing now...?"
+msgstr "Сейчас светится?.."
+
+msgid "75:name=memory disk"
+msgstr "диск памяти"
+
+msgid "75:description=A floppy disk."
+msgstr "Дискета."
+
+msgid "76:name=memory disk (backup)"
+msgstr "диск памяти (копия)"
+
+msgid "76:description=A floppy disk containing a backup."
+msgstr "Дискета с резервной копией данных."
+
+msgid "77:name=charged battery"
+msgstr "заряженная батарея"
+
+msgid "77:description=A working, rechargable battery."
+msgstr "Работающая перезаряжаемая батарея."
+
+msgid "78:name=music box"
+msgstr "музыкальная шкатулка"
+
+msgid "78:description=A wind-up music box."
+msgstr "Заводная музыкальная шкатулка."
+
+msgid "79:name=DEBUG FLAG AND VARS"
+msgstr "DEBUG FLAG AND VARS"
+
+msgid "80:name=PLIGHT SKIP"
+msgstr "PLIGHT SKIP"
+

@@ -1,0 +1,171 @@
+msgid "My mommy is making food for everyone!"
+msgstr "¡Mami está cocinado para todos!"
+
+msgid "I want to help her catch fish, but I'm not a grownup yet!"
+msgstr "¡Quiero ayudarla a coger peces, pero todavía no soy mayor!"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko El horizonte tiene un brillo azul."
+
+msgid "Hm..."
+msgstr "Mm..."
+
+msgid "Nothing's biting..."
+msgstr "No pica nada..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "Hola, soy un pnj inaccesible."
+
+msgid "*sniff*"
+msgstr "*sniff*"
+
+msgid "@niko Are you okay?"
+msgstr "@niko ¿Estás bien?"
+
+msgid "I WANNA GO BACK HOME!!!"
+msgstr "¡QUIERO VOLVER A CASA!"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko Hay algunos peces pequeños en el fondo de este tarro."
+
+msgid "This island has more moss covering than our village did."
+msgstr "Esta isla tiene más musgo que nuestra aldea."
+
+msgid "Would've been nice to build a settlement here."
+msgstr "Habría estado bien construir un asentamiento aquí."
+
+msgid "...too late now, I guess."
+msgstr "... Demasiado tarde, supongo."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Están llenos de peces pequeño y secos."
+
+msgid "The land fragmentation is happening faster and faster now..."
+msgstr "La fragmentación de la tierra está ocurriendo cada vez más rápido..."
+
+msgid "But...\\.\\. looks like the vines are slowing it down..."
+msgstr "Pero...\\.\\. parece que las enredaderas la están ralentizando..."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak ¡Está lleno de cabezas de pescado!"
+
+msgid "Our village was ransacked by the squares not long ago..."
+msgstr "No hace mucho, los cuadrados saquearon nuestra aldea..."
+
+msgid "Most of us made it out alive, but we can't really go back anymore."
+msgstr "La mayoría de nosotros escapamos con vida, pero no podemos volver."
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 Vaya..."
+
+msgid "Squares are bad news, man."
+msgstr "Los cuadrados no molan, tío."
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko Lleno de peces pequeños y secos."
+
+msgid "Sigh..."
+msgstr "Ay..."
+
+msgid "We won't last long now, will we?"
+msgstr "No duraremos mucho, ¿verdad?"
+
+msgid "The sun can't fix the squares..."
+msgstr "El sol no puede solucionar los cuadrados..."
+
+msgid "The sun can't restore the land..."
+msgstr "El sol no puede restaurar la tierra..."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak Parecen caparazones de cangrejos."
+
+msgid "@magpie By the way... if you ever see a big guy with goggles and a cool helmet.."
+msgstr "@magpie Por cierto... si alguna vez ves a un tipo grandote con gafas y un caso molón..."
+
+msgid "@magpie_smile Tell him the trader in the Glen said hi!"
+msgstr "@magpie_smile ¡Salúdale de parte del comerciante del Valle!"
+
+msgid "@magpie Also ask him if he has any more music boxes for trading."
+msgstr "@magpie Y pregúntale si tiene más cajas de música para comerciar."
+
+msgid "@niko Will do!"
+msgstr "@niko ¡Vale!"
+
+msgid "@niko_speak Oh! You're the trader guy!"
+msgstr "@niko_speak ¡Oh! ¡Tú eres el comerciante!"
+
+msgid "@magpie_smile Sure am!\\>\\n\\@magpie You here to trade?"
+msgstr "@magpie_smile ¡Así es!\\>\\n\\@magpie ¿Vienes a comerciar?"
+
+msgid "@magpie_hm 'Cause if you are, then I got bad news for ya."
+msgstr "@magpie_hm Porque, si es así, tengo malas noticias."
+
+msgid "@magpie_hm A lot of my stuff is back at my cart, which was sadly abandoned when I was running for my life."
+msgstr "@magpie_hm Muchas de mis cosas están en mi carrito, que tuve que abandonar para correr por mi vida."
+
+msgid "@magpie So my collection is...\\.\\. very limited right now."
+msgstr "@magpie Así que mi colección...\\.\\. ahora es bastante limitada."
+
+msgid "@magpie_smile Managed to grab some of my favorite things before I left, though!"
+msgstr "@magpie_smile ¡Aunque conseguí salvar algunas de mis cosas favoritas antes de irme!"
+
+msgid "@niko_speak Oh! Uh..."
+msgstr "@niko_speak ¡Oh! Eh..."
+
+msgid "@niko Do you have anything like...\\.\\. gears?"
+msgstr "@niko ¿Tienes algo como...\\.\\. engranajes?"
+
+msgid "@magpie_oh Gears?\\.\\. Like... the metal spinny things? \\>\\@magpie I don't think I have anything like that..."
+msgstr "@magpie_oh ¿Engranajes?\\.\\. ¿Cómo... esas piezas de metal que giran? \\>\\@magpie Creo que no tengo nada así..."
+
+msgid "@magpie_oh Wait."
+msgstr "@magpie_oh Espera."
+
+msgid "@magpie I do have this box thing that you can wind up and play a song."
+msgstr "@magpie Tengo esta caja con la que puedes tocar una canción."
+
+msgid "@niko_speak That's a music box!"
+msgstr "@niko_speak ¡Una caja de música!"
+
+msgid "@magpie_smile Yeah!\\n\\>\\@magpie I bet there's lots of little metal bits in there!"
+msgstr "@magpie_smile ¡Sí!\\n\\>\\@magpie ¡Seguro que hay un montón de piezas de metal ahí dentro!"
+
+msgid "@niko_speak Oh! That might work!"
+msgstr "@niko_speak ¡Oh! ¡Quizá eso valga!"
+
+msgid "@magpie_hm But I'm not sure if I want to trade it away...\\>\\nIt's one of my favorite things!"
+msgstr "@magpie_hm Pero no sé si quiero deshacerme de ella...\\>\\n¡Es una de mis cosas favoritas!"
+
+msgid "@niko_eyeclosed Aw..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "@magpie_hm ..."
+msgstr "@magpie_hm ..."
+
+msgid "@magpie_oh Oh, what am I saying!\\>\\n\\@magpie_smile You're the savior!"
+msgstr "@magpie_oh ¡Ah, pero qué estoy diciendo!\\>\\n\\@magpie_smile ¡Eres el salvador!"
+
+msgid "@magpie_hm Things have been getting bad around here lately."
+msgstr "@magpie_hm Las cosas se han puesto feas por aquí últimamente."
+
+msgid "@magpie_smile If I don't help you, I might not even be around much longer..."
+msgstr "@magpie_smile Si no te ayudo, quizá ni siquiera pueda seguir por aquí mucho más..."
+
+msgid "@magpie You need this to save the world, right?\\>\\nTake it."
+msgstr "@magpie Necesitas esto para salvar el mundo, ¿no?\\>\\nAquí tienes."
+
+msgid "@niko_speak Ah! Thank you!"
+msgstr "@niko_speak ¡Ah! ¡Gracias!"
+
+msgid "The vines are everywhere!"
+msgstr "¡Hay enredaderas por doquier!"
+
+msgid "The plant lady must be protecting us!"
+msgstr "¡La mujer planta debe estar protegiéndonos!"
+
+msgid "@niko_upset ...yeah..."
+msgstr "@niko_upset ... Sí..."
+
+msgid "@shepherd What a day..."
+msgstr "@shepherd Menudo día..."
+

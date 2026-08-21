@@ -1,0 +1,87 @@
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko 무거운 금속 조각이 벽에 박혀 있어요."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed 문... 아니면 금고 같은데요."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko 한가운데에 작은 화면이 있어요."
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed 문은 굳게 잠겨 있네요."
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko 비밀번호가 필요한 것 같아요."
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 화면에 \"문서\"라는 단어가 있어요. 비밀번호 프롬프트 위에요."
+
+msgid "@niko That wasn't it..."
+msgstr "@niko 틀린 것 같네요..."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak 문처럼 생겼어요!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko 작은 화면에 반짝이는 자물쇠 그림이 있어요."
+
+msgid "@rue_oh !!!"
+msgstr "@rue_oh !!!"
+
+msgid "@rue_oh You guys are... \\.\\.okay?"
+msgstr "@rue_oh 너희들... \\.\\.괜찮아?"
+
+msgid "@cedric_sigh Yup!"
+msgstr "@cedric_sigh 괜찮아!"
+
+msgid "@cedric_sigh2 When the factory started collapsing, I really thought we didn't have a chance..."
+msgstr "@cedric_sigh2 공장이 무너지기 시작했을 때만 해도 가망이 없다고 생각했지..."
+
+msgid "@cedric3 ...Fortunately, the robot assembly rooms were built pretty tough."
+msgstr "@cedric3 ...다행히, 로봇 조립실이 꽤 견고하게 지어졌더라고."
+
+msgid "@cedric_hmm And... it actually did not take me long to bring Proto back."
+msgstr "@cedric_hmm 그래서... 프로토를 되살리는 데 오래 걸리지 않았지."
+
+msgid "@cedric_smile ...all thanks to father's book!"
+msgstr "@cedric_smile ...모두 아버지의 책 덕분이야!"
+
+msgid "@proto1c [He had made my design documents to be compatible with the assembly machines there.]"
+msgstr "@proto1c [아버님께서 내 설계 문서를 공장의 조립 기계와 호환되게 수정하셨거든.]"
+
+msgid "@cedric_smile All I had to do was scan in the blueprints and reconfigure some machine settings!"
+msgstr "@cedric_smile 난 그냥 설계도를 스캔해서 입력하고 기계 설정을 다시 했을 뿐이야!"
+
+msgid "@proto1b [...Father really does think of everything.]"
+msgstr "@proto1b [...아버님께선 정말 빈틈이 없으시다니까.]"
+
+msgid "@rue_smile Haha, that he does."
+msgstr "@rue_smile 하하, 맞아."
+
+msgid "@rue_sigh I'm... just glad everyone is ok."
+msgstr "@rue_sigh 모두 괜찮다니 다행이네."
+
+msgid "@niko_eyeclosed2 Me too..."
+msgstr "@niko_eyeclosed2 그러게요..."
+
+msgid "@niko_speak Things were looking really hopeless back there, weren't they, \\p?"
+msgstr "@niko_speak 아깐 정말 희망이 없어 보였어요. 그렇죠, \\p 님?"
+
+msgid "@niko But... now that everyone's here, maybe we can still... fix everything...?"
+msgstr "@niko 하지만... 이제 모두 여기 있으니... 전부 고칠 수 있겠죠...?"
+
+msgid "@proto2b [Or at least, you know, whatever's left.]"
+msgstr "@proto2b [최소한 전부는 아니더라도, 남은 건 고칠 수 있을 거야.]"
+
+msgid "@cedric_smile Either way, we'll do everything we can to help you get there."
+msgstr "@cedric_smile 뭐든 간에, 우린 네가 그쪽에 갈 수 있게 최선을 다할게."
+
+msgid "@rue_smile Niko, will you lead us back to the room?"
+msgstr "@rue_smile 니코, 우릴 다시 방으로 안내해 줄래?"
+
+msgid "@Niko Mhm.\\>\\n\\@niko_eyeclosed Let's do this."
+msgstr "@Niko 네.\\>\\n\\@niko_eyeclosed 해봐요, 우리."
+
+msgid "@niko The screen is off."
+msgstr "@niko 화면이 꺼졌어요."
+

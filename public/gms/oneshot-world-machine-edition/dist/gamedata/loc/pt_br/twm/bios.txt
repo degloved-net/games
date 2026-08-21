@@ -1,0 +1,21 @@
+TWMBIOS(C)X021 TWM ENTERPRISE, LTDA.
+
+XIDON 2290-B ACPI BIOS Revisão 1043
+CPU: YTEC(R) Y-4430M CPU @ 1.650GHz
+
+Verificando LPRAM@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+
+2048KB OK
+
+Detectando Dispositivos SCSI@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+SCSI1: Dispositivo de Entrada Direcional #140F604
+SCSI2: Porta de Rede #1B01C20
+SCSI4: Presença Remota #200A490
+
+Detecção Automática de Armazenamento em Massa@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+512MB MTD500100593-3B1
+@SCANSOUNDS 
+Verificando sons@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 
+Verificação concluída.  Encontrados @SOUNDS  sons.
+Carregando sons:
+

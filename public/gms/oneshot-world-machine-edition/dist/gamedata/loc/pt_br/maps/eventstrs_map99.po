@@ -1,0 +1,87 @@
+msgid "@niko It's a big book."
+msgstr "@niko Um livro grande."
+
+msgid "@niko_speak The title says \"understanding robots\"."
+msgstr "@niko_speak O título dele é “entendendo robôs”."
+
+msgid "@niko An empty glass jar."
+msgstr "@niko Um pote de vidro vazio."
+
+msgid "@niko The handle on this one looks broken."
+msgstr "@niko A alça desse parece quebrada."
+
+msgid "@niko A framed photo of someone."
+msgstr "@niko Uma fotografia emoldurada."
+
+msgid "@niko A rusty metal garbage can."
+msgstr "@niko Uma lata de lixo enferrujada."
+
+msgid "@niko There's some broken glass in here."
+msgstr "@niko Tem uns pedaços de vidro quebrado nela."
+
+msgid "@niko A bed."
+msgstr "@niko Uma cama."
+
+msgid "@niko_speak The blanket has quite a few patches."
+msgstr "@niko_speak O cobertor tem alguns remendos."
+
+msgid "@niko An empty glass jar with a wire handle."
+msgstr "@niko Um pote de vidro vazio com alça."
+
+msgid "@niko Some empty glass jars."
+msgstr "@niko Alguns potes de vidro vazios."
+
+msgid "@niko Empty coffee cups."
+msgstr "@niko Xícaras de café vazias."
+
+msgid "@niko A jar full of red glowing fluid."
+msgstr "@niko Um pote cheio de um fluido vermelho brilhante."
+
+msgid "@niko_speak There's an empty coffee cup on the chair."
+msgstr "@niko_speak Há uma xícara vazia na cadeira."
+
+msgid "@niko A lantern plant."
+msgstr "@niko Uma planta luminária."
+
+msgid "@niko There's a note attached."
+msgstr "@niko Há um bilhete colado."
+
+msgid "@niko_speak It says \"Thank you for working so hard, Mr. Lamplighter!\""
+msgstr "@niko_speak Aqui diz: “Agradeço por seu árduo trabalho, Sr. Acendedor!”"
+
+msgid "@niko Big books."
+msgstr "@niko Livros grandes."
+
+msgid "@niko_speak ...Ah, these are dictionaries."
+msgstr "@niko_speak ... Ah, são dicionários."
+
+msgid "@niko Some of the words are underlined."
+msgstr "@niko Algumas palavras estão sublinhadas."
+
+msgid "@niko ....*most* of the words are underlined."
+msgstr "@niko ... a *maioria* das palavras estão sublinhadas."
+
+msgid "@niko There's some big plastic disks in here."
+msgstr "@niko Alguns discos de plástico bem grandes."
+
+msgid "@niko_speak Looks like they're supposed to go in something?"
+msgstr "@niko_speak Parece que eles encaixam em alguma coisa."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_what Wait, \\p, are we really gonna take these with us?"
+msgstr "@niko_what Espere, \\p, realmente levaremos isso?"
+
+msgid "@niko_what But they look so heavy..."
+msgstr "@niko_what Eles parecem tão pesados..."
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed Certo..."
+
+msgid "@niko_speak Hey! They're actually pretty light!"
+msgstr "@niko_speak Ei! Eles são bem leves, na verdade!"
+
+msgid "@niko It's empty now..."
+msgstr "@niko Está vazio agora..."
+

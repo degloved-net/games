@@ -1,0 +1,87 @@
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko Um pedaço pesado de metal colocado na parede."
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed Acho que pode ser uma porta para algum tipo de cofre."
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko Há uma pequena tela aqui no centro."
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed A porta está trancada."
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko Acho que está pedindo uma senha."
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 Está escrito a palavra “DOCUMENTOS” na tela, em cima da janela da senha."
+
+msgid "@niko That wasn't it..."
+msgstr "@niko Não é isso..."
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak Parece uma porta!"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko Há um símbolo de uma tranca brilhando numa tela pequena."
+
+msgid "@rue_oh !!!"
+msgstr "@rue_oh !!!"
+
+msgid "@rue_oh You guys are... \\.\\.okay?"
+msgstr "@rue_oh Vocês estão... \\.\\.bem?"
+
+msgid "@cedric_sigh Yup!"
+msgstr "@cedric_sigh É!"
+
+msgid "@cedric_sigh2 When the factory started collapsing, I really thought we didn't have a chance..."
+msgstr "@cedric_sigh2 Quando a fábrica começou a desabar, pensei mesmo que não conseguiríamos sair de lá..."
+
+msgid "@cedric3 ...Fortunately, the robot assembly rooms were built pretty tough."
+msgstr "@cedric3 ... Felizmente, as salas de montagem de robôs eram bem resistentes."
+
+msgid "@cedric_hmm And... it actually did not take me long to bring Proto back."
+msgstr "@cedric_hmm E... nem demorou muito para recuperar o Proto."
+
+msgid "@cedric_smile ...all thanks to father's book!"
+msgstr "@cedric_smile ... tudo graças ao livro do meu pai!"
+
+msgid "@proto1c [He had made my design documents to be compatible with the assembly machines there.]"
+msgstr "@proto1c [Os documentos do meu projeto são compatíveis com as máquinas de montagem de lá. Ele que pensou nisso.]"
+
+msgid "@cedric_smile All I had to do was scan in the blueprints and reconfigure some machine settings!"
+msgstr "@cedric_smile Eu só digitalizei as plantas baixas e reconfigurei uns parâmetros na máquina!"
+
+msgid "@proto1b [...Father really does think of everything.]"
+msgstr "@proto1b [... Papai pensa em tudo mesmo.]"
+
+msgid "@rue_smile Haha, that he does."
+msgstr "@rue_smile Haha, isso ele faz."
+
+msgid "@rue_sigh I'm... just glad everyone is ok."
+msgstr "@rue_sigh Só estou feliz por todos estarem bem..."
+
+msgid "@niko_eyeclosed2 Me too..."
+msgstr "@niko_eyeclosed2 Eu também..."
+
+msgid "@niko_speak Things were looking really hopeless back there, weren't they, \\p?"
+msgstr "@niko_speak As coisas pareciam sem esperanças lá atrás, não é, \\p?"
+
+msgid "@niko But... now that everyone's here, maybe we can still... fix everything...?"
+msgstr "@niko Mas... agora que todos estão aqui, talvez ainda possamos... consertar tudo...?"
+
+msgid "@proto2b [Or at least, you know, whatever's left.]"
+msgstr "@proto2b [Ou pelo menos, tudo o que sobrou.]"
+
+msgid "@cedric_smile Either way, we'll do everything we can to help you get there."
+msgstr "@cedric_smile De qualquer forma, faremos tudo o que pudermos para te ajudar a chegar lá."
+
+msgid "@rue_smile Niko, will you lead us back to the room?"
+msgstr "@rue_smile Niko, você vai nos levar de volta para a sala?"
+
+msgid "@Niko Mhm.\\>\\n\\@niko_eyeclosed Let's do this."
+msgstr "@Niko Uhum.\\>\\n\\@niko_eyeclosed Vamos lá."
+
+msgid "@niko The screen is off."
+msgstr "@niko A tela está desligada."
+

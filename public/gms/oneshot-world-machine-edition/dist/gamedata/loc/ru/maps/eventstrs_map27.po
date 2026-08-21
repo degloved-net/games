@@ -1,0 +1,63 @@
+msgid "I'm catching fireflies for mommy!"
+msgstr "Я ловлю светлячков для мамочки!"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko На горизонте синее свечение."
+
+msgid "@rowbot [HERE IS YOUR STOP. THE GLEN.]"
+msgstr "@rowbot [ВАША ОСТАНОВКА. ДОЛИНА.]"
+
+msgid "@niko Thank you!"
+msgstr "@niko Спасибо!"
+
+msgid "@rowbot [THERE SHOULD BE A VILLAGE TO THE NORTH. BUT THAT'S ALL I CAN RECALL.]"
+msgstr "@rowbot [ГДЕ-ТО НА СЕВЕРЕ ДОЛЖНА БЫТЬ ДЕРЕВНЯ. ЭТО ВСЁ, ЧТО Я МОГУ ПРИПОМНИТЬ.]"
+
+msgid "@niko_speak Oh, that's good to know!"
+msgstr "@niko_speak О, спасибо за информацию!"
+
+msgid "@rowbot [FAREWELL.]"
+msgstr "@rowbot [ПРОЩАЙТЕ.]"
+
+msgid "@rowbot [MAY YOUR MISSION BE A SUCCESS.]"
+msgstr "@rowbot [УСПЕХОВ В ВАШЕЙ МИССИИ.]"
+
+msgid "@niko_speak A-Are you leaving?"
+msgstr "@niko_speak Ты... уплываешь?"
+
+msgid "@rowbot [YES.\\>\\nI MUST RETURN TO MY STATION.]"
+msgstr "@rowbot [ДА.]\\>\\n[Я ДОЛЖЕН ВЕРНУТЬСЯ НА СВОЮ СТАНЦИЮ.]"
+
+msgid "@niko But you'll be all alone again..."
+msgstr "@niko Но ты снова останешься совсем один..."
+
+msgid "@rowbot [IT'S OKAY.]"
+msgstr "@rowbot [НИЧЕГО СТРАШНОГО.]"
+
+msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@rowbot [Я ВЕДЬ НЕ ПРИРУЧЁН.]"
+
+msgid "Hm..."
+msgstr "Хм..."
+
+msgid "Nothing's biting..."
+msgstr "Не клюёт..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "Привет! Я недоступный NPC..."
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko На дне этой банки несколько маленьких рыбок."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Они наполнены маленькой сухой рыбёшкой."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak Тут полно рыбьих голов!"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko Наполнены маленькой сухой рыбёшкой."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak Эти штуки похожи на крабовые панцири."
+

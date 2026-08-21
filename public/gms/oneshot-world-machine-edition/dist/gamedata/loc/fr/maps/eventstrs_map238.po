@@ -1,0 +1,87 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko Quelques lucioles bourdonnent dans ce pot."
+
+msgid "[DO WHAT YOU MUST.]"
+msgstr "[FAITES LE NÉCESSAIRE.]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[BONJOUR, PERSONNE.]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[VOICI LE GÉNÉRATEUR PRINCIPAL DU VALLON.]"
+
+msgid "@niko Hello..."
+msgstr "@niko Bonjour..."
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko Vous ne sauriez pas où je peux trouver une batterie pour machine volante ?"
+
+msgid "@niko2 It's... kind of an emergency."
+msgstr "@niko2 C'est... assez urgent."
+
+msgid "[I DO NOT KNOW WHAT A FLYING MACHINE IS.]"
+msgstr "[JE NE SAIS PAS CE QU'EST UNE MACHINE VOLANTE.]"
+
+msgid "[BUT ANY SORT OF LARGE MACHINERY WOULD REQUIRE A HIGH CAPACITY POWER CELL.]"
+msgstr "[MAIS N'IMPORTE QUELLE GROSSE MACHINE DEVRAIT AVOIR BESOIN D'UNE BATTERIE DE HAUTE PUISSANCE.]"
+
+msgid "[FOR EXAMPLE, THE GENERATOR IN THIS ROOM UTILIZES SUCH A DEVICE.]"
+msgstr "[PAR EXEMPLE, LE GÉNÉRATEUR DE CETTE PIÈCE UTILISE UN TEL DISPOSITIF.]"
+
+msgid "@niko_eyeclosed Oh right... I almost forgot..."
+msgstr "@niko_eyeclosed Ah oui... j'ai failli oublier..."
+
+msgid "@niko We had to fix the battery for this thing in the Barrens, didn't we, \\p?"
+msgstr "@niko Nous avons dû réparer la batterie pour ce truc dans la Lande, n'est-ce pas, \\p ?"
+
+msgid "[IF THIS IS AN EMERGENCY FOR LIVING BEINGS...] \\>\\n[YOU CAN USE THE BATTERY FROM THE GENERATOR.]"
+msgstr "[SI C'EST UNE URGENCE POUR DES ÊTRES VIVANTS...] \\>\\n[VOUS POUVEZ UTILISER LA BATTERIE DU GÉNÉRATEUR.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Oh !"
+
+msgid "@niko2 Wait... \\.\\.but if we take the battery here..."
+msgstr "@niko2 Mais... \\.\\.si nous prenons cette batterie..."
+
+msgid "@niko3 ...all of you guys would lose power, wouldn't you?"
+msgstr "@niko3 ... vous n'aurez plus d'énergie, non ?"
+
+msgid "@niko4 Maybe \\p and I should go find another one."
+msgstr "@niko4 Peut-être que \\p et moi devrions en trouver une autre."
+
+msgid "[NEGATIVE.]"
+msgstr "[NÉGATIF.]"
+
+msgid "[THIS IS THE ONLY BATTERY IN THE GLEN POWERFUL ENOUGH TO BE USED AS A STANDALONE UNIT.]"
+msgstr "[C'EST LA SEULE BATTERIE DU VALLON ASSEZ PUISSANTE POUR ÊTRE UTILISÉE EN TANT QU'UNITÉ AUTONOME.]"
+
+msgid "[IF IT IS A DIRE SITUATION, THEN DO WHAT YOU MUST.]"
+msgstr "[SI LA SITUATION L'EXIGE, IL FAUT FAIRE LE NÉCESSAIRE.]"
+
+msgid "@niko4 Oh..."
+msgstr "@niko4 Oh..."
+
+msgid "@niko_eyeclosed ...we depowered it..."
+msgstr "@niko_eyeclosed ... il n'a plus de puissance..."
+
+msgid "@niko3 ...I guess we have no choice but to take this, \\p..."
+msgstr "@niko3 ... Nous n'avions pas le choix, il faut la prendre, \\p..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Looks like a generator..."
+msgstr "@niko Ça ressemble à un générateur..."
+
+msgid "[PLEASE DO NOT STAND TOO CLOSE TO THE GENERATOR.]"
+msgstr "[VEUILLEZ NE PAS TROP VOUS APPROCHER DU GÉNÉRATEUR.]"
+
+msgid "[IF YOU HAVE INQUIRIES, PLEASE ASK ME INSTEAD.]"
+msgstr "[SI VOUS AVEZ DES QUESTIONS, VEUILLEZ ME LES POSER.]"
+
+msgid "@niko The battery's gone now..."
+msgstr "@niko La batterie n'est plus là..."
+
+msgid "@niko_speak We should remember to bring it back once we're done with it!"
+msgstr "@niko_speak Il faut qu'on pense à la ramener une fois qu'on aura fini !"
+

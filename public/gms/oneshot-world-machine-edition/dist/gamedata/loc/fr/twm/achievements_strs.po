@@ -1,0 +1,90 @@
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "Mal chaotique"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "Ne faites pas ça!"
+
+msgid "SHOCK:title=Shock"
+msgstr "Choc"
+
+msgid "SHOCK:description=Not fun."
+msgstr "Pas drôle."
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "Troc extrême"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "On épuise toutes les possibilités, n'est-ce pas ?"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "Chuchoteur de béliers"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "Rassemble facilement les béliers en troupeau."
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "Crêpes"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "Nourriture favorite."
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "Nous chevauchons à l'aube"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "Miaaaaam"
+
+msgid "SECRET:title=Secret"
+msgstr "Secret"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "Rat de bibliothèque"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "Lisez des livres dans la bibliothèque."
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "Renaissance"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "Une quête additionnelle."
+
+msgid "ONESHOT:title=OneShot"
+msgstr "OneShot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "Retour à ses racines."
+
+msgid "RETURN:title=Return"
+msgstr "Retour"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "Maître des fonds d'écran"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "Collectionnez tous les fonds d'écran"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "Assortisseur de couleurs"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "Collectionnez tous les thèmes"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "Ultrasociable"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "Collectionnez toutes les entrées pour amis"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "Merci pour tout"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "Collectionnez tous les badges"
+

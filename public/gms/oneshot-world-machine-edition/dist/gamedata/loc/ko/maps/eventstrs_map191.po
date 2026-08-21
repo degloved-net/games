@@ -1,0 +1,75 @@
+msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
+msgstr "[발광 나무는 새로운 법에 따라 보호받습니다.]"
+
+msgid "[PLEASE DO NOT HARVEST THEM.]"
+msgstr "[발광 나무를 베지 마십시오.]"
+
+msgid "@niko I'm... not?"
+msgstr "@niko 안... 벨 건데요?"
+
+msgid "[HAVE A NICE DAY.]"
+msgstr "[즐거운 시간 보내십시오.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 당신도요!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[WELCOME TO THE RESEARCH STATION.]"
+msgstr "[연구 시설에 오신 걸 환영합니다.]"
+
+msgid "@niko Hello!"
+msgstr "@niko 안녕하세요!"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[실버포인트 박사님이 보내서 오셨습니까?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ...아뇨?"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[그럼 그냥 가십시오.]"
+
+msgid "[MONITORING ANOMALY...]"
+msgstr "[이상 현상 모니터링 중...]"
+
+msgid "@niko_speak What IS that thing?"
+msgstr "@niko_speak 저게 대체 뭔가요?"
+
+msgid "[AN ANOMALY.]"
+msgstr "[이상 현상입니다.]"
+
+msgid "@niko_eyeclosed Well, yeah, but..."
+msgstr "@niko_eyeclosed 아, 그렇군요. 그렇지만..."
+
+msgid "[I WILL RETURN TO MY STATION IN THE CITY SOON.]"
+msgstr "[전 곧 도시에 있는 제 위치로 돌아가야 합니다.]"
+
+msgid "@niko_speak How come you're red instead of green?"
+msgstr "@niko_speak 어째서 당신은 녹색이 아니라 빨간색이죠?"
+
+msgid "@niko Well... more of a purple than red...\\>\\n\\@niko_speak But your eyes and stuff are red!"
+msgstr "@niko 음... 빨간색이라기보다 보라색 같지만...\\>\\n\\@niko_speak 그렇지만 눈은 빨개요!"
+
+msgid "[I AM ONLY HERE TO PICK UP THIS WEEK'S MOSS SAMPLES.]"
+msgstr "[전 이번 주의 이끼 표본을 가지러 왔을 뿐입니다.]"
+
+msgid "@niko_speak I see!"
+msgstr "@niko_speak 그렇군요!"
+
+msgid "[I AM IN CHARGE OF COLLECTING THE MOSS SAMPLES.]"
+msgstr "[전 이끼 표본을 채집하는 임무를 맡고 있습니다.]"
+
+msgid "@niko_speak Cool!"
+msgstr "@niko_speak 멋진데요!"
+
+msgid "[DID DR. SILVERPOINT SEND YOU?]"
+msgstr "[실버포인트 박사께서 보내셨나요?]"
+
+msgid "@niko_speak No? I'm with \\p..."
+msgstr "@niko_speak 아뇨? 전 \\p 님과 함께 왔는데요..."
+
+msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
+msgstr "[최근 발광 나무의 성장 속도가 눈에 띄게 감소했습니다...]"
+

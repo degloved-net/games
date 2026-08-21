@@ -1,0 +1,126 @@
+msgid "$Initially, the amount of noxious fumes emitted by the natural gas vents caught our team off-guard."
+msgstr "$当初、\n天然ガスの通気孔から\n放出された有毒蒸気の\n量に、我々のチームは\n不意を突かれた。"
+
+msgid "$Thank goodness the medical team reacted as quickly as they did."
+msgstr "$ありがたいことに、\n医療チームがすぐ\n駆けつけてくれた。"
+
+msgid "$Despite its failure, that first expedition did bring up some interesting observations about the Barrens."
+msgstr "$失敗に終わったものの、\n最初の調査では\n不毛の地に関する\n興味深い観測結果を\n得ることができた。"
+
+msgid "$We found that there's not one, but two such vent zones."
+msgstr "$噴出区域が\n1つではなく、2つある\nことがわかった。"
+
+msgid "$With fumes being pumped out at such high concentrations..."
+msgstr "$それも、高濃度のガスが\n排出されているにも\n関わらず…だ。"
+
+msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
+msgstr "$…他の区域に\n拡散していないのは\nまさに奇跡と言える。"
+
+msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
+msgstr "$生物学者たちは、\nクレータープールの\n蛍光エビが積極的に\nガスを吸収している\nという結論を出した。"
+
+msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
+msgstr "$海に住むエビも、ガスが\n峡谷に流入するのを\n防いでいる。"
+
+msgid "$If that's the case, then we owe a lot to these little guys!"
+msgstr "$もしそうだとしたら、\n我々はこの小さな\n生き物たちに感謝\nしなければならない！"
+
+msgid "@niko_speak So...\\.\\. we're filling up the syringe, \\p?"
+msgstr "@niko_speak えっと…\\.\\. 注射器でいっぱい吸えば\nいいのかな、 \\p？"
+
+msgid "@niko I guess it's kind of like a funnel..."
+msgstr "@niko まぁ、じょうごに似てるかもね…"
+
+msgid "@niko But the liquid might be a bit too thick to fit in the needle..."
+msgstr "@niko でも液体がドロドロしてるから、\n針が通らないかも…"
+
+msgid "@niko Hey, it actually went in!"
+msgstr "@niko あっ、ちゃんと入った！"
+
+msgid "@niko_eyeclosed Gross."
+msgstr "@niko_eyeclosed うぇー…"
+
+msgid "@niko You want me to fill the bottle with this stuff, \\p?"
+msgstr "@niko これをボトルに入れたらいいの、 \\p？"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_eyeclosed It's too goopy to fit in the bottle opening..."
+msgstr "@niko_eyeclosed すごくネバネバしてて、\nビンの口に入らないや…"
+
+msgid "@niko It's like that one time years ago when I tried to put tomato chowder in a baby bottle..."
+msgstr "@niko とっても昔に、ミーがトマトチャウダーを\n哺乳瓶に入れようとしたときみたい…"
+
+msgid "@niko_speak ...and then it got everywhere!"
+msgstr "@niko_speak …大惨事になったんだから！"
+
+msgid "@niko_eyeclosed On the table, on my clothes, on the baby, on the baby's clothes..."
+msgstr "@niko_eyeclosed テーブル、ミーの服、赤ちゃん、\n赤ちゃんの服…みんなチャウダーまみれ…"
+
+msgid "@niko The grown-ups thought it was hilarious.\\> \\@niko_eyeclosed They took a bunch of pictures."
+msgstr "@niko 大人たちはすっごく笑ってたけどね。\\> \\@niko_eyeclosed たくさん写真を撮ってた。"
+
+msgid "@niko_speak And then they taught me how to use funnels!"
+msgstr "@niko_speak その後、じょうごの使い方を\n教えてくれたんだ！"
+
+msgid "@niko_eyeclosed And then they also told me I shouldn't try to babysit until I'm older."
+msgstr "@niko_eyeclosed それと、大きくなるまで赤ちゃんの世話は\nするなって言われた。"
+
+msgid "@niko ...anyway we should probably look for a funnel or something!"
+msgstr "@niko …とにかく、じょうごか何かを\n探したほうがいいね！"
+
+msgid "@niko Alright... lemme just take out the cork, and..."
+msgstr "@niko よし…コルクを取り出すから、それから…"
+
+msgid "@niko_eyeclosed ...all the smoke escaped."
+msgstr "@niko_eyeclosed …煙が全部出ちゃった。"
+
+msgid "@niko_speak There's already some of this stuff in the bottle, \\p!"
+msgstr "@niko_speak ビンの中にもう入ってるよ、 \\p！"
+
+msgid "@niko This pond sure looks different..."
+msgstr "@niko この池、何だかちょっと変だよ…"
+
+msgid "@niko The water looks like... jelly?"
+msgstr "@niko 水がまるで…ゼリーみたい。"
+
+msgid "@niko It's formed a bubble over the surface of the pond."
+msgstr "@niko 水面に泡ができてる。"
+
+msgid "@niko I guess you want me to fill the bottle with this gas, \\p?"
+msgstr "@niko このガスをビンに\n入れたらいいんでしょ、 \\p？"
+
+msgid "@niko That oughta do it."
+msgstr "@niko これでいいはず。"
+
+msgid "@niko This bottle is already full of this smoke!"
+msgstr "@niko このビンはすでに煙でいっぱいだよ！"
+
+msgid "@niko Alright lemme just...\\> turn this bottle upside down..."
+msgstr "@niko よし、そしたら…\\> ビンを逆さまにして…"
+
+msgid "@niko_eyeclosed ...aaaaand there goes the pond water."
+msgstr "@niko_eyeclosed …すると、はいこの通り。\n池から取ってきた水がなくなっちゃった。"
+
+msgid "@niko But at least we have this smoke..."
+msgstr "@niko でも、とりあえず煙だけは確保したよ…"
+
+msgid "@niko_speak This vent is on the ground!"
+msgstr "@niko_speak この通気孔は地面にある！"
+
+msgid "@niko All the others are taller than me."
+msgstr "@niko 他は全部、ミーより背が高い。"
+
+msgid "[THE SKY IS DARK.]"
+msgstr "[空ガ暗いですネ。]"
+
+msgid "@niko That it is."
+msgstr "@niko そうだね。"
+
+msgid "[DO YOU KNOW WHEN THE SUN WILL BE BACK UP?]"
+msgstr "[太陽ガいつ戻ってくるか分かりますカ？]"
+
+msgid "@niko_speak We're working on it!"
+msgstr "@niko_speak 今がんばってるとこ！"
+

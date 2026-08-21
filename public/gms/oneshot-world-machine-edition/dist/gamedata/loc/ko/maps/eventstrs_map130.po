@@ -1,0 +1,45 @@
+msgid "@niko Well that was fun."
+msgstr "@niko 아, 재밌었다."
+
+msgid "@niko Hello..."
+msgstr "@niko 안녕하세요..."
+
+msgid "[ROOM UNDER CONSTRUCTION]"
+msgstr "[이 방은 공사 중입니다.]"
+
+msgid "[TILES HAVE NOT BEEN FULLY PLACED]"
+msgstr "[바닥 타일 공사가 끝나지 않았습니다.]"
+
+msgid "[YOU SHOULD NOT BE HERE YET]"
+msgstr "[들어오시면 안 됩니다.]"
+
+msgid "@niko ...alright."
+msgstr "@niko ...알았어요."
+
+msgid "[\"Again! Again!\", \"Once is enough!\"]"
+msgstr "[\"또! 또!\",\"한 번으로 충분해!\"]"
+
+msgid "@niko Okay!"
+msgstr "@niko 알았어요!"
+
+msgid "@niko I'm not sure what this is."
+msgstr "@niko 이게 뭔지 잘 모르겠어요."
+
+msgid "@niko_speak It's like a little car!"
+msgstr "@niko_speak 작은 자동차 같아요!"
+
+msgid "[\"You should ride on it!\", \"Resist urge to ride on it.\"]"
+msgstr "[\"한 번 타 봐!\",\"타고 싶어도 참아.\"]"
+
+msgid "@niko ... \\>\\n\\@niko_speak What?"
+msgstr "@niko ... \\>\\n\\@niko_speak 뭐라고요?"
+
+msgid "[\"Do it!\"]"
+msgstr "[\"빨리 타 봐!\"]"
+
+msgid "@niko Um...."
+msgstr "@niko 으음..."
+
+msgid "@niko_eyeclosed I wasn't going to, \\p..."
+msgstr "@niko_eyeclosed 안 그러려고 했는데, \\p 님..."
+

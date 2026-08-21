@@ -1,0 +1,267 @@
+msgid "@niko Jars full of dried fish."
+msgstr "@niko Des pots remplis de poisson séché."
+
+msgid "@niko Fireflies light up this room."
+msgstr "@niko Des lucioles éclairent cette pièce."
+
+msgid "@niko It's a book with a clover on the cover."
+msgstr "@niko C'est un livre avec un trèfle sur la couverture."
+
+msgid "@calamus_heh I really need to finish this..."
+msgstr "@calamus_heh Il faut vraiment que je finisse ça..."
+
+msgid "@niko There's a clover symbol on the cover of this book."
+msgstr "@niko Il y a un trèfle sur la couverture de ce livre."
+
+msgid "@niko_speak Hey! Just like-"
+msgstr "@niko_speak Hé ! Exactement comme..."
+
+msgid "@calamus_speak Oh! My book!"
+msgstr "@calamus_speak Oh ! Mon livre !"
+
+msgid "@calamus_shame Gosh, I still need to finish studying it..."
+msgstr "@calamus_shame Punaise, je n'ai toujours pas fini de l'étudier..."
+
+msgid "@niko Oh?"
+msgstr "@niko Oh ?"
+
+msgid "@calamus My friend gave it to me for Solstice Day."
+msgstr "@calamus Mon ami me l'a donné pour la fête du Solstice."
+
+msgid "@calamus_speak He's the one who wrote it, actually!"
+msgstr "@calamus_speak C'est lui qui l'a écrit, à vrai dire !"
+
+msgid "@calamus_smile He's also the one who taught me how to read!"
+msgstr "@calamus_smile Et c'est également lui qui m'a appris à lire !"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak Oooh !"
+
+msgid "@calamus_smile I have a few more of his books somewhere..."
+msgstr "@calamus_smile J'ai quelques autres de ses livres quelque part..."
+
+msgid "@niko It's a jar full of worms!"
+msgstr "@niko C'est un pot rempli de vers de terre !"
+
+msgid "@niko_speak It's a plush toy!"
+msgstr "@niko_speak C'est une peluche !"
+
+msgid "@niko I have one at home too..."
+msgstr "@niko Moi aussi, j'en ai une chez moi..."
+
+msgid "@niko_83c But mine's an owl and not a fox!"
+msgstr "@niko_83c Mais la mienne est une chouette, pas un renard !"
+
+msgid "@alula My fox is named Ruby, by the way!"
+msgstr "@alula Au fait, mon renard s'appelle Ruby !"
+
+msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
+msgstr "@alula_speak C'est la mienne ! \\>\\@alula Notre ami me l'a donnée l'année dernière !"
+
+msgid "@alula_gasp Yeah! He has a fox too!\\nAnd she can even talk!"
+msgstr "@alula_gasp Ouais ! Il a une renarde lui aussi !\\nMême qu'elle parle !"
+
+msgid "@niko ...what?"
+msgstr "@niko ... Quoi ?"
+
+msgid "@alula_speak I know! I thought she was the coolest thing ever!"
+msgstr "@alula_speak Je sais ! C'était le truc le plus cool que j'ai jamais vu !"
+
+msgid "@alula So he got me a fox plush for Solstice Day!"
+msgstr "@alula Du coup, il m'a offert un renard en peluche pour la fête du Solstice !"
+
+msgid "@niko_speak Oh! That's nice of him!"
+msgstr "@niko_speak Oh ! C'est gentil de sa part !"
+
+msgid "@alula_speak He's the best!"
+msgstr "@alula_speak Il est super !"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak Oh, au fait, qu'est-il arrivé au soleil ?"
+
+msgid "@niko I lent it to someone in the ruins.\\>\\n\\@niko_eyeclosed She said she wanted to feel the sun again, before she..."
+msgstr "@niko Je l'ai prêtée à quelqu'un dans les ruines.\\>\\n\\@niko_eyeclosed Elle a dit qu'elle voulait sentir à nouveau le soleil, avant de..."
+
+msgid "@calamus_speak Oh, you must be talking about Maize."
+msgstr "@calamus_speak Oh, tu dois parler de Maize."
+
+msgid "@niko_speak Is that her name?"
+msgstr "@niko_speak C'est son nom ?"
+
+msgid "@calamus_speak She's a powerful plant spirit. She used to protect the Glen."
+msgstr "@calamus_speak C'est un puissant esprit de la nature qui protégeait le Vallon."
+
+msgid "@calamus_sad ...but once the sun died, her health rapidly deteriorated."
+msgstr "@calamus_sad ... mais lorsque le soleil s'est éteint, sa santé s'est vite détériorée."
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "@calamus I'm glad you were able to find her in time."
+msgstr "@calamus Je suis content que tu l'aies trouvée à temps."
+
+msgid "@niko_eyeclosed I think we might be already too late to save her..."
+msgstr "@niko_eyeclosed Je pense qu'il est peut-être déjà trop tard pour la sauver..."
+
+msgid "@calamus_sad I know."
+msgstr "@calamus_sad Je sais."
+
+msgid "@calamus But I'm glad she got to see the sun again."
+msgstr "@calamus Mais je suis heureux qu'elle ait pu revoir le soleil une dernière fois."
+
+msgid "@calamus I hope the squares don't spread too fast..."
+msgstr "@calamus J'espère que les carrés ne se propagent pas trop vite..."
+
+msgid "@niko Jars full of dried moss."
+msgstr "@niko Des pots remplis de mousse séchée."
+
+msgid "@alula_speak You're here! You're here!"
+msgstr "@alula_speak Tu es là ! Tu es là !"
+
+msgid "@alula I'll go get the thing!"
+msgstr "@alula Je vais chercher le cadeau !"
+
+msgid "@calamus_smile So uh... welcome to our home!\\>\\n\\@calamus_heh I know it's not much, but...\\>\\n\\@calamus_smile feel free to make yourself comfortable."
+msgstr "@calamus_smile Alors euh... bienvenue chez nous !\\>\\n\\@calamus_heh Je sais que ça n'a l'air de rien comme ça, mais...\\>\\n\\@calamus_smile Mets-toi à l'aise."
+
+msgid "@alula Ah! There it is!"
+msgstr "@alula Ah ! La voilà !"
+
+msgid "@alula_speak Here, we want you to have this!"
+msgstr "@alula_speak Tiens, on voulait te donner ça !"
+
+msgid "@niko Oh, a feather!\\>\\n\\@niko_speak The edges are glowing yellow!"
+msgstr "@niko Oh, une plume !\\>\\n\\@niko_speak Les contours brillent en jaune !"
+
+msgid "@calamus_speak It's a sacred feather from the great Prophet."
+msgstr "@calamus_speak C'est une plume sacrée de la grande prophétesse."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Oh ?"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak Oui !"
+
+msgid "@alula She's this old lady our dad used to know!"
+msgstr "@alula C'est cette vieille dame que papa connaissait !"
+
+msgid "@alula_gasp Her feathers can glow in the dark and she can see into the future!"
+msgstr "@alula_gasp Elle est capable de voir l'avenir et ses plumes brillent dans le noir !"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak Quoi !?"
+
+msgid "@alula Or... something like that!"
+msgstr "@alula Ou... quelque chose comme ça !"
+
+msgid "@calamus_speak She gave one of her feathers to father before she died."
+msgstr "@calamus_speak Elle a donné l'une de ses plumes à notre père avant de mourir."
+
+msgid "@calamus Father wanted to pass this down as an heirloom, although...\\>\\n\\@calamus_smile ...it feels more fitting for you to have it."
+msgstr "@calamus Père voulait qu'elle reste dans la famille en tant qu'héritage, mais...\\>\\n\\@calamus_smile ... Nous pensons qu'il vaut mieux que tu la gardes."
+
+msgid "@niko A-are you sure?"
+msgstr "@niko V... Vous êtes sûrs ?"
+
+msgid "@alula_speak Totally sure!"
+msgstr "@alula_speak Totalement !"
+
+msgid "@calamus I think that's what father would have wanted."
+msgstr "@calamus C'est ce que notre père aurait voulu."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak Merci !"
+
+msgid "@alula That's the sun!"
+msgstr "@alula C'est le soleil !"
+
+msgid "@alula It's a book!"
+msgstr "@alula C'est un livre !"
+
+msgid "@alula_speak I can't read yet!"
+msgstr "@alula_speak Je ne sais pas encore lire !"
+
+msgid "@alula Our friend says he'll teach me when I'm older, though!"
+msgstr "@alula Mais notre ami dit qu'il m'apprendra quand je serai plus grande !"
+
+msgid "@alula_speak It's a pretty feather, isn't it?"
+msgstr "@alula_speak C'est une jolie plume, tu ne trouves pas ?"
+
+msgid "@alula_speak Wooow! \\>That's a pretty necklace!"
+msgstr "@alula_speak Ouaaaah ! \\>Ce collier est super joli !"
+
+msgid "@niko The robot lady from the Barrens gave it to me!"
+msgstr "@niko La dame-robot de la Lande me l'a donné !"
+
+msgid "@alula_gasp You've been to the Barrens?"
+msgstr "@alula_gasp Tu as été dans la Lande ?"
+
+msgid "@niko_speak Yeah! \\p and I came from there, actually!"
+msgstr "@niko_speak Ouais ! Et c'est de là que je viens, à vrai dire !"
+
+msgid "@alula_pout But... I thought you came from another world..."
+msgstr "@alula_pout Mais... je pensais que tu venais d'un autre monde..."
+
+msgid "@niko Ah, I just meant we were there first, before we got to the Glen!"
+msgstr "@niko Ah, je voulais dire que c'est là-bas que nous étions avant d'arriver au Vallon !"
+
+msgid "@alula_speak That makes more sense!"
+msgstr "@alula_speak C'est plus logique !"
+
+msgid "@alula_speak It's good to be home again!"
+msgstr "@alula_speak Ça fait du bien d'être à nouveau chez soi !"
+
+msgid "@niko Jars full of beans."
+msgstr "@niko Des pots remplis de haricots."
+
+msgid "@niko Fireflies!"
+msgstr "@niko Des lucioles !"
+
+msgid "@niko_eyeclosed Looks like spoiled food."
+msgstr "@niko_eyeclosed On dirait de la nourriture avariée."
+
+msgid "@calamus_heh I'll... deal with it later."
+msgstr "@calamus_heh Je... m'en chargerai plus tard."
+
+msgid "@calamus_shame Oh no!"
+msgstr "@calamus_shame Oh non !"
+
+msgid "@calamus_heh I guess that's what happens if you leave your house for three days..."
+msgstr "@calamus_heh J'imagine que c'est ce qui arrive quand on abandonne sa maison pendant trois jours..."
+
+msgid "@niko_eyeclosed The back room is full of dust and cobwebs..."
+msgstr "@niko_eyeclosed L'arrière-salle est pleine de poussière et de toiles d'araignées..."
+
+msgid "@niko It's a fishing pole."
+msgstr "@niko C'est une canne à pêche."
+
+msgid "@calamus That reminds me, I need to go fishing later..."
+msgstr "@calamus Ça me rappelle que je dois encore aller pêcher..."
+
+msgid "@alula Do you like fish, Niko?"
+msgstr "@alula Niko, tu aimes les poissons ?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak Ouais !"
+
+msgid "@alula_speak So do we! \\|\\@alula They're good in stews."
+msgstr "@alula_speak Nous aussi ! \\|\\@alula Ils sont bons en ragoût !"
+
+msgid "@niko_speak Or soups!"
+msgstr "@niko_speak Ou en soupe !"
+
+msgid "@niko_eyeclosed ...but I know some people back home who like to eat them raw."
+msgstr "@niko_eyeclosed ... Mais je sais que chez moi, certaines personnes aiment les manger crus."
+
+msgid "@alula_speak Ewww!"
+msgstr "@alula_speak Beuuuuurk !"
+
+msgid "@niko_eyeclosed Yeup."
+msgstr "@niko_eyeclosed Ouaip."
+
+msgid "@niko Coals."
+msgstr "@niko Des braises."
+
+msgid "@niko They're cold now."
+msgstr "@niko Elles sont froides maintenant."
+

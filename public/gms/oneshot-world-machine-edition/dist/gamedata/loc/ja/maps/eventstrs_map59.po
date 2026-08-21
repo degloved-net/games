@@ -1,0 +1,72 @@
+msgid "@niko \\p? Are you there?"
+msgstr "@niko \\p、 いる？"
+
+msgid "[\"Yes\", \"No\", \"That's not my name\"]"
+msgstr "[\"はい\",\"いいえ\",\"それは私の名前ではない\"]"
+
+msgid "@niko_speak Ah, me too!"
+msgstr "@niko_speak うん、ミーも！"
+
+msgid "@niko ...I mean... I'm awake now."
+msgstr "@niko えっと…起きたよ。"
+
+msgid "@niko_eyeclosed \\p... I know you're here..."
+msgstr "@niko_eyeclosed \\p いるのは分かってるよ…"
+
+msgid "@niko_speak ...Oh."
+msgstr "@niko_speak …そっか。"
+
+msgid "@niko_eyeclosed I'm sorry, I'm a little confused... I just woke up..."
+msgstr "@niko_eyeclosed ごめん、少し混乱してる…\n起きたばっかりなんだ…"
+
+msgid "@niko Can you tell me your name again?"
+msgstr "@niko もう1度、名前を教えてくれない？"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed …"
+
+msgid "@niko_eyeclosed I had another bad dream."
+msgstr "@niko_eyeclosed また悪夢を見た。"
+
+msgid "@niko I know I have nothing to worry about with you here, but..."
+msgstr "@niko あなたがここにいるから、心配すること\nないのは分かってるけど…"
+
+msgid "@niko_eyeclosed Can I really save everyone with this lightbulb?"
+msgstr "@niko_eyeclosed 本当にこの電球でみんなを救えるの？"
+
+msgid "@niko ...Let's get going now."
+msgstr "@niko …そろそろ行こうか。"
+
+msgid "@niko These vines look tough, but I think I can manage to cut them!"
+msgstr "@niko このツタは頑丈そうだけど、\n何とか切れると思う！"
+
+msgid "@niko_speak That did it!"
+msgstr "@niko_speak できた！"
+
+msgid "@niko Ready to go, \\p?"
+msgstr "@niko \\p、 準備はいい？"
+
+msgid "@niko The clipper handles won't budge..."
+msgstr "@niko 大ばさみの持ち手が動かない…"
+
+msgid "@niko ...It's not broken, is it?"
+msgstr "@niko …壊れてないよね？"
+
+msgid "@niko There are some really tangled-up vines in the way."
+msgstr "@niko ツタが絡まってて邪魔になってる。"
+
+msgid "@niko It looks like an oil can..."
+msgstr "@niko オイル缶みたい…"
+
+msgid "@niko This might be useful. I'll take it with me."
+msgstr "@niko 役に立つかも。持っていこう。"
+
+msgid "@niko I think I might be carrying something else I can use this with already."
+msgstr "@niko これと一緒に使えるものを、\nすでに持ってると思う。"
+
+msgid "@niko Maybe I should check my pockets again?"
+msgstr "@niko もう一度ポケットを見てみたほうがいいのかな？"
+
+msgid "@niko I don't think we need to go that way..."
+msgstr "@niko そっちに行く必要はないと思う…"
+

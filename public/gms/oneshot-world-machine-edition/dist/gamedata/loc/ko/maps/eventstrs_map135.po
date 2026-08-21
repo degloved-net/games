@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd 그래..."
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd 다시 만났군."
+
+msgid "@niko Hello..."
+msgstr "@niko 안녕하세요..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak 잠깐만요!"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko 당신은... 마을에 있지 않았나요?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd 그래, 하지만 양은 어디에나 존재하지.\\>\\n마을에도 도시에도..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd 그리고...\\.\\. 네 마음 속에도."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ...그렇군요."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd 만약 양이 신발을 신는다면..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd 아마... \\.조리를 신을 거야."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ...글쎄요."
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd 난 공식 양 동호회 위키 사이트의 운영자였지..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ...하지만 서버실에서 자꾸 양이 튀어나오는 바람에 계속 페이지 오류가 발생했지."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ...뭐라고요?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd 404 오류. 양을 찾을 수 없습니다."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed 저기, 무슨 이야긴지 전혀 모르겠어요."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd 흠, 농담은 여기까지 해야겠군."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd 어쩔 수가 없어...\\n\\>\\@shepherd ...녀석들은 꽤나 매-애-애-애-애-애거리거든."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c 그 농담은 이해했어요!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 아얏!"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd 조심해, 그 전기 양에 손을 대면... \\.\\.\\n감전되고 마니까!"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd 정전기가 일어나지!"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed 나한테 \"매애애\"라고 하지 마..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed 저도... 만나서 반가워요..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak 이 양은 아무 반응이 없네요..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko 대신에 양털에 \"매애애\"라 적혀 있어요."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd 그 녀석은 양이 아니야."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd 그 녀석은..\\. \\. 용이지."
+
+msgid "@niko I... see..."
+msgstr "@niko 그... 렇군요..."
+
+msgid "@niko An electric kettle."
+msgstr "@niko 전기 주전자예요."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko 물이 끓고 있는 것 같아요."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd 오, 맞다. 점심시간이 다 됐네."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd 너도, 배고프면..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.양..파스프 먹을래?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed 전... 괜찮아요..."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd 근데 생각해 보니, 컵스프가 다 떨어진 것 같네."
+

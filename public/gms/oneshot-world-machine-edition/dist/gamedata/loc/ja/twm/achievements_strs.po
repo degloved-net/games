@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "悪しき行い"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "慎むように！"
+
+msgid "SHOCK:title=Shock"
+msgstr "ショック"
+
+msgid "SHOCK:description=Not fun."
+msgstr "ちっともうれしくない。"
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "究極の物々交換"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "あらゆる可能性を試してみる？"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "ラム使い"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "ラムの扱いはお手の物。"
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "パンケーキ"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "大好きな食べ物。"
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "夜明けとともに"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "にょ～～～～～ん"
+
+msgid "SECRET:title=Secret"
+msgstr "秘密"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "本の虫"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "図書館で本を読む。"
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "再生"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "サイドクエスト。"
+
+msgid "ONESHOT:title=OneShot"
+msgstr "Oneshot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "原点へ戻る。"
+
+msgid "RETURN:title=Return"
+msgstr "リターン"
+
+msgid "RETURN:description=..."
+msgstr "…"
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "ウォールペーパーウィザード"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "全ての壁紙を集める。"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "カラーコーディネーター"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "全てのテーマを集める。"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "付き合い上手"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "全てのフレンドと出会う。"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "今までありがとう"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "バッジを全て集める。"

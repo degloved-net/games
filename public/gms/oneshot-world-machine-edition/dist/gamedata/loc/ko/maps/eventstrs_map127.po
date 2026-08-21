@@ -1,0 +1,75 @@
+msgid "@niko Do you know where I could find a battery for a flying machine?"
+msgstr "@niko 하늘을 나는 기계에 쓸 배터리를 어디에서 찾을 수 있는지 알아요?"
+
+msgid "[I HAVE A BATTERY INTEGRATED INTO MY SYSTEM.]"
+msgstr "[제게는 배터리가 내장되어 있습니다.]"
+
+msgid "[IT CANNOT BE USED TO POWER OTHER THINGS.]"
+msgstr "[하지만 이 배터리는 그 외의 기기에 동력을 공급하는 데 사용할 수 없죠.]"
+
+msgid "@niko Ah..."
+msgstr "@niko 아..."
+
+msgid "[STAY SAFE.]"
+msgstr "[조심하십시오.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak 당신도요!"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[THE RESEARCH STATION IS CURRENTLY EXPERIENCING SOME TECHNICAL DIFFICULTIES.]"
+msgstr "[연구 시설이 현재 몇 가지 기술적인 문제를 겪고 있습니다.]"
+
+msgid "@niko2 I can tell..."
+msgstr "@niko2 그런 것 같아 보이네요..."
+
+msgid "@niko_eyeclosed Even the bridge on the way here was..."
+msgstr "@niko_eyeclosed 여기 오는 길에 있던 다리마저도..."
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[실버포인트 박사님이 보내서 오셨습니까?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ...아뇨?"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[그럼 그냥 가십시오.]"
+
+msgid "@niko By the way, do you know where I could find a battery for a flying machine?"
+msgstr "@niko 그런데, 하늘을 나는 기계에 쓸 배터리를 어디에서 찾을 수 있는지 아시나요?"
+
+msgid "[I DO NOT.]"
+msgstr "[모릅니다.]"
+
+msgid "@niko Alright..."
+msgstr "@niko 알았어요..."
+
+msgid "[ANOMALIES ARE INCREASING...]"
+msgstr "[이상 현상이 증가하고 있습니다...]"
+
+msgid "@niko_speak Do you know where I could find a battery for a flying machine?"
+msgstr "@niko_speak 하늘을 나는 기계에 사용할 배터리를 어디에서 찾을 수 있는지 아세요?"
+
+msgid "[HAVE YOU CHECKED THE POWER ROOM?]"
+msgstr "[동력실을 확인하셨습니까?]"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 혹시 하늘을 나는 기계에 넣을 배터리를 어디에서 찾을 수 있는지 알아요?"
+
+msgid "[WHAT IS A FLYING MACHINE.]"
+msgstr "[하늘을 나는 기계가 무엇입니까?]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 됐어요."
+
+msgid "[SOME VINES JUST GREW AROUND THIS BRIDGE.]"
+msgstr "[일부 덩굴이 이 다리까지 자랐습니다.]"
+
+msgid "[ALMOST AS IF IT WAS AN INTENTIONAL REPAIR EFFORT.]"
+msgstr "[마치 의도적으로 다리를 고치려고 하는 것처럼 말입니다.]"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed 네..."
+

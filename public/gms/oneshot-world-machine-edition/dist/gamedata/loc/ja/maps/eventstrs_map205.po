@@ -1,0 +1,21 @@
+msgid "@calamus_sad At least the courtyard is unaffected for now..."
+msgstr "@calamus_sad 中庭は、ひとまず大丈夫みたいだな…"
+
+msgid "@niko It's a ball."
+msgstr "@niko ボールだ。"
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula それ、あたしのー！\\>\\n\\@alula_pout 前みたいに全然跳ねないけど…"
+
+msgid "@alula_pout We usually get to the burial grounds through our friend, but..."
+msgstr "@alula_pout あたしたちね、埋葬地に行くとき、いつも\nお友達に手伝ってもらってるの。でも…"
+
+msgid "@alula_oh ...he hasn't been here in forever!"
+msgstr "@alula_oh …もうぜんっぜん会ってないや！"
+
+msgid "@calamus Normally this courtyard would be where we meet up..."
+msgstr "@calamus 普段は、この中庭であいつと会ってるのさ…"
+
+msgid "@alula I hope he comes back soon..."
+msgstr "@alula 早く帰ってくるといいな…"
+

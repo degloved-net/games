@@ -1,0 +1,51 @@
+msgid "@niko It's a box of medical tools."
+msgstr "@niko 의료 기구가 든 상자네요."
+
+msgid "@niko Most of them are broken or rusted beyond use, but..."
+msgstr "@niko 대부분 망가지거나 녹슬어서 못 쓰겠지만..."
+
+msgid "@niko_speak This plastic syringe seems to be okay."
+msgstr "@niko_speak 이 플라스틱 주사기는 멀쩡해 보여요."
+
+msgid "[HELLO, PERSON!]"
+msgstr "[안녕하세요, 인간!]"
+
+msgid "[ARE YOU SEEKING ADMISSION INTO THE INFIRMARY?]"
+msgstr "[병원에 접수를 하러 오셨나요?]"
+
+msgid "@niko No?"
+msgstr "@niko 아뇨."
+
+msgid "[OH. CARRY ON, THEN.]"
+msgstr "[아. 그럼 하던 일을 계속하십시오.]"
+
+msgid "[HELLO, PERSON OF ORGANIC MAKEUP!]"
+msgstr "[안녕하세요, 살아 있는 사람이로군요!]"
+
+msgid "[WELCOME TO THE INFIRMARY]"
+msgstr "[병원에 잘 오셨습니다.]"
+
+msgid "[SCANNING FOR INJURIES...]"
+msgstr "[상처 확인 중...]"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "@niko Um..."
+msgstr "@niko 음..."
+
+msgid "[SCAN COMPLETE]"
+msgstr "[확인이 완료되었습니다.]"
+
+msgid "[INJURIES DETECTED: NONE]"
+msgstr "[상처: 없음]"
+
+msgid "[TREATMENT REQUIRED: NONE]"
+msgstr "[치료: 불필요]"
+
+msgid "[YOU ARE GOOD TO GO.]"
+msgstr "[가셔도 좋습니다.]"
+
+msgid "@niko Er... thanks?"
+msgstr "@niko 어... 고마워요."
+

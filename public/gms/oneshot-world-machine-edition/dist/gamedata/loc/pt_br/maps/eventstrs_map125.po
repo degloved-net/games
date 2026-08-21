@@ -1,0 +1,120 @@
+msgid "@niko A pile of large books."
+msgstr "@niko Um monte de livros grandes."
+
+msgid "@niko One of them is a robot instruction manual..."
+msgstr "@niko Um deles é um manual de instruções de robôs..."
+
+msgid "@niko A painting of 4 robots playing cards."
+msgstr "@niko Um quadro de 4 robôs jogando cartas."
+
+msgid "@niko A picture of many 1's and 0's."
+msgstr "@niko Uma imagem com muito 0 e 1."
+
+msgid "[Hello. Would You Like To Play A Game?]"
+msgstr "[Olá. Gostaria de Jogar?]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Ah!"
+
+msgid "@niko Sure!"
+msgstr "@niko É claro!"
+
+msgid "[What Game Would You Like To Play?]"
+msgstr "[Que Jogo Gostaria de Jogar?]"
+
+msgid "@niko Hmm...."
+msgstr "@niko Hmm...."
+
+msgid "@niko_speak Do you know rock paper scissors?"
+msgstr "@niko_speak Você sabe jogar pedra, papel, tesoura?"
+
+msgid "[Desired Difficulty Level?]"
+msgstr "[Nível de Dificuldade Desejado?]"
+
+msgid "@niko Huh?"
+msgstr "@niko Hm?"
+
+msgid "[Desired Duration Of Turns?]"
+msgstr "[Duração de Partidas Desejada?]"
+
+msgid "@niko_speak Uh..."
+msgstr "@niko_speak Hm..."
+
+msgid "[Please Set Your Timer.]"
+msgstr "[Ajuste o Temporizador.]"
+
+msgid "@niko_eyeclosed ...Nevermind..."
+msgstr "@niko_eyeclosed ... Deixe para lá..."
+
+msgid "@niko How about... hide and seek?"
+msgstr "@niko Que tal... esconde-esconde?"
+
+msgid "@niko_speak Well... maybe not too easy?"
+msgstr "@niko_speak Bem... talvez não tão fácil?"
+
+msgid "[Initiating. Ruthless Mode.]"
+msgstr "[Inicializando. Modo Implacável.]"
+
+msgid "[TARGET: LOCKED.\\| YOU HAVE EXACTLY 14 SECONDS.\\nSTART.\\| RUNNING.]"
+msgstr "[ALVO: BLOQUEADO.\\| VOCÊ TEM EXATAMENTE 14 SEGUNDOS.\\nINICIAR.\\| CORRER.]"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ..."
+
+msgid "@niko_wtf2 ...I'm not sure if I want to play anymore."
+msgstr "@niko_wtf2 ... Acho que não quero mais jogar."
+
+msgid "[OH.\\| Session. Abort.]"
+msgstr "[ESTÁ BEM.\\| Anular Sessão.]"
+
+msgid "[Are You. Feeling Unwell?]"
+msgstr "[Está se Sentindo Mal?]"
+
+msgid "@niko No, it's not that..."
+msgstr "@niko Não, não é isso..."
+
+msgid "@niko I'll... pass."
+msgstr "@niko Deixe para lá."
+
+msgid "My parents are like, literally never home."
+msgstr "Meus pais, literalmente, nunca estão em casa."
+
+msgid "But I don't mind! I'm used to it!"
+msgstr "Mas não tem problema! Já me acostumei!"
+
+msgid "Besides, I've got model C-WT 2nd gen unit 4E here to keep me company now!"
+msgstr "Além disso, eu tenho o modelo C-WT 2ª geração unidade 4E para me fazer companhia!"
+
+msgid "She still talks a little weird sometimes, but that's okay! She's learning!"
+msgstr "Não é sempre que ela fala certinho, mas tudo bem! Ela está progredindo!"
+
+msgid "If I work real hard, she might even be tamed someday!"
+msgstr "Se eu trabalhar duro, ela poderá se tornar evoluída!"
+
+msgid "@niko I keep hearing that word..."
+msgstr "@niko Eu não paro de ouvir essa palavra..."
+
+msgid "What, tame?"
+msgstr "O quê? Evoluído?"
+
+msgid "@niko Mhm!"
+msgstr "@niko Isso!"
+
+msgid "@niko Nobody's told me what it means yet..."
+msgstr "@niko Ninguém me disse ainda o que significa..."
+
+msgid "That's just a robot thing!\\n\\....I can't really explain it, either..."
+msgstr "Coisas de robô!\\n\\.... Eu não sei explicar também..."
+
+msgid "@niko Ah..."
+msgstr "@niko Ah..."
+
+msgid "What? Don't you like to play \"Run Away From The Killer Robot\"?"
+msgstr "O quê? Você não gosta de brincar de “Fuja do Robô Assassino”?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Well, at least *I* have fun with it."
+msgstr "Bem, pelo menos *eu* gosto."
+

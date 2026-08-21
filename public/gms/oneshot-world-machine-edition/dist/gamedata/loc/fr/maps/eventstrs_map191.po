@@ -1,0 +1,75 @@
+msgid "[PHOSPHOR TREES ARE NOW BEING PROTECTED UNDER THE NEW LAWS.]"
+msgstr "[LES ARBRES À PHOSPHORE SONT À PRÉSENT PROTÉGÉS PAR DE NOUVELLES LOIS.]"
+
+msgid "[PLEASE DO NOT HARVEST THEM.]"
+msgstr "[NE CUEILLEZ RIEN DESSUS.]"
+
+msgid "@niko I'm... not?"
+msgstr "@niko Je... ne le fais pas !"
+
+msgid "[HAVE A NICE DAY.]"
+msgstr "[BONNE JOURNÉE.]"
+
+msgid "@niko_speak You too!"
+msgstr "@niko_speak À vous aussi !"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[BONJOUR, PERSONNE.]"
+
+msgid "[WELCOME TO THE RESEARCH STATION.]"
+msgstr "[BIENVENUE AU CENTRE DE RECHERCHE.]"
+
+msgid "@niko Hello!"
+msgstr "@niko Bonjour !"
+
+msgid "[ARE YOU SENT HERE BY DR. SILVERPOINT?]"
+msgstr "[C'EST LE DR SILVERPOINT QUI VOUS ENVOIE ?]"
+
+msgid "@niko_speak ...no?"
+msgstr "@niko_speak ... Non ?"
+
+msgid "[OH, CARRY ON, THEN.]"
+msgstr "[OH, TRÈS BIEN, CONTINUEZ ALORS.]"
+
+msgid "[MONITORING ANOMALY...]"
+msgstr "[ANOMALIE DÉTECTÉE...]"
+
+msgid "@niko_speak What IS that thing?"
+msgstr "@niko_speak Qu'est-ce que c'est que ÇA ?"
+
+msgid "[AN ANOMALY.]"
+msgstr "[UNE ANOMALIE.]"
+
+msgid "@niko_eyeclosed Well, yeah, but..."
+msgstr "@niko_eyeclosed Oui, je vois ça, mais..."
+
+msgid "[I WILL RETURN TO MY STATION IN THE CITY SOON.]"
+msgstr "[JE RETOURNERAI BIENTÔT À MA STATION EN VILLE.]"
+
+msgid "@niko_speak How come you're red instead of green?"
+msgstr "@niko_speak Pourquoi êtes-vous rouge et pas vert ?"
+
+msgid "@niko Well... more of a purple than red...\\>\\n\\@niko_speak But your eyes and stuff are red!"
+msgstr "@niko Enfin... violet, plutôt que rouge...\\>\\n\\@niko_speak Mais vos yeux et tout le reste sont rouges !"
+
+msgid "[I AM ONLY HERE TO PICK UP THIS WEEK'S MOSS SAMPLES.]"
+msgstr "[JE NE SUIS LÀ QUE POUR RÉCUPÉRER LES ÉCHANTILLONS DE MOUSSE.]"
+
+msgid "@niko_speak I see!"
+msgstr "@niko_speak Je vois !"
+
+msgid "[I AM IN CHARGE OF COLLECTING THE MOSS SAMPLES.]"
+msgstr "[MON TRAVAIL CONSISTE À RÉCUPÉRER LES ÉCHANTILLONS DE MOUSSE.]"
+
+msgid "@niko_speak Cool!"
+msgstr "@niko_speak Super !"
+
+msgid "[DID DR. SILVERPOINT SEND YOU?]"
+msgstr "[C'EST LE DR SILVERPOINT QUI VOUS ENVOIE ?]"
+
+msgid "@niko_speak No? I'm with \\p..."
+msgstr "@niko_speak Non ? Je suis avec \\p..."
+
+msgid "[PHOSPHOR TREE GROWTH RATE HAS BEEN REDUCED AS OF LATE...]"
+msgstr "[LA CROISSANCE DES ARBRES À PHOSPHORE A BAISSÉ CES DERNIERS TEMPS...]"
+

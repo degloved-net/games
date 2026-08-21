@@ -1,0 +1,45 @@
+msgid "@niko_speak Time to put the seed in the planter."
+msgstr "@niko_speak ここに種を入れるね。"
+
+msgid "@niko ...\\>\\nThere's no dirt in this pot.\\>\\nWill the seed really grow like this?"
+msgstr "@niko …\\>\\nこの鉢、土が入ってないよ。\\>\\n種って本当にこれで育つのかな？"
+
+msgid "@niko \\p, I need to put in the seed first before I put in the dirt."
+msgstr "@niko \\p、 土を入れる前に、先に\n種を入れなきゃ。"
+
+msgid "@niko This is where I'm supposed to put the seed... \\>\\nBut there's no dirt in this pot."
+msgstr "@niko ここに種を入れるみたい… \\>\\nでも、この鉢には土が入ってないよ。"
+
+msgid "@niko_speak I hope this helps you grow, little seed."
+msgstr "@niko_speak 小さな種さん、これで育てばいいけど。"
+
+msgid "@niko The seed's in the soil, but it looks a bit dry."
+msgstr "@niko 種は土の中に埋まってるよ。でも\nちょっと土が乾燥してるみたい。"
+
+msgid "@niko I can't just pour the water on the seed.\\>\\nIt needs dirt before we can water it."
+msgstr "@niko 種に水はかけられないよ。\\>\\n水をあげる前に、先に土が必要だね。"
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko Water should help this seed grow."
+msgstr "@niko_speak ナイスアイデア、 \\p！\\>\\n\\@niko 水があれば、種も早く育つね。"
+
+msgid "@niko Hmm... the dirt's nice and moist now, but..."
+msgstr "@niko うーん…これで土はいい感じに湿ったけど…"
+
+msgid "@niko_speak What if it dries out?\\.\\. \\@niko_eyeclosed There's only so much water from this little tube..."
+msgstr "@niko_speak 乾燥しちゃったらどうしよう？\\.\\. \\@niko_eyeclosed この入れ物には\nもう水があんまりない…"
+
+msgid "@niko ...I'll hold on to the tube for now, just in case..."
+msgstr "@niko …念のために、この入れ物はとっておくね…"
+
+msgid "@niko_speak Good thinking, \\p!\\>\\n\\@niko This water should really help this seed grow."
+msgstr "@niko_speak ナイスアイデア、 \\p！\\>\\n\\@niko この水なら、きっと種もすぐ育つね。"
+
+msgid "@niko_speak It sprouted a tiny leaf!"
+msgstr "@niko_speak 小さな葉っぱが生えた！"
+
+msgid "@niko We've given it dirt and water.\\>\\nBut will that be enough?"
+msgstr "@niko 土と水をあげたよ。\\>\\nでも、これだけでいいのかな？"
+
+msgid "@niko_speak Good luck, little plant!"
+msgstr "@niko_speak 頑張ってね、小さい植物さん！"
+

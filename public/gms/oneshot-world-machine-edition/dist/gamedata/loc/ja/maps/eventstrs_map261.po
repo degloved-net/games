@@ -1,0 +1,120 @@
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "@niko2 It's a big penguin....\\.\\.plush?"
+msgstr "@niko2 大きなペンギンだ……\n\\.\\.ぬいぐるみ？"
+
+msgid "@niko6 No wait, it's just a penguin."
+msgstr "@niko6 いや、待って。\nこれ、普通のペンギンだよ。"
+
+msgid "@niko_speak Hello\\..\\..\\.. penguin?"
+msgstr "@niko_speak こんにちは\\.。\\.\\.ペンギンさん？"
+
+msgid "@niko_what ..."
+msgstr "@niko_what …"
+
+msgid "@niko6 ...wait \\p didn't we see a plush like that in the apartments?"
+msgstr "@niko6 …待って、 \\p。 こんなぬいぐるみを\nアパートで見なかったっけ？"
+
+msgid "@niko3 H-hello?"
+msgstr "@niko3 こ、こんにちは？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 …"
+
+msgid "@niko_what Say... what is this place?"
+msgstr "@niko_what ねえ… この場所は何？"
+
+msgid "@niko_eyeclosed I sure wasn't expecting all this to be behind that big door!"
+msgstr "@niko_eyeclosed あの大きなドアの向こうが\nこんなふうになってるなんて…\n思いもしなかったよ！"
+
+msgid "@niko_what This place doesn't even look like the rest of the world, come to think of it."
+msgstr "@niko_what そういえば、この世界で\nこんな場所見たことないや。"
+
+msgid "@niko_eyeclosed No answer, huh..."
+msgstr "@niko_eyeclosed 返事ないね、むむむ…"
+
+msgid "@niko2 \\p... Do YOU know where this is?"
+msgstr "@niko2 \\p… \nここって何なのか知ってる？"
+
+msgid "[\"Somewhere important\", \"I have no idea\", \"HELLO\"]"
+msgstr "[\"どこか重要なところだろう。\",\"私には分からない。\",\"こんにちは。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko ...where?"
+msgstr "@niko_speak 本当に？\\>\\n\\@niko …どこなの？"
+
+msgid "@niko_eyeclosed Worth a shot!"
+msgstr "@niko_eyeclosed やっぱりそうだよね！"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf …"
+
+msgid "@niko_eyeclosed Anyway."
+msgstr "@niko_eyeclosed とにかく。"
+
+msgid "@niko_what2 ...the penguin won't stop staring at me!"
+msgstr "@niko_what2 …ペンギンさん、まだこっちを見続けてるね。"
+
+msgid "@niko5 What... should I do now, \\p?"
+msgstr "@niko5 ねえ…どうすべきかな、 \\p？"
+
+msgid "[\"Story of penguin\", \"Play penguin's game\", \"HELLO\"]"
+msgstr "[\"『ペンギン物語』\",\"ペンギンのゲームをプレイしよう。\",\"こんにちは。\"]"
+
+msgid "@niko_speak I like stories!"
+msgstr "@niko_speak お話は大好き！"
+
+msgid "[\"Once upon a time.\"]"
+msgstr "[\"昔々…\"]"
+
+msgid "[\"There was a game.\"]"
+msgstr "[\"とあるゲームがありました。\"]"
+
+msgid "[\"Where you talk\"]"
+msgstr "[\"ペンギンに\"]"
+
+msgid "[\"...To penguin.\"]"
+msgstr "[\"…話しかけるゲームです。\"]"
+
+msgid "@niko A game?\\> What happened when you talk to it?"
+msgstr "@niko ゲーム？\\>\nペンギンに話をしたら何が起こったの？"
+
+msgid "[\"HELLO\"]"
+msgstr "[\"こんにちは。\"]"
+
+msgid "@niko3 ...Hello."
+msgstr "@niko3 …こんにちは。"
+
+msgid "@niko2 Alright..."
+msgstr "@niko2 わかった…"
+
+msgid "[\"Fly penguin\", \"Melt penguin\", \"Become penguin\", \"HELLO\"]"
+msgstr "[\"ペンギン、飛ぶ。\",\"ペンギン、溶ける。\",\"ペンギンに、なる。\",\"こんにちは。\"]"
+
+msgid "@niko Fly penguin?"
+msgstr "@niko ペンギンさんを飛ばす？"
+
+msgid "@niko_pancakes IT FLIES!"
+msgstr "@niko_pancakes 飛ぶ！"
+
+msgid "@niko_what2 ...wait."
+msgstr "@niko_what2 …ちょっと待って。"
+
+msgid "@niko_what I don't think... \\.\\.I don't think penguins are supposed to do that."
+msgstr "@niko_what えっと…\n \\.\\.ペンギンさんは飛べないと思うけど。"
+
+msgid "@niko3 ...\\.\\.Wait what?"
+msgstr "@niko3 …\\.\\.え、何？"
+
+msgid "@niko_wtf2 ..."
+msgstr "@niko_wtf2 …"
+
+msgid "...\\> ...\\> UM."
+msgstr "…\\> …\\> うーん。"
+
+msgid "@niko_eyeclosed ...we should go, \\p."
+msgstr "@niko_eyeclosed …もう行った方がいいかもね、\n\\p。"
+
+msgid "@niko_speak Goodbye, penguin!"
+msgstr "@niko_speak さよなら、ペンギンさん！"
+

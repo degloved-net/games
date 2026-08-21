@@ -1,0 +1,51 @@
+msgid "@ed [By the way, the effect is temporary.]"
+msgstr "@ed [Кстати, эффект временный.]"
+
+msgid "@ed [It will be gone once you no longer need it.]"
+msgstr "@ed [Он исчезнет, когда больше не будет тебе нужен.]"
+
+msgid "@ed [Still haven't figured it out?]"
+msgstr "@ed [Ты всё ещё не понимаешь?]"
+
+msgid "@ed [...you remember the document, correct?]"
+msgstr "@ed [Ты помнишь документ, верно?..]"
+
+msgid "@ed [This time it's even more obvious.]"
+msgstr "@ed [Сейчас это ещё более очевидно.]"
+
+msgid "@ed [What's the most \\c[2]easily accessible\\c[0] place on your machine?]"
+msgstr "@ed [Где наиболее \\c[2]легкодоступное\\c[0] место на твоём устройстве?]"
+
+msgid "@ed [Hello again, \\p.]"
+msgstr "@ed [И снова привет, \\p.]"
+
+msgid "@ed [It seems I need to help you again.]"
+msgstr "@ed [Кажется, я снова должен тебе помочь.]"
+
+msgid "@ed [Niko will not be able to progress otherwise.]"
+msgstr "@ed [Иначе Нико не сможет продвинуться дальше.]"
+
+msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
+msgstr "@ed [На этот раз информация, которая тебе нужна, попала в самое легкодоступное место на твоём устройстве.]"
+
+msgid "Do you see it?"
+msgstr "Ты её видишь?"
+
+msgid "@ed [You'll know what to do with it, then.]"
+msgstr "@ed [Тогда ты знаешь, что с этим делать.]"
+
+msgid "@ed [I know you're not exactly that bright for a god, \\p, but this shouldn't be difficult.]"
+msgstr "@ed [Я знаю, что для божества у тебя не так уж много смекалки, \\p, но это на самом деле несложно.]"
+
+msgid "@ed [Just poke around a bit. It really isn't hard to miss.]"
+msgstr "@ed [Просто поищи немного там-сям. Её сложно не заметить.]"
+
+msgid "@ed [...This...]"
+msgstr "@ed [...Вот...]"
+
+msgid "@ed [How did you already know the answer?]"
+msgstr "@ed [Откуда тебе был известен ответ?]"
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+

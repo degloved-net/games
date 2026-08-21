@@ -1,0 +1,54 @@
+msgid "@niko It's the lightbulb.\\>\\n\\@niko_eyeclosed2 Thank goodness it's safe..."
+msgstr "@niko È la lampadina.\\>\\n\\@niko_eyeclosed2 Meno male, è ancora tutta intera..."
+
+msgid "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+msgstr "@niko_distressed2 ...\\>\\n\\@niko_sad ..."
+
+msgid "@niko_distressed2 ...I guess \\p isn't coming back..."
+msgstr "@niko_distressed2 ...Immagino che \\p non ci sia più..."
+
+msgid "[\"Niko, I'm here.\"]"
+msgstr "[\"Niko, sono qui.\"]"
+
+msgid "@niko_pancakes ...\\p?"
+msgstr "@niko_pancakes ...\\p?"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"Sì?\"]"
+
+msgid "@niko_pancakes Is that... really you?"
+msgstr "@niko_pancakes Sei... davvero tu?"
+
+msgid "@niko_distressed2 I thought... you were gone..."
+msgstr "@niko_distressed2 Pensavo di non risentirti più..."
+
+msgid "[\"I never left you.\", \"I'm back now.\"]"
+msgstr "[\"Non ti ho mai lasciato.\",\"Sono qua, ora.\"]"
+
+msgid "@niko_speak Oh! \\@niko_eyeclosed I was... feeling a bit scared back there..."
+msgstr "@niko_speak Oh! \\@niko_eyeclosed Stavo... stavo iniziando ad avere un po' di paura..."
+
+msgid "@niko_speak I thought I was completely alone!"
+msgstr "@niko_speak Pensavo di essere rimasto completamente solo!"
+
+msgid "@niko_eyeclosed But that was silly of me to assume, wasn't it?"
+msgstr "@niko_eyeclosed Ma sono stato stupido a pensarlo, eh?"
+
+msgid "@niko_speak Where did you go?"
+msgstr "@niko_speak Dov'eri?"
+
+msgid "@niko_eyeclosed I was so scared all by myself..."
+msgstr "@niko_eyeclosed Da solo, ero terrorizzato..."
+
+msgid "@niko_speak ...but I guess... it's okay now."
+msgstr "@niko_speak ...Ma ora... sto meglio."
+
+msgid "@niko Ah, guess we need to figure out where to go now, and-"
+msgstr "@niko Ah giusto, dobbiamo scoprire dove dobbiamo andare e-"
+
+msgid "@niko The sun!\\>\\n\\@niko_speak It lit up on its own!"
+msgstr "@niko Il sole!\\>\\n\\@niko_speak Si è illuminato da solo!"
+
+msgid "@niko Guess I should pick it up, right \\p?"
+msgstr "@niko Dovrei raccoglierlo, giusto \\p?"
+

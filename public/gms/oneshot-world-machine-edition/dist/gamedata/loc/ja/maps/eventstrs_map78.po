@@ -1,0 +1,39 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko ハシゴ、怖い…"
+
+msgid "$Hey sweetie,"
+msgstr "$元気にしてるかしら。"
+
+msgid "$Six more weeks until you can come home!"
+msgstr "$あと6週間で\n帰ってこられるわね！"
+
+msgid "$'bout time, huh?"
+msgstr "$やっと、だわね？"
+
+msgid "$Gosh, I can't imagine living in that awful capsule wall... dorm... thing!"
+msgstr "$カプセル壁だか寮だか\n知らないけど、そんな\n最悪なところで暮らす\nなんて想像できないわ！"
+
+msgid "$But guess what? Soon you'll get to sleep in a real bed and eat real food again!"
+msgstr "$でもね？もうすぐしたら\n本物のベッドで寝て、\n本物の食べ物を食べられ\nるようになるわよ！"
+
+msgid "$Write back soon!"
+msgstr "$返事を待ってるから！"
+
+msgid "$\\n"
+msgstr "$\\n"
+
+msgid "$\\n-love, mom."
+msgstr "$\\nママより"
+
+msgid "@niko Aww..."
+msgstr "@niko ほっこりするね…"
+
+msgid "$Looks like we're supposed to pack stuff for the evacuation starting today..."
+msgstr "$今日から、避難のために\n荷造りしなきゃ\nいけないみたい…。"
+
+msgid "$I wish these books weren't so heavy... it's gonna be a pain to carry them onto the ship."
+msgstr "$本がこれほど\n重いなんて…。\n船まで運ぶの\n絶対に大変だわ。"
+
+msgid "$But they're by the Author! I can't just throw them away!"
+msgstr "$でも、「作者」が書いた\nものだから！\n捨てるわけには\nいかないわ！"
+

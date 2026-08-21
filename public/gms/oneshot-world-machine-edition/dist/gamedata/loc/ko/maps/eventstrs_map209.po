@@ -1,0 +1,51 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 생선 전골이에요!"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 낚시대예요."
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp 우리 오빠도 낚시할 줄 알아!"
+
+msgid "@alula But I don't!"
+msgstr "@alula 하지만 난 몰라!"
+
+msgid "@niko Same!"
+msgstr "@niko 나도야!"
+
+msgid "@niko An empty jar."
+msgstr "@niko 빈 항아리예요."
+
+msgid "@niko A jar of worms."
+msgstr "@niko 벌레 항아리예요."
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed 으웩!"
+
+msgid "Oh, hello, messiah."
+msgstr "안녕, 구원자."
+
+msgid "Would you like some stew?"
+msgstr "전골 먹을래?"
+
+msgid "I made enough to feed a whole village!"
+msgstr "마을 전체에 주고도 남을 만큼 만들었거든!"
+
+msgid "...literally!"
+msgstr "...말 그대로 말이야!"
+
+msgid "@niko_speak It's ok, thanks!"
+msgstr "@niko_speak 괜찮아요, 고맙습니다!"
+
+msgid "Looks like the Glen is deteriorating faster than ever, now..."
+msgstr "협곡이 어느 때보다도 빨리 망가지고 있는 것 같아..."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 말린 생선으로 가득해요."
+
+msgid "@niko6 At least... I think it's fish!"
+msgstr "@niko6 음... 생선이라고 생각할래요!"
+
+msgid "@niko_eyeclosed They look kinda like snakes..."
+msgstr "@niko_eyeclosed 사실 뱀같이 생겼어요..."
+

@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko 一罐穀物。"
+
+msgid "@niko This looks like flour!"
+msgstr "@niko 這個看起來像麵粉！"
+
+msgid "@niko Oats."
+msgstr "@niko 燕麥。"
+
+msgid "@niko Heads of wheat."
+msgstr "@niko 麥穗。"
+
+msgid "A cat does sound nice..."
+msgstr "貓聽起來是不錯……"
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "也許我可以請我表哥幫我在城裡找一隻。"
+
+msgid "He just moved there."
+msgstr "他才剛搬過去不久。"
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "就這樣了……這是我們最後的存糧……"
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "現在我們還得面對害蟲的問題……"
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko 也許你們可以養貓？"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed 不過，我不是貓喔……"
+
+msgid "@alula What's a cat?"
+msgstr "@alula 貓是什麼？"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed 某種動物，但我不是！"
+
+msgid "@alula ?"
+msgstr "@alula ？"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak 那是一種用四隻腳走路、會抓老鼠的動物！"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp 就像狐狸？"
+
+msgid "@niko I... guess?"
+msgstr "@niko 大概吧？"
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak 狐狸很酷！"
+

@@ -1,0 +1,9 @@
+msgid "@niko It's a clover."
+msgstr "@niko 一片苜蓿。"
+
+msgid "@alula_oh Do you want to go back, Niko?"
+msgstr "@alula_oh 霓光，你要回去嗎？"
+
+msgid "@niko ...Nah."
+msgstr "@niko ……沒有。"
+

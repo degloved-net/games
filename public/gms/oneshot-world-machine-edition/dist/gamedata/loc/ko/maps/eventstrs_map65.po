@@ -1,0 +1,267 @@
+msgid "@niko Jars full of dried fish."
+msgstr "@niko 말린 생선이 가득한 항아리예요."
+
+msgid "@niko Fireflies light up this room."
+msgstr "@niko 반딧불이 방을 비추고 있어요."
+
+msgid "@niko It's a book with a clover on the cover."
+msgstr "@niko 표지에 클로버가 있는 책이에요."
+
+msgid "@calamus_heh I really need to finish this..."
+msgstr "@calamus_heh 진짜 다 읽어야 하는데..."
+
+msgid "@niko There's a clover symbol on the cover of this book."
+msgstr "@niko 이 책 표지에 클로버 기호가 그려져 있네."
+
+msgid "@niko_speak Hey! Just like-"
+msgstr "@niko_speak 잠깐만! 이건 꼭..."
+
+msgid "@calamus_speak Oh! My book!"
+msgstr "@calamus_speak 아! 그건 내 책이야!"
+
+msgid "@calamus_shame Gosh, I still need to finish studying it..."
+msgstr "@calamus_shame 아직 덜 읽었어..."
+
+msgid "@niko Oh?"
+msgstr "@niko 아?"
+
+msgid "@calamus My friend gave it to me for Solstice Day."
+msgstr "@calamus 이건 우리 친구가 동짓날 선물로 준 거야."
+
+msgid "@calamus_speak He's the one who wrote it, actually!"
+msgstr "@calamus_speak 이 책을 쓴 사람이기도 하지!"
+
+msgid "@calamus_smile He's also the one who taught me how to read!"
+msgstr "@calamus_smile 글을 읽는 법도 그 친구가 가르쳐 줬어!"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak 아아앗!"
+
+msgid "@calamus_smile I have a few more of his books somewhere..."
+msgstr "@calamus_smile 그 친구가 쓴 책이 어디 또 있을 텐데..."
+
+msgid "@niko It's a jar full of worms!"
+msgstr "@niko 벌레가 가득 든 항아리예요!"
+
+msgid "@niko_speak It's a plush toy!"
+msgstr "@niko_speak 봉제 인형이에요!"
+
+msgid "@niko I have one at home too..."
+msgstr "@niko 저도 집에 하나 있어요..."
+
+msgid "@niko_83c But mine's an owl and not a fox!"
+msgstr "@niko_83c 하지만 내 인형은 여우가 아니라 올빼미죠!"
+
+msgid "@alula My fox is named Ruby, by the way!"
+msgstr "@alula 이 여우 이름은 루비야!"
+
+msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
+msgstr "@alula_speak 그건 내 거야! \\>\\@alula 친구가 작년에 준 거야!"
+
+msgid "@alula_gasp Yeah! He has a fox too!\\nAnd she can even talk!"
+msgstr "@alula_gasp 맞아! 그 친구도 여우를 데리고 있었어!\\n거기다 말도 할 줄 안다?"
+
+msgid "@niko ...what?"
+msgstr "@niko ...네?"
+
+msgid "@alula_speak I know! I thought she was the coolest thing ever!"
+msgstr "@alula_speak 놀랍지? 진짜 최고로 멋져!"
+
+msgid "@alula So he got me a fox plush for Solstice Day!"
+msgstr "@alula 그래서 동짓날에 그 친구가 이 여우 인형을 준 거야!"
+
+msgid "@niko_speak Oh! That's nice of him!"
+msgstr "@niko_speak 와! 정말 멋진 친구네!"
+
+msgid "@alula_speak He's the best!"
+msgstr "@alula_speak 최고라니까!"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak 아, 그건 그렇고, 태양은 어디로 간 거야?"
+
+msgid "@niko I lent it to someone in the ruins.\\>\\n\\@niko_eyeclosed She said she wanted to feel the sun again, before she..."
+msgstr "@niko 폐허에 사는 누군가에게 빌려줬어.\\>\\n\\@niko_eyeclosed 마지막으로 한 번 더 태양을 느껴보고 싶다고 했거든..."
+
+msgid "@calamus_speak Oh, you must be talking about Maize."
+msgstr "@calamus_speak 아, 메이즈 말이구나."
+
+msgid "@niko_speak Is that her name?"
+msgstr "@niko_speak 그게 그 사람 이름이야?"
+
+msgid "@calamus_speak She's a powerful plant spirit. She used to protect the Glen."
+msgstr "@calamus_speak 메이즈는 강력한 식물 정령이야. 그 힘으로 이 협곡을 지켜줬지."
+
+msgid "@calamus_sad ...but once the sun died, her health rapidly deteriorated."
+msgstr "@calamus_sad ...하지만 태양이 사라지면서 체력도 급속도로 약해지고 말았어."
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@calamus I'm glad you were able to find her in time."
+msgstr "@calamus 너무 늦기 전에 메이즈를 찾아줘서 정말 고마워."
+
+msgid "@niko_eyeclosed I think we might be already too late to save her..."
+msgstr "@niko_eyeclosed 그 사람, 구하기에는 너무 늦은 것 같았어..."
+
+msgid "@calamus_sad I know."
+msgstr "@calamus_sad 알고 있어."
+
+msgid "@calamus But I'm glad she got to see the sun again."
+msgstr "@calamus 하지만 메이즈가 태양을 다시 볼 수 있게 된 것만으로도 기뻐."
+
+msgid "@calamus I hope the squares don't spread too fast..."
+msgstr "@calamus 저 사각형들이 빠르게 퍼지지 않아야 할 텐데..."
+
+msgid "@niko Jars full of dried moss."
+msgstr "@niko 말린 이끼가 가득 들었어요."
+
+msgid "@alula_speak You're here! You're here!"
+msgstr "@alula_speak 왔구나! 왔어!"
+
+msgid "@alula I'll go get the thing!"
+msgstr "@alula 너에게 줄 물건을 가지고 올게!"
+
+msgid "@calamus_smile So uh... welcome to our home!\\>\\n\\@calamus_heh I know it's not much, but...\\>\\n\\@calamus_smile feel free to make yourself comfortable."
+msgstr "@calamus_smile 음, 그러니까...우리 집에 온 걸 환영해!\\>\\n\\@calamus_heh 집이 좋지는 않지만...\\>\\n\\@calamus_smile 편하게 지냈으면 좋겠어."
+
+msgid "@alula Ah! There it is!"
+msgstr "@alula 아! 찾았다!"
+
+msgid "@alula_speak Here, we want you to have this!"
+msgstr "@alula_speak 받아. 우리가 주는 선물이야!"
+
+msgid "@niko Oh, a feather!\\>\\n\\@niko_speak The edges are glowing yellow!"
+msgstr "@niko 앗, 깃털이네!\\>\\n\\@niko_speak 가장자리가 노랗게 빛나고 있어!"
+
+msgid "@calamus_speak It's a sacred feather from the great Prophet."
+msgstr "@calamus_speak 이건 위대한 예언자가 남긴 신성한 깃털이야."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 아?"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak 물론이지!"
+
+msgid "@alula She's this old lady our dad used to know!"
+msgstr "@alula 우리 아빠가 알고 지내던 할머니 예언자야!!"
+
+msgid "@alula_gasp Her feathers can glow in the dark and she can see into the future!"
+msgstr "@alula_gasp 그 깃털이 어둠 속에서 빛을 내기 때문에 할머니가 미래를 볼 수 있는 거래!"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak 헉!"
+
+msgid "@alula Or... something like that!"
+msgstr "@alula 뭐... 그 비슷한 얘기야!"
+
+msgid "@calamus_speak She gave one of her feathers to father before she died."
+msgstr "@calamus_speak 그 분은 돌아가시기 전에 아버지에게 이 깃털을 남겨 주셨어."
+
+msgid "@calamus Father wanted to pass this down as an heirloom, although...\\>\\n\\@calamus_smile ...it feels more fitting for you to have it."
+msgstr "@calamus 아버지는 이걸 가보처럼 소중히 간직해 오셨지만...\\>\\n\\@calamus_smile ...네가 가지는 게 좋을 것 같아."
+
+msgid "@niko A-are you sure?"
+msgstr "@niko 저... 정말로?"
+
+msgid "@alula_speak Totally sure!"
+msgstr "@alula_speak 물론이지!"
+
+msgid "@calamus I think that's what father would have wanted."
+msgstr "@calamus 아버지도 분명 너한테 주자고 하셨을걸."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 정말 고마워요!"
+
+msgid "@alula That's the sun!"
+msgstr "@alula 저게 태양이구나!"
+
+msgid "@alula It's a book!"
+msgstr "@alula 책이다!"
+
+msgid "@alula_speak I can't read yet!"
+msgstr "@alula_speak 난 아직 못 읽어!"
+
+msgid "@alula Our friend says he'll teach me when I'm older, though!"
+msgstr "@alula 내가 좀 더 크면 친구가 그때 가르쳐 주겠대!"
+
+msgid "@alula_speak It's a pretty feather, isn't it?"
+msgstr "@alula_speak 예쁜 깃털이지?"
+
+msgid "@alula_speak Wooow! \\>That's a pretty necklace!"
+msgstr "@alula_speak 우와! \\>목걸이 정말 예쁘다!"
+
+msgid "@niko The robot lady from the Barrens gave it to me!"
+msgstr "@niko 불모지에 있던 로봇 아가씨가 주신 거야!"
+
+msgid "@alula_gasp You've been to the Barrens?"
+msgstr "@alula_gasp 불모지에 갔었어?"
+
+msgid "@niko_speak Yeah! \\p and I came from there, actually!"
+msgstr "@niko_speak 맞아! \\p 님과 난 거기에서 왔어!"
+
+msgid "@alula_pout But... I thought you came from another world..."
+msgstr "@alula_pout 하지만... 난 네가 다른 세계에서 온 줄로 알았는데..."
+
+msgid "@niko Ah, I just meant we were there first, before we got to the Glen!"
+msgstr "@niko 아, 협곡에 오기 전에 불모지에 갔었다는 말이야!"
+
+msgid "@alula_speak That makes more sense!"
+msgstr "@alula_speak 이제 이해했어!"
+
+msgid "@alula_speak It's good to be home again!"
+msgstr "@alula_speak 집에 오니까 좋다!"
+
+msgid "@niko Jars full of beans."
+msgstr "@niko 콩이 잔뜩 들어 있어요."
+
+msgid "@niko Fireflies!"
+msgstr "@niko 반딧불이에요!"
+
+msgid "@niko_eyeclosed Looks like spoiled food."
+msgstr "@niko_eyeclosed 상한 음식 같아요."
+
+msgid "@calamus_heh I'll... deal with it later."
+msgstr "@calamus_heh 으... 나중에 처리할게."
+
+msgid "@calamus_shame Oh no!"
+msgstr "@calamus_shame 오, 이런!"
+
+msgid "@calamus_heh I guess that's what happens if you leave your house for three days..."
+msgstr "@calamus_heh 3일 이상 집을 비우면 이렇게 되는구나..."
+
+msgid "@niko_eyeclosed The back room is full of dust and cobwebs..."
+msgstr "@niko_eyeclosed 뒷방은 먼지와 거미줄로 가득해요..."
+
+msgid "@niko It's a fishing pole."
+msgstr "@niko 낚싯대예요."
+
+msgid "@calamus That reminds me, I need to go fishing later..."
+msgstr "@calamus 그러고 보니 나중에 낚시를 하러 가야겠는걸..."
+
+msgid "@alula Do you like fish, Niko?"
+msgstr "@alula 니코, 생선 좋아해?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak 네!"
+
+msgid "@alula_speak So do we! \\|\\@alula They're good in stews."
+msgstr "@alula_speak 우리도 그래! \\|\\@alula 전골에 넣으면 맛있지."
+
+msgid "@niko_speak Or soups!"
+msgstr "@niko_speak 수프에 넣어도 좋고!"
+
+msgid "@niko_eyeclosed ...but I know some people back home who like to eat them raw."
+msgstr "@niko_eyeclosed ...우리 고향에는 생선을 날로 먹는 사람들도 있어."
+
+msgid "@alula_speak Ewww!"
+msgstr "@alula_speak 으에엑!"
+
+msgid "@niko_eyeclosed Yeup."
+msgstr "@niko_eyeclosed 그러게 말이야."
+
+msgid "@niko Coals."
+msgstr "@niko 석탄이에요."
+
+msgid "@niko They're cold now."
+msgstr "@niko 이제 차가워요."
+

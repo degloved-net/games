@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko \\p？\\>\\n.\\..\\..發生什麼事了？\\>\\n這裡好暗……"
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak ……喔！\\>\\n我看到通道最後面有光！"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko 好像還能聽到聲音……"
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised 媽媽？\\>\\n我聽到她在叫我！"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak 我只要穿過這面牆壁……\\>\\n就終於能回家了。"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko 啊，\\p，\\n我猜……"
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 我猜道別的時候到了……"
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 我很……\\.\\.高興……\\.\\.能夠遇見你，\\p……"
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad 謝謝你一路陪伴和幫忙。"
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits 謝謝您玩這個遊戲！"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "嚴重錯誤：找不到救世主。關閉中。"
+

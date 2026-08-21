@@ -1,0 +1,33 @@
+msgid "@niko Hey, \\p?"
+msgstr "@niko 저기, \\p 님?"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak 카페가 어디 있었는지 기억하세요?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko 아, 다행이네요!"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak 잠깐만요! 기억이 나요!\\>\\n\\@niko 엘리베이터를 타고 올라간 뒤에 오른쪽으로 돌아서 계단을 내려가야 해요!"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko 왜 물었냐면요... 음..."
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed 조금... 배가 고파서요..."
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak 사실 배가 많이 고파요!\\>\\n\\@niko 여기 오고부터 거의 먹지를 못했거든요..."
+
+msgid "@niko So...is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko 그러니까... 탑에 들어가기 전에 뭘 좀 먹으면 안 될까요?"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes 팬케이크라도 팔면 좋을 텐데..."
+

@@ -1,0 +1,124 @@
+{
+	"wallpapers" : [
+		{
+			"imageFile":"default",
+			"displayName":"The World Machine",
+			"mode":1,
+		},
+		{
+			"imageFile":"barrens",
+			"displayName":"Barrens Craters",
+			"mode":1,
+		},
+		{
+			"imageFile":"glen",
+			"displayName":"Glen Shoreline",
+			"mode":1,
+		},
+		{
+			"imageFile":"refuge",
+			"displayName":"Refuge Cityscape",
+			"mode":1,
+		},
+		{
+			"imageFile":"niko",
+			"displayName":"Messiah",
+			"mode":1,
+		},
+		{
+			"imageFile":"title",
+			"displayName":"My Burden is Light",
+			"mode":1,
+		},
+		{
+			"imageFile":"planet",
+			"displayName":"Asteroid",
+			"mode":1,
+		},
+		{
+			"imageFile":"black",
+			"displayName":"Blank",
+			"mode":1,
+		},
+		{
+			"imageFile":"lamp",
+			"displayName":"Outpost",
+			"mode":1,
+		},
+		{
+			"imageFile":"factory",
+			"displayName":"Factory",
+			"mode":1,
+		},
+		{
+			"imageFile":"navigate",
+			"displayName":"Navigate",
+			"mode":1,
+		},
+		{
+			"imageFile":"courtyard",
+			"displayName":"Courtyard",
+			"mode":1,
+		},
+		{
+			"imageFile":"ruins",
+			"displayName":"Calamus and Alula",
+			"mode":1,
+		},
+		{
+			"imageFile":"catwalks",
+			"displayName":"Catwalks",
+			"mode":1,
+		},
+		{
+			"imageFile":"lamplighter",
+			"displayName":"Lamplighter",
+			"mode":1,
+		},
+		{
+			"imageFile":"cafe",
+			"displayName":"Café",
+			"mode":1,
+		},
+		{
+			"imageFile":"library",
+			"displayName":"Library Stroll",
+			"mode":1,
+		},
+		{
+			"imageFile":"secret",
+			"displayName":"Secret RAM Club",
+			"mode":1,
+		},
+		{
+			"imageFile":"tower",
+			"displayName":"Tower",
+			"mode":1,
+		},
+		{
+			"imageFile":"plant",
+			"displayName":"Maize",
+			"mode":1,
+		},
+		{
+			"imageFile":"minecart",
+			"displayName":"Prophets",
+			"mode":1,
+		},
+		{
+			"imageFile":"siblings",
+			"displayName":"Memory",
+			"mode":1,
+		},
+		{
+			"imageFile":"world_machine",
+			"displayName":"Reflection",
+			"mode":1,
+		},
+		{
+			"imageFile":"from_niko",
+			"displayName":"From Niko",
+			"mode":1,
+		},
+	]
+}

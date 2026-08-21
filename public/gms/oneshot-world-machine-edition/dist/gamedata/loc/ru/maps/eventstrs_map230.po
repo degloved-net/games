@@ -1,0 +1,39 @@
+msgid "@kip_pout He...."
+msgstr "@kip_pout Он..."
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad Я...\\.\\. не смогла его остановить..."
+
+msgid "@kip_sigh *Sigh*"
+msgstr "@kip_sigh (Вздыхает.)"
+
+msgid "@niko ...\\.\\.Miss?"
+msgstr "@niko ...\\.\\.Мисс?"
+
+msgid "@kip_huh Messiah!"
+msgstr "@kip_huh Мессия!"
+
+msgid "@kip_sigh Oh... you came at an awful time."
+msgstr "@kip_sigh Ох... Ты пришёл в неудачное время."
+
+msgid "@kip_pout Come on, we have to get out of here."
+msgstr "@kip_pout Идём, надо отсюда выбираться."
+
+msgid "@niko2 Where...\\.\\. to?"
+msgstr "@niko2 Но...\\.\\. куда?"
+
+msgid "@kip_sigh Where everyone else is right now."
+msgstr "@kip_sigh Туда, где сейчас все остальные."
+
+msgid "@kip_worry Please! \\.\\.You musn't!!!"
+msgstr "@kip_worry Пожалуйста! \\.\\.Не надо!!!"
+
+msgid "@kip_worry The labs could collapse any moment now!!!"
+msgstr "@kip_worry Лаборатория может обрушиться в любой момент!!!"
+
+msgid "@cedric_upset Let go of me!!!"
+msgstr "@cedric_upset Отпустите меня!!!"
+
+msgid "@niko2 ...\\.\\.Cedric?"
+msgstr "@niko2 ...\\.\\.Седрик?"
+

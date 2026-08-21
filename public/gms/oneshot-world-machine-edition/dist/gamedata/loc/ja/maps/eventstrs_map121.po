@@ -1,0 +1,96 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 大きな本がたくさん積まれてる。"
+
+msgid "@niko A photograph of the city skyline."
+msgstr "@niko 街の空の写真。"
+
+msgid "@niko It's a photograph of the cafe.\\>\\nLooks like it was a busy day..."
+msgstr "@niko カフェの写真だ。\\>\\n忙しい日だったみたい…"
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko コーヒーを作る機械だ。"
+
+msgid "@niko_speak It's very warm!"
+msgstr "@niko_speak すごく温かい！"
+
+msgid "@niko A photograph of some buildings."
+msgstr "@niko 建物の写真だ。"
+
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko このドアの鍵、外せそう…"
+
+msgid "@niko A photograph of the mines.\\>\\nThere are many robots at work in the photo, extracting large deposits of ore."
+msgstr "@niko 鉱山の写真だ。\\>\\nたくさんのロボットが、\nいっぱい鉱石を掘り出してる。"
+
+msgid "@niko Just a trash can..."
+msgstr "@niko ただのゴミ箱…"
+
+msgid "@niko Coffee cups."
+msgstr "@niko コーヒーカップだ。"
+
+msgid "@niko_speak I'm too young to drink coffee!"
+msgstr "@niko_speak ミーはまだコーヒー飲めないや！"
+
+msgid "@niko A photograph of a factory."
+msgstr "@niko 工場の写真だ。"
+
+msgid "@niko It looks like I can unlatch this door..."
+msgstr "@niko このドア、留め金を外せそう…"
+
+msgid "@niko A photograph of the Tower.\\>\\nThe sunlight makes it hard to make out much in this photo."
+msgstr "@niko 塔の写真だ。\\>\\n太陽の光がすごくて、他に何が写っているのか\nあまりよく分からない。"
+
+msgid "@niko A photograph of some railings."
+msgstr "@niko 柵の写真。"
+
+msgid "Hey there."
+msgstr "やあ。"
+
+msgid "@niko Hello."
+msgstr "@niko こんばんは。"
+
+msgid "You the messiah?"
+msgstr "おまえ、救世主か？"
+
+msgid "@niko Mhm!"
+msgstr "@niko うん！"
+
+msgid "......"
+msgstr "……"
+
+msgid "I like your scarf."
+msgstr "いいスカーフしてるな。"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak ありがとう！"
+
+msgid "@niko Mama made it for me!"
+msgstr "@niko ママが作ってくれたんだ！"
+
+msgid "Tell her I like her needlework."
+msgstr "きれいな刺しゅうだと伝えておいてくれ。"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 分かった！"
+
+msgid "@niko ...when I see her again!"
+msgstr "@niko …またママに会えたらね！"
+
+msgid "@niko A photograph of a house in the Glen.\\>\\nLooks like it was taken when people were still living in the ruins..."
+msgstr "@niko 峡谷にある家の写真。\\>\\n人がまだ遺跡に住んでた時に\n撮った写真みたい…"
+
+msgid "@niko They look like phonebooks."
+msgstr "@niko 電話帳みたい。"
+
+msgid "@niko Some of the pages are dog-eared."
+msgstr "@niko 色んなページの端が折れてる。"
+
+msgid "@niko This fridge has magnets on it!"
+msgstr "@niko 冷蔵庫に磁石がついてる！"
+
+msgid "@niko Maybe they'll come in handy?"
+msgstr "@niko 役に立つかも？"
+
+msgid "@niko I hope nobody will mind us taking them..."
+msgstr "@niko 勝手に持っていっても誰も気にしないよね…"
+

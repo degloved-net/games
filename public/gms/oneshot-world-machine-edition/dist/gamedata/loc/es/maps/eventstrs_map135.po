@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd Vaya..."
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd Volvemos a encontrarnos."
+
+msgid "@niko Hello..."
+msgstr "@niko Hola..."
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak ¡Un momento!"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko ¿Tú no eres de... la aldea?"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd Sí, pero los carneros están presentes en todos lados.\\>\\nEn la aldea, en la ciudad..."
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd incluso...\\.\\. en tu corazón."
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ... vale."
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd Si los carneros llevaran zapatos..."
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd Serían... \\.chanclas."
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ... No lo pillo."
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd Yo alojaba el sitio wiki del club oficial del CARNERO..."
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ... pero siempre teníamos errores de página porque los carneros no dejaban de salirse de la sala del servidor."
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ... ¿qué?"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd 404 carnero no encontrado."
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed No tengo ni idea de lo que estás hablando."
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd Mmm. Creo que ya basta de chistes."
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd No lo puedo evitar...\\n\\>\\@shepherd ... No son nada bueeeeenos."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c ¡Ese lo he pillado!"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what ¡Ay!"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd Te cuidado, si tocas un carnero estático... \\.\\.\\n¡te podrías llevar un calambre!"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd ¡Un calambre ESTÁTICO!"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed No me \"abucheeees\"..."
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed Yo... también me alegro de verte..."
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak Este carnero no me hace nada de caso..."
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko Y tiene la palabra \"bee\" escrita en su lana."
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd Ese no es un CARNERO."
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd Ese es...\\. \\. solo de lectura."
+
+msgid "@niko I... see..."
+msgstr "@niko ¡Entiendo...!"
+
+msgid "@niko An electric kettle."
+msgstr "@niko Una tetera eléctrica."
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko Parece que está hirviendo agua."
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd Ah, sí, ya casi es la hora de comer."
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd ¿Te quieres quedar a tomar un plato de..."
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\....\\.carnero?"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed Paso..."
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd Pensándolo bien, seguramente nos hayamos quedado sin carnero."
+

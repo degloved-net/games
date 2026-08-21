@@ -1,0 +1,39 @@
+msgid "@watcher Good morning."
+msgstr "@watcher Buenos días."
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher Buenas tardes."
+
+msgid "@watcher Good evening."
+msgstr "@watcher Buenas noches."
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher ... Es muy tarde."
+
+msgid "@watcher Please leave me be."
+msgstr "@watcher Déjame en paz."
+
+msgid "@watcher We are running out of time."
+msgstr "@watcher Nos estamos quedando sin tiempo."
+
+msgid "@watcher Here we are, at the eleventh hour."
+msgstr "@watcher Aquí estamos, en el último momento."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@niko2 Shouldn't you be...\\.\\. with the other evacuees?"
+msgstr "@niko2 ¿No deberías estar...\\.\\.con los demás refugiados?"
+
+msgid "@watcher Maybe."
+msgstr "@watcher Quizá."
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@watcher I wonder if the big clock has reached zero yet..."
+msgstr "@watcher Me pregunto si el reloj grande ya habrá llegado a cero..."
+
+msgid "@watcher I want to be right here when everything ends."
+msgstr "@watcher Quiero estar estar aquí cuando acabe todo."
+

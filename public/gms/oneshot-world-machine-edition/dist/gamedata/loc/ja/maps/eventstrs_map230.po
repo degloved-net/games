@@ -1,0 +1,39 @@
+msgid "@kip_pout He...."
+msgstr "@kip_pout あの子……"
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad あの子を…\\.\\. 止められなかった…"
+
+msgid "@kip_sigh *Sigh*"
+msgstr "@kip_sigh はぁ…"
+
+msgid "@niko ...\\.\\.Miss?"
+msgstr "@niko …\\.\\.お姉さん？"
+
+msgid "@kip_huh Messiah!"
+msgstr "@kip_huh 救世主！"
+
+msgid "@kip_sigh Oh... you came at an awful time."
+msgstr "@kip_sigh 何てまあ…サイアクなタイミングで…"
+
+msgid "@kip_pout Come on, we have to get out of here."
+msgstr "@kip_pout さ、早くここから離れましょ。"
+
+msgid "@niko2 Where...\\.\\. to?"
+msgstr "@niko2 え…\\.\\. どこに行くの？"
+
+msgid "@kip_sigh Where everyone else is right now."
+msgstr "@kip_sigh 他のみんながいるところよ。"
+
+msgid "@kip_worry Please! \\.\\.You musn't!!!"
+msgstr "@kip_worry やめて！ \\.\\.絶対にダメ！"
+
+msgid "@kip_worry The labs could collapse any moment now!!!"
+msgstr "@kip_worry 研究所はいつ崩れてもおかしくないのよ！！！"
+
+msgid "@cedric_upset Let go of me!!!"
+msgstr "@cedric_upset 離してください！！！"
+
+msgid "@niko2 ...\\.\\.Cedric?"
+msgstr "@niko2 …\\.\\.セドリック？"
+

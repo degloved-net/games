@@ -1,0 +1,4 @@
+
+Sonidos cargados! @WAIT 0.2 
+
+Cargando texturas del sistema:

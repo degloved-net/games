@@ -1,0 +1,123 @@
+msgid "Don't lose faith."
+msgstr "別灰心。"
+
+msgid "Sigh..."
+msgstr "唉……"
+
+msgid "@niko You alright?"
+msgstr "@niko 你還好嗎？"
+
+msgid "Ah, the messiah. Perhaps this is a sign."
+msgstr "啊，是救世主。也許這是一個徵兆。"
+
+msgid "Tell me, do you think you can fix the world with the sun?"
+msgstr "告訴我，你覺得有了太陽就能修好這個世界嗎？"
+
+msgid "@niko_eyeclosed Honestly, I don't know..."
+msgstr "@niko_eyeclosed 老實說，我不知道……"
+
+msgid "@niko I've been getting mixed messages..."
+msgstr "@niko 我得到的訊息有各種看法……"
+
+msgid "I know."
+msgstr "我知道。"
+
+msgid "But what do YOU think?"
+msgstr "但是你的看法呢？"
+
+msgid "@niko I... think...."
+msgstr "@niko 我……覺得……"
+
+msgid "@niko_speak ...I think I should listen to \\p!"
+msgstr "@niko_speak ……我覺得我要聽\\p的話！"
+
+msgid "@niko After all, \\p helped me get this far."
+msgstr "@niko 因為是\\p幫助我一路走到這裡。"
+
+msgid "I will take your faith for an answer, then."
+msgstr "那麼，我就把你的信心當成答案吧。"
+
+msgid "@niko What do you mean by that?"
+msgstr "@niko 那是什麼意思啊？"
+
+msgid "It means whatever you think it means."
+msgstr "你覺得是什麼意思就是什麼意思。"
+
+msgid "[BEEP BOOP]"
+msgstr "[嗶嗶]"
+
+msgid "@niko Beep boop."
+msgstr "@niko 嗶嗶。"
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko 電梯的按鈕面板。"
+
+msgid "@niko This elevator goes back up to the catwalks."
+msgstr "@niko 這台電梯可以回到展示台。"
+
+msgid "@niko_speak We'll need to press the button if we wanna go back up!"
+msgstr "@niko_speak 想回去那邊的話就要按按鈕！"
+
+msgid "@plight Anyway, it was nice meeting you... uh..."
+msgstr "@plight 總之，很高興認識你……呃"
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak 我叫霓光！"
+
+msgid "@plight ...Right. See you around, kid."
+msgstr "@plight ……好喔。再見了，孩子。"
+
+msgid "@plight Gotta run now!"
+msgstr "@plight 我得走了！"
+
+msgid "@niko He seems in a hurry..."
+msgstr "@niko 他看起來很匆忙……"
+
+msgid "@niko I guess we should hurry too, \\p."
+msgstr "@niko 我們也該加快腳步了，\\p。"
+
+msgid "@niko_speak People are counting on us!"
+msgstr "@niko_speak 人們還指望我們呢！"
+
+msgid "@niko Let's go find that library."
+msgstr "@niko 我們去找那間圖書館吧。"
+
+msgid "@niko It's locked from the inside."
+msgstr "@niko 看起來從裡面鎖住了。"
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[晚間新聞！晚間新聞！]"
+
+msgid "[ARE YOU HERE TO PURCHASE A COPY?]"
+msgstr "[你是來買報紙的嗎？]"
+
+msgid "@niko ...No?"
+msgstr "@niko ……不是耶。"
+
+msgid "@niko_speak Newspapers are for grown-ups!"
+msgstr "@niko_speak 報紙是大人看的！"
+
+msgid "[GROWN... UPS?]"
+msgstr "[大……人？]"
+
+msgid "@niko Yeah!"
+msgstr "@niko 對啊！"
+
+msgid "[WHAT DOES THAT MEAN?]"
+msgstr "[什麼意思？]"
+
+msgid "@niko_speak It means people who aren't kids!"
+msgstr "@niko_speak 就是那些不是小孩的人啊！"
+
+msgid "[KIDS?]"
+msgstr "[小孩？]"
+
+msgid "@niko ...er... aren't you a kid?"
+msgstr "@niko ……呃……你不是小孩嗎？"
+
+msgid "[I AM A ROBOT.]"
+msgstr "[我是機器人。]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed 對喔……"
+

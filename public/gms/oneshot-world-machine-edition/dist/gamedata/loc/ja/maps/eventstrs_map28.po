@@ -1,0 +1,93 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 魚が入ったシチューだ！"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 釣り竿だ。"
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp お兄ちゃんも釣りが得意なのよ！"
+
+msgid "@alula But I don't!"
+msgstr "@alula あたしはできないけどー！"
+
+msgid "@niko Same!"
+msgstr "@niko ミーも！"
+
+msgid "@niko An empty jar."
+msgstr "@niko この壺は空っぽ。"
+
+msgid "@niko A jar of worms."
+msgstr "@niko ミミズでいっぱいのビン。"
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed うええ！"
+
+msgid "There was a time where our people used to live in these ruins."
+msgstr "かつて、人々はこの遺跡に住んでいた。"
+
+msgid "But due to flooding, most of us have moved to less permanent settlements."
+msgstr "だが洪水が起きたせいで、ほとんどの者が\n去っていってしまったのさ。"
+
+msgid "@niko Flooding?"
+msgstr "@niko 洪水？"
+
+msgid "Aye, the land has gotten brittle..."
+msgstr "ああ。そして大地は脆くなった…"
+
+msgid "The Glen used to be in one piece, you know?"
+msgstr "峡谷は昔、一つの繋がった大地だった。"
+
+msgid "But now it's just a bunch of islands that get smaller and smaller."
+msgstr "だが今では、ただの島の集まりだ。\n縮小もずっと続いている。"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed そう…"
+
+msgid "@niko Do you still live here?"
+msgstr "@niko まだここに住んでるの？"
+
+msgid "Sort of."
+msgstr "まあな。"
+
+msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
+msgstr "村付近の魚の数が減少してきているから、\n俺たち漁民はここに\n一時的に身を寄せている。"
+
+msgid "@niko_speak Makes sense!"
+msgstr "@niko_speak なるほど！"
+
+msgid "The deeper ruins have been abandoned for a while, though."
+msgstr "奥の遺跡は放棄されてから\nしばらく経つがな。"
+
+msgid "...but I do see some kids coming in and out of those."
+msgstr "…だが、そこから出入りする子供たちを\n見かけることがある。"
+
+msgid "I think they actually live there?"
+msgstr "恐らくここに住んでいるのだろう。"
+
+msgid "... hey, now that I think about it..."
+msgstr "…なあ、というか…"
+
+msgid "Aren't YOU one of those kids?"
+msgstr "君が、その1人じゃないのか？"
+
+msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
+msgstr "@alula_speak うん！ \\@alula あたしとお兄ちゃんだけだよ！ \\>\\n\\@alula_pout それとも…「お兄ちゃんとあたし」？"
+
+msgid "Well, I hope you kids stay safe!"
+msgstr "まあ、あんまり無茶するんじゃないぞ！"
+
+msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
+msgstr "ここより安全な場所に住みたいなら、\n村とか街だろうな。"
+
+msgid "I hope you and your brother stay safe!"
+msgstr "君らも、あんまり無茶するんじゃないぞ！"
+
+msgid "I hope those kids are safe..."
+msgstr "あの子供たち、無事だといいのだが…"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱいだ。"
+
+msgid "@niko Warm coals."
+msgstr "@niko 温かい石炭だ。"
+

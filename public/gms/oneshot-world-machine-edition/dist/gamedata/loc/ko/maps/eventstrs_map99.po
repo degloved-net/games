@@ -1,0 +1,87 @@
+msgid "@niko It's a big book."
+msgstr "@niko 커다란 책이네요."
+
+msgid "@niko_speak The title says \"understanding robots\"."
+msgstr "@niko_speak 제목은... \"로봇의 이해\"예요."
+
+msgid "@niko An empty glass jar."
+msgstr "@niko 빈 유리병이에요."
+
+msgid "@niko The handle on this one looks broken."
+msgstr "@niko 손잡이가 깨진 것 같아요."
+
+msgid "@niko A framed photo of someone."
+msgstr "@niko 누군가의 사진이에요. 액자에 들어 있네요."
+
+msgid "@niko A rusty metal garbage can."
+msgstr "@niko 녹슨 금속 쓰레기통이에요."
+
+msgid "@niko There's some broken glass in here."
+msgstr "@niko 깨진 유리가 들어 있어요."
+
+msgid "@niko A bed."
+msgstr "@niko 침대예요."
+
+msgid "@niko_speak The blanket has quite a few patches."
+msgstr "@niko_speak 여기저기 기운 담요예요."
+
+msgid "@niko An empty glass jar with a wire handle."
+msgstr "@niko 철사로 만든 손잡이가 달린 빈 유리병이에요."
+
+msgid "@niko Some empty glass jars."
+msgstr "@niko 속이 빈 유리병이에요."
+
+msgid "@niko Empty coffee cups."
+msgstr "@niko 빈 커피 잔이에요."
+
+msgid "@niko A jar full of red glowing fluid."
+msgstr "@niko 붉게 빛나는 액체가 가득 든 병이에요."
+
+msgid "@niko_speak There's an empty coffee cup on the chair."
+msgstr "@niko_speak 의자 위에 빈 커피 잔이 놓여 있어요."
+
+msgid "@niko A lantern plant."
+msgstr "@niko 발광 식물이에요."
+
+msgid "@niko There's a note attached."
+msgstr "@niko 쪽지가 붙어 있어요."
+
+msgid "@niko_speak It says \"Thank you for working so hard, Mr. Lamplighter!\""
+msgstr "@niko_speak \"열심히 일해 주셔서 감사해요. 가로등 아저씨!\"라고 적혀 있어요."
+
+msgid "@niko Big books."
+msgstr "@niko 커다란 책이에요."
+
+msgid "@niko_speak ...Ah, these are dictionaries."
+msgstr "@niko_speak ...아, 전부 사전이네요."
+
+msgid "@niko Some of the words are underlined."
+msgstr "@niko 단어에 밑줄을 그어 놨어요."
+
+msgid "@niko ....*most* of the words are underlined."
+msgstr "@niko ...거의 다 줄을 그어 놨네요."
+
+msgid "@niko There's some big plastic disks in here."
+msgstr "@niko 플라스틱으로 만든 커다란 판이 있어요."
+
+msgid "@niko_speak Looks like they're supposed to go in something?"
+msgstr "@niko_speak 뭔가에 들어가게 생겼는데요?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_what Wait, \\p, are we really gonna take these with us?"
+msgstr "@niko_what 잠깐만요, \\p 님. 정말 이걸 들고 가자고요?"
+
+msgid "@niko_what But they look so heavy..."
+msgstr "@niko_what 그치만 굉장히 무거워 보이는데요..."
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 알았어요..."
+
+msgid "@niko_speak Hey! They're actually pretty light!"
+msgstr "@niko_speak 와! 실제로 들어보니 꽤 가벼워요!"
+
+msgid "@niko It's empty now..."
+msgstr "@niko 이제 비었어요..."
+

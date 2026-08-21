@@ -1,0 +1,36 @@
+msgid "@niko The world below looks so small..."
+msgstr "@niko 아래 세상이 굉장히 작게 보여요..."
+
+msgid "@niko_eyeclosed No turning back now..."
+msgstr "@niko_eyeclosed 이제 돌아갈 수 없어요..."
+
+msgid "@niko_speak So this is where the sun belongs..."
+msgstr "@niko_speak 여기가 태양이 있어야 하는 곳이군요..."
+
+msgid "@niko2 If I put the sun in here, we'll be able to save the world, right?"
+msgstr "@niko2 제가 태양을 여기 놓으면 세상을 구할 수 있는 거죠?"
+
+msgid "@niko ...but if I want to go home...\\> \\@niko_distressed I'll have to...\\> \\@niko_distressed_meow break it?"
+msgstr "@niko ...하지만 제가 집으로 가려면... \\> \\@niko_distressed 전... \\> \\@niko_distressed_meow 이걸 깨트려야 하고요."
+
+msgid "@niko_sad Oh...."
+msgstr "@niko_sad 아..."
+
+msgid "@niko_distressed2 ....\\p? \\>\\n\\@niko_distressed2 What should I... do?"
+msgstr "@niko_distressed2 ...\\p 님? \\>\\n\\@niko_distressed2 전... 어떻게 해야 하나요?"
+
+msgid "What's the right thing to do?"
+msgstr "무엇이 옳은 걸까요?"
+
+msgid "@niko_eyeclosed Y-You're right...\\>\\nI can't just leave everyone here to die."
+msgstr "@niko_eyeclosed 다, 당신 말이 맞아요...\\>\\n이곳 사람들이 모두 죽게 내버려둘 수는 없어요."
+
+msgid "@niko Thank you for your help, \\p.\\>\\nI promise I'll be okay."
+msgstr "@niko 도와주셔서 고마웠어요, \\p 님.\\>\\n전... 괜찮을 거예요."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits 플레이해 주셔서 감사합니다!"
+
+msgid "I...\\> trust your judgement, \\p."
+msgstr "전...\\> 당신의 결정을 믿을게요, \\p 님."
+

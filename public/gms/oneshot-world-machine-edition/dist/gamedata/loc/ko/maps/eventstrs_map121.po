@@ -1,0 +1,96 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 큰 책들이 쌓여 있어요."
+
+msgid "@niko A photograph of the city skyline."
+msgstr "@niko 도시의 하늘을 찍은 사진이에요."
+
+msgid "@niko It's a photograph of the cafe.\\>\\nLooks like it was a busy day..."
+msgstr "@niko 카페 사진이에요.\\>\\n바쁜 날에 찍힌 것 같네요..."
+
+msgid "@Niko A coffee machine."
+msgstr "@Niko 커피 머신이에요."
+
+msgid "@niko_speak It's very warm!"
+msgstr "@niko_speak 아주 따뜻해요!"
+
+msgid "@niko A photograph of some buildings."
+msgstr "@niko 몇몇 건물의 사진이에요."
+
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko 이 문은 열 수 있을 것 같은데요..."
+
+msgid "@niko A photograph of the mines.\\>\\nThere are many robots at work in the photo, extracting large deposits of ore."
+msgstr "@niko 광산이 찍힌 사진이에요.\\>\\n로봇 여럿이서 커다란 광석을 캐고 있어요."
+
+msgid "@niko Just a trash can..."
+msgstr "@niko 그냥 쓰레기통이에요..."
+
+msgid "@niko Coffee cups."
+msgstr "@niko 커피 잔이에요."
+
+msgid "@niko_speak I'm too young to drink coffee!"
+msgstr "@niko_speak 전 아직 커피 마실 나이가 아니거든요!"
+
+msgid "@niko A photograph of a factory."
+msgstr "@niko 공장 사진이에요."
+
+msgid "@niko It looks like I can unlatch this door..."
+msgstr "@niko 이 문은 열 수 있을 것 같은데요..."
+
+msgid "@niko A photograph of the Tower.\\>\\nThe sunlight makes it hard to make out much in this photo."
+msgstr "@niko 탑 사진이에요.\\>\\n햇빛 때문에 풍경이 잘 보이지 않네요."
+
+msgid "@niko A photograph of some railings."
+msgstr "@niko 난간이 찍힌 사진이에요."
+
+msgid "Hey there."
+msgstr "안녕."
+
+msgid "@niko Hello."
+msgstr "@niko 안녕하세요."
+
+msgid "You the messiah?"
+msgstr "네가 구원자니?"
+
+msgid "@niko Mhm!"
+msgstr "@niko 네!"
+
+msgid "......"
+msgstr "......"
+
+msgid "I like your scarf."
+msgstr "목도리가 마음에 드는구나."
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 정말 고마워요!"
+
+msgid "@niko Mama made it for me!"
+msgstr "@niko 엄마가 만들어 주신 거예요!"
+
+msgid "Tell her I like her needlework."
+msgstr "엄마에게 솜씨가 훌륭하시다고 전해 주렴."
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 그럴게요!"
+
+msgid "@niko ...when I see her again!"
+msgstr "@niko ...다시 만나면 꼭 전해 드릴게요!"
+
+msgid "@niko A photograph of a house in the Glen.\\>\\nLooks like it was taken when people were still living in the ruins..."
+msgstr "@niko 협곡에 있는 집이 찍혀 있어요.\\>\\n사람들이 폐허에서 살 때 찍은 사진인가 봐요..."
+
+msgid "@niko They look like phonebooks."
+msgstr "@niko 전화번호부 같아요."
+
+msgid "@niko Some of the pages are dog-eared."
+msgstr "@niko 몇 페이지는 구석이 접혀 있네요."
+
+msgid "@niko This fridge has magnets on it!"
+msgstr "@niko 냉장고에 자석이 붙어 있어요!"
+
+msgid "@niko Maybe they'll come in handy?"
+msgstr "@niko 어쩌면 쓸모가 있을지도 모르겠는데요?"
+
+msgid "@niko I hope nobody will mind us taking them..."
+msgstr "@niko 우리가 가져간 걸 아무도 모르면 좋겠네요..."
+

@@ -1,0 +1,288 @@
+msgid "@shepherd My rams clock at 1333 megaherds."
+msgstr "@shepherd I miei montoni sono tutti marcantoni."
+
+msgid "@niko ...what?"
+msgstr "@niko ...Cosa?"
+
+msgid "@shepherd You're heading to the city, aren't you?"
+msgstr "@shepherd Stai andando in città, vero?"
+
+msgid "@shepherd Been there, done that."
+msgstr "@shepherd Ci sono già stata."
+
+msgid "@shepherd Too cramped, you know?"
+msgstr "@shepherd È un po' troppo soffocante, sai?"
+
+msgid "@shepherd But it's not like this place is getting any bigger with the rising waters and all."
+msgstr "@shepherd Ma non è che questo posto stia comunque diventando più grande con l'avanzare delle acque e tutto il resto."
+
+msgid "@shepherd Hm...maybe the city isn't so bad after all..."
+msgstr "@shepherd Mh... Forse la città non è così male dopotutto..."
+
+msgid "@shepherd The rams are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd I montoni elettrici stanno pascolando dove non dovrebbero.\\nSpostali dove il muschio è più scuro."
+
+msgid "@shepherd If you get stuck, ring a bell and they'll all return to their original positions."
+msgstr "@shepherd Se resti bloccato, suona una campana e ritorneranno dove stavano prima."
+
+msgid "@shepherd Good luck."
+msgstr "@shepherd Buona fortuna."
+
+msgid "@niko Hello."
+msgstr "@niko Ciao."
+
+msgid "@shepherd Hm...\\nI need someone to help me herd my rams..."
+msgstr "@shepherd Mh...\\nSe solo ci fosse qualcuno disposto a radunare i miei montoni elettrici..."
+
+msgid "@niko_speak Oh! \\.\\@niko I can do that!"
+msgstr "@niko_speak Oh! \\.\\@niko Posso farlo io!"
+
+msgid "@niko I've seen some grownups do it back home... \\@niko_speak You kinda just push them around!"
+msgstr "@niko L'ho visto fare da alcuni adulti, a casa... \\@niko_speak Basta spingerli in giro!"
+
+msgid "@shepherd Hmm...\\.\\. But you are carrying the sun."
+msgstr "@shepherd Mh...\\.\\. Ma stai portando il sole."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@niko_speak Wait, can't you just... watch the sun for me?"
+msgstr "@niko_speak Aspetta, non potresti... tenerlo tu per un po'?"
+
+msgid "@shepherd I cannot.\\nI am but a simple shepherd."
+msgstr "@shepherd Non posso.\\nSono solo una semplice pastora."
+
+msgid "@niko_eyeclosed Um... okay..."
+msgstr "@niko_eyeclosed Ehm... Ok..."
+
+msgid "@shepherd Come back when your hands are free. You will be rewarded if you can herd my rams."
+msgstr "@shepherd Torna quando avrai le mani libere. Se riuscirai a radunare per bene i miei montoni elettrici, avrai una ricompensa."
+
+msgid "@shepherd Oh. I see your hands are now free."
+msgstr "@shepherd Oh. Vedo che hai le mani libere."
+
+msgid "@shepherd Would you like to help me herd my rams?\\nThere's a great reward in store for you, I promise."
+msgstr "@shepherd Vuoi aiutarmi a radunare i miei montoni elettrici?\\nHo un premio grandioso già pronto per te."
+
+msgid "@niko Uh..."
+msgstr "@niko Ehm..."
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sì\",\"No\"]"
+
+msgid "@shepherd Excellent!\\nTo the south is a peninsula inhabited by my rams."
+msgstr "@shepherd Eccellente!\\nTroverai i miei montoni in una penisola poco a sud."
+
+msgid "@shepherd They are all standing in unfortunate spots.\\nYou need to move them onto the darker moss."
+msgstr "@shepherd Stanno tutti pascolando dove non dovrebbero.\\nDovresti spostarli dove il muschio è più scuro."
+
+msgid "@niko Looks like we gotta herd some rams now, Alula."
+msgstr "@niko A quanto pare dobbiamo fare i pastori, Alula."
+
+msgid "@alula Can I help?"
+msgstr "@alula Posso aiutare?"
+
+msgid "@niko_speak Sure!"
+msgstr "@niko_speak Certo!"
+
+msgid "@shepherd Very well.\\> Come back when you reconsider."
+msgstr "@shepherd Molto bene.\\> Torna quando ci ripensi."
+
+msgid "The crops have been growing poorly without the sun...\\nAnd there's no telling how long our surpluses will last."
+msgstr "Le colture sono cresciute a stento senza il sole...\\nE non si sa per quanto ancora dureranno le nostre scorte."
+
+msgid "Please, savior, you have to hurry!"
+msgstr "Salvatore, ti prego, devi sbrigarti!"
+
+msgid "@niko_speak I..."
+msgstr "@niko_speak Io..."
+
+msgid "@niko I'll do my best."
+msgstr "@niko Farò del mio meglio."
+
+msgid "The light from these lanterns will have to do for now."
+msgstr "Dovremmo farci bastare la luce di queste lanterne, per il momento."
+
+msgid "I'm starting to see some very small sprouts."
+msgstr "Stanno iniziando a spuntare dei germogli molto piccoli."
+
+msgid "It will probably take some time for these to bear fruit..."
+msgstr "Probabilmente ci vorrà del tempo perché diano dei frutti..."
+
+msgid "Most of the green moss covering our village has already lost its glow..."
+msgstr "La maggior parte del muschio verde che copre il nostro villaggio ha già perso il suo bagliore..."
+
+msgid "If it wasn't for the thin strip left on the boundaries of the land, people could easily fall into the ocean."
+msgstr "Se non fosse per la sottile striscia rimasta lungo la costa, la gente finirebbe col cadere nell'oceano."
+
+msgid "Without light, land and water becomes indistinguishable here."
+msgstr "Senza luce, qua è impossibile distinguere la terraferma dall'acqua."
+
+msgid "Wooow!"
+msgstr "Wooow!"
+
+msgid "Is that the sun?"
+msgstr "Quello è il sole?"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak Sì!"
+
+msgid "And you're holding it?"
+msgstr "E riesci a tenerlo in mano?"
+
+msgid "Isn't it hot?"
+msgstr "Non è caldo?"
+
+msgid "@niko Not really!"
+msgstr "@niko Non proprio!"
+
+msgid "@niko It's nice and warm!"
+msgstr "@niko È tiepido e piacevole!"
+
+msgid "Your eyes glow in the dark!"
+msgstr "I tuoi occhi brillano al buio!"
+
+msgid "Just like the sun!"
+msgstr "Proprio come il sole!"
+
+msgid "@alula_speak That's what I said!"
+msgstr "@alula_speak È quello che ho detto io!"
+
+msgid "The land is fragmenting at an alarming rate..."
+msgstr "La terra si sta frantumando ad una velocità allarmante..."
+
+msgid "I don't like to think about the day when this town finally loses to the intruding sea."
+msgstr "Non voglio pensare che un giorno questo villaggio finirà sommerso dall'avanzata del mare."
+
+msgid "We'll have to find another place to settle..."
+msgstr "Dovremo trovare un altro posto in cui stabilirci..."
+
+msgid "@niko_speak Apparently this moss tastes like fish!"
+msgstr "@niko_speak A quanto pare questo muschio sa di pesce!"
+
+msgid "@niko_eyeclosed That's... actually kinda weird."
+msgstr "@niko_eyeclosed ...Il che è un po' strano."
+
+msgid "@niko I suppose I could just eat one, but..."
+msgstr "@niko Potrei assaggiarne un filino, ma..."
+
+msgid "@niko_speak You know what they say about curiosity and the cat!"
+msgstr "@niko_speak La gatta che va al lardo ci lascia lo zampino!"
+
+msgid "@niko_eyeclosed Not that I'm a cat..."
+msgstr "@niko_eyeclosed Non che io sia un gatto... \\>\\nma meglio non rischiare."
+
+msgid "@niko This ram is chewing on a ball of moss."
+msgstr "@niko Questo montone sta masticando una palla di muschio."
+
+msgid "@alula_speak Moss is tasty!"
+msgstr "@alula_speak Il muschio è buono!"
+
+msgid "@niko_speak Oh? \\.\\.\\@niko What do they taste like?"
+msgstr "@niko_speak Oh? \\.\\.\\@niko Di che sa?"
+
+msgid "@alula Fish!"
+msgstr "@alula Di pesce!"
+
+msgid "@niko_speak Seriously?"
+msgstr "@niko_speak Veramente?"
+
+msgid "@alula_pout Oh, but you have to pick out the darker ones to eat."
+msgstr "@alula_pout Oh, ma se vuoi provarlo devi prendere quello scuro."
+
+msgid "@alula_speak Wouldn't wanna eat the glowy stuff!"
+msgstr "@alula_speak Non ti conviene proprio mangiare quella roba luminosa!"
+
+msgid "@alula That'd be silly."
+msgstr "@alula Sarebbe stupido."
+
+msgid "@alula_pout And wasteful!"
+msgstr "@alula_pout E anche uno spreco!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_speak Now I'm curious!"
+msgstr "@niko_speak Adesso sono curioso!"
+
+msgid "@niko_speak What do you think they taste like, \\p?"
+msgstr "@niko_speak Secondo te che sapore ha, \\p?"
+
+msgid "@niko_eyeclosed The moss, not the ram..."
+msgstr "@niko_eyeclosed Il muschio, dico, non il montone..."
+
+msgid "@niko An empty jar."
+msgstr "@niko Un vaso vuoto."
+
+msgid "@niko This jar is full of milk."
+msgstr "@niko Questo vaso è pieno di latte."
+
+msgid "@niko_speak Milk makes you grow taller!"
+msgstr "@niko_speak Il latte ti fa diventare grande!"
+
+msgid "@niko That's what mama always says."
+msgstr "@niko È quello che dice sempre la mamma."
+
+msgid "@niko This jar is full of dry beans."
+msgstr "@niko Questo vaso è pieno di fagioli secchi."
+
+msgid "@niko Two jars."
+msgstr "@niko Due vasi."
+
+msgid "@niko I don't know what's in this jar, but it smells kinda like pickles!"
+msgstr "@niko Non so cosa ci sia in questo contenitore, ma odora di sottaceti!"
+
+msgid "@alula_speak I like pickles!"
+msgstr "@alula_speak Mi piacciono i sottaceti!"
+
+msgid "@niko_eyeclosed I don't!"
+msgstr "@niko_eyeclosed A me no!"
+
+msgid "@niko These jars are filled with water."
+msgstr "@niko Questi vasi sono pieni d'acqua."
+
+msgid "@niko This jar smells like alcohol."
+msgstr "@niko Questo vaso puzza d'alcol."
+
+msgid "@niko_speak ...gross!"
+msgstr "@niko_speak ...Che schifo!"
+
+msgid "@niko I wonder why grown-ups like to drink this stuff?"
+msgstr "@niko Come fanno gli adulti a bere questa roba?"
+
+msgid "@niko Alcohol is for setting things on fire."
+msgstr "@niko L'alcol serve per accendere il fuoco."
+
+msgid "@alula What's a fire?"
+msgstr "@alula Che cos'è un \"fuoco\"?"
+
+msgid "@niko_eyeclosed We have much to discuss."
+msgstr "@niko_eyeclosed Abbiamo molto di cui parlare."
+
+msgid "@niko It smells nice!"
+msgstr "@niko Ha un buon odore!"
+
+msgid "@niko It's a firefly jar."
+msgstr "@niko È un barattolo pieno di lucciole."
+
+msgid "@alula_gasp Gaaaaaaaasp!"
+msgstr "@alula_gasp Gaaaaaaaasp!"
+
+msgid "@niko_speak There's peas in there!"
+msgstr "@niko_speak Ci sono dei piselli qui dentro!"
+
+msgid "@niko Some jars filled with grains."
+msgstr "@niko Dei vasi pieni di cereali."
+
+msgid "@niko There's water in this jar."
+msgstr "@niko C'è dell'acqua in questo vaso."
+
+msgid "@niko A jar full of small rocks."
+msgstr "@niko Un vaso pieno di sassolini."
+
+msgid "@shepherd You've provided a great service for all of ramkind.\\nIn return...\\.\\nTake this fine ram wool."
+msgstr "@shepherd I montoni hanno apprezzato le tue gesta.\\nCome ricompensa...\\.\\nTi meriti questa lana di ottima fattura."
+
+msgid "@niko Oh, uh... thanks."
+msgstr "@niko Oh, ehm... grazie."
+

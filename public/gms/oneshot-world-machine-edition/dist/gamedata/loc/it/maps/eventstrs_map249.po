@@ -1,0 +1,138 @@
+msgid "@niko A bulletin board with lots of papers on it."
+msgstr "@niko Una bacheca con sopra tanti documenti."
+
+msgid "@niko It's a piece of amber on a string."
+msgstr "@niko È un pezzo di ambra su uno spago."
+
+msgid "@niko_eyeclosed Looks just like that necklace the robot lady showed me..."
+msgstr "@niko_eyeclosed Sembra uguale alla collana che la signorina robot mi ha mostrato..."
+
+msgid "@niko It's a big photo."
+msgstr "@niko Una grande foto."
+
+msgid "@niko2 Wait, no...\\.\\. it's a painting!"
+msgstr "@niko2 Aspetta, no...\\.\\. è un dipinto!"
+
+msgid "@niko_eyeclosed Hard to tell at first..."
+msgstr "@niko_eyeclosed A prima vista non si direbbe..."
+
+msgid "@niko A coat rack with a scarf and a big jacket."
+msgstr "@niko Un appendiabiti con una sciarpa e una grande giacca."
+
+msgid "@rue_talk The room ahead doesn't really lead anywhere, but..."
+msgstr "@rue_talk Sembra che la stanza avanti non porti da nessuna parte, ma..."
+
+msgid "@rue \\p should still remember what to do here."
+msgstr "@rue \\p dovrebbe ricordare cosa fare qui."
+
+msgid "@niko It's a stack of books."
+msgstr "@niko Una pila di libri."
+
+msgid "@niko_speak They're watercolor sticks!"
+msgstr "@niko_speak Sono pigmenti per acquerelli!"
+
+msgid "@cedric_sigh Of course, this is just a copy of it..."
+msgstr "@cedric_sigh Certo, questa è solo una copia..."
+
+msgid "@cedric This is my father's study."
+msgstr "@cedric Questo è lo studio di mio padre."
+
+msgid "@cedric_sigh It feels like...\\.\\. he's still here, doesn't it?"
+msgstr "@cedric_sigh È come se...\\.\\. fosse ancora qui, vero?"
+
+msgid "@cedric_sigh ...like he's still with us."
+msgstr "@cedric_sigh ...Come se fosse ancora con noi."
+
+msgid "@rue_sad ...Yeah."
+msgstr "@rue_sad ...Già."
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [...]"
+
+msgid "@niko_speak Photos too!"
+msgstr "@niko_speak E delle foto!"
+
+msgid "@niko It's a shelf full of books."
+msgstr "@niko Uno scaffale pieno di libri."
+
+msgid "@niko It's a tea set."
+msgstr "@niko Un servizio da tè."
+
+msgid "@niko There's a glass tea set on the table."
+msgstr "@niko C'è un servizio da tè di vetro sul tavolo."
+
+msgid "@cedric_hmm Tea DOES sound really nice right now..."
+msgstr "@cedric_hmm Effettivamente sembra un buon momento per il tè..."
+
+msgid "@cedric_sigh Too bad there's no water in here..."
+msgstr "@cedric_sigh Peccato che qui non c'è acqua..."
+
+msgid "@niko Black clovers in a glass case."
+msgstr "@niko Trifogli neri in una teca di vetro."
+
+msgid "@niko It's a big book on the table."
+msgstr "@niko C'è un grande libro sul tavolo."
+
+msgid "@niko It's a pilot's helmet."
+msgstr "@niko Un casco da pilota."
+
+msgid "@niko The door is gone."
+msgstr "@niko La porta è sparita."
+
+msgid "@niko2 The door is... gone?"
+msgstr "@niko2 La porta è... sparita?"
+
+msgid "@proto2b [Well, the door does not exist without us there.]"
+msgstr "@proto2b [Beh, la porta cessa di esistere se non siamo lì.]"
+
+msgid "@niko_eyeclosed Guess I can't go back out, huh..."
+msgstr "@niko_eyeclosed Immagino che non possa tirarmi indietro, eh..."
+
+msgid "@proto2 [...Do you need to?]"
+msgstr "@proto2 [...Perché, vorresti?]"
+
+msgid "@niko_eyeclosed ...not really."
+msgstr "@niko_eyeclosed ...Non proprio."
+
+msgid "@rue_sigh That was... quite peculiar..."
+msgstr "@rue_sigh È stato... abbastanza strano..."
+
+msgid "@cedric_sigh2 I'll say!"
+msgstr "@cedric_sigh2 Già!"
+
+msgid "@proto_jealous [...]"
+msgstr "@proto_jealous [...]"
+
+msgid "@cedric_talk Hey, this is..."
+msgstr "@cedric_talk Ehi, ma questa è..."
+
+msgid "@rue_oh ...The World Machine."
+msgstr "@rue_oh ...La World Machine."
+
+msgid "@niko_speak It's a blueprint!"
+msgstr "@niko_speak È un progetto!"
+
+msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
+msgstr "@niko Un disegno, grande e dettagliato, di un macchinario con tanti schermi televisivi."
+
+msgid "@proto2b [...That's called a blueprint, Niko.]"
+msgstr "@proto2b [...Si chiama \"progetto\", Niko.]"
+
+msgid "@niko_pancakes ...So THAT's what a blueprint is!"
+msgstr "@niko_pancakes ...Allora è COSÌ che è fatto un progetto!"
+
+msgid "@proto2b [...This place contains a lot of memories.]"
+msgstr "@proto2b [...Questo posto contiene molti ricordi.]"
+
+msgid "@proto_eyeclosed [I am... grateful, to see it again.]"
+msgstr "@proto_eyeclosed [Sono... lieto di poterlo rivedere.]"
+
+msgid "@niko A box filled with folders and loose paper."
+msgstr "@niko Una scatola riempita con cartelle e fogli sfusi."
+
+msgid "@niko A scribbly drawing is pinned up here."
+msgstr "@niko Un disegno scarabocchiato è appeso qui."
+
+msgid "@niko A box full of notebooks and sketchbooks."
+msgstr "@niko Una scatola piena di quaderni e schizzi."
+

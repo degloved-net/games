@@ -1,0 +1,150 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [這裡有一支\\c[7]電視遙控器\\c[0]。]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [霓光把它撿起。]"
+
+msgid "@ed [In the faint light,\\nNiko can glimpse the face of the remote...]"
+msgstr "@ed [就著昏暗的光，\\n霓光可以勉強看清遙控器上的鍵盤……]"
+
+msgid "@ed [All of the numbers except \\v[51], \\v[52], \\v[53], and \\v[54] are missing.]"
+msgstr "@ed [除了\\v[51]、\\v[52]、\\v[53]和\\v[54]以外的數字都不見了。]"
+
+msgid "@ed [All of the numbers except \\c[3]\\v[54]\\c[0], \\c[1]\\v[53]\\c[0], \\c[2]\\v[52]\\c[0], and \\c[4]\\v[51]\\c[0] are missing.]"
+msgstr "@ed [除了\\c[3]\\v[54]\\c[0]、\\c[1]\\v[53]\\c[0]、\\c[2]\\v[52]\\c[0]和\\c[4]\\v[51]\\c[0]以外的數字都不見了。]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[3]\\v[54]\\c[0], \\c[4]\\v[51]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [除了\\c[1]\\v[53]\\c[0]、\\c[3]\\v[54]\\c[0]、\\c[4]\\v[51]\\c[0]和\\c[2]\\v[52]\\c[0]以外的數字都不見了。]"
+
+msgid "@ed [All of the numbers except \\c[2]\\v[52]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[1]\\v[53]\\c[0] are missing.]"
+msgstr "@ed [除了\\c[2]\\v[52]\\c[0]、\\c[4]\\v[51]\\c[0]、\\c[3]\\v[54]\\c[0]和\\c[1]\\v[53]\\c[0]以外的數字都不見了。]"
+
+msgid "@ed [All of the numbers except \\c[1]\\v[53]\\c[0], \\c[4]\\v[51]\\c[0], \\c[3]\\v[54]\\c[0], and \\c[2]\\v[52]\\c[0] are missing.]"
+msgstr "@ed [除了\\c[1]\\v[53]\\c[0]、\\c[4]\\v[51]\\c[0]、\\c[3]\\v[54]\\c[0]和\\c[2]\\v[52]\\c[0]以外的數字都不見了。]"
+
+msgid "@ed [They're marked in bright colors.]"
+msgstr "@ed [用明亮的顏色標示著。]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [微光從窗戶透進來。]"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak 有、有人在嗎？"
+
+msgid "@niko .....\\p?"
+msgstr "@niko ……\\p？"
+
+msgid "@niko_shock ...\\>\\n\\@niko_what ...wait, why did I... say that word..."
+msgstr "@niko_shock ……\\>\\n\\@niko_what ……等等，我為什麼會……說出那個名字……"
+
+msgid "@niko_eyeclosed ...\"\\p\"."
+msgstr "@niko_eyeclosed ……「\\p」。"
+
+msgid "@niko_distressed2 ....why does that sound so familiar?"
+msgstr "@niko_distressed2 ……為什麼聽起來這麼熟悉？"
+
+msgid "@niko ....."
+msgstr "@niko ……"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [霓光剛剛在這裡醒來。]"
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [布滿灰塵的書。]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [太暗了，沒辦法看書。]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 無法開機。"
+
+msgid "Input Password:\\n(Password Hint: Documents)"
+msgstr "輸入密碼：\\n（密碼提示：文件）"
+
+msgid "Input Password:"
+msgstr "輸入密碼："
+
+msgid "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+msgstr "\\v[57] \\v[58] \\v[59] \\v[60] \\..\\..\\.."
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]允許存取。"
+
+msgid "@desktop ..."
+msgstr "@desktop ……"
+
+msgid "@desktop You found me."
+msgstr "@desktop 你找到我了。"
+
+msgid "@desktop ....Why?"
+msgstr "@desktop ……為什麼現在才來？"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop 已經太遲了。\\n這世界已經所剩無幾了。"
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 等你到了外面\\n就會明白。"
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop 這個地方根本\\n不值得拯救。"
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop …你還是想試試？"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop 那就記住這件事："
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 你在這裡的行動\\n會影響霓光。"
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 你的「任務」就是\\n幫助霓光離開。"
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop 最重要的是……"
+
+msgid "@desktop No. This does\\nnot feel right at all."
+msgstr "@desktop 不。這\\n感覺太不對了。"
+
+msgid "@desktop Have we...\\nalready been through this,\\n\\p?"
+msgstr "@desktop 我們是不是……\\n早就經歷過這一段了，\\n\\p？"
+
+msgid "@desktop But that should be\\nimpossible..."
+msgstr "@desktop 但那應該\\n不可能啊……"
+
+msgid "@desktop You only had one shot.\\nI wasn't supposed to\\nexist after that..."
+msgstr "@desktop 你只有一次機會。\\n在那之後我應該已經\\n不存在才對……"
+
+msgid "You only have one shot, \\p."
+msgstr "\\p，你只有一次機會。"
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [霓光聽見門鎖打開的聲音。]"
+
+msgid "@niko ...\"\\p\"...?"
+msgstr "@niko ……「\\p」……？"
+
+msgid "@niko That sounds so... familiar."
+msgstr "@niko 聽起來好……熟悉。"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]存取拒絕。"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [門上鎖了。]"
+
+msgid "@ed [It doesn't respond to the remote.]"
+msgstr "@ed [遙控器好像沒作用。]"
+
+msgid "@ed [Niko looks at the buttons on the remote, but they cannot be read in the dark.]"
+msgstr "@ed [霓光看了看遙控器上的按鈕，但是這裡太暗，看不到上面的字。]"
+
+msgid "@ed [Perhaps a \\c[4]light\\c[0] would help?]"
+msgstr "@ed [也許有點\\c[4]光線\\c[0]的話會好一點？]"
+

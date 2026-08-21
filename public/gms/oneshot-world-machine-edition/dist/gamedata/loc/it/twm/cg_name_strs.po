@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/cg_name_strs.po\n"
+"X-Crowdin-File-ID: 15\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:58\n"
+
+msgid "cg_wake1=Wake"
+msgstr "Sveglio"
+
+msgid "cg_wake2=Wake"
+msgstr "Sveglio"
+
+msgid "cg_wake3=Wake"
+msgstr "Sveglio"
+
+msgid "cg_wake4=Wake"
+msgstr "Sveglio"
+
+msgid "cg_wake5=Wake"
+msgstr "Sveglio"
+
+msgid "cg_desktop=Desktop"
+msgstr "Desktop"
+
+msgid "b0=Basement"
+msgstr "Cantina"
+
+msgid "b1=Basement"
+msgstr "Cantina"
+
+msgid "b2=Basement"
+msgstr "Cantina"
+
+msgid "b3=Basement"
+msgstr "Cantina"
+
+msgid "b4=Basement"
+msgstr "Cantina"
+
+msgid "b5=Basement"
+msgstr "Cantina"
+
+msgid "b6=Basement"
+msgstr "Cantina"
+
+msgid "b7=Basement"
+msgstr "Cantina"
+
+msgid "b8=Basement"
+msgstr "Cantina"
+
+msgid "b9=Basement"
+msgstr "Cantina"
+
+msgid "cg_door1=Door"
+msgstr "Porta"
+
+msgid "cg_door2=Door"
+msgstr "Porta"
+
+msgid "cg_blue=Barrens Reveal"
+msgstr "Rivelazione della Baia Desolata"
+
+msgid "cg_map=Map of the World"
+msgstr "Mappa del Mondo"
+
+msgid "cg_amber=Amber Pendant"
+msgstr "Ciondolo d'Ambra"
+
+msgid "cg_boat1=Rowbot"
+msgstr "Robattello"
+
+msgid "cg_boat2=Rowbot"
+msgstr "Robattello"
+
+msgid "cg_boat3=Rowbot"
+msgstr "Robattello"
+
+msgid "cg_green=Glen Reveal"
+msgstr "Rivelazione della Valle"
+
+msgid "cg_afeather=Feather"
+msgstr "Penna"
+
+msgid "cg_red=Refuge Reveal"
+msgstr "Rivelazione del Rifugio"
+
+msgid "cg_adice=Dice"
+msgstr "Dado"
+
+msgid "cg_tower1=Tower"
+msgstr "Torre"
+
+msgid "cg_tower2=Tower"
+msgstr "Torre"
+
+msgid "cg_tower3=Tower"
+msgstr "Torre"
+
+msgid "cg_tower4=Tower"
+msgstr "Torre"
+
+msgid "cg_tower5=Tower"
+msgstr "Torre"
+
+msgid "choice00=Choice"
+msgstr "Scelta"
+
+msgid "cg_credits1=Credits"
+msgstr "Crediti"
+
+msgid "cg_credits1B=Credits"
+msgstr "Crediti"
+
+msgid "cg_credits2=Credits"
+msgstr "Crediti"
+
+msgid "cg_credits3=Credits"
+msgstr "Crediti"
+
+msgid "cg_credits4=Credits"
+msgstr "Crediti"
+
+msgid "cg_credits5=Credits"
+msgstr "Crediti"
+
+msgid "sol_journal_glow1=Journal"
+msgstr "Diario"
+
+msgid "sol_journal_glow2=Journal"
+msgstr "Diario"
+
+msgid "sol_mine1=Minecart"
+msgstr "Carrello da Miniera"
+
+msgid "sol_mine2=Minecart"
+msgstr "Carrello da Miniera"
+
+msgid "sol_mine3=Minecart"
+msgstr "Carrello da Miniera"
+
+msgid "sol_mine4=Minecart"
+msgstr "Carrello da Miniera"
+
+msgid "sol_mine5=Minecart"
+msgstr "Carrello da Miniera"
+
+msgid "sol_glenboat1=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat2=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat3=Boat"
+msgstr "Barca"
+
+msgid "sol_glenboat4=Boat"
+msgstr "Barca"
+
+msgid "sol_flight1=Flight"
+msgstr "Volo"
+
+msgid "sol_flight2=Flight"
+msgstr "Volo"
+
+msgid "sol_flight3=Flight"
+msgstr "Volo"
+
+msgid "sol_flight4=Flight"
+msgstr "Volo"
+
+msgid "sol_rue=Rue"
+msgstr "Rue"
+
+msgid "cg_dream1_1=Dream 1"
+msgstr "Sogno 1"
+
+msgid "cg_dream1_2=Dream 1"
+msgstr "Sogno 1"
+
+msgid "cg_dream1_3=Dream 1"
+msgstr "Sogno 1"
+
+msgid "cg_dream1_4=Dream 1"
+msgstr "Sogno 1"
+
+msgid "cg_dream2_1=Dream 2"
+msgstr "Sogno 2"
+
+msgid "cg_dream2_2=Dream 2"
+msgstr "Sogno 2"
+
+msgid "cg_dream2_3=Dream 2"
+msgstr "Sogno 2"
+
+msgid "cg_dream2_4=Dream 2"
+msgstr "Sogno 2"
+
+msgid "cg_dream2_5=Dream 2"
+msgstr "Sogno 2"
+
+msgid "cg_dream3_1=Dream 3"
+msgstr "Sogno 3"
+
+msgid "cg_dream3_2=Dream 3"
+msgstr "Sogno 3"
+
+msgid "cg_dream3_3=Dream 3"
+msgstr "Sogno 3"
+
+msgid "cg_dream3_4=Dream 3"
+msgstr "Sogno 3"
+
+msgid "cg_dream4_1=Dream 4"
+msgstr "Sogno 4"
+
+msgid "cg_dream4_2=Dream 4"
+msgstr "Sogno 4"
+
+msgid "cg_dream4_3=Dream 4"
+msgstr "Sogno 4"
+
+msgid "cg_dream4_4=Dream 4"
+msgstr "Sogno 4"
+
+msgid "cg_dream5_1=Dream 5"
+msgstr "Sogno 5"
+
+msgid "cg_dream5_2=Dream 5"
+msgstr "Sogno 5"
+
+msgid "cg_dream5_3=Dream 5"
+msgstr "Sogno 5"
+
+msgid "cg_dream5_4=Dream 5"
+msgstr "Sogno 5"
+
+msgid "book_clover=Clover"
+msgstr "Trifoglio"
+
+msgid "book_dice=Dice"
+msgstr "Dado"
+
+msgid "book_fauna=Fauna"
+msgstr "Fauna"
+
+msgid "book_phosphor1=Phosphor 1"
+msgstr "Fosforo 1"
+
+msgid "book_phosphor2=Phosphor 2"
+msgstr "Fosforo 2"
+
+msgid "book_phosphor3=Phosphor 3"
+msgstr "Fosforo 3"
+
+msgid "book_phosphor4=Phosphor 4"
+msgstr "Fosforo 4"
+
+msgid "book_prophet=Prophet"
+msgstr "Profeta"
+
+msgid "book_prophetbot=ProphetBot"
+msgstr "Profetabot"
+
+msgid "book_sketch=Sketch"
+msgstr "Bozzetto"
+

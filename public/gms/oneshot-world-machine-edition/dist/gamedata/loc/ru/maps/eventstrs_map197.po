@@ -1,0 +1,126 @@
+msgid "@silver_rip [...ughh]"
+msgstr "@silver_rip [Уф-ф-ф...]"
+
+msgid "@niko_surprised ARE YOU OKAY?!"
+msgstr "@niko_surprised ВСЁ НОРМАЛЬНО?"
+
+msgid "@silver_rip0 [I'm fine, I'm fine-]"
+msgstr "@silver_rip0 [Нормально, нормально...]"
+
+msgid "@silver_rip [I can still hold it up, but you two need to-]"
+msgstr "@silver_rip [Я могу их удерживать, но вы должны...]"
+
+msgid "@silver_rip2 [AUGH!]"
+msgstr "@silver_rip2 [А-У-У-Ф!]"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [...]"
+
+msgid "@silver_rip0 [YOU! Robot!]"
+msgstr "@silver_rip0 [ТЫ! Робот!]"
+
+msgid "@silver_rip0 [What are you waiting for!!!]"
+msgstr "@silver_rip0 [Чего ты ждёшь?!]"
+
+msgid "@silver_getout [Take the child and get out!]"
+msgstr "@silver_getout [Забирай ребёнка и спасайся!]"
+
+msgid "@proto2b [Come on.]"
+msgstr "@proto2b [Пойдём.]"
+
+msgid "@niko3 But what about her?"
+msgstr "@niko3 А как же она?"
+
+msgid "@niko_shock AAH!!"
+msgstr "@niko_shock А-А-А!!!"
+
+msgid "@silver_square1 [`G\\.\\.\\.%ET\\|\\@silver_square2  `/O \\.\\.U . T`%\\.\\.!!\\.!]"
+msgstr "@silver_square1 [`Ух\\.\\.\\.%оДИ\\|\\@silver_square2  `/Т \\.\\.Е . `%\\.\\.!!\\.!]"
+
+msgid "@proto_eyeclosed [Come on.]"
+msgstr "@proto_eyeclosed [Идём.]"
+
+msgid "@niko_upset \\p..."
+msgstr "@niko_upset \\p..."
+
+msgid "@niko_upset2 I don't... understand..."
+msgstr "@niko_upset2 Я не понимаю..."
+
+msgid "@niko3 The world...."
+msgstr "@niko3 Этот мир..."
+
+msgid "@niko_upset2 The Prophetbot... what he was saying..."
+msgstr "@niko_upset2 Робот-пророк... Всё, что он говорил..."
+
+msgid "@niko3 Is this world really just....\\> just......"
+msgstr "@niko3 Этот мир в самом деле...\\> просто..."
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ..."
+
+msgid "@niko_distressed Is it?"
+msgstr "@niko_distressed Это правда?"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ..."
+
+msgid "@niko_upset2 ...you're just saying that..."
+msgstr "@niko_upset2 Ты просто говоришь, что..."
+
+msgid "@niko_eyeclosed Normally I wouldn't believe it, but..."
+msgstr "@niko_eyeclosed Вообще-то, я бы в такое не поверил, но..."
+
+msgid "@niko_distressed2 It just... adds up."
+msgstr "@niko_distressed2 Просто... всё сходится."
+
+msgid "@niko_distressed Everything...\\.\\. adds up."
+msgstr "@niko_distressed Всё-всё...\\.\\. сходится."
+
+msgid "@niko_distressed We can't go back..."
+msgstr "@niko_distressed Мы не можем вернуться..."
+
+msgid "@niko_upset ...he said... you can bring me back..."
+msgstr "@niko_upset Он сказал... что ты можешь меня вернуть..."
+
+msgid "@niko_upset2 ...and... he needs my help to fix things?"
+msgstr "@niko_upset2 И ему нужна моя помощь, чтобы всё исправить?"
+
+msgid "@niko_distressed_talk ...I don't...\\.\\. get it!!!"
+msgstr "@niko_distressed_talk Я...\\.\\. не понимаю!!!"
+
+msgid "@niko_distressed_meow Why didn't you tell me anything???"
+msgstr "@niko_distressed_meow Почему нельзя было мне об этом сказать?!"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko_distressed2 They're....."
+msgstr "@niko_distressed2 Они..."
+
+msgid "@niko_distressed They're both....."
+msgstr "@niko_distressed Они оба..."
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_distressed_talk I... don't know what I'm supposed to do!"
+msgstr "@niko_distressed_talk Я... даже не знаю, что нужно делать!"
+
+msgid "@niko_upset If I can't fix the world... I can't go back home..."
+msgstr "@niko_upset Если я не смогу исправить этот мир... то не смогу вернуться домой..."
+
+msgid "@niko_upset But the world is...\\.\\. already so messed up..."
+msgstr "@niko_upset Но он ведь...\\.\\. почти разрушен..."
+
+msgid "@niko_distressed2 ...if the squares don't get fixed...\\.\\. what will happen to the world?"
+msgstr "@niko_distressed2 Если квадраты не убрать...\\.\\. что с ним произойдёт?"
+
+msgid "@niko_upset2 Where would I even go???"
+msgstr "@niko_upset2 И где я тогда окажусь?!"
+
+msgid "@niko_distressed2 ..........."
+msgstr "@niko_distressed2 ..........."
+

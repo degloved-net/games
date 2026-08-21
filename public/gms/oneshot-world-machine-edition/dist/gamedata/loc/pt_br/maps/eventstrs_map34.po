@@ -1,0 +1,54 @@
+msgid "@niko A jar of some sort of grain."
+msgstr "@niko Um pote de algum tipo de grão."
+
+msgid "@niko This looks like flour!"
+msgstr "@niko Parece farinha!"
+
+msgid "@niko Oats."
+msgstr "@niko Aveia."
+
+msgid "@niko Heads of wheat."
+msgstr "@niko Espigas de trigo."
+
+msgid "A cat does sound nice..."
+msgstr "Um gatinho seria ótimo..."
+
+msgid "Maybe I'll ask my cousin to find one in the city for me."
+msgstr "Talvez eu peça ao meu primo para encontrar um na cidade para mim."
+
+msgid "He just moved there."
+msgstr "Ele acabou de se mudar."
+
+msgid "This is it... the last of our grain surpluses..."
+msgstr "É... o nosso último suprimento de grãos..."
+
+msgid "And now we're dealing with a vermin problem..."
+msgstr "E agora estamos tendo problemas com pragas..."
+
+msgid "@niko Maybe you can get cats?"
+msgstr "@niko Será que você consegue um gatinho?"
+
+msgid "@niko_eyeclosed Not that I'm a cat, I mean..."
+msgstr "@niko_eyeclosed Não que eu seja um gato, sabe..."
+
+msgid "@alula What's a cat?"
+msgstr "@alula O que é um gato?"
+
+msgid "@niko_eyeclosed Something that I'm not!"
+msgstr "@niko_eyeclosed Algo que eu não sou!"
+
+msgid "@alula ?"
+msgstr "@alula ?"
+
+msgid "@niko_speak It's an animal that walks on four legs and hunts mice and rats!"
+msgstr "@niko_speak É um animal que anda sobre quatro patas e caça ratos!"
+
+msgid "@alula_gasp Like a fox?"
+msgstr "@alula_gasp Tipo uma raposa?"
+
+msgid "@niko I... guess?"
+msgstr "@niko Acho... que sim."
+
+msgid "@alula_speak Foxes are cool!"
+msgstr "@alula_speak Raposa é legal!"
+

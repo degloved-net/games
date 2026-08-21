@@ -1,0 +1,39 @@
+msgid "@rue !"
+msgstr "@rue !"
+
+msgid "@rue You're here!!!"
+msgstr "@rue É você!!!"
+
+msgid "@niko2 Rue!"
+msgstr "@niko2 Rue!"
+
+msgid "@niko5 That's... you, right?"
+msgstr "@niko5 É... você, né?"
+
+msgid "@rue Yes."
+msgstr "@rue Sim."
+
+msgid "@rue_talk Niko!"
+msgstr "@rue_talk Niko!"
+
+msgid "@niko2 Are you... are you Rue?"
+msgstr "@niko2 Você é... é Rue?"
+
+msgid "@rue Did you... \\.\\.already meet the others?"
+msgstr "@rue Você já... \\.\\.encontrou os outros?"
+
+msgid "@niko2 Yeah... \\.\\.\\@niko_distressed2 but..."
+msgstr "@niko2 Sim... \\.\\.\\@niko_distressed2 mas..."
+
+msgid "@rue_sigh ...everything is in place, then."
+msgstr "@rue_sigh ... então está tudo certo."
+
+msgid "@rue Come on, let's go back to the clock room."
+msgstr "@rue Venha, vamos voltar para a sala do relógio."
+
+msgid "@niko There's no one here..."
+msgstr "@niko Não há ninguém aqui..."
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko É uma árvore enorme com folhas!\\>\\nNão vejo uma dessas desde quando estive em casa..."
+

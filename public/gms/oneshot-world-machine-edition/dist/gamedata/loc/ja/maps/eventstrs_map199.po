@@ -1,0 +1,39 @@
+msgid "@niko3 The bridge is out..."
+msgstr "@niko3 橋が壊れている…"
+
+msgid "@niko4 They're in the door..."
+msgstr "@niko4 中に入り込んでる…"
+
+msgid "@niko4 The bridge is broken..."
+msgstr "@niko4 橋が壊れてる…"
+
+msgid "@niko2 ...\\>\\nHe has no power..."
+msgstr "@niko2 …\\>\\n電源が入ってない。"
+
+msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
+msgstr "@green_gatekeeper [ワ\\.#タ.%%シ\\.ニ;近\\.ヅ//ク\\.#ナ]"
+
+msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
+msgstr "@green_gatekeeper [ゲ\\.#ー%%ト\\.ト;ハ、\\. 追//ッテ\\.通知\\.ガ\\.#ア\\.#ル\\|マ\\.%デ\n\\.閉鎖\\.スル。]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 …"
+
+msgid "@niko3 Isn't that...\\.\\. the city gate?"
+msgstr "@niko3 あれって…\\.\\.街へのゲートだよね？"
+
+msgid "@niko4 It's..."
+msgstr "@niko4 もしかして…"
+
+msgid "@niko2 ...looks like parts of the ground is missing."
+msgstr "@niko2 …地面が欠けちゃってる。"
+
+msgid "@niko_eyeclosed I wonder if it's safe to walk across these vines..."
+msgstr "@niko_eyeclosed このツタの上を歩いて、\n大丈夫なのかな…"
+
+msgid "@niko6 ...one way to find out, I guess..."
+msgstr "@niko6 …確かめる方法は、やっぱり…"
+
+msgid "@niko_eyeclosed They're safe..."
+msgstr "@niko_eyeclosed 大丈夫だった…"
+

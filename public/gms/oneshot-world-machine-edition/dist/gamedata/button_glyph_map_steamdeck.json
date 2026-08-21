@@ -1,0 +1,16 @@
+{
+    "ButtonsToGlyphes": {
+        "A": "pad_a",
+        "B": "pad_b",
+        "X": "pad_x",
+        "Y": "pad_y",
+        "RightTrigger": "pad_r2",
+        "RightShoulder": "pad_r1",
+		"RightStick": "pad_rstick",
+        "LeftTrigger": "pad_l2",
+        "LeftShoulder": "pad_l1",
+		"LeftStick": "pad_lstick",
+        "Start": "pad_burger",
+		"Back": "pad_back",
+    }
+}

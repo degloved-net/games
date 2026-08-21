@@ -1,0 +1,15 @@
+msgid "@niko A small potted plant."
+msgstr "@niko Маленькое растение в горшке."
+
+msgid "@niko There's a pair of scissors on the ground...."
+msgstr "@niko На земле лежат ножницы..."
+
+msgid "@niko ...on... a pile of hair?"
+msgstr "@niko Ножницы в куче волос?.."
+
+msgid "@niko I don't think anyone's using it anymore, so..."
+msgstr "@niko Не думаю, что они ещё кому-то понадобятся, так что..."
+
+msgid "@niko Soap dispenser."
+msgstr "@niko Диспенсер для мыла."
+

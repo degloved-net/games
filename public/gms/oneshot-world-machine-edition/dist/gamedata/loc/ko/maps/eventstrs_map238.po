@@ -1,0 +1,87 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 반딧불 두어 마리가 병 안에서 날아다니고 있어요."
+
+msgid "[DO WHAT YOU MUST.]"
+msgstr "[해야할 일을 하십시오.]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[안녕하세요, 인간.]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[이것은 협곡의 주 발전기입니다.]"
+
+msgid "@niko Hello..."
+msgstr "@niko 안녕하세요..."
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 혹시 하늘을 나는 기계에 넣을 배터리를 어디에서 찾을 수 있는지 알아요?"
+
+msgid "@niko2 It's... kind of an emergency."
+msgstr "@niko2 좀... 급해요."
+
+msgid "[I DO NOT KNOW WHAT A FLYING MACHINE IS.]"
+msgstr "[저는 하늘을 나는 기계가 무엇인지 모릅니다.]"
+
+msgid "[BUT ANY SORT OF LARGE MACHINERY WOULD REQUIRE A HIGH CAPACITY POWER CELL.]"
+msgstr "[하지만 대형 기계에는 고용량 전원 장치가 필요합니다.]"
+
+msgid "[FOR EXAMPLE, THE GENERATOR IN THIS ROOM UTILIZES SUCH A DEVICE.]"
+msgstr "[예를 들면, 이 방의 발전기가 그런 전원 장치를 사용하고 있지요.]"
+
+msgid "@niko_eyeclosed Oh right... I almost forgot..."
+msgstr "@niko_eyeclosed 아, 맞다... 잊고 있었네요..."
+
+msgid "@niko We had to fix the battery for this thing in the Barrens, didn't we, \\p?"
+msgstr "@niko 불모지에서 이것 때문에 배터리를 수리해야 했죠. 기억나요, \\p 님?"
+
+msgid "[IF THIS IS AN EMERGENCY FOR LIVING BEINGS...] \\>\\n[YOU CAN USE THE BATTERY FROM THE GENERATOR.]"
+msgstr "[살아 있는 존재에게 긴급한 상황이라면...] \\>\\n[발전기의 배터리를 사용해도 좋습니다.]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko2 Wait... \\.\\.but if we take the battery here..."
+msgstr "@niko2 잠깐... \\.\\.그런데 우리가 여기에서 배터리를 꺼내면..."
+
+msgid "@niko3 ...all of you guys would lose power, wouldn't you?"
+msgstr "@niko3 모두 동력을 잃은 거잖아요. 그렇죠?"
+
+msgid "@niko4 Maybe \\p and I should go find another one."
+msgstr "@niko4 \\p 님하고 더 찾아볼게요."
+
+msgid "[NEGATIVE.]"
+msgstr "[아닙니다.]"
+
+msgid "[THIS IS THE ONLY BATTERY IN THE GLEN POWERFUL ENOUGH TO BE USED AS A STANDALONE UNIT.]"
+msgstr "[독립적인 장치를 구동할 만큼 강력한 배터리는 협곡에 이것뿐입니다.]"
+
+msgid "[IF IT IS A DIRE SITUATION, THEN DO WHAT YOU MUST.]"
+msgstr "[긴한 상황이라면, 해야 할 일을 하십시오.]"
+
+msgid "@niko4 Oh..."
+msgstr "@niko4 아..."
+
+msgid "@niko_eyeclosed ...we depowered it..."
+msgstr "@niko_eyeclosed ...전력을 끊었어요..."
+
+msgid "@niko3 ...I guess we have no choice but to take this, \\p..."
+msgstr "@niko3 \\p 님, 이걸 쓰는 수밖에 없겠어요..."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Looks like a generator..."
+msgstr "@niko 발전기처럼 생겼네요..."
+
+msgid "[PLEASE DO NOT STAND TOO CLOSE TO THE GENERATOR.]"
+msgstr "[발전기에 너무 가까이 가지 마십시오.]"
+
+msgid "[IF YOU HAVE INQUIRIES, PLEASE ASK ME INSTEAD.]"
+msgstr "[궁금한 점이 있다면 저에게 물어보십시오.]"
+
+msgid "@niko The battery's gone now..."
+msgstr "@niko 이제 배터리가 없어요..."
+
+msgid "@niko_speak We should remember to bring it back once we're done with it!"
+msgstr "@niko_speak 배터리를 사용하고 나서 꼭 다시 가져다 놔야겠어요!"
+

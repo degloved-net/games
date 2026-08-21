@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko \\p?\\>\\n.\\..\\.. O que aconteceu?\\>\\nEstá muito escuro aqui..."
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak ... Ah!\\>\\nConsigo ver uma luz no fim desse corredor!"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko Acho que ouvi uma voz..."
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised Mamãe?\\>\\nPosso ouvi-la me chamando!"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak Agora é só passar por essa parede...\\>\\nEu finalmente voltarei para casa."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko Ah, \\p,\\nacho que..."
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 Acho que isso é uma despedida..."
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 Ainda...\\.\\. bem...\\.\\. que conheci você, \\p..."
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad Agradeço por tudo."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits Obrigado por jogar!"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "ERRO FATAL: MESSIAS NÃO ENCONTRADO. DESLIGANDO."
+

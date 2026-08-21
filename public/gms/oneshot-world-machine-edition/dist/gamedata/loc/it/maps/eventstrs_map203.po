@@ -1,0 +1,156 @@
+msgid "@maize_thisisfine Do not worry.\\>\\nI am fine."
+msgstr "@maize_thisisfine Non preoccuparti per me.\\>\\nSto bene."
+
+msgid "@maize_stress Hello..."
+msgstr "@maize_stress Ciao..."
+
+msgid "@niko2 I...\\.\\. um...\\> have something to ask of you..."
+msgstr "@niko2 Ecco...\\.\\. Ehm...\\> Avrei un favore da chiederti..."
+
+msgid "@maize_thisisfine ...yes?"
+msgstr "@maize_thisisfine ...sì?"
+
+msgid "@niko5 It looks like most of the bridges around the Glen are broken, and..."
+msgstr "@niko5 Sembra che la maggior parte dei ponti intorno alla Valle siano distrutti e..."
+
+msgid "@maize_stress ...that's right...\\.\\. the bridges..."
+msgstr "@maize_stress ...giusto...\\.\\. i ponti..."
+
+msgid "@maize_stress You...\\.\\. need to cross them on your pilgrimage...."
+msgstr "@maize_stress Devi...\\.\\. attraversarli per compiere il tuo pellegrinaggio..."
+
+msgid "@maize_thisisfine ...would you\\.\\. ...like me to fix them?"
+msgstr "@maize_thisisfine ...vuoi...\\.\\. che li ripari?"
+
+msgid "@niko2 Yeah! \\>\\@niko4 Is it possible?"
+msgstr "@niko2 Sì! \\>\\@niko4 Potresti riuscirci?"
+
+msgid "@maize_stress ..."
+msgstr "@maize_stress ..."
+
+msgid "@maize_strain ...difficult."
+msgstr "@maize_strain ...difficile."
+
+msgid "@maize_stress ...bridges...\\.\\. are in very specific locations, over water..."
+msgstr "@maize_stress ...i ponti...\\.\\. sono in posti specifici, sopra l'acqua..."
+
+msgid "@maize_strain ...need to find the right points... \\. \\.\\nvines must be very strong, too..."
+msgstr "@maize_strain ...devo trovare i punti giusti...\\.\\.\\ne poi, i rovi devono essere molto forti..."
+
+msgid "@maize_stress ...an undertaking."
+msgstr "@maize_stress ...una vera impresa."
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed Ah..."
+
+msgid "@maize_stress ...but, possible."
+msgstr "@maize_stress ...però, è possibile."
+
+msgid "@maize_thisisfine I...\\.\\. intend to use the last of my strength."
+msgstr "@maize_thisisfine Ti prometto...\\.\\. che userò tutte le forze che mi rimangono."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@maize_strain ...please stand back."
+msgstr "@maize_strain ...stai indietro, per favore."
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@niko3 ...what... happened?"
+msgstr "@niko3 ...Cosa... è successo?"
+
+msgid "@niko3 Are you okay...?"
+msgstr "@niko3 Stai bene...?"
+
+msgid "@niko_distressed_talk ...are you..."
+msgstr "@niko_distressed_talk ...stai..."
+
+msgid "@niko_distressed .\\..\\.."
+msgstr "@niko_distressed .\\..\\.."
+
+msgid "@niko_distressed2 .\\..\\.."
+msgstr "@niko_distressed2 .\\..\\.."
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ..."
+
+msgid "@maize_stress ...S...\\.\\.savior..."
+msgstr "@maize_stress ...S...\\.\\. salvatore..."
+
+msgid "@maize_thisisfine ......\\.you're\\.\\. ...here to see me...?"
+msgstr "@maize_thisisfine ...... \\.\\nsei... \\.\\.qui per vedermi...?"
+
+msgid "@niko_shock ...what... \\.\\@niko3 happened to you?"
+msgstr "@niko_shock ...Cosa... \\.\\@niko3 ti è successo?"
+
+msgid "@maize_stress ...\\>\\nhold on."
+msgstr "@maize_stress ...\\>\\nfermo."
+
+msgid "@maize_stress ...I.... \\.\\.need to concentrate"
+msgstr "@maize_stress ...devo... \\.\\.concentrarmi."
+
+msgid "@niko2 ...?"
+msgstr "@niko2 ...?"
+
+msgid "@maize_strain !!!!"
+msgstr "@maize_strain !!!!"
+
+msgid "@maize_strain ...the islands... \\.\\.will collapse... \\>if I don't do something..."
+msgstr "@maize_strain ...le isole... \\.\\.collasseranno... \\>se non faccio qualcosa..."
+
+msgid "@maize_strain ...that's why... \\.\\.the vines..."
+msgstr "@maize_strain ...ecco perché... \\.\\.i rovi..."
+
+msgid "@niko2 ...\\>you're... making the vines grow..."
+msgstr "@niko2 ...\\>Sei tu che... li stai facendo crescere..."
+
+msgid "@niko4 ...is that why there are vines everywhere?"
+msgstr "@niko4 ...È per questo che sono ovunque?"
+
+msgid "@niko3 Are you... \\.\\.trying to hold the land together?"
+msgstr "@niko3 Stai... \\.\\.cercando di tenere unite le isole?"
+
+msgid "@maize_stress My powers... the best I could do. Yes."
+msgstr "@maize_stress Sì, con i miei poteri... è il meglio che posso fare."
+
+msgid "@niko3 That's..."
+msgstr "@niko3 Ecco..."
+
+msgid "@niko2 Should I leave the sun here for you? \\>\\n\\@niko4 I know you wanted to see it..."
+msgstr "@niko2 Vuoi che ti lasci il sole per un po'? \\>\\n\\@niko4 So quanto avresti voluto vederlo..."
+
+msgid "@maize_thisisfine ...tempting... \\>\\nBut I musn't..."
+msgstr "@maize_thisisfine ...allettante... \\>\\nMa non posso..."
+
+msgid "@maize_stress ...the sun brings me comfort, but..."
+msgstr "@maize_stress ...il sole mi porta conforto, ma..."
+
+msgid "@maize_stress Stress is good... for this, fear is good..."
+msgstr "@maize_stress Lo stress, la paura... mi aiutano, mi..."
+
+msgid "@maize_strain ...makes me strong.\\> ...vines grow faster."
+msgstr "@maize_strain ...mi rendono più forte.\\>\\n...fanno crescere i rovi più velocemente."
+
+msgid "@niko4 But..."
+msgstr "@niko4 Ma..."
+
+msgid "@maize_stress If I'm at ease... \\.\\.the vines might retreat."
+msgstr "@maize_stress Se non soffrissi... \\.\\.i rovi potrebbero ritirarsi."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@maize_stress They're all in danger, savior..."
+msgstr "@maize_stress Sono tutti in pericolo, salvatore..."
+
+msgid "@maize_strain The villagers...\\.\\. the children..."
+msgstr "@maize_strain Gli abitanti del villaggio...\\.\\. i bambini..."
+
+msgid "@maize_strain ...my final hours...\\> mustn't go to waste."
+msgstr "@maize_strain ...le mie ultime ore...\\> non posso sprecarle."
+
+msgid "@maize_thisisfine The people deserve to live... even if just for another day..."
+msgstr "@maize_thisisfine Queste persone meritano di vivere... anche solo per un altro giorno..."
+

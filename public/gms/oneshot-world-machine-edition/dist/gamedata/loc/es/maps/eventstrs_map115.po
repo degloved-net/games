@@ -1,0 +1,81 @@
+msgid "These robots are malfunctioning at a frightening rate."
+msgstr "Estos robots se están averiando a un ritmo alarmante."
+
+msgid "Physical damage from square-particle anomalies is almost impossible to revert."
+msgstr "El daño físico provocado por las irregularidades de las partículas cuadradas es casi imposible de revertir."
+
+msgid "No living person can touch them, unless they have a death wish."
+msgstr "Las personas no deben tocarlas a menos que deseen morir."
+
+msgid ".\\..\\..But if we're lucky, sometimes the squares go away on their own."
+msgstr ".\\..\\..Pero si tenemos suerte, a veces los cuadrados desaparecen solos."
+
+msgid "...but not before taking away one of the robot's arms, or legs."
+msgstr "... pero no sin llevarse uno de los brazos del robot o las piernas."
+
+msgid "...or head."
+msgstr "... o la cabeza."
+
+msgid "@niko_huh ...okay."
+msgstr "@niko_huh ... vale."
+
+msgid "I don't know if you've ever seen a headless robot before, but it is quite a sight to behold."
+msgstr "No sé si alguna vez has visto a un robot sin cabeza, pero es todo un espectáculo digno de contemplar."
+
+msgid "And also quite dangerous."
+msgstr "Y también bastante peligroso."
+
+msgid "@niko A robot."
+msgstr "@niko Un robot."
+
+msgid "[I CANNOT STOP SPINNING.]"
+msgstr "[NO PUEDO DEJAR DE GIRAR.]"
+
+msgid "[BOOP.]"
+msgstr "[BIP.]"
+
+msgid "[WE ARE WAITING TO BE REPAIRED.]"
+msgstr "[ESTAMOS ESPERANDO A QUE NOS REPAREN.]"
+
+msgid "This is so tedious!"
+msgstr "¡Qué aburrido es esto!"
+
+msgid "I miss the good ol' days before our robot-repairing-robots broke down."
+msgstr "Echo de menos aquellos viejos tiempos antes de que nuestro robot \"arreglarobots\" se estropeara."
+
+msgid "Now all the robots have to be assembled by actual people."
+msgstr "Ahora a todos los robots los tienen que ensamblar las personas de verdad."
+
+msgid "@niko_speak But... aren't you a robot?"
+msgstr "@niko_speak Entonces... ¿no eres un robot?"
+
+msgid "No?"
+msgstr "¿No?"
+
+msgid "I mean, Do I SOUND like a robot to you?"
+msgstr "Quiero decir, ¿SUENO como un robot para ti?"
+
+msgid "@niko Not really."
+msgstr "@niko En realidad, no."
+
+msgid "@niko_speak But... your head is a tv?"
+msgstr "@niko_speak Y tu cabeza... ¿es un televisor?"
+
+msgid "W...what does that have to do with anything?"
+msgstr "¿Y eso qué tiene que ver?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_eyeclosed ...nevermind."
+msgstr "@niko_eyeclosed ... no importa."
+
+msgid "We should probably fix the robot-repairing-robots first."
+msgstr "Probablemente deberíamos reparar primero el robot \"arreglarobots\"."
+
+msgid "But the higher-ups need these guys done first for some reason..."
+msgstr "Pero por alguna razón los jefes necesitan a estos primero..."
+
+msgid "@niko This one isn't active..."
+msgstr "@niko Este no está activo..."
+

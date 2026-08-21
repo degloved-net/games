@@ -1,0 +1,123 @@
+msgid "Don't lose faith."
+msgstr "信念を失うな。"
+
+msgid "Sigh..."
+msgstr "はぁ…"
+
+msgid "@niko You alright?"
+msgstr "@niko 大丈夫？"
+
+msgid "Ah, the messiah. Perhaps this is a sign."
+msgstr "おお、救世主さまか。これは啓示かもしれないな。"
+
+msgid "Tell me, do you think you can fix the world with the sun?"
+msgstr "教えてくれないか、君は太陽で世界が\n救えると思うか？"
+
+msgid "@niko_eyeclosed Honestly, I don't know..."
+msgstr "@niko_eyeclosed 正直、分からないや…"
+
+msgid "@niko I've been getting mixed messages..."
+msgstr "@niko いろんな話でぐちゃぐちゃになってて…"
+
+msgid "I know."
+msgstr "そうだろうね。"
+
+msgid "But what do YOU think?"
+msgstr "だが、君自身はどう思う？"
+
+msgid "@niko I... think...."
+msgstr "@niko ミー…は…"
+
+msgid "@niko_speak ...I think I should listen to \\p!"
+msgstr "@niko_speak …\\p の言うことを聞くべきだと思う！"
+
+msgid "@niko After all, \\p helped me get this far."
+msgstr "@niko だって、 \\p のおかげで\nここまで来られたんだもん。"
+
+msgid "I will take your faith for an answer, then."
+msgstr "では、その信念を君の答えとして\n受け取っておこう。"
+
+msgid "@niko What do you mean by that?"
+msgstr "@niko どういう意味？"
+
+msgid "It means whatever you think it means."
+msgstr "君次第でどのような意味にでもなる。"
+
+msgid "[BEEP BOOP]"
+msgstr "[ビーッブーッ。]"
+
+msgid "@niko Beep boop."
+msgstr "@niko ビーッブーッ。"
+
+msgid "@niko The elevator's button panel."
+msgstr "@niko エレベーターのボタンパネルだ。"
+
+msgid "@niko This elevator goes back up to the catwalks."
+msgstr "@niko このエレベーターは上の通路に繋がってる。"
+
+msgid "@niko_speak We'll need to press the button if we wanna go back up!"
+msgstr "@niko_speak 上に戻りたいなら、ボタンを押さなきゃ！"
+
+msgid "@plight Anyway, it was nice meeting you... uh..."
+msgstr "@plight ともかく、君に会えて良かったよ…ええと"
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak ニコだよ！"
+
+msgid "@plight ...Right. See you around, kid."
+msgstr "@plight …そうだった。また会おうな。"
+
+msgid "@plight Gotta run now!"
+msgstr "@plight やべ、じゃあな！"
+
+msgid "@niko He seems in a hurry..."
+msgstr "@niko 急いでるみたい…"
+
+msgid "@niko I guess we should hurry too, \\p."
+msgstr "@niko ミーたちも急いだほうが良さそうだね、\n\\p。"
+
+msgid "@niko_speak People are counting on us!"
+msgstr "@niko_speak みんなが頼りにしてるから！"
+
+msgid "@niko Let's go find that library."
+msgstr "@niko 図書館を探しに行こう。"
+
+msgid "@niko It's locked from the inside."
+msgstr "@niko 内側からロックされてる。"
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[夕刊でス！夕刊でス！]"
+
+msgid "[ARE YOU HERE TO PURCHASE A COPY?]"
+msgstr "[1部購入しますカ？]"
+
+msgid "@niko ...No?"
+msgstr "@niko …ううん？"
+
+msgid "@niko_speak Newspapers are for grown-ups!"
+msgstr "@niko_speak 新聞は大人が読むものだよ！"
+
+msgid "[GROWN... UPS?]"
+msgstr "[オト…ナ？]"
+
+msgid "@niko Yeah!"
+msgstr "@niko うん！"
+
+msgid "[WHAT DOES THAT MEAN?]"
+msgstr "[どういう意味ですカ？]"
+
+msgid "@niko_speak It means people who aren't kids!"
+msgstr "@niko_speak 子供じゃない人たちってこと！"
+
+msgid "[KIDS?]"
+msgstr "[コドモ？]"
+
+msgid "@niko ...er... aren't you a kid?"
+msgstr "@niko …えっと…君は子供じゃないの？"
+
+msgid "[I AM A ROBOT.]"
+msgstr "[ワタシハロボットでス。]"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed そう…"
+

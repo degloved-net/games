@@ -1,0 +1,210 @@
+msgid "This plane doesn't have a runway because night said so that's why. -GIR"
+msgstr "這個平面沒有飛機跑道，因為夜說了算，就是這樣。──吉爾"
+
+msgid "@cedric_sigh ...phew."
+msgstr "@cedric_sigh ……呼。"
+
+msgid "@cedric_smile Made it!"
+msgstr "@cedric_smile 我們到了！"
+
+msgid "@niko_pancakes ..."
+msgstr "@niko_pancakes ……"
+
+msgid "@cedric3 You...\\.\\. okay, there?"
+msgstr "@cedric3 你……\\.\\.還好嗎？"
+
+msgid "@niko_pancakes ...\\>That was the coolest thing I have ever done in my entire life."
+msgstr "@niko_pancakes ……\\>這是我這輩子做過最酷的事。"
+
+msgid "@cedric_smile Heheh...\\.\\. reactions from first-timers are always delightful to watch."
+msgstr "@cedric_smile 嘿嘿……\\.\\.第一次搭乘的人的反應總是很精彩。"
+
+msgid "@niko5 ..."
+msgstr "@niko5 ……"
+
+msgid "@niko6 Hey, \\p?"
+msgstr "@niko6 嘿，\\p？"
+
+msgid "@niko2 That... was really fun."
+msgstr "@niko2 剛剛那……真的好好玩。"
+
+msgid "@niko_speak Did you... have fun too?"
+msgstr "@niko_speak 你也……覺得好玩嗎？"
+
+msgid "@niko_eyeclosed I mean... you weren't on the plane with me, but..."
+msgstr "@niko_eyeclosed 我是指， 你沒有和我一起在飛機上，可是……"
+
+msgid "@niko_speak You got to watch it at least, right?"
+msgstr "@niko_speak 至少你有看到，對不對？"
+
+msgid "@niko And... \\.\\.Cedric...?"
+msgstr "@niko 還有……\\.\\.學君……？"
+
+msgid "@cedric3 Yeah?"
+msgstr "@cedric 嗯？"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed 謝謝……"
+
+msgid "@cedric3 ....\\.\\.What for?"
+msgstr "@cedric3 ……\\.\\.謝什麼？"
+
+msgid "@niko_speak Flying!"
+msgstr "@niko_speak 為了這趟飛行！"
+
+msgid "@cedric Oh, um..."
+msgstr "@cedric 喔，呃……"
+
+msgid "@cedric_smile You're... \\.\\.welcome?"
+msgstr "@cedric_smile 嗯……\\.\\.不客氣……"
+
+msgid "@niko_eyeclosed And... for answering my questions back there, too..."
+msgstr "@niko_eyeclosed 還有，也為了你之前回答我的問題……"
+
+msgid "@niko5 And... \\.\\.for telling me more about the World Machine."
+msgstr "@niko5 還有……\\.\\.為了謝謝你告訴我更多世界機器的事。"
+
+msgid "@niko_upset I'm just.... \\.\\.really sorry about what happened to your old world, though..."
+msgstr "@niko_upset 不過我……\\.\\.對於你的舊世界發生的事，真的很遺憾……"
+
+msgid "@niko2 So...\\.\\. I'll help you the best that I can."
+msgstr "@niko2 所以……\\.\\.我也會盡力幫你。"
+
+msgid "@cedric ..."
+msgstr "@cedric ……"
+
+msgid "@niko4 And...\\.\\. even if it's all just a machine, this world is still...\\.\\. \\@niko2 nice..."
+msgstr "@niko4 再說……\\.\\.即使這一切都只是機械，這個世界還是……\\.\\.\\@niko2 很好……"
+
+msgid "@niko_eyeclosed I mean, I got to fly... \\.\\.I got to see the ocean..."
+msgstr "@niko_eyeclosed 我是說，我在這裡體驗了飛行……\\.\\.還看了海……"
+
+msgid "@niko And...\\.\\. I got to meet a lot of nice people!\\n\\>\\@niko_speak People like you!"
+msgstr "@niko 而且……\\.\\.還遇到了很多好人！\\n\\>\\@niko_speak 像你一樣的人！"
+
+msgid "@niko_eyeclosed ...and Prototype, even if he's broken right now."
+msgstr "@niko_eyeclosed ……還有預原機，雖然他現在壞了。"
+
+msgid "@cedric ...\\>\\@cedric_smile I'm glad you are taking it so well, Niko."
+msgstr "@cedric ……\\>\\@cedric_smile 霓光，我很高興你能調適得這麼好。"
+
+msgid "@cedric2 And... I'm glad that we have met as well."
+msgstr "@cedric2 還有……我也很高興我們有相遇。"
+
+msgid "@cedric_sigh ...Despite the...\\.\\. circumstances."
+msgstr "@cedric_sigh ……即使……\\.\\.是在這種情況下。"
+
+msgid "@cedric_talk Ah, speaking of Proto... \\@cedric_hmm I should probably head off now."
+msgstr "@cedric_talk 啊，說到預原機……\\@cedric_hmm 現在我該出發了。"
+
+msgid "@cedric I need to go pick up the siblings too..."
+msgstr "@cedric 我也得去接那對兄妹……"
+
+msgid "@niko2 That's true...\\.\\. those two have been waiting for a while now..."
+msgstr "@niko2 的確……\\.\\.他們兩個已經等一陣子了……"
+
+msgid "@cedric_hmm In the meantime..."
+msgstr "@cedric_hmm 另一方面……"
+
+msgid "@cedric_smile Do you remember what to do to get to the surface?"
+msgstr "@cedric_smile 你還記得要怎麼前往地面嗎？"
+
+msgid "@niko_speak I remember having to fix an elevator button!"
+msgstr "@niko_speak 我記得要修好一個電梯按鈕！"
+
+msgid "@cedric_hmm Alright, you should attend to that, then."
+msgstr "@cedric_hmm 好，那你就去處理那件事吧。"
+
+msgid "@cedric_talk Let's meet up here in an hour, okay?"
+msgstr "@cedric_talk 我們一小時後在這裡會合，可以嗎？"
+
+msgid "@niko Got it!"
+msgstr "@niko 沒問題！"
+
+msgid "@cedric Alright, now lemme just-"
+msgstr "@cedric 好，那我就──"
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ……"
+
+msgid "@niko_shock No!"
+msgstr "@niko_shock 不！"
+
+msgid "@niko_shock ...\\.\\.they're...\\.\\. trapped on the island..."
+msgstr "@niko_shock ……\\.\\.他們……\\.\\.被困在島上了……"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ……"
+
+msgid "@niko_distressed2 ......Calamus....\\> Alula...."
+msgstr "@niko_distressed2 ……卡羽……\\>阿露……"
+
+msgid "@niko_distressed2 ...they're..."
+msgstr "@niko_distressed2 ……他們……"
+
+msgid "@cedric_eek ....we\\.\\. ...don't have much time left."
+msgstr "@cedric_eek ……我們\\.\\.……沒剩多少時間了。"
+
+msgid "@cedric_sigh2 Niko... change of plans."
+msgstr "@cedric_sigh2 霓光……計畫改變了。"
+
+msgid "@cedric_sigh Please give me the memory disk."
+msgstr "@cedric_sigh 請把儲存磁碟給我。"
+
+msgid "@niko2 ...alright..."
+msgstr "@niko2 ……好……"
+
+msgid "@cedric2 Listen carefully."
+msgstr "@cedric2 仔細聽我說。"
+
+msgid "@cedric_sigh2 It's likely I'll be targeted again, so we should split up to keep you safe."
+msgstr "@cedric_sigh2 我可能會再被攻擊，所以我們應該分頭行動，才能確保你的安全。"
+
+msgid "@cedric I want you to find a door under a large clock."
+msgstr "@cedric 我要你找出一座大鐘底下的門。"
+
+msgid "@cedric_sigh The room behind it houses a pair of ground access elevators."
+msgstr "@cedric_sigh 門後面的房間裡有一組前往地面的電梯。"
+
+msgid "@cedric Once you get to the ground, immediately find Rue and bring her back to the room."
+msgstr "@cedric 到達地面之後，立刻去找儒莉，並帶她回到房間。"
+
+msgid "@cedric She will know what to do in the meantime."
+msgstr "@cedric 同時間她會知道該做什麼。"
+
+msgid "@niko2 Alright...\\.\\. \\@niko3 What about you, though?"
+msgstr "@niko2 好……\\.\\.\\@niko3 那你呢？"
+
+msgid "@cedric3 I'm going to bring Prototype back."
+msgstr "@cedric3 我要重建預原機。"
+
+msgid "@niko_surprised WH-"
+msgstr "@niko_surprised 什──"
+
+msgid "@niko_surprised Are you okay???"
+msgstr "@niko_surprised 你還好嗎？？？"
+
+msgid "@cedric_talk WHAAAAAT????"
+msgstr "@cedric_talk 你說什麼～？？？？"
+
+msgid "@niko_speak ARE YOU OKAAAAAY???"
+msgstr "@niko_speak 我說你還好嗎～？？？"
+
+msgid "@cedric_talk DON'T WORRYYY I'M FINEEEE"
+msgstr "@cedric_talk 別擔心我沒問題～"
+
+msgid "@niko_eyeclosed ...don't scare me like that..."
+msgstr "@niko_eyeclosed ……別那樣嚇我啦……"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_upset2 ...."
+msgstr "@niko_upset ……"
+
+msgid "@niko2 Hey, \\p...?"
+msgstr "@niko2 嘿，\\p……？"
+
+msgid "@niko_eyeclosed Let's... do our best."
+msgstr "@niko_eyeclosed 我們……一起盡力而為吧。"
+

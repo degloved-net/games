@@ -1,0 +1,120 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 큰 책들이 쌓여 있어요."
+
+msgid "@niko One of them is a robot instruction manual..."
+msgstr "@niko 로봇 사용 설명서가 하나 끼어 있어요..."
+
+msgid "@niko A painting of 4 robots playing cards."
+msgstr "@niko 카드놀이 중인 로봇이 넷 있는 그림이에요."
+
+msgid "@niko A picture of many 1's and 0's."
+msgstr "@niko 1와 0으로 이루어진 그림이에요."
+
+msgid "[Hello. Would You Like To Play A Game?]"
+msgstr "[안녕하세요. 게임 한 판 하시겠습니까?]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 오!"
+
+msgid "@niko Sure!"
+msgstr "@niko 좋아요!"
+
+msgid "[What Game Would You Like To Play?]"
+msgstr "[어떤 게임을 좋아하시나요?]"
+
+msgid "@niko Hmm...."
+msgstr "@niko 흐음..."
+
+msgid "@niko_speak Do you know rock paper scissors?"
+msgstr "@niko_speak 가위바위보 할 줄 아세요?"
+
+msgid "[Desired Difficulty Level?]"
+msgstr "[난이도는 어떻게 하시겠습니까?]"
+
+msgid "@niko Huh?"
+msgstr "@niko 음?"
+
+msgid "[Desired Duration Of Turns?]"
+msgstr "[순서의 제한 시간은 어떻게 하시겠습니까?]"
+
+msgid "@niko_speak Uh..."
+msgstr "@niko_speak 그게..."
+
+msgid "[Please Set Your Timer.]"
+msgstr "[타이머를 설정해 주십시오.]"
+
+msgid "@niko_eyeclosed ...Nevermind..."
+msgstr "@niko_eyeclosed ...그냥 안 할래요..."
+
+msgid "@niko How about... hide and seek?"
+msgstr "@niko 저기... 숨바꼭질은 어떤가요?"
+
+msgid "@niko_speak Well... maybe not too easy?"
+msgstr "@niko_speak 글쎄요... 많이 쉽지 않게 할까요?"
+
+msgid "[Initiating. Ruthless Mode.]"
+msgstr "[무자비 모드를 시작합니다.]"
+
+msgid "[TARGET: LOCKED.\\| YOU HAVE EXACTLY 14 SECONDS.\\nSTART.\\| RUNNING.]"
+msgstr "[대상: 확인.\\| 시간이 14초 주어집니다.\\n시작.\\| 실행 중입니다.]"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ..."
+
+msgid "@niko_wtf2 ...I'm not sure if I want to play anymore."
+msgstr "@niko_wtf2 ...그냥 안 할래요."
+
+msgid "[OH.\\| Session. Abort.]"
+msgstr "[알겠습니다.\\| 세션 종료.]"
+
+msgid "[Are You. Feeling Unwell?]"
+msgstr "[기분이 안 좋으신가요?]"
+
+msgid "@niko No, it's not that..."
+msgstr "@niko 아뇨, 아니에요..."
+
+msgid "@niko I'll... pass."
+msgstr "@niko 그냥... 사양할게요."
+
+msgid "My parents are like, literally never home."
+msgstr "우리 엄마와 아빠는 집을 자주 비워."
+
+msgid "But I don't mind! I'm used to it!"
+msgstr "하지만 괜찮아! 이미 익숙해졌거든!"
+
+msgid "Besides, I've got model C-WT 2nd gen unit 4E here to keep me company now!"
+msgstr "게다가 모델 C-WT 2세대 유닛 4E가 함께 있으니까!"
+
+msgid "She still talks a little weird sometimes, but that's okay! She's learning!"
+msgstr "가끔 이상한 이야기를 하긴 하지만 괜찮아! 배워 가는 중이니까!"
+
+msgid "If I work real hard, she might even be tamed someday!"
+msgstr "내가 열심히만 하면 길들이는 것도 가능할 거야!"
+
+msgid "@niko I keep hearing that word..."
+msgstr "@niko 그 말을 자꾸 듣게 되네요..."
+
+msgid "What, tame?"
+msgstr "길들이기 말이야?"
+
+msgid "@niko Mhm!"
+msgstr "@niko 네!"
+
+msgid "@niko Nobody's told me what it means yet..."
+msgstr "@niko 하지만 무슨 뜻인지 알려준 사람이 없어요..."
+
+msgid "That's just a robot thing!\\n\\....I can't really explain it, either..."
+msgstr "그냥 로봇이랑 관련이 있는 거야!\\n\\.... 음, 나도 설명하기 어려운걸..."
+
+msgid "@niko Ah..."
+msgstr "@niko 아..."
+
+msgid "What? Don't you like to play \"Run Away From The Killer Robot\"?"
+msgstr "뭐? \"살인 로봇에게서 도망치기\" 게임을 하고 싶지 않다고?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Well, at least *I* have fun with it."
+msgstr "음, 난 재미있던데."
+

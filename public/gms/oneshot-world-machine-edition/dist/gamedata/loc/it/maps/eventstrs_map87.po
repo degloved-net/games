@@ -1,0 +1,54 @@
+msgid "A quick death promises the least pain, don't you agree?"
+msgstr "Più è rapida la morte minore è la sofferenza, no?"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "Quando il mondo finirà, preferiresti che se ne andasse in un istante o che sbiadisse lentamente?"
+
+msgid "To be honest, I'd rather the former."
+msgstr "A dirla tutta, preferisco la prima possibilità."
+
+msgid "[HELLO, PERSON.]"
+msgstr "[SALVE, PERSONA.]"
+
+msgid "[THE LIBRARY IS UP AHEAD.]"
+msgstr "[LA BIBLIOTECA È POCO PIÙ AVANTI.]"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak Grazie!"
+
+msgid "@niko Hey, \\p?"
+msgstr "@niko Ehi, \\p?"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak Ti ricordi dove si trova la caffetteria?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Sì\",\"No\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko Oh, bene!"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed Oh..."
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak Aspetta! Credo di ricordarmelo!\\>\\n\\@niko Dobbiamo prendere l'ascensore, poi giriamo verso destra e infine scendiamo le scale!"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko Chiedo perché... ecco..."
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed Ho... un po' di fame..."
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak In realtà ho MOLTA fame!\\>\\n\\@niko Non ho mangiato nulla da quando sono arrivato qui..."
+
+msgid "@niko So... is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko Quindi... va bene se mettiamo qualcosa sotto i denti prima di entrare nella Torre?"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes Spero abbiano i pancake..."
+

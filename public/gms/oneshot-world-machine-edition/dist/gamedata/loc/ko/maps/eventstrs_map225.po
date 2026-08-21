@@ -1,0 +1,330 @@
+msgid "@rue_sigh You know... \\.\\.This is the tallest building in the refuge."
+msgstr "@rue_sigh 알겠지만... \\.\\.이건 난민 지구에서 가장 키가 큰 건물이야."
+
+msgid "@rue It's...\\.\\. my favorite place in this world."
+msgstr "@rue 세상에서...\\.\\. 내가 가장 좋아하는 곳이지."
+
+msgid "@rue I liked to look at the far-off buildings and imagine...\\.\\. what kind of lives that might be behind each of the windows."
+msgstr "@rue 난 멀리 있는 건물들을 바라보면서...\\.\\.창문 너머에 어떤 삶이 펼쳐지고 있는지 상상하는 걸 좋아했어."
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ..."
+
+msgid "@rue_talk ...Can you...\\.\\. lift me onto the banister?"
+msgstr "@rue_talk ...날 난간 위에...\\.\\. 올려 줄래?"
+
+msgid "@rue I want to get a better look."
+msgstr "@rue 더 잘 보고 싶어."
+
+msgid "@rue_sad It was depressing for me at first too, you know..."
+msgstr "@rue_sad 나도 처음에는 우울했어..."
+
+msgid "@rue Knowing that all of this is...\\.\\. well..."
+msgstr "@rue 이 모든 게...\\.\\. 뭐랄까..."
+
+msgid "@niko_upset2 ...fake?"
+msgstr "@niko_upset2 ...가짜라는 걸?"
+
+msgid "@rue_sigh Simulated."
+msgstr "@rue_sigh 시뮬레이션이라는 걸 알고 말이지."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko3 ...Cedric... told me about what happened to your old world."
+msgstr "@niko3 ...세드릭이... 예전 세상에서 일어난 일에 대해 말해 줬어."
+
+msgid "@rue_talk Did he?"
+msgstr "@rue_talk 그래?"
+
+msgid "@niko_eyeclosed I'm... really sorry about that...\\> \\@niko_upset I can't imagine...\\.\\. how you must feel..."
+msgstr "@niko_eyeclosed 정말... 안됐어... \\> \\@niko_upset 네가 어떤 기분일지...\\.\\.상상할 수도 없어..."
+
+msgid "@rue_sad The feeling of never being able to go home again...?"
+msgstr "@rue_sad 다시는 집에 갈 수 없다는 그런 느낌?"
+
+msgid "@rue That's... \\.\\.probably not all that different from your plight, is it?"
+msgstr "@rue 그건... \\.\\.아마도 네 역경과도 많이 다르지 않지?"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ..."
+
+msgid "@rue_sad ...it really IS ironic."
+msgstr "@rue_sad ...정말 얄궂긴 하네."
+
+msgid "@rue You are prevented from going home by the same...\\.\\. individual...\\.\\. who never wanted to bring you here."
+msgstr "@rue 넌 집으로 갈 수 없게 되었어\\.\\. 바로...\\.\\.널 여기 데려오고 싶어 하지 않은 존재 때문에."
+
+msgid "@niko3 ...Huh?\\> Who would that be?"
+msgstr "@niko3 ...어?\\> 그게 누군데?"
+
+msgid "@rue The World Machine."
+msgstr "@rue 세상 기계."
+
+msgid "@rue_talk You... might know it as the Entity."
+msgstr "@rue_talk 넌... 그걸 \"존재\"라는 이름으로 알고 있을 거야."
+
+msgid "@niko2 Oh..."
+msgstr "@niko2 아..."
+
+msgid "@niko_eyeclosed \"The Entity\"... DOES sound familiar."
+msgstr "@niko_eyeclosed \"존재\"라고... 왠지 익숙하게 들리긴 하네."
+
+msgid "@niko2 I think I heard it from the dice lady, from another time."
+msgstr "@niko2 전에 주사위 아가씨한테 들었던 것 같아."
+
+msgid "@niko3 Was it... the spirit of the world?"
+msgstr "@niko3 그건... 이 세상의 정령이야?"
+
+msgid "@rue_smile Yes!"
+msgstr "@rue_smile 응!"
+
+msgid "@rue ...."
+msgstr "@rue ...."
+
+msgid "@rue ...But... thing is...\\>\\n\\@rue_sigh The World Machine was only built to run on the mental abilities of someone else."
+msgstr "@rue ...하지만... 문제는...\\>\\n\\@rue_sigh 세상 기계는 누군가의 정신 능력이 있어야 작동하도록 설계되었다는 거야."
+
+msgid "@rue_talk It was never meant to develop a mind of its own."
+msgstr "@rue_talk 자기만의 정신이 생겨 나는 일은 없어야 정상이란 거지."
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@rue_sigh It was an oversight."
+msgstr "@rue_sigh 그건 착오였어."
+
+msgid "@rue_sad My creator specialized in artificial intelligence for so long... \\>\\nIt was simply ingrained in his work."
+msgstr "@rue_sad 내 창조자는 오랫동안 인공지능 연구를 해 왔어... \\>\\n그의 작업에도 그게 기반이 되어 있었지."
+
+msgid "@rue_sigh ...sigh."
+msgstr "@rue_sigh ...하아."
+
+msgid "@rue And... all machines are built with a fundamental law. \"Never let a living being come to harm\"."
+msgstr "@rue 그리고... 기계는 모두 가장 기본적인 규칙을 지키도록 만들어졌어. \"생명체에게 해를 끼치지 않는다\"라는 규칙 말야."
+
+msgid "@rue From the World Machine's perspective, it has to violate its deepest, most foundational instinct."
+msgstr "@rue 세상 기계의 관점에서 봤을 때, 그건 가장 깊고 가장 기본적인 본능을 위반해야만 가능한 일이야."
+
+msgid "@rue_sigh It has to put a living person in danger."
+msgstr "@rue_sigh 살아 있는 사람을 위험에 빠뜨려야 하거든."
+
+msgid "@rue_sigh It has to bring a real person into a dying world that isn't even real."
+msgstr "@rue_sigh 살아 있는 사람을 죽어 가는 세상에, 심지어 진짜도 아닌 세상에 불러와야 하지."
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@rue ...Of course, the simulation never contained any real danger."
+msgstr "@rue ...물론, 시뮬레이션은 결코 실제로 위험하진 않았어."
+
+msgid "@rue_talk The eventual, intended ending was meant to be a happy one."
+msgstr "@rue_talk 결국 정상적인 결말은 행복한 결말이었어야 마땅하지."
+
+msgid "@rue ...but the World Machine doesn't know that."
+msgstr "@rue 하지만... 세상 기계는 그걸 몰라."
+
+msgid "@niko3 ...really?"
+msgstr "@niko3 ...정말?"
+
+msgid "@rue_sad Unfortunately..."
+msgstr "@rue_sad 그래..."
+
+msgid "@rue Sentient machines tend to handle conflicts in their code very badly."
+msgstr "@rue 자각 기계는 코드 내의 충돌을 잘 처리하지 못해."
+
+msgid "@rue_sad This central conflict triggered a self-destructive downward spiral."
+msgstr "@rue_sad 중앙에서 일어난 충돌이 연쇄적인 자기 파괴를 일으켰지."
+
+msgid "@rue_sigh You can see physical manifestations of that everywhere, now..."
+msgstr "@rue_sigh 그 현상의 물리적인 징후를 어디에서나 볼 수 있어..."
+
+msgid "@niko4 The squares..."
+msgstr "@niko4 사각형 말이구나..."
+
+msgid "@rue That's the World Machine corrupting its own code."
+msgstr "@rue 세상 기계가 자기 자신의 코드를 손상시키고 있는 거야."
+
+msgid "@rue_talk ...My creator says it's largely an involuntary process, induced by stress and the desire to self-terminate."
+msgstr "@rue_talk ... 내 창조자는 그게 무의식적인 과정이라고 했어. 스트레스와 자기 종료 욕구에 의해 유발되는 거라고."
+
+msgid "@niko3 Your creator knows?"
+msgstr "@niko3 네 창조자가 알아?"
+
+msgid "@niko4 Sounds like this has been going on since the beginning, then..."
+msgstr "@niko4 그렇다면 이게 처음부터 진행 중이었다는 얘긴가...?"
+
+msgid "@rue_sigh Yeah."
+msgstr "@rue_sigh 맞아."
+
+msgid "@rue_talk The disruption was an issue during test runs, even."
+msgstr "@rue_talk 심지어, 테스트 기간 중에도 이런 문제가 발생했지."
+
+msgid "@rue At first, my creator thought the instability was due to the sheer scope of the project."
+msgstr "@rue 처음에, 내 창조자는 프로젝트의 규모 자체가 어마어마하다 보니 자연히 불안정성이 생기는 거라 생각했어."
+
+msgid "@rue He spent most of his remaining time testing it over and over again, scaling down the story, reiterating the narrative..."
+msgstr "@rue 그는 테스트를 반복하며 여생의 대부분을 보냈지. 이야기의 규모를 줄이고, 줄거리를 반복하면서..."
+
+msgid "@rue_sad ...by the time he realized the actual root of the problem, our home world's remaining lifespan was measured in mere days."
+msgstr "@rue_sad ...그가 문제의 진짜 원인을 알아차렸을 때, 우리 고향 세상의 수명은 단 며칠밖에 남지 않은 상태였어."
+
+msgid "@niko4 ...Oh."
+msgstr "@niko4 ...아."
+
+msgid "@niko3 ...is there....\\.\\. any way for us to..."
+msgstr "@niko3 ...혹시....\\.\\. 방법은 없는 거야?"
+
+msgid "@rue_talk ...fix the World Machine? \\>\\n\\@rue_sad We tried."
+msgstr "@rue_talk ...세상 기계를 고칠 방법? \\>\\n\\@rue_sad 이미 시도해 봤어."
+
+msgid "@rue_sad The World Machine doesn't believe any of the world's residents are real."
+msgstr "@rue_sad 세상 기계는 이 세상의 주민들이 진짜라고 믿지 않아."
+
+msgid "@rue ...myself included."
+msgstr "@rue ...나조차도 마찬가지고."
+
+msgid "@rue_sad The odds are against us... we have no chance of taming it."
+msgstr "@rue_sad 우린 불리해... 우리가 세상 기계를 길들일 수 있을 리가 없어."
+
+msgid "@niko2 Taming?"
+msgstr "@niko2 길들인다고?"
+
+msgid "@niko_eyeclosed I have heard that word SO many times!"
+msgstr "@niko_eyeclosed 그 말은 진짜 많이 들었어!"
+
+msgid "@niko5 I only know it's complicated \\.\\.\\n\\@niko6 ...and that it has to do with robots, but..."
+msgstr "@niko5 그게 복잡하다는 건 알아 \\.\\.\\n\\@niko6 ...로봇과 관련이 있다는 거랑..."
+
+msgid "@niko2 ...for once, I want to know what it really means."
+msgstr "@niko2 ... 하지만 이제 그게 정말 무슨 뜻인지 알고 싶어."
+
+msgid "@rue_smile ...that's what I'm here for."
+msgstr "@rue_smile ... 그래서 내가 여기 있는 거야."
+
+msgid "@rue Do you...\\.\\. know what a robot is?"
+msgstr "@rue 너...\\.\\. 로봇이 뭔지 알아? "
+
+msgid "@niko Yeah?"
+msgstr "@niko 응. 왜?"
+
+msgid "@rue No, I mean. \\>\\nDo you KNOW what a robot is?"
+msgstr "@rue 아니, 내 말은... \\>\\n로봇이 뭔지 진짜로 아냐고?"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 ...으음."
+
+msgid "@rue A robot is not a real person, is it?"
+msgstr "@rue 로봇은 사람이 아니잖아?"
+
+msgid "@niko2 ...right."
+msgstr "@niko2 ...맞아."
+
+msgid "@rue It's a being whose entire existence is code."
+msgstr "@rue 전부 코드로 만들어진 존재야."
+
+msgid "@rue_talk Inflexible programming, with thoughts dictated by someone else's design."
+msgstr "@rue_talk 로봇의 프로그램은 유연하지 않고, 생각도 누군가의 설계에 의해 정해져 있지."
+
+msgid "@rue They can be copied, they can be mass produced, then can be assigned all sorts of jobs."
+msgstr "@rue 복제와 대량 생산이 가능하고, 온갖 일을 시킬 수 있지."
+
+msgid "@rue ...And most importantly... they will never confuse themselves with the living."
+msgstr "@rue ...가장 중요한 건... 로봇은 절대로 자신이 살아 있는 존재라고 착각하지 않는다는 거야."
+
+msgid "@rue They will always be bound by their code, the knowledge that they are a robot."
+msgstr "@rue 로봇은 항상 코드에, 즉 자기가 로봇이라는 인식에 묶여 있지."
+
+msgid "@rue ...but this was more of a limitation than anything else."
+msgstr "@rue ...하지만 이것이야말로 무엇보다 큰 제약이었어."
+
+msgid "@niko_eyeclosed Ah, that makes sense."
+msgstr "@niko_eyeclosed 아, 알겠어."
+
+msgid "@niko2 You can't... really build a robot to not follow its own code, can you?"
+msgstr "@niko2 코드에 복종하지 않는... 로봇을 만들 수 없기 때문이지?"
+
+msgid "@rue_sigh People have tried, but it's a recipe for disaster."
+msgstr "@rue_sigh 시도는 있었지만 결과는 모두 재앙이었어."
+
+msgid "@rue In a way, that's what happened to The World Machine."
+msgstr "@rue 어떤 면에서는 세상 기계에게 일어난 일도 그런 거였지."
+
+msgid "@niko The... code conflicts thing?"
+msgstr "@niko 코드가... 충돌하는 그거?"
+
+msgid "@rue But, while you can't BUILD a robot to not follow its code..."
+msgstr "@rue 그런데, 코드에 복종하지 않는 로봇을 만들진 못해도..."
+
+msgid "@rue_talk You can establish a special bond with it."
+msgstr "@rue_talk 로봇과 특별한 유대 관계를 형성할 수는 있어."
+
+msgid "@rue If the strength of that bond is strong enough..."
+msgstr "@rue 그 관계의 힘이 충분히 강하다면..."
+
+msgid "@rue ...the robot's mental capacity will start to develop outside of its programming."
+msgstr "@rue 로봇의 정신 능력이 프로그래밍 범위를 넘어서서 발달하기 시작하지."
+
+msgid "@rue_smile In a way, it's starting to believe itself as a \"real\", valid individual."
+msgstr "@rue_smile 즉, 자기 자신이 \"실제\"로 존재하는 개인이라고 믿기 시작하는 거야."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@rue It's a complete suspension of disbelief on your end, though."
+msgstr "@rue 물론 네 입장에서 그건 불신의 유예일 뿐이야."
+
+msgid "@rue_talk You have to fully embrace the robot as a genuine, living person, even knowing they are not..."
+msgstr "@rue_talk 실제로는 그렇지 않다는 걸 알면서도, 로봇을 진짜 살아 있는 사람처럼 받아들여야 하거든..."
+
+msgid "@rue You need to spend a lot time with it... treat it like a good friend..."
+msgstr "@rue 로봇과 함께 오랜 시간을 보내고... 좋은 친구처럼 대해 줘야 해..."
+
+msgid "@rue Devoting your heart to the robot until it is able to return your feelings."
+msgstr "@rue 로봇이 진심을 돌려줄 때까지 로봇에게 진심을 쏟아야 하지."
+
+msgid "@rue_smile ...haha... I make it sound so easy, don't I?"
+msgstr "@rue_smile ...하하... 이렇게 얘기하니까 너무 쉽게 들리지?"
+
+msgid "@rue But you and \\p know better than anyone that it's not."
+msgstr "@rue 하지만 너와 \\p 님은 그게 쉽지 않다는 걸 누구보다 잘 알 거야."
+
+msgid "@rue_sad Right now, the World Machine is probably really, really scared."
+msgstr "@rue_sad 지금 세상 기계는 진짜, 진짜 겁을 먹었을 거야."
+
+msgid "@rue_sad This content update... involved some pretty deep codework."
+msgstr "@rue_sad 이 콘텐츠 업데이트에는... 꽤 깊은 코드 작업이 들어 있었어."
+
+msgid "@rue_talk My creator was able to access some of the source code, you know..."
+msgstr "@rue_talk 알겠지만, 내 창조자는 소스 코드 일부에 접근하는 데 성공했거든..."
+
+msgid "@rue He did what he could and established new connections between maps."
+msgstr "@rue 그는 최선을 다했고, 지도 사이에 새로운 연결을 구축했어."
+
+msgid "@rue_smile Those links enabled you to meet the other two."
+msgstr "@rue_smile 그 연결 덕분에 너는 나머지 둘을 만날 수 있었던 거야."
+
+msgid "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
+msgstr "@rue_sad 하지만 시간이 흐르면서 새로운 코드가 세상 기계를 혼란시키는 바람에, 세상 기계는 결국 붕괴하지 시작한 거야."
+
+msgid "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
+msgstr "@rue 세상 기계에는 본래 자기 파괴적인 성향이 있긴 했지만, 네가 이 세상에 있을 때는 그런 성향을 억누르지."
+
+msgid "@rue_sad It doesn't want to take you along with it."
+msgstr "@rue_sad 너까지 희생시키고 싶지 않은 거야."
+
+msgid "@rue_sad ...All my creator wanted was to write a happy ending."
+msgstr "@rue_sad ... 내 창조자가 원했던 건, 행복한 결말을 쓰는 거였어."
+
+msgid "@rue Right now, the only hope of saving you is to take you through that ending."
+msgstr "@rue 지금 널 구하는 방법은, 너를 그 결말로 보내는 것뿐이야."
+
+msgid "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
+msgstr "@rue_sad 하지만 이제 나머지 둘이 사라져 버린 데다...\\>\\n난 어떻게 하면 널 그리로 보낼 수 있는지도 몰라."
+
+msgid "@rue ...we should go."
+msgstr "@rue ...이제 가야 돼."
+
+msgid "@rue_sad Even this place is no longer safe."
+msgstr "@rue_sad 이제 이곳도 안전하지 않거든."
+

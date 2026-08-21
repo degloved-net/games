@@ -1,0 +1,63 @@
+msgid "I'm catching fireflies for mommy!"
+msgstr "¡Estoy cogiendo luciérnagas para mami!"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko El horizonte tiene un brillo azul."
+
+msgid "@rowbot [HERE IS YOUR STOP. THE GLEN.]"
+msgstr "@rowbot [ESTA ES TU PARADA. EL VALLE.]"
+
+msgid "@niko Thank you!"
+msgstr "@niko ¡Gracias!"
+
+msgid "@rowbot [THERE SHOULD BE A VILLAGE TO THE NORTH. BUT THAT'S ALL I CAN RECALL.]"
+msgstr "@rowbot [DEBERÍA HABER UNA ALDEA AL NORTE. PERO ESO ES TODO LO QUE RECUERDO.]"
+
+msgid "@niko_speak Oh, that's good to know!"
+msgstr "@niko_speak ¡Ah, está bien saberlo!"
+
+msgid "@rowbot [FAREWELL.]"
+msgstr "@rowbot [ADIÓS.]"
+
+msgid "@rowbot [MAY YOUR MISSION BE A SUCCESS.]"
+msgstr "@rowbot [BUENA SUERTE EN TU MISIÓN.]"
+
+msgid "@niko_speak A-Are you leaving?"
+msgstr "@niko_speak ¿Te... Te vas?"
+
+msgid "@rowbot [YES.\\>\\nI MUST RETURN TO MY STATION.]"
+msgstr "@rowbot [SÍ.]\\>\\n[DEBO REGRESAR A MI ESTACIÓN.]"
+
+msgid "@niko But you'll be all alone again..."
+msgstr "@niko Pero volverás a estar completamente solo..."
+
+msgid "@rowbot [IT'S OKAY.]"
+msgstr "@rowbot [NO PASA NADA.]"
+
+msgid "@rowbot [I HAVE NOT BEEN TAMED.]"
+msgstr "@rowbot [NO ME HAN DOMADO.]"
+
+msgid "Hm..."
+msgstr "Mm..."
+
+msgid "Nothing's biting..."
+msgstr "No pica nada..."
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "Hola, soy un pnj inaccesible."
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko Hay algunos peces pequeños en el fondo de este tarro."
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko Están llenos de peces pequeño y secos."
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak ¡Está lleno de cabezas de pescado!"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko Lleno de peces pequeños y secos."
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak Parecen caparazones de cangrejos."
+

@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-05-11 16:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tw\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "prophetbot:title=ProphetBot"
+msgstr "預言機"
+
+msgid "prophetbot:subtitle=Met: Barrens"
+msgstr "相遇地點：藍荒地"
+
+msgid ""
+"prophetbot:infoText=Prophetbot is a nice and friendly robot that lives in the outskirts of the world, waiting for the messiah. One day the messiah showed up! That was a very good day for Prophetbot.\n"
+"\n"
+"When the messiah is not around, Prophetbot likes to spend his time standing around waiting for the messiah to come back."
+msgstr "預言機是一個友善的機器人。它生活在郊區，等待著救世主的到來。有一天，救世主出現了！對於預言機來說，那是最美好的一天。\n\n當救世主不在附近時，預言機喜歡花時間站在那裡等著救世主的歸來。"
+
+msgid "silver:title=Silver"
+msgstr "希薇兒"
+
+msgid "silver:subtitle=Met: Barrens"
+msgstr "相遇地點：藍荒地"
+
+msgid ""
+"silver:infoText=The Barren's head engineer, a rather morose robot living alone near the mines. It's her duty to oversee operations and maintenance of the world's industrial heart, where metals and resources are pulled from the earth's clutches and rendered into usable goods.\n"
+"\n"
+"...at least, that's how things used to be. Since the evacuation, only a few active robots remain under Silver's care, holding out on reserve power and waiting for the messiah to appear."
+msgstr "藍荒地的工程師主管。是一個孤僻的機器人，喜歡獨自居住在礦區。她的職責是監督世界工業中心的運轉和維護，在那裡，金屬和資源會從地球上被挖掘出來並轉換成可用的物資。\n\n…至少以前是這樣的。自從開始撤離後，只剩下少數幾個機器人在希薇兒的監督下運作，靠著僅剩的儲備電量等待著救世主的出現。"
+
+msgid "rowbot:title=Rowbot"
+msgstr "划船機器人"
+
+msgid "rowbot:subtitle=Met: Barrens"
+msgstr "相遇地點：藍荒地"
+
+msgid "rowbot:infoText=A little robot attached to a rowboat, rusted in place by the ocean's mist. Once part of a fleet that transported small amounts of cargo and occassional passengers across the ocean between the Barrens and the Glen. That fleet has been largely disbanded since people fled the Barrens when the sun was extinguished. Only this bot remains, dutifully stationed in case there's ever need for one more trip to that distant shore."
+msgstr "一個連接在划船上的小機器人，經歷了海洋的洗禮變得鏽跡斑斑。曾是一支遠洋艦隊的一部分，在藍荒地和綠沼澤的海上之間進行少量的貨物運輸和乘客載運。自從太陽毀滅，人們逃離了藍荒地後，那支艦隊也就基本解散了。只剩下這個機器人還盡忠職守地留在崗位上，以防有一天需要再航行去那遙遠的海岸。"
+
+msgid "calamus:title=Calamus"
+msgstr "卡羽"
+
+msgid "calamus:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid ""
+"calamus:infoText=A polite boy that leads a quiet life with his younger sister Alula in the ruins outside of town. He often has his hands full looking out for her and tends to worry when she's not around.\n"
+"\n"
+"Calamus spends most of his time fishing and foraging around the ruins, and relies on his friend Magpie to trade for any goods that can't be scavenged. Though they don't have much in the way of luxuries, Calamus has a small collection of books gifted by an old friend that he likes to study when he gets a chance. Judging by the amount of progress he's made however, those chances don't come very often."
+msgstr "一個有禮貌的小男孩，和妹妹阿露在鎮外的一個廢墟過著平淡的生活。他總是忙於照顧妹妹，只要妹妹一不在身邊就會擔心起來。\n\n多數時間卡羽都會在廢墟附近釣魚和覓食，並依靠他的朋友喜鵲，來換取無法獲得的物資。即使他們的生活平淡無奇，卡羽的老朋友給了他一小系列的書籍作為禮物，他一有空閒就喜歡拿出來閱讀。從讀書進度來看，他並不怎麼有空。"
+
+msgid "alula:title=Alula"
+msgstr "阿露"
+
+msgid "alula:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid ""
+"alula:infoText=A cheerful, excitable young girl. She lives in the ruins under the care of her older brother Calamus. Too young to remember much of what the world was like before the sun was lost, Alula is optimistic and thrilled to be helping the messiah on their special quest.\n"
+"\n"
+"When Alula isn't busy exploring every nook and cranny the ruins has to offer, she can usually be found helping out her big brother or playing around the courtyard near their home."
+msgstr "一個開朗、充滿活力的小女孩。她住在廢墟，由哥哥卡羽照顧。由於年紀還太小，所以不太記得太陽消失前的世界是什麼樣子的，但阿露很樂觀且很高興能幫助救世主完成他們的特殊任務。\n\n當阿露不忙著探索廢墟的每一個角落時，你通常會發現她在幫助哥哥或在他們家附近的庭院玩耍。"
+
+msgid "maize:title=Maize"
+msgstr "麥茈"
+
+msgid "maize:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid "maize:infoText=A benevolent and powerful plant spirit, acting as a sort of guardian for the Glen. The last of her kind, her life force has slowly dwindled in the absence of the sun's light. After all of these cold hungry years, her only wish is to see the sun once more."
+msgstr "一個和藹可親且能力強大的樹靈，算是綠沼澤的守護者。她是同類中最後一名剩餘的樹靈，隨著太陽光消失，她的生命也逐漸消逝。經過多年的飢寒交迫，她唯一的願望就是能再一次看到太陽。"
+
+msgid "magpie:title=Magpie"
+msgstr "喜鵲"
+
+msgid "magpie:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid ""
+"magpie:infoText=An easygoing merchant and purveyor of fine goods. \"Fine\" in this case mostly meaning \"colorful and/or shiny\". Still, it's always a good idea to check what's in stock - he might have just what you've been looking for. The shop operates on barter however, so be prepared to give up something Magpie deems interesting enough for a trade.\n"
+"\n"
+"Magpie used to have a much more impressive collection until his shop was tragically lost to the sinking ground, forcing Magpie to flee in the wagon that's now his home. Calamus and Alula are some of Magpie's best customers, finding all sorts of curiosities lost in the ruins."
+msgstr "一名平易近人的商人兼精美物品供應商。在這裡，「精美」是指那些「色彩繽紛和/或閃亮亮」的東西。看看有什麼存貨總是好事，因為他可能會有你正在尋找的東西。不過這家店是以物易物式的，所以最好準備一些喜鵲感興趣的物品來進行交易。\n\n喜鵲以前有更多驚人的收藏，但他不幸地因地層下陷而失去商店，這也迫使喜鵲必須搭乘馬車逃亡，現在那也成了他的家。卡羽和阿露是喜鵲最好的顧客，他們在廢墟中發現了各種奇珍異寶。"
+
+msgid "shepherd:title=Shepherd"
+msgstr "牧羊人"
+
+msgid "shepherd:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid ""
+"shepherd:infoText=A shepherd woman who tends a flock of rams. Seems to have an endless supply of ram puns and computer puns. You could say she has a lot of \"rammunition\". A real \"dyed-in-the-wool\" pun fanatic. Her love of puns never \"DIMM\"s. The \"MOS\" puns you've ever \"herd\". Must have really good \"memory\" to remember them all. Even so, you can't help but groan a \"bit\".\n"
+"\n"
+"computer."
+msgstr "照顧一群公羊的一名牧羊女。腦袋裡似乎有數不盡的公羊雙關語和電腦雙關語。你可以說她「才華“羊”溢」。她是一個雙關語達人。她對雙關語的熱愛從不減弱。會是你聽過最厲害的雙關語。一定要有很好的記憶力才有辦法記住全部，即便如此，你還是會忍不住要讚嘆一下。"
+
+msgid "lamplighter:title=Lamplighter"
+msgstr "燈光師"
+
+msgid "lamplighter:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"lamplighter:infoText=A tired-looking man who seems to subsist purely on gallons of coffee. It's unclear how long it's been since the last time he slept. Though he's not the brightest fellow, he's an incredibly hard worker and takes his job very seriously. So seriously, in fact, that he gets anxious whenever he can't perform his duties. He's responsible for keeping the lights around the city lit, as well as delivering highly concentrated phosphor for use in machines.\n"
+"\n"
+"A high-school dropout, he feels nervous whenever he has to be around smart people. Lately the Lamplighter has taken to reading the dictionary in what little free time he has."
+msgstr "一個看起來很疲憊，看起來要喝一加崙咖啡才有辦法提神的男人。不清楚他上次睡覺是什麼時候的事了。他雖然不是最聰明的人，但他非常努力，對自己的工作盡心盡力。事實上，因為太看重工作，以至於無法履行職責時，他就會感到焦慮。他負責維護城市周圍的燈光，以及運送高濃度的燐供機器使用。\n\n作為一個中輟生，每當他不得不和聰明的人相處時，他就會感到緊張。最近燈光師在他的閒暇時間開始閱讀字典。"
+
+msgid "watcher:title=The Watcher"
+msgstr "守望者"
+
+msgid "watcher:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"watcher:infoText=A strange woman standing in the clocktower, watching the world end.\n"
+"\n"
+"Seconds, minutes, hours, days; the flow of time inexorably drags us all towards a vast and unknowable sea. Will you let it carry you in darkness, squinting against the sting of its spray? Will you rage against its currents, fighting to make as much headway as you can before you're overtaken? Or will you choose, as some, to stare wide-eyed at this swirling torrent and become enraptured by it?"
+msgstr "一個站在鐘塔上眺望世界盡頭的奇怪女人。\n\n秒、分、小時、天，時間的流逝都無法阻擋我們被拖向未知的浩瀚海洋。你是否會讓它帶著你進入深淵，瞇起眼抵禦水流的刺痛感？你是否會因為水流而感到憤怒，在被它追上之前盡可能地爭取更多的時間？還是你會像其他人一樣，選擇睜大眼，緊盯著這股巨大的狂流，並為之著迷？"
+
+msgid "ling:title=Ling"
+msgstr "林"
+
+msgid "ling:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"ling:infoText=The friendly proprietor of the Refuge Cafe. Once a popular spot to relax and bask in the warm aromas and gentle sounds of cafe ambiance, it's mostly deserted since the squares began picking apart the upper reaches of the city. Nowadays, Ling's best customer is the unfaltering (though not especially talkative) Lamplighter.\n"
+"\n"
+"Always a gracious host, Ling enjoys meeting customers both new and old and chatting with them. If you ask nicely, he might even take the time to whip up a request for something off-menu!"
+msgstr "友善的紅城咖啡館老闆。這裡曾是很受歡迎的地方，可以放鬆心情，沐浴在咖啡館溫暖的香氣和柔和的聲音中，自從那些方塊把城市上游四分五裂後，這裡就幾乎荒廢了。如今，林的最佳顧客（雖然不是太健談）是死忠的燈光師。\n\n林總是親切待客，不管是老顧客還是新顧客，他都會很友善的聊天。如果你有禮貌的詢問，他也許會花時間為你準備一些菜單以外的料理！"
+
+msgid "mason:title=Mason"
+msgstr "梅森"
+
+msgid "mason:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"mason:infoText=A chatty guy with a passion for plants. He owns a small plant shop in the refuge apartment district, however it's mostly just an excuse to do more gardening as Mason tends to gift almost as many plants as he sells. When it comes to horticultural advice, Mason is the guy to see.\n"
+"\n"
+"A friend of the Watcher. Mason also admires the Lamplighter's hard work, and once sent him one of his plants as a thank-you."
+msgstr "一個對植物充滿熱忱且很健談的男人。他在紅城的住宅區擁有一間小型園藝店，不過這大概只是一個讓自己做更多園藝工作的藉口罷了，因為梅森送出去的植物幾乎跟他賣出去的一樣多。涉及到有關園藝方面的意見時，找梅森就對了。\n\n是守望者的朋友。梅森也很敬佩燈光師辛勞的工作，曾送過他一株植物作為感謝。"
+
+msgid "kelvin:title=Kelvin"
+msgstr "凱爾文"
+
+msgid "kelvin:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"kelvin:infoText=A space heater robot that has claimed one of the corners of the Refuge's back alleys as his own. Kelvin's warm body naturally attracts a lot of cats, and he seems to have developed some kind of bond with them. Kelvin is always willing to offer his warmth and comfort to any creature that wanders by.\n"
+"\n"
+"Technically the lamplighter's neighbour, but they don't interact much..."
+msgstr "一個空間加熱機器人。他把紅城後巷的一角落當作是自己的。凱爾文溫暖的身體自然而然地會吸引很多貓，而他似乎已經與牠們建立了某種連繫。凱爾文總是很樂意提供自身的溫暖與舒適感給在身邊徘徊的生物。\n\n嚴格來說，他是燈光師的鄰居，但他們的互動並不多…"
+
+msgid "kip:title=Kip"
+msgstr "琪普"
+
+msgid "kip:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"kip:infoText=The brilliant and highly respected head engineer of the Refuge, Kip is responsible for many advances in robot technology that make our lives easier every day. She's also the creator of many robots that can be met throughout the world; most notably Silver, the Barrens head engineer who was based on Kip's own image.\n"
+"\n"
+"Silver was intended to be the first of a new type of robot that could think and act like a person. Unfortunately, the difficulty of that task led to her going rogue during development. Though Silver was eventually stabilized, that day left a scar on their relationship that has yet to heal.\n"
+"\n"
+"Though her creations are well known, the creator herself prefers to keep a low profile and focus on her work. It's likely that few outside of her colleagues have ever seen her."
+msgstr "琪普聰明絕頂，是備受尊崇的紅城工程師主管，她對許多先進的機器人技術有所貢獻，那些更是為了我們的生活帶來便利。同時她也是我們在世界各地看到的那些機器人的創造者。其中最顯著的就是藍荒地的工程師主管希薇兒，她是根據琪普自己的形象所設計的。\n\n希薇兒旨在成為一種新型機器人的首創者，能像人一樣思考和行動。不幸的是，這項任務的難度導致她在開發過程中失控。雖然希薇兒最終被穩定下來，但那天卻給他們的關係帶來一道尚未癒合的傷疤。\n\n雖然她的發明廣為人知，但她身為創造者更希望保持低調，並專注於自身的工作。除了她少數的同事之外，鮮少有人見過她。"
+
+msgid "george1:title=George"
+msgstr "喬智"
+
+msgid "george1:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george1:infoText=George is the fantastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a big responsibility, but there's no-one better suited to the task.\n"
+"\n"
+"The best way to describe George would be to ask someone to imagine meeting a gold medalist, at the sport of being a librarian, that also refers to themselves in the third person."
+msgstr "喬智是一個很棒的紅城圖書館館長。除了管理圖書館裡的所有資源和服務，她還負責出版作家的許多手稿。這是一項很大的責任，但沒有人比她更適合這項任務了。\n\n描述喬智最好的辦法，就是請人想像一下，自己遇到一名在做圖書館員的這項運動比賽中的金牌得主，而且還用第三人稱稱呼自己。"
+
+msgid "george2:title=George"
+msgstr "喬智"
+
+msgid "george2:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george2:infoText=George is the exasperated head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of work, and it doesn't leave George much patience to spare.\n"
+"\n"
+"The best way to describe George would be to ask someone to picture a novelty mug that says \"Don't talk to me until I've had my coffee\"... that has only ever been filled with water."
+msgstr "喬智是一個愛生氣的紅城圖書館館長。除了管理圖書館裡的所有資源和服務，她還負責出版作家的許多手稿。這是一項繁重的工作，使喬智沒有多少耐心可以言。\n\n描述喬智最好的辦法，就是請人描繪一個新奇的馬克杯，上面寫著：「在我喝完咖啡之前不要跟我說話」…但裡面其實只有裝過水而已。"
+
+msgid "george3:title=George"
+msgstr "喬智"
+
+msgid "george3:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george3:infoText=George is the distraught head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of pressure, and George often feels completely overwhelmed.\n"
+"\n"
+"The best way to describe George would be to imagine a stuffed animal falling forward forever down an infinite flight of stairs."
+msgstr "喬智是一個很焦慮的紅城圖書館館長。除了管理圖書館裡的所有資源和服務，她還負責出版作家的許多手稿。這是很大的壓力，經常讓喬智不知所措。\n\n描述喬智最好的辦法，就是想像一下，有一隻毛絨動物玩偶在一個無止盡的樓梯上，永遠都會向前跌下。"
+
+msgid "george4:title=George"
+msgstr "喬智"
+
+msgid "george4:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george4:infoText=George is the enthusiastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a great opportunity for George to share her passion for literature, and read all the latest books.\n"
+"\n"
+"The best way to describe George would be to think of a dog that always wants to show everyone its favourite toy, but the toy is books and the dog is a librarian and also not a dog but still having a good time."
+msgstr "喬智是一個很熱情的紅城圖書館館長。除了管理圖書館裡的所有資源和服務，她還負責出版作家的許多手稿。這是一個很好的機會讓喬智分享她對文學的熱忱，並閱讀最新的書籍。\n\n描述喬智最好的辦法，就是想著有一隻狗，那隻狗總是想和大家分享自己最愛的玩具，但那個玩具其實是一本書，而那隻狗其實是一個圖書館員，但仍然會度過美好的時光。"
+
+msgid "george5:title=George"
+msgstr "喬智"
+
+msgid "george5:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george5:infoText=George is the caring head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's an important job, and George is more than happy to be able to help so many people in the community through her work.\n"
+"\n"
+"The best way to describe George would be to ask someone to picture a warm towel fresh out of the dryer."
+msgstr "喬智是一個很有愛心的紅城圖書館館長。除了管理圖書館裡的所有資源和服務，她還負責出版作家的許多手稿。這是一份很重要的工作，而喬智非常高興自己能夠透過工作，幫助社區中的許多人。\n\n描述喬智最好的辦法，就是請人想像一下一條剛從烘衣機裡拿出來的溫暖毛巾。"
+
+msgid "george6:title=George"
+msgstr "喬智"
+
+msgid "george6:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"george6:infoText=George is the head honcho of the library. Y'know, the one in the Refuge? Not only does she help the library run smooth as butter, she's also in charge of publishing for the big man himself: The Author. It's a pretty chill job, all things considered.\n"
+"\n"
+"If you're wondering what George is like to hang with, just picture someone who's both the coolest cat... AND the hottest dog. Ya dig?"
+msgstr "喬智是圖書館的負責人，就是在紅城的那間，你知道嗎？她不只幫助圖書館順利運作，她還是負責大人物，即作家的出版事務。整體來說，這是非常輕鬆的工作。\n\n如果你想知道和喬智在一起事什麼樣子的，只要想像一下一個人是一隻最酷的貓…同時也是最帥的狗，你能明白嗎？"
+
+msgid "prototype:title=Prototype"
+msgstr "預原機"
+
+msgid "prototype:subtitle=Met: Barrens"
+msgstr "相遇地點：藍荒地"
+
+msgid ""
+"prototype:infoText=A dour and reclusive robot that lives in the outskirts of the outskirts of the world, waiting for a second chance. One day the messiah showed up; that was truly an unexpected turn of events.\n"
+"\n"
+"Proto is a child of The Author and a predecessor to the Prophetbot that lives in the Barrens. Originally built to serve the same purpose of greeting the messiah, not as a preprogrammed robot but a tamed one with its own will. Unfortunately, Prototype never saw a messiah in their own time.\n"
+"\n"
+"Though seemingly unfriendly, Proto isn't uncaring. He keeps his eye on Silver and the Barrens from the shadows, and Silver looks out for him in turn."
+msgstr "一個冷峻且隱蔽的機器人，它生活在世界的郊區，等待著第二次機會的到來。有一天，救世主出現了。那真是個意料之外的轉機。\n\n預原機是作家的孩子，也是居住在藍荒地的預言機的前身。原本為了達到迎接救世主的相同目的而被建造的，不是一個預編程式機器人，而是一個有自我意志的服從機器人。不幸的是，預原機在他們自己的時代從未見過救世主。\n\n預原機雖然看起來不太友善，但也不是漠不關心。他在暗中關注著希薇兒和藍荒地，而希薇兒也同樣在關注著他。"
+
+msgid "cedric:title=Cedric"
+msgstr "學君"
+
+msgid "cedric:subtitle=Met: Glen"
+msgstr "相遇地點：綠沼澤"
+
+msgid "cedric:infoText=A prodigious tinkerer and child of The Author. Cedric is the operator of the only known Flying Machine, a miraculous and highly advanced device that can travel the skies. Cedric has been waiting in the Refuge for the day the world can truly be saved. Cedric is hopeful, and eager to play his role in the final gambit."
+msgstr "一名非凡的小發明家，同時也是作家的兒子。學君是唯一已知的飛機的駕駛員，飛機是一個神奇的，非常先進的設備，可以在天空瞬間移動。學君一直在紅城等待世界被拯救的那一天。他滿懷希望，並渴望在最後一場賭局中，發揮自己的作用。"
+
+msgid "rue:title=Rue"
+msgstr "儒莉"
+
+msgid "rue:subtitle=Met: Refuge"
+msgstr "相遇地點：紅城"
+
+msgid ""
+"rue:infoText=A mysterious fox who can talk. Rue has a bad leg, but the origins of the injury are unknown. Nevertheless, it doesn't seem to bother her too much.\n"
+"\n"
+"Rue is the first child of the Author, and knows many secrets about the world and its true nature. While she feels wistful thinking back upon how her real world is gone, she is determined to do whatever she can to help Niko set this one right. She is able retain some of her memories across sessions and has always been watching, and always been waiting for the day her father's plan would finally be set in motion."
+msgstr "一隻會說話的神祕小狐狸。露的一隻腳行動不便，但受傷原因不明。儘管如此，這似乎沒有帶給她太多困擾。\n\n露是作家的第一個孩子，她知道許多關於世界的秘密和其真實樣貌。她回想起自己的真實世界是如何消失時會感到惆悵，所以她下定決心要竭盡所能地幫助霓光讓這個世界走向正軌。她能夠在不同時期保留一些記憶，同時也一直在觀察，一直在等待她父親的計畫最終得以實現的那天。"
+
+msgid "world_machine:title=The World Machine"
+msgstr "世界機器"
+
+msgid "world_machine:subtitle=Met: ???"
+msgstr "相遇地點：？？？"
+
+msgid ""
+"world_machine:infoText=In the beginning, there was only a dream. The memory of an entire world distilled into code, to tell the story of a savior its progenitors would never see. It was an ambitious project. Many thought it was simply impossible, the scope too large, the theory too abstract. But it had to be done.\n"
+"\n"
+"In hindsight, perhaps it should have come as no surprise that a system imbued with the minds and memories of so many people would come to develop one of its own. To become a thinking machine is no easy task even in the best conditions. To do so while realizing your very existence puts another being in danger, for the sake of a world that doesn't even exist...\n"
+"\n"
+"The emotional strain this put on The World Machine led to a downward spiral of self-destruction that put everything at risk. However, thanks to Niko's help, The World Machine was able to realize it wasn't a lost cause and that it was worth saving too."
+msgstr "一開始，那只是一個夢想。整個世界的記憶被濃縮成代碼，以講述其祖先永遠都不會見到救世主的故事。那是一個野心勃勃的計畫。許多人認為這根本不可能，範圍太大、理論太過抽象。但這是無庸置疑必須要做的事。\n\n在事後看來，也許一個被如此多人的思想及記憶所灌注的系統，發展出另一個自我的系統也不奇怪。即使在最好的條件下，要成為一個會思考的系統也不是一件簡單的事。要做到這一點，同時也要意識到，你的存在會使另一個生命處於危險之中，還是為了一個甚至不存在的世界…\n\n這給世界機器帶來的情感壓力，導致了失控且自我毀滅，並讓一切陷入危險之中。不過多虧了霓光的幫助，世界機器能夠意識到自己並不是沒有希望，也是值得被拯救的。"
+
+msgid "author:title=The Author"
+msgstr "作家"
+
+msgid "author:subtitle=Met: ???"
+msgstr "相遇地點：？？？"
+
+msgid ""
+"author:infoText=A sentimental fool, with an interest in tinkering. Creator of The World Machine, and Chronicler of a place and time that no longer exists.\n"
+"\n"
+"There is an old saying (here gently paraphrased) that claims \"As the lamp shines brighter, longer grow the shadows it casts\". The clearer our vision, the better understanding we have of how much yet remains unseen.\n"
+"\n"
+"Having seen so much of this world, it pains me to imagine the wonderful people I shall never get the chance to meet. The delightful meals I shall never taste, the beautiful shores I will never sit upon. It pains me yet again to know that this simulation, though crafted to the best of my ability, represents only a portion of what I myself have been able to see.\n"
+"\n"
+"Nevertheless, I hope that by sharing this small spark what remains can never truly be lost. May you add this light to your own, and carry it with you on your journey."
+msgstr "一個對修修補補感興趣且多愁善感的傻瓜。世界機器的創造者，以及一個已不復存在的地方的編年史家。\n\n正如俗語所說（在此輕輕地轉述）：「燈越亮，影子就越長。」我們的視野越清晰，就越能理解還有多少東西是我們未見的。\n\n在看見世界之大之後，我悲痛地想像我將永遠都沒有機會見到那些如此美好之人。我將永遠無法品嘗到那令人食指大動的佳餚，無法坐在美麗動人的海岸上。我再次感到悲痛，因為這只是假象，雖然已盡我所能，但這只代表我自己所能看到的一部分。\n\n然而，我希望通過分享這小小的火花，使剩餘的東西將不會永遠消逝。願你將這道光加諸到自己身上，帶著它踏上你的旅程。"
+
+msgid "niko:title=Niko"
+msgstr "霓光"
+
+msgid "niko:subtitle=Met: ???"
+msgstr "相遇地點：？？？"
+
+msgid ""
+"niko:infoText=The erstwhile protagonist and unfortunate victim of the forces set in motion by The World Machine. A bright-eyed child with a curious heart, Niko was summoned to play the role of the Sun-Bearer and Messiah to a broken world.\n"
+"\n"
+"Now that the machine has been healed and the cycle broken, Niko is finally free to return to their home. Niko can once again chase through golden fields of wheat under a warm sky, taste fluffy and syrupy pancakes, and most importantly: hug the mom that they've missed so much.\n"
+"\n"
+"Thank you."
+msgstr "昔日的主角，也是世界機器力量下的不幸受害者。霓光是一個熱情的孩子，有著一顆好奇的心。他被召喚來到這支離破碎的世界扮演太陽使者和救世主的角色。\n\n現在，世界機器已被治癒，循環被打破，霓光終於可以自由地回到他們自己的家園。他可以再次在暖洋洋的天空下追逐金色的麥田，品嘗鬆軟的鬆餅，還有最重要的是：擁抱他們非常想念的母親。\n\n謝謝你。"

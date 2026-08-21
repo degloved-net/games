@@ -1,0 +1,36 @@
+msgid "@niko It's full of little glass tubes of water."
+msgstr "@niko 물이 가득 든 작은 시험관들이에요."
+
+msgid "[WATER SAMPLES!]"
+msgstr "[물 표본입니다!]"
+
+msgid "[TAKE CARE NOW, PERSON!]"
+msgstr "[조심하십시오, 인간!]"
+
+msgid "[HELLO, LIVING PERSON.]"
+msgstr "[안녕하세요. 살아 있는 인간이시군요.]"
+
+msgid "@niko Hello."
+msgstr "@niko 안녕하세요."
+
+msgid "[I HAVE COLLECTED A DUPLICATE WATER SAMPLE.]"
+msgstr "[중복 물 표본을 채취했습니다.]"
+
+msgid "[WOULD YOU LIKE IT?]"
+msgstr "[마음에 드시나요?]"
+
+msgid "@niko Um..."
+msgstr "@niko 음..."
+
+msgid "[MY PROGRAMMING SAYS THAT ORGANIC BEINGS NEED WATER TO SURVIVE.]"
+msgstr "[제 프로그램에 따르면 생물이 살기 위해서는 수분이 필요합니다.]"
+
+msgid "[SO I SHALL OFFER IT TO YOU.]"
+msgstr "[그러니 이걸 당신에게 드리지요.]"
+
+msgid "@niko Oh, uh,\\. \\@niko_speak Sure! We'll take it."
+msgstr "@niko 아, 음,\\. \\@niko_speak 고마워요! 가져갈게요."
+
+msgid "[BEEP BOOP. WATER COLLECTION PROJECT RESUMING...]"
+msgstr "[삑, 삐빅. 물 채취 임무 재개 중...]"
+

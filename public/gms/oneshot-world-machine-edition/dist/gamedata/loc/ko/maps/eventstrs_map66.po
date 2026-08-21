@@ -1,0 +1,90 @@
+msgid "@alula_pout Niko?"
+msgstr "@alula_pout 니코?"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh 니코? 왜 그래?"
+
+msgid "@niko Huh?"
+msgstr "@niko 음?"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock 꼭 정신을 잃을 것처럼 보였어!"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed 또 이런 일이 생기다니..."
+
+msgid "@niko_speak Earlier I was in the Barrens area, and I kind of... saw something?\\>\\n\\@niko It was like a dream, but only for a split second..."
+msgstr "@niko_speak 전에, 불모지에서도 난... 이걸 본 적이 있었거든?\\>\\n\\@niko 마치 잠깐 스쳐 지나간 꿈처럼 말야..."
+
+msgid "@calamus_speak A vision?"
+msgstr "@calamus_speak 환영 말이야?"
+
+msgid "@niko2 Vision?"
+msgstr "@niko2 환영?"
+
+msgid "@calamus Like something a prophet would see."
+msgstr "@calamus 예언자가 보는 그런 거 말야."
+
+msgid "@niko_speak Whoa!"
+msgstr "@niko_speak 우와!"
+
+msgid "@calamus_speak I mean, if you can talk to \\p, it would make sense, right?"
+msgstr "@calamus_speak 그러니까 넌 \\p 님과도 말할 수 있으니까, 환영도 볼 수 있지 않겠어?"
+
+msgid "@niko I... guess?"
+msgstr "@niko 아마... 도?"
+
+msgid "@calamus ...or not, I don't know. \\>\\n\\@calamus_smile I've only read about it before."
+msgstr "@calamus ...아님 말고. 나도 잘 몰라. \\>\\n\\@calamus_smile 나도 책에서 읽은 내용일 뿐이니까."
+
+msgid "@niko Oooh...\\>\\n\\@niko_speak Anyway, what is this place?"
+msgstr "@niko 아...\\>\\n\\@niko_speak 그건 그렇고, 여기는 어디야?"
+
+msgid "@niko It looks like it used to lead somewhere."
+msgstr "@niko 마치 어딘가로 통할 것만 같은데."
+
+msgid "@alula_speak Yeah, the sacred grounds!\\>\\n\\@alula It's been a while since we went there..."
+msgstr "@alula_speak 맞아, 성스러운 땅으로 통하지!\\>\\n\\@alula 마지막으로 찾아간 뒤로 시간이 꽤 흘렀지..."
+
+msgid "@calamus We don't have a way getting there now, remember?\\>\\nThere isn't a boat and none of us can swim, and..."
+msgstr "@calamus 지금은 거기에 갈 수 있는 방법이 없어. 기억 안 나?\\>\\n우리는 배도 없고 헤엄도 칠 줄 모르고 거기다가..."
+
+msgid "@niko_speak What's... the sacred grounds?"
+msgstr "@niko_speak 성스러운... 땅이 뭐야?"
+
+msgid "@calamus It's where our people are buried."
+msgstr "@calamus 우리들이 죽으면 묻히는 곳이야."
+
+msgid "@alula Sometimes we go there to visit mom!\\>\\n\\@alula_oh Well, her grave, anyway."
+msgstr "@alula 우린 가끔 엄마를 보러 가곤 해!\\>\\n\\@alula_oh 그러니까 엄마 무덤 말이야."
+
+msgid "@niko_eyeclosed Oh....\\>\\n\\@niko_speak -wait, how do you get there?\\>\\n\\@niko I thought you said there isn't a boat?"
+msgstr "@niko_eyeclosed 아....\\>\\n\\@niko_speak ...잠깐만, 거기는 어떻게 가는데?\\>\\n\\@niko 아까 배도 없다고 하지 않았어?"
+
+msgid "@alula Oh, our friend helps us!"
+msgstr "@alula 친구가 우릴 도와주거든!"
+
+msgid "@calamus He has some sort of machine that allows him to fly."
+msgstr "@calamus 그 친구는 하늘을 나는 기계를 가지고 있어."
+
+msgid "@alula Sometimes he takes us along!"
+msgstr "@alula 가끔 우리도 태워다 줘!"
+
+msgid "@calamus But like I was about to say, we haven't seen him around for a while."
+msgstr "@calamus 하지만 한동안 친구를 만나지 못했어. 그걸 말하려고 했는데."
+
+msgid "@alula I wonder when he'll come back?\\>\\nI wish we could go see mom again..."
+msgstr "@alula 언제 돌아올까?\\>\\n나 또 엄마가 보고 싶어..."
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@calamus Come on, Alula, let's go back to the courtyard now."
+msgstr "@calamus 자, 알룰라. 그만 마당으로 돌아가자."
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak 알았어!"
+
+msgid "@niko It's a clover."
+msgstr "@niko 클로버예요."
+

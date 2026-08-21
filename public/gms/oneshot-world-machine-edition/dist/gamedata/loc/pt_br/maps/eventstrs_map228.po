@@ -1,0 +1,87 @@
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak Ah!"
+
+msgid "@niko So that's where this leads."
+msgstr "@niko Então é aí que isso leva."
+
+msgid "@plight Welp, looks like this elevator works alright."
+msgstr "@plight Bom, parece que está tudo em ordem com o elevador."
+
+msgid "@plight_2 I'll uh...\\.\\. go get the evacuees, I suppose..."
+msgstr "@plight_2 Então, ahm... \\.\\.acho que vou resgatar quem ficou preso..."
+
+msgid "@niko Mhm!"
+msgstr "@niko Isso!"
+
+msgid "@plight_worry UM."
+msgstr "@plight_worry HM..."
+
+msgid "@plight_scared WHAT IS GOING ON."
+msgstr "@plight_scared O QUE ESTÁ ACONTECENDO?"
+
+msgid "@niko_shock Nooo!!!!"
+msgstr "@niko_shock Nãããão!!!"
+
+msgid "@plight_scared It's... the square stuff, isn't it?"
+msgstr "@plight_scared São... os quadrados, né?"
+
+msgid "@plight_worry2 There aren't any in here but..."
+msgstr "@plight_worry2 Não tem nenhum aqui, mas..."
+
+msgid "@plight_worry I can hear them just outside the door..."
+msgstr "@plight_worry Posso ouvi-los do outro lado da porta..."
+
+msgid "@niko3 Yeah..."
+msgstr "@niko3 Sim..."
+
+msgid "@niko3 H-hold on! \\@niko2 Maybe \\p and I can..."
+msgstr "@niko3 C-Calma aí! \\@niko2 Talvez \\p e eu possamos..."
+
+msgid "@plight_worry No, no, it's okay!"
+msgstr "@plight_worry Não, não, está tudo bem!"
+
+msgid "@plight_worry2 Looks like the squares aren't inside the elevator....\\>\\n\\@plight_sigh yet."
+msgstr "@plight_worry2 Parece que os quadrados não estão dentro do elevador.... \\>\\n\\@plight_sigh ainda."
+
+msgid "@plight_worry You're... in a hurry, right?"
+msgstr "@plight_worry Você... está com pressa, né?"
+
+msgid "@plight_worry2 Go do...\\.\\. what you need to do...."
+msgstr "@plight_worry2 Vá fazer...\\.\\. o que precisa fazer...."
+
+msgid "@niko3 But... what about you?"
+msgstr "@niko3 Mas... e você?"
+
+msgid "@plight_worry I'll... \\.\\.figure something out..."
+msgstr "@plight_worry Eu... \\.\\.vou dar meu jeito..."
+
+msgid "@niko4 Okay..."
+msgstr "@niko4 Certo..."
+
+msgid "@niko This door won't budge..."
+msgstr "@niko A porta está emperrada..."
+
+msgid "@niko_distressed2 .\\..\\..\\.."
+msgstr "@niko_distressed2 .\\..\\..\\.."
+
+msgid "@niko3 ...you okay in there?"
+msgstr "@niko3 ... está tudo bem aí?"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 ...hello?"
+msgstr "@niko3 ... olá?"
+
+msgid "@plight_worry ...mostly."
+msgstr "@plight_worry ... quase tudo."
+
+msgid "@plight_worry2 ...look, don't worry about me for now, okay?"
+msgstr "@plight_worry2 ... olha, não se preocupe comigo por enquanto, sim?"
+
+msgid "@plight_sigh You got more important stuff to deal with..."
+msgstr "@plight_sigh Você tem coisas mais importantes para fazer..."
+
+msgid "@niko2 ...let's see if this elevator works."
+msgstr "@niko2 ... vamos ver se esse elevador funciona."
+

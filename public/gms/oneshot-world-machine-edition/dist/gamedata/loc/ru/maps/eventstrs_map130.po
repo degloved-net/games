@@ -1,0 +1,45 @@
+msgid "@niko Well that was fun."
+msgstr "@niko Что ж, это было прикольно."
+
+msgid "@niko Hello..."
+msgstr "@niko Привет..."
+
+msgid "[ROOM UNDER CONSTRUCTION]"
+msgstr "[В ПОМЕЩЕНИИ ВЕДУТСЯ РЕМОНТНЫЕ РАБОТЫ.]"
+
+msgid "[TILES HAVE NOT BEEN FULLY PLACED]"
+msgstr "[НЕ ВСЯ ПЛИТКА УСТАНОВЛЕНА.]"
+
+msgid "[YOU SHOULD NOT BE HERE YET]"
+msgstr "[ВАМ ПОКА РАНО СЮДА ЗАХОДИТЬ.]"
+
+msgid "@niko ...alright."
+msgstr "@niko Ладно..."
+
+msgid "[\"Again! Again!\", \"Once is enough!\"]"
+msgstr "[\"Ещё! Ещё!\",\"Одного раза достаточно!\"]"
+
+msgid "@niko Okay!"
+msgstr "@niko Хорошо!"
+
+msgid "@niko I'm not sure what this is."
+msgstr "@niko Не знаю точно, что это такое."
+
+msgid "@niko_speak It's like a little car!"
+msgstr "@niko_speak Как будто маленькая машина!"
+
+msgid "[\"You should ride on it!\", \"Resist urge to ride on it.\"]"
+msgstr "[\"Тебе стоит на ней прокатиться!\",\"Не поддавайся желанию на ней прокатиться.\"]"
+
+msgid "@niko ... \\>\\n\\@niko_speak What?"
+msgstr "@niko ... \\>\\n\\@niko_speak Что?"
+
+msgid "[\"Do it!\"]"
+msgstr "[\"Давай!\"]"
+
+msgid "@niko Um...."
+msgstr "@niko Эм..."
+
+msgid "@niko_eyeclosed I wasn't going to, \\p..."
+msgstr "@niko_eyeclosed Я не собирался, \\p..."
+

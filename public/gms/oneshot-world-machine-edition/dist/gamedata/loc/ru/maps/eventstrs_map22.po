@@ -1,0 +1,147 @@
+msgid "@plight .\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight Sure is taking a while..."
+msgstr "@plight Это займёт немного времени..."
+
+msgid "@niko m-hm!"
+msgstr "@niko Угу!"
+
+msgid "@plight_worry (oh goodness gracious I'm stuck in an elevator with the messiah and also literally god themself this is awkward)"
+msgstr "@plight_worry (О Господи, я застрял в лифте с самим мессией и нашим божеством... Как неловко вышло...)"
+
+msgid "@niko Oh, maybe we can chat to pass the time, then?"
+msgstr "@niko О, может, тогда мы можем поболтать, чтобы скоротать время?"
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf Ты меня услышал???"
+
+msgid "@plight_worry I mean, sure..."
+msgstr "@plight_worry То есть, конечно..."
+
+msgid "@niko Alright, \\p, should I..."
+msgstr "@niko Ладно, \\p, мне стоит..."
+
+msgid "[\"Ask about his job\", \"Ask about this city\", \"Ask about the library\", \"Resume awkward silence\"]"
+msgstr "[\"Спросить про его работу.\",\"Спросить про его город.\",\"Спросить про библиотеку.\",\"Продолжать неловко молчать.\"]"
+
+msgid "@niko So... what do you do at your job?"
+msgstr "@niko Ну и... чем ты занимаешься на своей работе?"
+
+msgid "@niko_speak You seem really busy!"
+msgstr "@niko_speak Ты выглядишь очень занятым!"
+
+msgid "@plight_2 I... uh...."
+msgstr "@plight_2 Я... Эм..."
+
+msgid "@plight I fix lights, mostly."
+msgstr "@plight В основном я чиню освещение."
+
+msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
+msgstr "@plight_2b Но сейчас я ещё доставляю высокоэнергетический фосфор в организации, где он требуется, и пополняю их запасы."
+
+msgid "@niko High energy?"
+msgstr "@niko Высокоэнергетический?"
+
+msgid "@plight Y'know, the super concentrated glowy stuff they had to process in factories, it's what powers most of this city's stuff."
+msgstr "@plight Ну, знаешь, эту суперконцентрированную светящуюся штуку, которую производят на заводах. На ней работает почти всё в этом городе."
+
+msgid "@niko Oooh!"
+msgstr "@niko О-о-о!"
+
+msgid "@plight We used to have a small army of delivery robots doing that..."
+msgstr "@plight Раньше у нас была небольшая армия роботов, которые занимались доставкой..."
+
+msgid "@plight_worry But lately a bunch of them have been breaking down?"
+msgstr "@plight_worry Но в последнее время многие начали ломаться."
+
+msgid "@plight_2 So until they fix them, I'll just have more work on my plate."
+msgstr "@plight_2 Так что пока их не починят, мне приходится работать круглые сутки."
+
+msgid "@plight_why I haven't slept in so long..."
+msgstr "@plight_why Я уже так долго не спал..."
+
+msgid "@niko_speak When will the robots get fixed?"
+msgstr "@niko_speak А когда починят роботов?"
+
+msgid "@plight_2 I have no idea, it's all up to the scientists over at the labs."
+msgstr "@plight_2 Понятия не имею. Это зависит от учёных в лабораториях."
+
+msgid "@plight_worry But they seem REALLY concerned about something else lately..."
+msgstr "@plight_worry Только в последнее время они УЖАСНО обеспокоены чем-то другим..."
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak Вот как?"
+
+msgid "@plight_worry ...Never a good sign when even the smart folks are worried."
+msgstr "@plight_worry А когда эти умники чем-то обеспокоены, это плохой знак."
+
+msgid "@niko This city is very big!"
+msgstr "@niko Этот город очень большой!"
+
+msgid "@plight_2b It's smaller than it looks."
+msgstr "@plight_2b Он меньше, чем кажется."
+
+msgid "@plight_2 Getting pretty crowded too..."
+msgstr "@plight_2 И народу тут всё больше..."
+
+msgid "@plight_2 First there was the refugees from the Barrens, and now more Glen folks are moving in too."
+msgstr "@plight_2 Сначала сюда пришли беженцы с Пустоши, а теперь подтягиваются и люди из Долины."
+
+msgid "@niko Oh?"
+msgstr "@niko Да?"
+
+msgid "@plight It's just safer here, y'know?"
+msgstr "@plight Тут просто безопаснее, понимаешь?"
+
+msgid "@plight I mean, it's not a haven by any means."
+msgstr "@plight Хотя это уже далеко не самое спокойное место."
+
+msgid "@plight_worry That square stuff that we just saw?"
+msgstr "@plight_worry Помнишь квадратную штуку, которую мы только что видели?"
+
+msgid "@plight_worry We get more of that here than anywhere else, apparently."
+msgstr "@plight_worry Кажется, у нас их тут больше, чем где-либо ещё."
+
+msgid "@niko_eyeclosed I noticed..."
+msgstr "@niko_eyeclosed Я заметил..."
+
+msgid "@plight_2 ...We're lucky it only seems to affect the city's infrastructure."
+msgstr "@plight_2 Нам повезло: они затрагивают только городскую инфраструктуру."
+
+msgid "@plight The landmass itself is still holding up."
+msgstr "@plight Земля ещё пока держится."
+
+msgid "@plight_2b Which is good, since there isn't much solid land here in the first place."
+msgstr "@plight_2b А это хорошо, потому что тут не так уж много твёрдой почвы."
+
+msgid "@niko Can you tell me about the library?"
+msgstr "@niko Расскажи мне про библиотеку?"
+
+msgid "@niko_speak I'm supposed to go there!"
+msgstr "@niko_speak Я должен туда пойти!"
+
+msgid "@plight Oh yeah, that's one of my main delivery spots."
+msgstr "@plight А, да. Это одна из основных точек, куда я доставляю фосфор."
+
+msgid "@plight Those reading lights are pretty high-maintenance."
+msgstr "@plight Эти лампы для чтения довольно дорого обходятся."
+
+msgid "@plight_worry But I always feel out of place surrounded by smart people!"
+msgstr "@plight_worry Но я всегда чувствую себя не в своей тарелке, когда меня окружают умные люди!"
+
+msgid "@plight Well, I guess you're pretty smart yourself, so you'll fit in fine."
+msgstr "@plight Но мне кажется, что ты умный парень, так что ты там придёшься к месту."
+
+msgid "@plight_2b You and \\p."
+msgstr "@plight_2b Ты и \\p."
+

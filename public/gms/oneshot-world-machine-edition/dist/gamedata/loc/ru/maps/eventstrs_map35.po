@@ -1,0 +1,60 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko Эту комнату освещают светлячки."
+
+msgid "@niko Looks like moss..."
+msgstr "@niko Похоже на мох..."
+
+msgid "@niko_speak I guess people eat those!"
+msgstr "@niko_speak Думаю, люди это едят!"
+
+msgid "If nothing else, I'm sure everyone would like to see the sun again!"
+msgstr "Во всяком случае, думаю, все бы хотели снова увидеть солнце!"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak Ага!"
+
+msgid "It's slowly being chipped away already.\\nBut it's still trying to stay alive, I think."
+msgstr "Он уже потихоньку сокращается.\\nНо ещё пытается бороться за жизнь."
+
+msgid "Doesn't matter... one day the world will finally give up this fight."
+msgstr "Неважно... Однажды мир откажется от этой борьбы."
+
+msgid "I just hope I'm not alive to see it."
+msgstr "Я лишь надеюсь, что не доживу до этого дня."
+
+msgid "@alula But the savior is here!"
+msgstr "@alula Но спаситель пришёл!"
+
+msgid "That won't fix the root of the problem."
+msgstr "Это не исправит суть проблемы."
+
+msgid "@niko Just like the other lady said..."
+msgstr "@niko Ты говоришь, как та тётя..."
+
+msgid "@alula_oh Other... lady?"
+msgstr "@alula_oh Та... тётя?"
+
+msgid "@niko_speak Yeah! She's this robot and she seemed kinda sad..."
+msgstr "@niko_speak Ага! Она робот и выглядела довольно грустной..."
+
+msgid "@alula_pout Ah..."
+msgstr "@alula_pout А..."
+
+msgid "Oh! But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "О, только не отчаивайся!\\nБез солнца мир умрёт гораздо быстрее."
+
+msgid "At the very least...\\nI'm sure everyone would like to see the sun again."
+msgstr "На худой конец...\\nЯ уверен, что все хотели бы снова увидеть солнце."
+
+msgid "Right, little one?"
+msgstr "Правда, малыш?"
+
+msgid "@alula_speak Yup!"
+msgstr "@alula_speak Точно!"
+
+msgid "@niko_speak I'm bringing back the sun, though..."
+msgstr "@niko_speak Хотя я собираюсь вернуть солнце..."
+
+msgid "But don't lose heart!\\nWithout the sun, the world will die much faster."
+msgstr "Только не отчаивайся!\\nБез солнца мир умрёт гораздо быстрее."
+

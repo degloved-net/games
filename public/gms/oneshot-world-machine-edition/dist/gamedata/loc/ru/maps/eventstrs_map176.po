@@ -1,0 +1,27 @@
+msgid "@niko We should get going now, \\p."
+msgstr "@niko Пора идти, \\p."
+
+msgid "@niko_eyeclosed I don't think this is a good time for a nap, \\p..."
+msgstr "@niko_eyeclosed Не думаю, что сейчас подходящее время для сна, \\p..."
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed Я уже устал ходить."
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak Ничего, если я немного вздремну?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"Да.\",\"Нет.\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed А, ну что же... \\>\\n\\@niko Думаю, у нас ещё много дел."
+
+msgid "@niko It's a stack of blank papers."
+msgstr "@niko Это стопка чистой бумаги."
+
+msgid "@niko Boxes full of manuscripts."
+msgstr "@niko В коробках полно рукописей."
+
+msgid "@niko A book on the ground."
+msgstr "@niko Книга на полу."
+

@@ -1,0 +1,81 @@
+msgid "These robots are malfunctioning at a frightening rate."
+msgstr "ロボットの故障発生件数が\n恐ろしい速さで増加している。"
+
+msgid "Physical damage from square-particle anomalies is almost impossible to revert."
+msgstr "四角形粒子の異常による物理的ダメージから\n元に戻すことはほぼ不可能なのだよ。"
+
+msgid "No living person can touch them, unless they have a death wish."
+msgstr "生身の人間がアレに触れてはいけない。\n自殺願望があるなら構わないがね。"
+
+msgid ".\\..\\..But if we're lucky, sometimes the squares go away on their own."
+msgstr ".\\..\\..だが、運が良ければ、\n四角形は勝手にいなくなることもある。"
+
+msgid "...but not before taking away one of the robot's arms, or legs."
+msgstr "…大抵はロボットの腕や脚を奪ったあとだがな。"
+
+msgid "...or head."
+msgstr "…ああ、あと頭部もだ。"
+
+msgid "@niko_huh ...okay."
+msgstr "@niko_huh …そう。"
+
+msgid "I don't know if you've ever seen a headless robot before, but it is quite a sight to behold."
+msgstr "頭部を失ったロボットを見たことはあるかね？\nなかなかの光景だよ。"
+
+msgid "And also quite dangerous."
+msgstr "そして、なかなか危険でもある。"
+
+msgid "@niko A robot."
+msgstr "@niko ロボットだ。"
+
+msgid "[I CANNOT STOP SPINNING.]"
+msgstr "[回転ガ止まりませン。]"
+
+msgid "[BOOP.]"
+msgstr "[ブーッ。]"
+
+msgid "[WE ARE WAITING TO BE REPAIRED.]"
+msgstr "[修理ノため、待機していまス。]"
+
+msgid "This is so tedious!"
+msgstr "もうこんなのウンザリだ！"
+
+msgid "I miss the good ol' days before our robot-repairing-robots broke down."
+msgstr "ああ昔が懐かしい！\nロボット修理ロボが故障してしまう前の昔が。"
+
+msgid "Now all the robots have to be assembled by actual people."
+msgstr "これからは、人間がロボットを\n組み立てなければならん。"
+
+msgid "@niko_speak But... aren't you a robot?"
+msgstr "@niko_speak でも…君はロボットじゃないの？"
+
+msgid "No?"
+msgstr "いや？"
+
+msgid "I mean, Do I SOUND like a robot to you?"
+msgstr "だって、僕はロボットのように話してるかい？"
+
+msgid "@niko Not really."
+msgstr "@niko そうでもないね。"
+
+msgid "@niko_speak But... your head is a tv?"
+msgstr "@niko_speak でも…その頭って、テレビだよね？"
+
+msgid "W...what does that have to do with anything?"
+msgstr "そ…それがどうしたって言うんだ？"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_eyeclosed ...nevermind."
+msgstr "@niko_eyeclosed …ううん、なんでもない。"
+
+msgid "We should probably fix the robot-repairing-robots first."
+msgstr "まずはロボット修理ロボを\n修理したほうがいい。"
+
+msgid "But the higher-ups need these guys done first for some reason..."
+msgstr "でも上層部は、なぜかこいつらを\n先に修理しろだとさ…"
+
+msgid "@niko This one isn't active..."
+msgstr "@niko このロボットは動いてないね…"
+

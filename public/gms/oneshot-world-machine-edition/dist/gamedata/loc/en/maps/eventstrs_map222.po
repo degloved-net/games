@@ -1,0 +1,3 @@
+
+msgid "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their computer."
+msgstr "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their system."

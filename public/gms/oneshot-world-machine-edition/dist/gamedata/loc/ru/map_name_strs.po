@@ -1,0 +1,132 @@
+msgid "67=Burial Grounds"
+msgstr "Погост"
+
+msgid "70=Old Factory"
+msgstr "Старый завод"
+
+msgid "37=Ruins"
+msgstr "Руины"
+
+msgid "71=Dormitories"
+msgstr "Общежития"
+
+msgid "205=Courtyard"
+msgstr "Двор"
+
+msgid "240=Forest"
+msgstr "Лес"
+
+msgid "73=Swamp"
+msgstr "Болото"
+
+msgid "43=Forest"
+msgstr "Лес"
+
+msgid "44=The Gate"
+msgstr "Ворота"
+
+msgid "12=Entrance"
+msgstr "Вход"
+
+msgid "213=Landing"
+msgstr "Площадка"
+
+msgid "214=City Gate"
+msgstr "Городские ворота"
+
+msgid "47=City Gate"
+msgstr "Городские ворота"
+
+msgid "14=Outpost"
+msgstr "Посёлок"
+
+msgid "215=Elevator Deck"
+msgstr "Площадка у лифта"
+
+msgid "48=Elevator Deck"
+msgstr "Площадка у лифта"
+
+msgid "216=Office"
+msgstr "Офис"
+
+msgid "49=Apartments"
+msgstr "Апартаменты"
+
+msgid "116=Office"
+msgstr "Офис"
+
+msgid "17=Mineshaft entrance"
+msgstr "Вход в шахту"
+
+msgid "84=Elevator Street"
+msgstr "Улица у лифта"
+
+msgid "219=Cafe"
+msgstr "Кафе"
+
+msgid "85=Vendor Street"
+msgstr "Торговая улица"
+
+msgid "18=Cliffs"
+msgstr "Скалы"
+
+msgid "52=Cafe"
+msgstr "Кафе"
+
+msgid "19=Docks"
+msgstr "Причал"
+
+msgid "120=Observation Deck"
+msgstr "Смотровая площадка"
+
+msgid "87=Library"
+msgstr "Библиотека"
+
+msgid "54=Garden"
+msgstr "Сад"
+
+msgid "90=Factory"
+msgstr "Завод"
+
+msgid "23=Lookout point"
+msgstr "Наблюдательный пункт"
+
+msgid "191=Research Station"
+msgstr "Научная станция"
+
+msgid "91=Back Alley"
+msgstr "Переулок"
+
+msgid "225=Observation Deck"
+msgstr "Смотровая площадка"
+
+msgid "127=Research Station"
+msgstr "Научная станция"
+
+msgid "27=Dock"
+msgstr "Причал"
+
+msgid "128=Courtyard"
+msgstr "Двор"
+
+msgid "29=Village"
+msgstr "Деревня"
+
+msgid "230=Vendor Street"
+msgstr "Торговая улица"
+
+msgid "231=Elevator Street"
+msgstr "Улица у лифта"
+
+msgid "232=Back Alley"
+msgstr "Переулок"
+
+msgid "199=Gate"
+msgstr "Ворота"
+
+msgid "233=Library"
+msgstr "Библиотека"
+
+msgid "200=Dock"
+msgstr "Причал"
+

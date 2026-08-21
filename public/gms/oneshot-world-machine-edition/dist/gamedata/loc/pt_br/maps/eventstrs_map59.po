@@ -1,0 +1,72 @@
+msgid "@niko \\p? Are you there?"
+msgstr "@niko \\p? Está aí?"
+
+msgid "[\"Yes\", \"No\", \"That's not my name\"]"
+msgstr "[\"Sim\",\"Não\",\"Esse não é o meu nome\"]"
+
+msgid "@niko_speak Ah, me too!"
+msgstr "@niko_speak Ah, eu também!"
+
+msgid "@niko ...I mean... I'm awake now."
+msgstr "@niko ... Digo... acabei de acordar."
+
+msgid "@niko_eyeclosed \\p... I know you're here..."
+msgstr "@niko_eyeclosed \\p... Eu sei que está aqui..."
+
+msgid "@niko_speak ...Oh."
+msgstr "@niko_speak ... Ah."
+
+msgid "@niko_eyeclosed I'm sorry, I'm a little confused... I just woke up..."
+msgstr "@niko_eyeclosed Desculpe-me, estou um pouco confusa... acabei de acordar..."
+
+msgid "@niko Can you tell me your name again?"
+msgstr "@niko Pode me dizer seu nome mais uma vez?"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko_eyeclosed I had another bad dream."
+msgstr "@niko_eyeclosed Eu tive um outro sonho ruim."
+
+msgid "@niko I know I have nothing to worry about with you here, but..."
+msgstr "@niko Eu sei que, com você aqui, não preciso me preocupar com nada, mas..."
+
+msgid "@niko_eyeclosed Can I really save everyone with this lightbulb?"
+msgstr "@niko_eyeclosed Será que realmente posso salvar a todos com essa lâmpada?"
+
+msgid "@niko ...Let's get going now."
+msgstr "@niko ... Vamos andando."
+
+msgid "@niko These vines look tough, but I think I can manage to cut them!"
+msgstr "@niko Essas trepadeiras são grossas, mas acho que consigo cortá-las!"
+
+msgid "@niko_speak That did it!"
+msgstr "@niko_speak Funcionou!"
+
+msgid "@niko Ready to go, \\p?"
+msgstr "@niko Pronto, \\p?"
+
+msgid "@niko The clipper handles won't budge..."
+msgstr "@niko As alças do cortador não se movem..."
+
+msgid "@niko ...It's not broken, is it?"
+msgstr "@niko ... Não está quebrado, não é?"
+
+msgid "@niko There are some really tangled-up vines in the way."
+msgstr "@niko Há um emaranhado grande de trepadeiras no caminho."
+
+msgid "@niko It looks like an oil can..."
+msgstr "@niko Parece uma lata de óleo..."
+
+msgid "@niko This might be useful. I'll take it with me."
+msgstr "@niko Isso pode ser útil. Vou levar comigo."
+
+msgid "@niko I think I might be carrying something else I can use this with already."
+msgstr "@niko Talvez eu esteja carregando algo que eu possa usar com isso."
+
+msgid "@niko Maybe I should check my pockets again?"
+msgstr "@niko Eu deveria verificar meu bolso mais uma vez?"
+
+msgid "@niko I don't think we need to go that way..."
+msgstr "@niko Acho que não devemos ir por esse caminho..."
+

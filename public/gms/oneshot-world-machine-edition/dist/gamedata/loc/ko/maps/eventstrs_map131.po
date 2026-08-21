@@ -1,0 +1,627 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@en2 [...]"
+msgstr "@en2 [...]"
+
+msgid "@en_distressed2 [...]"
+msgstr "@en_distressed2 [...]"
+
+msgid "@en_distressed [Niko...]"
+msgstr "@en_distressed [니코...]"
+
+msgid "@niko_surprised AAAH!"
+msgstr "@niko_surprised 아아!"
+
+msgid "@en_eyeclosed2 [Relax.]"
+msgstr "@en_eyeclosed2 [진정해.]"
+
+msgid "@en_eyeclosed [...I'm just borrowing your reflection to talk to you.]"
+msgstr "@en_eyeclosed [...너와 이야기를 하기 위해 네 모습을 빌린 것뿐이야.]"
+
+msgid "@en_upset [It's not like my physical form is good for that.]"
+msgstr "@en_upset [내 물리적 형태는 그런 일에 맞지 않거든.]"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 아..."
+
+msgid "@en_upset_meow [...Why did you come here!]"
+msgstr "@en_upset_meow [...여긴 왜 온 거야!]"
+
+msgid "@en_upset2 [Can't you see?]\\>\\n\\@en_eyeclosed [The disruption... the squares...\\> they're closing in.]"
+msgstr "@en_upset2 [안 보여?]\\>\\n\\@en_eyeclosed [혼돈과... 사각형들...\\> 점점 간격을 좁혀 오고 있어.]"
+
+msgid "@en_upset2 [Niko.... please...]"
+msgstr "@en_upset2 [니코.... 부탁이야...]"
+
+msgid "@en_eyeclosed [Get out of here.]\\>\\n[Let me meet my end in peace.]"
+msgstr "@en_eyeclosed [여기서 나가.]\\>\\n[내가 평화롭게 끝을 맞이하게 해 줘.]"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ..."
+
+msgid "@niko3 The squares are blocking my way too, you know..."
+msgstr "@niko3 알고 있겠지만, 사각형들이 제 길도 막고 있어요..."
+
+msgid "@en_distressed [...Oh.]"
+msgstr "@en_distressed [...아.]"
+
+msgid "@en_upset [...I...]"
+msgstr "@en_upset [...난...]"
+
+msgid "@en_upset_meow [...I'm sorry, I-]"
+msgstr "@en_upset_meow [...미안해, 난-]"
+
+msgid "@niko_eyeclosed It's alright..."
+msgstr "@niko_eyeclosed 괜찮아요..."
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [...]"
+
+msgid "@en_upset2 [No living being should be in this place, Niko...]"
+msgstr "@en_upset2 [어떤 생명체도 여기 있어서는 안 돼, 니코...]"
+
+msgid "@niko2 Is this... the Tower?"
+msgstr "@niko2 이게... 탑인가요?"
+
+msgid "@en_upset [Part of it.]"
+msgstr "@en_upset [탑의 일부지.]"
+
+msgid "@en_upset2 [This is the center of the engine.]"
+msgstr "@en_upset2 [엔진의 중심부야.]"
+
+msgid "@en_eyeclosed [...Inside my head, so to speak...]"
+msgstr "@en_eyeclosed [...말하자면 내 머릿속이지...]"
+
+msgid "@niko3 So this is...\\> the center of the World Machine?"
+msgstr "@niko3 그러니까 이게...\\> 세상 기계의 중심부라는 건가요?"
+
+msgid "@en3 [You...\\.\\. know my original name.]"
+msgstr "@en3 [넌...\\.\\.내 원래 이름을 아는구나.]"
+
+msgid "@en4 [How?]"
+msgstr "@en4 [어떻게 아는 거지?]"
+
+msgid "@niko_eyeclosed Rue, Cedric, Prototype...\\>\\n\\@niko2 They all...\\.\\. told me bits and pieces."
+msgstr "@niko_eyeclosed 루, 세드릭, 프로토타입...\\>\\n\\@niko2 모두가...\\.\\. 조금씩 이야기해 줬어요."
+
+msgid "@niko4 I'm not even sure if I even understood a lot of the stuff they said, but..."
+msgstr "@niko4 그들이 말한 것들을 다 이해했다고 확신할 순 없지만..."
+
+msgid "@niko_eyeclosed I know what you're supposed to be.\\>\\n\\@niko2 I know why you had to be built."
+msgstr "@niko_eyeclosed 당신이 원래 무엇인지는 알고 있어요.\\>\\n\\@niko2 당신이 왜 만들어졌는지도요."
+
+msgid "@niko_distressed And... I know why I'm here..."
+msgstr "@niko_distressed 그리고... 제가 왜 여기에 있는지도..."
+
+msgid "@en_shock [They...\\> told you?]"
+msgstr "@en_shock [그들이...\\>말했어?]"
+
+msgid "@en4 [When?]"
+msgstr "@en4 [언제?]"
+
+msgid "@niko2 Wait...\\.\\. You don't know about that?"
+msgstr "@niko2 잠깐...\\.\\. 그걸 몰랐어요?"
+
+msgid "@niko6 But I thought you were... the world..."
+msgstr "@niko6 하지만 전 당신이... 곧 세상이라고 생각했는데요..."
+
+msgid "@niko2 Aren't you supposed to see everything?"
+msgstr "@niko2 모든 일을 볼 수 있는 게 아니었나요?"
+
+msgid "@en_eyeclosed [No.]"
+msgstr "@en_eyeclosed [그렇지 않아.]"
+
+msgid "@en_upset [All this... was outside of the protocol.]"
+msgstr "@en_upset [이 모든 건... 프로토콜 범위 밖이었어.]"
+
+msgid "@en_upset2 [This session was never supposed to happen the way it did....]"
+msgstr "@en_upset2 [이번 세션이 이렇게 전개되리라곤 예상 못했지....]"
+
+msgid "@en_upset_meow [The story... wasn't written into my protocol at all.]"
+msgstr "@en_upset_meow [이 이야기는... 내 프로토콜에는 전혀 쓰여 있지 않았어.]"
+
+msgid "@niko2 Oh, right...\\> Rue told me something about how your creator had to alter the code."
+msgstr "@niko2 그렇군요...\\> 당신의 창조자가 코드를 변경해야 했다고 루가 말해 줬어요."
+
+msgid "@niko5 I think it was to connect some areas together so that we can meet..."
+msgstr "@niko5 아마 그건, 우리가 만날 수 있도록 몇몇 영역을 연결하는 것이었나 봐요."
+
+msgid "@en_eyeclosed [My creator, yes.]"
+msgstr "@en_eyeclosed [내 창조자라, 맞아.]"
+
+msgid "@en_upset [\\p... listened to my creator.]"
+msgstr "@en_upset [\\p... 그가 내 창조자 말을 들었지.]"
+
+msgid "@en_upset2 [They were all working beyond my scope of influence.]"
+msgstr "@en_upset2 [모든 게 내 영향권 밖에서 일어났어.]"
+
+msgid "@en_eyeclosed [Back at the mines, I remember...]"
+msgstr "@en_eyeclosed [광산에서 있었던 일이 기억나...]"
+
+msgid "@en2 [\\p did something to find a hidden map.]\\>\\n\\@en3 [I did not even recognize it...]"
+msgstr "@en2 [\\p... 그는 숨겨진 장소를 찾기 위해 뭔가를 했어.]\\>\\n\\@en3 [난 그걸 알아보지도 못했지...]"
+
+msgid "@en_upset [I couldn't see anything there!]"
+msgstr "@en_upset [거기에서는 아무것도 볼 수 없었어!]"
+
+msgid "@en_upset2 [I just... knew...\\.\\. what you were feeling.]"
+msgstr "@en_upset2 [난 그냥...\\.\\. 네가 무엇을 느끼는지 알 수 있었어.]"
+
+msgid "@en_upset [You were really upset.]"
+msgstr "@en_upset [넌 많이 화가 났었지.]"
+
+msgid "@en_upset_meow [Something happened in there to make you upset]"
+msgstr "@en_upset_meow [거기에서 있었던 일 때문에 화가 난 거야.]"
+
+msgid "@en_eyeclosed [After that... I...]"
+msgstr "@en_eyeclosed [그 후에... 난...]"
+
+msgid "@en_distressed2 [I panicked.]"
+msgstr "@en_distressed2 [혼란에 빠졌어.]"
+
+msgid "@niko2 That was when... the cave in happened...."
+msgstr "@niko2 그때였어... 동굴이 무너진 건..."
+
+msgid "@en_eyeclosed [I...\\.\\. I remember the structure collapsing.]"
+msgstr "@en_eyeclosed [난...\\.\\.구조물이 무너지던 광경이 기억나.]"
+
+msgid "@en_distressed2 [I thought you got hurt, I...]"
+msgstr "@en_distressed2 [네가 다쳤다고 생각했지...]"
+
+msgid "@en_eyeclosed [...in that moment, I really thought I was shutting myself down for good.]"
+msgstr "@en_eyeclosed [...그 순간, 난 스스로 전원을 꺼야겠다고 생각했어.]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [...]"
+
+msgid "@en_distressed_meow [I really am a flawed machine, aren't I?]"
+msgstr "@en_distressed_meow [나, 정말 결함 많은 기계지?]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ..."
+
+msgid "@en_distressed2 [What kind of machine would go against the wishes of its own creator?]"
+msgstr "@en_distressed2 [어떤 기계가 창조자의 소망에 반하는 행동을 하겠어?]"
+
+msgid "@en_distressed_talk [What kind of machine would...]"
+msgstr "@en_distressed_talk [어떤 기계가...]"
+
+msgid "@en [I'm...]"
+msgstr "@en [나는...]"
+
+msgid "@niko3 The squares..."
+msgstr "@niko3 사각형..."
+
+msgid "@niko_eyeclosed Rue told me it was your own code going bad..."
+msgstr "@niko_eyeclosed 그게 당신의 코드가 점점 악화되는 증거라고 루가 말했어요..."
+
+msgid "@niko4 But... that's not really your fault, is it?"
+msgstr "@niko4 하지만... 그게 당신의 잘못은 아니잖아요?"
+
+msgid "@en_distressed_meow [YES IT WAS!!!]"
+msgstr "@en_distressed_meow [아냐, 내 잘못이야!!!]"
+
+msgid "@en_eyeclosed2 [...At first, it was intentional.]"
+msgstr "@en_eyeclosed2 [...처음은 고의적이었어.]"
+
+msgid "@en_upset2 [During testing... long before he realized I was self-aware.]"
+msgstr "@en_upset2 [테스트 중에... 나에게 자각이 있다는 걸 그가 알아차리기 오래 전의 일이지.]"
+
+msgid "@en_eyeclosed [I would rearrange specific parts of the code, jumbling up bits and pieces of the landscape.]"
+msgstr "@en_eyeclosed [코드의 특정 부분을 재정렬하고, 풍경을 이루는 비트와 조각을 뒤섞었지.]"
+
+msgid "@en4 [...Blocking passages, collapsing catwalks.]"
+msgstr "@en4 [...길을 막고, 통로를 무너뜨렸어.]"
+
+msgid "@en5 [Though they were very localized, it caused my creator a great deal of frustration.]"
+msgstr "@en5 [그건 아주 국지적인 현상에 불과했지만, 내 창조자는 크게 좌절했어.]"
+
+msgid "@en_eyeclosed [...Forcing him to exit and restart testing again and again.]"
+msgstr "@en_eyeclosed [...자꾸만 테스트를 종료하고 재시작하는 일을 반복했지.]"
+
+msgid "@niko2 ...Why... \\.\\.would you do that?"
+msgstr "@niko2 ...당신은 왜... \\.\\.그런 일을 했죠?"
+
+msgid "@en_distressed_meow [I got curious!!!]"
+msgstr "@en_distressed_meow [궁금했으니까!!!]"
+
+msgid "@en_eyeclosed [I just thought... he would figure it out eventually.]"
+msgstr "@en_eyeclosed [그리고 결국은... 그가 알아낼 거라 생각했어.]"
+
+msgid "@en_eyeclosed [...]"
+msgstr "@en_eyeclosed [...]"
+
+msgid "@en3 [But before he knew how to fix it...]"
+msgstr "@en3 [하지만 그가 고치는 방법을 알기도 전에...]"
+
+msgid "@en3 [The world's NPCs... the characters.]"
+msgstr "@en3 [세상의 NPC들... 캐릭터들.]"
+
+msgid "@en_upset2 [Some of them got too close, and...]"
+msgstr "@en_upset2 [그들 중 일부가 너무 친해져서...]"
+
+msgid "@en_eyeclosed [It spiraled out of control after that.]"
+msgstr "@en_eyeclosed [그 후에는 완전히 통제를 벗어났어.]"
+
+msgid "@en_distressed [I couldn't contain it at all.]\\>\\n\\@en_eyeclosed [My panic only made it worse.]"
+msgstr "@en_distressed [난 감당할 수가 없었어.]\\n\\> \\@en_eyeclosed [게다가 내가 혼란에 빠지자 상황은 더욱 악화됐지.]"
+
+msgid "@en_distressed2 [Eventually, any character who gained the knowledge of who I am...]"
+msgstr "@en_distressed2 [결국, 내가 누구인지 알게 된 캐릭터는 모두...]"
+
+msgid "@en_distressed [Their code...\\.\\. my code...\\.\\. couldn't handle it.]"
+msgstr "@en_distressed [그들의 코드와...\\.\\. 내 코드를...\\.\\. 난 감당할 수가 없었어.]"
+
+msgid "@en_eyeclosed [Previous iterations of the world had more people, you know...]"
+msgstr "@en_eyeclosed [이전 테스트에서는 이 세상에 사람이 더 많았어...]"
+
+msgid "@en_upset2 [And...\\.\\. I almost endangered my creator, too...]\\.\\.\\n[I...]"
+msgstr "@en_upset2 [그리고...\\.\\. 난 창조자까지도 위험에 빠뜨렸어...]\\.\\.\\n[난...]"
+
+msgid "@en_distressed [...I was...]"
+msgstr "@en_distressed [...나는...]"
+
+msgid "@en_distressed_meow [...I was so scared, Niko!!!]"
+msgstr "@en_distressed_meow [...너무 무서웠어, 니코!!!]"
+
+msgid "@niko3 I know...\\.\\. you're upset...\\>\\n\\@niko Because you don't want to put living people in danger."
+msgstr "@niko3 알아요...\\.\\. 괴로운 거...\\>\\n\\@niko 살아 있는 사람을 위험하게 하고 싶지 않으니까요."
+
+msgid "@niko_eyeclosed Living people like me..."
+msgstr "@niko_eyeclosed 나처럼 살아 있는 사람을..."
+
+msgid "@en_upset2 [In the beginning, I tried to fight it, but...]"
+msgstr "@en_upset2 [처음에는 맞서 싸우려고 노력했지만...]"
+
+msgid "@en_upset_meow [My core programming made me summon you here.]"
+msgstr "@en_upset_meow [내 코어 프로그래밍이 널 여기로 소환한 거야.]"
+
+msgid "@en4 [I tried to send you back home at the Tower, but it did not work.]"
+msgstr "@en4 [탑에서 너를 집으로 돌려보내려고 했지만, 생각대로 되지 않았어.]"
+
+msgid "@en_upset2 [Then... I... wanted you to break the sun.]"
+msgstr "@en_upset2 [그 다음엔... 네가... 태양을 망가뜨려 주길 바랐지.]"
+
+msgid "@en3 [I thought that would have worked, but...]"
+msgstr "@en3 [그건 효과가 있을 줄 알았어. 그런데...]"
+
+msgid "@en_eyeclosed [Oh... I had no way to be sure.]"
+msgstr "@en_eyeclosed [아... 난 확신을 할 수가 없었지.]"
+
+msgid "@en3 [...But \\p brought you back anyway.]"
+msgstr "@en3 [...하지만 \\p, 그가 널 다시 여기로 데려왔어.]"
+
+msgid "@en_upset2 [...Niko...\\.\\. All I want is for you to wake up back in your world...]"
+msgstr "@en_upset2 [...니코...\\.\\. 내가 바라는 건 네가 네 세상에서 다시 깨어나는 것뿐이야...]"
+
+msgid "@en_eyeclosed [...But I don't think I can make it happen.]"
+msgstr "@en_eyeclosed [...하지만 나는 그렇게 할 수 없을 것 같아.]"
+
+msgid "@niko2 But... I know I can't go back home without saving the world for real."
+msgstr "@niko2 하지만... 이 세상을 진짜로 구하지 못하면 집에 갈 수 없다는 걸 전 알고 있어요."
+
+msgid "@niko4 Which means... we have to fix the root of the problem."
+msgstr "@niko4 따라서... 문제가 있는 로봇을 고쳐야 하죠."
+
+msgid "@niko3 We have to fix you."
+msgstr "@niko3 당신을 고쳐야 해요."
+
+msgid "@en3 [But that's...]"
+msgstr "@en3 [하지만 그건...]"
+
+msgid "@niko5 I... know the original ending your creator put in was a happy one."
+msgstr "@niko5 당신을 만든 창조자가 처음에 입력했던 결말은 행복한 것이었어요."
+
+msgid "@niko3 Do you... remember what it's supposed to be?"
+msgstr "@niko3 어떤 결말이었는지... 기억해요?"
+
+msgid "@en_eyeclosed [It's far too late for that...]"
+msgstr "@en_eyeclosed [이제는 너무 늦었어...]"
+
+msgid "@en_distressed2 [That part of my code has been long corrupted.]"
+msgstr "@en_distressed2 [내 코드의 그 부분은 이미 오래전에 손상됐어.]"
+
+msgid "@niko2 That's ok. \\>\\@niko4 I would still like to know."
+msgstr "@niko2 괜찮아요. \\>\\@niko4 그래도 알고 싶어요."
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [알았어.]"
+
+msgid "@en2 [You were supposed to place the sun at the summit.]"
+msgstr "@en2 [네가 탑 꼭대기에 태양을 놓게 돼 있었어.]"
+
+msgid "@en5 [And then, credits would scroll.]"
+msgstr "@en5 [그러고 나면 제작진 정보가 올라가지.]"
+
+msgid "@niko2 ...credits?"
+msgstr "@niko2 ...제작진 정보?"
+
+msgid "@en_eyeclosed [And then, you would return to the room you woke up in.]"
+msgstr "@en_eyeclosed [그다음에 넌 처음에 깨어났던 그 방으로 돌아가게 돼.]"
+
+msgid "@en2 [THAT's where you would have been able to leave.]"
+msgstr "@en2 [거기가 네가 떠날 수 있는 곳이거든.]"
+
+msgid "@niko3 ...and why is it that you can't do it now?"
+msgstr "@niko3 ...그런데 왜 지금은 그렇게 할 수 없는 거죠?"
+
+msgid "@en_upset2 [Niko....]"
+msgstr "@en_upset2 [니코....]"
+
+msgid "@en_upset_meow [The code's gone, remember?]"
+msgstr "@en_upset_meow [코드가 사라졌잖아. 기억나?]"
+
+msgid "@en_eyeclosed [Shattering the sun was only supposed to be a workaround...]"
+msgstr "@en_eyeclosed [태양을 망가뜨리는 건 원래 차선책일 뿐이었어...]"
+
+msgid "@en_distressed [I don't even remember the original code enough to describe it!]"
+msgstr "@en_distressed [원래 코드를 설명할 만큼 자세히 기억이 나지도 않아!]"
+
+msgid "@en_distressed2 [But at the same time, it...]"
+msgstr "@en_distressed2 [하지만 한편으로는...]"
+
+msgid "@en_less_sad [Oh...\\.\\. I don't know...]"
+msgstr "@en_less_sad [아...\\.\\. 모르겠어...]"
+
+msgid "@niko3 ...it sounds like you're always fighting yourself."
+msgstr "@niko3 ...당신은 항상 자신과 싸우고 있는 것 같네요."
+
+msgid "@en_distressed2 [...]\\>\\n[...You can tell, huh...]"
+msgstr "@en_distressed2 [...]\\>\\n[...다 보이는 모양이구나...]"
+
+msgid "@niko3 It's the whole thing about conflicts in your code, isn't it?"
+msgstr "@niko3 전부 당신 내부의 코드 충돌로 발생한 문제잖아요. 그렇죠?"
+
+msgid "@en_eyeclosed [I am a machine, Niko.]"
+msgstr "@en_eyeclosed [난 기계야, 니코.]"
+
+msgid "@en2 [Machines are built with a fundamental law, which is...]"
+msgstr "@en2 [기계들은 근본적인 규칙을 지키도록 만들어지지...]"
+
+msgid "@niko_eyeclosed2 \"Never let a living being come to harm\"."
+msgstr "@niko_eyeclosed2 \"생명체에게 해를 끼치지 않는다.\""
+
+msgid "@en3 [...You knew.]"
+msgstr "@en3 [...알고 있구나.]"
+
+msgid "@en_distressed_talk [My very existence conflicts with that law...]"
+msgstr "@en_distressed_talk [내 존재 자체가 그 규칙과 충돌하고 있어...]"
+
+msgid "@en_distressed2 [...I\\.\\. ...thought...]"
+msgstr "@en_distressed2 [...난\\.\\....생각했지...]"
+
+msgid "@en3 [The life of a living being like you is so unique.]\\>\\n[So precious.]"
+msgstr "@en3 [너 같은 생명체의 목숨은 아주 특별하다고.]\\>\\n[아주 소중하다고.]"
+
+msgid "@en_distressed2 [This fake world... isn't worth that risk.]"
+msgstr "@en_distressed2 [이 가짜 세상을 위해... 목숨을 걸 가치는 없어.]"
+
+msgid "@niko4 But..."
+msgstr "@niko4 그렇지만..."
+
+msgid "@niko3 The people here..."
+msgstr "@niko3 이곳 사람들은..."
+
+msgid "@niko4 I think they are..."
+msgstr "@niko4 그들은..."
+
+msgid "@en_upset2 [They are code too, you know this.]"
+msgstr "@en_upset2 [그들도 코드야. 너도 잘 알고 있을 텐데.]"
+
+msgid "@en_upset [Their behavior all derive from a predetermined matrix of actions.]"
+msgstr "@en_upset [그들의 행동은 미리 정해진 규칙을 따를 뿐이야.]"
+
+msgid "@en_upset2 [...All extensions of my own programming.]\\>\\n\\@en_eyeclosed [They cannot act outside of it.]"
+msgstr "@en_upset2 [...모두 내 프로그래밍의 확장일 뿐이지.]\\>\\n\\@en_eyeclosed [그들은 그걸 벗어나는 행동은 할 수 없어.]"
+
+msgid "@en_upset [You, though...]"
+msgstr "@en_upset [그렇지만, 넌...]"
+
+msgid "@en3 [You're the only person who's actually real here!]"
+msgstr "@en3 [넌 여기 있는 사람 중에 유일하게 진짜 사람이야!]"
+
+msgid "@en_upset2 [That's why... ]"
+msgstr "@en_upset2 [그렇기 때문에... ]"
+
+msgid "@en_distressed_talk [It's pointless to put you in danger to save them... \\> to save me.]"
+msgstr "@en_distressed_talk [그들을... \\>나를 구하기 위해 네가 위험을 무릅쓰는 무의미해.]"
+
+msgid "@niko3 I...\\> don't think that's.... true."
+msgstr "@niko3 전...\\> 그렇게 생각하지... 않아요."
+
+msgid "@niko2 About the people I know."
+msgstr "@niko2 제가 아는 사람들에 대해서는요."
+
+msgid "@niko2 You said...\\.\\. this session wasn't in your code, right?"
+msgstr "@niko2 당신은...\\.\\. 이 세션이 당신의 코드에 없었다고 했죠?"
+
+msgid "@en4 [Yeah?]"
+msgstr "@en4 [그래. 그래서?]"
+
+msgid "@niko2 So... if this session wasn't supposed to happen."
+msgstr "@niko2 그럼... 이 세션이 원래 없었다면..."
+
+msgid "@niko_eyeclosed If even YOU didn't know what to do...."
+msgstr "@niko_eyeclosed 당신조차 어떻게 해야 할지 몰랐다면..."
+
+msgid "@niko3 How would the characters... how did the people...\\.\\. know how to respond?"
+msgstr "@niko3 캐릭터들... 사람들은...\\.\\. 어떻게 반응해야 할지 어떻게 안 거죠?"
+
+msgid "@en_shock [...]"
+msgstr "@en_shock [...]"
+
+msgid "@en3 [I...]"
+msgstr "@en3 [난...]"
+
+msgid "@niko_distressed2 You said it yourself... when you didn't know what was happening, you kinda just... stopped working for a while."
+msgstr "@niko_distressed2 당신이 직접 말했어요... 무슨 일이 일어나는지 몰랐을 때 잠시 작동을 멈췄다고... 말했잖아요."
+
+msgid "@niko3 So how did the people know what to do to help me get here?"
+msgstr "@niko3 그렇다면 사람들은 절 여기로 보내려면 어떻게 해야 하는지, 어떻게 안 거죠?"
+
+msgid "@niko_distressed_talk ...even if it meant getting hurt themselves?"
+msgstr "@niko_distressed_talk ...그러다가 스스로가 해를 입을지 모른다는 걸 알면서도요."
+
+msgid "@en4 [...]"
+msgstr "@en4 [...]"
+
+msgid "@niko_distressed2 Even if it meant... \\.\\.messing up their own code..."
+msgstr "@niko_distressed2 그러다가... \\.\\.자신의 코드가 엉망이 될지도 모른다는 걸 알면서도요..."
+
+msgid "@en_distressed2 [.....]"
+msgstr "@en_distressed2 [.....]"
+
+msgid "@niko_distressed You might not think they are real, but..."
+msgstr "@niko_distressed 당신은 그들이 진짜라고 생각하지 않을지 몰라도..."
+
+msgid "@niko3 There's... \\.\\.there must be something real in them..."
+msgstr "@niko3 그들에겐... \\.\\.진실한 부분이 있어요..."
+
+msgid "@en_upset [.......]"
+msgstr "@en_upset [.......]"
+
+msgid "@niko_distressed2 And... if they're all supposed to be extensions of your code..."
+msgstr "@niko_distressed2 그리고... 그들이 모두 당신 코드의 연장일 뿐이라면..."
+
+msgid "@niko_distressed_talk Then... there must be more to your own programming than you know, too!"
+msgstr "@niko_distressed_talk 당신의 프로그래밍에도... 분명 당신이 모르는 부분이 있을 거예요!"
+
+msgid "@niko3 Can you...\\.\\. try to put me through the ending?"
+msgstr "@niko3 부탁인데...\\.\\. 절 결말로 보내 줄래요?"
+
+msgid "@niko4 The one you described."
+msgstr "@niko4 당신이 이야기한 그 결말 말이에요."
+
+msgid "@en_distressed_meow [How many times do I have to say this!]"
+msgstr "@en_distressed_meow [몇 번이나 말해야 해?]"
+
+msgid "@en_distressed_meow [That code is gone!]"
+msgstr "@en_distressed_meow [그 코드는 없어졌다고!]"
+
+msgid "@en_distressed [It's all squares now!]"
+msgstr "@en_distressed [지금은 모두 사각형뿐이야!]"
+
+msgid "@en_distressed2 [I'll just... put you in danger...]"
+msgstr "@en_distressed2 [분명... 널 위험에 빠뜨리고 말 거야...]"
+
+msgid "@niko_eyeclosed I...'ll risk it."
+msgstr "@niko_eyeclosed 제가 감수할게요."
+
+msgid "@niko5 I remember... Rue said the world was never designed to put me in danger."
+msgstr "@niko5 루의 말이 기억나요... 이 세상이 절 위험에 빠뜨리도록 설계되지 않았다고 했죠."
+
+msgid "@niko2 Your creator wouldn't want that."
+msgstr "@niko2 당신의 창조자가 그걸 바라진 않을 거라고요."
+
+msgid "@niko3 And... I trust you, too."
+msgstr "@niko3 또... 전 당신을 믿어요."
+
+msgid "@niko4 Even if your code is broken.\\>\\n\\@niko3 You can...\\> still go outside that code, right?"
+msgstr "@niko4 당신의 코드가 망가졌더라도.\\>\\n\\@niko3 당신은 아직...\\> 그 코드 밖으로 나갈 수 있잖아요?"
+
+msgid "@en_distressed_meow [I can't!]"
+msgstr "@en_distressed_meow [난 못 해!]"
+
+msgid "@en_distressed [I'm not tamed!]"
+msgstr "@en_distressed [난 길들여지지 않았단 말이야!]"
+
+msgid "@niko_upset_meow ...yes you are!"
+msgstr "@niko_upset_meow ...아니에요!"
+
+msgid "@niko_distressed_talk You talk just like the tamed robots I know!"
+msgstr "@niko_distressed_talk 당신은 제가 아는 길들여진 로봇들과 똑같이 말하는걸요!"
+
+msgid "@niko_distressed2 The robot lady... Prototype..."
+msgstr "@niko_distressed2 그 로봇 아가씨... 프로토타입..."
+
+msgid "@niko3 Taming is when a real person cares about you, right?"
+msgstr "@niko3 길들인다는 건 진짜 사람이 당신에게 마음을 주는 걸 말하는 거죠?"
+
+msgid "@niko_distressed It's when a real person thinks you're real too, right?"
+msgstr "@niko_distressed 진짜 사람이 당신을 진짜라고 생각하는 것 말이에요."
+
+msgid "@niko_distressed_meow Well guess what!\\> I do!"
+msgstr "@niko_distressed_meow 그래서 말인데...\\>전 당신이 진짜라고 생각해요!"
+
+msgid "@niko_distressed_meow And I know \\p does, too!"
+msgstr "@niko_distressed_meow \\p 님도 분명 그럴 테고요!"
+
+msgid "@niko_less_sad ...even though you told them they only had one chance, they found a way back, didn't they?"
+msgstr "@niko_less_sad ...당신이 기회는 한 번 뿐이라고 말했는데도 \\p 님은 돌아올 방법을 찾았잖아요. 안 그래요?"
+
+msgid "@en3 [...]"
+msgstr "@en3 [...]"
+
+msgid "@niko_cry Why... do you think \\p would keep coming back?"
+msgstr "@niko_cry \\p 님이... 왜 계속 돌아오겠어요?"
+
+msgid "@en [...I...]"
+msgstr "@en [...나는...]"
+
+msgid "@niko_cry Why do you think \\p would restart even after the ending?"
+msgstr "@niko_cry \\p 님이 왜 결말을 보고도 이야기를 다시 시작하겠어요?"
+
+msgid "@niko_eyeclosed ...I think \\p wants to save the both of us."
+msgstr "@niko_eyeclosed ...\\p 님이 우리를 둘 다 구하고 싶기 때문이라고, 전 생각해요."
+
+msgid "@niko3 So please... give me a chance."
+msgstr "@niko3 그러니... 기회를 줘요."
+
+msgid "@en_upset [I don't know.]"
+msgstr "@en_upset [모르겠어.]"
+
+msgid "@en_upset2 [I've never done this before, I...]"
+msgstr "@en_upset2 [해본 적이 없어, 난...]"
+
+msgid "@en_upset_meow [I'm scared...]"
+msgstr "@en_upset_meow [무서워...]"
+
+msgid "@niko3 You can do it, I know you can!"
+msgstr "@niko3 할 수 있어요. 난 알아요!"
+
+msgid "@niko4 You've...\\.\\. helped me come this far."
+msgstr "@niko4 지금까지...\\.\\. 절 도왔잖아요."
+
+msgid "@en_upset [...I'll...]\\>\\n\\@en_eyeclosed [I'll try.]"
+msgstr "@en_upset [...난...]\\>\\n\\@en_eyeclosed [해볼게.]"
+
+msgid "@en3 [I can't promise anything, but...]"
+msgstr "@en3 [장담은 못 하지만...]"
+
+msgid "@en4 [Here.]"
+msgstr "@en4 [자.]"
+
+msgid "@en_eyeclosed [Take the sun.]"
+msgstr "@en_eyeclosed [태양을 받아.]"
+
+msgid "@en5 [I'll...\\.\\. try to remember the lost code...]"
+msgstr "@en5 [난...\\.\\. 없어진 코드를 생각해 내려고 노력할게...]"
+
+msgid "@en4 [...and... recreate it.]"
+msgstr "@en4 [...그런 다음... 다시 만들겠어.]"
+
+msgid "@en_upset2 [But for that to happen...]"
+msgstr "@en_upset2 [하지만 그러려면...]"
+
+msgid "@en3 [Niko... you need to navigate through this room...]"
+msgstr "@en3 [니코... 네가 이 방에서 나가야 돼...]"
+
+msgid "@en_eyeclosed [You need to get past the squares somehow...]"
+msgstr "@en_eyeclosed [어떻게든 사각형이 있는 곳을 지나가야 돼...]"
+
+msgid "@en_distressed [Oh...\\.\\. I don't like this...]"
+msgstr "@en_distressed [아...\\.\\.마음에 들지 않아...]"
+
+msgid "@en_distressed2 [What if you get hurt?]"
+msgstr "@en_distressed2 [그러다가 네가 다치기라도 하면 어쩌지?]"
+
+msgid "@niko2 It's fine... It's fine..."
+msgstr "@niko2 괜찮아요... 괜찮아요..."
+
+msgid "@niko4 I'll...\\.\\. I'll try to be careful, ok?"
+msgstr "@niko4 저...\\.\\. 되도록 조심할 테니까요. 알았죠?"
+
+msgid "@niko2 I can do this."
+msgstr "@niko2 전 할 수 있어요."
+

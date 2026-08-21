@@ -1,0 +1,81 @@
+msgid "@niko A stapler."
+msgstr "@niko Una grapadora."
+
+msgid "@niko_speak It's bolted to the table..."
+msgstr "@niko_speak Está atornillada a la mesa."
+
+msgid "[I AM THE POWER ROOM MECHANIC.]"
+msgstr "[YO SOY EL MECÁNICO DE LA SALA DE ENERGÍA.]"
+
+msgid "[DO YOU HAVE AN ISSUE TO REPORT?]"
+msgstr "[¿HAY ALGÚN PROBLEMA DEL QUE QUIERAS INFORMAR?]"
+
+msgid "@niko Do you know anything about an elevator code?"
+msgstr "@niko ¿Sabes algo de un código de ascensor?"
+
+msgid "[ELEVATOR CODE...]"
+msgstr "[CÓDIGO DE ASCENSOR...]"
+
+msgid "[COMMAND NOT RECOGNIZED]"
+msgstr "[COMANDO NO RECONOCIDO]"
+
+msgid "@niko_eyeclosed Well, worth a shot."
+msgstr "@niko_eyeclosed Bueno, tenía que intentarlo."
+
+msgid "@niko Yeah, actually..."
+msgstr "@niko Sí, de hecho..."
+
+msgid "@niko_speak The surface access elevator appears to be broken!"
+msgstr "@niko_speak ¡El ascensor de acceso a la superficie parece estar roto!"
+
+msgid "@niko There's a button missing, and..."
+msgstr "@niko Falta un botón y..."
+
+msgid "@niko_speak Can you go take a look?"
+msgstr "@niko_speak ¿Puedes echarle un vistazo?"
+
+msgid "[...]"
+msgstr "[...]"
+
+msgid "[LEAVING THIS ROOM IS NOT IN MY PROGRAMMING.]"
+msgstr "[MI PROGRAMACIÓN NO CONTEMPLA ABANDONAR ESTA HABITACIÓN.]"
+
+msgid "@niko_eyeclosed Ah, nevermind..."
+msgstr "@niko_eyeclosed Ah, da igual..."
+
+msgid "[I AM ONLY ABLE TO FIX ISSUES IN THIS BUILDING.]"
+msgstr "[SOLO PUEDO ARREGLAR PROBLEMAS EN ESTE EDIFICIO.]"
+
+msgid "[SORRY FOR THE INCONVENIENCE.]"
+msgstr "[LAMENTO LAS MOLESTIAS.]"
+
+msgid "@niko It's okay..."
+msgstr "@niko No pasa nada..."
+
+msgid "$They are just bolted so people won't steal them."
+msgstr "$Están atornilladas para que nadie las robe."
+
+msgid "$Feel free to use, though!"
+msgstr "$¡Aunque se pueden usar!"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko Una especie de ordenador..."
+
+msgid "@niko A tape dispenser."
+msgstr "@niko Cinta adhesiva."
+
+msgid "@niko Oh, of course! I gotta tape it together or it might fall apart."
+msgstr "@niko ¡Ah, claro! Tengo que pegarlo bien o se descuajaringará todo."
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak ¡Bien pensado, \\p!"
+
+msgid "@niko Oh, I could hold it together with tape."
+msgstr "@niko Oh, he podido pegarlo todo bien con cinta adhesiva."
+
+msgid "@niko_eyeclosed I should've done this in the first place..."
+msgstr "@niko_eyeclosed Tendría que haber hecho esto desde el principio..."
+
+msgid "@niko If I cut off a piece of tape to keep it would just lose its stickiness."
+msgstr "@niko Si corto un poco de cinta para guardarla, perderá su adhesividad."
+

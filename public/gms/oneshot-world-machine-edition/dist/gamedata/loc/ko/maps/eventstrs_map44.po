@@ -1,0 +1,54 @@
+msgid "@green_gatekeeper [Good luck.]"
+msgstr "@green_gatekeeper [행운을 빕니다.]"
+
+msgid "@niko_eyeclosed \\p, I'm too tired to go on right now...\\>\\nPlease let me nap for a bit somewhere."
+msgstr "@niko_eyeclosed \\p 님, 너무 피곤해서 쓰러질 것 같아요...\\>\\n부탁이니 좀 자게 해 주세요."
+
+msgid "@niko_eyeclosed I remember seeing a room to the west...\\>\\nIt looked like it might be a good place to take a rest."
+msgstr "@niko_eyeclosed 서쪽에서 방을 본 기억이 나요...\\>\\n잠시 쉬기 좋은 곳이었어요."
+
+msgid "@niko_speak I found a pen! \\.\\.\\@niko Sort of."
+msgstr "@niko_speak 펜을 찾았어요! \\.\\.\\@niko 펜은 아니지만 비슷해요."
+
+msgid "@green_gatekeeper [Good.\\nPlease write your name here.]"
+msgstr "@green_gatekeeper [좋습니다.\\n여기에 이름을 적어 주세요.]"
+
+msgid "@green_gatekeeper [Indeed You Do.]\\>\\n[But Are You Not Forgetting Something?]"
+msgstr "@green_gatekeeper [그렇군요.]\\>\\n[그런데, 뭔가 잊어버린 건 없습니까?]"
+
+msgid "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak Oh, the sun!"
+msgstr "@niko_eyeclosed .\\..\\..\\.\\>\\n\\@niko_speak 앗, 태양!"
+
+msgid "@green_gatekeeper [Have You Found Something To Write With?]"
+msgstr "@green_gatekeeper [필기도구는 찾으셨나요?]"
+
+msgid "@green_gatekeeper [The Sun...\\.\\. You're The Messiah!]"
+msgstr "@green_gatekeeper [그 태양은...\\.\\. 당신은 구원자로군요!]"
+
+msgid "@green_gatekeeper [Are you on your way to the Tower?]"
+msgstr "@green_gatekeeper [탑으로 가는 중이십니까?]"
+
+msgid "@green_gatekeeper [I saw you carrying the sun earlier.\\nYou're the messiah, then?\\nOn your way to the Tower?]"
+msgstr "@green_gatekeeper [전에 태양을 들고 가는 걸 봤습니다.\\n그럼, 당신이 구원자인가요?\\n탑으로 가는 중입니까?]"
+
+msgid "@niko Mhm."
+msgstr "@niko 네."
+
+msgid "@green_gatekeeper [You can enter the Refuge through this wall.\\nYou'll need to sign your name in this scroll first.]"
+msgstr "@green_gatekeeper [이 벽을 지나면 난민 지구로 갈 수 있습니다.\\n하지만 먼저 이 두루마리에 서명을 해야 합니다.]"
+
+msgid "@niko Alright.\\.\\.\\n.\\..\\..Do you have a pen?"
+msgstr "@niko 알았어요.\\.\\.\\n.\\..\\..혹시 펜 있으세요?"
+
+msgid "@green_gatekeeper [Umm.\\..\\..]"
+msgstr "@green_gatekeeper [으음.\\..\\..]"
+
+msgid "@green_gatekeeper [...No.\\.\\. I've lost mine.]"
+msgstr "@green_gatekeeper [...아니요.\\.\\. 아무래도 잃어버린 것 같군요.]"
+
+msgid "@green_gatekeeper [Perhaps you should look around the Glen for another.]"
+msgstr "@green_gatekeeper [협곡에서 한번 찾아보십시오.]"
+
+msgid "@niko_eyeclosed The doorway is full of vines, \\p..."
+msgstr "@niko_eyeclosed 출입구에 덩굴이 가득해요, \\p 님..."
+

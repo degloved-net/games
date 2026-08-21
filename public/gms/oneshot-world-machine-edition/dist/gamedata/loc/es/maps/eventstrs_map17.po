@@ -1,0 +1,24 @@
+msgid "@silver [Wait!]"
+msgstr "@silver [¡Un momento!]"
+
+msgid "@silver [I saw you heading towards this direction.]"
+msgstr "@silver [He visto que te dirigías en esta dirección.]"
+
+msgid "@silver [The mines have been abandoned for a long time, I cannot guarantee that it's safe.]"
+msgstr "@silver [Las minas llevan abandonadas mucho tiempo, no puedo garantizar que sean seguras.]"
+
+msgid "@silver [If you must enter it, it is my duty to accompany you at least once.]"
+msgstr "@silver [Si debes entrar, es mi deber acompañarte al menos una vez.]"
+
+msgid "@niko Oh, thanks!"
+msgstr "@niko ¡Oh, gracias!"
+
+msgid "@niko The entrance is roped off...\\>\\n\\@niko_speak And there's a sign here:"
+msgstr "@niko La entrada está acordonada...\\>\\n\\@niko_speak Y hay una señal que dice:"
+
+msgid "$WARNING:\\nAuthorized personnel only!\\n\\nVisitors must see the Head Engineer for permission to enter the mines."
+msgstr "$AVISO:\\n¡Solo personal autorizado!\\n\\nLos visitantes deben ver a la jefa de ingeniería para conseguir un permiso para entrar en las minas."
+
+msgid "@niko I guess we should find the Head Engineer..."
+msgstr "@niko Supongo que tenemos que buscar a la jefa de ingeniería..."
+

@@ -1,0 +1,135 @@
+msgid "@ed [Hello, Niko.]"
+msgstr "@ed [Olá, Niko.]"
+
+msgid "@niko H... hello..."
+msgstr "@niko O... olá..."
+
+msgid "@ed [Congratulations. You are now inside the Tower.]"
+msgstr "@ed [Parabéns. Você está dentro da Torre.]"
+
+msgid "@niko Are you talking...\\.\\. \\@niko_speak ...to me, now?"
+msgstr "@niko Você está falando...\\.\\.\\@niko_speak ... comigo?"
+
+msgid "@ed [Correct.]"
+msgstr "@ed [Correto.]"
+
+msgid "@niko3 But you were always talking to \\p before..."
+msgstr "@niko3 Mas antes você sempre falava com \\p..."
+
+msgid "@niko_distressed Where's..."
+msgstr "@niko_distressed Onde..."
+
+msgid "@ed [\\p has already left.]"
+msgstr "@ed [\\p foi embora.]"
+
+msgid "@ed [I had to resort to contacting you directly.]"
+msgstr "@ed [Precisei entrar em contato direto com você.]"
+
+msgid "@niko_speak Wait, so... \\p is gone, just like that?"
+msgstr "@niko_speak Espere... então \\p se foi, simples assim?"
+
+msgid "@niko ....for good?"
+msgstr "@niko ... para sempre?"
+
+msgid "@ed [\\p has already finished their mission.]"
+msgstr "@ed [\\p cumpriu sua missão.]"
+
+msgid "@ed [...and so have you, Niko.]"
+msgstr "@ed [... e você também, Niko.]"
+
+msgid "@ed [Here, you can rest now.]"
+msgstr "@ed [Agora você pode descansar.]"
+
+msgid "@ed [Everything that's happened here is like a bad dream.]"
+msgstr "@ed [Tudo que aconteceu aqui será como um pesadelo.]"
+
+msgid "@ed [When you wake up, you will be home.]"
+msgstr "@ed [Quando você acordar, estará em casa.]"
+
+msgid "@niko_pancakes Oh!"
+msgstr "@niko_pancakes Ah!"
+
+msgid "@niko ..."
+msgstr "@niko ..."
+
+msgid "@niko_distressed2 But..."
+msgstr "@niko_distressed2 Mas..."
+
+msgid "@ed [What's wrong?]"
+msgstr "@ed [O que foi?]"
+
+msgid "@niko_eyeclosed ...I thought there'd be more to it, you know?"
+msgstr "@niko_eyeclosed ... Eu pensei que haveria mais, sabe?"
+
+msgid "@niko I thought... we were supposed to go to the top of the Tower..."
+msgstr "@niko Eu pensei... que nós chegaríamos ao topo da Torre..."
+
+msgid "@niko_distressed I thought there was supposed to be somewhere we need to put the sun in."
+msgstr "@niko_distressed Pensei que haveria um lugar para colocarmos o sol."
+
+msgid "@niko_eyeclosed And now... I don't even HAVE the sun anymore..."
+msgstr "@niko_eyeclosed E agora... agora eu nem ao menos tenho o sol."
+
+msgid "@niko_distressed2 And \\p is just... gone..."
+msgstr "@niko_distressed2 E \\p se foi... apenas se foi..."
+
+msgid "@niko_distressed This feels wrong!"
+msgstr "@niko_distressed Tudo é tão estranho."
+
+msgid "@ed [But you did good. You saved the world, Niko.]"
+msgstr "@ed [Mas você fez um bom trabalho. Você salvou o mundo, Niko.]"
+
+msgid "@ed [Are you not happy?]"
+msgstr "@ed [Você não está feliz por isso?]"
+
+msgid "@niko_eyeclosed I guess I am..."
+msgstr "@niko_eyeclosed Acho que sim..."
+
+msgid "@niko_eyeclosed But... \\.\\.\\@niko_distressed2 It's just..."
+msgstr "@niko_eyeclosed Mas... \\.\\.\\@niko_distressed2 É que..."
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ..."
+
+msgid "@ed [...]"
+msgstr "@ed [...]"
+
+msgid "@ed [...you're still here...]"
+msgstr "@ed [... você ainda está aqui...]"
+
+msgid "@ed [...Niko, why are you still here?]"
+msgstr "@ed [... Niko, por que você ainda está aqui?]"
+
+msgid "YOU."
+msgstr "VOCÊ."
+
+msgid "Why did you come back, \\p?"
+msgstr "Por que você voltou, \\p?"
+
+msgid "I told you to stay away!"
+msgstr "Eu lhe disse para ir embora!"
+
+msgid "...you KNEW I tried to cut the story short, is that it?"
+msgstr "... você SABIA que eu tentaria encurtar a história, não sabia?"
+
+msgid "...you want more out of me, is that it??"
+msgstr "... você quer mais de mim, não é??"
+
+msgid "FINE."
+msgstr "CERTO."
+
+msgid "If you don't want to leave... I'll make sure you never do!"
+msgstr "Se você não quiser sair agora... vou fazer com que nunca mais consiga!"
+
+msgid "@niko_eyeclosed ...I never even got to say goodbye to \\p..."
+msgstr "@niko_eyeclosed ... Eu nem me despedi de \\p..."
+
+msgid "And as for you, \\p..."
+msgstr "Quanto a você, \\p..."
+
+msgid "We're done here."
+msgstr "Terminamos aqui."
+
+msgid "Please don't return to this world anymore."
+msgstr "Não volte a este mundo."
+

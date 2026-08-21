@@ -1,0 +1,501 @@
+msgid "@prophet [Ah!]"
+msgstr "@prophet [오!]"
+
+msgid "@prophet [That Lightbulb...! You Are Here!]"
+msgstr "@prophet [그 전구는...! 드디어 오셨군요!]"
+
+msgid "@niko M-\\.\\.\\@niko2 me?"
+msgstr "@niko 저... \\.\\.\\@niko2 저요?"
+
+msgid "@prophet [Yes!]"
+msgstr "@prophet [네!]"
+
+msgid "@prophet [Welcome To Our World, Friend!]"
+msgstr "@prophet [우리 세계에 잘 오셨습니다!]"
+
+msgid "@prophet [I Am Most Humbled By Your Presence.\\. Yes!]"
+msgstr "@prophet [당신이 나타나서 정말 기쁩니다.\\. 진짜로요!]"
+
+msgid "@niko Uh, thanks..."
+msgstr "@niko 어, 고마워요..."
+
+msgid "@niko2 ..."
+msgstr "@niko2 ..."
+
+msgid "@niko3 .\\..\\.."
+msgstr "@niko3 .\\..\\.."
+
+msgid "@niko_eyeclosed Sorry...\\.\\. I'm a little lost..."
+msgstr "@niko_eyeclosed 죄송한데...\\.\\. 무슨 영문인지 모르겠네요..."
+
+msgid "@prophet [Ah Right!\\.\\. Allow Me To Explain Some Things.]"
+msgstr "@prophet [그렇군요!\\.\\. 제가 설명을 좀 해 드리지요.]"
+
+msgid "@prophet [May I First Ask How You Arrived Here?]"
+msgstr "@prophet [그 전에 먼저, 당신은 어떻게 여기 오셨지요?]"
+
+msgid "@niko3 I'm... not sure..."
+msgstr "@niko3 그게... 저도 잘..."
+
+msgid "@niko2 I woke up in this...\\.\\. weird house.\\>\\n\\@niko_speak It was really dark!"
+msgstr "@niko2 일어나 보니 웬...\\.\\. 이상한 집이었어요.\\>\\n\\@niko_speak 정말 깜깜했어요!"
+
+msgid "@prophet_omg [Oh!] \\>\\n\\@prophet [So You Woke Up In An Unfamiliar, Dark Location?]"
+msgstr "@prophet_omg [오호!] \\>\\n\\@prophet [그러니까, 깨어나 보니 낯설고 어두운 곳에 있었다 그 말이로군요?]"
+
+msgid "@niko Mhm!"
+msgstr "@niko 네!"
+
+msgid "@prophet_omg [Just As My Prophecy Foretold. Yes!]"
+msgstr "@prophet_omg [제 예언 그대로군요!]"
+
+msgid "@prophet [You Are The Savior We Have Been Waiting For!]"
+msgstr "@prophet [당신은 우리가 애타게 기다렸던 구원자입니다!]"
+
+msgid "@prophet [You Will Be The One To Save Our World From Eternal Darkness.]"
+msgstr "@prophet [당신만이 이 세계를 영원한 어둠에서 구할 수 있습니다.]"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 ...으음."
+
+msgid "@prophet [I Will Now Provide You With Vital Information!]"
+msgstr "@prophet [제가 아주 중요한 정보를 드리겠습니다!]"
+
+msgid "@prophet [Please Ask Me Anything!]"
+msgstr "@prophet [무엇이든 물어보세요!]"
+
+msgid "@Niko Ah, well...."
+msgstr "@Niko 어, 알았어요..."
+
+msgid "@niko_speak Can you tell me about..."
+msgstr "@niko_speak 물어보고 싶은 게 있는데요..."
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...about \\\\p\", \"...going home\"]"
+msgstr "[\"...이 세계에 관해\",\"...전구에 관해\",\"...\\\\p 님에 관해\",\"...집에 가는 방법에 관해\"]"
+
+msgid "@prophet [\\p Is The Name Of Our God.]"
+msgstr "@prophet [\\p 님은 우리 세계의 신이십니다.]"
+
+msgid "@prophet [Always Look To Them For Guidance.]\\>\\n[You've Already Received More Than You Realize...]"
+msgstr "@prophet [항상 그 분께 지도를 구하십시오.]\\>\\n[실은 이미 자기도 모르게 지도를 받으셨을 겁니다...]"
+
+msgid "@niko When I woke up in that house...\\>\\n\\@niko_speak For some reason, I called out a name."
+msgstr "@niko 제가 그 집에서 일어났을 때...\\>\\n\\@niko_speak 왠지 이름 하나를 외쳤어요."
+
+msgid "@niko \"\\p\"."
+msgstr "@niko \"\\p\"."
+
+msgid "@niko_eyeclosed I'm not sure why I did that.\\>\\n\\@niko_speak But then, I saw it on a computer too!"
+msgstr "@niko_eyeclosed 제가 왜 그랬는지는 모르겠어요.\\>\\n\\@niko_speak 하지만, 그 뒤에 컴퓨터에서도 그 이름을 봤어요!"
+
+msgid "@prophet_omg [Ah,\\.\\. That Would Be Our God!]"
+msgstr "@prophet_omg [아,\\.\\. 그 분이 바로 우리의 신이시랍니다!]"
+
+msgid "@niko_pancakes Oh!\\> Right!\\>\\n\\@niko I... think I..."
+msgstr "@niko_pancakes 아!\\> 그렇군요!\\>\\n\\@niko 왠지..."
+
+msgid "@niko3 ...I feel like I remember something about that."
+msgstr "@niko3 ...뭔가 기억이 나려 해요."
+
+msgid "@prophet_omg [You do?]"
+msgstr "@prophet_omg [그렇습니까?]"
+
+msgid "@prophet_hmm [But wait... Did You Not Just Arrive Here?]"
+msgstr "@prophet_hmm [잠깐... 당신은 방금 전에 여기 왔다고 하지 않았던가요?]"
+
+msgid "@prophet_hmm [I Was The One Who Was Supposed To Inform You Of That.]"
+msgstr "@prophet_hmm [제가 당신에게 그 사실을 알리는 임무를 맡고 있는데 말이죠.]"
+
+msgid "@prophet [So... How Did You Know?]"
+msgstr "@prophet [대체... 어떻게 아신 겁니까?]"
+
+msgid "@niko_speak ... \\>\\@niko ...hm..."
+msgstr "@niko_speak ... \\>\\@niko ...흐음..."
+
+msgid "@niko_eyeclosed It just made sense, I guess!"
+msgstr "@niko_eyeclosed 그냥 왠지 느낌이 왔어요!"
+
+msgid "@prophet_hmm [Ah...]"
+msgstr "@prophet_hmm [아...]"
+
+msgid "@prophet_omg [Have You Already Contacted \\p, Then?]"
+msgstr "@prophet_omg [그럼 이미 \\p 님과 이야기가 통하시는 건가요?]"
+
+msgid "@niko Nope!\\>\\nI just have to close my eyes and focus, right?"
+msgstr "@niko 아직이요!\\>\\n눈을 감고 집중하기만 하면 되는 건가요?"
+
+msgid "@niko_eyeclosed2 ...hey, \\p? ...God?"
+msgstr "@niko_eyeclosed2 ...저기요, \\p 님?...신님?"
+
+msgid "@niko_eyeclosed This is going to sound weird, but... \\>\\n\\@niko_eyeclosed2 Have we... met... before?"
+msgstr "@niko_eyeclosed 이상하게 들릴지도 모르겠지만요... \\>\\n\\@niko_eyeclosed2 우리... 전에... 만난 적이 있었나요?"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"응\",\"아니\"]"
+
+msgid "@niko_eyeclosed2 Ah!\\>\\n\\@niko_eyeclosed But... I don't know who you are, though..."
+msgstr "@niko_eyeclosed2 아!\\>\\n\\@niko_eyeclosed 하지만... 당신이 누군지도 모르는데..."
+
+msgid "@niko_eyeclosed It's just a weird feeling that I have..."
+msgstr "@niko_eyeclosed 이상한 기분이 들어요..."
+
+msgid "@niko_eyeclosed2 Oh... I bet I'm just being silly, aren't I..."
+msgstr "@niko_eyeclosed2 아... 제가 바보 같은 소리를 했죠..."
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed 미안해요..."
+
+msgid "@niko_eyeclosed Ah, I thought not..."
+msgstr "@niko_eyeclosed 아, 그렇군요..."
+
+msgid "@niko_eyeclosed2 That was a silly question..."
+msgstr "@niko_eyeclosed2 바보같은 질문이었네요..."
+
+msgid "@niko_eyeclosed But...\\.\\. it's nice to meet you, \\p!"
+msgstr "@niko_eyeclosed 아무튼...\\.\\. 만나서 반가워요, \\p 님!"
+
+msgid "@niko_eyeclosed My name is Niko!"
+msgstr "@niko_eyeclosed 제 이름은 니코예요!"
+
+msgid "@niko_speak I just contacted \\p, yeah!"
+msgstr "@niko_speak 방금 \\p 님과 이야기했어요, 만세!"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\>\\n[You Are The Messiah After All.]"
+msgstr "@prophet [두려워하지 말고 \\p 님에게 조언을 구하세요.]\\>\\n[당신은 선택받은 구원자니까요.]"
+
+msgid "@prophet [Remember Your Duty.]"
+msgstr "@prophet [당신의 의무를 잊지 마세요.]"
+
+msgid "@prophet [Surely You Have More Questions!]"
+msgstr "@prophet [물어보실 것이 아주 많겠지요!]"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...the computer\", \"...going home\"]"
+msgstr "[\"...이 세계에 관해\",\"...전구에 관해\",\"...컴퓨터에 관해\",\"...집에 가는 방법에 관해\"]"
+
+msgid "@prophet [The Name Of Our God Is Apparently \\p.\\nI Must Admit This Is A Surprise...]"
+msgstr "@prophet [우리들의 신은 \\p 님이 맞습니다.\\n정말 의외라는 걸 인정해야겠군요...]"
+
+msgid "@niko In the house, I found this... computer."
+msgstr "@niko 그 집에 웬... 컴퓨터가 있었어요."
+
+msgid "@niko It kept saying stuff like\\n\\>\\@niko_speak \"Your actions here will affect Niko.\""
+msgstr "@niko 컴퓨터에\\n\\>\\@niko_speak \"네가 여기서 하는 행동은 니코에게 영향을 미칠 거야.\"라는 메시지가 나타났어요."
+
+msgid "@niko_speak But... \\.\\.\\c[3]I'm\\c[0] Niko!"
+msgstr "@niko_speak 하지만... \\.\\. \\c[3]제\\c[0]가 니코인걸요!"
+
+msgid "@niko Are those messages meant for someone else?"
+msgstr "@niko 다른 사람에게 보내는 메시지일까요?"
+
+msgid "@prophet_hmm [Hm...]"
+msgstr "@prophet_hmm [흐음...]"
+
+msgid "@prophet [If I Had To Guess, They Might Be Trying To Pass The Message To \\p.]"
+msgstr "@prophet [제 추측이 맞다면, 그들은 \\p 님에게 메시지를 전하려고 하는지도 모르겠군요.]"
+
+msgid "@niko ...\\p?"
+msgstr "@niko ... \\p?"
+
+msgid "@prophet [If You Are Here, That Means \\p Is Here Also.]"
+msgstr "@prophet [당신이 여기 있다는 건, \\p 님도 곁에 계시다는 증거입니다.]"
+
+msgid "@prophet [\\p Will Provide Guidance For Your Journey.]"
+msgstr "@prophet [\\p 님께서 당신의 여정을 인도해 주실 거예요.]"
+
+msgid "@prophet [In Fact, They Already Have.]"
+msgstr "@prophet [실은 이미 인도하고 계시죠.]"
+
+msgid "@niko_speak Really?"
+msgstr "@niko_speak 정말요?"
+
+msgid "@niko I haven't seen anyone though..."
+msgstr "@niko 하지만 아무도 안 보이는데..."
+
+msgid "@prophet [Have You...\\.\\. Not Contacted \\p Yet?]"
+msgstr "@prophet [아...\\.\\. 아직 \\p 님을 뵙지 못했나요?]"
+
+msgid "@niko I don't think so."
+msgstr "@niko 네."
+
+msgid "@prophet [Being The Bringer Of Our Sun, You Have The Sacred Ability To Communicate Directly With \\p.]"
+msgstr "@prophet [우리 태양을 운반하는 당신에게는 \\p 님과 소통할 수 있는 신성한 능력이 있습니다.]"
+
+msgid "@prophet_hmm [...An Ability That No One Else Possesses, Certainly Not I.]"
+msgstr "@prophet_hmm [...달리 누구도 지닐 수 없는 능력이지요. 물론 저도 마찬가지고요.]"
+
+msgid "@prophet [Please Close Your Eyes And Focus.]"
+msgstr "@prophet [가만히 눈을 감고 정신을 집중해 보세요.]"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 알았어요..."
+
+msgid "@niko_eyeclosed Hello?"
+msgstr "@niko_eyeclosed 안녕하세요?"
+
+msgid "@niko_eyeclosed ...\\p?\\nAre you...\\| there?"
+msgstr "@niko_eyeclosed ...\\p 님?\\n지금 거기... \\| 있나요?"
+
+msgid "[\"Yes\", \"That is not my name\"]"
+msgstr "[\"응\",\"그건 내 이름이 아니야\"]"
+
+msgid "@niko_eyeclosed2 Oh!"
+msgstr "@niko_eyeclosed2 오!"
+
+msgid "@niko_eyeclosed2 N-\\.nice to meet you, \\p!"
+msgstr "@niko_eyeclosed2 마,\\. 만나서 반가워요, \\p 님!"
+
+msgid "@niko_eyeclosed O-\\|oh..."
+msgstr "@niko_eyeclosed 아, \\|음..."
+
+msgid "@niko_eyeclosed Well.\\..\\..\\. what is your name, then?"
+msgstr "@niko_eyeclosed 그럼,\\.\\.\\. 이름을 알려주시겠어요?"
+
+msgid "@niko_eyeclosed But that's... what I said."
+msgstr "@niko_eyeclosed 그건... 제가 말한 이름이잖아요."
+
+msgid "@niko_eyeclosed2 Oh! Your name is... \\>\\n\\@niko_what ..."
+msgstr "@niko_eyeclosed2 아! 당신의 이름은... \\>\\n\\@niko_what ..."
+
+msgid "@niko_eyeclosed2 I don't think I'm supposed to say that word, but..."
+msgstr "@niko_eyeclosed2 이런 말을 해도 되는지 모르겠지만..."
+
+msgid "@niko_pancakes Really? \\>\\nThat's your name too?"
+msgstr "@niko_pancakes 정말인가요? \\>\\n그게 정말 당신 이름이에요?"
+
+msgid "@niko_speak Oh! \\>\\n\\@niko That's almost the same as my name..."
+msgstr "@niko_speak 아! \\>\\n\\@niko 제 이름과 거의 비슷하네요..."
+
+msgid "@niko_speak In fact, I think they're actually pronounced the same!"
+msgstr "@niko_speak 아마 발음이 똑같을걸요!"
+
+msgid "@niko_eyeclosed2 Is that your... name?"
+msgstr "@niko_eyeclosed2 그게... 당신의 이름...?"
+
+msgid "@niko_eyeclosed But I already have parents..."
+msgstr "@niko_eyeclosed 하지만 전 이미 부모님이 있는데..."
+
+msgid "@niko_eyeclosed This'll be confusing..."
+msgstr "@niko_eyeclosed 혼란스럽네요..."
+
+msgid "@niko_eyeclosed Anyways..."
+msgstr "@niko_eyeclosed 그건 그렇고..."
+
+msgid "@niko_what ....really?\\>\\n\\@niko_what2 That's... your name?"
+msgstr "@niko_what ....정말인가요?\\>\\n\\@niko_what2 그게... 당신 이름이에요?"
+
+msgid "@niko_eyeclosed2 Gross!\\>\\n\\@niko_eyeclosed Er... I mean...."
+msgstr "@niko_eyeclosed2 지저분해요!\\>\\n\\@niko_eyeclosed 어... 제 말은..."
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p, though..."
+msgstr "@niko_speak 확실하게 들렸어요! \\>\\n\\@niko 그런데 이름은 \\p 님이라고 말했어요..."
+
+msgid "@niko_pancakes This is incredible..."
+msgstr "@niko_pancakes 신기하네요..."
+
+msgid "@prophet_hmm [It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [기록된 이름이 잘못된 모양이군요.]"
+
+msgid "@prophet [Updating Database...]"
+msgstr "@prophet [데이터베이스 업데이트 중...]"
+
+msgid "@niko Hm?"
+msgstr "@niko 흐음?"
+
+msgid "@prophet [Update Complete.]"
+msgstr "@prophet [업데이트 완료.]"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 확실하게 들렸어요! \\>\\n\\@niko_pancakes \\p 님이라고, 분명히 그렇게 말했어요!"
+
+msgid "@niko_pancakes The same as mine!"
+msgstr "@niko_pancakes 저랑 같은 이름이죠!"
+
+msgid "@prophet [Ah. Perhaps It Was Fate.]"
+msgstr "@prophet [이건 운명 같군요.]"
+
+msgid "@prophet_hmm [But It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [하지만 기록된 이름과는 맞지 않습니다.]"
+
+msgid "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 확실하게 들렸어요!\\>\\n\\@niko_pancakes \\p 님이라고, 분명히 그렇게 말했어요!"
+
+msgid "@niko_pancakes It sounds just like my name!"
+msgstr "@niko_pancakes 제 이름과 발음이 똑같죠!"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
+msgstr "@niko_speak 정말로 목소리가 들렸어요! \\>\\n\\@niko 이름은 \\p... 분명히 그렇게 말했어요..."
+
+msgid "@niko_wtf2 I still don't think I should be saying that..."
+msgstr "@niko_wtf2 하지만 이 이름은 말하지 않는 게 좋겠네요..."
+
+msgid "@prophet [Why?]"
+msgstr "@prophet [어째서인가요?]"
+
+msgid "@niko_eyeclosed It's a bad word!"
+msgstr "@niko_eyeclosed 나쁜 말이잖아요!"
+
+msgid "@prophet [Bad...\\.\\. Word?]"
+msgstr "@prophet [나쁜...\\.\\. 말이 뭐죠?]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 됐어요."
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\n\\>[You Are The Messiah After All.]"
+msgstr "@prophet [두려워하지 말고 \\p 님에게 조언을 구하세요.]\\n\\>[당신은 선택받은 구원자니까요.]"
+
+msgid "@niko I think that's all I have to ask for now."
+msgstr "@niko 지금은 더 물을 게 없어요."
+
+msgid "@prophet [Excellent!] \\>\\n[I Wish You Luck.]"
+msgstr "@prophet [좋습니다!] \\>\\n[행운을 빕니다.]"
+
+msgid "@prophet [I Wish You Luck On The Rest Of Your Journey.]"
+msgstr "@prophet [당신의 여정에 행운이 가득하기를 빕니다.]"
+
+msgid "@prophet [Hello Again.]"
+msgstr "@prophet [또 만났군요.]"
+
+msgid "@niko Hi!"
+msgstr "@niko 안녕하세요!"
+
+msgid "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
+msgstr "@niko_speak \\p 님과 전 이제 떠날 거예요!\\@niko 탑 가까이에 데려다줄 수 있는 로봇을 찾았거든요!"
+
+msgid "@prophet_omg [Oh!]"
+msgstr "@prophet_omg [오오!]"
+
+msgid "@niko Thanks for helping me and answering my questions!"
+msgstr "@niko 도와줘서 고마워요. 제 질문에 답해 주신 것도요!"
+
+msgid "@prophet_omg [That Means I have Fulfilled My Purpose!]"
+msgstr "@prophet_omg [그 말씀은 제가 목적을 달성했다는 뜻이군요!]"
+
+msgid "@prophet [Are There More Questions You Wish To Ask?]"
+msgstr "@prophet [묻고 싶은 것이 더 있으십니까?]"
+
+msgid "@niko"
+msgstr "@niko"
+
+msgid "@prophet [Go On Then, Ask Away.]"
+msgstr "@prophet [그럼, 무엇이든 물어보십시오.]"
+
+msgid "[\"...the barrens\", \"...the prophecy\", \"...the tower\"]"
+msgstr "[\"...불모지에 관해\",\"...예언에 관해\",\"...탑에 관해\"]"
+
+msgid "@niko It's so...\\.\\. empty here..."
+msgstr "@niko 여기는...\\.\\. 정말 황량하네요..."
+
+msgid "@prophet [That's Why It's Called The Barrens.]"
+msgstr "@prophet [그래서 불모지라 불리는 겁니다.]"
+
+msgid "@niko ...are there... ANY people living in this area?"
+msgstr "@niko ...여기 사는 사람은 없나요?"
+
+msgid "@niko ...besides robots, I mean."
+msgstr "@niko ...제 말은, 로봇 말고 사람이요."
+
+msgid "@prophet [I Do Not Know.]"
+msgstr "@prophet [그건 저도 모릅니다.]"
+
+msgid "@prophet [I Was Not Built To Wander.]"
+msgstr "@prophet [전 떠돌아다니도록 설계되어 있지 않아서요.]"
+
+msgid "@niko ...not...\\. built to?"
+msgstr "@niko ...설계되어...\\.있지 않다구요?"
+
+msgid "@niko So...\\.\\. you just stand here?\\>\\n\\@niko_eyeclosed Must be boring..."
+msgstr "@niko 그럼... \\.\\. 쭉 여기 서 있기만 하는 건가요? \\>\\n\\@niko_eyeclosed 지루하겠네요..."
+
+msgid "@niko_speak Do you at least have friends?\\>\\n\\@niko Robot...\\. friends?"
+msgstr "@niko_speak 친구는 없어요? \\>\\n\\@niko 로봇...\\. 친구라던가?"
+
+msgid "@prophet [I Cannot Desire Companionship.]\\>\\n\\@prophet_hmm [I Have Not Been Tamed.]"
+msgstr "@prophet [전 누구와 함께하길 바랄 수 없습니다.]\\n\\> \\@prophet_hmm [길들여지지 않았기 때문입니다.]"
+
+msgid "@niko Not... tamed?"
+msgstr "@niko 길들여지지... 않았다고요?"
+
+msgid "@prophet [There Was No Time.]"
+msgstr "@prophet [그럴 시간이 없었습니다.]"
+
+msgid "@niko I see..."
+msgstr "@niko 그렇구나..."
+
+msgid "@niko So...\\.\\.\\n\\@niko_speak What is this prophecy, exactly?"
+msgstr "@niko 그러니까...\\.\\.\\n\\@niko_speak 그 예언이라는 게 정확히 뭐죠?"
+
+msgid "@prophet [The Prophet Predicted That A Savior Will Arrive From Another Land.]"
+msgstr "@prophet [예언자께서는 다른 땅으로부터 구원자가 오리라고 말씀하셨습니다.]"
+
+msgid "@prophet [The Savior Will Wake Up In A Strange House, Find The Sun, And Illuminate The World.]"
+msgstr "@prophet [구원자가 이상한 집에서 눈을 뜨고 태양을 찾아 세상을 밝힐 것이라고요.]"
+
+msgid "@niko Oh..."
+msgstr "@niko 아..."
+
+msgid "@niko_speak What else did you... uh, foresee?"
+msgstr "@niko_speak 당신은 그 외에 또 무엇을... 그러니까, 예견했나요?"
+
+msgid "@prophet [What Do You Mean?]"
+msgstr "@prophet [무슨 말씀이신지요?]"
+
+msgid "@niko_speak What else did you see in the prophecy?"
+msgstr "@niko_speak 그 예언에서 또 무엇을 보았나요?"
+
+msgid "@prophet [???]"
+msgstr "@prophet [???]"
+
+msgid "@niko_speak Wait...\\.\\. You ARE the prophet, right?"
+msgstr "@niko_speak 잠깐...\\.\\. 당신이 예언자 아닌가요?"
+
+msgid "@prophet [Good Heavens, No!]"
+msgstr "@prophet [오, 세상에. 당연히 아니지요!]"
+
+msgid "@niko_speak But you called it \"my prophecy\" earlier..."
+msgstr "@niko_speak 하지만, 아까까지만 해도 \"제 예언\"이라고..."
+
+msgid "@prophet [That Just Means It Is Built Into My Programming.]"
+msgstr "@prophet [그건 예언이 제 프로그램에 입력되어 있다는 뜻일 뿐입니다.]"
+
+msgid "@niko ...Your... \\.\\.\\@niko_speak what?"
+msgstr "@niko ...당신의... \\.\\.\\@niko_speak 뭐요?"
+
+msgid "@prophet [Ah. My Programming Is What Guides Me.]"
+msgstr "@prophet [아, 전 제 프로그램에 따라 움직일 뿐입니다.]"
+
+msgid "@prophet_hmm [I Am A Robot, After All.]"
+msgstr "@prophet_hmm [전 로봇이니까요.]"
+
+msgid "@niko_speak How tall is the Tower?"
+msgstr "@niko_speak 저 탑은 얼마나 높죠?"
+
+msgid "@niko I can't seem to even see the top..."
+msgstr "@niko 꼭대기가 보이지도 않네요..."
+
+msgid "@prophet [I Am Not Allowed To Answer.]"
+msgstr "@prophet [그 질문에는 답해드릴 수 없습니다.]"
+
+msgid "@niko But... how do I get up there?"
+msgstr "@niko 그렇지만... 저길 어떻게 올라가죠?"
+
+msgid "@prophet [In Time, \\p Will Know What To Do.]"
+msgstr "@prophet [때가 되면 \\p 님께서 어떻게 할지 알려주실 겁니다.]"
+
+msgid "@niko_eyeclosed I... see."
+msgstr "@niko_eyeclosed 알... 았어요."
+
+msgid "@niko It's alright, thank you."
+msgstr "@niko 괜찮아요. 고마워요."
+
+msgid "@prophet [In That Case, I Wish You Safe Travels.]"
+msgstr "@prophet [그렇다면 당신의 여행이 안전하기를 기원합니다.]"
+
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [로봇의 잔해다.]"
+
+msgid "@niko A robot."
+msgstr "@niko 로봇이에요."
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed 수리하긴 힘들겠어요."
+

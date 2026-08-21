@@ -1,0 +1,3 @@
+msgid "@niko It looks like I can unlock this door..."
+msgstr "@niko Sembra che possa sbloccare questa porta..."
+

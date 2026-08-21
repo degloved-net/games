@@ -1,0 +1,6 @@
+msgid "CAFE"
+msgstr "카페"
+
+msgid "MEOW"
+msgstr "냐옹"
+

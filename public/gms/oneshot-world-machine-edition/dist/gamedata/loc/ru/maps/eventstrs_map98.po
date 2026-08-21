@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31] ЦВЕТА ВЕРНЫ.]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][ДОСТУП РАЗРЕШЁН!]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][ДОСТУП ЗАПРЕЩЁН. \\v[37] ОСТАЛОСЬ ПОПЫТОК.]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][ОБНАРУЖЕН НАРУШИТЕЛЬ. СБРАСЫВАЮ ЗАМОК МЕХАНИЗМА.]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed Эх... Придётся всё начать заново..."
+
+msgid "[HALT!]"
+msgstr "[СТОП!]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[ДОЖДИТЕСЬ ПОДРОБНЫХ ИНСТРУКЦИЙ КАСАТЕЛЬНО ПРОВЕКРИ СИСТЕМЫ БЕЗОПАСНОСТИ.]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[ОБРАТИТЕСЬ К РОБОТУ-ПРИВРАТНИКУ.]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko Мы открыли замок!"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[СИСТЕМА БЕЗОПАСНОСТИ ВРЕМЕННО ОТКЛЮЧЕНА.]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[ХОТИТЕ ЕЁ ПЕРЕЗАГРУЗИТЬ?]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ...Мне не очень-то хочется снова через ТАКОЕ проходить..."
+
+msgid "@niko_what um..."
+msgstr "@niko_what Хм..."
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko Как мне... это решить..."
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[ЭТО ЧАСТЬ ТЕСТА.]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed Вот блин."
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[ДЛЯ ТОГО, ЧТОБЫ ПОЛУЧИТЬ ДОСТУП В ЛАБОРАТОРИИ.]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[ВЫ ДОЛЖНЫ ПРОЙТИ ПРОВЕРКУ СИСТЕМЫ БЕЗОПАСНОСТИ.]"
+
+msgid "@niko The... huh?"
+msgstr "@niko Чего?"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[ВЫ ДОЛЖНЫ ИЗМЕНИТЬ ЦВЕТ ОГНЕЙ В ОСОБОЙ ПОСЛЕДОВАТЕЛЬНОСТИ.]"
+
+msgid "[ALLOW ME.]"
+msgstr "[ПОЗВОЛЬТЕ...]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed Закрыто."
+

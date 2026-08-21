@@ -1,0 +1,42 @@
+msgid "@niko_eyeclosed ...The remains of a potted plant."
+msgstr "@niko_eyeclosed …鉢植えの残骸だ。"
+
+msgid "@niko The title is \"City Life: What to Expect\""
+msgstr "@niko タイトルは「都市生活: 未来について」"
+
+msgid "@niko_speak Something has been chewing on this plant..."
+msgstr "@niko_speak この植物、何かに噛まれたみたい…"
+
+msgid "I just moved here from the Glen. Things are so different in the city...."
+msgstr "峡谷から引っ越してきたばかりでな。\nこの街はあそことは全然違う…"
+
+msgid "You've been to the Glen, right?"
+msgstr "峡谷には行ったことあるだろ？"
+
+msgid "@niko Yeah!"
+msgstr "@niko うん！"
+
+msgid "Everything's so green back there...."
+msgstr "あそこは緑であふれてる…"
+
+msgid "I really miss it!"
+msgstr "ああ、早く帰りたい！"
+
+msgid "My neighbor gave me some plants to cheer me up, but..."
+msgstr "ご近所さんから、元気を出せと\n植物を頂いたのだが…"
+
+msgid ".....I should probably get a muzzle for Betsy there."
+msgstr "……ベッツィーには口輪をつけないと\n駄目だな。"
+
+msgid "@niko It's a landscape portrait of the Glen."
+msgstr "@niko 峡谷の風景画だ。"
+
+msgid "@niko A picture of a ram, wearing a little pink bow."
+msgstr "@niko 小さなピンクのリボンを付けた羊の写真。"
+
+msgid "@niko_eyeclosed Not much is left of this plant..."
+msgstr "@niko_eyeclosed ほとんど何も残ってない…"
+
+msgid "@niko_eyeclosed ...The entire plant was eaten..."
+msgstr "@niko_eyeclosed …食べ尽くされてる…"
+

@@ -1,0 +1,45 @@
+msgid "@niko Well that was fun."
+msgstr "@niko C'était très amusant."
+
+msgid "@niko Hello..."
+msgstr "@niko Bonjour..."
+
+msgid "[ROOM UNDER CONSTRUCTION]"
+msgstr "[PIÈCE EN CONSTRUCTION]"
+
+msgid "[TILES HAVE NOT BEEN FULLY PLACED]"
+msgstr "[TOUT LE CARRELAGE N'A PAS ÉTÉ MIS]"
+
+msgid "[YOU SHOULD NOT BE HERE YET]"
+msgstr "[VOUS NE DEVRIEZ PAS ÊTRE DÉJÀ LÀ]"
+
+msgid "@niko ...alright."
+msgstr "@niko ... D'accord."
+
+msgid "[\"Again! Again!\", \"Once is enough!\"]"
+msgstr "[\"Encore ! Encore !\",\"Une fois, ça suffit !\"]"
+
+msgid "@niko Okay!"
+msgstr "@niko D'accord !"
+
+msgid "@niko I'm not sure what this is."
+msgstr "@niko Je ne sais pas exactement ce que c'est !"
+
+msgid "@niko_speak It's like a little car!"
+msgstr "@niko_speak On dirait une petite voiture !"
+
+msgid "[\"You should ride on it!\", \"Resist urge to ride on it.\"]"
+msgstr "[\"Tu devrais grimper dessus !\",\"Résiste à l'envie de grimper dessus.\"]"
+
+msgid "@niko ... \\>\\n\\@niko_speak What?"
+msgstr "@niko ... \\>\\n\\@niko_speak Quoi ?"
+
+msgid "[\"Do it!\"]"
+msgstr "[\"Vas-y !\"]"
+
+msgid "@niko Um...."
+msgstr "@niko Hum..."
+
+msgid "@niko_eyeclosed I wasn't going to, \\p..."
+msgstr "@niko_eyeclosed Je n'allais pas le faire, \\p..."
+

@@ -1,0 +1,249 @@
+msgid "@niko A watering can. It's half full."
+msgstr "@niko じょうろだ。水が半分入ってる。"
+
+msgid "@niko Filled with plant clippings."
+msgstr "@niko 刈り取られた植物でいっぱいだ。"
+
+msgid "@niko It's a pink flower."
+msgstr "@niko ピンクの花だ。"
+
+msgid "@mason Good luck with that seed, now!"
+msgstr "@mason その種の幸運を祈っているぞ！"
+
+msgid "@mason Most of the plants in our world tend to grow in The Glen."
+msgstr "@mason この世界の植物の多くは、\n峡谷に生息している。"
+
+msgid "@mason Even if it's facing the flooding issues, it's still in better condition than the other two areas."
+msgstr "@mason あそこには浸水問題があるが、それでも\n他の地域よりは良好な状態なのだ。"
+
+msgid "@mason The Barrens is... well, the barrens."
+msgstr "@mason 不毛の地は…まあ、不毛の地だな。"
+
+msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
+msgstr "@mason そして避難所の街は、植物を育てる\nどころの話ではない。\n歩ける地面を確保するのでやっとだ！"
+
+msgid "@mason ...On a larger scale than this, I mean."
+msgstr "@mason …今以上の規模では、な。"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko You're a gardener, right?"
+msgstr "@niko_speak そうだ！\\.\\.\\@niko お庭屋さんなんだよね？"
+
+msgid "@mason Yup!"
+msgstr "@mason うむ！"
+
+msgid "@niko_speak Do you... happen to have any dirt?\\>\\n\\@niko For growing plants, I mean!"
+msgstr "@niko_speak あの…土を持ってたりしないかな？\\>\\n\\@niko 植物を育てるための！"
+
+msgid "@mason Yup!\\>\\nDo you need some?"
+msgstr "@mason あるとも！\\>\\n必要なのか？"
+
+msgid "@niko_speak Yes!\\>\\n\\@niko I'm supposed to plant this seed left behind by a plant lady..."
+msgstr "@niko_speak うん！\\>\\n\\@niko 植物のお姉さんが残していった種を\n植えなきゃいけなくて…"
+
+msgid "@niko_eyeclosed ...but the pot in the garden doesn't have any soil..."
+msgstr "@niko_eyeclosed …でも、庭にある鉢には土が入ってなかったんだ…"
+
+msgid "@mason I see...."
+msgstr "@mason なるほど…"
+
+msgid "@mason I know who you're talking about, yeah."
+msgstr "@mason 君の言っている人物のことは、私も\n知っているとも。"
+
+msgid "@mason Here, take this whole bag!"
+msgstr "@mason ほら、袋ごと持っていくといい！"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak ありがとう！"
+
+msgid "@mason Feel free to ask me about the plants!"
+msgstr "@mason 植物については何でも聞いてくれ！"
+
+msgid "@mason Hello there!"
+msgstr "@mason こんばんは！"
+
+msgid "@niko_speak You have a lot of plants!"
+msgstr "@niko_speak 植物がたくさんあるね！"
+
+msgid "@mason I do!\\nGrew all of these myself, y'see."
+msgstr "@mason あるとも！\\nすべて自分で育てたのだ。"
+
+msgid "@mason Feel free to ask me about them!"
+msgstr "@mason 何でも聞いてくれ！"
+
+msgid "@niko Empty flowerpot..."
+msgstr "@niko 空の植木鉢…"
+
+msgid "@niko Cactus."
+msgstr "@niko サボテン。"
+
+msgid "@mason Cactus."
+msgstr "@mason サボテン。"
+
+msgid "@niko_eyeclosed Cactus."
+msgstr "@niko_eyeclosed サボテン。"
+
+msgid "@niko So... is it a tree?"
+msgstr "@niko これは…木なの？"
+
+msgid "@mason Only in name!"
+msgstr "@mason 名ばかりの、だがな！"
+
+msgid "@mason That's a phosphor tree."
+msgstr "@mason それは蛍光樹である。"
+
+msgid "@niko_speak Oh! Like the ones we saw in the glen!"
+msgstr "@niko_speak あっ！峡谷で見たのと同じやつだ！"
+
+msgid "@niko I always wondered... where are the leaves?"
+msgstr "@niko いつも不思議だったんだけど…\n葉っぱはどこにあるの？"
+
+msgid "@niko2 They're not... dead, are they?"
+msgstr "@niko2 まさか…枯れてるわけじゃないよね？"
+
+msgid "@mason Oh, not at all!"
+msgstr "@mason これっぽっちも枯れてはおらん！"
+
+msgid "@mason Although these trees are composed of a woody tissue, they're closer to grass, anatomy-wise."
+msgstr "@mason この木は木質組織で構成されているが、\n解剖学的には草に近いのだよ。"
+
+msgid "@niko ...So the branches are actually leaves?"
+msgstr "@niko …つまり、枝が葉っぱってこと？"
+
+msgid "@mason Sorta!"
+msgstr "@mason そんなところだ！"
+
+msgid "@mason What's interesting about these plants is the amount of phosphor sap they can generate."
+msgstr "@mason この木の非常に興味深い点は、\n生成できる蛍光樹液の量なのだ。"
+
+msgid "@niko Phosphor... that's the glowy stuff, right?"
+msgstr "@niko 蛍光…って、光るものだよね？"
+
+msgid "@mason Phosphor can store light energy and slowly emit it over time."
+msgstr "@mason 蛍光体は、光エネルギーを蓄積し、\n時間の経過と共にゆっくりと放出する。"
+
+msgid "@mason Most of the phosphor from this world still contains energy from before the sun went out."
+msgstr "@mason この世界の蛍光体の多くは、太陽がなくなる\n以前からのエネルギーをまだ残しているのだ。"
+
+msgid "@mason Without the sun to recharge them, though..."
+msgstr "@mason だが、それを補充するための太陽が\nなくなった今は…"
+
+msgid "@mason ...well, let's talk about something else."
+msgstr "@mason …ふむ、他の話題に移ろう。"
+
+msgid "@niko The pots are labeled with different species names."
+msgstr "@niko 鉢にはいろんな種の名前の\nラベルがついてる。"
+
+msgid "@niko Oh! The sprouts are stretching towards the sun..."
+msgstr "@niko わぁ、芽が太陽に向かって伸びてる…"
+
+msgid "@mason Be sure not to touch these!"
+msgstr "@mason 絶対に触らないように！"
+
+msgid "@mason These are the plants have only recently sprouted."
+msgstr "@mason その植物たちは、つい最近\n発芽したばかりなのだよ。"
+
+msgid "@mason It's not easy for a plant to make it out there these days."
+msgstr "@mason 近頃は植物が生きていくのは大変なんだ！"
+
+msgid "@mason We got these growing lamps, but they're a poor substitute for the sun!"
+msgstr "@mason 育成ランプはあるんだが、\n太陽の代わりとしては不十分だ。"
+
+msgid "@mason Ah, black clovers..."
+msgstr "@mason ああ、黒いクローバーか…"
+
+msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
+msgstr "@mason 恐らくそれが、峡谷の外で生存できるほどの\n耐寒性を先天的に備えた、唯一の植物である。"
+
+msgid "@mason Personally? I think they're really boring to look at."
+msgstr "@mason 個人的にどう思うか？\n見てて本当につまらん。"
+
+msgid "@mason One of my customers really loves them though."
+msgstr "@mason だが、これをこよなく愛している客が\n1人おるのだ。"
+
+msgid "@mason I think all of the black clovers I'm growing here are for him, actually."
+msgstr "@mason ここで育てている黒いクローバーはすべて、\nその客のためのようなものだ。"
+
+msgid "@mason ...Come to think of it, I haven't seen him in a while."
+msgstr "@mason …そういえば、彼を長いこと見ておらんな。"
+
+msgid "@mason I wonder when is he coming to pick these up?"
+msgstr "@mason いつになったら受け取りに来るのだろうか？"
+
+msgid "@mason The clover guy... he's actually pretty cool!"
+msgstr "@mason クローバー男…大したヤツだ、彼は！"
+
+msgid "@mason He's an author, and apparently he's some sort of big deal? Or at least he's really passionate about his work."
+msgstr "@mason 作家で、しかも大物か何かだそうだぞ？\n少なくとも、自分の仕事には\nかなり情熱を抱いている。"
+
+msgid "@mason I don't know him that well, although sometimes I stumble across articles about him in the news..."
+msgstr "@mason あまりよく知らないが、ニュースで\n彼に関する記事を見かけることがある…"
+
+msgid "@mason I'd love to chat with him, if I run into him again!"
+msgstr "@mason また会うことがあれば、是非とも話をしたい！"
+
+msgid "@niko Black clovers."
+msgstr "@niko 黒いクローバーだ。"
+
+msgid "@niko They're kinda shiny."
+msgstr "@niko ちょっとキラキラしてる。"
+
+msgid "@niko It's wheat."
+msgstr "@niko 小麦だ。"
+
+msgid "@mason That golden color is quite something, no?"
+msgstr "@mason その黄金色、何とも素晴らしいだろう？"
+
+msgid "@niko_speak It's wheat!"
+msgstr "@niko_speak 小麦だ！"
+
+msgid "@niko Why is it in a flowerpot?"
+msgstr "@niko どうして植木鉢に入ってるの？"
+
+msgid "@mason Well, doesn't it look nice?"
+msgstr "@mason ふむ、美しく見えるだろう？"
+
+msgid "@niko I guess!"
+msgstr "@niko たしかに！"
+
+msgid "@niko I like to stand in the middle of the wheat field back in my village."
+msgstr "@niko ミーは、村の小麦畑…\n前まで住んでたとこなんだけど、\nその真ん中に立つのが好き。"
+
+msgid "@niko_speak It goes on for miles!"
+msgstr "@niko_speak 何キロも広がってるんだよ！"
+
+msgid "@mason Ah... I wish I could have seen it!"
+msgstr "@mason ほう…それは見てみたかったな！"
+
+msgid "@mason In our world, wheat is usually only grown in small isolated plots."
+msgstr "@mason この世界では、小麦は通常だと\n小さな区画でしか栽培されておらんのだ。"
+
+msgid "@mason ...Or in a flowerpot."
+msgstr "@mason …あるいは、植木鉢か。"
+
+msgid "@niko A small tree with leaves."
+msgstr "@niko 葉っぱのついた小さな木だ。"
+
+msgid "@niko_eyeclosed ...Apparently they are rare."
+msgstr "@niko_eyeclosed …珍しいみたいだね。"
+
+msgid "@niko This tree has leaves!"
+msgstr "@niko この木には葉っぱがついてる！"
+
+msgid "@mason Ah yes, true foliage is hard to come by nowadays."
+msgstr "@mason そうとも、最近じゃ本物の群葉には\n滅多にお目にかかれん。"
+
+msgid "@mason You hardly ever see trees like these in the wild anymore."
+msgstr "@mason そのような木は、野生ではもう\nほとんど見られんだろう。"
+
+msgid "@mason And the ones you do see are pretty much all raised artificially by people like me, mostly for nostalgia purposes."
+msgstr "@mason 仮に見かけたとしても、その大多数は\n私のような者が、郷愁に浸るために\n人工的に育てたものだ。"
+
+msgid "@niko A small garden trowel. The handle part is shaped like... an owl?"
+msgstr "@niko 小さなスコップ。持ち手の形が…\nフクロウみたい？"
+
+msgid "@niko_speak ..."
+msgstr "@niko_speak …"
+
+msgid "@niko_83c I get it!"
+msgstr "@niko_83c そういうことね！"
+

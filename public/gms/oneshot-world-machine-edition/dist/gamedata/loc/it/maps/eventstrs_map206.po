@@ -1,0 +1,165 @@
+msgid "@alula_pout ...Niko!"
+msgstr "@alula_pout ...Niko!"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh Niko? C'è qualcosa che non va?"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock Sembrava stessi per svenire!"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko2 It's... not the first time it's happened."
+msgstr "@niko2 Non è la prima volta che succede..."
+
+msgid "@calamus ...oh?"
+msgstr "@calamus ...Oh?"
+
+msgid "@niko_speak Earlier I was in the Barrens, and I...\\>\\n\\@niko6 saw something like this too."
+msgstr "@niko_speak Prima ero nella Baia Desolata...\\>\\n\\@niko6 ed ho visto una cosa simile."
+
+msgid "@niko2 It was like a dream, but only for a split second..."
+msgstr "@niko2 È stato come un sogno, ma è durato un attimo..."
+
+msgid "@calamus ...sounds like a vision."
+msgstr "@calamus ...Sembra che tu abbia avuto una visione."
+
+msgid "@calamus_speak Like something a prophet would see!"
+msgstr "@calamus_speak Una cosa da profeti, insomma!"
+
+msgid "@niko2 I... guess?\\n\\>\\@niko_eyeclosed The robot lady I was with earlier had a fancy word for it, though..."
+msgstr "@niko2 ...Credo?\\n\\>\\@niko_eyeclosed La signorina robot aveva usato un qualche parolone..."
+
+msgid "@niko2 Wait..."
+msgstr "@niko6 Aspetta..."
+
+msgid "@niko6 Lemme... check something."
+msgstr "@niko6 Fatemi controllare una cosa..."
+
+msgid "@niko_speak Oh!\\>\\nI was right!"
+msgstr "@niko_speak Oh!\\>\\nCi avevo visto giusto!"
+
+msgid "@calamus ...huh?"
+msgstr "@calamus ...Oh?"
+
+msgid "@niko When I had the vision back at the Barrens... the book started glowing too!"
+msgstr "@niko Anche quando ho avuto quella visione alla Baia Desolata... il libro ha iniziato a brillare!"
+
+msgid "@niko2 I wanted to see if I could get it to happen again, and..."
+msgstr "@niko2 Volevo vedere se sarebbe successo anche stavolta e..."
+
+msgid "@alula_gasp Where did you get that!!!"
+msgstr "@alula_gasp Dove l'hai preso!?"
+
+msgid "@niko Oh, uh... \\>\\@niko_speak I had it with me when I woke up in this world!"
+msgstr "@niko Oh, ehm... \\>\\@niko_speak Lo avevo già quando mi sono svegliato in questo mondo!"
+
+msgid "@alula_speak It looks like one of our friend's books!"
+msgstr "@alula_speak Sembra uno dei libri del nostro amico!"
+
+msgid "@alula ...Except it's glowy!"
+msgstr "@alula ...Però brilla pure!"
+
+msgid "@niko2 ...that's what the lady said too..."
+msgstr "@niko2 ...La signorina ha detto la stessa cosa..."
+
+msgid "@niko_eyeclosed Hm..."
+msgstr "@niko_eyeclosed Mh..."
+
+msgid "@niko \\p... let's see if we can do anything with the journal in this room..."
+msgstr "@niko \\p... proviamo a fare qualcosa\\n col diario in questa stanza..."
+
+msgid "@alula I wonder when our friend will come back..."
+msgstr "@alula Chissà quando tornerà il nostro amico..."
+
+msgid "@alula_gasp Woah!"
+msgstr "@alula_gasp Wow!"
+
+msgid "@calamus_shock How did that boat get there?"
+msgstr "@calamus_shock Come è arrivata qui quella barca?"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ..."
+
+msgid "@niko Okay, I'm pretty sure it has to do with this journal, now..."
+msgstr "@niko Ok, ora sono sicuro che ha a che fare con il diario..."
+
+msgid "@niko2 The exact same thing happened back at the Barrens."
+msgstr "@niko2 È già successo alla Baia Desolata."
+
+msgid "@calamus_speak Seriously?"
+msgstr "@calamus_speak Sul serio?"
+
+msgid "@niko The journal was glowing, so I wanted to take a closer look at it."
+msgstr "@niko Il diario ha brillato, quindi ho deciso di dare un'occhiata più da vicino."
+
+msgid "@niko2 Then, I found a page that looked like a drawing of the room we were in, and then..."
+msgstr "@niko2 Poi ho trovato una pagina che sembrava un disegno della stanza dove eravamo..."
+
+msgid "@niko_speak A minecart showed up!"
+msgstr "@niko_speak ...ed è apparso un carrello da miniera!"
+
+msgid "@calamus_shock What!"
+msgstr "@calamus_shock Cosa!?"
+
+msgid "@alula_gasp What!"
+msgstr "@alula_gasp Cosa!?"
+
+msgid "@calamus_speak That sounds freaky..."
+msgstr "@calamus_speak Mi sembra assurdo..."
+
+msgid "@alula_speak No it doesn't!"
+msgstr "@alula_speak Non è vero!"
+
+msgid "@alula_gasp \\p must've done something!"
+msgstr "@alula_gasp Dev'essere stata opera di \\p!"
+
+msgid "@calamus Still..."
+msgstr "@calamus Eppure..."
+
+msgid "@alula_gasp ...Hey! We have a boat now!"
+msgstr "@alula_gasp ...Ehi! Abbiamo una barca ora!"
+
+msgid "@alula_speak We can go to the burial grounds and visit mom again!"
+msgstr "@alula_speak Possiamo andare al cimitero e visitare di nuovo la mamma!"
+
+msgid "@calamus But..."
+msgstr "@calamus Ma..."
+
+msgid "@alula_speak Come on, Calamus!"
+msgstr "@alula_speak E dai, Calamus!"
+
+msgid "@alula Niko and \\p are with us!"
+msgstr "@alula Abbiamo Niko e \\p con noi!"
+
+msgid "@calamus Well... \\.\\.\\nif \\p made the boat appear... it should be safe..."
+msgstr "@calamus Beh... \\.\\.\\nse quella barca è apparsa per volere di \\p... dovremmo essere al sicuro..."
+
+msgid "@niko2 What...\\.\\. do you think, \\p?"
+msgstr "@niko2 ...\\.\\.Cosa ne pensi, \\p?"
+
+msgid "@alula_gasp Can we go yet?"
+msgstr "@alula_gasp Possiamo andare?"
+
+msgid "@alula_gasp Here we go!"
+msgstr "@alula_gasp Ci siamo!"
+
+msgid "@calamus This passage must be where fireflies congregate..."
+msgstr "@calamus Questo corridoio dev'essere il luogo in cui si riuniscono le lucciole..."
+
+msgid "@calamus I wonder how long this passage is..."
+msgstr "@calamus Mi chiedo quanto sia lungo questo corridoio..."
+
+msgid "@calamus_speak Looks like there's some lights at the end..."
+msgstr "@calamus_speak Sembra che ci siano delle luci alla fine..."
+
+msgid "@alula_speak Those are fireflies!"
+msgstr "@alula_speak Sono lucciole!"
+
+msgid "@calamus_smile We can leave whenever you're ready."
+msgstr "@calamus_smile Possiamo partire non appena sei pronto."
+
+msgid "@niko It's a clover."
+msgstr "@niko Un trifoglio."
+

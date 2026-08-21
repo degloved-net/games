@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ4HJWL0BX"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-EQ4HJWL0BX');
+	</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>degloved</title>
+	<link rel="stylesheet" href="/css/styles.css">
+	<meta name="description" content="Your journey to new skills starts here. Explore courses, tutorials, and resources for lifelong learners.">
+</head>
+<body>
+<canvas id="bg"></canvas>
+
+<button class="clanker" type="button" onclick="go('/')">home</button>
+
+<div class="container">
+	<div class="hero">
+		<h1>eaglercraft</h1>
+		<input type="text" class="search-box" id="search" placeholder="search...">
+		<div class="client-counter">clients: <span id="client-count">0</span></div>
+	</div>
+	<div id="list"></div>
+</div>
+
+<script src="/js/background.js"></script>
+<script src="/js/visit.js"></script>
+<script src="/js/search.js"></script>
+<script src="/js/leave.js"></script>
+<script>
+	setupSearch({
+		apiUrl: '/api/eags',
+		listContainerId: 'list',
+		searchInputId: 'search',
+
+		renderFunction(items) {
+			const groups = {};
+			for (const it of items) {
+				const key = it.version + '|' + it.client;
+				if (!groups[key]) {
+					groups[key] = {
+						name: it.version + ' - ' + it.client,
+						icon: it.icon || null,
+						js: null,
+						wasm: null
+					};
+				}
+				if (!groups[key].icon && it.icon) groups[key].icon = it.icon;
+				if (it.variant === 'js' || (it.url && it.url.indexOf('/js/') !== -1)) groups[key].js = it.url;
+				if (it.variant === 'wasm' || (it.url && it.url.indexOf('/wasm/') !== -1)) groups[key].wasm = it.url;
+				if (!it.variant && !groups[key].js && !groups[key].wasm && it.url) groups[key].js = it.url;
+			}
+
+			const keys = Object.keys(groups).sort();
+			document.getElementById('client-count').textContent = keys.length;
+
+			let html = '<ul>';
+			keys.forEach(k => {
+				const g = groups[k];
+				html += '<li>';
+				html += '<a href="#" class="client-card" data-js-url="' + (g.js || '') + '" data-wasm-url="' + (g.wasm || '') + '">';
+				if (g.icon) {
+					html += '<div class="img-container"><img src="' + g.icon + '"></div>';
+				}
+				html += g.name + '</a></li>';
+			});
+			html += '</ul>';
+			return html;
+		},
+
+		filterFunction(item, query) {
+			return item.name.toLowerCase().includes(query);
+		}
+	});
+</script>
+
+<div id="client-choice-modal" class="modal">
+	<div class="modal-content">
+		<span class="close-btn">×</span>
+		<h2>choose runtime</h2>
+		<div class="runtime-choice-row">
+			<button id="choose-js">js</button>
+			<button id="choose-wasm">wasm</button>
+		</div>
+	</div>
+</div>
+
+<script>
+	(function() {
+		const listEl = document.getElementById('list');
+		const choiceModal = document.getElementById('client-choice-modal');
+		const jsBtn = document.getElementById('choose-js');
+		const wasmBtn = document.getElementById('choose-wasm');
+
+		function triggerOverlay(href) {
+			if (!href) return;
+			const a = document.createElement('a');
+			a.href = href;
+			document.body.appendChild(a);
+			if (window.closeModal) {
+				window.closeModal(choiceModal);
+			} else {
+				choiceModal.style.display = 'none';
+			}
+			a.click();
+			a.remove();
+		}
+
+		jsBtn.addEventListener('click', () => {
+			const href = jsBtn.dataset.href || '';
+			if (href) triggerOverlay(href);
+		});
+
+		wasmBtn.addEventListener('click', () => {
+			const href = wasmBtn.dataset.href || '';
+			if (href) triggerOverlay(href);
+		});
+
+		listEl.addEventListener('click', (e) => {
+			const card = e.target.closest('a.client-card');
+			if (!card) return;
+			e.preventDefault();
+			e.stopPropagation();
+
+			const jsUrl = card.getAttribute('data-js-url') || '';
+			const wasmUrl = card.getAttribute('data-wasm-url') || '';
+
+			jsBtn.disabled = !jsUrl;
+			jsBtn.dataset.href = jsUrl;
+			wasmBtn.disabled = !wasmUrl;
+			wasmBtn.dataset.href = wasmUrl;
+
+			choiceModal.style.display = 'block';
+		});
+	})();
+</script>
+<script src="/js/iframe.js"></script>
+<script src="/js/settings.js"></script>
+<script src="/js/panicbtn.js"></script>
+</body>
+</html>

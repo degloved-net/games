@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>Angry Birds 2</title>
+  <style>
+    html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #231F20; overflow: hidden; font-family: Arial, sans-serif; }
+    #unityContainer { position: fixed; inset: 0; }
+    #unityContainer canvas { width: 100vw !important; height: 100vh !important; display: block; }
+    #loader { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; flex-direction: column; background: #231F20; color: #ddd; z-index: 9999; transition: opacity .3s; }
+    #loader.hide { opacity: 0; pointer-events: none; }
+    #bar-wrap { width: 320px; height: 14px; background: #111; }
+    #bar { width: 0%; height: 100%; background: #ddd; transition: width .15s linear; }
+    #status { margin-top: 10px; font-size: 12px; color: #888; }
+  </style>
+</head>
+<body>
+<div id="loader">
+  <div id="bar-wrap"><div id="bar"></div></div>
+  <div id="status">loading</div>
+</div>
+<div id="unityContainer"></div>
+<script>
+(function () {
+  var SPLITS = {
+    "angry.data.unityweb": 6,
+    "angry.wasm.code.unityweb": 2
+  };
+
+  function partUrls(baseUrl) {
+    var match = null;
+    for (var key in SPLITS) {
+      if (baseUrl.indexOf(key) !== -1 && !/unityweb\d{2}$/.test(baseUrl)) {
+        match = { key: key, count: SPLITS[key] };
+        break;
+      }
+    }
+    if (!match) return null;
+    var urls = [];
+    for (var i = 0; i < match.count; i++) {
+      urls.push(baseUrl + String(i).padStart(2, "0"));
+    }
+    return urls;
+  }
+
+  var perLoaded = {}, perTotal = {};
+  function report() {
+    var loaded = 0, total = 0;
+    for (var k in perLoaded) loaded += perLoaded[k];
+    for (var k in perTotal) total += perTotal[k];
+    if (window.__rfReport) window.__rfReport(loaded, total);
+  }
+
+  function fetchAll(baseUrl) {
+    var urls = partUrls(baseUrl);
+    return Promise.all(urls.map(function (u) {
+      return fetch(u).then(function (r) {
+        if (!r.ok) throw new Error("fail " + u + " " + r.status);
+        perTotal[u] = parseInt(r.headers.get("Content-Length") || "0", 10);
+        if (!r.body || !r.body.getReader) {
+          return r.arrayBuffer().then(function (buf) {
+            perLoaded[u] = buf.byteLength;
+            if (!perTotal[u]) perTotal[u] = buf.byteLength;
+            report();
+            return buf;
+          });
+        }
+        var reader = r.body.getReader();
+        var chunks = [], recv = 0;
+        return new Promise(function (resolve, reject) {
+          function pump() {
+            reader.read().then(function (res) {
+              if (res.done) {
+                var merged = new Uint8Array(recv), off = 0;
+                chunks.forEach(function (c) { merged.set(c, off); off += c.length; });
+                resolve(merged.buffer);
+                return;
+              }
+              chunks.push(res.value);
+              recv += res.value.length;
+              perLoaded[u] = recv;
+              if (recv > perTotal[u]) perTotal[u] = recv;
+              report();
+              pump();
+            }).catch(reject);
+          }
+          pump();
+        });
+      });
+    })).then(function (buffers) {
+      var total = 0;
+      buffers.forEach(function (b) { total += b.byteLength; });
+      var out = new Uint8Array(total), off = 0;
+      buffers.forEach(function (b) { out.set(new Uint8Array(b), off); off += b.byteLength; });
+      return out.buffer;
+    });
+  }
+
+  var origFetch = window.fetch && window.fetch.bind(window);
+  if (origFetch) {
+    window.fetch = function (input, init) {
+      var url = (typeof input === "string") ? input : (input && input.url) || "";
+      if (!partUrls(url)) return origFetch(input, init);
+      return fetchAll(url).then(function (buf) {
+        return new Response(buf, { status: 200, headers: { "Content-Type": "application/octet-stream", "Content-Length": String(buf.byteLength) } });
+      });
+    };
+  }
+
+  var XHR = window.XMLHttpRequest;
+  var origOpen = XHR.prototype.open, origSend = XHR.prototype.send, origSetRH = XHR.prototype.setRequestHeader;
+  XHR.prototype.open = function (method, url) {
+    this.__url = url;
+    this.__intercept = method.toUpperCase() === "GET" && !!partUrls(url);
+    if (this.__intercept) this.__listeners = { load: [], loadend: [], progress: [], error: [], abort: [], readystatechange: [] };
+    return origOpen.apply(this, arguments);
+  };
+  XHR.prototype.setRequestHeader = function () { if (this.__intercept) return; return origSetRH.apply(this, arguments); };
+  var addEL = XHR.prototype.addEventListener;
+  XHR.prototype.addEventListener = function (type, fn) {
+    if (this.__intercept && this.__listeners[type]) { this.__listeners[type].push(fn); return; }
+    return addEL.apply(this, arguments);
+  };
+  XHR.prototype.send = function () {
+    if (!this.__intercept) return origSend.apply(this, arguments);
+    var xhr = this;
+    var fire = function (type, ev) {
+      ev = ev || { type: type, target: xhr, currentTarget: xhr };
+      var arr = (xhr.__listeners && xhr.__listeners[type]) || [];
+      arr.forEach(function (fn) { try { fn.call(xhr, ev); } catch (e) { console.error(e); } });
+      var on = xhr["on" + type];
+      if (typeof on === "function") { try { on.call(xhr, ev); } catch (e) { console.error(e); } }
+    };
+    fetchAll(xhr.__url).then(function (buf) {
+      Object.defineProperty(xhr, "readyState", { value: 4, configurable: true });
+      Object.defineProperty(xhr, "status", { value: 200, configurable: true });
+      Object.defineProperty(xhr, "statusText", { value: "OK", configurable: true });
+      Object.defineProperty(xhr, "response", { value: buf, configurable: true });
+      Object.defineProperty(xhr, "responseURL", { value: xhr.__url, configurable: true });
+      try { Object.defineProperty(xhr, "responseType", { value: xhr.responseType || "arraybuffer", configurable: true }); } catch (e) {}
+      fire("readystatechange");
+      fire("progress", { type: "progress", target: xhr, currentTarget: xhr, lengthComputable: true, loaded: buf.byteLength, total: buf.byteLength });
+      fire("load");
+      fire("loadend");
+    }).catch(function (err) {
+      console.error(err);
+      Object.defineProperty(xhr, "readyState", { value: 4, configurable: true });
+      Object.defineProperty(xhr, "status", { value: 500, configurable: true });
+      fire("error"); fire("loadend");
+    });
+  };
+})();
+
+var bar = document.getElementById("bar");
+var status = document.getElementById("status");
+var loader = document.getElementById("loader");
+var downloadDone = false;
+
+function fmt(b) { return (b / 1048576).toFixed(1) + " MB"; }
+
+window.__rfReport = function (loaded, total) {
+  if (downloadDone) return;
+  var frac = total > 0 ? loaded / total : 0;
+  bar.style.width = (Math.min(0.9, frac * 0.9) * 100).toFixed(1) + "%";
+  status.textContent = "downloading " + fmt(loaded) + (total ? " / " + fmt(total) : "");
+};
+</script>
+<script src="Build/UnityLoader.js"></script>
+<script>
+  var instance = UnityLoader.instantiate("unityContainer", "Build/angry.json", {
+    onProgress: function (u, progress) {
+      if (!downloadDone && progress > 0.9) {
+        downloadDone = true;
+        status.textContent = "starting";
+      }
+      var pct = downloadDone ? (0.9 + (progress - 0.9)) : Math.max(0.9, progress);
+      bar.style.width = (pct * 100).toFixed(1) + "%";
+      if (progress >= 1) {
+        status.textContent = "ready";
+        setTimeout(function () { loader.classList.add("hide"); setTimeout(function () { loader.remove(); }, 400); }, 200);
+      }
+    }
+  });
+</script>
+</body>
+</html>

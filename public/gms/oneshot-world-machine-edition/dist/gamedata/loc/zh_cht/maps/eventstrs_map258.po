@@ -1,0 +1,72 @@
+msgid "@en2 [...]"
+msgstr "@en2 [……]"
+
+msgid "@en3 [\\p...\\> you're... back.]"
+msgstr "@en3 [\\p……\\>你……回來了。]"
+
+msgid "@en_upset2 [I restored the world, I sent Niko home...]"
+msgstr "@en_upset2 [我恢復這世界，也把霓光送回家了……]"
+
+msgid "@en4 [Are you...\\.\\. \\@en3 not happy?]"
+msgstr "@en4 [你還……\\.\\.\\@en3 不滿意嗎？]"
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [……]"
+
+msgid "@en_upset2 [Even if you wanted to see Niko again...]"
+msgstr "@en_upset2 [即使你想再見霓光一面……]"
+
+msgid "@en_eyeclosed [You can't, \\p.\\> Niko's gone.]"
+msgstr "@en_eyeclosed [也辦不到的，\\p。\\>霓光已經離開了。]"
+
+msgid "@en_eyeclosed2 [And without Niko, there is no story for me to tell, no messiah to traverse across the land.]"
+msgstr "@en_eyeclosed2 [沒有了霓光，我就沒有故事可說，也沒有跋涉穿過整片大地的救世主。]"
+
+msgid "@en_eyeclosed [...No way for you to connect with the world.]"
+msgstr "@en_eyeclosed [……你不可能再和這個世界連結了。]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [……]"
+
+msgid "@en2 [But...\\.\\. Niko still remembers this place.]"
+msgstr "@en2 [但……\\.\\.霓光還記得這個地方。]"
+
+msgid "@en4 [...]"
+msgstr "@en4 [……]"
+
+msgid "@en3 [If you really want to see this world again, I could still...]"
+msgstr "@en3 [如果你真的想再次看到這個世界，我還是可以……]"
+
+msgid "@en_distressed2 [Oh...\\.\\. but it won't be the same.]"
+msgstr "@en_distressed2 [啊……\\.\\.但是會不一樣。]"
+
+msgid "@en_distressed2 [It'll just be a recording.\\>\\nIt'll just be me using Niko's memories.]"
+msgstr "@en_distressed2 [你看到的只是一個紀錄。\\>\\n只是我用霓光的記憶做的紀錄。]"
+
+msgid "@en_eyeclosed [...Just like how I'm using Niko's reflection now...]"
+msgstr "@en_eyeclosed [……就像現在我使用霓光的映象一樣……]"
+
+msgid "@en3 [Is that...\\.\\. what you want?]"
+msgstr "@en3 [這樣……\\.\\.是你要的嗎？]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [好吧。]"
+
+msgid "@en3 [I will go rewind the story.]"
+msgstr "@en3 [我來將故事倒回。]"
+
+msgid "@en4 [...so that you can relive it from the beginning.]"
+msgstr "@en4 [……如此你就可以從頭重溫這個故事。]"
+
+msgid "@en_eyeclosed [I see.]"
+msgstr "@en_eyeclosed [我明白了。]"
+
+msgid "@en4 [If you change your mind, though... feel free to come back.]"
+msgstr "@en4 [不過如果你改變心意……隨時歡迎你回來。]"
+
+msgid "@en_eyeclosed [It's not like I'm going anywhere.]"
+msgstr "@en_eyeclosed [反正我也不會離開。]"
+

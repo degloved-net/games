@@ -1,0 +1,18 @@
+msgid "@ed [There's no water in the toilet.]"
+msgstr "@ed [변기 안에 물이 없다.]"
+
+msgid "@ed [The tub won't run.]"
+msgstr "@ed [욕조에서는 물이 나오지 않는다.]"
+
+msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
+msgstr "@ed [뻣뻣하게 메말라 버린 \\c[7]시든 식물\\c[0]이 있다.]"
+
+msgid "@ed [There's no need to do anything else to it.]"
+msgstr "@ed [여기서는 달리 할 일이 없다.]"
+
+msgid "@ed [A branch snaps off.]"
+msgstr "@ed [가지 하나가 부러져 떨어진다.]"
+
+msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
+msgstr "@ed [\\c[3]밝게 빛나는 노란색 눈\\c[0]이 니코를 응시한다.]"
+

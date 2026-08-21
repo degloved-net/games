@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: oneshotwme\n"
+"X-Crowdin-Project-ID: 588773\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /twm/achievements_strs.po\n"
+"X-Crowdin-File-ID: 13\n"
+"Project-Id-Version: oneshotwme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-08-10 11:58\n"
+
+msgid "CHAOTIC_EVIL:title=Chaotic Evil"
+msgstr "Caotico Malvagio"
+
+msgid "CHAOTIC_EVIL:description=\"Don't do that!\""
+msgstr "\"Non farlo!\""
+
+msgid "SHOCK:title=Shock"
+msgstr "Scossa"
+
+msgid "SHOCK:description=Not fun."
+msgstr "Non fa ridere."
+
+msgid "EXTREME_BARTERING:title=Extreme Bartering"
+msgstr "Commercio estremo"
+
+msgid "EXTREME_BARTERING:description=Exhausting all possibilities, are we?"
+msgstr "Le abbiamo provate proprio tutte, vero?"
+
+msgid "RAM_WHISPERER:title=Ram Whisperer"
+msgstr "Incantatore di montoni"
+
+msgid "RAM_WHISPERER:description=Herd rams with ease."
+msgstr "Pascola i montoni elettrici con scioltezza."
+
+msgid "PANCAKES:title=Pancakes"
+msgstr "Pancake"
+
+msgid "PANCAKES:description=Favorite food."
+msgstr "Cibo preferito."
+
+msgid "WE_RIDE_AT_DAWN:title=We Ride at Dawn"
+msgstr "Cavalchiamo l'onda"
+
+msgid "WE_RIDE_AT_DAWN:description=Nyooooom"
+msgstr "Uiiiii"
+
+msgid "SECRET:title=Secret"
+msgstr "Segreto"
+
+msgid "SECRET:description=?????"
+msgstr "?????"
+
+msgid "BOOKWORM:title=Bookworm"
+msgstr "Topo di biblioteca"
+
+msgid "BOOKWORM:description=Read books in the library."
+msgstr "Leggi i libri nella biblioteca."
+
+msgid "REBIRTH:title=Rebirth"
+msgstr "Rinascita"
+
+msgid "REBIRTH:description=A sidequest."
+msgstr "Una missione secondaria."
+
+msgid "ONESHOT:title=OneShot"
+msgstr "OneShot"
+
+msgid "ONESHOT:description=Back to its roots."
+msgstr "Ritorno alle origini."
+
+msgid "RETURN:title=Return"
+msgstr "Ritorno"
+
+msgid "RETURN:description=..."
+msgstr "..."
+
+msgid "WALLPAPER:title=Wallpaper Wizard"
+msgstr "Mago degli Sfondi"
+
+msgid "WALLPAPER:description=Collect all wallpapers"
+msgstr "Colleziona tutti gli sfondi"
+
+msgid "COLOR:title=Color Coordinator"
+msgstr "Coordinamento Cromatico"
+
+msgid "COLOR:description=Collect all themes"
+msgstr "Colleziona tutti i temi"
+
+msgid "FRIEND:title=Social Butterfly"
+msgstr "Animale Sociale"
+
+msgid "FRIEND:description=Collect all friend entries"
+msgstr "Colleziona tutte le schede amico"
+
+msgid "EVERYTHING:title=Thanks for Everything"
+msgstr "Grazie di tutto"
+
+msgid "EVERYTHING:description=Collect all badges"
+msgstr "Colleziona tutte le medaglie"
+

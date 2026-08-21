@@ -1,0 +1,12 @@
+msgid "@niko Just a toilet..."
+msgstr "@niko È solo un gabinetto..."
+
+msgid "@niko It's a metal bathtub."
+msgstr "@niko È una vasca di metallo."
+
+msgid "@niko It's a little tree."
+msgstr "@niko È un alberello."
+
+msgid "@niko_speak It's a mirror!"
+msgstr "@niko_speak È uno specchio!"
+

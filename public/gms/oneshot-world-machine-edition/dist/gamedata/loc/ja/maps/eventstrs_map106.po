@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$1色ずつ試すのが\n良いでしょう！\n-管理部"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$前回のテスト結果を\n書き留めるのも\n良いでしょう。\n-管理部"
+
+msgid "[BEEP BOOP]"
+msgstr "[ビーッブーッ。]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[ここハ、プリンター室でス。機械の部品ヲ\n作っていまス。]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[ロボットモでス。]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$それでも無理なら、\nパズルがリセットされる\nのを待ちましょう。"
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$次は簡単なものが\n出されるかも\nしれません…。"
+

@@ -1,0 +1,3 @@
+msgid "@prophet_hmm I am not programmed to feel"
+msgstr "@prophet_hmm Я не запрограммирован на чувства."
+

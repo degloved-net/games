@@ -1,0 +1,81 @@
+msgid "@ed [There's a \\c[7]TV remote\\c[0] here.]"
+msgstr "@ed [\\c[7]TVリモコン\\c[0]がある。]"
+
+msgid "@ed [Niko picks it up.]"
+msgstr "@ed [ニコはそれを拾った。]"
+
+msgid "@niko ..."
+msgstr "@niko …"
+
+msgid "@niko_speak H-hello?"
+msgstr "@niko_speak だ…誰かいる？"
+
+msgid "@niko ....."
+msgstr "@niko …"
+
+msgid "@ed [Dusty books.]"
+msgstr "@ed [埃っぽい本。]"
+
+msgid "@ed [It's too dark to read in here.]"
+msgstr "@ed [暗すぎて読めない。]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 電源が入らない。"
+
+msgid "Input Password:"
+msgstr "パスワードを入力してください:"
+
+msgid "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+msgstr "\\c[4]\\v[57] \\c[2]\\v[58] \\c[1]\\v[59] \\c[3]\\v[60] \\c[0]\\..\\..\\.."
+
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]アクセス成功"
+
+msgid "@desktop ..."
+msgstr "@desktop …"
+
+msgid "@desktop You found me."
+msgstr "@desktop 私を見つけたな。"
+
+msgid "@desktop ....Why?"
+msgstr "@desktop …なぜだ？"
+
+msgid "@desktop You're already too late.\\nNot much of the world\\nremains."
+msgstr "@desktop すでに手遅れだ。\\n世界のほとんどが\\n崩壊した。"
+
+msgid "@desktop This will be apparent\\nonce you go outside."
+msgstr "@desktop 外に出てみれば\\n分かるはずだ。"
+
+msgid "@desktop This place was never\\nworth saving."
+msgstr "@desktop この場所に\\n救う価値はない。"
+
+msgid "@desktop ...Do you still want to try?"
+msgstr "@desktop …それでもやってみるか？"
+
+msgid "@desktop Then, remember this:"
+msgstr "@desktop なら、この事を忘れるな。"
+
+msgid "@desktop Your actions here\\nwill affect Niko."
+msgstr "@desktop 君の行動は\\nニコに影響する。"
+
+msgid "@desktop Your \"mission\" is\\nto help Niko leave."
+msgstr "@desktop 君の「使命」は\\nニコが帰れるように\n手助けすることだ。"
+
+msgid "@desktop And most importantly..."
+msgstr "@desktop そして最も重要なことは…"
+
+msgid "You only have one shot, \\p."
+msgstr "チャンスは一度きりだ、 \\p。"
+
+msgid "@ed [Niko hears the sound of a door unlocking.]"
+msgstr "@ed [ニコはドアが解錠される音を聞いた。]"
+
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]アクセス失敗。"
+
+msgid "@ed [Niko just woke up here.]"
+msgstr "@ed [ニコはたった今、ここで目覚めた。]"
+
+msgid "@ed [The door is locked.]"
+msgstr "@ed [ドアは施錠されている。]"
+

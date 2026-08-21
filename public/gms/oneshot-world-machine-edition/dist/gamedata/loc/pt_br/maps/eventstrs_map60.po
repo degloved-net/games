@@ -1,0 +1,36 @@
+msgid "@niko The world below looks so small..."
+msgstr "@niko O mundo lá embaixo parece tão pequeno..."
+
+msgid "@niko_eyeclosed No turning back now..."
+msgstr "@niko_eyeclosed Não tem mais como voltar atrás..."
+
+msgid "@niko_speak So this is where the sun belongs..."
+msgstr "@niko_speak Então é aqui que fica o sol..."
+
+msgid "@niko2 If I put the sun in here, we'll be able to save the world, right?"
+msgstr "@niko2 Se eu colocar o sol aqui, salvaremos o mundo, não é?"
+
+msgid "@niko ...but if I want to go home...\\> \\@niko_distressed I'll have to...\\> \\@niko_distressed_meow break it?"
+msgstr "@niko ... mas eu quero voltar para casa... \\> \\@niko_distressed Vou ter que... \\> \\@niko_distressed_meow quebrá-lo?"
+
+msgid "@niko_sad Oh...."
+msgstr "@niko_sad Ah..."
+
+msgid "@niko_distressed2 ....\\p? \\>\\n\\@niko_distressed2 What should I... do?"
+msgstr "@niko_distressed2 ....\\p? \\>\\n\\@niko_distressed2 O que devo... fazer?"
+
+msgid "What's the right thing to do?"
+msgstr "Qual a coisa certa a se fazer?"
+
+msgid "@niko_eyeclosed Y-You're right...\\>\\nI can't just leave everyone here to die."
+msgstr "@niko_eyeclosed V-você tem razão...\\>\\nNão posso permitir que todos aqui morram."
+
+msgid "@niko Thank you for your help, \\p.\\>\\nI promise I'll be okay."
+msgstr "@niko Valeu pela ajuda, \\p.\\>\\nPrometo que ficará tudo bem."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits Obrigado por jogar!"
+
+msgid "I...\\> trust your judgement, \\p."
+msgstr "Eu...\\> confio no seu julgamento, \\p."
+

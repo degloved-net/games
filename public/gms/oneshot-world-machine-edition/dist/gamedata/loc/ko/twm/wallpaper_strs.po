@@ -1,0 +1,72 @@
+msgid "default=The World Machine"
+msgstr "세상 기계"
+
+msgid "barrens=Barrens Craters"
+msgstr "불모지 분화구"
+
+msgid "glen=Glen Shoreline"
+msgstr "협곡 물가"
+
+msgid "refuge=Refuge Cityscape"
+msgstr "난민 지구 도시 경관"
+
+msgid "niko=Messiah"
+msgstr "구원자"
+
+msgid "title=My Burden is Light"
+msgstr "나의 짐은 빛"
+
+msgid "planet=Asteroid"
+msgstr "소행성"
+
+msgid "black=Blank"
+msgstr "공백"
+
+msgid "lamp=Outpost"
+msgstr "변경 지역"
+
+msgid "factory=Factory"
+msgstr "공장"
+
+msgid "navigate=Navigate"
+msgstr "항해"
+
+msgid "courtyard=Courtyard"
+msgstr "마당"
+
+msgid "ruins=Calamus and Alula"
+msgstr "칼라무스와 알룰라"
+
+msgid "catwalks=Catwalks"
+msgstr "통로"
+
+msgid "lamplighter=Lamplighter"
+msgstr "점등원"
+
+msgid "cafe=Café"
+msgstr "카페"
+
+msgid "library=Library Stroll"
+msgstr "도서관 산책"
+
+msgid "secret=Secret RAM Club"
+msgstr "비밀 양 동호회"
+
+msgid "tower=Tower"
+msgstr "탑"
+
+msgid "plant=Maize"
+msgstr "메이즈"
+
+msgid "minecart=Prophets"
+msgstr "예언"
+
+msgid "siblings=Memory"
+msgstr "추억"
+
+msgid "world_machine=Reflection"
+msgstr "투영"
+
+msgid "from_niko=From Niko"
+msgstr "니코로부터"
+

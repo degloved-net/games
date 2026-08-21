@@ -1,0 +1,36 @@
+msgid "@niko \\p?\\>\\n.\\..\\..What happened?\\>\\nIt's very dark in here..."
+msgstr "@niko \\p?\\>\\n.\\..\\..Что произошло?\\>\\nТут так темно..."
+
+msgid "@niko_speak ...Oh!\\>\\nI can see a light at the end of this passage!"
+msgstr "@niko_speak Ой!\\>\\nЯ вижу свет в конце этого прохода!"
+
+msgid "@niko I think I hear a voice too..."
+msgstr "@niko Кажется, я даже слышу голос..."
+
+msgid "@niko_surprised Mama?\\>\\nI can hear her calling me!"
+msgstr "@niko_surprised Мама?\\>\\nЯ слышу, как она меня зовёт!"
+
+msgid "@niko_speak All I need to do is pass through this wall...\\>\\nI'll finally be home again."
+msgstr "@niko_speak Мне только нужно пройти через эту стену...\\>\\nЯ снова буду дома."
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ..."
+
+msgid "@niko Ah, \\p,\\nI guess..."
+msgstr "@niko Ах, \\p,\\nя думаю..."
+
+msgid "@niko_eyeclosed2 I guess this is goodbye..."
+msgstr "@niko_eyeclosed2 Похоже, это прощание..."
+
+msgid "@niko2 I'm....\\.\\. glad...\\.\\. I got to meet you, \\p..."
+msgstr "@niko2 Я...\\.\\. очень рад...\\.\\. что познакомился с тобой, \\p..."
+
+msgid "@niko_sad Thank you for everything."
+msgstr "@niko_sad Спасибо тебе за всё."
+
+msgid "@credits Thanks for Playing!"
+msgstr "@credits Спасибо, что играли в игру!"
+
+msgid "FATAL ERROR: SAVIOR NOT FOUND. SHUTTING DOWN."
+msgstr "КРИТИЧЕСКАЯ ОШИБКА: СПАСИТЕЛЬ НЕ НАЙДЕН. ЗАВЕРШЕНИЕ РАБОТЫ."
+

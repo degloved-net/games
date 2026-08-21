@@ -1,0 +1,51 @@
+msgid "@niko It's a box of medical tools."
+msgstr "@niko 医療道具が入った箱だ。"
+
+msgid "@niko Most of them are broken or rusted beyond use, but..."
+msgstr "@niko ほとんどが壊れてるし、残りも\n錆びててまったく使えなさそうけど…"
+
+msgid "@niko_speak This plastic syringe seems to be okay."
+msgstr "@niko_speak このプラスチック注射器は大丈夫そう。"
+
+msgid "[HELLO, PERSON!]"
+msgstr "[どうモ、人間！]"
+
+msgid "[ARE YOU SEEKING ADMISSION INTO THE INFIRMARY?]"
+msgstr "[診療所ニ入りたいですカ？]"
+
+msgid "@niko No?"
+msgstr "@niko ううん？"
+
+msgid "[OH. CARRY ON, THEN.]"
+msgstr "[デハ、そのままどうゾ。]"
+
+msgid "[HELLO, PERSON OF ORGANIC MAKEUP!]"
+msgstr "[どうモ、有機体で組成された人間！]"
+
+msgid "[WELCOME TO THE INFIRMARY]"
+msgstr "[診療所ヘようこソ。]"
+
+msgid "[SCANNING FOR INJURIES...]"
+msgstr "[負傷ノ数をスキャンしていまス…]"
+
+msgid "[...]"
+msgstr "[…]"
+
+msgid "@niko Um..."
+msgstr "@niko あの…"
+
+msgid "[SCAN COMPLETE]"
+msgstr "[スキャン完了。]"
+
+msgid "[INJURIES DETECTED: NONE]"
+msgstr "[検出された負傷: ナシ]"
+
+msgid "[TREATMENT REQUIRED: NONE]"
+msgstr "[必要な治療: ナシ]"
+
+msgid "[YOU ARE GOOD TO GO.]"
+msgstr "[お大事ニ。]"
+
+msgid "@niko Er... thanks?"
+msgstr "@niko えっと…ありがとう。"
+

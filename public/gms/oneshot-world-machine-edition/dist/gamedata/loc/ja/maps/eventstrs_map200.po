@@ -1,0 +1,171 @@
+msgid "My mommy is making food for everyone!"
+msgstr "ママがね、みんなのごはんを作ってるの！"
+
+msgid "I want to help her catch fish, but I'm not a grownup yet!"
+msgstr "わたしもお魚を捕まえるお手伝いしたい\nけど、まだ大人じゃないから！"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko 水平線が青く光ってる。"
+
+msgid "Hm..."
+msgstr "うーん…"
+
+msgid "Nothing's biting..."
+msgstr "何も釣れねえな…"
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "やあ、私はアクセスできないNPCです。"
+
+msgid "*sniff*"
+msgstr "ぐすん…"
+
+msgid "@niko Are you okay?"
+msgstr "@niko 大丈夫？"
+
+msgid "I WANNA GO BACK HOME!!!"
+msgstr "おうちに帰りたい！！！"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko 壺の底に、魚がちょっぴりいるよ。"
+
+msgid "This island has more moss covering than our village did."
+msgstr "この島には、俺たちの村よりも\nコケが多く生えてる。"
+
+msgid "Would've been nice to build a settlement here."
+msgstr "ここを開拓していたら、最高だったろうな。"
+
+msgid "...too late now, I guess."
+msgstr "…たぶん、もう手遅れだけど。"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱいだ。"
+
+msgid "The land fragmentation is happening faster and faster now..."
+msgstr "大地の断片化がますます加速してる…"
+
+msgid "But...\\.\\. looks like the vines are slowing it down..."
+msgstr "でも…\\.\\.ツタがそれを食い止めているように見える…"
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak 魚の頭がたくさん！"
+
+msgid "Our village was ransacked by the squares not long ago..."
+msgstr "俺たちの村は、少し前に\n四角形でメチャクチャになっちまった…"
+
+msgid "Most of us made it out alive, but we can't really go back anymore."
+msgstr "ほとんどの村人は助かったが、もうあそこに\n戻ることはできない。"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 え…"
+
+msgid "Squares are bad news, man."
+msgstr "四角形なんてクソ食らえだよ、本当に。"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko 小さな、乾いた魚でいっぱい。"
+
+msgid "Sigh..."
+msgstr "はぁ…"
+
+msgid "We won't last long now, will we?"
+msgstr "ボクたちも、もう長くはもたないんだろ？"
+
+msgid "The sun can't fix the squares..."
+msgstr "太陽じゃ、四角形は直せない…"
+
+msgid "The sun can't restore the land..."
+msgstr "太陽なんかじゃ、大地は修復できない…"
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak カニ殻みたい。"
+
+msgid "@magpie By the way... if you ever see a big guy with goggles and a cool helmet.."
+msgstr "@magpie そういや…もし、ゴーグルとクールなヘルメット\n着けてる大男を見かけたら…"
+
+msgid "@magpie_smile Tell him the trader in the Glen said hi!"
+msgstr "@magpie_smile 峡谷の商人がよろしく言ってたって\n伝えておいてくれ！"
+
+msgid "@magpie Also ask him if he has any more music boxes for trading."
+msgstr "@magpie あと、物々交換できるオルゴールを\nもっと持ってないか、ともな！"
+
+msgid "@niko Will do!"
+msgstr "@niko 分かった！"
+
+msgid "@niko_speak Oh! You're the trader guy!"
+msgstr "@niko_speak あっ！商人さんだよね！"
+
+msgid "@magpie_smile Sure am!\\>\\n\\@magpie You here to trade?"
+msgstr "@magpie_smile そうさ！\\>\\n\\@magpie 物々交換しにきたのか？"
+
+msgid "@magpie_hm 'Cause if you are, then I got bad news for ya."
+msgstr "@magpie_hm もしそうなら、ちょっと悪い知らせがあってな。"
+
+msgid "@magpie_hm A lot of my stuff is back at my cart, which was sadly abandoned when I was running for my life."
+msgstr "@magpie_hm おれの商品、\nみーんな荷車に入れてあるんだけどさ、\n残念なことに、命がけで逃げる時に\nみーんな置いてきちまった。"
+
+msgid "@magpie So my collection is...\\.\\. very limited right now."
+msgstr "@magpie だもんで、いまの品揃えは…\\.\\. かなり限られてる。"
+
+msgid "@magpie_smile Managed to grab some of my favorite things before I left, though!"
+msgstr "@magpie_smile お気に入りのモンは、何とか\n持ってこれたんだけどな！"
+
+msgid "@niko_speak Oh! Uh..."
+msgstr "@niko_speak そうなんだ！うーん…"
+
+msgid "@niko Do you have anything like...\\.\\. gears?"
+msgstr "@niko あの、歯車みたいなものって…\\.\\. ある？"
+
+msgid "@magpie_oh Gears?\\.\\. Like... the metal spinny things? \\>\\@magpie I don't think I have anything like that..."
+msgstr "@magpie_oh 歯車？\\.\\. あの…鉄でできてて、丸っこいやつか？\n\\>\\@magpie うーん、たぶんないと思うけど…"
+
+msgid "@magpie_oh Wait."
+msgstr "@magpie_oh 待てよ。"
+
+msgid "@magpie I do have this box thing that you can wind up and play a song."
+msgstr "@magpie ネジを巻いて、音楽を鳴らす箱ならあるぜ。"
+
+msgid "@niko_speak That's a music box!"
+msgstr "@niko_speak オルゴールだ！"
+
+msgid "@magpie_smile Yeah!\\n\\>\\@magpie I bet there's lots of little metal bits in there!"
+msgstr "@magpie_smile そう、それ！\\n\\>\\@magpie その中に、金属の部品なら\n山ほど入ってるはずだぜ！"
+
+msgid "@niko_speak Oh! That might work!"
+msgstr "@niko_speak わあ！それならいけるかも！"
+
+msgid "@magpie_hm But I'm not sure if I want to trade it away...\\>\\nIt's one of my favorite things!"
+msgstr "@magpie_hm でも、これを手放すのかあ…\\>\\nおれのお気に入りなんだよな！"
+
+msgid "@niko_eyeclosed Aw..."
+msgstr "@niko_eyeclosed うう…"
+
+msgid "@magpie_hm ..."
+msgstr "@magpie_hm …"
+
+msgid "@magpie_oh Oh, what am I saying!\\>\\n\\@magpie_smile You're the savior!"
+msgstr "@magpie_oh いやいや、おれは何を言ってるんだ！\\>\\n\\@magpie_smile あんたは救世主じゃないか！"
+
+msgid "@magpie_hm Things have been getting bad around here lately."
+msgstr "@magpie_hm 最近、ここじゃロクなことが起きない。"
+
+msgid "@magpie_smile If I don't help you, I might not even be around much longer..."
+msgstr "@magpie_smile ここであんたを助けなかったら、寿命が\nさらに縮まりそうだからな…"
+
+msgid "@magpie You need this to save the world, right?\\>\\nTake it."
+msgstr "@magpie 世界を救うために必要なんだろ？\\>\\nほら、持っていきな。"
+
+msgid "@niko_speak Ah! Thank you!"
+msgstr "@niko_speak わあ！ありがとう！"
+
+msgid "The vines are everywhere!"
+msgstr "そこらじゅう、ツタだらけ！"
+
+msgid "The plant lady must be protecting us!"
+msgstr "植物のお姉さんが守ってくれてるんだね！"
+
+msgid "@niko_upset ...yeah..."
+msgstr "@niko_upset …うん…"
+
+msgid "@shepherd What a day..."
+msgstr "@shepherd 何という日だ…"
+

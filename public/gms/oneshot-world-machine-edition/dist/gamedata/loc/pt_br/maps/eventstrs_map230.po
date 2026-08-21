@@ -1,0 +1,39 @@
+msgid "@kip_pout He...."
+msgstr "@kip_pout Ele...."
+
+msgid "@kip_sad I...\\.\\. couldn't stop him..."
+msgstr "@kip_sad Eu...\\.\\. não consegui impedi-lo..."
+
+msgid "@kip_sigh *Sigh*"
+msgstr "@kip_sigh Ah..."
+
+msgid "@niko ...\\.\\.Miss?"
+msgstr "@niko ... \\.\\.Moça?"
+
+msgid "@kip_huh Messiah!"
+msgstr "@kip_huh Messias!"
+
+msgid "@kip_sigh Oh... you came at an awful time."
+msgstr "@kip_sigh Ah... Você chegou numa péssima hora."
+
+msgid "@kip_pout Come on, we have to get out of here."
+msgstr "@kip_pout Vamos, precisamos dar o fora daqui."
+
+msgid "@niko2 Where...\\.\\. to?"
+msgstr "@niko2 Mas... \\.\\.para onde?"
+
+msgid "@kip_sigh Where everyone else is right now."
+msgstr "@kip_sigh Para onde todos estão agora."
+
+msgid "@kip_worry Please! \\.\\.You musn't!!!"
+msgstr "@kip_worry Por favor! \\.\\.Não faça isso!"
+
+msgid "@kip_worry The labs could collapse any moment now!!!"
+msgstr "@kip_worry Os laboratórios podem desmoronar a qualquer momento!"
+
+msgid "@cedric_upset Let go of me!!!"
+msgstr "@cedric_upset Me largue!"
+
+msgid "@niko2 ...\\.\\.Cedric?"
+msgstr "@niko2 ...\\.\\.Cedric?"
+
